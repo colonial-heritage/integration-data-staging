@@ -1,0 +1,18 @@
+###############################
+# Information about datasets. Only use this for registering datasets that aren't in the NDE Dataset Register yet
+# Note Camiel: not sure if this file is required for the data staging.
+###############################
+
+@prefix schema: <https://schema.org/> .
+
+<https://data.colonialcollections.nl/Bronbeek/collections>
+  a schema:Dataset ;
+  schema:additionalType <http://vocab.getty.edu/aat/300043196> ; # Tableware
+  schema:name "Bronbeek Collections" ;
+  schema:license <https://creativecommons.org/licenses/by-sa/3.0/> ;
+  schema:publisher <https://www.niod.nl/> ;
+  schema:description "Bronbeek dataset for the colonial collections datahub" ;
+  schema:keywords "Provenance research", "colonial collections" ;
+  schema:dateModified "2025-08-21"^^schema:Date ;
+  schema:spatialCoverage <https://hdl.handle.net/20.500.11840/termmaster10058074> ;
+  schema:distribution <https://data.colonialcollections.nl/Bronbeek/collections/> .
