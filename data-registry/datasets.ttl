@@ -10,7 +10,7 @@
   schema:additionalType <http://vocab.getty.edu/aat/300043196> ; # Tableware
   schema:name "Bronbeek Collections" ;
   schema:license <https://creativecommons.org/licenses/by-sa/3.0/> ;
-  schema:publisher <https://www.niod.nl/> ;
+  schema:publisher <https://data.colonialcollections.nl/Bronbeek> ;
   schema:description "Bronbeek dataset for the colonial collections datahub" ;
   schema:keywords "Provenance research", "colonial collections" ;
   schema:dateModified "2025-08-21"^^schema:Date ;
