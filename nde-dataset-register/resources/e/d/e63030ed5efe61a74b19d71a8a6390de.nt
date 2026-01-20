@@ -32,9 +32,9 @@
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504599603452 .
-_:b0_bn1152921504599603452 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.trig.gz> .
-_:b0_bn1152921504599603452 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/trig> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504597617379 .
+_:b0_bn1152921504597617379 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.ttl.gz> .
+_:b0_bn1152921504597617379 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/text/turtle> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -45,9 +45,9 @@ _:b0_bn1152921504599603452 <https://schema.org/encodingFormat> <https://www.iana
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504599603453 .
-_:b0_bn1152921504599603453 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nt.gz> .
-_:b0_bn1152921504599603453 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-triples> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504597617378 .
+_:b0_bn1152921504597617378 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nq.gz> .
+_:b0_bn1152921504597617378 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-quads> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -58,9 +58,9 @@ _:b0_bn1152921504599603453 <https://schema.org/encodingFormat> <https://www.iana
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504599603454 .
-_:b0_bn1152921504599603454 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nq.gz> .
-_:b0_bn1152921504599603454 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-quads> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504597617377 .
+_:b0_bn1152921504597617377 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nt.gz> .
+_:b0_bn1152921504597617377 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-triples> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -71,9 +71,9 @@ _:b0_bn1152921504599603454 <https://schema.org/encodingFormat> <https://www.iana
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504599603455 .
-_:b0_bn1152921504599603455 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.ttl.gz> .
-_:b0_bn1152921504599603455 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/text/turtle> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504597617376 .
+_:b0_bn1152921504597617376 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.trig.gz> .
+_:b0_bn1152921504597617376 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/trig> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -84,8 +84,8 @@ _:b0_bn1152921504599603455 <https://schema.org/encodingFormat> <https://www.iana
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504599603456 .
-_:b0_bn1152921504599603456 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.jsonld.gz> .
-_:b0_bn1152921504599603456 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1152921504597617380 .
+_:b0_bn1152921504597617380 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.jsonld.gz> .
+_:b0_bn1152921504597617380 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
