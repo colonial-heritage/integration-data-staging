@@ -5,7 +5,7 @@
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/sparql> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/sparql> <https://schema.org/contentUrl> <https://api.linkeddata.cultureelerfgoed.nl/datasets/rce/colonialobjects/sparql> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/sparql> <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/sparql-results+json> .
@@ -18,7 +18,7 @@
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/services/colonialobjects> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/services/colonialobjects> <https://schema.org/contentUrl> <https://api.linkeddata.cultureelerfgoed.nl/datasets/rce/colonialobjects/services/colonialobjects/sparql> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/services/colonialobjects> <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/sparql-results+json> .
@@ -31,10 +31,10 @@
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn525929028495101649 .
-_:b0_bn525929028495101649 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.jsonld.gz> .
-_:b0_bn525929028495101649 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn312588243327064880 .
+_:b0_bn312588243327064880 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.ttl.gz> .
+_:b0_bn312588243327064880 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/text/turtle> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)"@nl .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -44,10 +44,10 @@ _:b0_bn525929028495101649 <https://schema.org/encodingFormat> <https://www.iana.
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn634313291402523028 .
-_:b0_bn634313291402523028 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nq.gz> .
-_:b0_bn634313291402523028 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-quads> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn312588243327064881 .
+_:b0_bn312588243327064881 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.jsonld.gz> .
+_:b0_bn312588243327064881 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)"@nl .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -57,10 +57,10 @@ _:b0_bn634313291402523028 <https://schema.org/encodingFormat> <https://www.iana.
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn624493637630653234 .
-_:b0_bn624493637630653234 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.trig.gz> .
-_:b0_bn624493637630653234 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/trig> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn312588243327064879 .
+_:b0_bn312588243327064879 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nq.gz> .
+_:b0_bn312588243327064879 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-quads> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)"@nl .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -70,10 +70,10 @@ _:b0_bn624493637630653234 <https://schema.org/encodingFormat> <https://www.iana.
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn903561194369962948 .
-_:b0_bn903561194369962948 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nt.gz> .
-_:b0_bn903561194369962948 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-triples> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn312588243327064878 .
+_:b0_bn312588243327064878 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.nt.gz> .
+_:b0_bn312588243327064878 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-triples> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)"@nl .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -83,9 +83,9 @@ _:b0_bn903561194369962948 <https://schema.org/encodingFormat> <https://www.iana.
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/description> "This dataset is published by a TriplyETL pipeline: [internal link](https://git.triply.cc/customers/rce/colonial-objects/-/pipelines)" .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/dateModified> "2025-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/datePublished> "2023-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> "iso639-1:en" .
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn1042177085780648295 .
-_:b0_bn1042177085780648295 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.ttl.gz> .
-_:b0_bn1042177085780648295 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/text/turtle> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> <https://schema.org/distribution> _:b0_bn312588243327064877 .
+_:b0_bn312588243327064877 <https://schema.org/contentUrl> <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/download.trig.gz> .
+_:b0_bn312588243327064877 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/trig> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://linkeddata.cultureelerfgoed.nl/rce> <https://schema.org/name> "Rijksdienst voor het Cultureel Erfgoed (RCE)"@nl .
