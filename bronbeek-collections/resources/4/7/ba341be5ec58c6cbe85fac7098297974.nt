@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-12" .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#name> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit. \r\n27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#inscription> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f4467b9ca37dde3ceff1378971f2e301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f4467b9ca37dde3ceff1378971f2e301> <https://colonialcollections.nl/schema#identifier> "2015/10/02-2-7" .
 <https://n2t.net/ark:/27023/f4467b9ca37dde3ceff1378971f2e301> <https://colonialcollections.nl/schema#name> "Map foto's van 'J.C.A. Christen Oud kapitein der Infanterie Oost Indisch Leger 's-Gravenhage\"" .
@@ -6,6 +14,13 @@
 <https://n2t.net/ark:/27023/f4467b9ca37dde3ceff1378971f2e301> <https://colonialcollections.nl/schema#creator> "Firma J.M.J. van Wielik" .
 <https://n2t.net/ark:/27023/f4467b9ca37dde3ceff1378971f2e301> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f4467b9ca37dde3ceff1378971f2e301> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/17" .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Keuken, met broodsnijmachine." .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Keuken, met broodsnijmachine." .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <https://colonialcollections.nl/schema#identifier> "nf%201473-8" .
 <https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <https://colonialcollections.nl/schema#name> "Gezicht op de vlakte van Lèlès (Preanger), Java" .
@@ -13,6 +28,7 @@
 <https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3fdf3b2af734eab8fb1c755828346ec> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/f403dfe5d2474ac5363b5c65bb36c92a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f403dfe5d2474ac5363b5c65bb36c92a> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/17" .
 <https://n2t.net/ark:/27023/f403dfe5d2474ac5363b5c65bb36c92a> <https://colonialcollections.nl/schema#name> "Met man en macht wordt door de Genie gewerkt aan het herstel van de verkeersweg Solok Sawah Loento (Sumatra)" .
@@ -24,9 +40,17 @@
 <https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/51" .
 <https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Protestantsche kerk, Malang" .
 <https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Protestantsche kerk, Malang." .
-<https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#creator> "Neville Keasberry" .
+<https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#creator> "Chemicaliën Handel Malang Mevr: C. Bocage" .
 <https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f41d86d4a67fcbeb5326aab8f6b60e50> <https://colonialcollections.nl/schema#creator> "Neville Keasberry" .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#identifier> "2013/03/11-3" .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#name> "'Penvrienden' december 1949" .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#description> "Kerstnummer van de 'Penvrienden'. December 1949. Uitgave van C.N.O. Club \"Nederland-Overzee\". Blad voor en van het thuisfront. Gedrukt  een vel A3 en in tweeën gevouwen." .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#creator> "Club 'Nederland-Overzee'" .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f438297b38a6924d76ef954946b548f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f438297b38a6924d76ef954946b548f8> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-324-1" .
 <https://n2t.net/ark:/27023/f438297b38a6924d76ef954946b548f8> <https://colonialcollections.nl/schema#name> "Bush-jacket dagelijkse tenue Algemene Politie Nederlands Nieuw-Guinea" .
@@ -117,13 +141,6 @@
 <https://n2t.net/ark:/27023/f42eb22e0536e0c44405972087991106> <https://colonialcollections.nl/schema#inscription> "K.A.T.; Ter uwer verjaring Kees en Jaap" .
 <https://n2t.net/ark:/27023/f42eb22e0536e0c44405972087991106> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f42eb22e0536e0c44405972087991106> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-12" .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#name> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit. \r\n27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#inscription> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f413905af3b905769857ec50ae19bbba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f3fb35c81ef1a45ee0a1fbee71fd580d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f3fb35c81ef1a45ee0a1fbee71fd580d> <https://colonialcollections.nl/schema#identifier> "2008/04/23-2-10" .
 <https://n2t.net/ark:/27023/f3fb35c81ef1a45ee0a1fbee71fd580d> <https://colonialcollections.nl/schema#name> "Mouwembleem, metaal, NIL 1945-1946 \"Cordesius&Zonen Batavia\"" .
@@ -532,18 +549,6 @@
 <https://n2t.net/ark:/27023/f4467ea44c601c90230c03a6c0658dd9> <https://colonialcollections.nl/schema#description> "serie van 17 foto's; reproducties" .
 <https://n2t.net/ark:/27023/f4467ea44c601c90230c03a6c0658dd9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f4467ea44c601c90230c03a6c0658dd9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/17" .
-<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Keuken, met broodsnijmachine." .
-<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Keuken, met broodsnijmachine." .
-<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f3fc11c2fc30ebc32d8ba2eb2863e104> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#identifier> "2013/03/11-3" .
-<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#name> "'Penvrienden' december 1949" .
-<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#description> "Kerstnummer van de 'Penvrienden'. December 1949. Uitgave van C.N.O. Club \"Nederland-Overzee\". Blad voor en van het thuisfront. Gedrukt  een vel A3 en in tweeën gevouwen." .
-<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f42b6ad4abc0898e94419f06fa3b3609> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f40d14038c5641325cc84cec4ecf930f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f40d14038c5641325cc84cec4ecf930f> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42967" .
 <https://n2t.net/ark:/27023/f40d14038c5641325cc84cec4ecf930f> <https://colonialcollections.nl/schema#description> "Gevlochten tas" .

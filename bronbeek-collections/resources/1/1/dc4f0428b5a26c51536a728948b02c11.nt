@@ -1,10 +1,18 @@
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#identifier> "2006/00-42-717" .
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van een Papoea met pijl en boog en peniskoker, Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Prentbriefkaart met foto van een Papoea met pijl en boog en peniskoker, Nieuw-Guinea." .
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#creator> "Kwa Hong Lok, Manokwari" .
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#identifier> "nf%20419-45" .
 <https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#name> "Haven te Sabang" .
 <https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#description> "Haven te Sabang\r\ngedeelde achterkant, op az vermeld P. Alberti Sabang" .
-<https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
 <https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/985c99965ad5ed09e932d2ffe2eab334> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/985cc43499a47b0076ef917cf8bd2ef8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/985cc43499a47b0076ef917cf8bd2ef8> <https://colonialcollections.nl/schema#identifier> "nf%20836-36-2" .
 <https://n2t.net/ark:/27023/985cc43499a47b0076ef917cf8bd2ef8> <https://colonialcollections.nl/schema#name> "Hindoe tempel" .
@@ -540,12 +548,6 @@
 <https://n2t.net/ark:/27023/9895580e82067eea5dc3d44480607b5f> <https://colonialcollections.nl/schema#description> "Speld, metaal, gekleurd, parabrevet met actiesprongen (gouden krans)." .
 <https://n2t.net/ark:/27023/9895580e82067eea5dc3d44480607b5f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9895580e82067eea5dc3d44480607b5f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#identifier> "2006/00-42-717" .
-<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van een Papoea met pijl en boog en peniskoker, Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Prentbriefkaart met foto van een Papoea met pijl en boog en peniskoker, Nieuw-Guinea." .
-<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/984fada7580008601c02bac3c30d0bb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9854dbbc6103a01997e2a0adc1c8ca05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9854dbbc6103a01997e2a0adc1c8ca05> <https://colonialcollections.nl/schema#identifier> "nf%20840-24-8" .
 <https://n2t.net/ark:/27023/9854dbbc6103a01997e2a0adc1c8ca05> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Op de bumper! Aloer Djamboe Juni 1936\"\r\n\r\nOpname toont mw Thies, in het wit met dito hoed, zittend op de" .

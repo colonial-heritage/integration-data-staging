@@ -1,3 +1,28 @@
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-117" .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#name> "Carte de visite:  Pastoor Crone (Groningen)" .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Pastoor Crone (Groningen)" .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#inscription> "Pastoor Crone (Groningen)" .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#creator> "Von Kolkow & Co." .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#identifier> "1991/07/22-3-11" .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Vrolijk Kerstfeest Gelukkig Nieuwjaar.\r\nKaart gedrukt door Visser bv, uitgegeven door I.A.G.te Bandoeng naar een tekening van Meekes.\r\n(Blanco)" .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#inscription> "Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#creator> "Meekes" .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#creator> "I.A.G., Bandoeng" .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#identifier> "2009/04/08-1-22/1" .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#name> "Zwart-wit foto van een landschap (Karbouwengat?)" .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#description> "Foto. Landschap, karbouwengat (?)" .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#inscription> "No.MB8/4711; EE-13" .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#creator> "Java Photo Studio Jan B. van der Kolk" .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/222be21923545caceb054a77b9d11740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/222be21923545caceb054a77b9d11740> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-35" .
 <https://n2t.net/ark:/27023/222be21923545caceb054a77b9d11740> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -19,6 +44,13 @@
 <https://n2t.net/ark:/27023/224ae1c98908e865d16e594c41615c9b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/224ae1c98908e865d16e594c41615c9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/224ae1c98908e865d16e594c41615c9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/220" .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten 1859-1946." .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#creator> "J.J. de Haan" .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2212485372029764fc79b4caf2f3b6f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2212485372029764fc79b4caf2f3b6f1> <https://colonialcollections.nl/schema#identifier> "nf%20833-76" .
 <https://n2t.net/ark:/27023/2212485372029764fc79b4caf2f3b6f1> <https://colonialcollections.nl/schema#description> "Kleurenopname, buiten genomen\r\n\r\nOp framerand is een cijfer 6 met voorvoegsel dup te zien, maar onduidelijk is waar de beschrijving op de lijst staat.\r\n\r\nOpname laat en twee-tal personen zien die bij een berg geraspt(?) spul staan. In een grote mand naast" .
@@ -81,27 +113,6 @@
 <https://n2t.net/ark:/27023/225f94b224737c68a5aa61e00a46590a> <https://colonialcollections.nl/schema#inscription> "Soerabaia 6 Jan. 1930" .
 <https://n2t.net/ark:/27023/225f94b224737c68a5aa61e00a46590a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/225f94b224737c68a5aa61e00a46590a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-117" .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#name> "Carte de visite:  Pastoor Crone (Groningen)" .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Pastoor Crone (Groningen)" .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#inscription> "Pastoor Crone (Groningen)" .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2235c4d8e1e793959b243e2cb886bcd9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#identifier> "1991/07/22-3-11" .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Vrolijk Kerstfeest Gelukkig Nieuwjaar.\r\nKaart gedrukt door Visser bv, uitgegeven door I.A.G.te Bandoeng naar een tekening van Meekes.\r\n(Blanco)" .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#inscription> "Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2239689a90abac8fad58979e3b838cfb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#identifier> "2009/04/08-1-22/1" .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#name> "Zwart-wit foto van een landschap (Karbouwengat?)" .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#description> "Foto. Landschap, karbouwengat (?)" .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#inscription> "No.MB8/4711; EE-13" .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/22484031a121b45234fa664a5d1213fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/220d9d87d725b469a7a2769ffe61c08e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/220d9d87d725b469a7a2769ffe61c08e> <https://colonialcollections.nl/schema#identifier> "2011/10/08-1-5/117" .
 <https://n2t.net/ark:/27023/220d9d87d725b469a7a2769ffe61c08e> <https://colonialcollections.nl/schema#name> "Foto diensttijd 1946-1950 Nederlands-Indië" .
@@ -522,12 +533,6 @@
 <https://n2t.net/ark:/27023/225fcd5f66eaadb09fe0edecdcf9d0c2> <https://colonialcollections.nl/schema#description> "Eén schouderembleem, metaal, messing, \"VK-KNIL\"." .
 <https://n2t.net/ark:/27023/225fcd5f66eaadb09fe0edecdcf9d0c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/225fcd5f66eaadb09fe0edecdcf9d0c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/220" .
-<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten 1859-1946." .
-<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/225974fc731c679edb78d26aeea728e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2211ff255136133636946b7954ee6d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2211ff255136133636946b7954ee6d4c> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-16" .
 <https://n2t.net/ark:/27023/2211ff255136133636946b7954ee6d4c> <https://colonialcollections.nl/schema#description> "Foto op karton." .

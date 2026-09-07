@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#identifier> "1972/06/06-1-2/12" .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#name> "Mobiele Colonne, op Marsch" .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#description> "Prent.\r\nAfkomstig uit J. Olivier Jz (voormaals secretaris te Palembang), Tafereelen en Merkwaardigheden uit Oost-Indië, Amsterdam bij G.J.A. Beijerinck 1836. 2 delen.\r\n1 pagina met 1 prent.\r\ngenummerd 37.\r\n\"Mobiele Colonne, op Marsch.\"\r\n\"I.W.Kaiser del. e" .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#inscription> "\"Mobiele Colonne, op Marsch.\"" .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#creator> "Johann Wilhelm (Hork) Kaiser" .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/25682def1e706000987a52c6a772d39f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25682def1e706000987a52c6a772d39f> <https://colonialcollections.nl/schema#identifier> "2011/10/08-1-1" .
 <https://n2t.net/ark:/27023/25682def1e706000987a52c6a772d39f> <https://colonialcollections.nl/schema#name> "Ereteken voor Orde en Vrede" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/25682def1e706000987a52c6a772d39f> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
 <https://n2t.net/ark:/27023/25682def1e706000987a52c6a772d39f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/25682def1e706000987a52c6a772d39f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-17" .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali, Bondowoso" .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Bondowoso, restricted, second edition, sheet 17, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#creator> "653rd ENGR.BN U.S.A.F." .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <https://colonialcollections.nl/schema#identifier> "nf%201473-19" .
 <https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <https://colonialcollections.nl/schema#name> "Gezicht op de Singgalang met Kota Toea aan de voet van de berg" .
@@ -12,6 +27,7 @@
 <https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/257a65cb8f1a04b7e612b0d4e4912b02> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/2591484f818e5adaae1d2770e6421104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2591484f818e5adaae1d2770e6421104> <https://colonialcollections.nl/schema#identifier> "2003/04/07-2-4" .
 <https://n2t.net/ark:/27023/2591484f818e5adaae1d2770e6421104> <https://colonialcollections.nl/schema#name> "Foto KTOMM Bronbeek 19 februari 2003" .
@@ -26,6 +42,13 @@
 <https://n2t.net/ark:/27023/259fe75d25d41e43db2629671d8829ed> <https://colonialcollections.nl/schema#creator> "Stichting Werkplaats tot Herstel van Antieke Textiel" .
 <https://n2t.net/ark:/27023/259fe75d25d41e43db2629671d8829ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/259fe75d25d41e43db2629671d8829ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#identifier> "1992/11/11-5" .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-kolonel KNIL J.J.J.M. Oosterman" .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#description> "Foto, in lijst.  Luitenant-kolonel J.J.J.M. Oosterman. In zeer fraaie lijst.\r\n2002: Uitgelijst.\r\nZwart-wit Foto in passepartout.\r\nOp achterzijde een label: \"J.C. Reesinck, Photograaf Berkelkade, B.300. Zutphen.\"\r\nBorststuk naar rechts gekeerd. In uniform " .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#creator> "J.C. Reesinck Photograaf, Zutphen" .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/25adcf4caa17acb8506afbd34ce32547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25adcf4caa17acb8506afbd34ce32547> <https://colonialcollections.nl/schema#identifier> "nf%20605-38" .
 <https://n2t.net/ark:/27023/25adcf4caa17acb8506afbd34ce32547> <https://colonialcollections.nl/schema#name> "Diepe ingraving bij kampong Tengah" .
@@ -96,13 +119,6 @@
 <https://n2t.net/ark:/27023/257140419913ea7aa53ded7142ec1431> <https://colonialcollections.nl/schema#inscription> "1e Pr." .
 <https://n2t.net/ark:/27023/257140419913ea7aa53ded7142ec1431> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/257140419913ea7aa53ded7142ec1431> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#identifier> "1972/06/06-1-2/12" .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#name> "Mobiele Colonne, op Marsch" .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#description> "Prent.\r\nAfkomstig uit J. Olivier Jz (voormaals secretaris te Palembang), Tafereelen en Merkwaardigheden uit Oost-Indië, Amsterdam bij G.J.A. Beijerinck 1836. 2 delen.\r\n1 pagina met 1 prent.\r\ngenummerd 37.\r\n\"Mobiele Colonne, op Marsch.\"\r\n\"I.W.Kaiser del. e" .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#inscription> "\"Mobiele Colonne, op Marsch.\"" .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/25779be2a9ff5eb2b9cc2f6e5d9ed01e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/25669c006c44ff70b6b2696ebef75682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25669c006c44ff70b6b2696ebef75682> <https://colonialcollections.nl/schema#identifier> "2008/11/25-1-7/7" .
 <https://n2t.net/ark:/27023/25669c006c44ff70b6b2696ebef75682> <https://colonialcollections.nl/schema#name> "Vouwbeen van mica, uit Massagraf Lamakantakan, Balikpapan" .
@@ -493,18 +509,6 @@
 <https://n2t.net/ark:/27023/25b48662a7ac871469a5ba87c37a74fc> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij-, onderschrift.\r\n\r\nFoto van een twee militairen, Gerrit Oskam (rechts) en Wim van Leeuwen, zittend op een (amfibisch) militair voertuig, \"de kikker\" genaamd, te Prapat. " .
 <https://n2t.net/ark:/27023/25b48662a7ac871469a5ba87c37a74fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/25b48662a7ac871469a5ba87c37a74fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-17" .
-<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali, Bondowoso" .
-<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Bondowoso, restricted, second edition, sheet 17, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
-<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/256cfbb598160686836186036278e8a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#identifier> "1992/11/11-5" .
-<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-kolonel KNIL J.J.J.M. Oosterman" .
-<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#description> "Foto, in lijst.  Luitenant-kolonel J.J.J.M. Oosterman. In zeer fraaie lijst.\r\n2002: Uitgelijst.\r\nZwart-wit Foto in passepartout.\r\nOp achterzijde een label: \"J.C. Reesinck, Photograaf Berkelkade, B.300. Zutphen.\"\r\nBorststuk naar rechts gekeerd. In uniform " .
-<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/25a7c35e18c70f8a88463e654cd675a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/256dba92eaac2fde5fb4b3c178012563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/256dba92eaac2fde5fb4b3c178012563> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43767" .
 <https://n2t.net/ark:/27023/256dba92eaac2fde5fb4b3c178012563> <https://colonialcollections.nl/schema#description> "Zilveren potje" .

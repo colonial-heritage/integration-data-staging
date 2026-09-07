@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/11e9998d42584ed30babb4425410989d> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/11e9998d42584ed30babb4425410989d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/11e9998d42584ed30babb4425410989d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/15" .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#name> "Plaat 15 Sekoeölön" .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 15 Sekoeölön" .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#inscription> "Plaat 15 Sekoeölön" .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/11ddbed4b5cac105f22fdef792b0969a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/11ddbed4b5cac105f22fdef792b0969a> <https://colonialcollections.nl/schema#identifier> "nf%201311-8" .
 <https://n2t.net/ark:/27023/11ddbed4b5cac105f22fdef792b0969a> <https://colonialcollections.nl/schema#name> "In de Preanger" .
@@ -13,13 +21,22 @@
 <https://n2t.net/ark:/27023/11ddbed4b5cac105f22fdef792b0969a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/11ddbed4b5cac105f22fdef792b0969a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/11ddbed4b5cac105f22fdef792b0969a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#identifier> "nf%20701-19" .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#name> "De gamelan" .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#description> "De afbeelding toont een complete gamalan met de bespelers, opgesteld ergens in de kraton in Yogyakarta.\r\n\r\nbijschrift linksonder; 'De gamelan. Javanese Orchestre'\r\nbijschrift rechtsonder; 'Orchestre Javanais. Javanisches Orchester'" .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#identifier> "nf%201304-19" .
 <https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#name> "Doermagati" .
 <https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nDeze plaat behoort met anderen, allemaal losse platen, tot een boekwerk met het inventarisnummer N7221.\r\nNaast de platen bestaat dit boekwer" .
-<https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/11e5f45aeb7a9374d69298920de62c2b> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/11ea8b948765a14a2fc07b357dedeebe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/11ea8b948765a14a2fc07b357dedeebe> <https://colonialcollections.nl/schema#identifier> "nf%20686-18" .
 <https://n2t.net/ark:/27023/11ea8b948765a14a2fc07b357dedeebe> <https://colonialcollections.nl/schema#description> "Foto uit album S 4336, ongekarteld.\r\n\r\nnf 686-18 is een liggende landschapsfoto, opname met bijschrift ' meer Singkarak'\r\n\r\nKokospalmen." .
@@ -66,13 +83,6 @@
 <https://n2t.net/ark:/27023/12194252b52dd34d825a35e7909d07ff> <https://colonialcollections.nl/schema#inscription> "\"Koel toernooiveld voor \"contré\" en \"surcontré\"" .
 <https://n2t.net/ark:/27023/12194252b52dd34d825a35e7909d07ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/12194252b52dd34d825a35e7909d07ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/15" .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#name> "Plaat 15 Sekoeölön" .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 15 Sekoeölön" .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#inscription> "Plaat 15 Sekoeölön" .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/11f1e29462e5d50f992f9d46d0d191c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/11ddd4eaefacacd58fa851e334a8c9bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/11ddd4eaefacacd58fa851e334a8c9bc> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-20/37" .
 <https://n2t.net/ark:/27023/11ddd4eaefacacd58fa851e334a8c9bc> <https://colonialcollections.nl/schema#name> "Sportwedstrijden" .
@@ -529,12 +539,6 @@
 <https://n2t.net/ark:/27023/12210ab5bdbed3a6edb8bd02aac31cef> <https://colonialcollections.nl/schema#description> "Rangonderscheidingsteken, schouderbedekking onderluitenant Militair Geneeskundige Dienst voor ceremonieel tenue wit model 1947.\r\nSchouderbedekking van zwart laken met het metaal goudkleurig embleem van de Militair Geneeskundige Dienst (MGD) (oorlogsuitvoe" .
 <https://n2t.net/ark:/27023/12210ab5bdbed3a6edb8bd02aac31cef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/12210ab5bdbed3a6edb8bd02aac31cef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#identifier> "nf%20701-19" .
-<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#name> "De gamelan" .
-<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#description> "De afbeelding toont een complete gamalan met de bespelers, opgesteld ergens in de kraton in Yogyakarta.\r\n\r\nbijschrift linksonder; 'De gamelan. Javanese Orchestre'\r\nbijschrift rechtsonder; 'Orchestre Javanais. Javanisches Orchester'" .
-<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/11ddcabe4f4d7e28debaace8fb9b604c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/11de38461e978715af1ab8f027746889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/11de38461e978715af1ab8f027746889> <https://colonialcollections.nl/schema#identifier> "nf%201309-19-1" .
 <https://n2t.net/ark:/27023/11de38461e978715af1ab8f027746889> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift. \r\n\r\nDe afbeelding toont een landschap met een bos perceel. Dunne rechte bomen, niet dicht bij elkaar, niet echt een tropisch bos.\r\nMogelijk dus een ontginningsgebied.\r\nEr loopt een ongeplaveid pa" .

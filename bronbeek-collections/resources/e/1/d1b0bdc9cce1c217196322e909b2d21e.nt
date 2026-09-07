@@ -1,3 +1,25 @@
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-17/6" .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#name> "125. Berg-Artillerie" .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#description> "Schoolplaat.\r\n125. Berg-Artillerie" .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#inscription> "125. Berg-Artillerie" .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#identifier> "nf%20705-34" .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#name> "'type Lombok genomen door prof. Harrison Smith (Boston)'" .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is een wit etiket geplakt met een geschreven tekst 'Lombok (prof. Harrison Smith)' en de getallen 17 en 34\r\n\r\nOp binnenkant deksel staat voor deze opname geschreven; 'drie typen Lomb" .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#creator> "Harrison W. Smith" .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/11" .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#name> "Rituele dans Inheemse bevolking" .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#description> "Rituele dans Inheemse bevolking." .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7333c725b963894fbcb6d26fad525d4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7333c725b963894fbcb6d26fad525d4b> <https://colonialcollections.nl/schema#identifier> "nf%201169" .
 <https://n2t.net/ark:/27023/7333c725b963894fbcb6d26fad525d4b> <https://colonialcollections.nl/schema#name> "Sumatra's Oost Kust - Batak huizen" .
@@ -19,6 +41,13 @@
 <https://n2t.net/ark:/27023/733d9d68be8d661871357b54638751c3> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/733d9d68be8d661871357b54638751c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/733d9d68be8d661871357b54638751c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/9" .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#name> "Portret van H.W. van der Voort" .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#description> "Foto. Portret van man in  donker kostuum, borsstuk. Op achterzijde in blauwe pen: \"H.W. van der Voort\".\r\nFoto op foto gesigneerd in potlood: \"JohvanHespen Den Haag\"" .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#creator> "Foto Studio Joh. van Hespen" .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <https://colonialcollections.nl/schema#identifier> "nf%201408-49" .
 <https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <https://colonialcollections.nl/schema#name> "PARA RUBBER - HET OOGSTEN VAN 12 & 15 JARIGE BOOMEN" .
@@ -26,13 +55,15 @@
 <https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/73495183db1f3aacc5fdbca1998cdded> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#identifier> "nf%201430-13" .
 <https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#name> "Vleermuizenjacht" .
 <https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 23.\r\n\r\nOpname toont een groepje Papoea mannen, waarvan drie een grote vliegende hond in hun handen houden. De titel spreekt over jacht, de " .
-<https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/734c971b4c98e6f7a0c8386846c6e6a2> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/73575c06665d5d1c4e03717745235bd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/73575c06665d5d1c4e03717745235bd4> <https://colonialcollections.nl/schema#identifier> "nf%20834-9" .
 <https://n2t.net/ark:/27023/73575c06665d5d1c4e03717745235bd4> <https://colonialcollections.nl/schema#name> "Pop plant 'n boomvaren" .
@@ -72,13 +103,6 @@
 <https://n2t.net/ark:/27023/7368021cd5cff81e8e5391cc8d27c794> <https://colonialcollections.nl/schema#inscription> "\"OK. American Blend. Wij leven mee met de jongens over zee.\"" .
 <https://n2t.net/ark:/27023/7368021cd5cff81e8e5391cc8d27c794> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7368021cd5cff81e8e5391cc8d27c794> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-17/6" .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#name> "125. Berg-Artillerie" .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#description> "Schoolplaat.\r\n125. Berg-Artillerie" .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#inscription> "125. Berg-Artillerie" .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7360f196911da498d6a763225145bab8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7315f7a10297bf7697f5ae05a99eddcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7315f7a10297bf7697f5ae05a99eddcc> <https://colonialcollections.nl/schema#identifier> "IB1987/01/28-1-2/5" .
 <https://n2t.net/ark:/27023/7315f7a10297bf7697f5ae05a99eddcc> <https://colonialcollections.nl/schema#name> "Armstoel van een Chinees ameublement" .
@@ -529,24 +553,6 @@
 <https://n2t.net/ark:/27023/736696379c113a370db4da3f6ee8b8a1> <https://colonialcollections.nl/schema#description> "Document. Briefkaart Japanse bezetting: W. de Haan & G. de Haan-de Vries." .
 <https://n2t.net/ark:/27023/736696379c113a370db4da3f6ee8b8a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/736696379c113a370db4da3f6ee8b8a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#identifier> "nf%20705-34" .
-<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#name> "'type Lombok genomen door prof. Harrison Smith (Boston)'" .
-<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is een wit etiket geplakt met een geschreven tekst 'Lombok (prof. Harrison Smith)' en de getallen 17 en 34\r\n\r\nOp binnenkant deksel staat voor deze opname geschreven; 'drie typen Lomb" .
-<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/731f9476feb38b8d8a545d109c30ab28> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/11" .
-<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#name> "Rituele dans Inheemse bevolking" .
-<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#description> "Rituele dans Inheemse bevolking." .
-<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/73304f92fb783ea48aabda82af28fcf6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/9" .
-<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#name> "Portret van H.W. van der Voort" .
-<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#description> "Foto. Portret van man in  donker kostuum, borsstuk. Op achterzijde in blauwe pen: \"H.W. van der Voort\".\r\nFoto op foto gesigneerd in potlood: \"JohvanHespen Den Haag\"" .
-<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/733e61c21a2e77385c2aff9f4e54bd66> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7316d1d6957849f8f91cf743782678b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7316d1d6957849f8f91cf743782678b8> <https://colonialcollections.nl/schema#identifier> "nf%201414-50" .
 <https://n2t.net/ark:/27023/7316d1d6957849f8f91cf743782678b8> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 50, staat vermeld: 6-'36 Zuidlaren\r\n\r\nOpname toont twee volwassen mensen, staand in het open veld.\r\n\r\nDeze beide personen zijn vermoedelijk dezelfde als" .

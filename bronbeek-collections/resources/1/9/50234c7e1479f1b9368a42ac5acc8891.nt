@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/11" .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#name> "Kruiser \"Java\"" .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart, Kruiser \"Java\"." .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#inscription> "Kruiser \"Java\"." .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#creator> "Ch. Kellerman" .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#identifier> "2018/07/25-1" .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#name> "Pentekening Zicht op Bronbeek" .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#description> "Ingekleurde pentekening 'Zicht op Bronbeek', met twee bewoners in het oude uniform en een spelende jongen en meisje. Gesigneerd: Harry van Lunenburg '83.\r\nKumpulan, Hoofdgebouw met Commandantswoning. Voor de Commandantswoning een bewoner in rolstoel geduw" .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#creator> "Harry van Lunenburg" .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1460db7dc39d1a686e326edb60aa3931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1460db7dc39d1a686e326edb60aa3931> <https://colonialcollections.nl/schema#identifier> "nf%20789-34" .
 <https://n2t.net/ark:/27023/1460db7dc39d1a686e326edb60aa3931> <https://colonialcollections.nl/schema#name> "Ten arbeid gestreden op weg naar hun werk" .
@@ -5,6 +20,13 @@
 <https://n2t.net/ark:/27023/1460db7dc39d1a686e326edb60aa3931> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1460db7dc39d1a686e326edb60aa3931> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1460db7dc39d1a686e326edb60aa3931> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#identifier> "nf%201314-19" .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#name> "De Witte Paal - Djokja" .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, zonder in inkt geschreven tekst, zonder datum, met adres geadresseerde, zonder postzegel van Nederlandsch-Indië.\r\n\r\nOnder afbeelding tekst: 'De Witte Paal - Djokja'\r\nOp achterkant ook nog informatie over de uitg" .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1469a8793de4e9a61e753f700a815361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1469a8793de4e9a61e753f700a815361> <https://colonialcollections.nl/schema#identifier> "nf%201542" .
 <https://n2t.net/ark:/27023/1469a8793de4e9a61e753f700a815361> <https://colonialcollections.nl/schema#name> "Een deel van Mata Ie" .
@@ -12,6 +34,13 @@
 <https://n2t.net/ark:/27023/1469a8793de4e9a61e753f700a815361> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1469a8793de4e9a61e753f700a815361> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1469a8793de4e9a61e753f700a815361> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#identifier> "2006/00-43/76" .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#name> "Landkaart West-Java" .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#description> "Landkaart West-Java. Schaal 1: 500.000; Topographische inrichting; UItg. 1905. Eén inzetkaart van Batavia en omstreken met de havenwerken (schaal 1: 50.000). overzichten van steden en regentschappen met bijbehorende districten en afdelingen; legenda.\r\nKaa" .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1472209794d2549e97f6bf4894ac3437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1472209794d2549e97f6bf4894ac3437> <https://colonialcollections.nl/schema#identifier> "nf%20673-2" .
 <https://n2t.net/ark:/27023/1472209794d2549e97f6bf4894ac3437> <https://colonialcollections.nl/schema#name> "'Kijkje in 't boschbivak te Woawondaoe'" .
@@ -44,6 +73,13 @@
 <https://n2t.net/ark:/27023/146e83c9402beb6b913332c39275fbb2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/146e83c9402beb6b913332c39275fbb2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/146e83c9402beb6b913332c39275fbb2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#identifier> "nf%201579-2" .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: 'Foto D.A.van Veen - meisjes aan het kaartspel, Enarotali, Wisselmeren- Episode Centrale bergland'.\r\n\r\nOpname toont twee Papua meisjes, tegen" .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#creator> "Velox" .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#creator> "D.A. van Veen" .
 <https://n2t.net/ark:/27023/148eb2859313a22234df3409b32204e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/148eb2859313a22234df3409b32204e6> <https://colonialcollections.nl/schema#identifier> "EDO%20622-35-5" .
 <https://n2t.net/ark:/27023/148eb2859313a22234df3409b32204e6> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nFamiliekiekje. Opname toont een man in licht gekleurde plusfour en een jongen, zittend op rotsen." .
@@ -71,13 +107,6 @@
 <https://n2t.net/ark:/27023/148e31be3371e11038019718d9fb0884> <https://colonialcollections.nl/schema#inscription> "K.H. v.d. ZEE" .
 <https://n2t.net/ark:/27023/148e31be3371e11038019718d9fb0884> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/148e31be3371e11038019718d9fb0884> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/11" .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#name> "Kruiser \"Java\"" .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart, Kruiser \"Java\"." .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#inscription> "Kruiser \"Java\"." .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1480f12f481d19b7ace89abef80f661b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/14533dc00baaacbe1f78ef8bbddfeb25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/14533dc00baaacbe1f78ef8bbddfeb25> <https://colonialcollections.nl/schema#identifier> "2014/04/18-2-3/32" .
 <https://n2t.net/ark:/27023/14533dc00baaacbe1f78ef8bbddfeb25> <https://colonialcollections.nl/schema#name> "Foto van diensttijd Georg Dremmen in Nederlands-Indë" .
@@ -516,24 +545,6 @@
 <https://n2t.net/ark:/27023/149ca0dcdc0d178a1014a3db0909a0e9> <https://colonialcollections.nl/schema#description> "Boekje. S. van der Moeren, Populair Maleis uitgebreid met Maleis voor Militairen, 1945" .
 <https://n2t.net/ark:/27023/149ca0dcdc0d178a1014a3db0909a0e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/149ca0dcdc0d178a1014a3db0909a0e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#identifier> "2018/07/25-1" .
-<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#name> "Pentekening Zicht op Bronbeek" .
-<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#description> "Ingekleurde pentekening 'Zicht op Bronbeek', met twee bewoners in het oude uniform en een spelende jongen en meisje. Gesigneerd: Harry van Lunenburg '83.\r\nKumpulan, Hoofdgebouw met Commandantswoning. Voor de Commandantswoning een bewoner in rolstoel geduw" .
-<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1455dc4f04e123f38285a4c7c5bde307> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#identifier> "nf%201314-19" .
-<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#name> "De Witte Paal - Djokja" .
-<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, zonder in inkt geschreven tekst, zonder datum, met adres geadresseerde, zonder postzegel van Nederlandsch-Indië.\r\n\r\nOnder afbeelding tekst: 'De Witte Paal - Djokja'\r\nOp achterkant ook nog informatie over de uitg" .
-<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1467421758ff25e91ef49cc0c9e3af47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#identifier> "2006/00-43/76" .
-<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#name> "Landkaart West-Java" .
-<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#description> "Landkaart West-Java. Schaal 1: 500.000; Topographische inrichting; UItg. 1905. Eén inzetkaart van Batavia en omstreken met de havenwerken (schaal 1: 50.000). overzichten van steden en regentschappen met bijbehorende districten en afdelingen; legenda.\r\nKaa" .
-<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/146ed965621a70e42f392e6d94171cec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/14545966678594efb2e97420a72beb27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/14545966678594efb2e97420a72beb27> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43438" .
 <https://n2t.net/ark:/27023/14545966678594efb2e97420a72beb27> <https://colonialcollections.nl/schema#description> "Boombast-jak, Borneo" .
@@ -584,11 +595,6 @@
 <https://n2t.net/ark:/27023/14824895154dda1e9fbad467d46fb99b> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/14824895154dda1e9fbad467d46fb99b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/14824895154dda1e9fbad467d46fb99b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#identifier> "nf%201579-2" .
-<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: 'Foto D.A.van Veen - meisjes aan het kaartspel, Enarotali, Wisselmeren- Episode Centrale bergland'.\r\n\r\nOpname toont twee Papua meisjes, tegen" .
-<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/148b773135b6aa8c32a5c9c69385b71d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/145d132b1074c66141f9bbd7ee357a2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/145d132b1074c66141f9bbd7ee357a2b> <https://colonialcollections.nl/schema#identifier> "X%206007" .
 <https://n2t.net/ark:/27023/145d132b1074c66141f9bbd7ee357a2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

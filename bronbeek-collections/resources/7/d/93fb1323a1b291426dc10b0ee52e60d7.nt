@@ -6,6 +6,30 @@
 <https://n2t.net/ark:/27023/3e6ac36fcce6ed9e93932c6d4d15de51> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/3e6ac36fcce6ed9e93932c6d4d15de51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e6ac36fcce6ed9e93932c6d4d15de51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#identifier> "1885/09-1-13" .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#name> "H.K. en K.H. de Prinses van Oranje" .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#description> "Prent: H.K. en K.H. de Prinses van Oranje. Geschildert en Get. door J.B. Van der Hulst. Koninklijke hofschilder. Gedeponeerd. Gedrukt bij Desguerrois en Co te Amsterdam.\"\r\n\"V.D. Hulst f. 1832\" \"Te bekomen bij A. Bakhuijzen te 'S Gravenhage.\"\r\n\r\n\"De kennis" .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#inscription> "\"H.K. en K.H. de Prinses van Oranje. Geschildert en Get. door J.B. Van der Hulst. Koninklijke hofschilder. Gedeponeerd. Gedrukt bij Desguerrois en Co te Amsterdam.\"\r\n\"V.D. Hulst f. 1832\" \"Te bekomen bij A. Bakhuijzen te 'S Gravenhage.\"" .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#creator> "J.B. v.d. Hulst" .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#creator> "Desguerrois en Co." .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-1" .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#name> "Portret van majoor KNIL Kemmerling" .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#description> "Schilderij in lijst, gouache. Portret van Majoor KNIL Kemmerling. Geschilderd door Abdullah. Gesigneerd linksonder." .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#creator> "Basoeki Abdullah" .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#identifier> "1974/08/15-1-6" .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#name> "Het Legioen van Mangkoe-Nagoro, H.F. Aukes" .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#description> "Het Legioen van Mangkoe-Nagoro, H.F. Aukes. 1935 Met 16 fotomechanische platen. 274 pagina's.\r\nMet aanbiedingstekst van de Mangkoe Nagoro voor Luitenant-generaal S.A. Drijber.\r\nPlaten:\r\nOfficieren van het legioen Mangkoe Nagoro in 1934.\r\nDe opeenvolgende " .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#creator> "Luitenant-kolonel KNIL b.d. H.F. Aukes" .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#creator> "A.C. Nix & Co" .
 <https://n2t.net/ark:/27023/3e61f12fdae7c8b113b863f3b00cd628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e61f12fdae7c8b113b863f3b00cd628> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/28" .
 <https://n2t.net/ark:/27023/3e61f12fdae7c8b113b863f3b00cd628> <https://colonialcollections.nl/schema#name> "Riettransport per prauw" .
@@ -27,6 +51,13 @@
 <https://n2t.net/ark:/27023/3e7245185fce9a5f34177f961bff58f4> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/3e7245185fce9a5f34177f961bff58f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e7245185fce9a5f34177f961bff58f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#identifier> "2007/09/19-1-4/9" .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#name> "Familieportret van vader Jan Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien, Kolonedale" .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit op karton. Familieportret van vader ´Iep´ Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien.\r\nHandgeschreven tekst verso: ´Voor Henri en Truus. Souvenir van Kolonedale 26 December 1911.´en ´Iep en Marianne Tr" .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#creator> "Wah Heng Photographer" .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3e8345dec916429f06a278d86f9cf9a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e8345dec916429f06a278d86f9cf9a2> <https://colonialcollections.nl/schema#identifier> "nf%201413-68" .
 <https://n2t.net/ark:/27023/3e8345dec916429f06a278d86f9cf9a2> <https://colonialcollections.nl/schema#name> "Betet" .
@@ -38,9 +69,11 @@
 <https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#identifier> "S%203285" .
 <https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#name> "Batavia, Het Postetablisement te Weltevreden" .
 <https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#description> "'Het Postetablisement te Weltevreden', 'L'ét" .
-<https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#creator> "Dhr. Gualtherus Kolff" .
+<https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#creator> "Pieter Willem Marinus Trap" .
 <https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#creator> "G.J. Bos" .
+<https://n2t.net/ark:/27023/3e879209ab59f3069904f6766ae83139> <https://colonialcollections.nl/schema#creator> "Dhr. Gualtherus Kolff" .
 <https://n2t.net/ark:/27023/3e8eea892e62525c210984da07ff8770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e8eea892e62525c210984da07ff8770> <https://colonialcollections.nl/schema#identifier> "1997/11/21-2-7" .
 <https://n2t.net/ark:/27023/3e8eea892e62525c210984da07ff8770> <https://colonialcollections.nl/schema#name> "Tekening \"Tjangerang A: Jongenszaal B : Ons verblijf\"" .
@@ -82,13 +115,6 @@
 <https://n2t.net/ark:/27023/3e8a51b8893b43d924a70a95e6c8a6c5> <https://colonialcollections.nl/schema#inscription> "38R ; 22376" .
 <https://n2t.net/ark:/27023/3e8a51b8893b43d924a70a95e6c8a6c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e8a51b8893b43d924a70a95e6c8a6c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#identifier> "1885/09-1-13" .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#name> "H.K. en K.H. de Prinses van Oranje" .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#description> "Prent: H.K. en K.H. de Prinses van Oranje. Geschildert en Get. door J.B. Van der Hulst. Koninklijke hofschilder. Gedeponeerd. Gedrukt bij Desguerrois en Co te Amsterdam.\"\r\n\"V.D. Hulst f. 1832\" \"Te bekomen bij A. Bakhuijzen te 'S Gravenhage.\"\r\n\r\n\"De kennis" .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#inscription> "\"H.K. en K.H. de Prinses van Oranje. Geschildert en Get. door J.B. Van der Hulst. Koninklijke hofschilder. Gedeponeerd. Gedrukt bij Desguerrois en Co te Amsterdam.\"\r\n\"V.D. Hulst f. 1832\" \"Te bekomen bij A. Bakhuijzen te 'S Gravenhage.\"" .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e6b099accada19411b6af601f3e09dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3e47e4ea2cbd5512e29ee4b56ccaf835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e47e4ea2cbd5512e29ee4b56ccaf835> <https://colonialcollections.nl/schema#identifier> "2009/07/02-1-3/159" .
 <https://n2t.net/ark:/27023/3e47e4ea2cbd5512e29ee4b56ccaf835> <https://colonialcollections.nl/schema#name> "Foto´s, z/w, periode 1946-1949" .
@@ -497,24 +523,6 @@
 <https://n2t.net/ark:/27023/3e9370b42dffb23de1951135f851e5a4> <https://colonialcollections.nl/schema#description> "Geweven shawl/band in ecru en roze/grijs" .
 <https://n2t.net/ark:/27023/3e9370b42dffb23de1951135f851e5a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e9370b42dffb23de1951135f851e5a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-1" .
-<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#name> "Portret van majoor KNIL Kemmerling" .
-<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#description> "Schilderij in lijst, gouache. Portret van Majoor KNIL Kemmerling. Geschilderd door Abdullah. Gesigneerd linksonder." .
-<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e54d147ebe872ae9a7a3c1b2a6e7f47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#identifier> "1974/08/15-1-6" .
-<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#name> "Het Legioen van Mangkoe-Nagoro, H.F. Aukes" .
-<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#description> "Het Legioen van Mangkoe-Nagoro, H.F. Aukes. 1935 Met 16 fotomechanische platen. 274 pagina's.\r\nMet aanbiedingstekst van de Mangkoe Nagoro voor Luitenant-generaal S.A. Drijber.\r\nPlaten:\r\nOfficieren van het legioen Mangkoe Nagoro in 1934.\r\nDe opeenvolgende " .
-<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e560bf109478394f604eafd59f6b8e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#identifier> "2007/09/19-1-4/9" .
-<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#name> "Familieportret van vader Jan Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien, Kolonedale" .
-<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit op karton. Familieportret van vader ´Iep´ Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien.\r\nHandgeschreven tekst verso: ´Voor Henri en Truus. Souvenir van Kolonedale 26 December 1911.´en ´Iep en Marianne Tr" .
-<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e7dda906c89fc09c0584401deb532bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3e47b119479e3d91c4cbe5391fa080ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e47b119479e3d91c4cbe5391fa080ee> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42103" .
 <https://n2t.net/ark:/27023/3e47b119479e3d91c4cbe5391fa080ee> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tboombast\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tboombast + versiering\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2636\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[26" .

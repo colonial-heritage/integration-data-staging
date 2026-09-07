@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#identifier> "1885/09-1-33" .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#name> "Portret van vice-admiraal Jan Frederik Daniel Bouricius" .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#description> "Prent: Jan Frederik Daniel Bouricius.\r\n\"J.P.Berghaus Lith. n.a. Daguer te Leyden 31 10 1866 steendr. v. P.W.M. Trap.\"\r\nOp passepartout in rechter benedenhoek in pen: \"Jan Frederik Daniel Bouricius, geb. t.Arnhem 23 Julij 1799. Viceadmiraal, Commandant der" .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#inscription> "J.P.Berghaus Lith. n.a. Daguer te Leyden 31 10 1866 steendr. v. P.W.M. Trap; A.Ver Huell" .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#creator> "P.W.M. Trap" .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#creator> "J.P. Berghaus" .
 <https://n2t.net/ark:/27023/0601df0a739ef11c77af29529c2ced55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0601df0a739ef11c77af29529c2ced55> <https://colonialcollections.nl/schema#identifier> "1988/03/08-1-8" .
 <https://n2t.net/ark:/27023/0601df0a739ef11c77af29529c2ced55> <https://colonialcollections.nl/schema#name> "Schoolplaat: \"Lijkverbranding op Bali\"" .
@@ -6,6 +15,14 @@
 <https://n2t.net/ark:/27023/0601df0a739ef11c77af29529c2ced55> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/0601df0a739ef11c77af29529c2ced55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0601df0a739ef11c77af29529c2ced55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#identifier> "1915/12/05-1-1" .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#name> "Portret van gepensioneerd luitenant-generaal der genie L.J. Resner" .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#description> "Foto. Portret van gepensioneerd luitenant-generaal der genie L.J. Resner\r\n\r\nVerso aantekeningen met potlood en pen, rechtsboven genummer met rode stift" .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#inscription> "L.J. Resner gep. Luitenant Generaal der Genie" .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#creator> "Delboy-Baer" .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/05ea0b348550d8c6a94886771f289ecd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/05ea0b348550d8c6a94886771f289ecd> <https://colonialcollections.nl/schema#identifier> "nf%201127" .
 <https://n2t.net/ark:/27023/05ea0b348550d8c6a94886771f289ecd> <https://colonialcollections.nl/schema#name> "Papoea-schild" .
@@ -27,6 +44,13 @@
 <https://n2t.net/ark:/27023/05f0c0bc25959a2cff62c9b71e82e8c8> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/05f0c0bc25959a2cff62c9b71e82e8c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/05f0c0bc25959a2cff62c9b71e82e8c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#identifier> "2017/02/19-1/36" .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#name> "Foto diensttijd Nederlands-Indië" .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië. Omgeving Makassar, Celebes, Nederlands-Indië. 85 stuks. Grenadiers ?\r\nVerso: \"10. Radio Makassar.\" Wit gebouw, villa, met daarop een bord met tekst [onleesbaar]." .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#creator> "Foto Schreuder" .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/05fe30535cb51b2d20edad9dc3e77abe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/05fe30535cb51b2d20edad9dc3e77abe> <https://colonialcollections.nl/schema#identifier> "2016/10/29-1-6" .
 <https://n2t.net/ark:/27023/05fe30535cb51b2d20edad9dc3e77abe> <https://colonialcollections.nl/schema#name> "The water treatment. The victims wrists and ankles are bound with barbed wire. Water is forced into his stomach through a hose. When stomach is painfully extended, Japanese jumps on stomach other Jap kicks victim's head" .
@@ -45,9 +69,24 @@
 <https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/9" .
 <https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
 <https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Op achterzijde:  \"NIWIN\": Dagelijkse, noodzakelijke bezigheid." .
-<https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0608e53f3e7bd1f49c37f34bad42bcd7> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/30" .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart kleuren druk. Briefkaart. Onbeschreven. Javaansche comedievertooning, \"Wajang evong\". F.J. Rauch, Bandoeng. 6848." .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#creator> "F.J.Rauch" .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-2/7" .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#name> "Portretfoto tweede luitenant Indisch Leger Graaf van Richtens Jr." .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#description> "Portretfoto zwart wit, cabinet card. Portret van Graaf van Richtens Jr. in uniform tweede luitenant Indisch Leger model 1868.\r\n\r\nOpdruk: A. Greiner Amsterdam\r\n\r\nVijftien (15) foto's van militairen KNIL/Nederlands-Indië." .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/10" .
 <https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
@@ -55,12 +94,14 @@
 <https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/061dda7035d1885413d3ce4a617ef85b> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <https://colonialcollections.nl/schema#identifier> "nf%20341-9" .
 <https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <https://colonialcollections.nl/schema#description> "Toba meer\r\n\r\nmet gedeelde achterkant\r\nMeijsters Foto-Handel Medan, Sumatra\r\nK Ltd" .
 <https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/05ed51ced49076dc7b6649a5f84fea2f> <https://colonialcollections.nl/schema#creator> "Foto-handel Meijsters, Medan Sumatra" .
 <https://n2t.net/ark:/27023/06009550590a4fe62486dca58f8f1783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/06009550590a4fe62486dca58f8f1783> <https://colonialcollections.nl/schema#identifier> "nf%201918-157" .
 <https://n2t.net/ark:/27023/06009550590a4fe62486dca58f8f1783> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Rubberfabriek G. Poetri '30'\r\n\r\nOpnames tonen een weg. In de verte iets dat op een waterput lijkt. Links een wand van gevlochten platgeslagen ba" .
@@ -101,20 +142,6 @@
 <https://n2t.net/ark:/27023/0626a79a2940ab42abf9cc51ac5796b8> <https://colonialcollections.nl/schema#inscription> "Vrolijke groep te Lagoe Boti 1897" .
 <https://n2t.net/ark:/27023/0626a79a2940ab42abf9cc51ac5796b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0626a79a2940ab42abf9cc51ac5796b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#identifier> "1885/09-1-33" .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#name> "Portret van vice-admiraal Jan Frederik Daniel Bouricius" .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#description> "Prent: Jan Frederik Daniel Bouricius.\r\n\"J.P.Berghaus Lith. n.a. Daguer te Leyden 31 10 1866 steendr. v. P.W.M. Trap.\"\r\nOp passepartout in rechter benedenhoek in pen: \"Jan Frederik Daniel Bouricius, geb. t.Arnhem 23 Julij 1799. Viceadmiraal, Commandant der" .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#inscription> "J.P.Berghaus Lith. n.a. Daguer te Leyden 31 10 1866 steendr. v. P.W.M. Trap; A.Ver Huell" .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/05ff400fad27025c0daa2b9bb9d606a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#identifier> "1915/12/05-1-1" .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#name> "Portret van gepensioneerd luitenant-generaal der genie L.J. Resner" .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#description> "Foto. Portret van gepensioneerd luitenant-generaal der genie L.J. Resner\r\n\r\nVerso aantekeningen met potlood en pen, rechtsboven genummer met rode stift" .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#inscription> "L.J. Resner gep. Luitenant Generaal der Genie" .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/060e5976f62a71b3ad767a0d68d41b44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/05e3044e7f4dccf67f74ca49897f0ea4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/05e3044e7f4dccf67f74ca49897f0ea4> <https://colonialcollections.nl/schema#identifier> "2008/11/06-11-8/44" .
 <https://n2t.net/ark:/27023/05e3044e7f4dccf67f74ca49897f0ea4> <https://colonialcollections.nl/schema#name> "Foto´s, kleur en z/w, o.a. Peutjoet en Indonesië" .
@@ -528,24 +555,6 @@
 <https://n2t.net/ark:/27023/06299ff01e0e8f1540144fc3017daf37> <https://colonialcollections.nl/schema#description> "Foto van uitreiking rimiboekist van 3e Compagnie Detachement (XVI Bataljon Infanterie) te Bau Bau. Gedateerd 22 november 1949. Totaal 10 stuks (inv.nrs 1999/07/30-2-1/1 t/m 1999/07/30-2-1/10)." .
 <https://n2t.net/ark:/27023/06299ff01e0e8f1540144fc3017daf37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/06299ff01e0e8f1540144fc3017daf37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#identifier> "2017/02/19-1/36" .
-<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#name> "Foto diensttijd Nederlands-Indië" .
-<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië. Omgeving Makassar, Celebes, Nederlands-Indië. 85 stuks. Grenadiers ?\r\nVerso: \"10. Radio Makassar.\" Wit gebouw, villa, met daarop een bord met tekst [onleesbaar]." .
-<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/05f62cd96cd6adc15e7942ed4c206f2c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/30" .
-<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
-<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart kleuren druk. Briefkaart. Onbeschreven. Javaansche comedievertooning, \"Wajang evong\". F.J. Rauch, Bandoeng. 6848." .
-<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/060eb57f2adacd0c8f3e8805128d78e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-2/7" .
-<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#name> "Portretfoto tweede luitenant Indisch Leger Graaf van Richtens Jr." .
-<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#description> "Portretfoto zwart wit, cabinet card. Portret van Graaf van Richtens Jr. in uniform tweede luitenant Indisch Leger model 1868.\r\n\r\nOpdruk: A. Greiner Amsterdam\r\n\r\nVijftien (15) foto's van militairen KNIL/Nederlands-Indië." .
-<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/061268db329494bf6660759cafae450f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/05e27c761c1a7d1621f47c428958bdeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/05e27c761c1a7d1621f47c428958bdeb> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/62" .
 <https://n2t.net/ark:/27023/05e27c761c1a7d1621f47c428958bdeb> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

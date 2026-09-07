@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-1" .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#name> "83. Vischvijvers op West-Java" .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#description> "Schoolplaat.\r\n83. Vischvijvers op West-Java. Kleyenberg & Co., Haarlem." .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#inscription> "83. Vischvijvers op West-Java" .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6de0083a15ea2edc2e1d03614ac2e40e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6de0083a15ea2edc2e1d03614ac2e40e> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-127" .
 <https://n2t.net/ark:/27023/6de0083a15ea2edc2e1d03614ac2e40e> <https://colonialcollections.nl/schema#name> "Carte de visite:  Cees Crone" .
@@ -6,6 +14,29 @@
 <https://n2t.net/ark:/27023/6de0083a15ea2edc2e1d03614ac2e40e> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/6de0083a15ea2edc2e1d03614ac2e40e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6de0083a15ea2edc2e1d03614ac2e40e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-74" .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#name> "Carte de visite: Resident van Preanger van Vloten" .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Resident van Vloten (Preanger)" .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#inscription> "Resident van Vloten (Preanger)" .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#creator> "Kinsbergen Batavia" .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/5" .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#identifier> "2006/00-24-4" .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#name> "Een Europese man met een boek op de stoep bij een veranda, mogelijk op een buitenpost" .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#description> "Liggende vergeelde zwartwit foto. Op een veranda zit een Europese (Nederlandse?) man in een stoel. Hij draagt een donkere broek en lichte blouse. Hij heeft een snor en een kaal hoofd. In zijn handen heeft hij een boek.\r\n\r\nDe foto is op grijs karton geplak" .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6dc04f438ac4e90a04d82c84b0289ea6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6dc04f438ac4e90a04d82c84b0289ea6> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-7/16" .
 <https://n2t.net/ark:/27023/6dc04f438ac4e90a04d82c84b0289ea6> <https://colonialcollections.nl/schema#name> "Foto Indonesië, 1946-1950 en Nieuw Guinea, 1955-1956" .
@@ -20,6 +51,21 @@
 <https://n2t.net/ark:/27023/6dd0710b9607881422eb2980498f20e6> <https://colonialcollections.nl/schema#creator> "Cordesius & Zonen" .
 <https://n2t.net/ark:/27023/6dd0710b9607881422eb2980498f20e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6dd0710b9607881422eb2980498f20e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/15" .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#identifier> "2006/09/26-4-15" .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#name> "Foto van echtpaar de Jager" .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#description> "Foto in lijst. Echtpaar de Jager." .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#creator> "Foto Steenmeyer" .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <https://colonialcollections.nl/schema#identifier> "2010/02/12-4-6" .
 <https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <https://colonialcollections.nl/schema#name> "Set prentbriefkaarten in een envelop. \"De Landstorm in 12 caricaturen\"" .
@@ -27,6 +73,21 @@
 <https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6df81154568ff97f818a328d5a35615b> <https://colonialcollections.nl/schema#creator> "Willem Johan George Zweedijk" .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#identifier> "2006/00-43/53" .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#name> "Stafkaart Java & Madura, Bandoeng" .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#description> "Stafkaart Java & Madura, Bandoeng, First edition, Sheet 39/XXXIX-C, Survey Directorate H.Q. ALFSEA, 1st ed.1943. Schaal 1: 50.000." .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#creator> "Survey Production Centre, A.L.F.S.E.A." .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#identifier> "2005/01/03-1-17/2" .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#name> "Toradjalanden: Klaagvrouwen rond de doodskist" .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Toradjalanden: Peti majat  dikelilingi oleh perempuan-perempuan dengan tangisan/Klaagvrouwen rond de doodskist/Wailing women at a coffin." .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#creator> "Foto Lokollo-Makassar" .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6db1c8f677ce234bd4aa580fd215f666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6db1c8f677ce234bd4aa580fd215f666> <https://colonialcollections.nl/schema#identifier> "nf%20906-30" .
 <https://n2t.net/ark:/27023/6db1c8f677ce234bd4aa580fd215f666> <https://colonialcollections.nl/schema#description> "Glasplaatdiapositief, vierkant, plat, zwart/wit opname.\r\n\r\nOpname toont een ongeplaveide weggetje met op de weg een paar mannen die een last dragen over hun schouder (pikolan).\r\nLinks hoge opwas van veel bamboe en rechts achter hekjes bevolkingsaanplant." .
@@ -51,6 +112,13 @@
 <https://n2t.net/ark:/27023/6dd8fb6dc3e2d564e6ad975abab778cd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6dd8fb6dc3e2d564e6ad975abab778cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6dd8fb6dc3e2d564e6ad975abab778cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#identifier> "nf%201579-5" .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: 'Foto D.A.van Veen - Vader en dochter Enarotali Wisselmeren - Episode Centrale bergland'.\r\n\r\nOpname toont twee gehurkt zittende personen, een" .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#creator> "Velox" .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#creator> "D.A. van Veen" .
 <https://n2t.net/ark:/27023/6de90dfc128217a9efdbf04e205600be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6de90dfc128217a9efdbf04e205600be> <https://colonialcollections.nl/schema#identifier> "nf%201834-1" .
 <https://n2t.net/ark:/27023/6de90dfc128217a9efdbf04e205600be> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant tekst in potlood: Koeala-brug i/d Zuid Sumatra Staatsspoorweg tussen Oosthaven en Tandjongkarang - 6 spanningen v. 15 m (ongewapend betonbrug; zuivere parabool-bogen)\r\n\r\nOpname toont een brug, volgens tek" .
@@ -64,20 +132,6 @@
 <https://n2t.net/ark:/27023/6dfaa073018e8a89b2e75f8e1e024502> <https://colonialcollections.nl/schema#inscription> "22695402 O'Brien" .
 <https://n2t.net/ark:/27023/6dfaa073018e8a89b2e75f8e1e024502> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6dfaa073018e8a89b2e75f8e1e024502> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-1" .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#name> "83. Vischvijvers op West-Java" .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#description> "Schoolplaat.\r\n83. Vischvijvers op West-Java. Kleyenberg & Co., Haarlem." .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#inscription> "83. Vischvijvers op West-Java" .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6db233b8f7baf463d93ebdd99a0847db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-74" .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#name> "Carte de visite: Resident van Preanger van Vloten" .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Resident van Vloten (Preanger)" .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#inscription> "Resident van Vloten (Preanger)" .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6deb42f9558191b44f054190d120f43e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6db0e1cc543b8f212b40d8a56f86882f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6db0e1cc543b8f212b40d8a56f86882f> <https://colonialcollections.nl/schema#identifier> "1994/06/20-2-11" .
 <https://n2t.net/ark:/27023/6db0e1cc543b8f212b40d8a56f86882f> <https://colonialcollections.nl/schema#name> "De Vriezeveense Courant, 30 mei 1951 & 'De Gelderlander', woensdag 13 november 1985" .
@@ -516,42 +570,6 @@
 <https://n2t.net/ark:/27023/6e00b153d221d4e11fd96ed5be487d0e> <https://colonialcollections.nl/schema#description> "Kris met recht lemmet. Mendak beschadigd. Schede met pendok zonder versiering. Afm. 47 cm. In goede staat." .
 <https://n2t.net/ark:/27023/6e00b153d221d4e11fd96ed5be487d0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6e00b153d221d4e11fd96ed5be487d0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/5" .
-<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
-<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
-<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6db23a0d3fe9e0a9df50dd6bc9909ce2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#identifier> "2006/00-24-4" .
-<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#name> "Een Europese man met een boek op de stoep bij een veranda, mogelijk op een buitenpost" .
-<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#description> "Liggende vergeelde zwartwit foto. Op een veranda zit een Europese (Nederlandse?) man in een stoel. Hij draagt een donkere broek en lichte blouse. Hij heeft een snor en een kaal hoofd. In zijn handen heeft hij een boek.\r\n\r\nDe foto is op grijs karton geplak" .
-<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6db893b2c8da9909c79698d3a433f504> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/15" .
-<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
-<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
-<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6de7403865c10bfd2c54b4238c02ae71> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#identifier> "2006/09/26-4-15" .
-<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#name> "Foto van echtpaar de Jager" .
-<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#description> "Foto in lijst. Echtpaar de Jager." .
-<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6df0e94616a00b22c9109f65ec2f2a7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#identifier> "2006/00-43/53" .
-<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#name> "Stafkaart Java & Madura, Bandoeng" .
-<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#description> "Stafkaart Java & Madura, Bandoeng, First edition, Sheet 39/XXXIX-C, Survey Directorate H.Q. ALFSEA, 1st ed.1943. Schaal 1: 50.000." .
-<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6dfd601f424229ee85a0d497764e5437> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#identifier> "2005/01/03-1-17/2" .
-<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#name> "Toradjalanden: Klaagvrouwen rond de doodskist" .
-<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Toradjalanden: Peti majat  dikelilingi oleh perempuan-perempuan dengan tangisan/Klaagvrouwen rond de doodskist/Wailing women at a coffin." .
-<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6dfdbcd40a3a238b6f1d1e6f87be395f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6dc58282c95eeb135f10f55adaff8cd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6dc58282c95eeb135f10f55adaff8cd2> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-26/17" .
 <https://n2t.net/ark:/27023/6dc58282c95eeb135f10f55adaff8cd2> <https://colonialcollections.nl/schema#description> "Foto. Militaire Luchtvaart KNIL, 18 squadron, na 1945. Meerdaagse oefening vanuit basis Kendari (Celebes)." .
@@ -577,11 +595,6 @@
 <https://n2t.net/ark:/27023/6def204ae6fc56623ac74161ea3c0cf1> <https://colonialcollections.nl/schema#description> "Foto." .
 <https://n2t.net/ark:/27023/6def204ae6fc56623ac74161ea3c0cf1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6def204ae6fc56623ac74161ea3c0cf1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#identifier> "nf%201579-5" .
-<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: 'Foto D.A.van Veen - Vader en dochter Enarotali Wisselmeren - Episode Centrale bergland'.\r\n\r\nOpname toont twee gehurkt zittende personen, een" .
-<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6dd99f00ce990e8126123364c5dbc7a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6dd54e614cfa9bf7e908b5820684dfa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6dd54e614cfa9bf7e908b5820684dfa9> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/486" .
 <https://n2t.net/ark:/27023/6dd54e614cfa9bf7e908b5820684dfa9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

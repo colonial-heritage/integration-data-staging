@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/138" .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#name> "Hospitaal te Lawé Sagoe (Alaslanden)." .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#description> "Foto. Ongetoonde variant.\r\nVan plaat 80." .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#inscription> "Hospitaal te Lawé Sagoe (Alaslanden)." .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#identifier> "2012/05/18-1/53" .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#name> "\"Buitenzorg. 1122. Brug over de vijver.\"" .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Buitenzorg. 1122. Brug over de vijver.\" Van Edmund van Vollenhoven aan Mevrouw H. Voltelen te 's-Gravanhage. Gestempeld 22-10-[1922]" .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#inscription> "W.&S. H." .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2e070476d8c562ac08ee495442b2e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2e070476d8c562ac08ee495442b2e95> <https://colonialcollections.nl/schema#identifier> "nf%201413-148" .
 <https://n2t.net/ark:/27023/a2e070476d8c562ac08ee495442b2e95> <https://colonialcollections.nl/schema#name> "Aer Saleh bij Moeara Padang, met vissersprauw" .
@@ -12,6 +28,13 @@
 <https://n2t.net/ark:/27023/a2e74faa6cfc4d0a3b352d7a1eb85d12> <https://colonialcollections.nl/schema#creator> "Stichting Werkplaats tot Herstel van Antieke Textiel" .
 <https://n2t.net/ark:/27023/a2e74faa6cfc4d0a3b352d7a1eb85d12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a2e74faa6cfc4d0a3b352d7a1eb85d12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#identifier> "2004/07/13-2" .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#name> "Portret van Generaal Majoor A.V. Michiels, door J.A. Kruseman" .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#description> "Schilderij zonder lijst. Portret (kniestuk) van Generaal Majoor A.V. Michiels (1797-1849), door J.A. Kruseman (1804-1862). Doek op spieraam.\r\nLinksonder in rood gesigneerd: \"J.A. kruseman1855\"\r\nHet portret is dientiek aan het grote (133x 100cm) portret in" .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#creator> "Jan Adam Kruseman" .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2ea99e2f6d380c67029e3ddb0b54b55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2ea99e2f6d380c67029e3ddb0b54b55> <https://colonialcollections.nl/schema#identifier> "1997/00-1/351" .
 <https://n2t.net/ark:/27023/a2ea99e2f6d380c67029e3ddb0b54b55> <https://colonialcollections.nl/schema#name> "Kaart van Aïr Bangis, Sumatra" .
@@ -19,6 +42,20 @@
 <https://n2t.net/ark:/27023/a2ea99e2f6d380c67029e3ddb0b54b55> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/a2ea99e2f6d380c67029e3ddb0b54b55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a2ea99e2f6d380c67029e3ddb0b54b55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#identifier> "nf%201621-24" .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#name> "Jonge man van Orahili, Zuid Nias." .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: JONGE MAN VAN ORAHILI, Z. NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\nOpname toont een jonge Niasser, buiten " .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#identifier> "2002/10/17-1-3" .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#name> "Carte de visite Henri Marie Vis" .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#description> "Foto, carte de visite Henri Marie Vis, geboren 14.01.1870\r\n\"Atelier Petz & Co Java Batavia\"." .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#creator> "Petz & Co, Photografen, Batavia" .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2de0532f6cda5469b06d72ef355c2e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2de0532f6cda5469b06d72ef355c2e7> <https://colonialcollections.nl/schema#identifier> "nf%20842-420" .
 <https://n2t.net/ark:/27023/a2de0532f6cda5469b06d72ef355c2e7> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 01 t/m 36. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 23, in pot" .
@@ -37,6 +74,7 @@
 <https://n2t.net/ark:/27023/a2f669f7a73de1dde233ef68409f263b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a2f669f7a73de1dde233ef68409f263b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a2f669f7a73de1dde233ef68409f263b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a2f669f7a73de1dde233ef68409f263b> <https://colonialcollections.nl/schema#creator> "Stadtmuseum (München)" .
 <https://n2t.net/ark:/27023/a30b3b46342a4795242624273b9e1073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a30b3b46342a4795242624273b9e1073> <https://colonialcollections.nl/schema#identifier> "nf%201545" .
 <https://n2t.net/ark:/27023/a30b3b46342a4795242624273b9e1073> <https://colonialcollections.nl/schema#description> "Stereofoto, foto's opgeplakt op lichtgrijs karton, van karton hoeken afgerond.\r\nLos aangetroffen met vele anderen.\r\n\r\nOpnames tonen een hoog op palen staand woonhuis van de inheemse bevolking. Een stijle trap leidt naar de woonverdieping. het dak is van p" .
@@ -49,6 +87,12 @@
 <https://n2t.net/ark:/27023/a30f3593779a055fc7f6e865e54dbd10> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a30f3593779a055fc7f6e865e54dbd10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a30f3593779a055fc7f6e865e54dbd10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#identifier> "nf%20323-13-1" .
+<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#description> "bijschrift; 'Een vrouw uit Sital.'" .
+<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a322374b0800477ede573154fcc96eb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a322374b0800477ede573154fcc96eb4> <https://colonialcollections.nl/schema#identifier> "nf%201628-3" .
 <https://n2t.net/ark:/27023/a322374b0800477ede573154fcc96eb4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant in potlood: 'Selamatan (godsdienstige maaltijd) ter gelegenheid van de  ingebruikneming van het Hoofdpost- en Telegraafkantoor te Bandoeng in 1928'.\r\n\r\nBuitenopname toont een grote groep personen, meest m" .
@@ -62,20 +106,6 @@
 <https://n2t.net/ark:/27023/a3140821ce72c5ebaef7293c6cf85e79> <https://colonialcollections.nl/schema#inscription> "J. Streef" .
 <https://n2t.net/ark:/27023/a3140821ce72c5ebaef7293c6cf85e79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a3140821ce72c5ebaef7293c6cf85e79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/138" .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#name> "Hospitaal te Lawé Sagoe (Alaslanden)." .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#description> "Foto. Ongetoonde variant.\r\nVan plaat 80." .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#inscription> "Hospitaal te Lawé Sagoe (Alaslanden)." .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a2fc977b4f1d307d7b465f57bd550be6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#identifier> "2012/05/18-1/53" .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#name> "\"Buitenzorg. 1122. Brug over de vijver.\"" .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Buitenzorg. 1122. Brug over de vijver.\" Van Edmund van Vollenhoven aan Mevrouw H. Voltelen te 's-Gravanhage. Gestempeld 22-10-[1922]" .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#inscription> "W.&S. H." .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a30190bdcdcf3e6e3c8f7d558885f6bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2dd7fbc9226510d423d4cf0249e2d64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2dd7fbc9226510d423d4cf0249e2d64> <https://colonialcollections.nl/schema#identifier> "2005/04/18-3-5" .
 <https://n2t.net/ark:/27023/a2dd7fbc9226510d423d4cf0249e2d64> <https://colonialcollections.nl/schema#name> "Houten beeld, op een Garuda" .
@@ -460,24 +490,6 @@
 <https://n2t.net/ark:/27023/a3222bef6373a43301214e1c553bd425> <https://colonialcollections.nl/schema#description> "Exemplaren van Onderdeelsblad \"De Stethoscoop. Orgaan van het Nederlans Militair Hospitaal Padang\"." .
 <https://n2t.net/ark:/27023/a3222bef6373a43301214e1c553bd425> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a3222bef6373a43301214e1c553bd425> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#identifier> "2004/07/13-2" .
-<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#name> "Portret van Generaal Majoor A.V. Michiels, door J.A. Kruseman" .
-<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#description> "Schilderij zonder lijst. Portret (kniestuk) van Generaal Majoor A.V. Michiels (1797-1849), door J.A. Kruseman (1804-1862). Doek op spieraam.\r\nLinksonder in rood gesigneerd: \"J.A. kruseman1855\"\r\nHet portret is dientiek aan het grote (133x 100cm) portret in" .
-<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a2e862b150dac97a4e9890c5e7d175f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#identifier> "nf%201621-24" .
-<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#name> "Jonge man van Orahili, Zuid Nias." .
-<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: JONGE MAN VAN ORAHILI, Z. NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\nOpname toont een jonge Niasser, buiten " .
-<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a2f9e92e9a898206e58a017f4d7d5bec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#identifier> "2002/10/17-1-3" .
-<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#name> "Carte de visite Henri Marie Vis" .
-<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#description> "Foto, carte de visite Henri Marie Vis, geboren 14.01.1870\r\n\"Atelier Petz & Co Java Batavia\"." .
-<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a310f1aa317b3803ce3b861c45b9600a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2e53aefd6e67568222f05f8f8a79004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2e53aefd6e67568222f05f8f8a79004> <https://colonialcollections.nl/schema#identifier> "S%20917" .
 <https://n2t.net/ark:/27023/a2e53aefd6e67568222f05f8f8a79004> <https://colonialcollections.nl/schema#description> "Mes met schede" .
@@ -558,11 +570,6 @@
 <https://n2t.net/ark:/27023/a318057c2b7ab3e6958693f1df6e71ca> <https://colonialcollections.nl/schema#description> "Pakje kretek, aangebroken. Tjap Gudang Garam\" 10 sigaretten. 40 Rupia. [met 3 sigaretten]" .
 <https://n2t.net/ark:/27023/a318057c2b7ab3e6958693f1df6e71ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a318057c2b7ab3e6958693f1df6e71ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#identifier> "nf%20323-13-1" .
-<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#description> "bijschrift; 'Een vrouw uit Sital.'" .
-<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a31b5eaf31a78d07ad70771f379da6c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2df93f658a6b52c6c89f3cd3452f936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2df93f658a6b52c6c89f3cd3452f936> <https://colonialcollections.nl/schema#identifier> "nf%20842-134" .
 <https://n2t.net/ark:/27023/a2df93f658a6b52c6c89f3cd3452f936> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .

@@ -19,6 +19,14 @@
 <https://n2t.net/ark:/27023/a49ceb615fa896c86355a1069b239458> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/a49ceb615fa896c86355a1069b239458> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a49ceb615fa896c86355a1069b239458> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#identifier> "S%20240-280-7" .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#name> "La fabrique de sucre située dans le domaine de Serpon, érigée pas Mr. J.J. van Braam" .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#description> "'La fabrique de sucre située dans le domaine de Serpon, érigée pas Mr. J.J. van Braam'\r\nAfbeelding uit: 'Vues de Java' / dessinées d'après natures et lithographiées sous la direction de monsieur J.J. van Braam. - Amsterdam : Buffa, [1842]\r\nHerkomst: Indon" .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#creator> "Willem Jan Gordon" .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#creator> "Hilmar Johannes Backer" .
 <https://n2t.net/ark:/27023/a4a1190b09360988dff374c9335b6824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a4a1190b09360988dff374c9335b6824> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/67" .
 <https://n2t.net/ark:/27023/a4a1190b09360988dff374c9335b6824> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -47,6 +55,7 @@
 <https://n2t.net/ark:/27023/a4afbd8cced0909cad73755c515d149d> <https://colonialcollections.nl/schema#creator> "Luchtkuuroord Tengger" .
 <https://n2t.net/ark:/27023/a4afbd8cced0909cad73755c515d149d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a4afbd8cced0909cad73755c515d149d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a4afbd8cced0909cad73755c515d149d> <https://colonialcollections.nl/schema#creator> "S. Bakker Jz., Koog-Zaandijk" .
 <https://n2t.net/ark:/27023/a4b4c1a951b1c29db0218e3d286baf2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a4b4c1a951b1c29db0218e3d286baf2a> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-77" .
 <https://n2t.net/ark:/27023/a4b4c1a951b1c29db0218e3d286baf2a> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -501,12 +510,6 @@
 <https://n2t.net/ark:/27023/a4d5b4ca8dd1df5c214b4fc5f6daecba> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto´s Indië, tempelgebouwen, potrettten militair, etcetera." .
 <https://n2t.net/ark:/27023/a4d5b4ca8dd1df5c214b4fc5f6daecba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a4d5b4ca8dd1df5c214b4fc5f6daecba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#identifier> "S%20240-280-7" .
-<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#name> "La fabrique de sucre située dans le domaine de Serpon, érigée pas Mr. J.J. van Braam" .
-<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#description> "'La fabrique de sucre située dans le domaine de Serpon, érigée pas Mr. J.J. van Braam'\r\nAfbeelding uit: 'Vues de Java' / dessinées d'après natures et lithographiées sous la direction de monsieur J.J. van Braam. - Amsterdam : Buffa, [1842]\r\nHerkomst: Indon" .
-<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a49fe49e45e24b1bcf734168d50e3bb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a4916f86eabf17a43af0cb50777a7683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a4916f86eabf17a43af0cb50777a7683> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42008" .
 <https://n2t.net/ark:/27023/a4916f86eabf17a43af0cb50777a7683> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkoker\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezels, gevlochten\r\nEmailadres: toelichting:\tDe koker wordt gebruikt voor het opbergen van sigaretten. De koker is gemaakt van gevlochten fijne naturelkleuri" .

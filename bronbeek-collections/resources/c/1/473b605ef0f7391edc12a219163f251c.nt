@@ -1,11 +1,26 @@
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#identifier> "1981/05/18-1-2/2" .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#name> "Portret van 2e Luitenant D.B.W. van Ardenne met vrouw" .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#description> "Carte de Cabinet zwart-wit. Portret van 2e Luitenant D.B.W. van Ardenne met vrouw. Hij draagt MWO." .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#creator> "Koene & Co, Batavia" .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/2" .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#name> "Wachthuisje" .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Wachthuisje'." .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#identifier> "nf%20441" .
 <https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#name> "Moesdjid Kota-Baroe, Sumatra's Westkust" .
 <https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#description> "Moesdjid Kota-Baroe, Sumatra's Westkust" .
-<https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
+<https://n2t.net/ark:/27023/79fb78bc910a57573709a7db759d97fb> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7a00c76f5bb79bb4c4caec0710df5721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a00c76f5bb79bb4c4caec0710df5721> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/49" .
 <https://n2t.net/ark:/27023/7a00c76f5bb79bb4c4caec0710df5721> <https://colonialcollections.nl/schema#name> "Een eenheid van Indonesische en Nederlandse militairen met geweren marcheerd op een open veld" .
@@ -27,6 +42,13 @@
 <https://n2t.net/ark:/27023/7a15bc3b9b9dedfb17cbe63d4a0159f1> <https://colonialcollections.nl/schema#creator> "Schout-bij-nacht Q.M.R. Ver Huell" .
 <https://n2t.net/ark:/27023/7a15bc3b9b9dedfb17cbe63d4a0159f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a15bc3b9b9dedfb17cbe63d4a0159f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#identifier> "IB1967/08/24-1-7" .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#name> "Gipsen beeld van een Javaanse vrouw" .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#description> "beeld van een staande Javaanse vrouw. Mendes da Costa?" .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#creator> "Joseph Mendes da Costa" .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/79f31bb345ca93e344bf521f0fa0f6f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/79f31bb345ca93e344bf521f0fa0f6f7> <https://colonialcollections.nl/schema#identifier> "nf%20842-384" .
 <https://n2t.net/ark:/27023/79f31bb345ca93e344bf521f0fa0f6f7> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 37 t/m 72.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 63, in potloo" .
@@ -497,24 +519,6 @@
 <https://n2t.net/ark:/27023/7a34cc5a46efd2765f031e2a59ac8b55> <https://colonialcollections.nl/schema#description> "Kraagpat, textiel, Majoor (veldtenue), rechts." .
 <https://n2t.net/ark:/27023/7a34cc5a46efd2765f031e2a59ac8b55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a34cc5a46efd2765f031e2a59ac8b55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#identifier> "1981/05/18-1-2/2" .
-<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#name> "Portret van 2e Luitenant D.B.W. van Ardenne met vrouw" .
-<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#description> "Carte de Cabinet zwart-wit. Portret van 2e Luitenant D.B.W. van Ardenne met vrouw. Hij draagt MWO." .
-<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/79f43457f89ceaafb2e79e28fc466475> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/2" .
-<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#name> "Wachthuisje" .
-<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Wachthuisje'." .
-<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/79f836fc68ed1c47d40b6595bf56524c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#identifier> "IB1967/08/24-1-7" .
-<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#name> "Gipsen beeld van een Javaanse vrouw" .
-<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#description> "beeld van een staande Javaanse vrouw. Mendes da Costa?" .
-<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7a22af8dbcea649492ed491367c8ff85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/79efd8d0878924193fe02fad769f33eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/79efd8d0878924193fe02fad769f33eb> <https://colonialcollections.nl/schema#identifier> "S%2089-14" .
 <https://n2t.net/ark:/27023/79efd8d0878924193fe02fad769f33eb> <https://colonialcollections.nl/schema#description> "Eenvoudige dolk uit een van de Mentawei eilanden. Lemmet met evenwijdige rug en snede, beide eindigend in punt. Greep van hout, onder lichte hoek met lemmet. Schede van hout.\r\nHerkomst: Pagèh eiland, Sumatra." .

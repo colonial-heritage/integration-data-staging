@@ -6,6 +6,20 @@
 <https://n2t.net/ark:/27023/a7d15b9b5aaf1fdc574285b91d19579a> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/a7d15b9b5aaf1fdc574285b91d19579a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a7d15b9b5aaf1fdc574285b91d19579a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/361" .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Kerklaan, Menado\".\r\nUitgave van Gebr. Que, Menado." .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#identifier> "2007/09/13-2-1" .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#name> "Schilderij van KNIL-soldaat, olieverf op doek" .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#description> "Schilderij van KNIL-soldaat, olieverf op doek. Geschilderd door Herman van Oort." .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#creator> "Herman van Oort" .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a7b2e62fe9329c02c7f07eb2e418ec54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7b2e62fe9329c02c7f07eb2e418ec54> <https://colonialcollections.nl/schema#identifier> "nf%20789-43" .
 <https://n2t.net/ark:/27023/a7b2e62fe9329c02c7f07eb2e418ec54> <https://colonialcollections.nl/schema#name> "'s Lands Plantentuin, Buitenzorg" .
@@ -13,6 +27,20 @@
 <https://n2t.net/ark:/27023/a7b2e62fe9329c02c7f07eb2e418ec54> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a7b2e62fe9329c02c7f07eb2e418ec54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a7b2e62fe9329c02c7f07eb2e418ec54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/183" .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Louise Straeter." .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#identifier> "2011/10/01-4-15/1" .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#name> "Tentoonstelling Noord-Brabantse Nijverheid\", 17 juli - 5 september 1897." .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#description> "Foto op passepartout, 3 stuks. \"Tentoonstelling Noord-Brabantse Nijverheid\", 17 juli - 5 september 1897.\"\r\nFotograaf: \"P. Weijnen, 's Bosch\"." .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#creator> "P. Weijnen" .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a7eb23ef815a60316a945cac49f97e58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7eb23ef815a60316a945cac49f97e58> <https://colonialcollections.nl/schema#identifier> "nf%201765-1" .
 <https://n2t.net/ark:/27023/a7eb23ef815a60316a945cac49f97e58> <https://colonialcollections.nl/schema#name> "Ouderwetse woning" .
@@ -27,6 +55,20 @@
 <https://n2t.net/ark:/27023/a7ed7e8a5232aaa09f620bfb3f141020> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a7ed7e8a5232aaa09f620bfb3f141020> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a7ed7e8a5232aaa09f620bfb3f141020> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#identifier> "1994/06/01-6/29" .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#name> "J.I. de Rochemont voor huis met A.C. van Marle-de Rochemont & Kapitein H.A. van Marle." .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout, van familie de Rochemont (militair / civiel). Afkomstig uit lederen cassette met decoraties van luitenant-kolonel J.I. de Rochemont.\r\nOp achterzijde in pen: \"Magelang, 1910. Kapiteinswoning. Oud. Ov. J.I. de Rochemont (1834-1914), A" .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/5" .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz op Bronbeek" .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#description> "Leden van het Detachement Van Heutsz met bewoners Bronbeek voor het hospitaal.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a7ac9147b3db3582bfe28140d0695a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7ac9147b3db3582bfe28140d0695a72> <https://colonialcollections.nl/schema#identifier> "nf%201434-18" .
 <https://n2t.net/ark:/27023/a7ac9147b3db3582bfe28140d0695a72> <https://colonialcollections.nl/schema#description> "Stereofoto, beide foto's opgeplakt op donkergrijs karton. Op voorkant in rechterbovenhoek voorzien van nummers in potlood en inkt, die echter niet opgenomen zijn in TMS.\r\n\r\nOpname toont de rivier met daarop een vierpersoonsroeiboot (allen vrouwen), met st" .
@@ -506,42 +548,6 @@
 <https://n2t.net/ark:/27023/a7fa15f097bb75e594ed64d26c6e6328> <https://colonialcollections.nl/schema#description> "zw/w.foto. Acht vrouwen en twee kinderen staand in landschap. Zeven van de vrouwn zijn gekleed in inheemse kleding. De jongens zijn Martin en Gerrit Slagter, de Europese vrouw [hun moeder, de vrouw van Kapitein Slagter].\r\n\r\nfoto is opgeplakt met aantal an" .
 <https://n2t.net/ark:/27023/a7fa15f097bb75e594ed64d26c6e6328> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a7fa15f097bb75e594ed64d26c6e6328> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/361" .
-<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Kerklaan, Menado\".\r\nUitgave van Gebr. Que, Menado." .
-<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7b08e7ff27999f8146389b7456a916a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#identifier> "2007/09/13-2-1" .
-<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#name> "Schilderij van KNIL-soldaat, olieverf op doek" .
-<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#description> "Schilderij van KNIL-soldaat, olieverf op doek. Geschilderd door Herman van Oort." .
-<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7b29565705d6527f879ba444f657e15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/183" .
-<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Louise Straeter." .
-<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7bfca4f6a9a653191348f8fb6a1b666> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#identifier> "2011/10/01-4-15/1" .
-<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#name> "Tentoonstelling Noord-Brabantse Nijverheid\", 17 juli - 5 september 1897." .
-<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#description> "Foto op passepartout, 3 stuks. \"Tentoonstelling Noord-Brabantse Nijverheid\", 17 juli - 5 september 1897.\"\r\nFotograaf: \"P. Weijnen, 's Bosch\"." .
-<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7ea260a6b8870ccc580ccc287a0eff1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#identifier> "1994/06/01-6/29" .
-<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#name> "J.I. de Rochemont voor huis met A.C. van Marle-de Rochemont & Kapitein H.A. van Marle." .
-<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout, van familie de Rochemont (militair / civiel). Afkomstig uit lederen cassette met decoraties van luitenant-kolonel J.I. de Rochemont.\r\nOp achterzijde in pen: \"Magelang, 1910. Kapiteinswoning. Oud. Ov. J.I. de Rochemont (1834-1914), A" .
-<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7f693fca87306632277e5dcc428ab43> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/5" .
-<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz op Bronbeek" .
-<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#description> "Leden van het Detachement Van Heutsz met bewoners Bronbeek voor het hospitaal.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7fa0c2469a519776c5830c87c7d7cc3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a7ae36b5571510b089947d4d728a2741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7ae36b5571510b089947d4d728a2741> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43092" .
 <https://n2t.net/ark:/27023/a7ae36b5571510b089947d4d728a2741> <https://colonialcollections.nl/schema#description> "Kris met schede" .

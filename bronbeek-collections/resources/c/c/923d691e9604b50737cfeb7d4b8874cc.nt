@@ -14,6 +14,13 @@
 <https://n2t.net/ark:/27023/427ebd7e58555cd9ce956c78d05b8c8b> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/427ebd7e58555cd9ce956c78d05b8c8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/427ebd7e58555cd9ce956c78d05b8c8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#identifier> "2006/00-57-2" .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#name> "Groet uit Batavia. Gang  Ketapang" .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door Loa Po Seng & Co., Weltevreden en Meester Cornelis. Handel in Provsien, Sigaren en Modeartikelen. \"Groet uit Batavia. Gang  Ketapang\"" .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#creator> "Loa Po Seng & Co." .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/425890446cadd597cf67d827ce313cff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/425890446cadd597cf67d827ce313cff> <https://colonialcollections.nl/schema#identifier> "nf%20842-88" .
 <https://n2t.net/ark:/27023/425890446cadd597cf67d827ce313cff> <https://colonialcollections.nl/schema#name> "Waterval bij Batu, Oost-java" .
@@ -28,6 +35,20 @@
 <https://n2t.net/ark:/27023/425e2b48f77a3beb797e841165ac9db5> <https://colonialcollections.nl/schema#creator> "Persfoto-bureau \"Gelderland\" Nijmegen" .
 <https://n2t.net/ark:/27023/425e2b48f77a3beb797e841165ac9db5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/425e2b48f77a3beb797e841165ac9db5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#identifier> "1998/05/03-1-2" .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#name> "Schoolplaat van W.J. Ising getiteld \"In de Minahasa\"" .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#description> "Schoolplaat getiteld \"In de Minahasa\". Naar een schildering van W.J. Ising. Uit de serie Insulinde in woord en beeld van Henri Zondervan." .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#creator> "Willem Justus Ising" .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#identifier> "2013/12/05-5-5" .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#name> "J.P.Coen Verzameling: Bali C" .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#description> "Doos met 9 lantaarnplaatjes. \"J.P. Coen verzameling. Bali C.\" Uitgave van T.O.A. Aerdenhout. Alle plaatjes genummerd en gelabeld. Aanwezig de nummers: 29-30-31-33-34-35-36-37-38." .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#creator> "T.O.A. Aerdenhout" .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4258e4f9ca11c7945d0a2c2a162a6d99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4258e4f9ca11c7945d0a2c2a162a6d99> <https://colonialcollections.nl/schema#identifier> "nf%20928-15-2" .
 <https://n2t.net/ark:/27023/4258e4f9ca11c7945d0a2c2a162a6d99> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt, geen bijschrift.\r\n\r\nOpname van een aantal blanke personen die aan het zwemmen zijn. Onduidelijk is of het hier een echt zwembad betreft of een meer/rivier. Zo te zien ligt het in of bij een rubberonderneming. \r\nErg" .
@@ -518,24 +539,6 @@
 <https://n2t.net/ark:/27023/428da688a21a0be42d4576689123cea3> <https://colonialcollections.nl/schema#description> "Foto (van totaal 69 foto´s), Vliegschool Jackson, Mississippi United States of America. 1943-1944" .
 <https://n2t.net/ark:/27023/428da688a21a0be42d4576689123cea3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/428da688a21a0be42d4576689123cea3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#identifier> "2006/00-57-2" .
-<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#name> "Groet uit Batavia. Gang  Ketapang" .
-<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door Loa Po Seng & Co., Weltevreden en Meester Cornelis. Handel in Provsien, Sigaren en Modeartikelen. \"Groet uit Batavia. Gang  Ketapang\"" .
-<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4256dd6e85f3c1042905d48732913e24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#identifier> "1998/05/03-1-2" .
-<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#name> "Schoolplaat van W.J. Ising getiteld \"In de Minahasa\"" .
-<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#description> "Schoolplaat getiteld \"In de Minahasa\". Naar een schildering van W.J. Ising. Uit de serie Insulinde in woord en beeld van Henri Zondervan." .
-<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/427a2a980c247e031bc6957835b729a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#identifier> "2013/12/05-5-5" .
-<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#name> "J.P.Coen Verzameling: Bali C" .
-<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#description> "Doos met 9 lantaarnplaatjes. \"J.P. Coen verzameling. Bali C.\" Uitgave van T.O.A. Aerdenhout. Alle plaatjes genummerd en gelabeld. Aanwezig de nummers: 29-30-31-33-34-35-36-37-38." .
-<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/428723028a2eb747f38500512b623649> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4254773921c3d6a6beaa7e3199a06797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4254773921c3d6a6beaa7e3199a06797> <https://colonialcollections.nl/schema#identifier> "nf%201406-11" .
 <https://n2t.net/ark:/27023/4254773921c3d6a6beaa7e3199a06797> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen\r\n\r\nAchter op foto staat in inkt geschreven:\r\n'5 April '27 - Gereed voor de terugtocht. De pondok op de top van de Taroeb'.\r\n\r\nOpname toont een aantal mannen, drie blanke en zeker zes lokale. Ook is er veel ba" .

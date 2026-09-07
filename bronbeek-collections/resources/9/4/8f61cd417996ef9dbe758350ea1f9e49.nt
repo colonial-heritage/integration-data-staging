@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/11" .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#name> "Batak (Sumatra)" .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Batak (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#inscription> "Batakker (Sumatra)" .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
 <https://n2t.net/ark:/27023/d67e2cc640d0737fddfed5ab3a0f3e0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d67e2cc640d0737fddfed5ab3a0f3e0c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/115" .
 <https://n2t.net/ark:/27023/d67e2cc640d0737fddfed5ab3a0f3e0c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -12,6 +21,20 @@
 <https://n2t.net/ark:/27023/d680f62167dec96647c4624f63c38497> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d680f62167dec96647c4624f63c38497> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d680f62167dec96647c4624f63c38497> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/102" .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: W. v. Swieten-Strater, ca. 16 jaar oud ; C.L. v. Swieten-Strater, ca. 16 jaar oud.\r\nFotograaf: De Lavieter & Co., Den Haag." .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#creator> "De Lavieter & Co, Photographes" .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/5" .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. KNIL-militairen met bamboehoed op de Dam, Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d69171d9364e0cb9dad2c206d2542846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d69171d9364e0cb9dad2c206d2542846> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-2" .
 <https://n2t.net/ark:/27023/d69171d9364e0cb9dad2c206d2542846> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali, Batavia" .
@@ -19,6 +42,13 @@
 <https://n2t.net/ark:/27023/d69171d9364e0cb9dad2c206d2542846> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
 <https://n2t.net/ark:/27023/d69171d9364e0cb9dad2c206d2542846> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d69171d9364e0cb9dad2c206d2542846> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#identifier> "2018/05/23-6" .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#name> "Medaillon van glas in lood" .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#description> "Medaillon van glas in lood. Vrouwfiguur tussen twee palmen met de spreuk: Japanse Vrouwenkampen" .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#creator> "Pieter M. Barten" .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d697bbcca3d8676f2cad88b742658589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d697bbcca3d8676f2cad88b742658589> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-109" .
 <https://n2t.net/ark:/27023/d697bbcca3d8676f2cad88b742658589> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -33,6 +63,13 @@
 <https://n2t.net/ark:/27023/d6a0c7ba5eb5203dbeb246ee3fc0cafb> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/d6a0c7ba5eb5203dbeb246ee3fc0cafb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d6a0c7ba5eb5203dbeb246ee3fc0cafb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#identifier> "IB1965/07/07-2-1" .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#name> "Onweder aan de Zuid-kust van Java, van A.J.J. Payen" .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#description> "schilderij:\"Onweder aan de zuidkust van Java\" geschilderd door A.J.J.Payen eerste helft 19e eeuw\r\nin goede staat" .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#creator> "Antoine J.J. Payen" .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d6ae5fa188411c5098963a23d4692461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d6ae5fa188411c5098963a23d4692461> <https://colonialcollections.nl/schema#identifier> "nf%201140" .
 <https://n2t.net/ark:/27023/d6ae5fa188411c5098963a23d4692461> <https://colonialcollections.nl/schema#name> "Badende karbouwen - Karo hoogvlakte - Sumatra" .
@@ -59,13 +96,6 @@
 <https://n2t.net/ark:/27023/d6883136cd8a2b2035a11575a00e57a6> <https://colonialcollections.nl/schema#inscription> "\"Aug. Saverkool Batavia\" en \"VOC Milsco\" op kling." .
 <https://n2t.net/ark:/27023/d6883136cd8a2b2035a11575a00e57a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d6883136cd8a2b2035a11575a00e57a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/11" .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#name> "Batak (Sumatra)" .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Batak (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#inscription> "Batakker (Sumatra)" .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d67683a11c82f0d125760c70af3fc192> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d67503948fc729833e1fec59d5de78a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d67503948fc729833e1fec59d5de78a9> <https://colonialcollections.nl/schema#identifier> "2001/11/27-2-3" .
 <https://n2t.net/ark:/27023/d67503948fc729833e1fec59d5de78a9> <https://colonialcollections.nl/schema#name> "Huls gedecoreerd tot vaas" .
@@ -509,30 +539,6 @@
 <https://n2t.net/ark:/27023/d6c6c8f3b1da1e0598a478a7f5a37693> <https://colonialcollections.nl/schema#description> "Foto, zwartwit. Sawahs; op de achtergrond het Zuidergebergte, Wedi, Klaten, Java.\r\nUit enveloppes: \"Rijstbouw\" en \"Sawahs\"." .
 <https://n2t.net/ark:/27023/d6c6c8f3b1da1e0598a478a7f5a37693> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d6c6c8f3b1da1e0598a478a7f5a37693> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/102" .
-<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: W. v. Swieten-Strater, ca. 16 jaar oud ; C.L. v. Swieten-Strater, ca. 16 jaar oud.\r\nFotograaf: De Lavieter & Co., Den Haag." .
-<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d6858f3560b22edc1362d529f7023d52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/5" .
-<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
-<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. KNIL-militairen met bamboehoed op de Dam, Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d68d1ae1afb69009c5946c875070bb65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#identifier> "2018/05/23-6" .
-<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#name> "Medaillon van glas in lood" .
-<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#description> "Medaillon van glas in lood. Vrouwfiguur tussen twee palmen met de spreuk: Japanse Vrouwenkampen" .
-<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d691b9dd4a8685b0925ec6e0c2d3a820> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#identifier> "IB1965/07/07-2-1" .
-<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#name> "Onweder aan de Zuid-kust van Java, van A.J.J. Payen" .
-<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#description> "schilderij:\"Onweder aan de zuidkust van Java\" geschilderd door A.J.J.Payen eerste helft 19e eeuw\r\nin goede staat" .
-<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d6a77338f03baece3c4834868c3c6d01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d68c6dc40c8740a8974c7d49d56047ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d68c6dc40c8740a8974c7d49d56047ab> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41837" .
 <https://n2t.net/ark:/27023/d68c6dc40c8740a8974c7d49d56047ab> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tspijsdeksel\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tbladwerk\r\nEmailadres: toelichting:\tEen lanpwerpig spijsdeksel. De binnenzijde is gemaakt van repen blad, aan elkaar genaaid met draad. De buitenzijde is gemaa" .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/14" .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#name> "Protestantse Kerk te Weltevreden" .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Protestantse Kerk te Weltevreden.'" .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#inscription> "Protestantse Kerk te Weltevreden" .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1ee05a6b0d879ed332f2f73bcdf04411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1ee05a6b0d879ed332f2f73bcdf04411> <https://colonialcollections.nl/schema#identifier> "2017/07/28-5-14" .
 <https://n2t.net/ark:/27023/1ee05a6b0d879ed332f2f73bcdf04411> <https://colonialcollections.nl/schema#name> "Relatiegeschenk Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek" .
@@ -37,10 +45,10 @@
 <https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#identifier> "2018/02/18-8-2" .
 <https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#name> "Relatiegeschenk Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek" .
 <https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#description> "Relatiegeschenk Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek. Coin 3de serie goudkleurig metaal met indelingsembleem Y-Brigade op een blauwgrijze ondergrond. In blauwgrijze rand de tekst in vlakreliëf Y-Brigade. Keerzijde embleem KTOMM Bronbee" .
-<https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#creator> "Kapitein der Mariniers A.L.F. Broers" .
+<https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
 <https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
+<https://n2t.net/ark:/27023/1f07c6e69c3b799b4dbdaad863b3c80c> <https://colonialcollections.nl/schema#creator> "Kapitein der Mariniers A.L.F. Broers" .
 <https://n2t.net/ark:/27023/1f12b4dbe00581fc6131fa1ce8b4b07f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1f12b4dbe00581fc6131fa1ce8b4b07f> <https://colonialcollections.nl/schema#identifier> "nf%201413-140" .
 <https://n2t.net/ark:/27023/1f12b4dbe00581fc6131fa1ce8b4b07f> <https://colonialcollections.nl/schema#name> "Storm boven Moeara Padang" .
@@ -87,13 +95,6 @@
 <https://n2t.net/ark:/27023/1f0226f24bd8424cd68d48b5476884d5> <https://colonialcollections.nl/schema#inscription> "Houten hulpbrug W. van Soekoredjo" .
 <https://n2t.net/ark:/27023/1f0226f24bd8424cd68d48b5476884d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1f0226f24bd8424cd68d48b5476884d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/14" .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#name> "Protestantse Kerk te Weltevreden" .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Protestantse Kerk te Weltevreden.'" .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#inscription> "Protestantse Kerk te Weltevreden" .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1ed21a2614c4d5fcbdeff015abc8c95b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1ecd60ca1afe590fedc6469b2cfc539e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1ecd60ca1afe590fedc6469b2cfc539e> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-21d" .
 <https://n2t.net/ark:/27023/1ecd60ca1afe590fedc6469b2cfc539e> <https://colonialcollections.nl/schema#name> "Artikel \"Japan verovert het vliegveld Kendari in Zuidoost Celebes 1942 (1)\" door J.J. Nortier." .

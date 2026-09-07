@@ -1,3 +1,17 @@
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#identifier> "1993/11/22-1-2" .
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#name> "Schilderij Sawah's met Tangkuban Prahu op de achtergrond, gesigneerd KAIIDA" .
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#description> "Schilderij, sawah's met Tangkuban Prahu op de achtergrond, gesigneerd KAIIDA." .
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#creator> "Kaiida" .
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#identifier> "2005/00-7" .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#name> "Uniformpet Kepi-KNIL Inf. Sub. Officier" .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#description> "Uniformpet Kepi-KNIL Inf. Sub. Officier. Kepi met stormband en goudkleurige kokarde en oranje bovenrand (KNIL); zweetband zit los." .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#creator> "Gebroeders van Leer, Utrecht" .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/60a43606a93cc160324e3331686f8a88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/60a43606a93cc160324e3331686f8a88> <https://colonialcollections.nl/schema#identifier> "1997/00-1/14" .
 <https://n2t.net/ark:/27023/60a43606a93cc160324e3331686f8a88> <https://colonialcollections.nl/schema#name> "Landkaart van Java en Madoera" .
@@ -12,6 +26,13 @@
 <https://n2t.net/ark:/27023/60ae7c651f8a76e0f4a41bc99ad93f82> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/60ae7c651f8a76e0f4a41bc99ad93f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/60ae7c651f8a76e0f4a41bc99ad93f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#identifier> "2005/00-162" .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#name> "Je maintiendrai" .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#description> "Het wapen van Nederland met het devies Je maintiendrai." .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#creator> "E.J. van Leeuwen" .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/60b714de36fd6d5ce942e01a0fb01d98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/60b714de36fd6d5ce942e01a0fb01d98> <https://colonialcollections.nl/schema#identifier> "IB2012/08/01-2-3" .
 <https://n2t.net/ark:/27023/60b714de36fd6d5ce942e01a0fb01d98> <https://colonialcollections.nl/schema#name> "Portret van een onbekende Bronbeker, 1946" .
@@ -19,6 +40,13 @@
 <https://n2t.net/ark:/27023/60b714de36fd6d5ce942e01a0fb01d98> <https://colonialcollections.nl/schema#creator> "Johannes Uko Gorter" .
 <https://n2t.net/ark:/27023/60b714de36fd6d5ce942e01a0fb01d98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/60b714de36fd6d5ce942e01a0fb01d98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/5" .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Koningin Juliana tijdens het Indische buffet in gesprek met enkele gasten.\r\n\r\nVerso: stempel:\r\n\r\ncopyright \r\nnationaal foto persbureau n.v.\r\nheinz" .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#creator> "Nationaal Foto Persbureau" .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/60cde2848196ca7f8088f8311a5f2533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/60cde2848196ca7f8088f8311a5f2533> <https://colonialcollections.nl/schema#identifier> "1999/00-439" .
 <https://n2t.net/ark:/27023/60cde2848196ca7f8088f8311a5f2533> <https://colonialcollections.nl/schema#name> "Plaquette van Koningin Wilhelmina" .
@@ -57,6 +85,12 @@
 <https://n2t.net/ark:/27023/60c0670866f3757dedb419f1a6d73561> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/60c0670866f3757dedb419f1a6d73561> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/60c0670866f3757dedb419f1a6d73561> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#identifier> "nf%20841-76-4" .
+<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, zonder in inkt geschreven bij- onderschrift.\r\n\r\nVoor fotopagina 75 en heel waarschijnlijk ook fotopagina 76 geldt voor alle foto's op die pagina's de op pagina 75 geldende tekst: \"De Sibolga baai " .
+<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/60909e4082e05e3b80acbe9d4d4b68b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/60909e4082e05e3b80acbe9d4d4b68b8> <https://colonialcollections.nl/schema#identifier> "1991/10/17-2-25" .
 <https://n2t.net/ark:/27023/60909e4082e05e3b80acbe9d4d4b68b8> <https://colonialcollections.nl/schema#name> "Kalender van kokosschil" .
@@ -483,30 +517,6 @@
 <https://n2t.net/ark:/27023/60d3582ac59fd7ba013baa66e6c623bc> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van diensttijd korporaal L. Krijnen 1946-1949." .
 <https://n2t.net/ark:/27023/60d3582ac59fd7ba013baa66e6c623bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/60d3582ac59fd7ba013baa66e6c623bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#identifier> "1993/11/22-1-2" .
-<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#name> "Schilderij Sawah's met Tangkuban Prahu op de achtergrond, gesigneerd KAIIDA" .
-<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#description> "Schilderij, sawah's met Tangkuban Prahu op de achtergrond, gesigneerd KAIIDA." .
-<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/609758890364dcf43c4a824af4d4e934> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#identifier> "2005/00-7" .
-<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#name> "Uniformpet Kepi-KNIL Inf. Sub. Officier" .
-<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#description> "Uniformpet Kepi-KNIL Inf. Sub. Officier. Kepi met stormband en goudkleurige kokarde en oranje bovenrand (KNIL); zweetband zit los." .
-<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/609de8b2a319b349ed2cf8213d1429d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#identifier> "2005/00-162" .
-<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#name> "Je maintiendrai" .
-<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#description> "Het wapen van Nederland met het devies Je maintiendrai." .
-<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/60b25be42370415f75680fc5b2157868> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/5" .
-<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Koningin Juliana tijdens het Indische buffet in gesprek met enkele gasten.\r\n\r\nVerso: stempel:\r\n\r\ncopyright \r\nnationaal foto persbureau n.v.\r\nheinz" .
-<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/60c3ea5d2d0809efe48fd8e4dc9b93a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/60961925b48c8592b215f852d917f83e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/60961925b48c8592b215f852d917f83e> <https://colonialcollections.nl/schema#identifier> "nf%201306-37-3" .
 <https://n2t.net/ark:/27023/60961925b48c8592b215f852d917f83e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'Tandjoeng Priok: vertrek van Phil en Wheatershee?'\r\n\r\nAfbeelding toont een aantal personen, meest mannen, militairen, twee vrouwen en een pa" .
@@ -562,11 +572,6 @@
 <https://n2t.net/ark:/27023/60bfc34cccf9b1569d602472657e0140> <https://colonialcollections.nl/schema#description> "Zwaard, sikin panjang, met schede, met een licht gebogen lemmet, waarvan de rug concaaf, snede convex en waarin een brede bloedgroef zit. De steel is dubbel kelkvormig, onderste deel van ijzer met opening naar beneden, bovenste deel van rood koper met ope" .
 <https://n2t.net/ark:/27023/60bfc34cccf9b1569d602472657e0140> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/60bfc34cccf9b1569d602472657e0140> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#identifier> "nf%20841-76-4" .
-<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, zonder in inkt geschreven bij- onderschrift.\r\n\r\nVoor fotopagina 75 en heel waarschijnlijk ook fotopagina 76 geldt voor alle foto's op die pagina's de op pagina 75 geldende tekst: \"De Sibolga baai " .
-<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/60cd7586e70a9ba3d8c01f2d4002e9e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/60a3b3ff264532aba8fc9406921a323d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/60a3b3ff264532aba8fc9406921a323d> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-91" .
 <https://n2t.net/ark:/27023/60a3b3ff264532aba8fc9406921a323d> <https://colonialcollections.nl/schema#name> "Lans" .

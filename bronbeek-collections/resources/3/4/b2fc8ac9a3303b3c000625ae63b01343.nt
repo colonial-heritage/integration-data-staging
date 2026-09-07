@@ -3,9 +3,10 @@
 <https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#name> "9 prentbriefkaarten van NIWIN" .
 <https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, 9 stuks. NIWIN. Copyright N.V. Drukkerij de Spaarnestad, Haarlem.\r\nPasar Senen te Batavia\r\nVerkoper van mandwerk\r\nMoeilijkheden met de motor onderweg\r\nMariniers in Oost-Java\r\nVoedseluitreiking door het Rode Kruis op Madoera\r\nOssenspan i" .
 <https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#inscription> "Binnenlandsche Strijdkrachten 1944-1945; B" .
-<https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da9edbb4b75306a699eaf28e7ddc6420> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/dab3439833e988b1767e6df320637935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dab3439833e988b1767e6df320637935> <https://colonialcollections.nl/schema#identifier> "nf%20831" .
 <https://n2t.net/ark:/27023/dab3439833e988b1767e6df320637935> <https://colonialcollections.nl/schema#name> "Weltevreden - Wilhelmina-Park met monument" .
@@ -28,6 +29,13 @@
 <https://n2t.net/ark:/27023/dacb0166bdd291cfbef6c1ec555a6f68> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/dacb0166bdd291cfbef6c1ec555a6f68> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dacb0166bdd291cfbef6c1ec555a6f68> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#identifier> "1863/01/24-1-1" .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#name> "Portret in olieverf van wijlen Z.K.H. den Prins van Oranje, later Koning Willem II, gewond bij den veldslag van Waterloo" .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#description> "Schilderij van Koning Willem II (als Prins van Oranje in Generaalsuniform, 1815) door van Beest, in lijst\r\nolieverf op linnen, zwarte lijst\r\nMet arm in verband" .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#creator> "van Beest" .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/daa597361e6a205d99f9574701a937d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/daa597361e6a205d99f9574701a937d8> <https://colonialcollections.nl/schema#identifier> "nf%201619-15" .
 <https://n2t.net/ark:/27023/daa597361e6a205d99f9574701a937d8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nOpname toont een behoorlijk grote groep inheemse mannen bijeen op een grasveld. zowel links als rechts zijn draagbare 'eetstalletjes' te zien. \r\nDe achtergrond wordt gevormd door een gebouw, een soort loo" .
@@ -547,12 +555,6 @@
 <https://n2t.net/ark:/27023/dad5a84ad1ce0e2b14508f1754046001> <https://colonialcollections.nl/schema#description> "Kokertje van bamboe (5cm) met daarin kruit. Koker afgesloten door houten stop." .
 <https://n2t.net/ark:/27023/dad5a84ad1ce0e2b14508f1754046001> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dad5a84ad1ce0e2b14508f1754046001> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#identifier> "1863/01/24-1-1" .
-<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#name> "Portret in olieverf van wijlen Z.K.H. den Prins van Oranje, later Koning Willem II, gewond bij den veldslag van Waterloo" .
-<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#description> "Schilderij van Koning Willem II (als Prins van Oranje in Generaalsuniform, 1815) door van Beest, in lijst\r\nolieverf op linnen, zwarte lijst\r\nMet arm in verband" .
-<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dacb8a1f04c8a2c2aca36b3435210fa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/da9effb4ee1dd6e8e7f5a38df1b0749c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da9effb4ee1dd6e8e7f5a38df1b0749c> <https://colonialcollections.nl/schema#identifier> "nf%201308-8-3" .
 <https://n2t.net/ark:/27023/da9effb4ee1dd6e8e7f5a38df1b0749c> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nGeldend voor alle vier foto's op dit fotoblad 8 is er bovenaan links en helemaal onderaan in het midden in inkt geschreven tekst die luidt: 'De 2 vriendinnetjes: Hanna Prillewitz en Madelon Be" .

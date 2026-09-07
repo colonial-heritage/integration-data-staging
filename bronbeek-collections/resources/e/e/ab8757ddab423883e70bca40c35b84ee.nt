@@ -19,6 +19,13 @@
 <https://n2t.net/ark:/27023/e9d479e1535045dd52ebfbc4ffd3844c> <https://colonialcollections.nl/schema#creator> "Landstorm Soldaat KNIL Hendrik Willem Brouwer" .
 <https://n2t.net/ark:/27023/e9d479e1535045dd52ebfbc4ffd3844c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9d479e1535045dd52ebfbc4ffd3844c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/3" .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#name> "Fotokopie artikel 'Meer nieuws over \"Tinus Dezentjé\" ' door dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#description> "Fotokopie artikel, 2 pagina's. Uit het tijdschrift Tong-Tong, 30 maart 1968. In goede staat." .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#creator> "Dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <https://colonialcollections.nl/schema#identifier> "nf%201408-4" .
 <https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <https://colonialcollections.nl/schema#name> "Kotta Radja (Atjeh), Vredespark" .
@@ -26,6 +33,7 @@
 <https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9e7970c20381051a4ebc015ee2f1904> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/e9f0cf4c948b61c9362c5f9b801073eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9f0cf4c948b61c9362c5f9b801073eb> <https://colonialcollections.nl/schema#identifier> "2016/08/16-4-1/2" .
 <https://n2t.net/ark:/27023/e9f0cf4c948b61c9362c5f9b801073eb> <https://colonialcollections.nl/schema#name> "\"Nummer 3, Verschroeid bosch weg tusschen Soember [Petreng] en Kloet.\"" .
@@ -40,6 +48,13 @@
 <https://n2t.net/ark:/27023/e9f447ab5289ec1564a8b7ca38587783> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e9f447ab5289ec1564a8b7ca38587783> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9f447ab5289ec1564a8b7ca38587783> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#identifier> "2016/10/01-2" .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#name> "maquette Paleis van den Legercommandant Bandoeng Java Indonesië" .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#description> "maquette Paleis van den Legercommandant Bandung Java Indonesië ten behoeve van tentoonstelling: Van KNIL-militair tot meester-architect.\r\n\r\nSchaal: 1:125" .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#creator> "MaquetteAtelier Snijders" .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9aec1f87502e756cfd20da1a8aabaed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9aec1f87502e756cfd20da1a8aabaed> <https://colonialcollections.nl/schema#identifier> "nf%20929-32" .
 <https://n2t.net/ark:/27023/e9aec1f87502e756cfd20da1a8aabaed> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, half opgeplakt, zonder bijschrift\r\n\r\nOpname van een belangrijk gebeuren, misschien een bestuursoverdracht.\r\nCentraal een Indonesische man, in ceremonieel, 'Europese' stijl, tenue. Hij zit op een stoel en heeft een " .
@@ -64,6 +79,12 @@
 <https://n2t.net/ark:/27023/e9ceb7f59e88af4fc90c3bc6b3291527> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e9ceb7f59e88af4fc90c3bc6b3291527> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9ceb7f59e88af4fc90c3bc6b3291527> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#identifier> "nf%20323-9-2" .
+<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#description> "bijschrift; 'Panorama vanuit de hoogte van Riwoe. Uitzicht naar het Westen. Rechts het hooggebergte van Roeteng ; daaraan loodrecht aansluitend het gebergte van Toragolo dat zich tot de zee uitstrekt.'" .
+<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9e2b29ddfa70e7870249fc99fb3de20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9e2b29ddfa70e7870249fc99fb3de20> <https://colonialcollections.nl/schema#identifier> "nf%20929-21-1" .
 <https://n2t.net/ark:/27023/e9e2b29ddfa70e7870249fc99fb3de20> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, half opgeplakt, zonder bijschrift\r\n\r\nOpname van tweel blanke vrouwen, beide op een paard. Zij dragen een rijbroek, witte blouse en hebben een hoed op. Een Indonesische paardenjongen staat er ook bij.\r\nAchter hen ee" .
@@ -474,18 +495,6 @@
 <https://n2t.net/ark:/27023/e9f9b5d310610beca9d0d8d5609937c6> <https://colonialcollections.nl/schema#description> "Insigne Korea oorlog citation, metaal." .
 <https://n2t.net/ark:/27023/e9f9b5d310610beca9d0d8d5609937c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9f9b5d310610beca9d0d8d5609937c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/3" .
-<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#name> "Fotokopie artikel 'Meer nieuws over \"Tinus Dezentjé\" ' door dr H.J. de Graaf" .
-<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#description> "Fotokopie artikel, 2 pagina's. Uit het tijdschrift Tong-Tong, 30 maart 1968. In goede staat." .
-<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9df4a4c75901a9f9f75070cc01e99d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#identifier> "2016/10/01-2" .
-<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#name> "maquette Paleis van den Legercommandant Bandoeng Java Indonesië" .
-<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#description> "maquette Paleis van den Legercommandant Bandung Java Indonesië ten behoeve van tentoonstelling: Van KNIL-militair tot meester-architect.\r\n\r\nSchaal: 1:125" .
-<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9f589737c8ac5dd8d580f9feae70b91> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9aca4d3966359a91484a25fe570d4c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9aca4d3966359a91484a25fe570d4c2> <https://colonialcollections.nl/schema#identifier> "S%206244-146" .
 <https://n2t.net/ark:/27023/e9aca4d3966359a91484a25fe570d4c2> <https://colonialcollections.nl/schema#description> "gevlochten van gespleten reepjes rotan" .
@@ -546,11 +555,6 @@
 <https://n2t.net/ark:/27023/e9f263d5435f9f6cb32ac70e58a107e2> <https://colonialcollections.nl/schema#description> "Foto.\r\nNetherlands Indies Government Information Service (NIGIS) Film and Photo Unit. Melbourne. File: 26. 1945/10/02.\r\n\"Netherlanders who had evaded German conscription or were released when Holland was liberated volunteered for service in the Netherland" .
 <https://n2t.net/ark:/27023/e9f263d5435f9f6cb32ac70e58a107e2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9f263d5435f9f6cb32ac70e58a107e2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#identifier> "nf%20323-9-2" .
-<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#description> "bijschrift; 'Panorama vanuit de hoogte van Riwoe. Uitzicht naar het Westen. Rechts het hooggebergte van Roeteng ; daaraan loodrecht aansluitend het gebergte van Toragolo dat zich tot de zee uitstrekt.'" .
-<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9df8a12be4dfa462a4b8ae15917ba2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9ad50926ef03a3f31d4a4bea1c00c80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9ad50926ef03a3f31d4a4bea1c00c80> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-113" .
 <https://n2t.net/ark:/27023/e9ad50926ef03a3f31d4a4bea1c00c80> <https://colonialcollections.nl/schema#name> "Lans" .

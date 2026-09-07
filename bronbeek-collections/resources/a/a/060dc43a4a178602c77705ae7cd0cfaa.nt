@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-46" .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#name> "Port-Said. Panorama de Port Said." .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Port-Said. Panorama de Port Said., Gedateerd 3 oct. 1905.\r\nGeadresseerd aan: J.H. Mulder Jr., Amsterdam" .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#inscription> "Port-Said. Panorama de Port Said." .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#creator> "Carlo Mieli, Alexandrie (Egypte) deposé no.23" .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/012b7db02b5e60089527c8852db3cfff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/012b7db02b5e60089527c8852db3cfff> <https://colonialcollections.nl/schema#identifier> "2003/10/10-1-3/3" .
 <https://n2t.net/ark:/27023/012b7db02b5e60089527c8852db3cfff> <https://colonialcollections.nl/schema#name> "Knopen, metaal. Klimmende leeuw op wapenschild. Bronskleurig. Cordesius &zn, Batavia-C\", 5 groot model & 2 klein model" .
@@ -12,6 +20,13 @@
 <https://n2t.net/ark:/27023/0130dce262cec140ac7906645dfea041> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/0130dce262cec140ac7906645dfea041> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0130dce262cec140ac7906645dfea041> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#identifier> "nf%20527-2" .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#name> "bouw van een spoorbrug" .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng" .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M. Luijks, Bandoeng" .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/261" .
 <https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -19,6 +34,7 @@
 <https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/01429cf750329e455d584f2f17eeb6a0> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/014af2803ad84910456de74d9ca2d561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/014af2803ad84910456de74d9ca2d561> <https://colonialcollections.nl/schema#identifier> "1892/02-1-4" .
 <https://n2t.net/ark:/27023/014af2803ad84910456de74d9ca2d561> <https://colonialcollections.nl/schema#name> "Vaandel van het Korps Barisan van Pamekasan" .
@@ -116,13 +132,6 @@
 <https://n2t.net/ark:/27023/016db6d13d6b122e825181815c9a08b3> <https://colonialcollections.nl/schema#inscription> "Vince" .
 <https://n2t.net/ark:/27023/016db6d13d6b122e825181815c9a08b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/016db6d13d6b122e825181815c9a08b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-46" .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#name> "Port-Said. Panorama de Port Said." .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Port-Said. Panorama de Port Said., Gedateerd 3 oct. 1905.\r\nGeadresseerd aan: J.H. Mulder Jr., Amsterdam" .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#inscription> "Port-Said. Panorama de Port Said." .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/015fc72de7472ddb6baa2137deb9fd51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/011c2785c3c9359aa6bc24683461cc7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/011c2785c3c9359aa6bc24683461cc7a> <https://colonialcollections.nl/schema#identifier> "1880/12-1-5" .
 <https://n2t.net/ark:/27023/011c2785c3c9359aa6bc24683461cc7a> <https://colonialcollections.nl/schema#name> "IJzerhouten werpspies" .
@@ -543,12 +552,6 @@
 <https://n2t.net/ark:/27023/016c401487dc6de596f0468fada3411f> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit, diensttijd J. Grimme 1949-1951 Nederlands-Indië/Indonesië. Bandoeng." .
 <https://n2t.net/ark:/27023/016c401487dc6de596f0468fada3411f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/016c401487dc6de596f0468fada3411f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#identifier> "nf%20527-2" .
-<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#name> "bouw van een spoorbrug" .
-<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng" .
-<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/013974d9b63bc7048d0ea1959fd51ceb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/011ecb1fd5075beb83fe67296d37c851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/011ecb1fd5075beb83fe67296d37c851> <https://colonialcollections.nl/schema#identifier> "nf%20682-21-4" .
 <https://n2t.net/ark:/27023/011ecb1fd5075beb83fe67296d37c851> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, (zo goed als) vierkant, opgeplakt.\r\n\r\nOnder foto een getypt nummer: '84'\r\n\r\nOpname toont een (zo goed als) vierkante batikdoek, bevestigd/gelegd op een witte ondergrond.\r\nHet betreft hier een batikpatroon." .

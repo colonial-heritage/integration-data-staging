@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/4a0093535b4cc0163c119b75035ae437> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/4a0093535b4cc0163c119b75035ae437> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4a0093535b4cc0163c119b75035ae437> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/3" .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#name> "Biban-El-Malouk. 3 dec. 1855" .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#description> "Prent. Biban-El-Malouk. 3 dec. 1855." .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/49ebe22528ffa76f56a4a5239071bf50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/49ebe22528ffa76f56a4a5239071bf50> <https://colonialcollections.nl/schema#identifier> "nf%201325-10" .
 <https://n2t.net/ark:/27023/49ebe22528ffa76f56a4a5239071bf50> <https://colonialcollections.nl/schema#name> "Monument van Pieter Erberveld" .
@@ -24,9 +31,10 @@
 <https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#identifier> "nf%201408-48" .
 <https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#name> "PARA RUBBER - 6 JARIGE AANPLANT" .
 <https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#description> "afbeelding toont (rubber)bomen, die zoals links is te zien, al worden aangesneden.\r\nRechts achterin kweekbedden, al is moeilijk te zien of dit ook rubberzaailingen zijn.\r\n\r\nDeze afbeelding komt voor op plaat 40.\r\n\r\nDeze foto is waarschijnlijk ergens op No" .
-<https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/49ef5ac7aa1ac6466cbe9300278ae3f5> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/49f4f0bc3cd3a2c566d51ee673197d74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/49f4f0bc3cd3a2c566d51ee673197d74> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/34" .
 <https://n2t.net/ark:/27023/49f4f0bc3cd3a2c566d51ee673197d74> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -41,6 +49,13 @@
 <https://n2t.net/ark:/27023/49f878fe4ec5ecdf6fed3c7d622e6ad8> <https://colonialcollections.nl/schema#creator> "Persfoto-bureau \"Gelderland\" Nijmegen" .
 <https://n2t.net/ark:/27023/49f878fe4ec5ecdf6fed3c7d622e6ad8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/49f878fe4ec5ecdf6fed3c7d622e6ad8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#identifier> "nf%201315-1" .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#name> "Bandoeng - Landraadweg" .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4a065096362332c9a793119545bcf88c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4a065096362332c9a793119545bcf88c> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/25" .
 <https://n2t.net/ark:/27023/4a065096362332c9a793119545bcf88c> <https://colonialcollections.nl/schema#name> "Vruchtenverkooper te Batavia. (in kleur)" .
@@ -48,6 +63,13 @@
 <https://n2t.net/ark:/27023/4a065096362332c9a793119545bcf88c> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/4a065096362332c9a793119545bcf88c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4a065096362332c9a793119545bcf88c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-12" .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#creator> "de heer C. Engelen" .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4a1ac5fbd396c21babda650057afa4b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4a1ac5fbd396c21babda650057afa4b3> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/12" .
 <https://n2t.net/ark:/27023/4a1ac5fbd396c21babda650057afa4b3> <https://colonialcollections.nl/schema#name> "Kalie Mas- Soerabaja" .
@@ -55,6 +77,13 @@
 <https://n2t.net/ark:/27023/4a1ac5fbd396c21babda650057afa4b3> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/4a1ac5fbd396c21babda650057afa4b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4a1ac5fbd396c21babda650057afa4b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#identifier> "2008/02/18-1-2" .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#name> "Kepi tot uniform Tweede Luitenant Korps Marechaussee en Marechaussee bataljons KNIL" .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#description> "Hoofddeksel. Kepi tot attila Tweede Luitenant Korps Marechaussee. Uniform is compleet aanwezig, evenals bijbehorende pluim (wit), en wandelsabel." .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#creator> "Toko Militair, Magelang" .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4a1bba0f2877ecada165ae58dd62f694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4a1bba0f2877ecada165ae58dd62f694> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/235" .
 <https://n2t.net/ark:/27023/4a1bba0f2877ecada165ae58dd62f694> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -566,30 +595,6 @@
 <https://n2t.net/ark:/27023/4a28c9bfbc9966506f8e41d2fd2e3c41> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit. Tambaksari het hoekhuis is no.64 waar we eerst woonden (Soerabaia)" .
 <https://n2t.net/ark:/27023/4a28c9bfbc9966506f8e41d2fd2e3c41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4a28c9bfbc9966506f8e41d2fd2e3c41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/3" .
-<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#name> "Biban-El-Malouk. 3 dec. 1855" .
-<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#description> "Prent. Biban-El-Malouk. 3 dec. 1855." .
-<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/49e566bc3bb52de84b734317cf4f6711> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#identifier> "nf%201315-1" .
-<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#name> "Bandoeng - Landraadweg" .
-<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/49f902a02b27149ccfcf972c3424af19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-12" .
-<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
-<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
-<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4a15d9a9f9ff97f3ac3b0b8dddff6d37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#identifier> "2008/02/18-1-2" .
-<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#name> "Kepi tot uniform Tweede Luitenant Korps Marechaussee en Marechaussee bataljons KNIL" .
-<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#description> "Hoofddeksel. Kepi tot attila Tweede Luitenant Korps Marechaussee. Uniform is compleet aanwezig, evenals bijbehorende pluim (wit), en wandelsabel." .
-<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4a1ad6691f7a82de7d8558dbc889c44b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/49eec156f0438f9de5f9093bf35272da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/49eec156f0438f9de5f9093bf35272da> <https://colonialcollections.nl/schema#identifier> "S%20325-6" .
 <https://n2t.net/ark:/27023/49eec156f0438f9de5f9093bf35272da> <https://colonialcollections.nl/schema#description> "roerspatels; draaiend in dubbel-lusvormige heften (2 stuks); boveneinde spatels ajour bewerkt; ondereinde smal roervormig toelopend; op ondereinden licht ingnesneden figuren; blad- en ster- vormen en ruitmotieven; breedte handvat; 8,8 cm; breedte spatelui" .

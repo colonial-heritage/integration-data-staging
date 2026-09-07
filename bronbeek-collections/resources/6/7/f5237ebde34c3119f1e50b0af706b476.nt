@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#identifier> "2004/12/31-1-1/2" .
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#name> "Pantalon van ceremonieel tenue Majoor Regiment Johan Willem Friso" .
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#description> "Pantalon van ceremonieel tenue Majoor Regiment Johan Willem Friso. Jas + broek. Gemerkt: \"Louis Simon Jr. Dennenweg 75-77 Den Haag." .
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#creator> "Louis Simons Jr. Den Haag" .
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/241e82461b3615bede58f802ac1f8e0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/241e82461b3615bede58f802ac1f8e0a> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-14" .
 <https://n2t.net/ark:/27023/241e82461b3615bede58f802ac1f8e0a> <https://colonialcollections.nl/schema#name> "Van Messali (72) naar 108" .
@@ -19,6 +26,18 @@
 <https://n2t.net/ark:/27023/24333a068d58ad06efe7e052c99a093e> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/24333a068d58ad06efe7e052c99a093e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/24333a068d58ad06efe7e052c99a093e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#identifier> "nf%20323-5-1" .
+<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#description> "bijschrift; 'Een jongen uit Tjibal.'" .
+<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#identifier> "EDO%20481-51" .
+<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van lopende mensen, merendeel mannen. Bij goed bekijken is er een 'wit' iets te zien dat gedragen wordt. Waarschijnlijk is dit het lijk dat verbrand gaat worden." .
+<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/243971bbbcedef7326cf1a32be9419e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/243971bbbcedef7326cf1a32be9419e1> <https://colonialcollections.nl/schema#identifier> "nf%2066" .
 <https://n2t.net/ark:/27023/243971bbbcedef7326cf1a32be9419e1> <https://colonialcollections.nl/schema#description> "Twee waarschijnlijk houten beeldjes van dieren, de een heeft een staart van touw." .
@@ -521,12 +540,6 @@
 <https://n2t.net/ark:/27023/244a26507f6d548e744b5511cfa27308> <https://colonialcollections.nl/schema#description> "Foto's diensttijd." .
 <https://n2t.net/ark:/27023/244a26507f6d548e744b5511cfa27308> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/244a26507f6d548e744b5511cfa27308> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#identifier> "2004/12/31-1-1/2" .
-<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#name> "Pantalon van ceremonieel tenue Majoor Regiment Johan Willem Friso" .
-<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#description> "Pantalon van ceremonieel tenue Majoor Regiment Johan Willem Friso. Jas + broek. Gemerkt: \"Louis Simon Jr. Dennenweg 75-77 Den Haag." .
-<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/240ccc85ce2d1097c83834026bfae7b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/240fc78b812fa1caa6fb8e2a11ae361d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/240fc78b812fa1caa6fb8e2a11ae361d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42979" .
 <https://n2t.net/ark:/27023/240fc78b812fa1caa6fb8e2a11ae361d> <https://colonialcollections.nl/schema#description> "Polychroom houten beeld" .
@@ -567,16 +580,6 @@
 <https://n2t.net/ark:/27023/244481ccc456141b480338d7d8347897> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'Donna 6 weken' \r\n\r\nDe afbeelding toont een hond, vermoedelijk een boxer, op een stenen trap naar een terras bij een woning.\r\n\r\nN.B.: Centraa" .
 <https://n2t.net/ark:/27023/244481ccc456141b480338d7d8347897> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/244481ccc456141b480338d7d8347897> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#identifier> "nf%20323-5-1" .
-<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#description> "bijschrift; 'Een jongen uit Tjibal.'" .
-<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2423efed5b38bfb818498035a8809b93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#identifier> "EDO%20481-51" .
-<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van lopende mensen, merendeel mannen. Bij goed bekijken is er een 'wit' iets te zien dat gedragen wordt. Waarschijnlijk is dit het lijk dat verbrand gaat worden." .
-<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/242436ab850217b8c7720b2dd6736da5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/243e44b173650e9ba2ef8fbd7bd795a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/243e44b173650e9ba2ef8fbd7bd795a2> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-250" .
 <https://n2t.net/ark:/27023/243e44b173650e9ba2ef8fbd7bd795a2> <https://colonialcollections.nl/schema#name> "Hoofddeksel" .

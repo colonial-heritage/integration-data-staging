@@ -6,6 +6,16 @@
 <https://n2t.net/ark:/27023/c3b22f97ec4c164dc1d4de30134b6808> <https://colonialcollections.nl/schema#creator> "Luitenant-ingenieur Willem Nicolaas Rose (MWO4)" .
 <https://n2t.net/ark:/27023/c3b22f97ec4c164dc1d4de30134b6808> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c3b22f97ec4c164dc1d4de30134b6808> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c3b22f97ec4c164dc1d4de30134b6808> <https://colonialcollections.nl/schema#creator> "Koninklijke Steendrukkerij v. C.W. Mieling" .
+<https://n2t.net/ark:/27023/c3b22f97ec4c164dc1d4de30134b6808> <https://colonialcollections.nl/schema#creator> "H.J. Geerts" .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-4" .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#name> "Grisseesche weg te Soerabaia." .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Grisseesche weg te Soerabaia." .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#inscription> "Grisseesche weg te Soerabaia." .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#creator> "Naamlooze Vennootschap Boek en Handelsdrukkerij" .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c3999e5372c3bb137d8a698db33cf762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c3999e5372c3bb137d8a698db33cf762> <https://colonialcollections.nl/schema#identifier> "nf%201431-23" .
 <https://n2t.net/ark:/27023/c3999e5372c3bb137d8a698db33cf762> <https://colonialcollections.nl/schema#name> "Een pottenbakker" .
@@ -41,12 +51,28 @@
 <https://n2t.net/ark:/27023/c3c18bacff6eeec8dd1ea986bdbc677c> <https://colonialcollections.nl/schema#creator> "M.F.C. Seiker" .
 <https://n2t.net/ark:/27023/c3c18bacff6eeec8dd1ea986bdbc677c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c3c18bacff6eeec8dd1ea986bdbc677c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-3" .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#name> "Portret van Stephanie Haak Bastiaanse" .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#description> "Prent. Lithografie, portret van Stephanie Haak Bastiaanse." .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#creator> "P. Blommers" .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#creator> "N.J.W. de Roode" .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#identifier> "2017/07/30-3-9" .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#name> "Avondmaalsstel vlootpredikant" .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#description> "Avondmaalsbeker onderdeel van een avondmaalsstel van een vlootpredikant." .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#creator> "Gero" .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <https://colonialcollections.nl/schema#identifier> "nf%20396" .
 <https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <https://colonialcollections.nl/schema#description> "Tempelcomplex op Bali\r\nfoto is afgedrukt als ansichtkaart\r\ngedeelde achterkant, K Ltd in vierkant van de postzegel" .
 <https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c39ade25c7c53e018cd5edfa1d26a6de> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/c3b645dab0be6e7ad412f1baefd9ee25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c3b645dab0be6e7ad412f1baefd9ee25> <https://colonialcollections.nl/schema#identifier> "nf%20678-9-7" .
 <https://n2t.net/ark:/27023/c3b645dab0be6e7ad412f1baefd9ee25> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '589'. Geen verdere data.\r\n\r\nOpname toont een strand met de zee rechts en vegetatie reikend tot in zee.\r\n\r\nN.B.: De foto's nf 678-9-7 en nf 1375-589 zijn identiek.\r\n\r\nN.B.: H" .
@@ -98,13 +124,6 @@
 <https://n2t.net/ark:/27023/c3b06cb6cdafecf15b911395e979b42d> <https://colonialcollections.nl/schema#inscription> "\"J. Tel.\"" .
 <https://n2t.net/ark:/27023/c3b06cb6cdafecf15b911395e979b42d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c3b06cb6cdafecf15b911395e979b42d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-4" .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#name> "Grisseesche weg te Soerabaia." .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Grisseesche weg te Soerabaia." .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#inscription> "Grisseesche weg te Soerabaia." .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c3be3c5d47c58507c1f88e8ec471ddca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c386a8880e69e2ff66bb83424ba8351c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c386a8880e69e2ff66bb83424ba8351c> <https://colonialcollections.nl/schema#identifier> "2004/08/29-6-2/26" .
 <https://n2t.net/ark:/27023/c386a8880e69e2ff66bb83424ba8351c> <https://colonialcollections.nl/schema#name> "Foto Vliegschool Jackson, Mississippi United States of America, 1943-1944" .
@@ -549,18 +568,6 @@
 <https://n2t.net/ark:/27023/c3c7b643aacdf0122dd7bf45763b08ed> <https://colonialcollections.nl/schema#description> "Fotokopieën van typoscripten van Aarnoud Meijer:\r\n1. \"Ook zij waren de grote verliezers\". 2 pagina's over de Indische Nederlanders.\r\n2. \"Blanke koelie onder Nederlands gezag\" met fotokopieën van afrekening van \"tegoedgeschreven na-oorlogse (militaire) ink" .
 <https://n2t.net/ark:/27023/c3c7b643aacdf0122dd7bf45763b08ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c3c7b643aacdf0122dd7bf45763b08ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-3" .
-<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#name> "Portret van Stephanie Haak Bastiaanse" .
-<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#description> "Prent. Lithografie, portret van Stephanie Haak Bastiaanse." .
-<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c3c3e7ce1ba4d0d89ac70d96eba4d1a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#identifier> "2017/07/30-3-9" .
-<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#name> "Avondmaalsstel vlootpredikant" .
-<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#description> "Avondmaalsbeker onderdeel van een avondmaalsstel van een vlootpredikant." .
-<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c3c77be82dfb40a0d9d411f5e6d4ff64> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c38c2f6a6505cec99ed2262a2587764a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c38c2f6a6505cec99ed2262a2587764a> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/103" .
 <https://n2t.net/ark:/27023/c38c2f6a6505cec99ed2262a2587764a> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

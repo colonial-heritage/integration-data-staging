@@ -18,10 +18,10 @@
 <https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#identifier> "2003/09/04-3" .
 <https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#name> "Schoolplaat De Anai-kloof, Sumatra" .
 <https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#description> "Schoolplaat De Anai-kloof, Sumatra. Naar een schilderij van Bleckmann. \"Henri Zondervan, Insulinde in woord en beeld.\" \"J.B. Wolters Uitgeversmaatschappij N.V. Groningen, Batavia\"\r\nMet metalen hoeken (4 aanwezig)" .
-<https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
+<https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/43f0bb8a7b9552d7748ff0b9018c6dfb> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/43f31fbd864dfe85328b7ebb28057bb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43f31fbd864dfe85328b7ebb28057bb2> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/87" .
 <https://n2t.net/ark:/27023/43f31fbd864dfe85328b7ebb28057bb2> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -29,6 +29,20 @@
 <https://n2t.net/ark:/27023/43f31fbd864dfe85328b7ebb28057bb2> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/43f31fbd864dfe85328b7ebb28057bb2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43f31fbd864dfe85328b7ebb28057bb2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#identifier> "2012/11/28-1-5" .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#name> "J.F.H. Janssen, RMWO-4 met zijn echtgenote Sophie Hausmann" .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#description> "Foto van \"Fietje Janssen\" dochter van J.F.H. Janssen met Sophie Hausmann, gefotografeerd door F. Hisgen." .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#creator> "F.Hisgen" .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/85" .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: C.L. v. Swieten-Straeter.\r\nFotograaf: Adolphe Zimmermans, Den Haag." .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <https://colonialcollections.nl/schema#identifier> "S%206245-79" .
 <https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <https://colonialcollections.nl/schema#name> "uitzoeken der muskaatnoten" .
@@ -36,6 +50,14 @@
 <https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4405f698e557721fe63b65f9ebcde9f8> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#identifier> "2005/00-607/28" .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#name> "Foto van water met brug te Soengei Basagei" .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Water met brug en woningen te Soengei Basagei, Oostkust Sumatra.\r\n\r\nverso: in potlood \"photo genomen Augustus 1930. brug te Soengei Baseagei Sumatra-oostkust\"" .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44181a37f2994b69a02ca0e8f7c0b938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44181a37f2994b69a02ca0e8f7c0b938> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/392" .
 <https://n2t.net/ark:/27023/44181a37f2994b69a02ca0e8f7c0b938> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -62,6 +84,12 @@
 <https://n2t.net/ark:/27023/440006b3bc8e850a4acecdf7b8a57de3> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/440006b3bc8e850a4acecdf7b8a57de3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/440006b3bc8e850a4acecdf7b8a57de3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-26" .
+<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#description> "Carte de visite." .
+<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#creator> "C.A. von Hedemann, Java" .
+<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44158b95d78dbfa231ea7a5efe9a59b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44158b95d78dbfa231ea7a5efe9a59b3> <https://colonialcollections.nl/schema#identifier> "nf%20661" .
 <https://n2t.net/ark:/27023/44158b95d78dbfa231ea7a5efe9a59b3> <https://colonialcollections.nl/schema#description> "bouwput, aanleg van een waterleiding of riolering?" .
@@ -518,24 +546,6 @@
 <https://n2t.net/ark:/27023/442deb14d2f27ac329aca2072abc0666> <https://colonialcollections.nl/schema#description> "De strijd tegen den Inlandsche vijand. 15 vel getypt. Atjeh." .
 <https://n2t.net/ark:/27023/442deb14d2f27ac329aca2072abc0666> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/442deb14d2f27ac329aca2072abc0666> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#identifier> "2012/11/28-1-5" .
-<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#name> "J.F.H. Janssen, RMWO-4 met zijn echtgenote Sophie Hausmann" .
-<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#description> "Foto van \"Fietje Janssen\" dochter van J.F.H. Janssen met Sophie Hausmann, gefotografeerd door F. Hisgen." .
-<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43f85a67c7130a796a5a3106586aaab4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/85" .
-<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: C.L. v. Swieten-Straeter.\r\nFotograaf: Adolphe Zimmermans, Den Haag." .
-<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43fe77fab9e3aed7c83ba105315eceef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#identifier> "2005/00-607/28" .
-<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#name> "Foto van water met brug te Soengei Basagei" .
-<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Water met brug en woningen te Soengei Basagei, Oostkust Sumatra.\r\n\r\nverso: in potlood \"photo genomen Augustus 1930. brug te Soengei Baseagei Sumatra-oostkust\"" .
-<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4410a0cc87a39d954718846d2bd402ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44004d687110fd60575fe0e491ad21e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44004d687110fd60575fe0e491ad21e3> <https://colonialcollections.nl/schema#identifier> "2002/04/22-6-2/167" .
 <https://n2t.net/ark:/27023/44004d687110fd60575fe0e491ad21e3> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Vrouw zittend aan tafel op [voor- of achtergalerij] van huis.\r\nBandoeng, maart 1936\r\n\r\nverso: \"Bandoeng Maart 1936\"\r\nDe foto maakt deel uit van de uit 241 foto's bestaande collectie Japing, periode 1918-1938." .
@@ -571,11 +581,6 @@
 <https://n2t.net/ark:/27023/441925f301e3acf2959fd5591f781c9e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt geschreven luidt:\" Bij de fam. Maas te gast op Gohor, 4 Juli '37\"\r\n\r\nOpname toont het echtpaar Thies en de famil" .
 <https://n2t.net/ark:/27023/441925f301e3acf2959fd5591f781c9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/441925f301e3acf2959fd5591f781c9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-26" .
-<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#description> "Carte de visite." .
-<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/44128ac85ea4ad7fc12302b128bcddba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/440792e1e1c4c4500989a74be7958a01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/440792e1e1c4c4500989a74be7958a01> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-227" .
 <https://n2t.net/ark:/27023/440792e1e1c4c4500989a74be7958a01> <https://colonialcollections.nl/schema#name> "Speer" .

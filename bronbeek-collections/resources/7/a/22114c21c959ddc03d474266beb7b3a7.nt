@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-26" .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#name> "53. Nieuw Batavia. In het Wilhelmina Park." .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n53. Nieuw Batavia. In het Wilhelmina Park." .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#inscription> "53. Nieuw Batavia. In het Wilhelmina Park." .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6b2a69aad96703e55878388beee8d06d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b2a69aad96703e55878388beee8d06d> <https://colonialcollections.nl/schema#identifier> "1977/03-1-39" .
 <https://n2t.net/ark:/27023/6b2a69aad96703e55878388beee8d06d> <https://colonialcollections.nl/schema#name> "In de kampong" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/6b2a69aad96703e55878388beee8d06d> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/6b2a69aad96703e55878388beee8d06d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6b2a69aad96703e55878388beee8d06d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/93" .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van mevrouw Van Swieten-Steinmetz, echtgenote van generaal Jan van Swieten.\r\nVerso: J.M.W. van Swieten-Steinmetz.\r\nFotograaf: Gebr. Delboy, 's Gravenhage." .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#creator> "Photographie van L.M. Delboy te 's Hage." .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6b4bd6d72b90b06a1e5fa0957e7e7d87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b4bd6d72b90b06a1e5fa0957e7e7d87> <https://colonialcollections.nl/schema#identifier> "nf%20487-6" .
 <https://n2t.net/ark:/27023/6b4bd6d72b90b06a1e5fa0957e7e7d87> <https://colonialcollections.nl/schema#name> "De misigit Beitoe Rahman te Kotta Radja" .
@@ -59,9 +74,10 @@
 <https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#identifier> "nf%201854-2" .
 <https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in potlood tekst: 'Kamp van Stein Callenfels bij P??? (Bone) Juli 1937'\r\n\r\nOpname toont een gebouw, op korte palen, palmblad (atap) dak, met grote veranda. Er omheen een aangelegde tuin. \r\nDe achtergrond" .
-<https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6b488822d188c195327ceb52d8feb9cd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6b4985cb0bd347c10d19bfed401a6e78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b4985cb0bd347c10d19bfed401a6e78> <https://colonialcollections.nl/schema#identifier> "nf%201752-2" .
 <https://n2t.net/ark:/27023/6b4985cb0bd347c10d19bfed401a6e78> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOpname toont een aantal donkere mannen in feestkledij.\r\nDe kleding, versiering, bestaat voornamelijk uit plantmateriaal.\r\n\r\nN.B.: Aangenomen is dat deze foto te maken heeft met nf 1752-1." .
@@ -115,13 +131,6 @@
 <https://n2t.net/ark:/27023/6b642d49a763d3769679a1736ebe73d4> <https://colonialcollections.nl/schema#inscription> "R.V.& L." .
 <https://n2t.net/ark:/27023/6b642d49a763d3769679a1736ebe73d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6b642d49a763d3769679a1736ebe73d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-26" .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#name> "53. Nieuw Batavia. In het Wilhelmina Park." .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n53. Nieuw Batavia. In het Wilhelmina Park." .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#inscription> "53. Nieuw Batavia. In het Wilhelmina Park." .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6b3f16406294cd65e864c0a497c0e837> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6b217b60227c3ce2097b24cfb03c2193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b217b60227c3ce2097b24cfb03c2193> <https://colonialcollections.nl/schema#identifier> "2015/11/04-2-13/86" .
 <https://n2t.net/ark:/27023/6b217b60227c3ce2097b24cfb03c2193> <https://colonialcollections.nl/schema#name> "Archief van Familie Van Zwieten de Blom-Haasdijk." .
@@ -536,12 +545,6 @@
 <https://n2t.net/ark:/27023/6b70f61f3c9119447dc8728c72c559c2> <https://colonialcollections.nl/schema#description> "Circa 1920. Hij staand achter haar in rieten stoel. hond ernaast.\r\nVerso (handgeschreven met potlood): Hr. en Mevr. te Kolobé" .
 <https://n2t.net/ark:/27023/6b70f61f3c9119447dc8728c72c559c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6b70f61f3c9119447dc8728c72c559c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/93" .
-<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van mevrouw Van Swieten-Steinmetz, echtgenote van generaal Jan van Swieten.\r\nVerso: J.M.W. van Swieten-Steinmetz.\r\nFotograaf: Gebr. Delboy, 's Gravenhage." .
-<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6b3129462374ce9d126a812b13cee2d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6b237cc7cde2b9e302603c80aaeaea29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b237cc7cde2b9e302603c80aaeaea29> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42510" .
 <https://n2t.net/ark:/27023/6b237cc7cde2b9e302603c80aaeaea29> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 168,5 cm\r\nMedia:\t3043\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3043], Huidige locatie niet geregistreerd\r\nhoofdmateriaal:\thout" .

@@ -6,6 +6,21 @@
 <https://n2t.net/ark:/27023/4f7b73c2ec5fd47ac634c4914aefb7a6> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/4f7b73c2ec5fd47ac634c4914aefb7a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f7b73c2ec5fd47ac634c4914aefb7a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#identifier> "2006/00-54-4" .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#name> "Pontjalsche Weg. Magelang" .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door P.M. Johannes, Magelang. \"Pontjalsche Weg. Magelang.\"" .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#inscription> "Pontjalsche Weg. Magelang" .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#creator> "P.M. Johannes" .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-4" .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#name> "Foto landschap met vulkaan" .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#description> "Foto.zw/w. Landschap met sawa's, bossage en met een vulkaan op de achtergrond. \r\nIn goede staat." .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#creator> "Platé Ltd" .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4f66fa5607b1a8cdf0a570267f9c7c3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f66fa5607b1a8cdf0a570267f9c7c3d> <https://colonialcollections.nl/schema#identifier> "nf%201314-16" .
 <https://n2t.net/ark:/27023/4f66fa5607b1a8cdf0a570267f9c7c3d> <https://colonialcollections.nl/schema#name> "Batavia, Stadhuis" .
@@ -34,13 +49,22 @@
 <https://n2t.net/ark:/27023/4f806ae6fdcc61ba8a109d8569c0ef28> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/4f806ae6fdcc61ba8a109d8569c0ef28> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f806ae6fdcc61ba8a109d8569c0ef28> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f806ae6fdcc61ba8a109d8569c0ef28> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/4" .
 <https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#name> "Eiland Elephantine" .
 <https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#description> "Prent. Eiland Elephantine." .
-<https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f90ff58a784b718ca0b5fa78817ab53> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#identifier> "2018/02/18-6-2" .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#name> "Camera Ciné-Kodak Eight Model 60" .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#description> "Filmcamera Ciné-Kodak Eight Model 60 in originele doos met colorfilter CK-3 in foudraal in doos en gebruiksaanwijzingen.\r\n1. Instructions for use of the Ciné-Kodak Eight Model 60 f/1.9 Lens, Eastman Kodak Company, Rosyester N.Y.\r\n2. How to make home movie" .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#creator> "Eastman Kodak Company" .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4fa30cc99503feb199cd9d334fbe6bb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4fa30cc99503feb199cd9d334fbe6bb8> <https://colonialcollections.nl/schema#identifier> "nf%20694-12" .
 <https://n2t.net/ark:/27023/4fa30cc99503feb199cd9d334fbe6bb8> <https://colonialcollections.nl/schema#name> "Ombilin rivier" .
@@ -86,13 +110,6 @@
 <https://n2t.net/ark:/27023/4f699f1c6205c7b0e0aa4b8363c363d2> <https://colonialcollections.nl/schema#inscription> "4 ; Zeer grote en propere Bergpapoea" .
 <https://n2t.net/ark:/27023/4f699f1c6205c7b0e0aa4b8363c363d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f699f1c6205c7b0e0aa4b8363c363d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#identifier> "2006/00-54-4" .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#name> "Pontjalsche Weg. Magelang" .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door P.M. Johannes, Magelang. \"Pontjalsche Weg. Magelang.\"" .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#inscription> "Pontjalsche Weg. Magelang" .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4f9ca118e38af56ef434f1511dc24fd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4f616cc44e09d4a207ed343d98f43620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f616cc44e09d4a207ed343d98f43620> <https://colonialcollections.nl/schema#identifier> "1998/04/28-1-12/2" .
 <https://n2t.net/ark:/27023/4f616cc44e09d4a207ed343d98f43620> <https://colonialcollections.nl/schema#name> "Aseptisch snelverband no. 3" .
@@ -519,18 +536,6 @@
 <https://n2t.net/ark:/27023/4fa615b8e0d17853a5d93d9c351d04fa> <https://colonialcollections.nl/schema#description> "Foto's betreffende verblijf J. Willemsen in Indië en Thailand, Toba-Batak: landschappen, huizen, tempels, portretten." .
 <https://n2t.net/ark:/27023/4fa615b8e0d17853a5d93d9c351d04fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4fa615b8e0d17853a5d93d9c351d04fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-4" .
-<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#name> "Foto landschap met vulkaan" .
-<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#description> "Foto.zw/w. Landschap met sawa's, bossage en met een vulkaan op de achtergrond. \r\nIn goede staat." .
-<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4f61b12e0a266f88c8eaa16d790f57bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#identifier> "2018/02/18-6-2" .
-<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#name> "Camera Ciné-Kodak Eight Model 60" .
-<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#description> "Filmcamera Ciné-Kodak Eight Model 60 in originele doos met colorfilter CK-3 in foudraal in doos en gebruiksaanwijzingen.\r\n1. Instructions for use of the Ciné-Kodak Eight Model 60 f/1.9 Lens, Eastman Kodak Company, Rosyester N.Y.\r\n2. How to make home movie" .
-<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4f9a4d7aae8ab556ab143dd545b6c6c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4f6a69bc482ec2d3d14b1bfbe049b157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f6a69bc482ec2d3d14b1bfbe049b157> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42840" .
 <https://n2t.net/ark:/27023/4f6a69bc482ec2d3d14b1bfbe049b157> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tmes\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesmeed\r\nEmailadres: toelichting:\tDe schede is van hout gemaakt met een uiteinde van bewerkt bot. Het heft is van zwart hout.\r\nAfmetingen:\tL 26.5, Br 3.6, D 2.4\r\nHerk" .

@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/6a0b3759afdab5badb2145241a549b99> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/6a0b3759afdab5badb2145241a549b99> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a0b3759afdab5badb2145241a549b99> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/214" .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#name> "Protestansche Kerk, Bandoeng" .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Groet uit Bandoeng. Prot. Kerk." .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#creator> "J.C. Becker" .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <https://colonialcollections.nl/schema#identifier> "nf%201638-3" .
 <https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <https://colonialcollections.nl/schema#name> "Karbouwengat" .
@@ -12,6 +19,14 @@
 <https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a147da63c87f1322c0ece0d4eac166c> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/144" .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Groet uit Batavia. Passar Ikan (Visschmarkt)." .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a212c31dff94ced7a042b17ea4c4323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a212c31dff94ced7a042b17ea4c4323> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/17" .
 <https://n2t.net/ark:/27023/6a212c31dff94ced7a042b17ea4c4323> <https://colonialcollections.nl/schema#name> "Vredespark te Koeta-Radja" .
@@ -562,18 +577,6 @@
 <https://n2t.net/ark:/27023/6a39905bc9b38acb161457127a1ea6dc> <https://colonialcollections.nl/schema#description> "Beenkappen, één voorzien van veter, één voorzien van touwtje.  Afm. 31 cm. In goede staat, incompleet." .
 <https://n2t.net/ark:/27023/6a39905bc9b38acb161457127a1ea6dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a39905bc9b38acb161457127a1ea6dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/214" .
-<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#name> "Protestansche Kerk, Bandoeng" .
-<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Groet uit Bandoeng. Prot. Kerk." .
-<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a11638b4642b312cdc34a1c0a3235c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/144" .
-<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Groet uit Batavia. Passar Ikan (Visschmarkt)." .
-<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a16d542cbeabcd3180419019e1c0a62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/69f36307af8e4b132d8a37da3fd00bef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/69f36307af8e4b132d8a37da3fd00bef> <https://colonialcollections.nl/schema#identifier> "S%20204-50" .
 <https://n2t.net/ark:/27023/69f36307af8e4b132d8a37da3fd00bef> <https://colonialcollections.nl/schema#description> "Een stuk donkerbruin suikerrietstok; doorboord; geen afzonderlijk mondstuk, doch slechts een klein gaatje voor het opzuigen van de rook; het vooreinde door het tussenschot gesloten gebleven; iets achter het vooreinde: een koperen belegstuk (geel en rood k" .

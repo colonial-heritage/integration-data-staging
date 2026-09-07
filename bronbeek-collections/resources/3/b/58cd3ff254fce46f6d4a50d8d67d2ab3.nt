@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-91" .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#name> "Carte de visite: Teysman" .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite.  Teysman" .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#inscription> "Teysman" .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/964655e543ae1096bfc640ce218e2b07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/964655e543ae1096bfc640ce218e2b07> <https://colonialcollections.nl/schema#identifier> "nf%20842-71" .
 <https://n2t.net/ark:/27023/964655e543ae1096bfc640ce218e2b07> <https://colonialcollections.nl/schema#name> "Stal met kleding aan de Jalan Pasanggrahan te Pangandaran, West -Java." .
@@ -102,13 +110,6 @@
 <https://n2t.net/ark:/27023/965e488939a3a4562001e359e0c9f05c> <https://colonialcollections.nl/schema#inscription> "Madjoe, afd. R´dam 1911-1986" .
 <https://n2t.net/ark:/27023/965e488939a3a4562001e359e0c9f05c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/965e488939a3a4562001e359e0c9f05c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-91" .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#name> "Carte de visite: Teysman" .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite.  Teysman" .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#inscription> "Teysman" .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/96529b9976e19092449d3a6fa71ad93a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9636512ca25ea36c5788b3314d2debcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9636512ca25ea36c5788b3314d2debcc> <https://colonialcollections.nl/schema#identifier> "1994/12/06-1/8" .
 <https://n2t.net/ark:/27023/9636512ca25ea36c5788b3314d2debcc> <https://colonialcollections.nl/schema#name> "Pijl, afkomstig uit voormalig Nederlands-Indië" .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/31" .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#name> "Binnenplaats van de poeri van het, aan de westzijde van Den Pasar gelegen, Pamoetjoetan waar op 20 september 1906 de tweede Balinese zelfmoordstrijd (poepoetan) plaats vond" .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBinnenplaats van de poeri van het, aan de westzijde van Den Pasar gelegen, Pamoetjoetan waar op 20 september 1906 de tweede Balinese zelfmoordstrijd (poepoetan) plaats vond." .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1bfc233d1988acacf6d35ec4993d43ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1bfc233d1988acacf6d35ec4993d43ea> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/33" .
 <https://n2t.net/ark:/27023/1bfc233d1988acacf6d35ec4993d43ea> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -16,9 +24,11 @@
 <https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-3/6" .
 <https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#name> "Foto uit verzameling van de militaire carrière en familiefoto´s van Luitenant Kolonel J.W. Berenschot, c.a. 1890-1926" .
 <https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#description> "KNIL-militairen. Compagnie KNIL met helmhoed, atjeh-uniform, voorlopers klewang Foto op grijs karton.\r\nFoto uit verzameling van de militaire carrière en familiefoto's van Luitenant-kolonel J.W. Berenschot, uit periode c.a. 1890-1925" .
-<https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
+<https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#creator> "J.M. Humby & Co." .
 <https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#creator> "Binger´s Photografische Inrichting Oude Gracht, Haarlem" .
+<https://n2t.net/ark:/27023/1c05fb83da4160c52ef291b5c27685f8> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/1c09eb8444af00ef50d1fd057bc26335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1c09eb8444af00ef50d1fd057bc26335> <https://colonialcollections.nl/schema#identifier> "2008/10/14-8-6" .
 <https://n2t.net/ark:/27023/1c09eb8444af00ef50d1fd057bc26335> <https://colonialcollections.nl/schema#name> "Overzichtskaart van de Residentie Djogjakarta" .
@@ -26,6 +36,13 @@
 <https://n2t.net/ark:/27023/1c09eb8444af00ef50d1fd057bc26335> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/1c09eb8444af00ef50d1fd057bc26335> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1c09eb8444af00ef50d1fd057bc26335> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/139" .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Vier militairen lopen langs militairen die in gelid staan." .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1c1350394f097018279f581647519711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1c1350394f097018279f581647519711> <https://colonialcollections.nl/schema#identifier> "2003/04/01-1-2" .
 <https://n2t.net/ark:/27023/1c1350394f097018279f581647519711> <https://colonialcollections.nl/schema#name> "Foto genomen Bronbeek op 27-2-2003 t.h.v. de Slag in de Javazee" .
@@ -37,9 +54,10 @@
 <https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#identifier> "nf%201408-35" .
 <https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#name> "Soengei - Bowaya" .
 <https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#description> "afbeelding toont een, zo te zien ondiepe rivier, meanderend door het oerwoud. In de rivier drooggelegen stukken met veel stenen.\r\nOp de voorgrond twee inheemse mannen.\r\n\r\nN.B.: Soengei (sungei) is rivier, bowaya (moet zijn boeaja of buaya) betekent krokod" .
-<https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1c177dd43a38805714f888dcbd13c5a2> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/1c18202f57bc4d4e86868552eafb6b26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1c18202f57bc4d4e86868552eafb6b26> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-4" .
 <https://n2t.net/ark:/27023/1c18202f57bc4d4e86868552eafb6b26> <https://colonialcollections.nl/schema#name> "Carte de cabinet: Regent Tjiandoer" .
@@ -54,6 +72,13 @@
 <https://n2t.net/ark:/27023/1c273f8aa49cd3dcab4989fa2c1327e3> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/1c273f8aa49cd3dcab4989fa2c1327e3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1c273f8aa49cd3dcab4989fa2c1327e3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/69" .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#name> "Soto of Soepverkooper" .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Soto of Soepverkooper. Gestempeld Soerabaia 1905/10/31" .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#creator> "J.M.Chs. Nijland" .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1bfa2222fa4d0bd084c035dad8108e1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1bfa2222fa4d0bd084c035dad8108e1e> <https://colonialcollections.nl/schema#identifier> "nf%20879-34-4" .
 <https://n2t.net/ark:/27023/1bfa2222fa4d0bd084c035dad8108e1e> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, met lijm opgeplakt, zonder bijschrift, met in inkt bijgeschreven dubbele nummering.\r\n\r\nDeze nummering is: XXV 30\r\n\r\nDeze opname, toont een Hindoeïstisch tempeltje." .
@@ -85,13 +110,6 @@
 <https://n2t.net/ark:/27023/1c28d3b66eedefe7e93bcb58955c5585> <https://colonialcollections.nl/schema#inscription> "Hembrug 1917" .
 <https://n2t.net/ark:/27023/1c28d3b66eedefe7e93bcb58955c5585> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1c28d3b66eedefe7e93bcb58955c5585> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/31" .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#name> "Binnenplaats van de poeri van het, aan de westzijde van Den Pasar gelegen, Pamoetjoetan waar op 20 september 1906 de tweede Balinese zelfmoordstrijd (poepoetan) plaats vond" .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBinnenplaats van de poeri van het, aan de westzijde van Den Pasar gelegen, Pamoetjoetan waar op 20 september 1906 de tweede Balinese zelfmoordstrijd (poepoetan) plaats vond." .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1c02b7f86dcadd0704a42c143ac2fc42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1bf78c7e2fb4264686679b319d244e62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1bf78c7e2fb4264686679b319d244e62> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/94" .
 <https://n2t.net/ark:/27023/1bf78c7e2fb4264686679b319d244e62> <https://colonialcollections.nl/schema#name> "Familiefoto" .
@@ -530,18 +548,6 @@
 <https://n2t.net/ark:/27023/1c35e68ed0fc164cbadfad2913029dad> <https://colonialcollections.nl/schema#description> "Foto. Totaal 31 stuks. Periode 1945-1949." .
 <https://n2t.net/ark:/27023/1c35e68ed0fc164cbadfad2913029dad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1c35e68ed0fc164cbadfad2913029dad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/139" .
-<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Vier militairen lopen langs militairen die in gelid staan." .
-<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1c0fc1dd9a6052f3bab3d363cbbdc9c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/69" .
-<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#name> "Soto of Soepverkooper" .
-<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Soto of Soepverkooper. Gestempeld Soerabaia 1905/10/31" .
-<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1c30f3bedee21b3f8ac96d2666424a70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1c03e70810ccc31d00a6dae95a5cc157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1c03e70810ccc31d00a6dae95a5cc157> <https://colonialcollections.nl/schema#identifier> "S%20230-495ab" .
 <https://n2t.net/ark:/27023/1c03e70810ccc31d00a6dae95a5cc157> <https://colonialcollections.nl/schema#description> "twee doosjes, het ene voor tabak en het andere voor pinang; cilindervormig met overschuivend deksel; met elkaar verbonden door een wit koord.\r\nHerkomst: Bali en Lombok." .

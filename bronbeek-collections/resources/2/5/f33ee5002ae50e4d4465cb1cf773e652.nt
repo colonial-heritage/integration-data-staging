@@ -26,6 +26,14 @@
 <https://n2t.net/ark:/27023/e695c7ea2e0bda97a0a1a2959e990125> <https://colonialcollections.nl/schema#creator> "Apotheek \"De Gedeh\"" .
 <https://n2t.net/ark:/27023/e695c7ea2e0bda97a0a1a2959e990125> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e695c7ea2e0bda97a0a1a2959e990125> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-12/1" .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#name> "Kaart van het gebied bezet in Atjeh" .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#description> "Kaart van het gebied bezet in Atjeh; Nederzettingen Lepoeng en Lehoeng.\r\nAfgebeeld zijn o.a. (de rivieren?) Kroeng Keurentöé, Kroeng Pasée, Djamboe-tjé en Pira.\r\nSchaal 1: 40.000; L.W.J.K. Thomson. Uitgave J. Smulders & Co. `s Gravenhage; 1897." .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#creator> "Majoor der Infanterie KNIL Lodewijk Willem Johan Karel Thomson" .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#creator> "J.C. Smulders & Co." .
 <https://n2t.net/ark:/27023/e6a04d95b84fe836cf9c0ba56c0c3654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e6a04d95b84fe836cf9c0ba56c0c3654> <https://colonialcollections.nl/schema#identifier> "nf%20842-114" .
 <https://n2t.net/ark:/27023/e6a04d95b84fe836cf9c0ba56c0c3654> <https://colonialcollections.nl/schema#name> "Landschap met rijstvelden, West-Java" .
@@ -33,6 +41,13 @@
 <https://n2t.net/ark:/27023/e6a04d95b84fe836cf9c0ba56c0c3654> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/e6a04d95b84fe836cf9c0ba56c0c3654> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6a04d95b84fe836cf9c0ba56c0c3654> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/159" .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Groet uit Batavia. Goenoeng Saharie." .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e6a96aaf63f2cc293ffec498489a386c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e6a96aaf63f2cc293ffec498489a386c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/19" .
 <https://n2t.net/ark:/27023/e6a96aaf63f2cc293ffec498489a386c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -47,6 +62,13 @@
 <https://n2t.net/ark:/27023/e6b0515e10f3d3de1a5086795f1a54ed> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/e6b0515e10f3d3de1a5086795f1a54ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6b0515e10f3d3de1a5086795f1a54ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-24" .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#name> "Huize Miranda" .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart. Huize Miranda. Achterzijde beschreven. Postzegel ontbreekt. van Mourik, Overschie, via Batoe, villa Assendam." .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#creator> "K.Torii Studio Songgoriti" .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <https://colonialcollections.nl/schema#identifier> "S%206245-59-2" .
 <https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <https://colonialcollections.nl/schema#name> "Vanielje-plant" .
@@ -54,6 +76,7 @@
 <https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e6c1b847ffaf927c230c5348ea9d4918> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/e692633fc9018729d5df74cab4852254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e692633fc9018729d5df74cab4852254> <https://colonialcollections.nl/schema#identifier> "nf%201572-2" .
 <https://n2t.net/ark:/27023/e692633fc9018729d5df74cab4852254> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, gekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt een naam 'Jimsa'.\r\nOok zijn er in potlood afmetingen gegeven, maar ook de letters N.G., verwijzend naar Nieuw Guinea. \r\n\r\nOpname toont mensen, vermoedelijk m" .
@@ -78,6 +101,18 @@
 <https://n2t.net/ark:/27023/e6b11a80dfbfd6f617cab2549dfcfa46> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e6b11a80dfbfd6f617cab2549dfcfa46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6b11a80dfbfd6f617cab2549dfcfa46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#identifier> "nf%20323-10-1" .
+<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#description> "bijschrift; 'Panorama vanuit de hoogte van Riwoe. Uitzicht naar het Westen. Rechts het hooggebergte van Roeteng ; daaraan loodrecht aansluitend het gebergte van Toragolo dat zich tot de zee uitstrekt.'" .
+<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#identifier> "nf%201374-1" .
+<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, slechts op één hoek opgeplakt.\r\n\r\nOp achterkant een paars stempel van de fotograaf (zie personen/instellingen)\r\n\r\nOpname toont een glooiend landschap, met daarachter begroeide heuvels en in de wolken links een vulkaan. Voor k" .
+<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#creator> "JAPANSCHE PHOTOGRAAF ATAGO" .
+<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e6c6ca74bb2454bba6e03ae5e7843555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e6c6ca74bb2454bba6e03ae5e7843555> <https://colonialcollections.nl/schema#identifier> "nf%20603" .
 <https://n2t.net/ark:/27023/e6c6ca74bb2454bba6e03ae5e7843555> <https://colonialcollections.nl/schema#description> "Verbouwing van het station te Padalarang" .
@@ -493,24 +528,6 @@
 <https://n2t.net/ark:/27023/e6cd0b0393e206aae225025ed2352a5b> <https://colonialcollections.nl/schema#description> "Schouderschuifpassant met rangonderscheidingsteken officier van gezondheid 1ste klasse. Kakikleurige katoenen schuifpassant met in driehoek drie wit metalen zespuntige sterren met daarboven een verguld metalen esculaapstaf in lauwerkrans.\r\nSchouderschuifp" .
 <https://n2t.net/ark:/27023/e6cd0b0393e206aae225025ed2352a5b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6cd0b0393e206aae225025ed2352a5b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-12/1" .
-<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#name> "Kaart van het gebied bezet in Atjeh" .
-<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#description> "Kaart van het gebied bezet in Atjeh; Nederzettingen Lepoeng en Lehoeng.\r\nAfgebeeld zijn o.a. (de rivieren?) Kroeng Keurentöé, Kroeng Pasée, Djamboe-tjé en Pira.\r\nSchaal 1: 40.000; L.W.J.K. Thomson. Uitgave J. Smulders & Co. `s Gravenhage; 1897." .
-<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e69c33fd16a395fa8031b489ac564d24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/159" .
-<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Groet uit Batavia. Goenoeng Saharie." .
-<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e6a87029de155475921f947d1cbeebbd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-24" .
-<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#name> "Huize Miranda" .
-<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart. Huize Miranda. Achterzijde beschreven. Postzegel ontbreekt. van Mourik, Overschie, via Batoe, villa Assendam." .
-<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e6c0dcb10f21b1087f9d4d77e6ff7019> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e68b161ac45167e4aeb3c480f3c6db14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e68b161ac45167e4aeb3c480f3c6db14> <https://colonialcollections.nl/schema#identifier> "nf%20899-78" .
 <https://n2t.net/ark:/27023/e68b161ac45167e4aeb3c480f3c6db14> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nOpname van een aantal koeien. Een stier is niet te zien. Het zijn dieren met horens, terwijl enkele al duidelijk een bult vertonen achter de kop. Zeboes dus." .
@@ -571,16 +588,6 @@
 <https://n2t.net/ark:/27023/e6c915991566a22ea7566d0bf415a8eb> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkalkkoker\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\thoorn, hout\r\n\tgesneden, ingegrifd, geverfd\r\nEmailadres: toelichting:\tDe koker is gemaakt van een stuk bamboe (Diam 3,3) en heeft een bree" .
 <https://n2t.net/ark:/27023/e6c915991566a22ea7566d0bf415a8eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6c915991566a22ea7566d0bf415a8eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#identifier> "nf%20323-10-1" .
-<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#description> "bijschrift; 'Panorama vanuit de hoogte van Riwoe. Uitzicht naar het Westen. Rechts het hooggebergte van Roeteng ; daaraan loodrecht aansluitend het gebergte van Toragolo dat zich tot de zee uitstrekt.'" .
-<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e6b7e54b2b8c7a48972b01cbed80b190> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#identifier> "nf%201374-1" .
-<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, slechts op één hoek opgeplakt.\r\n\r\nOp achterkant een paars stempel van de fotograaf (zie personen/instellingen)\r\n\r\nOpname toont een glooiend landschap, met daarachter begroeide heuvels en in de wolken links een vulkaan. Voor k" .
-<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e6c1cec1f0703004733f033ec79c3668> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e69f5861068f12028fa6f091097b1a34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e69f5861068f12028fa6f091097b1a34> <https://colonialcollections.nl/schema#identifier> "S%20230-583" .
 <https://n2t.net/ark:/27023/e69f5861068f12028fa6f091097b1a34> <https://colonialcollections.nl/schema#name> "Model van een fuik, sakok" .

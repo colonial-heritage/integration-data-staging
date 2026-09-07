@@ -1,3 +1,24 @@
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#identifier> "nf%20900" .
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#name> "De componenten van de Javaanse Gamelan" .
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#description> "Film 'De componenten van de Javaanse Gamelan'\r\n\r\n(copyright Etnomusicologisch Centrum 'Jaap Kunst', Universiteit van Amsterdam)" .
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#creator> "Ernst L. Heins" .
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-7" .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#creator> "Toko Bie Kong" .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#identifier> "2006/00-42-191" .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#name> "Karte-de-kabinet met portret van Johannes Matthijs Schmitz, eerste luitenant der Genie bij het KNIL, met EBK en Kraton-medaille" .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Karte-de-kabinet met portret van Johannes Matthijs Schmitz, officier (twee sterren, dus eerste luitenant) der Genie bij het KNIL met bouillons en de medailles EBK en Kraton (of Atjeh) medaille.\r\n\r\nHandgeschreven tekst verso: Johannes Matth" .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#creator> "E.A. Kaulfuss" .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/297467c9b85e532ea76349158d9d7ede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/297467c9b85e532ea76349158d9d7ede> <https://colonialcollections.nl/schema#identifier> "nf%20605-4" .
 <https://n2t.net/ark:/27023/297467c9b85e532ea76349158d9d7ede> <https://colonialcollections.nl/schema#name> "personenrijtuig" .
@@ -45,10 +66,10 @@
 <https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#identifier> "nf%201471-2" .
 <https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gestempeld: COPYRIGHT LUX GAROET.\r\n\r\nOpname toont voornamelijk onder water staande rijstvelden (sawa's). Op de voorgrond aangeplant landbouwgewas. \r\nOp de achtergrond ee" .
-<https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
+<https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/297bbe23677fb79477adadc0673d6200> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/2958162c11aa15f1db16594a88ac46da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2958162c11aa15f1db16594a88ac46da> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/114" .
 <https://n2t.net/ark:/27023/2958162c11aa15f1db16594a88ac46da> <https://colonialcollections.nl/schema#name> "Embleem, twee gekruiste kanonnen België" .
@@ -506,24 +527,6 @@
 <https://n2t.net/ark:/27023/298f50218b88882b4564c93941ee9126> <https://colonialcollections.nl/schema#description> "Veldblouse Keizerlijk Japans Leger. (Soldaat 1e klasse, tropentenue). \r\nRuime khaki-katoenen blouse met 4 knopen gesloten; rangonderscheidingstekenen op de kraagpunten; korte wijde mouwen; links en rechts, ter hoogte van het middel een split, met knoop ge" .
 <https://n2t.net/ark:/27023/298f50218b88882b4564c93941ee9126> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/298f50218b88882b4564c93941ee9126> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#identifier> "nf%20900" .
-<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#name> "De componenten van de Javaanse Gamelan" .
-<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#description> "Film 'De componenten van de Javaanse Gamelan'\r\n\r\n(copyright Etnomusicologisch Centrum 'Jaap Kunst', Universiteit van Amsterdam)" .
-<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/293d60addf5e5138725f5e03b1644531> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-7" .
-<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
-<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
-<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/294727126931809ebd1ffe8533dd2e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#identifier> "2006/00-42-191" .
-<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#name> "Karte-de-kabinet met portret van Johannes Matthijs Schmitz, eerste luitenant der Genie bij het KNIL, met EBK en Kraton-medaille" .
-<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Karte-de-kabinet met portret van Johannes Matthijs Schmitz, officier (twee sterren, dus eerste luitenant) der Genie bij het KNIL met bouillons en de medailles EBK en Kraton (of Atjeh) medaille.\r\n\r\nHandgeschreven tekst verso: Johannes Matth" .
-<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/294755809c41f37d91d5b19f0ef1eeb2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/294013b7b9299438a178dbc685561efe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/294013b7b9299438a178dbc685561efe> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41737" .
 <https://n2t.net/ark:/27023/294013b7b9299438a178dbc685561efe> <https://colonialcollections.nl/schema#description> "Afdeling:\t(niet ingevoerd)\r\nObjectnaam:\tharnas\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2270\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2270] Depot, 16, L a [16 L a]" .

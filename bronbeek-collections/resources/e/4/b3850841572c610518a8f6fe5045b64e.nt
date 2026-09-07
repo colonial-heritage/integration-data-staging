@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/2c5efbc56eb4949f5816e8a38718c253> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2c5efbc56eb4949f5816e8a38718c253> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c5efbc56eb4949f5816e8a38718c253> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#identifier> "2007/10/09-1-1" .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#name> "Schilderij, zicht op kampong met palmbomen" .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#description> "Schilderij, zicht op kampong met palmbomen, gesigneerd \"G.J. Weits ´45. Schilderij herinnerde Mw. van Lieshout aan haar gesneuvelde verloofde, Res. 2e Lt.der Huzaren van Boreel Frans Simon Kamevaar (1924-1949)." .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#creator> "G.J. Weits" .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c8883a9564707f0164616219d001d74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c8883a9564707f0164616219d001d74> <https://colonialcollections.nl/schema#identifier> "nf%20836-8" .
 <https://n2t.net/ark:/27023/2c8883a9564707f0164616219d001d74> <https://colonialcollections.nl/schema#name> "Drie jonge dames van Flores" .
@@ -19,6 +26,27 @@
 <https://n2t.net/ark:/27023/2c8aa2e4da646a283e0f48e40c06eba7> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/2c8aa2e4da646a283e0f48e40c06eba7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c8aa2e4da646a283e0f48e40c06eba7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/54" .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#name> "Groep militairen, vijf staand en drie er voor gehurkt" .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#description> "Groep militairen, vijf staand en drie er voor gehurkt.\r\nAchter op foto geschreven \"Grave mrt 1949, Gaborus [?]kazerne, dubbel\"." .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/14" .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#creator> "Zindler, Djokjakarta" .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#identifier> "2003/00-20-8" .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van Huize Bronbeek vanaf de Velperweg" .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Huize Bronbeek vanaf Velperweg´.\r\nDrukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#creator> "drukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ca9eb6986d55953ac9010720c7d9a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ca9eb6986d55953ac9010720c7d9a2a> <https://colonialcollections.nl/schema#identifier> "nf%201357-6" .
 <https://n2t.net/ark:/27023/2ca9eb6986d55953ac9010720c7d9a2a> <https://colonialcollections.nl/schema#name> "Revolverschieten" .
@@ -50,6 +78,12 @@
 <https://n2t.net/ark:/27023/2c91e215c93fa57d4931cd4894c2be6d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2c91e215c93fa57d4931cd4894c2be6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c91e215c93fa57d4931cd4894c2be6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-28" .
+<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#description> "Carte de visite. Groep van 7 inheemse mannen. 3 staand en 4 zittend." .
+<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#creator> "C.A. von Hedemann, Java" .
+<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c5debe217ffbd5c77630789447c4339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c5debe217ffbd5c77630789447c4339> <https://colonialcollections.nl/schema#identifier> "2004/11/10-2" .
 <https://n2t.net/ark:/27023/2c5debe217ffbd5c77630789447c4339> <https://colonialcollections.nl/schema#name> "Sabel in schede van Overste J.E. Scheffer" .
@@ -528,30 +562,6 @@
 <https://n2t.net/ark:/27023/2cadd19f2eeee2831134cd5b81da4989> <https://colonialcollections.nl/schema#description> "Identiteitsplaatje t.n.v. A.C.Oomes." .
 <https://n2t.net/ark:/27023/2cadd19f2eeee2831134cd5b81da4989> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2cadd19f2eeee2831134cd5b81da4989> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#identifier> "2007/10/09-1-1" .
-<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#name> "Schilderij, zicht op kampong met palmbomen" .
-<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#description> "Schilderij, zicht op kampong met palmbomen, gesigneerd \"G.J. Weits ´45. Schilderij herinnerde Mw. van Lieshout aan haar gesneuvelde verloofde, Res. 2e Lt.der Huzaren van Boreel Frans Simon Kamevaar (1924-1949)." .
-<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c843907513ce5c0edd14b65d07e62c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/54" .
-<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#name> "Groep militairen, vijf staand en drie er voor gehurkt" .
-<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#description> "Groep militairen, vijf staand en drie er voor gehurkt.\r\nAchter op foto geschreven \"Grave mrt 1949, Gaborus [?]kazerne, dubbel\"." .
-<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c9904bba0223907373916e63a4a59bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/14" .
-<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
-<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
-<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c9b81b18864bc46ccb8c56ef1118db8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#identifier> "2003/00-20-8" .
-<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van Huize Bronbeek vanaf de Velperweg" .
-<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Huize Bronbeek vanaf Velperweg´.\r\nDrukkerij A.G.I. Rotterdam" .
-<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c9fe98cc7c8afbfa5950826225e20f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c5dd767ee9c85cf532114e52d0dd044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c5dd767ee9c85cf532114e52d0dd044> <https://colonialcollections.nl/schema#identifier> "nf%201352-8-2" .
 <https://n2t.net/ark:/27023/2c5dd767ee9c85cf532114e52d0dd044> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met fotohoekjes in album geplakt.\r\nOp achterkant in inkt geschreven tekst, die luidt: 'B.S. v.l.n.r Jo Syrier met jongste baby, etc'\r\n\r\nOpname toont een aantal blanke mannen en vrouwen met hun kinderen. Het zijn 2 mannen, 3 v" .
@@ -587,11 +597,6 @@
 <https://n2t.net/ark:/27023/2ca65a4f8b6d210bc19e89700257bbb9> <https://colonialcollections.nl/schema#description> "Foto. Militaire Luchtvaart KNIL, 18 squadron, na 1945. Meerdaagse oefening vanuit basis Kendari (Celebes)." .
 <https://n2t.net/ark:/27023/2ca65a4f8b6d210bc19e89700257bbb9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ca65a4f8b6d210bc19e89700257bbb9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-28" .
-<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#description> "Carte de visite. Groep van 7 inheemse mannen. 3 staand en 4 zittend." .
-<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ca80d9430324869b18b58fc4b48d26b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c9fe111d80ec5327de49d7919990ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c9fe111d80ec5327de49d7919990ccd> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/416" .
 <https://n2t.net/ark:/27023/2c9fe111d80ec5327de49d7919990ccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#identifier> "1885/09-1-3" .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#name> "Sophie, Königin der Niederlande" .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#description> "Prent: Sophie, Königin der Niederlande. \"Druck. Verlag. u. Eigenthum v. E.G. Max & Wirsing in Frankfurt a.M.\"\r\nOp Passepartout geplakt. Op passepartout ook twee krantenknipsels m.b.t. begrafenis van Sophie." .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#inscription> "Sophie, Königin der Niederlande" .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#creator> "E.G.M. Max und Wirsing" .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/23" .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#name> "10 Liter gecoaguleerde latex geschikt voor de wals. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. 10 Liter gecoaguleerde latex geschikt voor de wals.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nOp foto: \"Goenoeng Pamela\" door fotograaf aangebracht." .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#inscription> "10 Liter gecoaguleerde latex geschikt voor de wals.; Goenoeng Pamela" .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#identifier> "2005/00-607/32" .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#name> "Foto van park in Pematang Siantar met wandelaars bij fontein" .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Wandelaars bij fonteintje in een park te Pematang-Siantar.\r\n\r\nrecto: in witte inkt \"Fonteintje P.Siantar\"\r\nverso: in potlood \"photo genomen Juli 1930 Sumatra-oostkust\"\r\nin groene inkt \"P. Siantar\"" .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/703efdb83af180a44dabd62053754857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/703efdb83af180a44dabd62053754857> <https://colonialcollections.nl/schema#identifier> "nf%201413-180" .
 <https://n2t.net/ark:/27023/703efdb83af180a44dabd62053754857> <https://colonialcollections.nl/schema#name> "Mandoer Moerod. Genomen in de prauw op weg naar rintis K XX" .
@@ -20,6 +43,13 @@
 <https://n2t.net/ark:/27023/704530397b6a5f5c05fcfd01f339983f> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/704530397b6a5f5c05fcfd01f339983f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/704530397b6a5f5c05fcfd01f339983f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-14" .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali,  Jogjakarta" .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Jogjakarta, restricted, second edition, sheet 14, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#creator> "653rd ENGR.BN U.S.A.F." .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/705be5fd2dfa0be10aedea8cda9069ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/705be5fd2dfa0be10aedea8cda9069ac> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-23" .
 <https://n2t.net/ark:/27023/705be5fd2dfa0be10aedea8cda9069ac> <https://colonialcollections.nl/schema#name> "Passar Pabean, Soerabaja." .
@@ -34,6 +64,13 @@
 <https://n2t.net/ark:/27023/706e289b39d79a0931a4bbaee8ba2022> <https://colonialcollections.nl/schema#creator> "Stichting Werkplaats tot Herstel van Antieke Textiel" .
 <https://n2t.net/ark:/27023/706e289b39d79a0931a4bbaee8ba2022> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/706e289b39d79a0931a4bbaee8ba2022> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-10" .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#name> "Ontvangst van KNIL-militairen met hun echtgenotes" .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst van KNIL-militairen en hun echtgenotes met (?)" .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#creator> "Oeij Eng Tian" .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7071910d2dd8e3d1ccdc5582d44b7e02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7071910d2dd8e3d1ccdc5582d44b7e02> <https://colonialcollections.nl/schema#identifier> "nf%20842-652" .
 <https://n2t.net/ark:/27023/7071910d2dd8e3d1ccdc5582d44b7e02> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BH 01 t/m 36. Deze slede is opgeborgen in grijze doos met lichtgrijs deksel, gemerkt met BH, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BH 30, in potlood EO 14.\r\n\r\nOpnam" .
@@ -54,20 +91,6 @@
 <https://n2t.net/ark:/27023/707a83a20508aef129197e0e9568240d> <https://colonialcollections.nl/schema#inscription> "Voor Tootje[  ]Semarang 1 januari 1938\" Oudejaarsavond" .
 <https://n2t.net/ark:/27023/707a83a20508aef129197e0e9568240d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/707a83a20508aef129197e0e9568240d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#identifier> "1885/09-1-3" .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#name> "Sophie, Königin der Niederlande" .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#description> "Prent: Sophie, Königin der Niederlande. \"Druck. Verlag. u. Eigenthum v. E.G. Max & Wirsing in Frankfurt a.M.\"\r\nOp Passepartout geplakt. Op passepartout ook twee krantenknipsels m.b.t. begrafenis van Sophie." .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#inscription> "Sophie, Königin der Niederlande" .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/704c20c48ecc69df63a46dfa7beedbba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/23" .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#name> "10 Liter gecoaguleerde latex geschikt voor de wals. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. 10 Liter gecoaguleerde latex geschikt voor de wals.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nOp foto: \"Goenoeng Pamela\" door fotograaf aangebracht." .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#inscription> "10 Liter gecoaguleerde latex geschikt voor de wals.; Goenoeng Pamela" .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/70628b1a37ca31834141dcba85caf093> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7031be328ae3cc5aab053b8dd6d41fd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7031be328ae3cc5aab053b8dd6d41fd3> <https://colonialcollections.nl/schema#identifier> "2006/00-23-8/14" .
 <https://n2t.net/ark:/27023/7031be328ae3cc5aab053b8dd6d41fd3> <https://colonialcollections.nl/schema#name> "Documenten betreffende Johannes, Petrus, Antonie Brand, inwoner van Bronbeek" .
@@ -548,24 +571,6 @@
 <https://n2t.net/ark:/27023/707b29a15f3e3c6de717b620ad5d3e5b> <https://colonialcollections.nl/schema#description> "Losse bladen uit fotoalbum (11) met zwart wit foto's in fotohoekjes. Familiefoto's. Enige met waarschijnlijk J.H. Tietzel in uniform (grijsgroen, wit en blauw). Op een foto de toegangpoort van het Ereveld Peutjut Koetaradja, Atjeh, Noord-Sumatra." .
 <https://n2t.net/ark:/27023/707b29a15f3e3c6de717b620ad5d3e5b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/707b29a15f3e3c6de717b620ad5d3e5b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#identifier> "2005/00-607/32" .
-<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#name> "Foto van park in Pematang Siantar met wandelaars bij fontein" .
-<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Wandelaars bij fonteintje in een park te Pematang-Siantar.\r\n\r\nrecto: in witte inkt \"Fonteintje P.Siantar\"\r\nverso: in potlood \"photo genomen Juli 1930 Sumatra-oostkust\"\r\nin groene inkt \"P. Siantar\"" .
-<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7034bb56453418f90e37bc887257b9e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-14" .
-<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali,  Jogjakarta" .
-<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Jogjakarta, restricted, second edition, sheet 14, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
-<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/704c2fe8674a4e4d6bf298f616db5e45> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-10" .
-<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#name> "Ontvangst van KNIL-militairen met hun echtgenotes" .
-<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst van KNIL-militairen en hun echtgenotes met (?)" .
-<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/707aa5364834c635ed9c4a5bc4106064> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/702ecc15a154a186fb0ddfe1bad9d10d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/702ecc15a154a186fb0ddfe1bad9d10d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44379" .
 <https://n2t.net/ark:/27023/702ecc15a154a186fb0ddfe1bad9d10d> <https://colonialcollections.nl/schema#description> "Pijlschacht" .

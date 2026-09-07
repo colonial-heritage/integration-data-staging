@@ -27,6 +27,13 @@
 <https://n2t.net/ark:/27023/094484ec97f263060de9a1375ba9fb0e> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/094484ec97f263060de9a1375ba9fb0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/094484ec97f263060de9a1375ba9fb0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/144" .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Monument met militairen op de achtergrond." .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0950d0d1dce94e7ebdf3b7e65df7f005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0950d0d1dce94e7ebdf3b7e65df7f005> <https://colonialcollections.nl/schema#identifier> "nf%201358-7-1" .
 <https://n2t.net/ark:/27023/0950d0d1dce94e7ebdf3b7e65df7f005> <https://colonialcollections.nl/schema#name> "To op de hit" .
@@ -34,13 +41,35 @@
 <https://n2t.net/ark:/27023/0950d0d1dce94e7ebdf3b7e65df7f005> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0950d0d1dce94e7ebdf3b7e65df7f005> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0950d0d1dce94e7ebdf3b7e65df7f005> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-1" .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#name> "Kampdoek met geborduurde beren, Banjoebiroe 11" .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#description> "Kampdoek. Deel van een wit linnen tafellaken met geborduurde beren, apen, hazen. Hing boven de slaapplaats van de kinderen Bohlken in Banjoebiroe 11. Zo werd \"thuis\" aangegeven.\r\nWerd \"geborduurd door Cas Bohlken." .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#creator> "Casparus Bernardus Bohlken" .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#identifier> "1997/08/26-2-2" .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#name> "Foto's KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#description> "Foto's Bronbeek 1997/02/19, gemaakt door Ab Baak.\r\nGemaakt  t.g.v. de uitgave van het boek van W. Bevaart over Bronbeek" .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#creator> "Ab Baak" .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-1/1" .
 <https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. De kerels die het \"vuile werk\" doen maar toch een opgewekt gezicht" .
 <https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto: Voorlichtingsdienst 1e Mariniers Brigade, Luitenant H. Wilmar. \" Mariniers in Indië. De kerels die het \"vuile werk\" doen maar toch een opgewekt gezicht\". Gedrukt door \"Kolff SB\"." .
-<https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/096e364c4736df1df662191e1c9e4595> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#identifier> "1949/04/01-1" .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#name> "Miniatuur Fregat; Oud Model  met volle tuigage" .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#description> "Model van een fregat met volle tuigage." .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#creator> "Vice-admiraal Umbgrove" .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0937954313bf48ac334e1b9b7fb11f1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0937954313bf48ac334e1b9b7fb11f1c> <https://colonialcollections.nl/schema#identifier> "nf%201918-113" .
 <https://n2t.net/ark:/27023/0937954313bf48ac334e1b9b7fb11f1c> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Fabriek G.P. ond. Bodjong Gedeh '30'\r\n\r\nOpnames tonen een aantal gebouwen, volgens tekst een fabriek, rubberfabriek. Op de voorgrond enige heel " .
@@ -503,30 +532,6 @@
 <https://n2t.net/ark:/27023/09799d52dd505039fb22405c95f07143> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit, diensttijd J. Grimme 1949-1951 Nederlands-Indië/Indonesië. Bandoeng." .
 <https://n2t.net/ark:/27023/09799d52dd505039fb22405c95f07143> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/09799d52dd505039fb22405c95f07143> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/144" .
-<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Monument met militairen op de achtergrond." .
-<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/094eaba7f938bb5bdae3baee8dc6a32a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-1" .
-<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#name> "Kampdoek met geborduurde beren, Banjoebiroe 11" .
-<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#description> "Kampdoek. Deel van een wit linnen tafellaken met geborduurde beren, apen, hazen. Hing boven de slaapplaats van de kinderen Bohlken in Banjoebiroe 11. Zo werd \"thuis\" aangegeven.\r\nWerd \"geborduurd door Cas Bohlken." .
-<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/09514d2710b69a1005751eccfd443521> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#identifier> "1997/08/26-2-2" .
-<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#name> "Foto's KTOMM Bronbeek" .
-<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#description> "Foto's Bronbeek 1997/02/19, gemaakt door Ab Baak.\r\nGemaakt  t.g.v. de uitgave van het boek van W. Bevaart over Bronbeek" .
-<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0969013cd8da71892746e066fdb9e526> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#identifier> "1949/04/01-1" .
-<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#name> "Miniatuur Fregat; Oud Model  met volle tuigage" .
-<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#description> "Model van een fregat met volle tuigage." .
-<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/09741e1cd78ae15978442377b67f6300> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0937421e39ceddf15c5e2dff2a1db6f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0937421e39ceddf15c5e2dff2a1db6f8> <https://colonialcollections.nl/schema#identifier> "nf%201352-22-2" .
 <https://n2t.net/ark:/27023/0937421e39ceddf15c5e2dff2a1db6f8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met fotohoekjes in album geplakt.\r\nEr is geen geschreven tekst op de achterkant.\r\n\r\nOpname toont een straat op de voorgrond. Aan deze straat een hotel, het BRANDAN HOTEL. Links een geparkeerd staande personenauto, rechts, ove" .

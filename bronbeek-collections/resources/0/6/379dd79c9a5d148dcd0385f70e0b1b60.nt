@@ -1,10 +1,20 @@
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-4" .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#name> "Schoolplaat 34. \"Spoorwegtunnel (Sumatra's Staatsspoorweg)\"" .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 34 \"Spoorwegtunnel (Sumatra's Staatsspoorweg)\", Drukkerij: Kleyn" .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#inscription> "34. Spoorwegtunnel (Sumatra's Staatsspoorweg)" .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
 <https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-1/3" .
 <https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. Een door extremisten opgeblazen brug, kan de infanterie niet in haar opmarsch belemmeren" .
 <https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto: Voorlichtingsdienst 1e Mariniers Brigade, Luitenant H. Wilmar. \" Mariniers in Indië. Een door extremisten opgeblazen brug, kan de infanterie niet in haar opmarsch belemmeren\". Gedrukt door \"Kolff SB\"." .
-<https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0709855503c81d0793d6883c1a5fae96> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/07161820ae7961900c2e4e6e7fd5e235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/07161820ae7961900c2e4e6e7fd5e235> <https://colonialcollections.nl/schema#identifier> "nf%201413-201" .
 <https://n2t.net/ark:/27023/07161820ae7961900c2e4e6e7fd5e235> <https://colonialcollections.nl/schema#name> "Doessoen Pedamaran" .
@@ -12,6 +22,13 @@
 <https://n2t.net/ark:/27023/07161820ae7961900c2e4e6e7fd5e235> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/07161820ae7961900c2e4e6e7fd5e235> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/07161820ae7961900c2e4e6e7fd5e235> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#identifier> "1997/03/06-1-4/2" .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#name> "'De kanonnen bij de Solose kraton / door dr H.J. de Graaf'" .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#description> "Krantenartikel.\r\nPlakboek en diverse krantenartikelen (inv.nrs 1997/03/06-1-4/1, 1997/03/06-1-4/3 t/m 1997/03/06-1-4/6)." .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#creator> "Dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0722bcf075c8799bdec87d0d521f823a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0722bcf075c8799bdec87d0d521f823a> <https://colonialcollections.nl/schema#identifier> "nf%20619-41" .
 <https://n2t.net/ark:/27023/0722bcf075c8799bdec87d0d521f823a> <https://colonialcollections.nl/schema#name> "Flores, tocht langs de kust bij Nangapandan" .
@@ -26,6 +43,20 @@
 <https://n2t.net/ark:/27023/072a0fcb44e4515e2e775d7ab9a565f8> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/072a0fcb44e4515e2e775d7ab9a565f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/072a0fcb44e4515e2e775d7ab9a565f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#identifier> "2009/05/08-1-2" .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#name> "Groepsportret ter gelegenheid van een jubileum van een geweermaker" .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Groepsportret met een paar muzikanten. Boven de groep hangt een bord met de tekst 'Hulde aan onze meester geweermaker 1896 - 8 september - 1921'.\r\nRecto, preegstempel van fotograaf: G.W. Smit, J.B. Canisstraat, Nijmegen." .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#creator> "G.W. Smit" .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#identifier> "nf%201316-1" .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#name> "Rijstschuur Padangse Bovenlanden" .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#creator> "N.V. Johan Mulder's Uitgevers Mij. Gouda (Holland)" .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/07387acd8c13d4454e2339838b4d023f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/07387acd8c13d4454e2339838b4d023f> <https://colonialcollections.nl/schema#identifier> "nf%20842-119" .
 <https://n2t.net/ark:/27023/07387acd8c13d4454e2339838b4d023f> <https://colonialcollections.nl/schema#name> "De krater van de Tangkuban Parahu, een vulkaan 30 kilometer ten noorden van Bandung" .
@@ -33,6 +64,13 @@
 <https://n2t.net/ark:/27023/07387acd8c13d4454e2339838b4d023f> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/07387acd8c13d4454e2339838b4d023f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/07387acd8c13d4454e2339838b4d023f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#identifier> "1995/06/20-1" .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#name> "Groepsportret van officieren aan een diner" .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit foto op bruin karton. Groepsportret van officieren in wit tenue aan de dis. Getegelde vloer." .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#creator> "K.H. Verschoor" .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/074570784ea4a11aa43e585b0ff68034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/074570784ea4a11aa43e585b0ff68034> <https://colonialcollections.nl/schema#identifier> "1874/08-2/26" .
 <https://n2t.net/ark:/27023/074570784ea4a11aa43e585b0ff68034> <https://colonialcollections.nl/schema#name> "Nr. 26: Kotta Goenoengan of Taman, uit ´Vierendertig gezichten op Atjeh´" .
@@ -40,13 +78,36 @@
 <https://n2t.net/ark:/27023/074570784ea4a11aa43e585b0ff68034> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/074570784ea4a11aa43e585b0ff68034> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/074570784ea4a11aa43e585b0ff68034> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#identifier> "2015/07/31-1-8/2" .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#name> "\"Dictaat Legerverpleging\"" .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#description> "Document: Stencil [kopie] \"Dictaat Legerverpleging, uitsluitend samengesteld voor Aanvullingscursus aan de Officieren van de Militaire Administratie van het KNIL in 1949, door M.Braun, Luitenant Kolonel Infanterie (VTD)." .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#creator> "Majoor M. Braun" .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#identifier> "nf%20701-18" .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#name> "Een der Poorten van den Kraton te Djocjakarta" .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#description> "De afbeelding toont een van de poorten die behoort tot het Kraton-complex te Yogyakarta\r\n\r\nbijschrift linksonder; 'Een der Poorten van den Kraton te Djocjakarta. One of the gates of the Kraton at Djocjakarta'\r\nbijschrift rechtsonder; 'Une des portes du Kr" .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#identifier> "nf%201316-2" .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#name> "Huis Padangse Bovenlanden" .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#creator> "N.V. Johan Mulder's Uitgevers Mij. Gouda (Holland)" .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#identifier> "nf%201408-95" .
 <https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#name> "Chinese Tempel - Interieur" .
 <https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#description> "afbeelding toont een interieur.Een hoog vertrek, met grote tegels als vloer.Rijk versierde wanden. Gebedstafel, ?altaar, met knielbankjes wervoor. Fraaie lampen aan het plafond.\r\n\r\nDeze afbeelding komt voor op plaat 12.\r\n\r\nDeze foto is vermoedelijk op Noo" .
-<https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/07481a39d970887a1b3635f9f0404548> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/074c3257bcfb6511cb6e8b10c884c9db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/074c3257bcfb6511cb6e8b10c884c9db> <https://colonialcollections.nl/schema#identifier> "nf%20621-9" .
 <https://n2t.net/ark:/27023/074c3257bcfb6511cb6e8b10c884c9db> <https://colonialcollections.nl/schema#name> "Batakprauw te Tiga Ras (Tobameer)" .
@@ -107,13 +168,6 @@
 <https://n2t.net/ark:/27023/0745447cbf09e51fbe8f0ca61d45ebc3> <https://colonialcollections.nl/schema#inscription> "Voogd - Ambon 612; Matatula M. Amb.Sld.Tkl. No.261527000 1e Cie INF V, B.PAPAN" .
 <https://n2t.net/ark:/27023/0745447cbf09e51fbe8f0ca61d45ebc3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0745447cbf09e51fbe8f0ca61d45ebc3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-4" .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#name> "Schoolplaat 34. \"Spoorwegtunnel (Sumatra's Staatsspoorweg)\"" .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 34 \"Spoorwegtunnel (Sumatra's Staatsspoorweg)\", Drukkerij: Kleyn" .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#inscription> "34. Spoorwegtunnel (Sumatra's Staatsspoorweg)" .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/07435d969b192c34d22d5aabae12f32e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0707b4a3595d2f76dca9d70b97e87e48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0707b4a3595d2f76dca9d70b97e87e48> <https://colonialcollections.nl/schema#identifier> "1996/07/05-2-13/7" .
 <https://n2t.net/ark:/27023/0707b4a3595d2f76dca9d70b97e87e48> <https://colonialcollections.nl/schema#name> "Fotokopie getuigschrift  'Als leider van lichaamsoefeningen' t.n.v. J.K.J.S. Apell" .
@@ -528,48 +582,6 @@
 <https://n2t.net/ark:/27023/074dfdac8db3fd282faf11763b3e0d63> <https://colonialcollections.nl/schema#description> "Luchtfoto, print. Gemerkt: \"EA/JA16 24-1-46 10.000' 20'' 681 SQDN\". Deel van een reeks luchtfoto's van Malang en omgeving gemaakt op 24 januari 1946.\r\nDe achterzijde van het fotopapier is gemerkt: \"A M Crown Copyright reserved\"." .
 <https://n2t.net/ark:/27023/074dfdac8db3fd282faf11763b3e0d63> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/074dfdac8db3fd282faf11763b3e0d63> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#identifier> "1997/03/06-1-4/2" .
-<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#name> "'De kanonnen bij de Solose kraton / door dr H.J. de Graaf'" .
-<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#description> "Krantenartikel.\r\nPlakboek en diverse krantenartikelen (inv.nrs 1997/03/06-1-4/1, 1997/03/06-1-4/3 t/m 1997/03/06-1-4/6)." .
-<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/071a77e0ff8e4711298d29281650a535> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#identifier> "2009/05/08-1-2" .
-<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#name> "Groepsportret ter gelegenheid van een jubileum van een geweermaker" .
-<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Groepsportret met een paar muzikanten. Boven de groep hangt een bord met de tekst 'Hulde aan onze meester geweermaker 1896 - 8 september - 1921'.\r\nRecto, preegstempel van fotograaf: G.W. Smit, J.B. Canisstraat, Nijmegen." .
-<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/072dd3d567d3cf6709280d9fdc08e6d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#identifier> "nf%201316-1" .
-<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#name> "Rijstschuur Padangse Bovenlanden" .
-<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
-<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/07351c0819dfde919051ac45a13a3525> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#identifier> "1995/06/20-1" .
-<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#name> "Groepsportret van officieren aan een diner" .
-<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit foto op bruin karton. Groepsportret van officieren in wit tenue aan de dis. Getegelde vloer." .
-<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/07438a1d18882bf9cdb7c4d92d6c53eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#identifier> "2015/07/31-1-8/2" .
-<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#name> "\"Dictaat Legerverpleging\"" .
-<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#description> "Document: Stencil [kopie] \"Dictaat Legerverpleging, uitsluitend samengesteld voor Aanvullingscursus aan de Officieren van de Militaire Administratie van het KNIL in 1949, door M.Braun, Luitenant Kolonel Infanterie (VTD)." .
-<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/074586bf534a17b2b8ff2cefa27a33a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#identifier> "nf%20701-18" .
-<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#name> "Een der Poorten van den Kraton te Djocjakarta" .
-<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#description> "De afbeelding toont een van de poorten die behoort tot het Kraton-complex te Yogyakarta\r\n\r\nbijschrift linksonder; 'Een der Poorten van den Kraton te Djocjakarta. One of the gates of the Kraton at Djocjakarta'\r\nbijschrift rechtsonder; 'Une des portes du Kr" .
-<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/07467a403dc7cdaf15bfe9821e1b8fab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#identifier> "nf%201316-2" .
-<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#name> "Huis Padangse Bovenlanden" .
-<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
-<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0746e33cd74c0b46e88518888dbc5d8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0709ef4a59c5c70dbe94355b5d509922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0709ef4a59c5c70dbe94355b5d509922> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/116" .
 <https://n2t.net/ark:/27023/0709ef4a59c5c70dbe94355b5d509922> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

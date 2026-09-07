@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/16" .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#name> "Plaat 16 Panorama en gezicht op de heuvelbèntèng Genroejang." .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 16 Panorama en gezicht op de heuvelbèntèng Genroejang." .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#inscription> "Plaat 16 Panorama en gezicht op de heuvelbèntèng Genroejang." .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#identifier> "2005/11/28-2" .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#name> "Tekst van G. de Boer getiteld \"Corruptie, wapensmokkel en moord in Nederlands-Indië\"" .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#description> "Geprint verhaal G. de Boer, Corruptie, wapensmokkel en moord in Nederlands-Indië. De dood van generaal Spoor. Amstelveen, 28 november 2005. Ingebonden." .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#creator> "G. de Boer" .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb58716c4a7fc7de84ace160a477e985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb58716c4a7fc7de84ace160a477e985> <https://colonialcollections.nl/schema#identifier> "nf%20925-22-2" .
 <https://n2t.net/ark:/27023/cb58716c4a7fc7de84ace160a477e985> <https://colonialcollections.nl/schema#name> "in Salatiga" .
@@ -5,6 +20,13 @@
 <https://n2t.net/ark:/27023/cb58716c4a7fc7de84ace160a477e985> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cb58716c4a7fc7de84ace160a477e985> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cb58716c4a7fc7de84ace160a477e985> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#identifier> "nf%201315-10" .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#name> "Bandoeng - Departement van Oorlog" .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb729ed14e79a9ab93af4bd478866a74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb729ed14e79a9ab93af4bd478866a74> <https://colonialcollections.nl/schema#identifier> "nf%20836-21-1" .
 <https://n2t.net/ark:/27023/cb729ed14e79a9ab93af4bd478866a74> <https://colonialcollections.nl/schema#name> "20 Juni '28 op het plat" .
@@ -19,6 +41,13 @@
 <https://n2t.net/ark:/27023/cb73e7979b1ebcc4308b814dce3af98a> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/cb73e7979b1ebcc4308b814dce3af98a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cb73e7979b1ebcc4308b814dce3af98a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#identifier> "2006/00-42-190" .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#name> "Geschilderd portret van luitenant-generaal G.C.E. van Daalen, ES, RMWO-2" .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Foto van geschilderd staand portret van luitenant-generaal G.C.E. van Daalen, ES, RMWO-2, in KNIL-uniform.\r\n\r\nHandgeschreven tekst verso: Lt.Gen. G.C.E. van Daalen MWO-2 (ES).\r\nStempel verso: Photo 'Elite' 109, Anna Paolownastr. 109, La Ha" .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#creator> "Photo Elite" .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb577924ceab505acb0363064f6bb1d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb577924ceab505acb0363064f6bb1d0> <https://colonialcollections.nl/schema#identifier> "nf%20842-386" .
 <https://n2t.net/ark:/27023/cb577924ceab505acb0363064f6bb1d0> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 37 t/m 72.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 66, in potloo" .
@@ -63,13 +92,6 @@
 <https://n2t.net/ark:/27023/cb732da86ffaa2cdd14cb3f194fdcf12> <https://colonialcollections.nl/schema#inscription> "M.Woods MFG Co 1943" .
 <https://n2t.net/ark:/27023/cb732da86ffaa2cdd14cb3f194fdcf12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cb732da86ffaa2cdd14cb3f194fdcf12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/16" .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#name> "Plaat 16 Panorama en gezicht op de heuvelbèntèng Genroejang." .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 16 Panorama en gezicht op de heuvelbèntèng Genroejang." .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#inscription> "Plaat 16 Panorama en gezicht op de heuvelbèntèng Genroejang." .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cb7d3d22dd3c7aa7f31af933668d4f4f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb4b25f6cb7c4e043dfcf904dfae9c4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb4b25f6cb7c4e043dfcf904dfae9c4c> <https://colonialcollections.nl/schema#identifier> "2010/10/01-2-1/6" .
 <https://n2t.net/ark:/27023/cb4b25f6cb7c4e043dfcf904dfae9c4c> <https://colonialcollections.nl/schema#name> "Schuin op de 9de 1e Afdeeling Bergartillerie reuze he!" .
@@ -466,24 +488,6 @@
 <https://n2t.net/ark:/27023/cb8b2f5f31f31120bbb65625bd28b4e6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. (totaal 41 stuks). Exercitie en dagelijks leven (eten, zwemmen e.d.) bij de veldartillerie KNIL. Periode 1920-1930." .
 <https://n2t.net/ark:/27023/cb8b2f5f31f31120bbb65625bd28b4e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cb8b2f5f31f31120bbb65625bd28b4e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#identifier> "2005/11/28-2" .
-<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#name> "Tekst van G. de Boer getiteld \"Corruptie, wapensmokkel en moord in Nederlands-Indië\"" .
-<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#description> "Geprint verhaal G. de Boer, Corruptie, wapensmokkel en moord in Nederlands-Indië. De dood van generaal Spoor. Amstelveen, 28 november 2005. Ingebonden." .
-<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cb51ddb39d84da59c033e656a33d3c8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#identifier> "nf%201315-10" .
-<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#name> "Bandoeng - Departement van Oorlog" .
-<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cb7236dfd866a826f891fc6935836ace> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#identifier> "2006/00-42-190" .
-<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#name> "Geschilderd portret van luitenant-generaal G.C.E. van Daalen, ES, RMWO-2" .
-<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Foto van geschilderd staand portret van luitenant-generaal G.C.E. van Daalen, ES, RMWO-2, in KNIL-uniform.\r\n\r\nHandgeschreven tekst verso: Lt.Gen. G.C.E. van Daalen MWO-2 (ES).\r\nStempel verso: Photo 'Elite' 109, Anna Paolownastr. 109, La Ha" .
-<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cb8c19dbaf7095c7fc0aa7a764274371> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb4c6cd6fc977a7ed8c6940077aab0b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb4c6cd6fc977a7ed8c6940077aab0b3> <https://colonialcollections.nl/schema#identifier> "S%206244-177" .
 <https://n2t.net/ark:/27023/cb4c6cd6fc977a7ed8c6940077aab0b3> <https://colonialcollections.nl/schema#description> "Oorsieraad bestaande uit een aantal ringen aan elkaar met hieraan verschillende andere ringen. De ringen zijn geslepen van schildpad, schelp en been." .

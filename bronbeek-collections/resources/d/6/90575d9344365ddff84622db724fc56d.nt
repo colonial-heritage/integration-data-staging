@@ -6,6 +6,21 @@
 <https://n2t.net/ark:/27023/e79be1c7e3f91ff49528c28f24adbe3f> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/e79be1c7e3f91ff49528c28f24adbe3f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e79be1c7e3f91ff49528c28f24adbe3f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/94" .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#name> "Plaat 94. De groote hoofdenvergadering in de Alaslanden." .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 94. De groote hoofdenvergadering in de Alaslanden." .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#inscription> "Plaat 94. De groote hoofdenvergadering in de Alaslanden." .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/104" .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#name> "Sociëteit Malang" .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Sociëteit Malang" .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#creator> "Malangs Fotografisch Atelier" .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e7a3906c3af6999f0a2a9cf6a4bdeddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e7a3906c3af6999f0a2a9cf6a4bdeddf> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/35" .
 <https://n2t.net/ark:/27023/e7a3906c3af6999f0a2a9cf6a4bdeddf> <https://colonialcollections.nl/schema#name> "De Chef der Genie generaal-majoor De Quant zittend achter een bureau en een KNIL-militair naast hem" .
@@ -20,13 +35,21 @@
 <https://n2t.net/ark:/27023/e7ad00ae0ce9af8c8eaaf1fa96492a38> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/e7ad00ae0ce9af8c8eaaf1fa96492a38> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e7ad00ae0ce9af8c8eaaf1fa96492a38> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#identifier> "S%204266" .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#name> "Overzichtskaart der spoor- en tramwegen in Midden-Java" .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#description> "Overzichtskaart van de Nederlandsch-Indische Spoorweg-maatschappij met daarop aangegeven de spoor- en tramlijnen in Midden-Java.\r\n\r\nMet plattegronden van Yogyakarta, Semarang, Surakarta en Surabaya\r\n\r\nschaal 1 : 500.000" .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#creator> "J.J.Broek en van Gheel Gildemeester" .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/18" .
 <https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
 <https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Op achterzijde:  \"NIWIN\": Op patrouille in het oerbos." .
-<https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e7ce51574eb799a0e6cae204443f73ab> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/e7a97060f46d87100e2e64873faa0b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e7a97060f46d87100e2e64873faa0b16> <https://colonialcollections.nl/schema#identifier> "nf%20842-546" .
 <https://n2t.net/ark:/27023/e7a97060f46d87100e2e64873faa0b16> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BD 01 t/m 36.  Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BD, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BD 16, in potlood ED 05." .
@@ -64,13 +87,6 @@
 <https://n2t.net/ark:/27023/e7a363a5de2538338951bf42e4273892> <https://colonialcollections.nl/schema#inscription> "Ter herinnering aangeboden door de Onderofficieren aan den Commandant v/h Detachement te Kolonodale tijdens het 25 jarig bestaan hiervan 7-5-´32" .
 <https://n2t.net/ark:/27023/e7a363a5de2538338951bf42e4273892> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e7a363a5de2538338951bf42e4273892> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/94" .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#name> "Plaat 94. De groote hoofdenvergadering in de Alaslanden." .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 94. De groote hoofdenvergadering in de Alaslanden." .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#inscription> "Plaat 94. De groote hoofdenvergadering in de Alaslanden." .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e7a204afe584eac6367321dace8ab09a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e78c9a56ff3aee34ea6f0e4cee092020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e78c9a56ff3aee34ea6f0e4cee092020> <https://colonialcollections.nl/schema#identifier> "2018/05/23-7-4/22" .
 <https://n2t.net/ark:/27023/e78c9a56ff3aee34ea6f0e4cee092020> <https://colonialcollections.nl/schema#name> "Foto diensttijd kapitein E.J.H. Saathof" .
@@ -473,18 +489,6 @@
 <https://n2t.net/ark:/27023/e7cf4713004914de709326617cb16d9b> <https://colonialcollections.nl/schema#description> "Tekening in aquarel op zwarte ondergrond, Japanse soldaat die naar een man wijst die een zware last op zijn schouders draagt; een andere man ligt op de grond. Totaal aantal tekeningen is 45 stuks die deels zijn genummerd." .
 <https://n2t.net/ark:/27023/e7cf4713004914de709326617cb16d9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e7cf4713004914de709326617cb16d9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/104" .
-<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#name> "Sociëteit Malang" .
-<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Sociëteit Malang" .
-<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e7936e35356e758952e7f37901baa371> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#identifier> "S%204266" .
-<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#name> "Overzichtskaart der spoor- en tramwegen in Midden-Java" .
-<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#description> "Overzichtskaart van de Nederlandsch-Indische Spoorweg-maatschappij met daarop aangegeven de spoor- en tramlijnen in Midden-Java.\r\n\r\nMet plattegronden van Yogyakarta, Semarang, Surakarta en Surabaya\r\n\r\nschaal 1 : 500.000" .
-<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e7babec7e1f21ad2fab6a99ca2131906> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e7911e384ed7b99f9fb1aa7b3671b08f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e7911e384ed7b99f9fb1aa7b3671b08f> <https://colonialcollections.nl/schema#identifier> "nf%20696-43" .
 <https://n2t.net/ark:/27023/e7911e384ed7b99f9fb1aa7b3671b08f> <https://colonialcollections.nl/schema#description> "Opname toont een landelijk beeld met op de voorgrond natte rijstbouw" .

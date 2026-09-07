@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#identifier> "1989/09/28-2-9" .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat KNIL en Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met rechte zakkleppen en stolpplooi en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmodel met een " .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#inscription> "DKG..Goirle" .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#creator> "B.V. Textielfabrieken H. van Puijenbroek" .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/261da705f140f596729df38f4163530c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/261da705f140f596729df38f4163530c> <https://colonialcollections.nl/schema#identifier> "1990/08/20-15-24" .
 <https://n2t.net/ark:/27023/261da705f140f596729df38f4163530c> <https://colonialcollections.nl/schema#name> "Tempel in Tjakra Negara, Lombok" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/261da705f140f596729df38f4163530c> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/261da705f140f596729df38f4163530c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/261da705f140f596729df38f4163530c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/10" .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#name> "Schoolweg te Sabang." .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Schoolweg te Sabang.'." .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#inscription> "Schoolweg te Sabang." .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2603778bb83df90cbbeaaff4b41d7c95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2603778bb83df90cbbeaaff4b41d7c95> <https://colonialcollections.nl/schema#identifier> "nf%20699-4" .
 <https://n2t.net/ark:/27023/2603778bb83df90cbbeaaff4b41d7c95> <https://colonialcollections.nl/schema#name> "Hamengkubuwono VII" .
@@ -25,12 +41,24 @@
 <https://n2t.net/ark:/27023/26004b98b2e5aaa408747d72f68c0748> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/26004b98b2e5aaa408747d72f68c0748> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/26004b98b2e5aaa408747d72f68c0748> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#identifier> "EDO%20481-7" .
+<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een zeilprauw met driehoekig zeil." .
+<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/262234c91188ec3009336d1f6c1d4e26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/262234c91188ec3009336d1f6c1d4e26> <https://colonialcollections.nl/schema#identifier> "nf%20242" .
 <https://n2t.net/ark:/27023/262234c91188ec3009336d1f6c1d4e26> <https://colonialcollections.nl/schema#description> "Opname toont een portret van een paar inheemse mannen, zeer vermoedelijk allen Papoea's. Het lijkt of zij meedoen in een soort parade en hebben een vreemde uitdossing dat vermoedelijk uit plantenmateriaal bestaat." .
 <https://n2t.net/ark:/27023/262234c91188ec3009336d1f6c1d4e26> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/262234c91188ec3009336d1f6c1d4e26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/262234c91188ec3009336d1f6c1d4e26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#identifier> "nf%20986" .
+<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst.\r\n'foto Dr. P. Voorhoeve - Voorste gedeelte van een Parholian op Samosir - foto uit 1938 - VII 88'\r\n\r\nDe opname toont een uit steen gebeeld" .
+<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#creator> "P. Voorhoeve" .
+<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/262d4db09731b7fdcbf6abddec552035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/262d4db09731b7fdcbf6abddec552035> <https://colonialcollections.nl/schema#identifier> "nf%201849-2" .
 <https://n2t.net/ark:/27023/262d4db09731b7fdcbf6abddec552035> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOpname toont een spoorwegemplacement, mogelijk zelfs een station. Er zijn gebouwen, enoge loodsen. Er zijn veel spoorlijnen, evenwijdig aan elkaar en verbonden door wissels.\r\nEr staan her en der wat wagons.\r\n\r\nFoto van" .
@@ -58,20 +86,6 @@
 <https://n2t.net/ark:/27023/263ea5193c42869f4982f6cab31d30b3> <https://colonialcollections.nl/schema#inscription> "Topografische Dienst in Nederlandsch-Indië 1874-1924\r\n\r\n\r\n\r\n\r\nTopografische Dienst in Nederlandsch-Indië 1874-1924. Aangeboden aan den Luitenant-kolonel L.F. van Gent Hoofd van den Topografischen Dienst bij de herdenking van het vijftig-jarig bestaan" .
 <https://n2t.net/ark:/27023/263ea5193c42869f4982f6cab31d30b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/263ea5193c42869f4982f6cab31d30b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#identifier> "1989/09/28-2-9" .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat KNIL en Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met rechte zakkleppen en stolpplooi en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmodel met een " .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#inscription> "DKG..Goirle" .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2611bc4fd35dd0ca404d11cb4e332761> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/10" .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#name> "Schoolweg te Sabang." .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Schoolweg te Sabang.'." .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#inscription> "Schoolweg te Sabang." .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/263e03791f012057efc874c189db35f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/25feb8a5319ddb0bdb03e532b427f476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25feb8a5319ddb0bdb03e532b427f476> <https://colonialcollections.nl/schema#identifier> "2001/02/05-4-2/7" .
 <https://n2t.net/ark:/27023/25feb8a5319ddb0bdb03e532b427f476> <https://colonialcollections.nl/schema#name> "foto" .
@@ -582,16 +596,6 @@
 <https://n2t.net/ark:/27023/26448d71361c4804dbd64a3c757be57c> <https://colonialcollections.nl/schema#description> "Maleise brieven (getranscribeerd)\r\nHerkomst: noord en oost afd. Sumatra." .
 <https://n2t.net/ark:/27023/26448d71361c4804dbd64a3c757be57c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/26448d71361c4804dbd64a3c757be57c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#identifier> "EDO%20481-7" .
-<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een zeilprauw met driehoekig zeil." .
-<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/261c2c4d61071de8b723777e1b281e9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#identifier> "nf%20986" .
-<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst.\r\n'foto Dr. P. Voorhoeve - Voorste gedeelte van een Parholian op Samosir - foto uit 1938 - VII 88'\r\n\r\nDe opname toont een uit steen gebeeld" .
-<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/26295e872d92e4d4763b5f4f75ca6c57> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/261debb317192801b94e05196262c867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/261debb317192801b94e05196262c867> <https://colonialcollections.nl/schema#identifier> "E1907" .
 <https://n2t.net/ark:/27023/261debb317192801b94e05196262c867> <https://colonialcollections.nl/schema#name> "Gouden Ster Medaille, Rusland (Unie van Socialistische Sovjet Republieken), versiersel" .

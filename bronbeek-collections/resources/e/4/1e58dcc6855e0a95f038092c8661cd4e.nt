@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-5" .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#name> "90. Goudsmeden in Atjeh" .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#description> "Schoolplaat. 90. Goudsmeden in Atjeh. Kleyenberg & Co., Haarlem." .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#inscription> "90. Goudsmeden in Atjeh" .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3047337790761f0d0b5adf8d6bd746ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3047337790761f0d0b5adf8d6bd746ea> <https://colonialcollections.nl/schema#identifier> "1977/03-1-28" .
 <https://n2t.net/ark:/27023/3047337790761f0d0b5adf8d6bd746ea> <https://colonialcollections.nl/schema#name> "De Gelderlandseweg bij Batavia" .
@@ -12,13 +20,36 @@
 <https://n2t.net/ark:/27023/304f7bf981519978b3f7e27b3d5aaa8f> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/304f7bf981519978b3f7e27b3d5aaa8f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/304f7bf981519978b3f7e27b3d5aaa8f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#identifier> "2011/05/25-1-4" .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#name> "Foto van G.J.H. Bruijnis, RMWO-3 in burger" .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Borststuk in burger van G.J.H. Bruijnis-RMWO-3." .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#creator> "G.A. Mögle" .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#identifier> "1922/10/01-1" .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#name> "Portret van Generaal Majoor Tit. I.N.C. Baron van Heerdt" .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#description> "Tekening. Op karton geplakt. [?, is tekening op stevig papier E.A.]\r\nBorststuk, naar links gekeerd. In uniform, attila met 3 sterren op kraag en op borst MWO-medaille.\r\nLinksonder paraaf: \"NE\"\r\nRechtsboven: \"Generaal-majoor tit. I.N.C. Baron van Heerdt.\"\r" .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#creator> "N E" .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#identifier> "2003/00-20-2" .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van de wapengalerij van Museum Bronbeek" .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. Wapengalerij op de benedenverdieping van Museum Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#creator> "drukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#identifier> "S%206245-30" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#name> "Pasar (markt) te Fort de Kock" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Pasar (markt) te Fort de Kock\r\nDaaronder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt op No" .
-<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#identifier> "nf%20317" .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#name> "Penjoetro met pijl en boog" .
@@ -27,6 +58,13 @@
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#identifier> "1986/07/22-1-10/1" .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#name> "Dr. Bijleveld, vader van Kol. Dr. J.W. Bijleveld" .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#description> "Foto Dr. Bijleveld, vader van Kol. Dr. J.W. Bijleveld.\r\n3 zittende militairen aan een tafel, 1 militair staat. In pen : \"Dr. Neeb (staande); Dr. Bijleveld vader van Dr. J.W. Bijleveld. (zittend in midden) als Kapitein.\"" .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3081e71c5396e03bf0cdde4a95b29e6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3081e71c5396e03bf0cdde4a95b29e6e> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/8" .
 <https://n2t.net/ark:/27023/3081e71c5396e03bf0cdde4a95b29e6e> <https://colonialcollections.nl/schema#name> "Portret van H.W. van der Voort" .
@@ -34,6 +72,13 @@
 <https://n2t.net/ark:/27023/3081e71c5396e03bf0cdde4a95b29e6e> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/3081e71c5396e03bf0cdde4a95b29e6e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3081e71c5396e03bf0cdde4a95b29e6e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/34" .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/30890933af16d4246dd280ff537cd669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/30890933af16d4246dd280ff537cd669> <https://colonialcollections.nl/schema#identifier> "2002/00-0-4" .
 <https://n2t.net/ark:/27023/30890933af16d4246dd280ff537cd669> <https://colonialcollections.nl/schema#name> "Benteng te Edi" .
@@ -41,6 +86,13 @@
 <https://n2t.net/ark:/27023/30890933af16d4246dd280ff537cd669> <https://colonialcollections.nl/schema#creator> "1e Luitenant der Infanterie A. de Leur" .
 <https://n2t.net/ark:/27023/30890933af16d4246dd280ff537cd669> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/30890933af16d4246dd280ff537cd669> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-86/4" .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#name> "Platte pet wit kostuum districscommissaris Suriname" .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#description> "Platte pet met staande rand van zwart laken en een petovertek van witte katoen. De pet heeft een vallende zwart leren klep. Op de rand van de klep is een koperen band met splitpennen aangebracht. De band bestaat uit na de petrand gerichte kartels. De kart" .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#creator> "Wulfsen en Wulfsen" .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/308cc78aabce6f61c7c39813d8357162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/308cc78aabce6f61c7c39813d8357162> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/71" .
 <https://n2t.net/ark:/27023/308cc78aabce6f61c7c39813d8357162> <https://colonialcollections.nl/schema#name> "Stadsgezichten No. 56. Kembang Djepoon met Roode Brug. Soerabaia." .
@@ -74,13 +126,6 @@
 <https://n2t.net/ark:/27023/3063b705b7ae690b8ee199a83537835f> <https://colonialcollections.nl/schema#inscription> "Hembrug 1915" .
 <https://n2t.net/ark:/27023/3063b705b7ae690b8ee199a83537835f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3063b705b7ae690b8ee199a83537835f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-5" .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#name> "90. Goudsmeden in Atjeh" .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#description> "Schoolplaat. 90. Goudsmeden in Atjeh. Kleyenberg & Co., Haarlem." .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#inscription> "90. Goudsmeden in Atjeh" .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/307df4920421f342e70f305ac2ace075> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3045416df9f692c4c206fc4363d817e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3045416df9f692c4c206fc4363d817e5> <https://colonialcollections.nl/schema#identifier> "2016/01/06-2-13/291" .
 <https://n2t.net/ark:/27023/3045416df9f692c4c206fc4363d817e5> <https://colonialcollections.nl/schema#name> "Foto's diensttijd" .
@@ -519,42 +564,6 @@
 <https://n2t.net/ark:/27023/308e96ede1ec242ed289b3cf125531f0> <https://colonialcollections.nl/schema#description> "Foto. Straatbeeld met rechts een rij beschadigde huizen en puin. In het midden staat een rijtuig op straat met een aantal mensen ernaast.  Links op de achtergrond is een berg zichtbaar." .
 <https://n2t.net/ark:/27023/308e96ede1ec242ed289b3cf125531f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/308e96ede1ec242ed289b3cf125531f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#identifier> "2011/05/25-1-4" .
-<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#name> "Foto van G.J.H. Bruijnis, RMWO-3 in burger" .
-<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Borststuk in burger van G.J.H. Bruijnis-RMWO-3." .
-<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3052cb9ec75034d7493b1f096bccf14e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#identifier> "1922/10/01-1" .
-<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#name> "Portret van Generaal Majoor Tit. I.N.C. Baron van Heerdt" .
-<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#description> "Tekening. Op karton geplakt. [?, is tekening op stevig papier E.A.]\r\nBorststuk, naar links gekeerd. In uniform, attila met 3 sterren op kraag en op borst MWO-medaille.\r\nLinksonder paraaf: \"NE\"\r\nRechtsboven: \"Generaal-majoor tit. I.N.C. Baron van Heerdt.\"\r" .
-<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/30597457e768f914f012eac53f55de75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#identifier> "2003/00-20-2" .
-<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van de wapengalerij van Museum Bronbeek" .
-<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. Wapengalerij op de benedenverdieping van Museum Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
-<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/30598a7de170e339f0d9ab1288d0fa71> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#identifier> "1986/07/22-1-10/1" .
-<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#name> "Dr. Bijleveld, vader van Kol. Dr. J.W. Bijleveld" .
-<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#description> "Foto Dr. Bijleveld, vader van Kol. Dr. J.W. Bijleveld.\r\n3 zittende militairen aan een tafel, 1 militair staat. In pen : \"Dr. Neeb (staande); Dr. Bijleveld vader van Dr. J.W. Bijleveld. (zittend in midden) als Kapitein.\"" .
-<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/306e7042db1f21f1d8172c9330c8426c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/34" .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-86/4" .
-<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#name> "Platte pet wit kostuum districscommissaris Suriname" .
-<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#description> "Platte pet met staande rand van zwart laken en een petovertek van witte katoen. De pet heeft een vallende zwart leren klep. Op de rand van de klep is een koperen band met splitpennen aangebracht. De band bestaat uit na de petrand gerichte kartels. De kart" .
-<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/308b0fd9417ad4fe736441bac4f450ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/305e7f700aaaaed3bbc16031ba9d2aef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/305e7f700aaaaed3bbc16031ba9d2aef> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41494" .
 <https://n2t.net/ark:/27023/305e7f700aaaaed3bbc16031ba9d2aef> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tgitaar\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tH 60, Br 35\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2028\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2028] Depot, 27, L b [27 L b]" .

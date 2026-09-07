@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/41" .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#name> "Plaat 41. Meresah en Mesigit te Penampakan" .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 41. Meresah en Mesigit te Penampakan" .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#inscription> "Plaat 41. Meresah en Mesigit te Penampakan" .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d4fd0e67bade5cf9aa168c59440bed9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d4fd0e67bade5cf9aa168c59440bed9d> <https://colonialcollections.nl/schema#identifier> "1977/03-1-40" .
 <https://n2t.net/ark:/27023/d4fd0e67bade5cf9aa168c59440bed9d> <https://colonialcollections.nl/schema#name> "Achter Pintjoe Ketjil" .
@@ -5,6 +13,20 @@
 <https://n2t.net/ark:/27023/d4fd0e67bade5cf9aa168c59440bed9d> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/d4fd0e67bade5cf9aa168c59440bed9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d4fd0e67bade5cf9aa168c59440bed9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#identifier> "nf%201333-6" .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#name> "Pasar Ikan Batavia" .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in drie talen, Nederlands, Frans en Indonesisch.\r\nLinks een kartelrand.\r\n\r\nOok is er waar de postzegel geplakt moet worden de naam van de uitgever: 'JAPANSCHE TOKO K.SHIMANE'\r\n\r\nOp de a" .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#creator> "Japansche Toko K. Shimane" .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/2" .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#name> "Ansicht" .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#description> "Ansicht, ingekleurd." .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d50f20625ffe62a70a2abdf9d1be5f67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d50f20625ffe62a70a2abdf9d1be5f67> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/100" .
 <https://n2t.net/ark:/27023/d50f20625ffe62a70a2abdf9d1be5f67> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -23,10 +45,10 @@
 <https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#identifier> "nf%201364-1" .
 <https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#name> "Wandeling door de dierentuin" .
 <https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 5 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'WANDELING DOOR DEN DIERENTUIN, MIEP EN FRANS VOEREN HUN LIEVELINGS" .
-<https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/d51a83a3564ad9ff848a200749937254> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d525a636cabb3d7f1738ef01379563ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d525a636cabb3d7f1738ef01379563ed> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-55" .
 <https://n2t.net/ark:/27023/d525a636cabb3d7f1738ef01379563ed> <https://colonialcollections.nl/schema#name> "Groepsfoto G.Buijs met vrouw , 4 bedienden, honden en paard." .
@@ -34,13 +56,21 @@
 <https://n2t.net/ark:/27023/d525a636cabb3d7f1738ef01379563ed> <https://colonialcollections.nl/schema#creator> "C. Johannes, Photograaf" .
 <https://n2t.net/ark:/27023/d525a636cabb3d7f1738ef01379563ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d525a636cabb3d7f1738ef01379563ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-6" .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#name> "Het uitstrooien van bommen" .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#description> "Het uitstrooien van bommen. 19 december 1948" .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/68" .
 <https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#name> "Merapi in werking. Magelang." .
 <https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Merapi in werking. Magelang." .
-<https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#creator> "W.& S.H." .
+<https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#creator> "N.V. H.V.Maresch, Magelang" .
 <https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d5349a5f780a581dfa48029b4075a7c9> <https://colonialcollections.nl/schema#creator> "W.& S.H." .
 <https://n2t.net/ark:/27023/d53ad083cc8c8449081f2d361fb94d5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d53ad083cc8c8449081f2d361fb94d5d> <https://colonialcollections.nl/schema#identifier> "1977/03-1-49" .
 <https://n2t.net/ark:/27023/d53ad083cc8c8449081f2d361fb94d5d> <https://colonialcollections.nl/schema#name> "Aan de rivier (Batavia)" .
@@ -54,6 +84,7 @@
 <https://n2t.net/ark:/27023/d5019568dfdc9052a19f5e757c06cfea> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d5019568dfdc9052a19f5e757c06cfea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d5019568dfdc9052a19f5e757c06cfea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d5019568dfdc9052a19f5e757c06cfea> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/d5069abe2702f1eb87c1ef315fb19c9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d5069abe2702f1eb87c1ef315fb19c9a> <https://colonialcollections.nl/schema#identifier> "EDO%20622-26-7" .
 <https://n2t.net/ark:/27023/d5069abe2702f1eb87c1ef315fb19c9a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een blanke man en vrouw, gekleed in badpak, met een racket spelend op een grasveld.\r\n\r\nEr is gekozen als geografische herkomst voor Europa, omdat dat het meest logische is voo" .
@@ -84,6 +115,12 @@
 <https://n2t.net/ark:/27023/d517ee1dc8992c6d12b0a60265cc9a2a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d517ee1dc8992c6d12b0a60265cc9a2a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d517ee1dc8992c6d12b0a60265cc9a2a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#identifier> "EDO%20481-61" .
+<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van nogal ver af, waar veel mensen te zien zijn, de meeste zittend op de grond. Er is ook een bouwsel, dak op palen, maar ook daarvan is niet bekend wat het is.\r\n\r\nHet formaat van de foto verhi" .
+<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d53b8acc4ee5cb1db20908dfc390d791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d53b8acc4ee5cb1db20908dfc390d791> <https://colonialcollections.nl/schema#identifier> "nf%20331-6" .
 <https://n2t.net/ark:/27023/d53b8acc4ee5cb1db20908dfc390d791> <https://colonialcollections.nl/schema#description> "onderschrift; 'Bromotocht 17 juni 1924. VI. Terug door de zandzee. (ik voorop met m'n witte blouse)'" .
@@ -124,13 +161,6 @@
 <https://n2t.net/ark:/27023/d53069ccc18fca2d4fb6b125d058b5f5> <https://colonialcollections.nl/schema#inscription> "\"G.O.M. IV\"." .
 <https://n2t.net/ark:/27023/d53069ccc18fca2d4fb6b125d058b5f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d53069ccc18fca2d4fb6b125d058b5f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/41" .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#name> "Plaat 41. Meresah en Mesigit te Penampakan" .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 41. Meresah en Mesigit te Penampakan" .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#inscription> "Plaat 41. Meresah en Mesigit te Penampakan" .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d5232abd6528b375b1e9e4a126023c85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d4fbc6eb3389f280639e264a605497d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d4fbc6eb3389f280639e264a605497d8> <https://colonialcollections.nl/schema#identifier> "1996/11/06-3-1/88" .
 <https://n2t.net/ark:/27023/d4fbc6eb3389f280639e264a605497d8> <https://colonialcollections.nl/schema#name> "Luchtfoto Malang \"EA/JA16 24-1-46 10.000' 20'' 681 SQDN\"" .
@@ -521,24 +551,6 @@
 <https://n2t.net/ark:/27023/d5418f396f8cf88f3b00fb430eb46572> <https://colonialcollections.nl/schema#description> "Foto diensttijd dienstplichtig soldaat 1e klas E.F. Uittenbosch Nederlands-Indië. 5e bataljon 9de regiment infanterie (5-9 RI), Y-Brigade, Zuid-Sumatra. \r\n\r\n\r\n17 stuks. Opleiding in Nederland en en reunies 1991, 1995 en 1999." .
 <https://n2t.net/ark:/27023/d5418f396f8cf88f3b00fb430eb46572> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d5418f396f8cf88f3b00fb430eb46572> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#identifier> "nf%201333-6" .
-<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#name> "Pasar Ikan Batavia" .
-<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in drie talen, Nederlands, Frans en Indonesisch.\r\nLinks een kartelrand.\r\n\r\nOok is er waar de postzegel geplakt moet worden de naam van de uitgever: 'JAPANSCHE TOKO K.SHIMANE'\r\n\r\nOp de a" .
-<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d503b7a25fa25402c10a7e6852e5cfa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/2" .
-<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#name> "Ansicht" .
-<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#description> "Ansicht, ingekleurd." .
-<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d5068401893e25bf8aa443c503ee8d23> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-6" .
-<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#name> "Het uitstrooien van bommen" .
-<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#description> "Het uitstrooien van bommen. 19 december 1948" .
-<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d531c7fbb3e4ef3c1c402c3ff8da4ae8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d503734a6201c75f76f8459eabab3484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d503734a6201c75f76f8459eabab3484> <https://colonialcollections.nl/schema#identifier> "nf%20899-87" .
 <https://n2t.net/ark:/27023/d503734a6201c75f76f8459eabab3484> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nOpname van een kudde geiten, zo te zien zonder horens, voedsel zoekend in struikgewas." .
@@ -589,11 +601,6 @@
 <https://n2t.net/ark:/27023/d53944f618e479f353a060037137c90e> <https://colonialcollections.nl/schema#description> "Gevlochten korf" .
 <https://n2t.net/ark:/27023/d53944f618e479f353a060037137c90e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d53944f618e479f353a060037137c90e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#identifier> "EDO%20481-61" .
-<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van nogal ver af, waar veel mensen te zien zijn, de meeste zittend op de grond. Er is ook een bouwsel, dak op palen, maar ook daarvan is niet bekend wat het is.\r\n\r\nHet formaat van de foto verhi" .
-<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d52032c4f73ecf3c2aedd18061017754> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d50cd9e9674681e6a2bfc0867afa9c08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d50cd9e9674681e6a2bfc0867afa9c08> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43774" .
 <https://n2t.net/ark:/27023/d50cd9e9674681e6a2bfc0867afa9c08> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

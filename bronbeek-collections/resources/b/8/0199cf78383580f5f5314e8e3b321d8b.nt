@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#identifier> "2001/00-10" .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#name> "No.5 Königlich Spanische Artillerie." .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#description> "Prent. Lithografie, ingekleurd. In lijst. \"No.5. Königlich Spanische Artillerie. Augsburg in Herzbergs Aacademischer Kunsthandlung. J. Volz del. & Fe.\"" .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#inscription> "No.5. Königlich Spanische Artillerie." .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#creator> "J. Volz" .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d8cf3f86ff74ea5f8d3ec15059f6b980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d8cf3f86ff74ea5f8d3ec15059f6b980> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/271" .
 <https://n2t.net/ark:/27023/d8cf3f86ff74ea5f8d3ec15059f6b980> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -12,6 +20,13 @@
 <https://n2t.net/ark:/27023/d8d00c8b9172e4f1976f409d851f2b4d> <https://colonialcollections.nl/schema#creator> "M.F.C. Seiker" .
 <https://n2t.net/ark:/27023/d8d00c8b9172e4f1976f409d851f2b4d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d8d00c8b9172e4f1976f409d851f2b4d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/9" .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d8dfd3993526d57f10de4979167ae7bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d8dfd3993526d57f10de4979167ae7bc> <https://colonialcollections.nl/schema#identifier> "1997/11/06-1-1/26" .
 <https://n2t.net/ark:/27023/d8dfd3993526d57f10de4979167ae7bc> <https://colonialcollections.nl/schema#name> "Foto koets op Binnenhof, prinsjesdag ten tijde van Kon. Wilhelmina, met vaandelwacht KNIL" .
@@ -40,6 +55,13 @@
 <https://n2t.net/ark:/27023/d8ef0edf6e5476de68e1292548751f35> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/d8ef0edf6e5476de68e1292548751f35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d8ef0edf6e5476de68e1292548751f35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#identifier> "1997/00-1/365" .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#name> "Kaart van Zuid-Sumatra" .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#description> "Kaart van Zuid-Sumatra met uitleg over Sumatra met spoorweg-, tram-, telegraaf- en telefoonverbindingen: schaal 1: 6.500.000.\r\nZuid-Sumatra: schaal 1: 900.000.\r\nUitg. Topografische Inrichting, 1901." .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d8ffb35c323dfef474e117bc81798a61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d8ffb35c323dfef474e117bc81798a61> <https://colonialcollections.nl/schema#identifier> "nf%20461-2" .
 <https://n2t.net/ark:/27023/d8ffb35c323dfef474e117bc81798a61> <https://colonialcollections.nl/schema#name> "de heer van der Bhijs" .
@@ -47,6 +69,20 @@
 <https://n2t.net/ark:/27023/d8ffb35c323dfef474e117bc81798a61> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/d8ffb35c323dfef474e117bc81798a61> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d8ffb35c323dfef474e117bc81798a61> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/123" .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: opa ; C.C. van Swieten (1859-1946. [sic.; N.B. 'C.C.' moet zijn 'E.C.']\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/27" .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#name> "Lange rij militairen, staand, twee (half) zittend, met geweer rustend op de grond" .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#description> "Lange rij militairen, staand, twee (half) zittend, met geweer rustend op de grond.\r\nAchter op foto geschreven \"Grave ´49\"." .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <https://colonialcollections.nl/schema#identifier> "2005/10/13-2-4/2" .
 <https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <https://colonialcollections.nl/schema#name> "Molenvliet te Batavia" .
@@ -54,6 +90,7 @@
 <https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d909aee0e197f2f5bd8f09e349cb63d2> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
 <https://n2t.net/ark:/27023/d8cabb22e18862f6a15841cd22c2d181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d8cabb22e18862f6a15841cd22c2d181> <https://colonialcollections.nl/schema#identifier> "nf%20842-419" .
 <https://n2t.net/ark:/27023/d8cabb22e18862f6a15841cd22c2d181> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 01 t/m 36. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 22, in pot" .
@@ -85,13 +122,6 @@
 <https://n2t.net/ark:/27023/d8d5c63ee7016c89f74051eea43fc107> <https://colonialcollections.nl/schema#inscription> "H. Hekking" .
 <https://n2t.net/ark:/27023/d8d5c63ee7016c89f74051eea43fc107> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d8d5c63ee7016c89f74051eea43fc107> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#identifier> "2001/00-10" .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#name> "No.5 Königlich Spanische Artillerie." .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#description> "Prent. Lithografie, ingekleurd. In lijst. \"No.5. Königlich Spanische Artillerie. Augsburg in Herzbergs Aacademischer Kunsthandlung. J. Volz del. & Fe.\"" .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#inscription> "No.5. Königlich Spanische Artillerie." .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d8d60067415762f53a46d9b1337ca6ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d8c6859f4e7df2469af9e8d1dfabd869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d8c6859f4e7df2469af9e8d1dfabd869> <https://colonialcollections.nl/schema#identifier> "2006/12/20-4-2/43" .
 <https://n2t.net/ark:/27023/d8c6859f4e7df2469af9e8d1dfabd869> <https://colonialcollections.nl/schema#name> "Foto Nederlands Indië" .
@@ -542,30 +572,6 @@
 <https://n2t.net/ark:/27023/d90a368ff1c8e575ccabb5a66d9341d2> <https://colonialcollections.nl/schema#description> "Rapport over de excursie van het Rode Kruis naar de Karo-hoogvlakte op 19-20-21 december 1947/ voorzitter Rode Kruis Medan J.F. Keulemans (Medan, 27 december 1947)\r\nGestencild. 12 p.\r\nBijlage: Resultaten van besprekingen te Seriboe Dolok op zaterdag 20 de" .
 <https://n2t.net/ark:/27023/d90a368ff1c8e575ccabb5a66d9341d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d90a368ff1c8e575ccabb5a66d9341d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/9" .
-<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
-<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d8d506ccffea6f896e15423b37523bd8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#identifier> "1997/00-1/365" .
-<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#name> "Kaart van Zuid-Sumatra" .
-<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#description> "Kaart van Zuid-Sumatra met uitleg over Sumatra met spoorweg-, tram-, telegraaf- en telefoonverbindingen: schaal 1: 6.500.000.\r\nZuid-Sumatra: schaal 1: 900.000.\r\nUitg. Topografische Inrichting, 1901." .
-<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d8fd6c05a1c5c0a9d5c84efda62077cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/123" .
-<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: opa ; C.C. van Swieten (1859-1946. [sic.; N.B. 'C.C.' moet zijn 'E.C.']\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
-<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d904c54e90e1ab43efb2b86dea67e2d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/27" .
-<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#name> "Lange rij militairen, staand, twee (half) zittend, met geweer rustend op de grond" .
-<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#description> "Lange rij militairen, staand, twee (half) zittend, met geweer rustend op de grond.\r\nAchter op foto geschreven \"Grave ´49\"." .
-<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d9076753cb3a9df4986b1280bc5141a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d8d0696aa9ab5b8abd4437309d380df1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d8d0696aa9ab5b8abd4437309d380df1> <https://colonialcollections.nl/schema#identifier> "nf%201355-8-2" .
 <https://n2t.net/ark:/27023/d8d0696aa9ab5b8abd4437309d380df1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen.\r\n\r\nOpname toont achterin een groot huis, waarvan het voorste deel een dubbel dak heeft. Links ervan een ander bouwwerk dat blijkbaar een garage " .

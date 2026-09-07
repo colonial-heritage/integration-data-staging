@@ -23,9 +23,11 @@
 <https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#identifier> "S%206245-42" .
 <https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#name> "Het beploegen van natte rijstvelden" .
 <https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Het beploegen van natte rijstvelden.\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedru" .
-<https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/6c628801dc6775ede04fc6e4eacbe2e5> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/6c833d7f701720a8fce808ceba496d7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6c833d7f701720a8fce808ceba496d7e> <https://colonialcollections.nl/schema#identifier> "nf%201524-4" .
 <https://n2t.net/ark:/27023/6c833d7f701720a8fce808ceba496d7e> <https://colonialcollections.nl/schema#name> "Missigit te Fort de Kock" .
@@ -33,6 +35,14 @@
 <https://n2t.net/ark:/27023/6c833d7f701720a8fce808ceba496d7e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6c833d7f701720a8fce808ceba496d7e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6c833d7f701720a8fce808ceba496d7e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#identifier> "2006/00-41-79" .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#name> "Stadsgezicht met de missigit (moskee) in Medan, Indië." .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht met de missigit (moskee) in Medan, Indië.\r\nGedrukt op recto: Medan - Missigit\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Missigit." .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij , KNILM" .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
 <https://n2t.net/ark:/27023/6c856080c3ba2330af2dfe0d4f8995a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6c856080c3ba2330af2dfe0d4f8995a6> <https://colonialcollections.nl/schema#identifier> "nf%20836-19-1" .
 <https://n2t.net/ark:/27023/6c856080c3ba2330af2dfe0d4f8995a6> <https://colonialcollections.nl/schema#name> "Verlof 1928. Liesbosch 3 Juni 1928" .
@@ -47,6 +57,13 @@
 <https://n2t.net/ark:/27023/6c88a941fcf4b3fbaa4ede57d74c7cab> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6c88a941fcf4b3fbaa4ede57d74c7cab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6c88a941fcf4b3fbaa4ede57d74c7cab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#identifier> "2008/11/06-4-3/3" .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#name> "Groepsfoto 3e Compagnie 11de Regiment Infanterie Landmacht te Nijmegen 1924" .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#description> "Foto. Groepsfoto zwart wit 3e Compagnie 11de Regiment Infanterie Landmacht te Nijmegen 1924. Op achterzijde in potlood: \"J.v.d.Heyden Boezemsingel 73B Rott.\"." .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#creator> "Y. Zwam & Barten" .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6c4adc7d3ce22bb0383262b6e0e63c8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6c4adc7d3ce22bb0383262b6e0e63c8a> <https://colonialcollections.nl/schema#identifier> "nf%201845-4" .
 <https://n2t.net/ark:/27023/6c4adc7d3ce22bb0383262b6e0e63c8a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOpname toont een spoorbrug in aanleg. Zichtbaar zijn tien of meer lange of kortere pijlers.\r\nDrie al wit geverfd. Ook is de spoorbrug zelf deels wit geverfd.\r\n\r\nVia Google en KITLV gevonden dat deze brug te vinden is t" .
@@ -513,18 +530,6 @@
 <https://n2t.net/ark:/27023/6c84c2c051de790587c29d455a245541> <https://colonialcollections.nl/schema#description> "model.\r\nHerkomst: Bengkoeloe, Sumatra." .
 <https://n2t.net/ark:/27023/6c84c2c051de790587c29d455a245541> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6c84c2c051de790587c29d455a245541> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#identifier> "2006/00-41-79" .
-<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#name> "Stadsgezicht met de missigit (moskee) in Medan, Indië." .
-<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht met de missigit (moskee) in Medan, Indië.\r\nGedrukt op recto: Medan - Missigit\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Missigit." .
-<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6c84265eb06164e26110c86b74a81a42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#identifier> "2008/11/06-4-3/3" .
-<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#name> "Groepsfoto 3e Compagnie 11de Regiment Infanterie Landmacht te Nijmegen 1924" .
-<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#description> "Foto. Groepsfoto zwart wit 3e Compagnie 11de Regiment Infanterie Landmacht te Nijmegen 1924. Op achterzijde in potlood: \"J.v.d.Heyden Boezemsingel 73B Rott.\"." .
-<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6c8a0731fcecccdd00cab36308a912b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6c4f38c37e52b85e3b34856c75fdaca9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6c4f38c37e52b85e3b34856c75fdaca9> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43348" .
 <https://n2t.net/ark:/27023/6c4f38c37e52b85e3b34856c75fdaca9> <https://colonialcollections.nl/schema#description> "Koperen kalkpotje" .

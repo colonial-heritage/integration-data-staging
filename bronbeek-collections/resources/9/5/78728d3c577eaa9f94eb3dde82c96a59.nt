@@ -1,3 +1,20 @@
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/4" .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja" .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja, Staatsie. 8 april 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepa" .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#creator> "R.B. Prawiro Kaswardjo" .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/132" .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#name> "Plaat 132. De Uitrusting der Ambulance." .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 132. De Uitrusting der Ambulance." .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#inscription> "Plaat 132. De Uitrusting der Ambulance." .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cdd774f2bfeffe619421b891c60333c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cdd774f2bfeffe619421b891c60333c7> <https://colonialcollections.nl/schema#identifier> "nf%20842-22" .
 <https://n2t.net/ark:/27023/cdd774f2bfeffe619421b891c60333c7> <https://colonialcollections.nl/schema#name> "Verkoper van wajangpoppen te Prambanan" .
@@ -16,10 +33,19 @@
 <https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#identifier> "nf%20478" .
 <https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#name> "Detail van de Borobudur" .
 <https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#description> "Detail van de Borobudur\r\n'Båråboedoer'\r\nnr 12 Uitg. G. Britt, magelang. Nadruk verboden\r\nW. & S. H., s 49178" .
-<https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/cdf075a97c77fcbafb1f273824ad6fff> <https://colonialcollections.nl/schema#creator> "G. Britt" .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#identifier> "nf%20937-7" .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#name> "Gezicht in de  Aneh Kloof" .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#creator> "Winkel Mij. v/hn P. Baumer & Co. (Padang)" .
 <https://n2t.net/ark:/27023/cdf522704074ad8f0f94560b24d62dbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cdf522704074ad8f0f94560b24d62dbe> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/393" .
 <https://n2t.net/ark:/27023/cdf522704074ad8f0f94560b24d62dbe> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -34,6 +60,7 @@
 <https://n2t.net/ark:/27023/cdfc31a8aecbf3709cb11937bef14653> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cdfc31a8aecbf3709cb11937bef14653> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cdfc31a8aecbf3709cb11937bef14653> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cdfc31a8aecbf3709cb11937bef14653> <https://colonialcollections.nl/schema#creator> "J.C. Becker (Bandoeng, Java)" .
 <https://n2t.net/ark:/27023/cdfd2f3c3a1f35826e301b5bddf61dcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cdfd2f3c3a1f35826e301b5bddf61dcc> <https://colonialcollections.nl/schema#identifier> "nf%20419-94" .
 <https://n2t.net/ark:/27023/cdfd2f3c3a1f35826e301b5bddf61dcc> <https://colonialcollections.nl/schema#name> "Way crater Kamodjang" .
@@ -45,9 +72,17 @@
 <https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#identifier> "1862/12-2-9" .
 <https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#name> "Prent met Portret van Majoor W.K.H. Feuilleteau de Bruijn, MWO 4" .
 <https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#description> "Prent. Lithografie. Borststuk, naar links gekeerd. Opgeplakt op passepartout.\r\nGesigneerd op voorzijde: \"J.H. Hoffmeister\"; \"La Haye E.Spanier, Lith du Roi\"\r\nUniform met epauletten en 3 medailles: MWO, Metalen kruis en Officierskruis. Gesloten jas." .
-<https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#creator> "J.H. Hoffmeister" .
 <https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cdfdfd39345aa9d42d78ef59b74b9dc2> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-77-4" .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#name> "Overhemd dagelijkse tenue Militaire Missie Suriname" .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#description> "Beigekleurig overhemd met lange mouw en twee opgestikte borstzakken met zakkleppen. Op de linkerbovenmouw het nationaliteitsembleem (mouwleeuw) model 1963. Op de rechter bovenmouw het indelingsembleem Militaire Missie Suriname eerste model.\r\nOverhemd van " .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#creator> "Richi" .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ce0c3e676e0268bbeb33a653e32718c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ce0c3e676e0268bbeb33a653e32718c3> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-7/23" .
 <https://n2t.net/ark:/27023/ce0c3e676e0268bbeb33a653e32718c3> <https://colonialcollections.nl/schema#name> "Foto Indonesië, 1946-1950 en Nieuw Guinea, 1955-1956" .
@@ -74,6 +109,12 @@
 <https://n2t.net/ark:/27023/cdfe379fb09eb462450ba3895e779dce> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cdfe379fb09eb462450ba3895e779dce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cdfe379fb09eb462450ba3895e779dce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#identifier> "nf%201374-85" .
+<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt op een groter stuk beige/bruin karton met fijne structuur.\r\nDit karton is slechts aan één kant opgeplakt, zodat men achterop kan kijken.\r\nOp dit karton, links onder de foto, treft men een ingedrukt stempel aan van d" .
+<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#creator> "Francis Kramer, Utrecht" .
+<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cddd24e3906b10d74f72a3dea52b03d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cddd24e3906b10d74f72a3dea52b03d2> <https://colonialcollections.nl/schema#identifier> "1996/06/03-1-6" .
 <https://n2t.net/ark:/27023/cddd24e3906b10d74f72a3dea52b03d2> <https://colonialcollections.nl/schema#name> "Plaatje met nummer 6267" .
@@ -95,20 +136,6 @@
 <https://n2t.net/ark:/27023/ce09db97925f0bd8dc153d8a505436da> <https://colonialcollections.nl/schema#inscription> "Voor Trouwe Dienst; W" .
 <https://n2t.net/ark:/27023/ce09db97925f0bd8dc153d8a505436da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ce09db97925f0bd8dc153d8a505436da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/4" .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja" .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja, Staatsie. 8 april 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepa" .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cdedab6f884bb24e87ed8d03f4dc9538> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/132" .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#name> "Plaat 132. De Uitrusting der Ambulance." .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 132. De Uitrusting der Ambulance." .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#inscription> "Plaat 132. De Uitrusting der Ambulance." .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ce0ab514bbeab7bcff62f9054b4449ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cdd67ae4aa245634f87b1e1358327353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cdd67ae4aa245634f87b1e1358327353> <https://colonialcollections.nl/schema#identifier> "1863/07/26-1-80" .
 <https://n2t.net/ark:/27023/cdd67ae4aa245634f87b1e1358327353> <https://colonialcollections.nl/schema#name> "Schild" .
@@ -523,18 +550,6 @@
 <https://n2t.net/ark:/27023/ce1880609267a24e761353c4541ca8ff> <https://colonialcollections.nl/schema#description> "Embleem, metaal, letter R.\r\nOnderdeelsembleem velduniform Reservekorpsen Oud-Militairen KNIL.\r\n\r\nDraagwijze: kraag velduniform" .
 <https://n2t.net/ark:/27023/ce1880609267a24e761353c4541ca8ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ce1880609267a24e761353c4541ca8ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#identifier> "nf%20937-7" .
-<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#name> "Gezicht in de  Aneh Kloof" .
-<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
-<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cdf3de060c906a5af3d0237822a3db4a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-77-4" .
-<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#name> "Overhemd dagelijkse tenue Militaire Missie Suriname" .
-<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#description> "Beigekleurig overhemd met lange mouw en twee opgestikte borstzakken met zakkleppen. Op de linkerbovenmouw het nationaliteitsembleem (mouwleeuw) model 1963. Op de rechter bovenmouw het indelingsembleem Militaire Missie Suriname eerste model.\r\nOverhemd van " .
-<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cdff6ae5e35dbafc5129f2a4d56a830a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cddefdebee4abb96396e442beb3ae467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cddefdebee4abb96396e442beb3ae467> <https://colonialcollections.nl/schema#identifier> "S%20125-24" .
 <https://n2t.net/ark:/27023/cddefdebee4abb96396e442beb3ae467> <https://colonialcollections.nl/schema#description> "Herkomst: Borneo." .
@@ -590,11 +605,6 @@
 <https://n2t.net/ark:/27023/ce1371a7aa66ce9adea351398f047906> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thalsketting\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\ttouw, kralen\r\n\tgeregen\r\nEmailadres: toelichting:\tDe halsketting bestaat uit aan touw witte kraaltjes. De ketting is onderverdeeld in dr" .
 <https://n2t.net/ark:/27023/ce1371a7aa66ce9adea351398f047906> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ce1371a7aa66ce9adea351398f047906> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#identifier> "nf%201374-85" .
-<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt op een groter stuk beige/bruin karton met fijne structuur.\r\nDit karton is slechts aan één kant opgeplakt, zodat men achterop kan kijken.\r\nOp dit karton, links onder de foto, treft men een ingedrukt stempel aan van d" .
-<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ce129cb831fc9969667123349345bf6c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cdd7507f8f1ce2eab2fdf089609bbfab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cdd7507f8f1ce2eab2fdf089609bbfab> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-2/81" .
 <https://n2t.net/ark:/27023/cdd7507f8f1ce2eab2fdf089609bbfab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

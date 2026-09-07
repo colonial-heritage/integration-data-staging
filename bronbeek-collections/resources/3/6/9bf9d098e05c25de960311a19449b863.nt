@@ -1,18 +1,42 @@
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#identifier> "2002/00-33/3" .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#name> "8. De Kawah Manoek Krater. (West-Java)" .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n8. De Kawah Manoek Krater. (West-Java)" .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#inscription> "8. De Kawah Manoek Krater. (West-Java)" .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-10" .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#name> "Fort Belgica - Eiland Banda Neira (Banda)" .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#description> "Lithografie. Uit: Q.M.R.Verheull's \"Gezichten in Oost-Indië\" Rotterdam 1824\r\n\"Banda\"; \"1\"; \"Fort Belgica-Eiland Banda Neira. Forteresse Belgica-Isle de Banda Neira.\"\r\n\"Q.M.R.VerHuell. del.\"; \"Lith. de Jobard\"\r\n\r\nOp achterzijde in potlood:\r\n\"7\"; \"vergelijk" .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#inscription> "Fort Belgica-Eiland Banda Neira. Forteresse Belgica-Isle de Banda Neira" .
-<https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#creator> "Schout-bij-nacht Q.M.R. Ver Huell" .
+<https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#creator> "J.B.A.M. Jobard" .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37f78e4a2bb2c4335910fadad3642182> <https://colonialcollections.nl/schema#creator> "Schout-bij-nacht Q.M.R. Ver Huell" .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#identifier> "nf%201920-3" .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#name> "Medicijnman van de Sakuddei" .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#description> "Fotonegatief, kleur, los aangetroffen\r\n\r\nOpname toont een inheemse man, bezig met het beschilderen van zijn gezicht met zwarte verfstof.\r\nHij heeft een opvallend hoofddeksel, draagt ook halskettingen en heeft tatoeages op zijn borst." .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#creator> "Dr. R. (Reimar) Schefold" .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#identifier> "nf%201408-41" .
 <https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#name> "SOENGEI-BELAWAN  VIRGIN JUNGLE" .
 <https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#description> "afbeelding toont een kronkelende rivier, met veel (grote) stenen, stromend door oerwoud.\r\n\r\nDeze afbeelding komt voor op plaat 43.\r\n\r\nDeze foto is ergens op Noord Sumatra genomen.\r\n\r\nN.B.: Soengei of sungei betekent rivier\r\n                               " .
-<https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37ceba3b65323d3bbe0848505ff87aa1> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/5" .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#name> "Brief m.b.t. schrijfwijze Dezentjé" .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#description> "Brief, gedateerd 14 november 1997, 4 pagina's (incl. 2 p. bijlagen). In goede staat." .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#creator> "Dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37df3179ef6e6ffbd71a18661c0af6d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37df3179ef6e6ffbd71a18661c0af6d3> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-104" .
 <https://n2t.net/ark:/27023/37df3179ef6e6ffbd71a18661c0af6d3> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -20,6 +44,13 @@
 <https://n2t.net/ark:/27023/37df3179ef6e6ffbd71a18661c0af6d3> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/37df3179ef6e6ffbd71a18661c0af6d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37df3179ef6e6ffbd71a18661c0af6d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#identifier> "2006/00-42-479" .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#name> "Foto. Militairen 1945-1950. Periode Bersiap, Politionele Acties, souverreiniteitsoverdracht Nederland/Indonesië." .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Klein formaat, kartelrand. Militairen 1945-1950. Periode Bersiap, Politionele Acties, souverreiniteitsoverdracht Nederland/Indonesië.\r\n\r\nOvalen stempel verso: City Studio Djember." .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#creator> "City Studio Djember" .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37e25a0e2baa288f0e4c5547af30b22b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37e25a0e2baa288f0e4c5547af30b22b> <https://colonialcollections.nl/schema#identifier> "nf%20925-5-2" .
 <https://n2t.net/ark:/27023/37e25a0e2baa288f0e4c5547af30b22b> <https://colonialcollections.nl/schema#name> "achtergalerij" .
@@ -52,9 +83,10 @@
 <https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#identifier> "nf%201408-33" .
 <https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#name> "Battakkvrouw" .
 <https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#description> "afbeelding toont een jonge vrouw, gekleed in traditionele kleding, in dit geval donkere sarong, gedragen tot hoog over haar boezem, blote schouders, hoofddoek en typisch\r\noorsieraad. Zij heeft een vierkante wan voor zich met daarop mogelijk rijsthalmen.\r\n" .
-<https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3806c680a40b717a2f85ef7099cb2f20> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/37b551a6f637311e30dd7c6bcc4c2ded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37b551a6f637311e30dd7c6bcc4c2ded> <https://colonialcollections.nl/schema#identifier> "nf%201911-83" .
 <https://n2t.net/ark:/27023/37b551a6f637311e30dd7c6bcc4c2ded> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, met witte rand, opgeplakt in album, geen meegekomen tekst.\r\n\r\nOpname toont een vrouw, waarschijnlijk inheems. Zij is gekleed in sarong en kabaja.Zij heeft lang haar tot in de nek en gaat op blote voeten.\r\n\r\nN.B.: Wayang suluh is een wajan" .
@@ -79,6 +111,12 @@
 <https://n2t.net/ark:/27023/37d830d82620407e3dcd4753d51d75b7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/37d830d82620407e3dcd4753d51d75b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37d830d82620407e3dcd4753d51d75b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#identifier> "nf%20323-13-2" .
+<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#description> "bijschrift; 'Bij de bijna uitgedroogde Wae Mborong in Mborong.'" .
+<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37e18556687c8c05c4ed8640427051d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37e18556687c8c05c4ed8640427051d7> <https://colonialcollections.nl/schema#identifier> "nf%201918-203" .
 <https://n2t.net/ark:/27023/37e18556687c8c05c4ed8640427051d7> <https://colonialcollections.nl/schema#description> "Stereoglaspositief, zwart/wit, 2 heel dunne glasplaatjes op elkaar, samen gehouden en afgewerkt met zwarte tape.\r\n\r\nOpnames tonen een openbare ruimte buiten. Het is mogelijk een vrije dag. Een aantal Javaanse jonge vrouwen, gezellig gekleed staan bij een " .
@@ -105,13 +143,6 @@
 <https://n2t.net/ark:/27023/380656a22eb262363bf4b93562d86deb> <https://colonialcollections.nl/schema#inscription> "Arabische tekst" .
 <https://n2t.net/ark:/27023/380656a22eb262363bf4b93562d86deb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/380656a22eb262363bf4b93562d86deb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#identifier> "2002/00-33/3" .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#name> "8. De Kawah Manoek Krater. (West-Java)" .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n8. De Kawah Manoek Krater. (West-Java)" .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#inscription> "8. De Kawah Manoek Krater. (West-Java)" .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37dc27abbd02ad69b75e589cc6e284f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37b6da3170c9f85c40f791b44758ade1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37b6da3170c9f85c40f791b44758ade1> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/357" .
 <https://n2t.net/ark:/27023/37b6da3170c9f85c40f791b44758ade1> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
@@ -544,24 +575,6 @@
 <https://n2t.net/ark:/27023/38093c352cccd340279ca2ce2723783e> <https://colonialcollections.nl/schema#description> "Platte pet met vallende bruine kunststof klep met bruin lederen stormband met twee inoxale petknoopjes en grijsbruin gekleurde petovertrek. De opstaande rand is overtrokken met grijsbruin gekleurde stof. Om de opstaande rand een etat-majorgalon van bruine" .
 <https://n2t.net/ark:/27023/38093c352cccd340279ca2ce2723783e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/38093c352cccd340279ca2ce2723783e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#identifier> "nf%201920-3" .
-<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#name> "Medicijnman van de Sakuddei" .
-<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#description> "Fotonegatief, kleur, los aangetroffen\r\n\r\nOpname toont een inheemse man, bezig met het beschilderen van zijn gezicht met zwarte verfstof.\r\nHij heeft een opvallend hoofddeksel, draagt ook halskettingen en heeft tatoeages op zijn borst." .
-<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37bf703b1085011870ed26ffc8f09332> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/5" .
-<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#name> "Brief m.b.t. schrijfwijze Dezentjé" .
-<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#description> "Brief, gedateerd 14 november 1997, 4 pagina's (incl. 2 p. bijlagen). In goede staat." .
-<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37d7e89a6030338a3bb9455041c9b1a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#identifier> "2006/00-42-479" .
-<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#name> "Foto. Militairen 1945-1950. Periode Bersiap, Politionele Acties, souverreiniteitsoverdracht Nederland/Indonesië." .
-<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Klein formaat, kartelrand. Militairen 1945-1950. Periode Bersiap, Politionele Acties, souverreiniteitsoverdracht Nederland/Indonesië.\r\n\r\nOvalen stempel verso: City Studio Djember." .
-<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37e03e62c220f7d443b14e6d04fe8f13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37ce46175ca0d1d7f2b047fa4cb806b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37ce46175ca0d1d7f2b047fa4cb806b4> <https://colonialcollections.nl/schema#identifier> "nf%201305-3-1" .
 <https://n2t.net/ark:/27023/37ce46175ca0d1d7f2b047fa4cb806b4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, geen bijschrift.\r\n\r\nAfbeelding toont, staand in een grote open ruimte, een klein meisje, gekleed in een soort hansopje. Het kind heeft iets in haar rechter hand dat niet te definiëren is.\r\nHet meisje i" .
@@ -587,11 +600,6 @@
 <https://n2t.net/ark:/27023/37f3b6e1417fc778c9aa2e5e0af5c728> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ovaal geknipt, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een klein meisje met donker krullend haar. Zij is gekleed in een licht gekleurd 'pakje', broekje/hemdje aan elkaar, bandjes over de schouder, mooie strookjes langs de zom" .
 <https://n2t.net/ark:/27023/37f3b6e1417fc778c9aa2e5e0af5c728> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37f3b6e1417fc778c9aa2e5e0af5c728> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#identifier> "nf%20323-13-2" .
-<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#description> "bijschrift; 'Bij de bijna uitgedroogde Wae Mborong in Mborong.'" .
-<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37db4122d8a2e30e71886f48eb0e3c5e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37b8655acf414cb96c364e926d60baab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37b8655acf414cb96c364e926d60baab> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/45" .
 <https://n2t.net/ark:/27023/37b8655acf414cb96c364e926d60baab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

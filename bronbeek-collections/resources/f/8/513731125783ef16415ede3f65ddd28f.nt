@@ -1,3 +1,13 @@
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#identifier> "1885/09-1-15" .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#name> "Wilhelm Friedrich Carl, Prinz der Niederlande" .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#description> "Prent: Wilhelm Friedrich Carl, Prinz der Niederlande. Verlag von C.G. Lüderitz. n.d. Nat. gez.v. F.Krüger. Lith v. L.Fischer.\", \"Königl. Lith. Institut zu Berlin.\"" .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#inscription> "Wilhelm Friedrich Carl, Prinz der Niederlande. Verlag von C.G. Lüderitz. n.d. Nat. gez.v. F.Krüger. Lith v. L.Fischer.\", \"Königl. Lith. Institut zu Berlin.\"" .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#creator> "F. Krüger" .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#creator> "Königlich Lithografisch Institut zu Berlin" .
+<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#creator> "C.G. Lüderitz" .
 <https://n2t.net/ark:/27023/aa77f7be7744c4f0b1229ca82a651064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa77f7be7744c4f0b1229ca82a651064> <https://colonialcollections.nl/schema#identifier> "2003/10/08-2-5" .
 <https://n2t.net/ark:/27023/aa77f7be7744c4f0b1229ca82a651064> <https://colonialcollections.nl/schema#name> "Foto: Portret inlandse vorst, 31 october 1920" .
@@ -24,9 +34,10 @@
 <https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#identifier> "nf%201408-37" .
 <https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#name> "Batak-kampong \"Roema-Kinangkong\"" .
 <https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#description> "afbeelding toont een kleine nederzetting, gebouwd op aan het oerwoud onttrokkken grond. Om de eenvoudige huizen heen herkent men kokospalmen en andere palmen, bananenbomen en vele andere bomen.\r\n\r\nDeze afbeelding komt voor op plaat 48.\r\n\r\nWaarschijnlijk i" .
-<https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aa57e1591557a61689e10e18f698c24c> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/aa5bb8609073ea4909a224711cda3c5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa5bb8609073ea4909a224711cda3c5a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/184" .
 <https://n2t.net/ark:/27023/aa5bb8609073ea4909a224711cda3c5a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -97,13 +108,6 @@
 <https://n2t.net/ark:/27023/aa8723a1ed90d7209fa7ef41fa2bdd47> <https://colonialcollections.nl/schema#inscription> "8-10-19" .
 <https://n2t.net/ark:/27023/aa8723a1ed90d7209fa7ef41fa2bdd47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aa8723a1ed90d7209fa7ef41fa2bdd47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#identifier> "1885/09-1-15" .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#name> "Wilhelm Friedrich Carl, Prinz der Niederlande" .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#description> "Prent: Wilhelm Friedrich Carl, Prinz der Niederlande. Verlag von C.G. Lüderitz. n.d. Nat. gez.v. F.Krüger. Lith v. L.Fischer.\", \"Königl. Lith. Institut zu Berlin.\"" .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#inscription> "Wilhelm Friedrich Carl, Prinz der Niederlande. Verlag von C.G. Lüderitz. n.d. Nat. gez.v. F.Krüger. Lith v. L.Fischer.\", \"Königl. Lith. Institut zu Berlin.\"" .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aa4880ad9e9a35730bd26dadd8584a04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aa4032c9481df7616261716674897a44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa4032c9481df7616261716674897a44> <https://colonialcollections.nl/schema#identifier> "nf%20841-58-2" .
 <https://n2t.net/ark:/27023/aa4032c9481df7616261716674897a44> <https://colonialcollections.nl/schema#name> "Parachute met voedsel" .

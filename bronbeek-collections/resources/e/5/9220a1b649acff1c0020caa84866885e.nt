@@ -27,6 +27,14 @@
 <https://n2t.net/ark:/27023/a20d8065cc77067aba4fa4121f845a9d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a20d8065cc77067aba4fa4121f845a9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a20d8065cc77067aba4fa4121f845a9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#identifier> "nf%20711-1" .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#name> "Balineesche danseres" .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van een Balinese danseres.\r\n\r\nonderschrift; 'Balineesche danseres'\r\n\r\nop achterzijde vermeld; \r\n'Roemah Moerah\r\nBatavia Medan Pontianak'\r\n\r\ntwee x stempel ASB in ovaal met getal 15 eronder" .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#creator> "Rita Kleyn Fortuin" .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
 <https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <https://colonialcollections.nl/schema#identifier> "S%206245-46" .
 <https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <https://colonialcollections.nl/schema#name> "Waringin - Ficus Benjamini" .
@@ -34,6 +42,7 @@
 <https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a211d58bfd22ada8159dc421d49f249e> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/a21394275a78dc2f8539995ba6a5ce4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a21394275a78dc2f8539995ba6a5ce4c> <https://colonialcollections.nl/schema#identifier> "2013/12/05-2-6/3" .
 <https://n2t.net/ark:/27023/a21394275a78dc2f8539995ba6a5ce4c> <https://colonialcollections.nl/schema#name> "Carte de cabinet van Anne, Martha en Johanna Bijker" .
@@ -48,6 +57,7 @@
 <https://n2t.net/ark:/27023/a219dbe798d6c76452d0862ef7c2ce96> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/a219dbe798d6c76452d0862ef7c2ce96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a219dbe798d6c76452d0862ef7c2ce96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a219dbe798d6c76452d0862ef7c2ce96> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/a22ce36e1e8a2611741318617ce19c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a22ce36e1e8a2611741318617ce19c87> <https://colonialcollections.nl/schema#identifier> "nf%201413-76" .
 <https://n2t.net/ark:/27023/a22ce36e1e8a2611741318617ce19c87> <https://colonialcollections.nl/schema#name> "Boeroeng Lang. Kiekendief. Soengei Pinang" .
@@ -55,6 +65,13 @@
 <https://n2t.net/ark:/27023/a22ce36e1e8a2611741318617ce19c87> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/a22ce36e1e8a2611741318617ce19c87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a22ce36e1e8a2611741318617ce19c87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#identifier> "1997/00-1/157" .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Kediri in twee bladen" .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Kediri in twee bladen in papieren kaft. Schaal 1: 100.000; Uitg. Topografische Inrichting, ´s Gravenhage 1905." .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a2322251925fa286a4e1ca47bfd1d1cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a2322251925fa286a4e1ca47bfd1d1cc> <https://colonialcollections.nl/schema#identifier> "1991/08/24-1-4" .
 <https://n2t.net/ark:/27023/a2322251925fa286a4e1ca47bfd1d1cc> <https://colonialcollections.nl/schema#name> "Generaal van Heutsz met Staf bij Baté Ilië" .
@@ -62,6 +79,27 @@
 <https://n2t.net/ark:/27023/a2322251925fa286a4e1ca47bfd1d1cc> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/a2322251925fa286a4e1ca47bfd1d1cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a2322251925fa286a4e1ca47bfd1d1cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/15" .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#name> "Colditz, groep Nederlandse officieren" .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#description> "Foto, op achterzijde in potlood: \"Colditz, groep Nederlandse officieren.\"\r\nGestempeld: \"Moritz und Johannes Lange, Photographenmeister\".\r\nGestempeld: \"Oflag IV C 6 geprüft.\"" .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-25" .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#name> "4-daagse, KNIL militairen" .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 4-daagse, KNIL militairen, Oonderluitenant Langenberg. Op achterzijde gestempeld: \"H.W. Verplanke Dominicanenstraat 33 Nijmegen\"." .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#creator> "H.W. Verplanke" .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-2/2" .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#name> "Foto´s, prentbriefkaarten Nederlandsche Stoomvaart Maatschappij, 5 stuks" .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#description> "Foto´s, prentbriefkaarten (vermoedelijk vooroorlogs) Nederlandsche Stoomvaart Maatschappij, 5 stuks:\r\nSuez, Egypte\r\nBatavia Kongi besar (Chinatown)\r\nSolo Pasar\r\nBuitenzorg Paleis GG\r\nSchip Stoomvaartmaatschappij\r\n\r\nFoto´s gemaakt door fotograaf/journalist" .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#creator> "Dhr. Bartel Hartwiesen" .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a23fa3c9f0159c67495c18408741f767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a23fa3c9f0159c67495c18408741f767> <https://colonialcollections.nl/schema#identifier> "2017/08/07-4-16" .
 <https://n2t.net/ark:/27023/a23fa3c9f0159c67495c18408741f767> <https://colonialcollections.nl/schema#name> "Portret (borststuk) Europese man met snor in witte jas toetoep" .
@@ -69,6 +107,20 @@
 <https://n2t.net/ark:/27023/a23fa3c9f0159c67495c18408741f767> <https://colonialcollections.nl/schema#creator> "Wah Seng" .
 <https://n2t.net/ark:/27023/a23fa3c9f0159c67495c18408741f767> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a23fa3c9f0159c67495c18408741f767> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#identifier> "2005/00-607/16" .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#name> "Foto van poort aan eind van weg waarvoor zich een aantal mensen bevinden" .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Weg met aan het eind een poort naar een gebouw waarvoor zich een aantal mensen bevinden.\r\n\r\nrecto: in witte inkt \"Pintoe-gerbang Astana Sultan Bedagai\"\r\nverso: in potlood \"photo genomen Augustus 1930 in [.ang] Astana Sulthan van Badagai, Tanto" .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#identifier> "2016/12/16-2-2" .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#name> "Zwaard van Luitenant-generaal Yutaka NISHIOEDA" .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#description> "Zwaardkling gemonteerd in sirasaya (een houten montering, om de kling in te bewaren) \r\nDe signatuur op de nakago (tang) leest: Osafune Ju Morikage. (Morikage uit Osafune)\r\nMorikage was werkzaam in Osafune, provincie Bizen, in de nambokucho periode (1334-1" .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#creator> "Morikage" .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a24a9ec5e22b1604d8aa1a0fec010a62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a24a9ec5e22b1604d8aa1a0fec010a62> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/27" .
 <https://n2t.net/ark:/27023/a24a9ec5e22b1604d8aa1a0fec010a62> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -529,48 +581,6 @@
 <https://n2t.net/ark:/27023/a2496d94d9668d180c3febc79ae984aa> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van dr. Soedarsono van de Partai Socialis, zonder portefeuille.\r\nFoto van persfotograaf Kabinet Leger-Commandant KNIL Voorlichtingsdienst. Gedurende Politionele acties 1946-1949.\r\n\r\nGetypte tekst verso: FB 110. Dr. Soedarsono. Part" .
 <https://n2t.net/ark:/27023/a2496d94d9668d180c3febc79ae984aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a2496d94d9668d180c3febc79ae984aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#identifier> "nf%20711-1" .
-<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#name> "Balineesche danseres" .
-<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van een Balinese danseres.\r\n\r\nonderschrift; 'Balineesche danseres'\r\n\r\nop achterzijde vermeld; \r\n'Roemah Moerah\r\nBatavia Medan Pontianak'\r\n\r\ntwee x stempel ASB in ovaal met getal 15 eronder" .
-<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a20fa188feabcb2254c92259e12eec6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#identifier> "1997/00-1/157" .
-<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Kediri in twee bladen" .
-<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Kediri in twee bladen in papieren kaft. Schaal 1: 100.000; Uitg. Topografische Inrichting, ´s Gravenhage 1905." .
-<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a22f193c1bd01e7008a3040d47a1421f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/15" .
-<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#name> "Colditz, groep Nederlandse officieren" .
-<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#description> "Foto, op achterzijde in potlood: \"Colditz, groep Nederlandse officieren.\"\r\nGestempeld: \"Moritz und Johannes Lange, Photographenmeister\".\r\nGestempeld: \"Oflag IV C 6 geprüft.\"" .
-<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a236b5fa1e83572f99352ac5ede9cf06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-25" .
-<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#name> "4-daagse, KNIL militairen" .
-<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 4-daagse, KNIL militairen, Oonderluitenant Langenberg. Op achterzijde gestempeld: \"H.W. Verplanke Dominicanenstraat 33 Nijmegen\"." .
-<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a23834f03fbe89ce805eadcfdcf0295b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-2/2" .
-<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#name> "Foto´s, prentbriefkaarten Nederlandsche Stoomvaart Maatschappij, 5 stuks" .
-<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#description> "Foto´s, prentbriefkaarten (vermoedelijk vooroorlogs) Nederlandsche Stoomvaart Maatschappij, 5 stuks:\r\nSuez, Egypte\r\nBatavia Kongi besar (Chinatown)\r\nSolo Pasar\r\nBuitenzorg Paleis GG\r\nSchip Stoomvaartmaatschappij\r\n\r\nFoto´s gemaakt door fotograaf/journalist" .
-<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a23f005c27230d826d555a4e21b5c186> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#identifier> "2005/00-607/16" .
-<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#name> "Foto van poort aan eind van weg waarvoor zich een aantal mensen bevinden" .
-<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Weg met aan het eind een poort naar een gebouw waarvoor zich een aantal mensen bevinden.\r\n\r\nrecto: in witte inkt \"Pintoe-gerbang Astana Sultan Bedagai\"\r\nverso: in potlood \"photo genomen Augustus 1930 in [.ang] Astana Sulthan van Badagai, Tanto" .
-<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a2458ac5417f5a1977d540007bacd1ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#identifier> "2016/12/16-2-2" .
-<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#name> "Zwaard van Luitenant-generaal Yutaka NISHIOEDA" .
-<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#description> "Zwaardkling gemonteerd in sirasaya (een houten montering, om de kling in te bewaren) \r\nDe signatuur op de nakago (tang) leest: Osafune Ju Morikage. (Morikage uit Osafune)\r\nMorikage was werkzaam in Osafune, provincie Bizen, in de nambokucho periode (1334-1" .
-<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a248b02bcd2c0a85c81397c90fb029a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a20c4be36512005d70af7d7a3bdfd754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a20c4be36512005d70af7d7a3bdfd754> <https://colonialcollections.nl/schema#identifier> "nf%20840-46-3" .
 <https://n2t.net/ark:/27023/a20c4be36512005d70af7d7a3bdfd754> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant geschreven in inkt luidt: \"Gohor Lama Juli 1951\"\r\n\r\nOpname toont de heer Thies, in korte broek, leunend op de motorkap" .

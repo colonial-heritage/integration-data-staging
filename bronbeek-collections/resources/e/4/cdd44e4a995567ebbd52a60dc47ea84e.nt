@@ -13,6 +13,13 @@
 <https://n2t.net/ark:/27023/3d331c30bf88d060635353d0dc79f3c5> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3d331c30bf88d060635353d0dc79f3c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d331c30bf88d060635353d0dc79f3c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/82" .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#name> "Groentenmarkt" .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groentenmarkt" .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#creator> "Meijster" .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3d34524e36d55374d1a8b6e902c34951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d34524e36d55374d1a8b6e902c34951> <https://colonialcollections.nl/schema#identifier> "2005/00-633/25" .
 <https://n2t.net/ark:/27023/3d34524e36d55374d1a8b6e902c34951> <https://colonialcollections.nl/schema#name> "Foto van bebouwing van Ampenan met strand en de brug over de Soengei Djongkok, Lombok." .
@@ -34,13 +41,28 @@
 <https://n2t.net/ark:/27023/3d44d5d7cd2a04f422332be8fe90c7b3> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3d44d5d7cd2a04f422332be8fe90c7b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d44d5d7cd2a04f422332be8fe90c7b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/134" .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#name> "Bathing Place, Tedjakoela, Bali" .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bathing Place, Tedjakoela, Bali" .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-2" .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#name> "Foto van Dhr. Van Kleef in zijn kamer in Bronbeek in 1997." .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#description> "Foto van Dhr. van Kleef, gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#creator> "René van Bakel" .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#identifier> "nf%20419-72" .
 <https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#name> "Brug voor voetgangers en voertuigen over de Kali te Madioen" .
 <https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#description> "Brug voor voetgangers en voertuigen over de Kali te Madioen" .
-<https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#creator> "Lange en Co., Uitgeverij de; te Batavia" .
 <https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d509d209397b83744cfe628792fe4ff> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/16" .
 <https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
@@ -48,6 +70,7 @@
 <https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d526ea3d2023c343137a6bf59c74d8e> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/3d54799e14846715e1d9919ed9c149a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d54799e14846715e1d9919ed9c149a3> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-11/14" .
 <https://n2t.net/ark:/27023/3d54799e14846715e1d9919ed9c149a3> <https://colonialcollections.nl/schema#name> "Prentbriefkaart, 'Niwin-voorstelling te Porrong'" .
@@ -55,6 +78,13 @@
 <https://n2t.net/ark:/27023/3d54799e14846715e1d9919ed9c149a3> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/3d54799e14846715e1d9919ed9c149a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d54799e14846715e1d9919ed9c149a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-40" .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#name> "Militair en Indonesiër" .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#description> "Foto. In passepartout. Albumine, vergeeld. Staande militair, helmhoed, met ontblote sabel voor veranda met zittende Indonesiër." .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#creator> "W. Jones. Photographer, No.IC, King Street, Penang" .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3d5a9ca909d66dc4862c5432e3721ee0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d5a9ca909d66dc4862c5432e3721ee0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/294" .
 <https://n2t.net/ark:/27023/3d5a9ca909d66dc4862c5432e3721ee0> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -76,6 +106,7 @@
 <https://n2t.net/ark:/27023/3d647ab6ca0b01120af23795eefe0427> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3d647ab6ca0b01120af23795eefe0427> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d647ab6ca0b01120af23795eefe0427> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d647ab6ca0b01120af23795eefe0427> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/3d3da39799021d47f9c1001961c4b0ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d3da39799021d47f9c1001961c4b0ac> <https://colonialcollections.nl/schema#identifier> "nf%201374-114" .
 <https://n2t.net/ark:/27023/3d3da39799021d47f9c1001961c4b0ac> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname toont een drietal blanke personen, twee mannen en een vrouw. Zij zijn in het wit gekleed, de vrouw met een licht gekleurde blouse. Allen met hoed op. Zij staan buiten, naast elkaar, temidden van een opgro" .
@@ -510,30 +541,6 @@
 <https://n2t.net/ark:/27023/3d77dd946edcc906f472d25bd6b4eb0e> <https://colonialcollections.nl/schema#description> "Munt: 25 cent Nederlandsch Indië, 1941, in zilver." .
 <https://n2t.net/ark:/27023/3d77dd946edcc906f472d25bd6b4eb0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d77dd946edcc906f472d25bd6b4eb0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/82" .
-<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#name> "Groentenmarkt" .
-<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groentenmarkt" .
-<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3d343655f9de92fc0764c151d7425dc1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/134" .
-<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#name> "Bathing Place, Tedjakoela, Bali" .
-<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bathing Place, Tedjakoela, Bali" .
-<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3d4ce953113b4f8077207c289fcf668f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-2" .
-<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#name> "Foto van Dhr. Van Kleef in zijn kamer in Bronbeek in 1997." .
-<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#description> "Foto van Dhr. van Kleef, gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
-<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3d4dd41896000b532323f99aa5e1aacb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-40" .
-<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#name> "Militair en Indonesiër" .
-<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#description> "Foto. In passepartout. Albumine, vergeeld. Staande militair, helmhoed, met ontblote sabel voor veranda met zittende Indonesiër." .
-<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3d573625dbf57a44fcb342edd31c60c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3d3a5c2db46f232700ea261c6996e091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d3a5c2db46f232700ea261c6996e091> <https://colonialcollections.nl/schema#identifier> "S%2030-4" .
 <https://n2t.net/ark:/27023/3d3a5c2db46f232700ea261c6996e091> <https://colonialcollections.nl/schema#description> "Boek, met gele omslag, met plaatjes en tekst met Chinese karaktertekens.\r\nHerkomst: Indonesië." .

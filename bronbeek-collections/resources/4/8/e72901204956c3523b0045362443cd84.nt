@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#identifier> "1991/07/22-3-7" .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Vrolijk Kerstfeest Gelukkig Nieuwjaar.\r\nKaart gedrukt door Visser bv, uitgegeven door I.A.G.te Bandoeng naar een tekening van Meekes.\r\n(Blanco)" .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#inscription> "Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#creator> "Meekes" .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#creator> "I.A.G., Bandoeng" .
 <https://n2t.net/ark:/27023/01bfba96f9055c55877fad25e1a36c6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01bfba96f9055c55877fad25e1a36c6f> <https://colonialcollections.nl/schema#identifier> "nf%20699-18-1" .
 <https://n2t.net/ark:/27023/01bfba96f9055c55877fad25e1a36c6f> <https://colonialcollections.nl/schema#name> "Goesti Kangdjeng Ratoe Timoer" .
@@ -5,6 +14,13 @@
 <https://n2t.net/ark:/27023/01bfba96f9055c55877fad25e1a36c6f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/01bfba96f9055c55877fad25e1a36c6f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/01bfba96f9055c55877fad25e1a36c6f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#identifier> "1999/00-789" .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-Kolonel H.A.  van der Sluijs Veer" .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#description> "Olieverf op linnen. Portret van Luitenant-kolonel der Cavalerie H.A. van der Sluis Veer. Het schilderij zit in een 15 cm brede vergulde houten sierlijst. Het schilderij is linksonder gesigneerd." .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#creator> "Dirk van Driest" .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/01cec8e8142b86576c6776fcec3ce1d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01cec8e8142b86576c6776fcec3ce1d4> <https://colonialcollections.nl/schema#identifier> "2010/09/10-1-1" .
 <https://n2t.net/ark:/27023/01cec8e8142b86576c6776fcec3ce1d4> <https://colonialcollections.nl/schema#name> "Model van het huis van Theodore Panagiotti Mariano di Calouta" .
@@ -19,6 +35,14 @@
 <https://n2t.net/ark:/27023/01d73d3375d9ea4d0964b6a43f9b6cfd> <https://colonialcollections.nl/schema#creator> "H.A. van den Eynde" .
 <https://n2t.net/ark:/27023/01d73d3375d9ea4d0964b6a43f9b6cfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/01d73d3375d9ea4d0964b6a43f9b6cfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#identifier> "2005/00-635/3" .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#name> "De kust van het sprookjesachtige eiland Bali, een dier verre stranden met wuivende cocospalmen" .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#description> "Kalenderblad met linksboven \"de kust van het sprookjesachtige eiland Bali, een dier verre stranden met wuivende cocospalmen\"\r\n\r\nMidden rechts: \"Raksasa, de reusachtige bewaker bij de ingang van het Sewoeterrein (Bali)\"" .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#creator> "Dorco uitgave" .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#creator> "Indisch Instituut" .
 <https://n2t.net/ark:/27023/01d764e2eb30e996b15bbe57f065ef2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01d764e2eb30e996b15bbe57f065ef2f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-739/27" .
 <https://n2t.net/ark:/27023/01d764e2eb30e996b15bbe57f065ef2f> <https://colonialcollections.nl/schema#name> "De bloemen-hulde. Viering 40 jarig bestaan \"Korps Koloniale Reserve\", 15 april 1931." .
@@ -118,13 +142,6 @@
 <https://n2t.net/ark:/27023/01f62f8ed2c90c3c44e437363730d81e> <https://colonialcollections.nl/schema#inscription> "J.W. Eerkens" .
 <https://n2t.net/ark:/27023/01f62f8ed2c90c3c44e437363730d81e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/01f62f8ed2c90c3c44e437363730d81e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#identifier> "1991/07/22-3-7" .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Vrolijk Kerstfeest Gelukkig Nieuwjaar.\r\nKaart gedrukt door Visser bv, uitgegeven door I.A.G.te Bandoeng naar een tekening van Meekes.\r\n(Blanco)" .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#inscription> "Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/01bb9b6d3f2e2fc45681317a6001eb74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/01b55b42ba0f0dadccc1be70bc98d038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01b55b42ba0f0dadccc1be70bc98d038> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-17/105" .
 <https://n2t.net/ark:/27023/01b55b42ba0f0dadccc1be70bc98d038> <https://colonialcollections.nl/schema#name> "Foto´s familie Rauchbaar en J.Potman, vooroorlogs" .
@@ -557,18 +574,6 @@
 <https://n2t.net/ark:/27023/01f99fb52d5816222f37f503c383a6f3> <https://colonialcollections.nl/schema#description> "Gewicht.  36,7 gram. 8-hoekige plaat. Chinese karakters? en 3 afkeuringsmerken.\r\nCollectie van Beek." .
 <https://n2t.net/ark:/27023/01f99fb52d5816222f37f503c383a6f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/01f99fb52d5816222f37f503c383a6f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#identifier> "1999/00-789" .
-<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-Kolonel H.A.  van der Sluijs Veer" .
-<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#description> "Olieverf op linnen. Portret van Luitenant-kolonel der Cavalerie H.A. van der Sluis Veer. Het schilderij zit in een 15 cm brede vergulde houten sierlijst. Het schilderij is linksonder gesigneerd." .
-<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/01cab24dd56de38c02563e57d7308078> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#identifier> "2005/00-635/3" .
-<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#name> "De kust van het sprookjesachtige eiland Bali, een dier verre stranden met wuivende cocospalmen" .
-<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#description> "Kalenderblad met linksboven \"de kust van het sprookjesachtige eiland Bali, een dier verre stranden met wuivende cocospalmen\"\r\n\r\nMidden rechts: \"Raksasa, de reusachtige bewaker bij de ingang van het Sewoeterrein (Bali)\"" .
-<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/01d743bd165fc34eae7676e0447fa5c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/01c840d39787b11404d06025a8cc0465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01c840d39787b11404d06025a8cc0465> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42847" .
 <https://n2t.net/ark:/27023/01c840d39787b11404d06025a8cc0465> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkalkkoker\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\thoorn, hout\r\n\tgesneden, ingekerfd\r\nEmailadres: toelichting:\tDe koker is gemaakt van een stuk bamboe (L 15,5; Diam 4,2) en heeft een breed" .

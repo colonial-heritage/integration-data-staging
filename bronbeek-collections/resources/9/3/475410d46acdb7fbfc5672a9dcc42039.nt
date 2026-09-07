@@ -6,14 +6,28 @@
 <https://n2t.net/ark:/27023/895d120a3d0ab0473a08ffeaa4e09118> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/895d120a3d0ab0473a08ffeaa4e09118> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/895d120a3d0ab0473a08ffeaa4e09118> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#identifier> "2006/00-43/19" .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#name> "Overzichtskaart van het eiland Sumatra" .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#description> "Overzichtskaart van het eiland Sumatra.\r\nSchaal 1: 750.000; Projectie van Mercator; Reproductiebedrijf Topografische Dienst, Weltevreden 1928. Legenda; Administratieve Indeeling. \r\nRechtsboven: Overzicht van de politieke indeeling van Sumatra." .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#creator> "Reproductiebedrijf Topografische Dienst , Weltevreden" .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#identifier> "1961/08/31-1/3" .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#name> "Portret van H.Christoffel, RMWO op de veranda in Nederlands Indië" .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#description> "Foto. Portret van een zittende H. Christoffel, op een veranda in Nederlands Indië. Gesigneerd op foto door fotograaf H. Domis" .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#creator> "H. Domis" .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#identifier> "nf%20620-6" .
 <https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#name> "Landschap bij Boemi Ajoe (Midden-Java)" .
 <https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#description> "Ansichtkaart uit mapje Javasche Landschappen (views of Java)\r\nonderschrift: 'Landschap bij Boemi Ajoe (Midden-Java)' 'Landscape near Boemi Ajoe (Middle-Java)'\r\nmet gedeelde achterkant, (serie)nr. 7377\r\n\r\nOp de binnenkant van het mapje is een stickertje ge" .
-<https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#creator> "Tassilo Adam" .
 <https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#creator> "Tassilo Adam" .
+<https://n2t.net/ark:/27023/8919feab868156facd5c64bb81f40e35> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/8935a7a171459defdcef3439803696fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8935a7a171459defdcef3439803696fd> <https://colonialcollections.nl/schema#identifier> "nf%20619-19" .
 <https://n2t.net/ark:/27023/8935a7a171459defdcef3439803696fd> <https://colonialcollections.nl/schema#name> "De Goebeng-sluizen te Surabaya" .
@@ -28,13 +42,34 @@
 <https://n2t.net/ark:/27023/89464c09254d93be0f9095dcf845d986> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/89464c09254d93be0f9095dcf845d986> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/89464c09254d93be0f9095dcf845d986> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#identifier> "nf%201488" .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#name> "Medicijnmannen in ambtskledij" .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant de volgende gedrukte tekst: 1395 - Zuidkust Nieuw Guinea - Medicijnmannen in ambtskledij en de naam van de fotograaf.\r\n\r\nOpname toont een viertal zo goed als naakte donkere mannen. Zij hebben op hun hoof" .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#creator> "J.H.Zindler - Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#identifier> "1997/05/30-1-31" .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#name> "Prijslijst intendance goederen" .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#description> "Document. Prijslijst intendance goederen afkomstig van het Ministerie van Oorlog, directoraat materieel landmacht" .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#creator> "Luitenant kolonel van de topografische dienst bd J. Th. Horstink" .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#identifier> "nf%20589-2" .
+<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#description> "Plantage van de Bintan Plantations Limited" .
+<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#creator> "N.K. Otsubo Photographic Artists, Singapore" .
+<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#identifier> "nf%20677-27" .
 <https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los. Dus niet opgeplakt aangetroffen.\r\n\r\nKaart met 'gedeelde' achterkant en de erbij horende belijning. \r\nEr is gedrukte tekst, die luidt: 'Deutsches Ledermuseum Offenbach/M. Ägyptische Schattenspielfiguren. 14. Jahrh" .
-<https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#creator> "Deutsches Ledermuseum Offenbach/M." .
+<https://n2t.net/ark:/27023/892aa0d27afc9451e5ad94cc200ddfb6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/892d50c524e2405248a5aa780dd889a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/892d50c524e2405248a5aa780dd889a5> <https://colonialcollections.nl/schema#identifier> "nf%20842-399" .
 <https://n2t.net/ark:/27023/892d50c524e2405248a5aa780dd889a5> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 73 t/m 100.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 96, in potlo" .
@@ -452,30 +487,6 @@
 <https://n2t.net/ark:/27023/895bf4e63e4e0d128f22e1db4728a3a7> <https://colonialcollections.nl/schema#description> "Doek" .
 <https://n2t.net/ark:/27023/895bf4e63e4e0d128f22e1db4728a3a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/895bf4e63e4e0d128f22e1db4728a3a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#identifier> "2006/00-43/19" .
-<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#name> "Overzichtskaart van het eiland Sumatra" .
-<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#description> "Overzichtskaart van het eiland Sumatra.\r\nSchaal 1: 750.000; Projectie van Mercator; Reproductiebedrijf Topografische Dienst, Weltevreden 1928. Legenda; Administratieve Indeeling. \r\nRechtsboven: Overzicht van de politieke indeeling van Sumatra." .
-<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8912d8b5cfedad99351e948feafc4a31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#identifier> "1961/08/31-1/3" .
-<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#name> "Portret van H.Christoffel, RMWO op de veranda in Nederlands Indië" .
-<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#description> "Foto. Portret van een zittende H. Christoffel, op een veranda in Nederlands Indië. Gesigneerd op foto door fotograaf H. Domis" .
-<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8917152c71b851d5b466621fcbcd9595> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#identifier> "nf%201488" .
-<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#name> "Medicijnmannen in ambtskledij" .
-<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant de volgende gedrukte tekst: 1395 - Zuidkust Nieuw Guinea - Medicijnmannen in ambtskledij en de naam van de fotograaf.\r\n\r\nOpname toont een viertal zo goed als naakte donkere mannen. Zij hebben op hun hoof" .
-<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/894c252354f69a121d27d540e00329f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#identifier> "1997/05/30-1-31" .
-<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#name> "Prijslijst intendance goederen" .
-<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#description> "Document. Prijslijst intendance goederen afkomstig van het Ministerie van Oorlog, directoraat materieel landmacht" .
-<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/895414f599ce7ae7ff152784eebcccee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/891136d127bc7581dba6bee4dd995a22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/891136d127bc7581dba6bee4dd995a22> <https://colonialcollections.nl/schema#identifier> "nf%201355-48-3" .
 <https://n2t.net/ark:/27023/891136d127bc7581dba6bee4dd995a22> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met lijm in album geplakt.\r\n\r\nOpname toont passagiers, staand op verschillende dekken, aan de reling. Van de wal genomen ziet men het achterschip van deze passagiersboot.\r\n\r\nAangenomen is dat het passagiersschip met verlofgan" .
@@ -566,11 +577,6 @@
 <https://n2t.net/ark:/27023/8958240f86c73407ab2b0d92fe6a515d> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tvuurwaaier\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2274\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2274] Depot, 15, M c [15 M c] [09-dec-2002]" .
 <https://n2t.net/ark:/27023/8958240f86c73407ab2b0d92fe6a515d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8958240f86c73407ab2b0d92fe6a515d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#identifier> "nf%20589-2" .
-<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#description> "Plantage van de Bintan Plantations Limited" .
-<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/89157568d32964fa158a167e3511faa8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/891cdc1a6f33aeaf9d02fec7708ce1d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/891cdc1a6f33aeaf9d02fec7708ce1d2> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/258" .
 <https://n2t.net/ark:/27023/891cdc1a6f33aeaf9d02fec7708ce1d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

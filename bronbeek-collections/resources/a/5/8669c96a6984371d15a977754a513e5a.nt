@@ -1,10 +1,18 @@
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/23" .
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#creator> "C.E. Mögle" .
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#identifier> "nf%201473-34" .
 <https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#name> "Een van de mijningangen te Sawah-Loento, Sumatra" .
 <https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 94. EEN DER MIJNINGANGEN TE SAWAH-LOENTO. SUMATRA.\r\ngeschreven: zie no. 93\r\n\r\nOpname toont industriele ac" .
-<https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ec715931678ebc738c1a89ee0fa4a2c1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ec731efeba83a776bf83457306c923ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ec731efeba83a776bf83457306c923ce> <https://colonialcollections.nl/schema#identifier> "nf%20619-46" .
 <https://n2t.net/ark:/27023/ec731efeba83a776bf83457306c923ce> <https://colonialcollections.nl/schema#name> "Flores, de bevolking boven Mao-Embo komt in onderwerping" .
@@ -19,6 +27,14 @@
 <https://n2t.net/ark:/27023/ec7c164f08c3f338b672fba3f545f091> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/ec7c164f08c3f338b672fba3f545f091> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ec7c164f08c3f338b672fba3f545f091> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#identifier> "2003/06/06-2-1" .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#name> "Carte de Cabinet, familie van Vloten" .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#description> "Foto. Carte de Cabinet. Familie in rijtuig voor de veranda, Nederlands Indië. Militair staat achter rijtuig. (Kolonel).\r\nFotograaf is Albert Schlumpf uit Penang." .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#creator> "Albert Schlumpf Photographer Penang" .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#creator> "Identification number" .
 <https://n2t.net/ark:/27023/ec94098fef6c95a96a6faf34062273d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ec94098fef6c95a96a6faf34062273d7> <https://colonialcollections.nl/schema#identifier> "2006/08/13-3-5" .
 <https://n2t.net/ark:/27023/ec94098fef6c95a96a6faf34062273d7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Weg bij Padang" .
@@ -26,6 +42,13 @@
 <https://n2t.net/ark:/27023/ec94098fef6c95a96a6faf34062273d7> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/ec94098fef6c95a96a6faf34062273d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ec94098fef6c95a96a6faf34062273d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/15" .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#creator> "Natalie Hoogmoed, KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ec76d9a5652b4e99cb579f438f57fc4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ec76d9a5652b4e99cb579f438f57fc4e> <https://colonialcollections.nl/schema#identifier> "nf%20204" .
 <https://n2t.net/ark:/27023/ec76d9a5652b4e99cb579f438f57fc4e> <https://colonialcollections.nl/schema#description> "Opname toont een portret van een inheemse man, zeer vermoedelijk een Papoea. Hij is vanaf zijn middel in beeld. Opvallend aan hem zijn de vele oor- en halssieraden. Kralen.\r\n\r\nAangenomen is dat deze foto uit Nieuw Guinea stamt." .
@@ -518,24 +541,6 @@
 <https://n2t.net/ark:/27023/eca6116a710d9f47485c8beab76c7574> <https://colonialcollections.nl/schema#description> "Wapenstok stok met een korte lederen lus. Ploertendoder." .
 <https://n2t.net/ark:/27023/eca6116a710d9f47485c8beab76c7574> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eca6116a710d9f47485c8beab76c7574> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/23" .
-<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ec712814881bcf28f5f32ba1f725c643> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#identifier> "2003/06/06-2-1" .
-<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#name> "Carte de Cabinet, familie van Vloten" .
-<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#description> "Foto. Carte de Cabinet. Familie in rijtuig voor de veranda, Nederlands Indië. Militair staat achter rijtuig. (Kolonel).\r\nFotograaf is Albert Schlumpf uit Penang." .
-<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ec8081e75dc37dcd12a3359061256d27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/15" .
-<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
-<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
-<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ec9b61baddba20c24127c38efb6eae5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ec5a6fbce22c2ded396e32d9fb16bd98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ec5a6fbce22c2ded396e32d9fb16bd98> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43920" .
 <https://n2t.net/ark:/27023/ec5a6fbce22c2ded396e32d9fb16bd98> <https://colonialcollections.nl/schema#description> "Houten tabakskoker" .

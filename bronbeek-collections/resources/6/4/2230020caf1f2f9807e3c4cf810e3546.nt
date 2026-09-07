@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-6" .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#name> "Societeit Modderlust" .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Societeit Modderlust." .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#inscription> "Societeit Modderlust" .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#creator> "Naamlooze Vennootschap Boek en Handelsdrukkerij" .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/33c47b181b12dcf78eda5ef4f9fad6a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/33c47b181b12dcf78eda5ef4f9fad6a1> <https://colonialcollections.nl/schema#identifier> "1972/08/16-1-9" .
 <https://n2t.net/ark:/27023/33c47b181b12dcf78eda5ef4f9fad6a1> <https://colonialcollections.nl/schema#name> "\"Het Hof van Djokjokarta onder Sultan Hamangkoe Boewono VI.\"" .
@@ -17,9 +25,10 @@
 <https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/6-14" .
 <https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. Ver in het voorterrein, gedekt achter een sawahdijkje, slaan de verkenners de pemoeda's gade\"" .
 <https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#description> "Prentbriefkaart \"Mariniers in Indië. Ver in het voorterrein, gedekt achter een sawahdijkje, slaan de verkenners de pemoeda's gade\". \r\nGefotografeerd door Luitenant H. Wilmar voor de Voorlichtingsdienst van de 1e Mariniersbrigade." .
-<https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/33ba9ac2e52d9c506446b801a54bf707> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/33c6775c6852e898c8b6d19a6cec3517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/33c6775c6852e898c8b6d19a6cec3517> <https://colonialcollections.nl/schema#identifier> "nf%201325-16" .
 <https://n2t.net/ark:/27023/33c6775c6852e898c8b6d19a6cec3517> <https://colonialcollections.nl/schema#name> "Tandjong Priok" .
@@ -85,9 +94,10 @@
 <https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#identifier> "nf%201873-5" .
 <https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met anderen.\r\n\r\nOp achterkant in inkt: 'J VI.5 - Mendjid beduk P. Baru - afk: Hr.H.Voorrips, oudgezagvoerder KPM' \r\n\r\nOpname toont een optrekje, vier palen en een dakje. Daaronder hangt een enorme trom. Daarachter mogelij" .
-<https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#creator> "H. Voorrips" .
+<https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/33bbe4e007ee658afdfe12ec1900db87> <https://colonialcollections.nl/schema#creator> "H. Voorrips" .
 <https://n2t.net/ark:/27023/33be15d0773b95d789b593707efe9c28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/33be15d0773b95d789b593707efe9c28> <https://colonialcollections.nl/schema#identifier> "nf%20842-243" .
 <https://n2t.net/ark:/27023/33be15d0773b95d789b593707efe9c28> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BA, 38 t/m 100. Deze slede is opgeborgen in doos met afneembare roodbruine rug, gemerkt met\r\nBA, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BA 78, in potlood DW 19\r\n\r\nOp" .
@@ -112,13 +122,6 @@
 <https://n2t.net/ark:/27023/33e955173126f9512d67ca74e6f6c592> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/33e955173126f9512d67ca74e6f6c592> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/33e955173126f9512d67ca74e6f6c592> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-6" .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#name> "Societeit Modderlust" .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Societeit Modderlust." .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#inscription> "Societeit Modderlust" .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/33b7cb359c3b6466ad9b2eaba48bb77d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/33ac82b185d13283037e2f44beac3883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/33ac82b185d13283037e2f44beac3883> <https://colonialcollections.nl/schema#identifier> "2002/04/29-1-5/271" .
 <https://n2t.net/ark:/27023/33ac82b185d13283037e2f44beac3883> <https://colonialcollections.nl/schema#name> "Foto´s, z/w, periode 1945-1952" .

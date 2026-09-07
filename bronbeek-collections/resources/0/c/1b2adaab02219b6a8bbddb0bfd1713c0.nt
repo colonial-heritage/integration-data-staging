@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-13" .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#name> "30. Stationsemplacement te Toentang  (Midden Java)" .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\nKleyenberg en Co.  30. Stationsemplacement te Toentang  (Midden Java)." .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#inscription> "30. Stationsemplacement te Toentang  (Midden Java)" .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-83" .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#name> "Ingang Chineesche tempel Pabejan. Cheribon" .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ingang Chineesche tempel Pabejan. Cheribon" .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#inscription> "Ingang Chineesche tempel Pabejan. Cheribon" .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-896" .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#name> "Rijglaarzen, paar" .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#description> "Rijglaarzen, paar. Van zwart leer met acht paar ogen bij de schoen en 15 paar metalen haken en een paar ogen op de schacht en met veters ter sluiten. Aan de bovenzijde nog een leren riem met eendoornige metalen gesp. In de binnenzijde van de schacht een g" .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#creator> "Schoen- & taschmakerij \"Centraal'\"" .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8724576b661b3f8287a8e71face6c8a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8724576b661b3f8287a8e71face6c8a7> <https://colonialcollections.nl/schema#identifier> "1974/08/15-1-2" .
 <https://n2t.net/ark:/27023/8724576b661b3f8287a8e71face6c8a7> <https://colonialcollections.nl/schema#name> "Geschiedenis der Militaire Sociëteit 'Concordia' te Batavia: gedenkschrift uitgegeven ter gelegenheid van het honderd-jarig bestaan der societeit (1833, 21 spetember - 1933)" .
@@ -5,6 +28,14 @@
 <https://n2t.net/ark:/27023/8724576b661b3f8287a8e71face6c8a7> <https://colonialcollections.nl/schema#creator> "Victor Ido van de Wall" .
 <https://n2t.net/ark:/27023/8724576b661b3f8287a8e71face6c8a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8724576b661b3f8287a8e71face6c8a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#identifier> "nf%20937-8" .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#name> "Oembielin-steenkolenmijnen te Sawah-Loentoe" .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#creator> "Winkel Mij. v/hn P. Baumer & Co. (Padang)" .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
 <https://n2t.net/ark:/27023/8727adac9aee0aad77098fd28ac5a6f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8727adac9aee0aad77098fd28ac5a6f1> <https://colonialcollections.nl/schema#identifier> "nf%201413-48" .
 <https://n2t.net/ark:/27023/8727adac9aee0aad77098fd28ac5a6f1> <https://colonialcollections.nl/schema#name> "Aanlegsteiger prauwen te Kertapati, Palembangzijde" .
@@ -12,6 +43,13 @@
 <https://n2t.net/ark:/27023/8727adac9aee0aad77098fd28ac5a6f1> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/8727adac9aee0aad77098fd28ac5a6f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8727adac9aee0aad77098fd28ac5a6f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/334" .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Medan - Kesawan.\"\r\nUitgave van Deli Courant." .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8739641088c32f422de417365cadeb99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8739641088c32f422de417365cadeb99> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/209" .
 <https://n2t.net/ark:/27023/8739641088c32f422de417365cadeb99> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -33,18 +71,32 @@
 <https://n2t.net/ark:/27023/874921cd54afba157b8a4585be4dbbab> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/874921cd54afba157b8a4585be4dbbab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/874921cd54afba157b8a4585be4dbbab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#identifier> "X%205550" .
+<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#description> "voorstelling van een Chinees buurtje in voormalig Batavia" .
+<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#creator> "Wijnand Otto Jan Nieuwenkamp" .
+<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/871bf7cf86e1fa5f1026ecde7de83808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/871bf7cf86e1fa5f1026ecde7de83808> <https://colonialcollections.nl/schema#identifier> "nf%20591" .
 <https://n2t.net/ark:/27023/871bf7cf86e1fa5f1026ecde7de83808> <https://colonialcollections.nl/schema#description> "Wagon van de Semarang-Cheribon Stoomtrammaatschappij (Java)\r\nWagon ABr 14, 1e en 2e klasse (indiensstelling 10-9-1913)" .
 <https://n2t.net/ark:/27023/871bf7cf86e1fa5f1026ecde7de83808> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/871bf7cf86e1fa5f1026ecde7de83808> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/871bf7cf86e1fa5f1026ecde7de83808> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#identifier> "EDO%20481-11" .
+<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een eenvoudige pier, haaks op het land. Aan het eind ligt een prauw aangemeerd. In de verte is land te zien. \r\nMogelijk is dit de aanlegplaats voor schepen uit Banyuwangi." .
+<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#identifier> "nf%201732-11" .
 <https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant is er een stempel met tekst: 'Copyright JAAP ZINDLER - Biak - Nieuw Guinea' en de naam van de fabrikant.\r\nOok staat er in inkt: '517 - Wisselmeren'\r\n\r\nOpname toont vier " .
-<https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#creator> "Tellko" .
 <https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
+<https://n2t.net/ark:/27023/872b407c8e7ff72c8c6f0a0c95300921> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8736a5558a0bdb84d830970beeebbb5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8736a5558a0bdb84d830970beeebbb5a> <https://colonialcollections.nl/schema#identifier> "nf%201757" .
 <https://n2t.net/ark:/27023/8736a5558a0bdb84d830970beeebbb5a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, opgeplakt op karton, los aangetroffen.\r\n\r\nOpname toont een graf, waarschijnlijk meerdere. Een kerkhof dus.\r\nEr is een grafsteen waarvan de tekst hierbij wordt weergegeven:\r\nTER NAGEDACHTENIS VAN DR LEON VAN VLIET TRESLING EN ANDERE BIJ DE" .
@@ -57,6 +109,12 @@
 <https://n2t.net/ark:/27023/873d3d0d5797bfdbc67f419f4f601c60> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/873d3d0d5797bfdbc67f419f4f601c60> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/873d3d0d5797bfdbc67f419f4f601c60> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#identifier> "nf%20323-17-1" .
+<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#description> "bijschrift;'Radja Sicca, versierd met zijn gouden helm en zijn andere waardevolle gouden sieraden'" .
+<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/870e4da91e6700d711dc60790369125e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/870e4da91e6700d711dc60790369125e> <https://colonialcollections.nl/schema#identifier> "2000/09/04-4-20/1" .
 <https://n2t.net/ark:/27023/870e4da91e6700d711dc60790369125e> <https://colonialcollections.nl/schema#name> "Knoop" .
@@ -78,20 +136,6 @@
 <https://n2t.net/ark:/27023/873b89ef0ef6caeafff78ab23c3fa705> <https://colonialcollections.nl/schema#inscription> "EAG - aanzichtskaarten \"Mooi Bali\" bestaande uit 16 seriën van 10 stuks Serie XII. Kintamani en vulkaan Goenoeng Batoer.; Engros verkrijgbaar bij W.Gertis Soerabaya Baritostraat N.6" .
 <https://n2t.net/ark:/27023/873b89ef0ef6caeafff78ab23c3fa705> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/873b89ef0ef6caeafff78ab23c3fa705> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-13" .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#name> "30. Stationsemplacement te Toentang  (Midden Java)" .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\nKleyenberg en Co.  30. Stationsemplacement te Toentang  (Midden Java)." .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#inscription> "30. Stationsemplacement te Toentang  (Midden Java)" .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/87251ba4304977afbb8375c592f275d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-83" .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#name> "Ingang Chineesche tempel Pabejan. Cheribon" .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ingang Chineesche tempel Pabejan. Cheribon" .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#inscription> "Ingang Chineesche tempel Pabejan. Cheribon" .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/873f72fda2ae7ba1c1b75c11e08794dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/87100f4d0076ee8bfbcf98ffbacc438b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/87100f4d0076ee8bfbcf98ffbacc438b> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-5/108" .
 <https://n2t.net/ark:/27023/87100f4d0076ee8bfbcf98ffbacc438b> <https://colonialcollections.nl/schema#name> "Militaire prentbriefkaarten" .
@@ -506,24 +550,6 @@
 <https://n2t.net/ark:/27023/8748d8ab67a73c75c1558126b88b6d0b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. 24 stuks." .
 <https://n2t.net/ark:/27023/8748d8ab67a73c75c1558126b88b6d0b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8748d8ab67a73c75c1558126b88b6d0b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-896" .
-<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#name> "Rijglaarzen, paar" .
-<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#description> "Rijglaarzen, paar. Van zwart leer met acht paar ogen bij de schoen en 15 paar metalen haken en een paar ogen op de schacht en met veters ter sluiten. Aan de bovenzijde nog een leren riem met eendoornige metalen gesp. In de binnenzijde van de schacht een g" .
-<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/87134f94f0cec9ec1a9c373285bf50af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#identifier> "nf%20937-8" .
-<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#name> "Oembielin-steenkolenmijnen te Sawah-Loentoe" .
-<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
-<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8726f41035a754770d5f020e961f3d7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/334" .
-<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Medan - Kesawan.\"\r\nUitgave van Deli Courant." .
-<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/872eb1e119b4eab50431e4fe782b1bac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/87120de53e2d2df24eecdbc51e26072a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/87120de53e2d2df24eecdbc51e26072a> <https://colonialcollections.nl/schema#identifier> "nf%20840-10-1" .
 <https://n2t.net/ark:/27023/87120de53e2d2df24eecdbc51e26072a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, zonder tekst op achterkant. \r\n\r\nOpname toont mw. Thies, gefotografeerd in een donker kleurige jurk, staand, met op de achtergrond heel waarschijnlijk de grote moskee " .
@@ -574,21 +600,6 @@
 <https://n2t.net/ark:/27023/8748371ee561c2891eda94a04e674574> <https://colonialcollections.nl/schema#description> "stevenversiering van een prauw, met sleutelvormige, steeds herhaalde motieven uitgesneden.\r\nHerkomst: Nieuw Guinea." .
 <https://n2t.net/ark:/27023/8748371ee561c2891eda94a04e674574> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8748371ee561c2891eda94a04e674574> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#identifier> "X%205550" .
-<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#description> "voorstelling van een Chinees buurtje in voormalig Batavia" .
-<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8713c4e0ab8c6a4d83ef06b949398318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#identifier> "EDO%20481-11" .
-<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een eenvoudige pier, haaks op het land. Aan het eind ligt een prauw aangemeerd. In de verte is land te zien. \r\nMogelijk is dit de aanlegplaats voor schepen uit Banyuwangi." .
-<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8727bc2c1c5f288263dda1f7fbd0797c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#identifier> "nf%20323-17-1" .
-<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#description> "bijschrift;'Radja Sicca, versierd met zijn gouden helm en zijn andere waardevolle gouden sieraden'" .
-<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/874461bdcf4e67b5516aefa3a9ac72e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/871fd7b6bfe6bcfc11dc854a032b375f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/871fd7b6bfe6bcfc11dc854a032b375f> <https://colonialcollections.nl/schema#identifier> "S%20230-856" .
 <https://n2t.net/ark:/27023/871fd7b6bfe6bcfc11dc854a032b375f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

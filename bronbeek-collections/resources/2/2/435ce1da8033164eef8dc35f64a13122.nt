@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-20" .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#name> "59. Bevloeiingswerken op Java." .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#description> "Schoolplaat. 59. Bevloeiingswerken op Java." .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#inscription> "59. Bevloeiingswerken op Java." .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e63dadbdd07b7bb90415ffd5629b8bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e63dadbdd07b7bb90415ffd5629b8bc> <https://colonialcollections.nl/schema#identifier> "nf%20557" .
 <https://n2t.net/ark:/27023/5e63dadbdd07b7bb90415ffd5629b8bc> <https://colonialcollections.nl/schema#name> "Spoorbrug over de Ombilinrivier" .
@@ -19,6 +27,13 @@
 <https://n2t.net/ark:/27023/5e674cdd880d30e7f453d4dc8baea644> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/5e674cdd880d30e7f453d4dc8baea644> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e674cdd880d30e7f453d4dc8baea644> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/211" .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Bandoeng. Java Bank." .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#creator> "J.R. de Vries & Co" .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e6faeeabd1dce7a3a109d22459e9b07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e6faeeabd1dce7a3a109d22459e9b07> <https://colonialcollections.nl/schema#identifier> "nf%20836-39-4" .
 <https://n2t.net/ark:/27023/5e6faeeabd1dce7a3a109d22459e9b07> <https://colonialcollections.nl/schema#name> "Poerwokerto 1929" .
@@ -26,6 +41,13 @@
 <https://n2t.net/ark:/27023/5e6faeeabd1dce7a3a109d22459e9b07> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5e6faeeabd1dce7a3a109d22459e9b07> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e6faeeabd1dce7a3a109d22459e9b07> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/70" .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#name> "Bewaarmapje Pentbriefkaarten 'Arw-Kiekjes van Java's Land en Volk'" .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#description> "Bewaarmapje (groen) Prentbriefkaarten 'Arw-Kiekjes van Java's Land en Volk'. Meer dan 1000 verschillende opnamen 'Souvenir van Java'." .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#creator> "N.V. Handel Maatschappij Appel & Duveen" .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e6f62c982de6fa8ab16628717e01d02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e6f62c982de6fa8ab16628717e01d02> <https://colonialcollections.nl/schema#identifier> "nf%20842-626" .
 <https://n2t.net/ark:/27023/5e6f62c982de6fa8ab16628717e01d02> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BE 73 t/m 100. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BE, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BE 74, in potlood EH 18." .
@@ -35,10 +57,10 @@
 <https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#identifier> "nf%20577-4" .
 <https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#description> "Op de achterkant staat geschreven; 'Balinese schilderkunst na 1920, vooral onder invloed van de Duitse W. Spies (+1942)'" .
-<https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/5e7bb2a9d04517d881a6bc131bb69e0a> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/5e7dab7eba7fa21baeec5f31e1ab8401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e7dab7eba7fa21baeec5f31e1ab8401> <https://colonialcollections.nl/schema#identifier> "nf%20335-59-3" .
 <https://n2t.net/ark:/27023/5e7dab7eba7fa21baeec5f31e1ab8401> <https://colonialcollections.nl/schema#description> "Geen onderschrift.\r\n\r\nZwart/wit opname, sterk vergeeld, van een man in witte kledij, staand, leunend op de rugleuning van een bank, duidelijk poserend.\r\n\r\nGeportretteerde is Jelle Braspot." .
@@ -65,13 +87,6 @@
 <https://n2t.net/ark:/27023/5ea2e721692dd24394663889485d54b9> <https://colonialcollections.nl/schema#inscription> "22" .
 <https://n2t.net/ark:/27023/5ea2e721692dd24394663889485d54b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5ea2e721692dd24394663889485d54b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-20" .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#name> "59. Bevloeiingswerken op Java." .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#description> "Schoolplaat. 59. Bevloeiingswerken op Java." .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#inscription> "59. Bevloeiingswerken op Java." .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e78b81949d3bb3352fee0ad42f5632f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e62dd75785a713e5ede1f613e7c44af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e62dd75785a713e5ede1f613e7c44af> <https://colonialcollections.nl/schema#identifier> "2005/10/27-1-5/3" .
 <https://n2t.net/ark:/27023/5e62dd75785a713e5ede1f613e7c44af> <https://colonialcollections.nl/schema#name> "Nummers van de krant  De Locomotief, 1948-1949 (niet compleet)" .
@@ -522,18 +537,6 @@
 <https://n2t.net/ark:/27023/5ea30c3ff3f89890d0003dc36a567d00> <https://colonialcollections.nl/schema#description> "Pijl, houten schacht met metalen punt van ong. 6 cm. Aan het eind van de pijlen zit een houten verdikking met sleuf voor inleg pees. Op alle schachten zit ong. 14 cm. opsiering d.m.v. veren. Afm. pijl ong. 68 cm. In goede staat." .
 <https://n2t.net/ark:/27023/5ea30c3ff3f89890d0003dc36a567d00> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5ea30c3ff3f89890d0003dc36a567d00> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/211" .
-<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Bandoeng. Java Bank." .
-<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e686d52beb204d06c47253fb28df3f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/70" .
-<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#name> "Bewaarmapje Pentbriefkaarten 'Arw-Kiekjes van Java's Land en Volk'" .
-<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#description> "Bewaarmapje (groen) Prentbriefkaarten 'Arw-Kiekjes van Java's Land en Volk'. Meer dan 1000 verschillende opnamen 'Souvenir van Java'." .
-<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e8d472db0bf2d17e1fe5330a664a576> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e682e8ef8f280e5e76c827a9ba10500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e682e8ef8f280e5e76c827a9ba10500> <https://colonialcollections.nl/schema#identifier> "S%201394" .
 <https://n2t.net/ark:/27023/5e682e8ef8f280e5e76c827a9ba10500> <https://colonialcollections.nl/schema#description> "Eenvoudige lanspunt zonder schede, lancetvormig." .

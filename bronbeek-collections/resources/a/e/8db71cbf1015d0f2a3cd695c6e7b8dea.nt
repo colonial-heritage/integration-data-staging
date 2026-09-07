@@ -6,6 +6,20 @@
 <https://n2t.net/ark:/27023/9a3811190284661f16585f3eefa91e80> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/9a3811190284661f16585f3eefa91e80> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9a3811190284661f16585f3eefa91e80> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#identifier> "2017/01/05-2-3" .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#name> "Ponjaard Koninklijke Luchtmacht model 1964" .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#description> "Ponjaard Koninklijke Luchtmacht model 1964 in schede" .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#creator> "Carl Eickhorn" .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-1" .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#name> "1 chinees en 2 inlanders c.a. 1860" .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#description> "Carte de visite: Op achterzijde: \"J.B.Jasper Photograaf Soerabaya\". 1 chinees en 2 inlanders. C.a. 1860?" .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#creator> "J.B. Jasper Photograaf Soerabaija" .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9a1aa9a7a74cdbaca5c3075c694a42aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9a1aa9a7a74cdbaca5c3075c694a42aa> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/47" .
 <https://n2t.net/ark:/27023/9a1aa9a7a74cdbaca5c3075c694a42aa> <https://colonialcollections.nl/schema#name> "Eetzaal waar bewoners Bronbeek aan het eten zijn. Aan de wand hangt schilderij van Jan Adam Kruseman" .
@@ -20,6 +34,7 @@
 <https://n2t.net/ark:/27023/9a1b34eec0d26fb57bddee2ce2b214d2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9a1b34eec0d26fb57bddee2ce2b214d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9a1b34eec0d26fb57bddee2ce2b214d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a1b34eec0d26fb57bddee2ce2b214d2> <https://colonialcollections.nl/schema#creator> "Department of Information, Republic of Indonesia" .
 <https://n2t.net/ark:/27023/9a1cb162f8acf3fc3e17d41f5698086a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9a1cb162f8acf3fc3e17d41f5698086a> <https://colonialcollections.nl/schema#identifier> "1867/09/04-1-4" .
 <https://n2t.net/ark:/27023/9a1cb162f8acf3fc3e17d41f5698086a> <https://colonialcollections.nl/schema#name> "Een vlag van de Bonische expeditie in 1822" .
@@ -34,6 +49,20 @@
 <https://n2t.net/ark:/27023/9a2218550ba77e0d8e1f044d75ec210e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9a2218550ba77e0d8e1f044d75ec210e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9a2218550ba77e0d8e1f044d75ec210e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#identifier> "1996/06/19-4-11" .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#name> "Jas veldtenue (binnengevechtsjas) Koninklijke Landmacht M1958" .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#description> "Jas veldtenue (binnengevechtsjas) Koninklijke Landmacht M1958. Jas van donkergroen gekeperde katoen in visgraadmotief met liggende kraag en revers, shouderlappen en twee opgestikte halfharmonica borstzakken met rechte zakklep. De jas wordt gesloten met vi" .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#creator> "Kors & Moorman" .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/74" .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: 'L.J. van Cammingha-van Swieten' en 'L.J. v. Cammingha-van Swieten'.\r\nFotograaf: R.A. Sosro Abi Poetro." .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#creator> "R.A. Sosro Abi Poetro" .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9a4201219d6ca3bdc396efd78b09c1c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9a4201219d6ca3bdc396efd78b09c1c9> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/44" .
 <https://n2t.net/ark:/27023/9a4201219d6ca3bdc396efd78b09c1c9> <https://colonialcollections.nl/schema#name> "Twee bewoner Bronbeek,  zittend" .
@@ -41,6 +70,20 @@
 <https://n2t.net/ark:/27023/9a4201219d6ca3bdc396efd78b09c1c9> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/9a4201219d6ca3bdc396efd78b09c1c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9a4201219d6ca3bdc396efd78b09c1c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/219" .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Groet uit Bandoeng. Meer Bagendiet bij Garoet." .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#creator> "J.C. Becker" .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/122" .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: E.C. v. Swieten 1859-1946.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/99f8dd65c0cb19086ae1f05a89c6a122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/99f8dd65c0cb19086ae1f05a89c6a122> <https://colonialcollections.nl/schema#identifier> "nf%20842-274" .
 <https://n2t.net/ark:/27023/99f8dd65c0cb19086ae1f05a89c6a122> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BB, 01 t/m 36. Deze slede is opgeborgen in doos met afneembare roodbruine rug, gemerkt met\r\nBB, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BB 14, in potlood DX 18\r\n\r\nOpn" .
@@ -525,42 +568,6 @@
 <https://n2t.net/ark:/27023/9a47670df30521ef5ac94c4815aef207> <https://colonialcollections.nl/schema#description> "Foto's zwart/wit, los (95 stuks) diensttijd Nederlands-Indië." .
 <https://n2t.net/ark:/27023/9a47670df30521ef5ac94c4815aef207> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9a47670df30521ef5ac94c4815aef207> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#identifier> "2017/01/05-2-3" .
-<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#name> "Ponjaard Koninklijke Luchtmacht model 1964" .
-<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#description> "Ponjaard Koninklijke Luchtmacht model 1964 in schede" .
-<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9a0168b69b9b62bc3bb08c05209c6b25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-1" .
-<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#name> "1 chinees en 2 inlanders c.a. 1860" .
-<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#description> "Carte de visite: Op achterzijde: \"J.B.Jasper Photograaf Soerabaya\". 1 chinees en 2 inlanders. C.a. 1860?" .
-<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9a0939a1cffa1f562719089695b1ac31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#identifier> "1996/06/19-4-11" .
-<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#name> "Jas veldtenue (binnengevechtsjas) Koninklijke Landmacht M1958" .
-<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#description> "Jas veldtenue (binnengevechtsjas) Koninklijke Landmacht M1958. Jas van donkergroen gekeperde katoen in visgraadmotief met liggende kraag en revers, shouderlappen en twee opgestikte halfharmonica borstzakken met rechte zakklep. De jas wordt gesloten met vi" .
-<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9a2dbcc88d145fc73b6db66c1989201f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/74" .
-<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: 'L.J. van Cammingha-van Swieten' en 'L.J. v. Cammingha-van Swieten'.\r\nFotograaf: R.A. Sosro Abi Poetro." .
-<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9a40142f4f097c34e2f02178e70ac0d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/219" .
-<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Groet uit Bandoeng. Meer Bagendiet bij Garoet." .
-<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9a434c63a5331f06a0d74000d9147be5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/122" .
-<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: E.C. v. Swieten 1859-1946.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
-<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9a47b73cd0fb39fd56f562e2485a8736> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/99f5e8c5e04a4842c67e44b5dd2c56dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/99f5e8c5e04a4842c67e44b5dd2c56dd> <https://colonialcollections.nl/schema#identifier> "nf%20840-27-8" .
 <https://n2t.net/ark:/27023/99f5e8c5e04a4842c67e44b5dd2c56dd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Kampong bij Gohor Lama Augustus '35\"\r\n\r\nOpname toont de heer Thies, in het wit gekleed, staande op een" .

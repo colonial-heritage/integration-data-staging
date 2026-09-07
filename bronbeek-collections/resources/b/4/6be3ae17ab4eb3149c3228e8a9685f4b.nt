@@ -1,11 +1,28 @@
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/3" .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#name> "'Bergmeer Oever (Anaka Laoet) te Sabang.'" .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Bergmeer Oever (Anaka Laoet) te Sabang.'" .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#inscription> "'Bergmeer Oever (Anaka Laoet) te Sabang.'" .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/33" .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#name> "Plaat 33. Rékét Göïp. Punt waar de marechaussees binnendrongen" .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#description> "Foto. Plaat 33. Rékét Göïp. Punt waar de marechaussees binnendrongen." .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#inscription> "Plaat 33. Rékét Göïp. Punt waar de marechaussees binnendrongen" .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#identifier> "2005/10/13-2-4/7" .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#name> "Glodok te Batavia met zicht op een passar en bioscoop Chunghoa" .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Straatgezicht van Glodok te Batavia met zicht op een passar en bioscoop Chunghoa.\r\nGericht aan mevr. Bosmans te Nijmegen. Gestempeld Batavia Centrum 1947." .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#inscription> "Glodok - Batavia" .
-<https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a994f3484b5af1c314ddb8cdc5a90eb6> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/a99a2f4c4707965d9b7dad2f26f18504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a99a2f4c4707965d9b7dad2f26f18504> <https://colonialcollections.nl/schema#identifier> "1972/08/16-1-6" .
 <https://n2t.net/ark:/27023/a99a2f4c4707965d9b7dad2f26f18504> <https://colonialcollections.nl/schema#name> "\"De eilanden Porto-Santo en Madeira, uit het noordwesten te zien op 4 tot 5 mijlen afstand, zeilende het schip op 32'46' Noorderbreedte en 17'35' Westerlengte.\"\r\n\"Logplankje.\"\r\nDe zuidzijde van het eiland Amsterdam, op één mijl afstand, zeilende het schip" .
@@ -14,6 +31,13 @@
 <https://n2t.net/ark:/27023/a99a2f4c4707965d9b7dad2f26f18504> <https://colonialcollections.nl/schema#creator> "Tresling & Co" .
 <https://n2t.net/ark:/27023/a99a2f4c4707965d9b7dad2f26f18504> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a99a2f4c4707965d9b7dad2f26f18504> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/71" .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#name> "Soerabaia. Optocht Inlandsche bruiloft Aloon Aloon Tjontong" .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Soerabaia. Optocht Inlandsche bruiloft Aloon Aloon Tjontong. Ongestempeld, zonder postzegel." .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#creator> "J.M.Chs. Nijland" .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a96f4100ff5197ca267f2417c9bc1157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a96f4100ff5197ca267f2417c9bc1157> <https://colonialcollections.nl/schema#identifier> "nf%20834-37-2" .
 <https://n2t.net/ark:/27023/a96f4100ff5197ca267f2417c9bc1157> <https://colonialcollections.nl/schema#name> "Vader en dochter- achter hen de ingestorte weg. We zijn er omheen geklauterd" .
@@ -32,9 +56,10 @@
 <https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/14" .
 <https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#name> "Reede van Suez." .
 <https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#description> "Prent. Reede van Suez..\r\nGenummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 t/m 1997/10/09-1-3/28)." .
-<https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a97f6c722e4472e978c9b022af76a216> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/a9831c7768f268cd78ff68c39d08e6f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9831c7768f268cd78ff68c39d08e6f7> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/6" .
 <https://n2t.net/ark:/27023/a9831c7768f268cd78ff68c39d08e6f7> <https://colonialcollections.nl/schema#name> "Portret van Eugène van Delden" .
@@ -46,9 +71,10 @@
 <https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/4" .
 <https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
 <https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door de NIWIN voor de troepen in Nederlands-Indië / Indonesië.\r\nFoto J.A. Stevens Landschap te Kalambé (Celebes)" .
-<https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
+<https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
 <https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9852628797d10fe27e37434b8992b46> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/a990a2130d4ae242e718e2d0f041361a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a990a2130d4ae242e718e2d0f041361a> <https://colonialcollections.nl/schema#identifier> "nf%20925-12-2" .
 <https://n2t.net/ark:/27023/a990a2130d4ae242e718e2d0f041361a> <https://colonialcollections.nl/schema#name> "Javasche Bank Solo" .
@@ -56,6 +82,20 @@
 <https://n2t.net/ark:/27023/a990a2130d4ae242e718e2d0f041361a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a990a2130d4ae242e718e2d0f041361a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a990a2130d4ae242e718e2d0f041361a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-16" .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#creator> "de heer C. Engelen" .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#identifier> "nf%20486-2" .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#name> "Chinees graf van ene Ka en zijn vrouw." .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#description> "Chinees graf van ene Ka en zijn vrouw.\r\nOp de grafsteen is het jaar 1879 (5de jaar van Kuang Hsü) vermeld." .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#creator> "H. Salzwedel, Soerabaya" .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9a6cf9812bb8a1d9df3e75d3f15c3b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9a6cf9812bb8a1d9df3e75d3f15c3b6> <https://colonialcollections.nl/schema#identifier> "nf%20693-4" .
 <https://n2t.net/ark:/27023/a9a6cf9812bb8a1d9df3e75d3f15c3b6> <https://colonialcollections.nl/schema#name> "Rivier-overgang Karbouwengat" .
@@ -96,20 +136,6 @@
 <https://n2t.net/ark:/27023/a9a35b0c01c6eccf151c3e285ff6a27c> <https://colonialcollections.nl/schema#inscription> "Tjihapit 2603" .
 <https://n2t.net/ark:/27023/a9a35b0c01c6eccf151c3e285ff6a27c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9a35b0c01c6eccf151c3e285ff6a27c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/3" .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#name> "'Bergmeer Oever (Anaka Laoet) te Sabang.'" .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Bergmeer Oever (Anaka Laoet) te Sabang.'" .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#inscription> "'Bergmeer Oever (Anaka Laoet) te Sabang.'" .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9795b86ed95c476d33e30cb50e6dc9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/33" .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#name> "Plaat 33. Rékét Göïp. Punt waar de marechaussees binnendrongen" .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#description> "Foto. Plaat 33. Rékét Göïp. Punt waar de marechaussees binnendrongen." .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#inscription> "Plaat 33. Rékét Göïp. Punt waar de marechaussees binnendrongen" .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a97d1a0e7cca9bb5dfb7f5adcf0c4797> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9542857beaf2c9bdbe2912ef5fe7718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9542857beaf2c9bdbe2912ef5fe7718> <https://colonialcollections.nl/schema#identifier> "2005/07/04-2-5/82" .
 <https://n2t.net/ark:/27023/a9542857beaf2c9bdbe2912ef5fe7718> <https://colonialcollections.nl/schema#name> "Foto uit de periode 1946-1948, Nederlands Indië." .
@@ -536,24 +562,6 @@
 <https://n2t.net/ark:/27023/a9a6f2da3a6807da3d16502c48c27b5e> <https://colonialcollections.nl/schema#description> "Mouwembleem, textiel, Gadja Merah." .
 <https://n2t.net/ark:/27023/a9a6f2da3a6807da3d16502c48c27b5e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9a6f2da3a6807da3d16502c48c27b5e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/71" .
-<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#name> "Soerabaia. Optocht Inlandsche bruiloft Aloon Aloon Tjontong" .
-<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Soerabaia. Optocht Inlandsche bruiloft Aloon Aloon Tjontong. Ongestempeld, zonder postzegel." .
-<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a969fc1951d51284b3f762ae39945577> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-16" .
-<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
-<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
-<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a991ef7428692133a00dabff6e12c047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#identifier> "nf%20486-2" .
-<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#name> "Chinees graf van ene Ka en zijn vrouw." .
-<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#description> "Chinees graf van ene Ka en zijn vrouw.\r\nOp de grafsteen is het jaar 1879 (5de jaar van Kuang Hsü) vermeld." .
-<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a99b3d295d7bce991d910141ae1878f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a952918bf2f271eb84ca3bf90296c5d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a952918bf2f271eb84ca3bf90296c5d2> <https://colonialcollections.nl/schema#identifier> "S%20230-517" .
 <https://n2t.net/ark:/27023/a952918bf2f271eb84ca3bf90296c5d2> <https://colonialcollections.nl/schema#description> "Grafpaal, wordt aan hoofd en voeteneinde van een moslimgraf geplaatst.\r\nHerkomst: Soerabaia, Java." .

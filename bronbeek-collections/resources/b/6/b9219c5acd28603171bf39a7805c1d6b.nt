@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-66" .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#name> "Carte de visite: Crone" .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Crone\"" .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#inscription> "Crone" .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#creator> "Carl Lang Photograph te Buitenzorg (Eiland Java)" .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/947ec914d25cc65f8c17b7bbd22dd0f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/947ec914d25cc65f8c17b7bbd22dd0f0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/027" .
 <https://n2t.net/ark:/27023/947ec914d25cc65f8c17b7bbd22dd0f0> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -6,6 +14,21 @@
 <https://n2t.net/ark:/27023/947ec914d25cc65f8c17b7bbd22dd0f0> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/947ec914d25cc65f8c17b7bbd22dd0f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/947ec914d25cc65f8c17b7bbd22dd0f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1-6" .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#name> "Foto echtpaar Van Meerten-Bik" .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#description> "Foto op karton, carte de visite: de heer en mevrouw Van Meerten-Bik\r\n\r\nfoto van Mr. Henri Charles van Meerten en zijn echtgenote Maria Johanna Clara Cornelia Wilhelmina van Meerten-Bik.\r\n\r\nverso: opgeplakte sticker met persoonsinformatie:\r\nmet pen:\r\nHenri" .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#inscription> "F. Goedeljee hof-photograaf Leiden" .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#creator> "J. Goedeljee" .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/21" .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#name> "Open veld waar militaire (?) voertuigen aan komen rijden" .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#description> "Open veld waar militaire (?) voertuigen aan komen rijden. Links-voor zit een man op z´n hurken." .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/945911b61cec6fb3999edc4ab96a8b4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/945911b61cec6fb3999edc4ab96a8b4b> <https://colonialcollections.nl/schema#identifier> "nf%20882-2" .
 <https://n2t.net/ark:/27023/945911b61cec6fb3999edc4ab96a8b4b> <https://colonialcollections.nl/schema#name> "Kloof van Haran" .
@@ -13,6 +36,14 @@
 <https://n2t.net/ark:/27023/945911b61cec6fb3999edc4ab96a8b4b> <https://colonialcollections.nl/schema#creator> "Luchtvaart-Afdeling van het Nederlands Indisch Leger [Bandoeng]" .
 <https://n2t.net/ark:/27023/945911b61cec6fb3999edc4ab96a8b4b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/945911b61cec6fb3999edc4ab96a8b4b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#identifier> "nf%201334-8" .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#name> "Noordwijk - Batavia" .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Noordwijk - Batavia'\r\n\r\nOpname toont ee" .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#creator> "ROTOGRAVURE DE UNIE" .
 <https://n2t.net/ark:/27023/946b0e10d9f8cc3a300a8c59085a11c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/946b0e10d9f8cc3a300a8c59085a11c8> <https://colonialcollections.nl/schema#identifier> "nf%20522" .
 <https://n2t.net/ark:/27023/946b0e10d9f8cc3a300a8c59085a11c8> <https://colonialcollections.nl/schema#name> "Straatvoorstelling Javaanse Ronggeng i.v.m. Koninginnedag" .
@@ -77,20 +108,6 @@
 <https://n2t.net/ark:/27023/9457876dca1e8f123898cd4a217051dd> <https://colonialcollections.nl/schema#inscription> "Brug bij Tingkir-Tengah Z.O. van Salatiga" .
 <https://n2t.net/ark:/27023/9457876dca1e8f123898cd4a217051dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9457876dca1e8f123898cd4a217051dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-66" .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#name> "Carte de visite: Crone" .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Crone\"" .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#inscription> "Crone" .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9456b9618a13c66f5f474db81191891e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1-6" .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#name> "Foto echtpaar Van Meerten-Bik" .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#description> "Foto op karton, carte de visite: de heer en mevrouw Van Meerten-Bik\r\n\r\nfoto van Mr. Henri Charles van Meerten en zijn echtgenote Maria Johanna Clara Cornelia Wilhelmina van Meerten-Bik.\r\n\r\nverso: opgeplakte sticker met persoonsinformatie:\r\nmet pen:\r\nHenri" .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#inscription> "F. Goedeljee hof-photograaf Leiden" .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/949318ae0ba2546975fa1efaed5fade9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/944bc591b38d81f39313438afd16fc47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/944bc591b38d81f39313438afd16fc47> <https://colonialcollections.nl/schema#identifier> "2015/07/23-1-7" .
 <https://n2t.net/ark:/27023/944bc591b38d81f39313438afd16fc47> <https://colonialcollections.nl/schema#name> "Documenten diensttijd Nederlands-Indië, 1946-1949" .
@@ -535,18 +552,6 @@
 <https://n2t.net/ark:/27023/94923746e6cef05a4f2a1023e3be497f> <https://colonialcollections.nl/schema#description> "Kris in schede. Kling recht. Schede niet bijpassend." .
 <https://n2t.net/ark:/27023/94923746e6cef05a4f2a1023e3be497f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/94923746e6cef05a4f2a1023e3be497f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/21" .
-<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#name> "Open veld waar militaire (?) voertuigen aan komen rijden" .
-<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#description> "Open veld waar militaire (?) voertuigen aan komen rijden. Links-voor zit een man op z´n hurken." .
-<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9450be1a39242b17e6522b36c0d0353f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#identifier> "nf%201334-8" .
-<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#name> "Noordwijk - Batavia" .
-<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Noordwijk - Batavia'\r\n\r\nOpname toont ee" .
-<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/94604dd7dd8ace84c71ff671f80c95d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/945725cae2e477456a22a985e86546ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/945725cae2e477456a22a985e86546ab> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42021" .
 <https://n2t.net/ark:/27023/945725cae2e477456a22a985e86546ab> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tlans\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 216,4 cm\r\nMedia:\t2554\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2554] Depot, wand, t/o kast 12-13 [wand t/o kast 12-13]" .
@@ -595,5 +600,6 @@
 <https://n2t.net/ark:/27023/944c7f89f10008156f879c8a664bf839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/944c7f89f10008156f879c8a664bf839> <https://colonialcollections.nl/schema#identifier> "S%204184-3" .
 <https://n2t.net/ark:/27023/944c7f89f10008156f879c8a664bf839> <https://colonialcollections.nl/schema#name> "De hoofdstoepa" .
+<https://n2t.net/ark:/27023/944c7f89f10008156f879c8a664bf839> <https://colonialcollections.nl/schema#creator> "Jan Poortenaar" .
 <https://n2t.net/ark:/27023/944c7f89f10008156f879c8a664bf839> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/944c7f89f10008156f879c8a664bf839> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

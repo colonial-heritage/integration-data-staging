@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/124" .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#name> "Plaat 124. Woonhuizen in Hoeta Galong." .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 124. Woonhuizen in Hoeta Galong." .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#inscription> "Plaat 124. Woonhuizen in Hoeta Galong." .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3e773397c3422d000e563433ebd6ad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3e773397c3422d000e563433ebd6ad5> <https://colonialcollections.nl/schema#identifier> "1977/03-1-43" .
 <https://n2t.net/ark:/27023/d3e773397c3422d000e563433ebd6ad5> <https://colonialcollections.nl/schema#name> "Prauwvoerder met wit baadje" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/d3e773397c3422d000e563433ebd6ad5> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/d3e773397c3422d000e563433ebd6ad5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d3e773397c3422d000e563433ebd6ad5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/80" .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. View on the plains of Leles - Gezicht op de vlakte van Leles" .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. View on the plains of Leles - Gezicht op de vlakte van Leles. No. 1130." .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#creator> "Arw-Kiekjes van Java's Land en Volk." .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <https://colonialcollections.nl/schema#identifier> "nf%201408-28" .
 <https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <https://colonialcollections.nl/schema#name> "Bandar Baroe - Petani Waterval" .
@@ -12,6 +27,7 @@
 <https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d3fe578dca522db8732433818a5e01ab> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/d4043e84ae64bfb4f0cf15787aaa86de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d4043e84ae64bfb4f0cf15787aaa86de> <https://colonialcollections.nl/schema#identifier> "2010/10/06-3/4" .
 <https://n2t.net/ark:/27023/d4043e84ae64bfb4f0cf15787aaa86de> <https://colonialcollections.nl/schema#name> "Foto, een van 22 stuks, carte de visite, interieurs en groepsfoto's" .
@@ -30,10 +46,10 @@
 <https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/59" .
 <https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#name> "Soerabaja. Residentiehuis" .
 <https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Soerabaja. Residentiehuis. Gestempeld en postzegel." .
-<https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
+<https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
+<https://n2t.net/ark:/27023/d41e514ae0ab544f4138a0d0c5cc9fff> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/d3deaf249edbfd4507000a141e101d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3deaf249edbfd4507000a141e101d21> <https://colonialcollections.nl/schema#identifier> "nf%201374-64" .
 <https://n2t.net/ark:/27023/d3deaf249edbfd4507000a141e101d21> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname toont een inpakruimte. Onder een dak, vermoedelijk een zinkplatendak, op eenvoudige stutten zijn inheemse werkkrachten aan het werk.\r\nEr is een bascule te zien met een kubusachtige kist erop. De mannen di" .
@@ -72,13 +88,6 @@
 <https://n2t.net/ark:/27023/d419f113d7c9a7e5b6dc34e4d29e366d> <https://colonialcollections.nl/schema#inscription> "Honi soit que mal y pense" .
 <https://n2t.net/ark:/27023/d419f113d7c9a7e5b6dc34e4d29e366d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d419f113d7c9a7e5b6dc34e4d29e366d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/124" .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#name> "Plaat 124. Woonhuizen in Hoeta Galong." .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 124. Woonhuizen in Hoeta Galong." .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#inscription> "Plaat 124. Woonhuizen in Hoeta Galong." .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d4068d6ec72fed44f5ce31b0354eaab6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3dab818cbaec9989ba5a984317d7670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3dab818cbaec9989ba5a984317d7670> <https://colonialcollections.nl/schema#identifier> "1989/01/01-35-5/4" .
 <https://n2t.net/ark:/27023/d3dab818cbaec9989ba5a984317d7670> <https://colonialcollections.nl/schema#name> "Kamptekening leven in vrouwenkampen \"Gedangan, De dierbare toren \"buiten\" ons enige uitzicht, 1943\"" .
@@ -517,12 +526,6 @@
 <https://n2t.net/ark:/27023/d41cc034ed2edb316b7a61ae5193b4b8> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van diensttijd korporaal L. Krijnen 1946-1949.\r\nVeel militairen op het scheepsdek [van waarschijnlijk M.S. Sloterdijk], terwijl er land in zicht is." .
 <https://n2t.net/ark:/27023/d41cc034ed2edb316b7a61ae5193b4b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d41cc034ed2edb316b7a61ae5193b4b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/80" .
-<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. View on the plains of Leles - Gezicht op de vlakte van Leles" .
-<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. View on the plains of Leles - Gezicht op de vlakte van Leles. No. 1130." .
-<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d3fd33bac7211e1d3f9a61cc89924cb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3e42157c900b4d2cba4e9ba921f5250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3e42157c900b4d2cba4e9ba921f5250> <https://colonialcollections.nl/schema#identifier> "nf%201414-58" .
 <https://n2t.net/ark:/27023/d3e42157c900b4d2cba4e9ba921f5250> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 58, staat vermeld: 10-36 Boroboedoer\r\n\r\nOpname toont een drietal blanke personen, waarvan de meest linkse op de rand van een koepel zit. De twee andere " .
@@ -573,6 +576,11 @@
 <https://n2t.net/ark:/27023/d41994db7db9bfc6e889dc5c82e22984> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen. \r\n\r\nOpname toont een blanke man in het wit met hoed op, die iets geeft met uitgestrekte arm aan een jonge olifant die op zijn achterste zit en z" .
 <https://n2t.net/ark:/27023/d41994db7db9bfc6e889dc5c82e22984> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d41994db7db9bfc6e889dc5c82e22984> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#identifier> "nf%20323-31-3" .
+<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3e9e07295b0fd18f4b83cfa4f7a6ff4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3e9e07295b0fd18f4b83cfa4f7a6ff4> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/433" .
 <https://n2t.net/ark:/27023/d3e9e07295b0fd18f4b83cfa4f7a6ff4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -585,7 +593,3 @@
 <https://n2t.net/ark:/27023/d4020b02c9afbac88d45921b7b6d048b> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/179" .
 <https://n2t.net/ark:/27023/d4020b02c9afbac88d45921b7b6d048b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d4020b02c9afbac88d45921b7b6d048b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#identifier> "nf%20323-31-3" .
-<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d3f007b75f97ddb95f0b3ef5fa26148a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

@@ -14,6 +14,14 @@
 <https://n2t.net/ark:/27023/15804c8db998766038849fa624a3f222> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/15804c8db998766038849fa624a3f222> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/15804c8db998766038849fa624a3f222> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/252" .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue (service dress) Tweede Luitenant Pioniers Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#description> "Jas, service dress, van groene wol met liggende kraag en revers, schouderlappen. Op de jas twee opgenaaide borstzakken met stolpplooi en accoladevormige zakkleppen en twee harmonikazakken op de schoot met rechte zakkleppen. De schouderlappen en zakkenklep" .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#inscription> "Maison Jordi & Cie" .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#creator> "Maison Jordi & Cie." .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/15b4caab56a425b4d574a53c5f71d7fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/15b4caab56a425b4d574a53c5f71d7fe> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-89" .
 <https://n2t.net/ark:/27023/15b4caab56a425b4d574a53c5f71d7fe> <https://colonialcollections.nl/schema#name> "Carte de visite:  Proessler (?)" .
@@ -43,13 +51,22 @@
 <https://n2t.net/ark:/27023/15847bb025c06a06993301b12b66d95d> <https://colonialcollections.nl/schema#creator> "W.& S.H." .
 <https://n2t.net/ark:/27023/15847bb025c06a06993301b12b66d95d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/15847bb025c06a06993301b12b66d95d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/15847bb025c06a06993301b12b66d95d> <https://colonialcollections.nl/schema#creator> "N.V. H.V.Maresch, Magelang" .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-3/3" .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#name> "Groep van zeven inheemse vrouwen" .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#description> "Foto. Groep van zeven (7) inheemse vrouwen met enkele kleine kinderen." .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#creator> "Kino-Foto-Huis Würffel" .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/8" .
 <https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
 <https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Op achterzijde:  \"NIWIN\": Masker, gebruikt bij maskerdansen in Bali." .
-<https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1588a75a5e36f1847ac30d3280b95016> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/15996c5c28915f76c673dc8624e6c2e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/15996c5c28915f76c673dc8624e6c2e1> <https://colonialcollections.nl/schema#identifier> "1874/08-2/25" .
 <https://n2t.net/ark:/27023/15996c5c28915f76c673dc8624e6c2e1> <https://colonialcollections.nl/schema#name> "Nr. 25: Algemeene staf in den kraton, uit ´Vierendertig gezichten op Atjeh´" .
@@ -57,6 +74,20 @@
 <https://n2t.net/ark:/27023/15996c5c28915f76c673dc8624e6c2e1> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/15996c5c28915f76c673dc8624e6c2e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/15996c5c28915f76c673dc8624e6c2e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/13" .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#name> "Stalletje met Pisang Batavia" .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Stalletje met Pisang Batavia." .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#creator> "Japansche Toko K. Shimane" .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#identifier> "1996/06/17-2/1" .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#name> "Vooraanzicht Hoofdgebouw en Commandantswoning met 3 bewoners op voorgrond" .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Bronbeek. Vooraanzicht Hoofdgebouw en Commandantswoning met 3 bewoners op voorgrond. Voor 1924.\r\n\"Editeur J.H. Schaefer, Amsterdam No. Bro 1 Deposé. Bronbeek\"" .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#creator> "J.H. Schaefer" .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/15834724c34019116fa96b09c0b48298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/15834724c34019116fa96b09c0b48298> <https://colonialcollections.nl/schema#identifier> "nf%20842-407" .
 <https://n2t.net/ark:/27023/15834724c34019116fa96b09c0b48298> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 01 t/m 36. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 08, in pot" .
@@ -120,13 +151,6 @@
 <https://n2t.net/ark:/27023/15b6e33ab199b5e6449403a30859e17c> <https://colonialcollections.nl/schema#inscription> "US Legitimus 1942; EW" .
 <https://n2t.net/ark:/27023/15b6e33ab199b5e6449403a30859e17c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/15b6e33ab199b5e6449403a30859e17c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/252" .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue (service dress) Tweede Luitenant Pioniers Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#description> "Jas, service dress, van groene wol met liggende kraag en revers, schouderlappen. Op de jas twee opgenaaide borstzakken met stolpplooi en accoladevormige zakkleppen en twee harmonikazakken op de schoot met rechte zakkleppen. De schouderlappen en zakkenklep" .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#inscription> "Maison Jordi & Cie" .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/15962a7bf5621bd5bc56920a19bd3ac8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1572594b4ec0ab0fb319e28cb63853a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1572594b4ec0ab0fb319e28cb63853a7> <https://colonialcollections.nl/schema#identifier> "2014/11/06-1-1/167" .
 <https://n2t.net/ark:/27023/1572594b4ec0ab0fb319e28cb63853a7> <https://colonialcollections.nl/schema#name> "foto" .
@@ -535,24 +559,6 @@
 <https://n2t.net/ark:/27023/15bed1f3404635f39f6cfa621766de96> <https://colonialcollections.nl/schema#description> "Pijl van riet met een houten punt. \r\nToestand: goed." .
 <https://n2t.net/ark:/27023/15bed1f3404635f39f6cfa621766de96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/15bed1f3404635f39f6cfa621766de96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-3/3" .
-<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#name> "Groep van zeven inheemse vrouwen" .
-<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#description> "Foto. Groep van zeven (7) inheemse vrouwen met enkele kleine kinderen." .
-<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/158662fa88f01f2d472713c415347fa7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/13" .
-<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#name> "Stalletje met Pisang Batavia" .
-<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Stalletje met Pisang Batavia." .
-<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/15b6a82b419b8ad7be18f837c90126f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#identifier> "1996/06/17-2/1" .
-<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#name> "Vooraanzicht Hoofdgebouw en Commandantswoning met 3 bewoners op voorgrond" .
-<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Bronbeek. Vooraanzicht Hoofdgebouw en Commandantswoning met 3 bewoners op voorgrond. Voor 1924.\r\n\"Editeur J.H. Schaefer, Amsterdam No. Bro 1 Deposé. Bronbeek\"" .
-<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/15bdc8dde7e42490565c2f828c0c6d50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/157f50b68e44f1826036b20a7d95a26d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/157f50b68e44f1826036b20a7d95a26d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41858" .
 <https://n2t.net/ark:/27023/157f50b68e44f1826036b20a7d95a26d> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tstok\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, geschaafd\r\nEmailadres: toelichting:\tDe stok is gemaakt van gevlamd hout.\r\nAfmetingen:\tL 95, Diam 3.9\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2391\r\nBruikleen van:\tGem" .

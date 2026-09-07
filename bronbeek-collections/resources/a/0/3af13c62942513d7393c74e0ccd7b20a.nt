@@ -14,6 +14,13 @@
 <https://n2t.net/ark:/27023/8689d77e542aa35034ed98ee8e393cde> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/8689d77e542aa35034ed98ee8e393cde> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8689d77e542aa35034ed98ee8e393cde> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/126" .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#name> "Weaving Cloth in Bali" .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Weaving Cloth in Bali" .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/868d50d6f686a96ed0345426b735529f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/868d50d6f686a96ed0345426b735529f> <https://colonialcollections.nl/schema#identifier> "nf%20842-125" .
 <https://n2t.net/ark:/27023/868d50d6f686a96ed0345426b735529f> <https://colonialcollections.nl/schema#name> "Landschap met rijstvelden, West-Java" .
@@ -28,6 +35,13 @@
 <https://n2t.net/ark:/27023/868ff1a8b5b9f5b7ef99079bab5761ee> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/868ff1a8b5b9f5b7ef99079bab5761ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/868ff1a8b5b9f5b7ef99079bab5761ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-98" .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#name> "Portret van G. Buijs en vrouw." .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#description> "Foto. Portret van G. Buys en vrouw.\r\nTan Peng An, te Makassar" .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#creator> "Tan Peng An, te Makassar" .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/86975ae275b1ec56d7eb8d2b0e5c187c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/86975ae275b1ec56d7eb8d2b0e5c187c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/277" .
 <https://n2t.net/ark:/27023/86975ae275b1ec56d7eb8d2b0e5c187c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -35,12 +49,27 @@
 <https://n2t.net/ark:/27023/86975ae275b1ec56d7eb8d2b0e5c187c> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/86975ae275b1ec56d7eb8d2b0e5c187c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/86975ae275b1ec56d7eb8d2b0e5c187c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#identifier> "nf%20773" .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#name> "Bandoeng. Sluis in de Tjikapoendoeng." .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de sluis in de Tjikapoendoeng te Bandoeng.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Bandoeng. Sluis in de Tjikapoendoeng.'\r\n\r\ngedeelde achterkant met bovenaan (in het bruin) onder elkaar vermeld 'BRIEFKAART / Carte Po" .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-3" .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#name> "Plaat C uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#description> "Tekening \"C\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1.Dutch infantry 2nd Lt, 1941/42\r\n1a. Rank insignia captai" .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#creator> "Adam Hook" .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <https://colonialcollections.nl/schema#identifier> "nf%201430-18" .
 <https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 33/33A.\r\n\r\nOpname toont een steile helling, flink begroeid. Er is een afrastering aangebracht van gevlochten gekapte stammetjes. Bovenin zi" .
 <https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8685a75a1c95aa0b1045dc075995863e> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/868d1845dab6b2e0942a2828f361d803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/868d1845dab6b2e0942a2828f361d803> <https://colonialcollections.nl/schema#identifier> "nf%20789-31" .
 <https://n2t.net/ark:/27023/868d1845dab6b2e0942a2828f361d803> <https://colonialcollections.nl/schema#description> "Foto van groep poserende jonge serimpidansers en/of wajang wong spelers.\r\nEnkele dragen sarongs met 'parang rusak' motief en een kris op hun rug." .
@@ -545,30 +574,6 @@
 <https://n2t.net/ark:/27023/86c86ca441155636492cf60c9c0f2ca7> <https://colonialcollections.nl/schema#description> "Foto's uit diensttijd Nederland - Nederlands-Indië, periode 1945 - 1949.\r\nVliegtuigen, schepen en havens, Nederlandse militairen aan boord en aan land, met auto's, lokale bevolking, erebegraafplaats (Soerabaja), landschappen, stadsgezichten. Veel duplicat" .
 <https://n2t.net/ark:/27023/86c86ca441155636492cf60c9c0f2ca7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/86c86ca441155636492cf60c9c0f2ca7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/126" .
-<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#name> "Weaving Cloth in Bali" .
-<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Weaving Cloth in Bali" .
-<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86861b6e453bd6e5e8d57cb1907c3d4f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-98" .
-<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#name> "Portret van G. Buijs en vrouw." .
-<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#description> "Foto. Portret van G. Buys en vrouw.\r\nTan Peng An, te Makassar" .
-<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8691946a89be24ca632233b12a772aff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#identifier> "nf%20773" .
-<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#name> "Bandoeng. Sluis in de Tjikapoendoeng." .
-<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de sluis in de Tjikapoendoeng te Bandoeng.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Bandoeng. Sluis in de Tjikapoendoeng.'\r\n\r\ngedeelde achterkant met bovenaan (in het bruin) onder elkaar vermeld 'BRIEFKAART / Carte Po" .
-<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86b14f24f562ab5572af9dff5da42cb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-3" .
-<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#name> "Plaat C uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
-<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#description> "Tekening \"C\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1.Dutch infantry 2nd Lt, 1941/42\r\n1a. Rank insignia captai" .
-<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86c53f7b4e22bd47c8ffcfe8fb6d87cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8683644925c7f8e87cfc986c3848aba9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8683644925c7f8e87cfc986c3848aba9> <https://colonialcollections.nl/schema#identifier> "nf%20928-6-1" .
 <https://n2t.net/ark:/27023/8683644925c7f8e87cfc986c3848aba9> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt, zonder bijschrift\r\n\r\nOpname toont een vijftal mannen, een vrouw en een kind, posereend voor de foto. Zij staan  voor een auto uit de eerste helft van de 20-ste eeuw met kenteken BK 2525. Drie van de vijf heren zijn" .
@@ -602,5 +607,6 @@
 <https://n2t.net/ark:/27023/86b266d252919ae8209503f8fd01205c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/86b266d252919ae8209503f8fd01205c> <https://colonialcollections.nl/schema#identifier> "2005/00-127" .
 <https://n2t.net/ark:/27023/86b266d252919ae8209503f8fd01205c> <https://colonialcollections.nl/schema#name> "Sawahlandschap met vulkaan" .
+<https://n2t.net/ark:/27023/86b266d252919ae8209503f8fd01205c> <https://colonialcollections.nl/schema#creator> "H. Widjaja" .
 <https://n2t.net/ark:/27023/86b266d252919ae8209503f8fd01205c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/86b266d252919ae8209503f8fd01205c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

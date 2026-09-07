@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-111" .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#name> "Carte de visite: Storkenbeker, directeur onderwijs" .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Storkenbeker, Dir. onderwijs" .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#inscription> "Storkenbeker, Dir. onderwijs" .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#creator> "M.Verveer Photographe de L.L.M. le Roi et la Reine des Pays Bas" .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b7407e25198bac60970c60cfa724fa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b7407e25198bac60970c60cfa724fa9> <https://colonialcollections.nl/schema#identifier> "nf%20705-1" .
 <https://n2t.net/ark:/27023/5b7407e25198bac60970c60cfa724fa9> <https://colonialcollections.nl/schema#name> "'Ombilin rivier bij Sinkarak meer'" .
@@ -16,9 +24,10 @@
 <https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#identifier> "nf%201408-61" .
 <https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#name> "Soengei-Krio-Estate Administrateurshuis" .
 <https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#description> "afbeelding toont een maar gedeeltelijk te zien indrukwekkend gebouw. Drie verdiepingen tellend, ongewoon in de tropen. De bovenste etage, het dak, met links daaruitstekend een klein torentje. met uurwerk.\r\nVoor het huis een rondgaande weg met daarbinnen e" .
-<https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5b98ef8127b8753b722807139ac6ee32> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/5b9d91a0d2141d048e1bbe9d851eb693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b9d91a0d2141d048e1bbe9d851eb693> <https://colonialcollections.nl/schema#identifier> "nf%20842-45" .
 <https://n2t.net/ark:/27023/5b9d91a0d2141d048e1bbe9d851eb693> <https://colonialcollections.nl/schema#name> "Rivier bij Perak, Oost-Java" .
@@ -26,6 +35,20 @@
 <https://n2t.net/ark:/27023/5b9d91a0d2141d048e1bbe9d851eb693> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/5b9d91a0d2141d048e1bbe9d851eb693> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b9d91a0d2141d048e1bbe9d851eb693> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/4-5" .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#name> "Prentbriefkaart cartoon van de Mariniersbrigade" .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#description> "Prentbriefkaart cartoon van de Mariniersbrigade. \"Kijk Jan, de Paashaas....\"" .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#creator> "André Tigchelaar" .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/115" .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: E.C. van Swieten (midden) met broers ; E.C. van Swieten (midden) 1859-1946 met broers.\r\nFotograaf: C.P. Wollrabe, 's Gravenhage." .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5bacb09064dfed546cb74dbbf5d1f4aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5bacb09064dfed546cb74dbbf5d1f4aa> <https://colonialcollections.nl/schema#identifier> "nf%20619-14" .
 <https://n2t.net/ark:/27023/5bacb09064dfed546cb74dbbf5d1f4aa> <https://colonialcollections.nl/schema#name> "Militair hospitaal Tjimahi 1e afdeling" .
@@ -33,6 +56,13 @@
 <https://n2t.net/ark:/27023/5bacb09064dfed546cb74dbbf5d1f4aa> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5bacb09064dfed546cb74dbbf5d1f4aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bacb09064dfed546cb74dbbf5d1f4aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/15" .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#name> "Ranoe Pani" .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ranoe Pani" .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b79469f9b0b917d1507b12525eaa628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b79469f9b0b917d1507b12525eaa628> <https://colonialcollections.nl/schema#identifier> "nf%20842-404" .
 <https://n2t.net/ark:/27023/5b79469f9b0b917d1507b12525eaa628> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 01 t/m 36. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 05, in pot" .
@@ -57,6 +87,12 @@
 <https://n2t.net/ark:/27023/5bb0466280872d298d566c6308c42f63> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/5bb0466280872d298d566c6308c42f63> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bb0466280872d298d566c6308c42f63> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#identifier> "EDO%20481-80" .
+<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname, helaas van te veraf, van een weg rechts en een vijver links. Meer naar achter wat bouwwerken die niet zijn te identificeren.\r\n\r\nMogelijk dat deze opname nog betrekking heeft tot het waterpalei" .
+<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b7fb5f977ac567e0ffa53042884ff80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b7fb5f977ac567e0ffa53042884ff80> <https://colonialcollections.nl/schema#identifier> "2002/02/04-3-1" .
 <https://n2t.net/ark:/27023/5b7fb5f977ac567e0ffa53042884ff80> <https://colonialcollections.nl/schema#name> "Instructiewandkaart 'Tankbüchse Solo S18-1000 Waffenfabrik Solothurn A.G.'" .
@@ -71,13 +107,6 @@
 <https://n2t.net/ark:/27023/5b8857ddf45375fc820c59ead1f6e383> <https://colonialcollections.nl/schema#inscription> "Hembrug 1918" .
 <https://n2t.net/ark:/27023/5b8857ddf45375fc820c59ead1f6e383> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b8857ddf45375fc820c59ead1f6e383> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-111" .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#name> "Carte de visite: Storkenbeker, directeur onderwijs" .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Storkenbeker, Dir. onderwijs" .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#inscription> "Storkenbeker, Dir. onderwijs" .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5b9cb0a85dfdfce212d81857fb2d126b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b70c6e5db7df7b0989dee3a8410080a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b70c6e5db7df7b0989dee3a8410080a> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-7/1" .
 <https://n2t.net/ark:/27023/5b70c6e5db7df7b0989dee3a8410080a> <https://colonialcollections.nl/schema#name> "Knoop KNIL" .
@@ -480,24 +509,6 @@
 <https://n2t.net/ark:/27023/5bb34bd9cb1577037c02286418157a63> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit." .
 <https://n2t.net/ark:/27023/5bb34bd9cb1577037c02286418157a63> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bb34bd9cb1577037c02286418157a63> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/4-5" .
-<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#name> "Prentbriefkaart cartoon van de Mariniersbrigade" .
-<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#description> "Prentbriefkaart cartoon van de Mariniersbrigade. \"Kijk Jan, de Paashaas....\"" .
-<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5ba40b2a3f3b35ee6f4a9efb8ffa8380> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/115" .
-<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: E.C. van Swieten (midden) met broers ; E.C. van Swieten (midden) 1859-1946 met broers.\r\nFotograaf: C.P. Wollrabe, 's Gravenhage." .
-<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5baaa59cd3664d71a31d6f84605fb254> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/15" .
-<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#name> "Ranoe Pani" .
-<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ranoe Pani" .
-<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5bb1867ee3e8f6d87f82b825ab9582fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b743448f553d3912fba74e1ba32d0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b743448f553d3912fba74e1ba32d0b4> <https://colonialcollections.nl/schema#identifier> "nf%20899-75" .
 <https://n2t.net/ark:/27023/5b743448f553d3912fba74e1ba32d0b4> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nGroepsfoto van een drietal mannen en drie meisjes. Twee oudere heren met baard of sik en een wat jongere man met bril. De meisjes hebben alle dir een hoedje op.\r\n\r\nHet rechtse meisje en de middelste man zijn te herkennen  " .
@@ -578,11 +589,6 @@
 <https://n2t.net/ark:/27023/5bb161153d441509b4ab85e3d21477ff> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
 <https://n2t.net/ark:/27023/5bb161153d441509b4ab85e3d21477ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bb161153d441509b4ab85e3d21477ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#identifier> "EDO%20481-80" .
-<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname, helaas van te veraf, van een weg rechts en een vijver links. Meer naar achter wat bouwwerken die niet zijn te identificeren.\r\n\r\nMogelijk dat deze opname nog betrekking heeft tot het waterpalei" .
-<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5bb50c320b4864a18ec6be8efd750dbe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5ba1cec3fc4b47c8750f6acb22304bc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5ba1cec3fc4b47c8750f6acb22304bc1> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43104" .
 <https://n2t.net/ark:/27023/5ba1cec3fc4b47c8750f6acb22304bc1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

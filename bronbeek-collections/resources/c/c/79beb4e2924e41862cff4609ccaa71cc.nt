@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#identifier> "1989/01/01-2-2" .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#name> "141. Hekwieler op de Palembang Rivier" .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#description> "Schoolplaat. 141. Hekwieler op de Palembang Rivier. Gereproduceerd door Kleynenberg en Co, Haarlem. In goede staat." .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#inscription> "141. Hekwieler op de Palembang Rivier" .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/2" .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/155" .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nMilitaire voertuigen op een weg." .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8464fe0c109763067ed3eee89903260c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8464fe0c109763067ed3eee89903260c> <https://colonialcollections.nl/schema#identifier> "nf%201413-232" .
 <https://n2t.net/ark:/27023/8464fe0c109763067ed3eee89903260c> <https://colonialcollections.nl/schema#name> "Meting met de verticaalvariometer" .
@@ -5,6 +28,13 @@
 <https://n2t.net/ark:/27023/8464fe0c109763067ed3eee89903260c> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/8464fe0c109763067ed3eee89903260c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8464fe0c109763067ed3eee89903260c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/34" .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#name> "Straatbeeld met ossenkar" .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <https://colonialcollections.nl/schema#identifier> "nf%201408-46" .
 <https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <https://colonialcollections.nl/schema#name> "PARA  RUBBER - FRUCHT & ZAAD-NOOT" .
@@ -12,6 +42,7 @@
 <https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/849743fec72f36c4eaf92763c8d52c37> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/84a4c8dd87ee5c058617304a269497d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84a4c8dd87ee5c058617304a269497d9> <https://colonialcollections.nl/schema#identifier> "nf%201490" .
 <https://n2t.net/ark:/27023/84a4c8dd87ee5c058617304a269497d9> <https://colonialcollections.nl/schema#name> "Papoea's met pijl en boog" .
@@ -87,13 +118,6 @@
 <https://n2t.net/ark:/27023/848bdfe54c10f14703298e7765474e9e> <https://colonialcollections.nl/schema#inscription> "Himpoenlah kertas apiapi no.209" .
 <https://n2t.net/ark:/27023/848bdfe54c10f14703298e7765474e9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/848bdfe54c10f14703298e7765474e9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#identifier> "1989/01/01-2-2" .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#name> "141. Hekwieler op de Palembang Rivier" .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#description> "Schoolplaat. 141. Hekwieler op de Palembang Rivier. Gereproduceerd door Kleynenberg en Co, Haarlem. In goede staat." .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#inscription> "141. Hekwieler op de Palembang Rivier" .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8472b6281c39ae243ffdb098e85bf11a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/845f780d0338662ab340fecd0025bda6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/845f780d0338662ab340fecd0025bda6> <https://colonialcollections.nl/schema#identifier> "2013/01/17-1-2" .
 <https://n2t.net/ark:/27023/845f780d0338662ab340fecd0025bda6> <https://colonialcollections.nl/schema#name> "Landkaart in map \"Petundjak Djalan Raya Djawa-Madura-Bali\"" .
@@ -514,24 +538,6 @@
 <https://n2t.net/ark:/27023/84a28d244b9b2e03dc9e0a47a741c15c> <https://colonialcollections.nl/schema#description> "Foto ' Oefening te la Courtine (Fr)'. Totaal 15 foto's (inv.nrs 1999/08/25-1-55/1 t/m 1999/08/25-1-55/15)." .
 <https://n2t.net/ark:/27023/84a28d244b9b2e03dc9e0a47a741c15c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/84a28d244b9b2e03dc9e0a47a741c15c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/2" .
-<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
-<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
-<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/845e93dcc0028b5d2af12fc4b91ea636> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/155" .
-<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nMilitaire voertuigen op een weg." .
-<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/845eca351cc284d79c8606645d10aac6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/34" .
-<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#name> "Straatbeeld met ossenkar" .
-<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
-<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/846ce968261b6fdafaf1ddd7443ed56b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8463262b56f22ae64a1bf94a4ac997be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8463262b56f22ae64a1bf94a4ac997be> <https://colonialcollections.nl/schema#identifier> "1996/05/02-1-5/204" .
 <https://n2t.net/ark:/27023/8463262b56f22ae64a1bf94a4ac997be> <https://colonialcollections.nl/schema#description> "Foto." .

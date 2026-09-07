@@ -9,9 +9,24 @@
 <https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#identifier> "nf%201473-11" .
 <https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#name> "Een der kratermeren op het Diëng Plateau, Java" .
 <https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 46. EEN DER KRATERMEREN OP HET DIENG PLATEAU. JAVA.\r\nGeschreven: Telaga Pangilan.\r\n\r\nOpname toont een ber" .
-<https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e6d3d749caa9b6988d6f3ddf588f6ab4> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/212" .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van C.L. van Swieten-Straeter.\r\nVerso: ('L.C.' en 'W' doorgestreept) C.L. v. Swieten-Straeter." .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#creator> "Kameke" .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-197/4" .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor N.L.W. van Straten, RMWO-4" .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van generaal-majoor N.L.W. van Straten RMWO-4, commandant van Bronbeek 1946-1955.\r\nVerso, handgeschreven: 'Generaal Majoor, M.W.O.4. N.L.W. van Straten Comdt. Bronbeek 1946-1955.'\r\nOp bijgevoegde enveloppe staat in rode stift het n" .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e6d3404116a86212af199848d1110436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e6d3404116a86212af199848d1110436> <https://colonialcollections.nl/schema#identifier> "nf%20618" .
 <https://n2t.net/ark:/27023/e6d3404116a86212af199848d1110436> <https://colonialcollections.nl/schema#description> "Groep westerse mannen in ruimte\r\n(niet origineel maar foto van foto)" .
@@ -530,18 +545,6 @@
 <https://n2t.net/ark:/27023/e70b0d37a1e0aa74df30d898f7716875> <https://colonialcollections.nl/schema#description> "Embleem, mouwembleem, T-brigade: \"Cordesius & Zonen Batavia C.\"" .
 <https://n2t.net/ark:/27023/e70b0d37a1e0aa74df30d898f7716875> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e70b0d37a1e0aa74df30d898f7716875> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/212" .
-<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van C.L. van Swieten-Straeter.\r\nVerso: ('L.C.' en 'W' doorgestreept) C.L. v. Swieten-Straeter." .
-<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e6f5db5f1e6dfc58370e91a99f8c349d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-197/4" .
-<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor N.L.W. van Straten, RMWO-4" .
-<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van generaal-majoor N.L.W. van Straten RMWO-4, commandant van Bronbeek 1946-1955.\r\nVerso, handgeschreven: 'Generaal Majoor, M.W.O.4. N.L.W. van Straten Comdt. Bronbeek 1946-1955.'\r\nOp bijgevoegde enveloppe staat in rode stift het n" .
-<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e70398e5d436dc5cb89719bbe917205f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e6d35f7d41afb33e4190d9b05dc861b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e6d35f7d41afb33e4190d9b05dc861b1> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42737" .
 <https://n2t.net/ark:/27023/e6d35f7d41afb33e4190d9b05dc861b1> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tvingerring\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tglas, zilver\r\n\tgesmeed, verzilverd\r\nEmailadres: toelichting:\tDe ring (binnenmaat: Diam 1,7) bestaat uit een smalle, gladde strook koper," .

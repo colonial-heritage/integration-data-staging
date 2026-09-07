@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/93f7506739042185f8c3409d90ee96c3> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/93f7506739042185f8c3409d90ee96c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/93f7506739042185f8c3409d90ee96c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#identifier> "1998/08/06-2-4" .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#name> "Bomen, dorp en water" .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#description> "Schilderij \"Bomen, dorp en water\". Gesigneerd : \"D. Djaiamihardja\". Waterverf in lijst, in passepartout." .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#creator> "D. Djaiamihardja" .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/93bd9d93cf8bb096c355aa5cd7367ed1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/93bd9d93cf8bb096c355aa5cd7367ed1> <https://colonialcollections.nl/schema#identifier> "nf%20580-9" .
 <https://n2t.net/ark:/27023/93bd9d93cf8bb096c355aa5cd7367ed1> <https://colonialcollections.nl/schema#name> "Benedenstad Batavia" .
@@ -13,6 +20,20 @@
 <https://n2t.net/ark:/27023/93bd9d93cf8bb096c355aa5cd7367ed1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/93bd9d93cf8bb096c355aa5cd7367ed1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/93bd9d93cf8bb096c355aa5cd7367ed1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/7" .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: The Suez Canal. Crossing one of the Mighty Dredgers at Toussoum. 319" .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"The Suez Canal. Crossing one of the Mighty Dredgers at Toussoum. 319\"" .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#creator> "The Oriental Commercial Bureau Port Saïd" .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#identifier> "1971/01/15-10" .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#name> "Rijdende Artillerie.  Marschtenue.   1897." .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#description> "Kleurenreproductie: Rijdende Artillerie in marstenue, 1897\r\nVoorheen ingelijst." .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/93cedf2f3de17d14e30ae7fa1c7b3f03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/93cedf2f3de17d14e30ae7fa1c7b3f03> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/206" .
 <https://n2t.net/ark:/27023/93cedf2f3de17d14e30ae7fa1c7b3f03> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -32,9 +53,10 @@
 <https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#identifier> "nf%20677-9" .
 <https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#name> "Indische schaduwspelfiguren" .
 <https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#description> "Ansichtkaart, in kleur, rechthoekig, aan bovenkant opgeplakt.\r\n\r\nOnder de kaart (kaarten) is tekst getypt: INDISCHE SCHADUWSPELFIGUREN. TANJORE. Puppentheatersammlung der Stadt München. 1968\r\n\r\nAchterop de kaart staat gedrukt: PUPPENTHEATERSAMMLUNG DER ST" .
-<https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#creator> "Stadtmuseum (München)" .
 <https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/93e999ac5f3a13438315469ddb4fcc85> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/93b39907f225f9796af7c4e7d36b0037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/93b39907f225f9796af7c4e7d36b0037> <https://colonialcollections.nl/schema#identifier> "nf%20789-32" .
 <https://n2t.net/ark:/27023/93b39907f225f9796af7c4e7d36b0037> <https://colonialcollections.nl/schema#description> "Foto van groep poserende jonge serimpidansers en/of wajang wong spelers.\r\nEnkele dragen sarongs met 'parang rusak' motief. De twee danseressen zittend links- en rechtsvoor dragen op hun rug een kris en hebben en pijl en boog vast." .
@@ -521,24 +543,6 @@
 <https://n2t.net/ark:/27023/93f9e5d88afee78240b0a9e9fcf75c7c> <https://colonialcollections.nl/schema#description> "Bruin mapje met twee trouwkaarten gedateerd 28 mei 1919 en twee menukaartjes. Eén gedateerd 17 juni 1919, de andere 9 augustus 1893. Op de omslag van het mapje wapen met monogram VC" .
 <https://n2t.net/ark:/27023/93f9e5d88afee78240b0a9e9fcf75c7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/93f9e5d88afee78240b0a9e9fcf75c7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#identifier> "1998/08/06-2-4" .
-<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#name> "Bomen, dorp en water" .
-<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#description> "Schilderij \"Bomen, dorp en water\". Gesigneerd : \"D. Djaiamihardja\". Waterverf in lijst, in passepartout." .
-<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/93bb56f66bfb5c16a1f7fc5eaf81dfbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/7" .
-<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: The Suez Canal. Crossing one of the Mighty Dredgers at Toussoum. 319" .
-<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"The Suez Canal. Crossing one of the Mighty Dredgers at Toussoum. 319\"" .
-<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/93bf965661cd5a1a5801306eb820f208> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#identifier> "1971/01/15-10" .
-<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#name> "Rijdende Artillerie.  Marschtenue.   1897." .
-<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#description> "Kleurenreproductie: Rijdende Artillerie in marstenue, 1897\r\nVoorheen ingelijst." .
-<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/93ca444b9ac831e752212cb9d1ffe127> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/93b87dc0fb0dd61cceb3b48a31b38065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/93b87dc0fb0dd61cceb3b48a31b38065> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42366" .
 <https://n2t.net/ark:/27023/93b87dc0fb0dd61cceb3b48a31b38065> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tzwaard\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tZwaard met schede. De afmetingen van de schede zijn: L 47.9, Br 5.3.\r\nAfmetingen:\tL 53.4, Br 6.8\r\nMedia:\t2899\r\nBruikleen van:\tGemeente Nijmegen\r\ncoll" .

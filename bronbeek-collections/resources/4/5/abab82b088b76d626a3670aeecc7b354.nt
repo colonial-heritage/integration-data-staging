@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-45" .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#name> "Attila KNIL, Luitenant-kolonel der Genie" .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#description> "Attila. Met witte Boord." .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#inscription> "Mr. Paalman Genie 13 mei 1968." .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#creator> "H.F.L. Uhde, Breda" .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/6" .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#name> "Sabangsch Landschap." .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Sabangsch Landschap.'" .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#inscription> "Sabangsch Landschap." .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#identifier> "2005/00-18/3" .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#name> "Invaliden-Bronbeek. 1897." .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#description> "Kleurenreproductie, rechtsonder initialen: J.H.v.P\r\n\r\nVoorheen ingelijst: glas + withouten lijst" .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55e7681f8c127da08c7007df8f25a3ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55e7681f8c127da08c7007df8f25a3ab> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-324-2" .
 <https://n2t.net/ark:/27023/55e7681f8c127da08c7007df8f25a3ab> <https://colonialcollections.nl/schema#name> "Pantalon dagelijkse tenue Algemene Politie Nederlands Nieuw-Guinea" .
@@ -12,6 +35,13 @@
 <https://n2t.net/ark:/27023/560cbe2bbb5cfae7ebb9bf42ea5b3424> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/560cbe2bbb5cfae7ebb9bf42ea5b3424> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/560cbe2bbb5cfae7ebb9bf42ea5b3424> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#identifier> "1998/02/24-2-1" .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#name> "Foto T.C. Visscher staande naast een stoel gekleed als fuselier KNIL" .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit, ovaal. Afgebeeld is Teunis Cornelis Visscher (Teun),(1902-1967). Staande naast een stoel gekleed als fuselier KNIL (gemeen soldaat). Fotograaf J. de Does uit Sliedrecht." .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#creator> "J. de Does" .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55db84a306346f977cf3545af33e138a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55db84a306346f977cf3545af33e138a> <https://colonialcollections.nl/schema#identifier> "nf%201911-9" .
 <https://n2t.net/ark:/27023/55db84a306346f977cf3545af33e138a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, met witte rand, opgeplakt in album, geen meegekomen tekst.\r\n\r\nOpname toont een Indonesische man, traditioneel gekleed in sarong en overhemd, tot de hals dichtgeknoopt en bijbehorend hoofddeksel. Hij draagt muilen. Ook zichtbaar is dat hij" .
@@ -46,20 +76,6 @@
 <https://n2t.net/ark:/27023/560d9e875cb04bbc0e0e3e2778fba3de> <https://colonialcollections.nl/schema#inscription> "2te [  ]Bending Mataraman. [   ] Süd und Ost Küst Borneo 1860" .
 <https://n2t.net/ark:/27023/560d9e875cb04bbc0e0e3e2778fba3de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/560d9e875cb04bbc0e0e3e2778fba3de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-45" .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#name> "Attila KNIL, Luitenant-kolonel der Genie" .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#description> "Attila. Met witte Boord." .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#inscription> "Mr. Paalman Genie 13 mei 1968." .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55ebdfa32e080605d106e636b54e1302> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/6" .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#name> "Sabangsch Landschap." .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Sabangsch Landschap.'" .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#inscription> "Sabangsch Landschap." .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/560174606b3c1e72a1b51a639b22779a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55d0ee6ef40ce1e9989d2313ba780ddb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55d0ee6ef40ce1e9989d2313ba780ddb> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-24/11" .
 <https://n2t.net/ark:/27023/55d0ee6ef40ce1e9989d2313ba780ddb> <https://colonialcollections.nl/schema#name> "Embleem, Marine, tandwiel, rond, met anker, tekst: \"P.A.L.\"" .
@@ -516,18 +532,6 @@
 <https://n2t.net/ark:/27023/56202d2ab222d54ebf3aae5b8a71c9f3> <https://colonialcollections.nl/schema#description> "Schildering op papier. Uniformen Pradjoerit kraton Soerakarta. Schouderbelegsels.\r\n\r\nPakoeboewono. \r\n\r\n1. prent van zeven pradjoerits (officieren) in gekleed tenue (attila met fourragères)\r\n2. prent van zeven pradjoerits (onderofficieren en manschappen) i" .
 <https://n2t.net/ark:/27023/56202d2ab222d54ebf3aae5b8a71c9f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/56202d2ab222d54ebf3aae5b8a71c9f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#identifier> "2005/00-18/3" .
-<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#name> "Invaliden-Bronbeek. 1897." .
-<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#description> "Kleurenreproductie, rechtsonder initialen: J.H.v.P\r\n\r\nVoorheen ingelijst: glas + withouten lijst" .
-<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55d3f67a5218556e6ca2255752bf38c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#identifier> "1998/02/24-2-1" .
-<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#name> "Foto T.C. Visscher staande naast een stoel gekleed als fuselier KNIL" .
-<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit, ovaal. Afgebeeld is Teunis Cornelis Visscher (Teun),(1902-1967). Staande naast een stoel gekleed als fuselier KNIL (gemeen soldaat). Fotograaf J. de Does uit Sliedrecht." .
-<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56147c586c9d4038ba7294fbe95797af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55cf304cbf5c1033042d1411d0788e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55cf304cbf5c1033042d1411d0788e2d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42568" .
 <https://n2t.net/ark:/27023/55cf304cbf5c1033042d1411d0788e2d> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 105,2 cm\r\nMedia:\t3101\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3101] Depot, K [K]\r\nhoofdmateriaal:\thout" .

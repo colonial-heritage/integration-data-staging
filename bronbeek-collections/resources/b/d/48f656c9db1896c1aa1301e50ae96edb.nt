@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/6" .
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#name> "Hotel Brastagi" .
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Hotel Brastagi." .
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#creator> "I. Asada Fotograaf, Brastagi" .
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9fe1ef7a5468c37fc13a88393782e57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9fe1ef7a5468c37fc13a88393782e57> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/185" .
 <https://n2t.net/ark:/27023/e9fe1ef7a5468c37fc13a88393782e57> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -40,12 +47,26 @@
 <https://n2t.net/ark:/27023/ea3765d01a8e450913cf8604e273021e> <https://colonialcollections.nl/schema#creator> "Aug. Savelkoul" .
 <https://n2t.net/ark:/27023/ea3765d01a8e450913cf8604e273021e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea3765d01a8e450913cf8604e273021e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#identifier> "2016/01/19-1-2" .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#name> "Embleem \"Nederland zal herrijzen\"" .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#description> "Embleem uitgeven door de Vaderlandsche Club naar een ontwerp van Robert Was (volgens het Bataviaasch Nieuwsblad van 1 juni 1940 was Robert Deppe de ontwerper) waarschijnlijk bestemd om op de grill van een auto te bevestigen. Autoplaquette.\r\n\r\nEmbleem in m" .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#creator> "landstorm soldaat Bernardus Wilhelmus Josephus Deppe" .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#creator> "Vaderlandsche Club" .
 <https://n2t.net/ark:/27023/ea2b72a72e9210ea707d0206a709ba38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea2b72a72e9210ea707d0206a709ba38> <https://colonialcollections.nl/schema#identifier> "nf%201918-114" .
 <https://n2t.net/ark:/27023/ea2b72a72e9210ea707d0206a709ba38> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Huis G.P. (v.Br.)'\r\n\r\nOpnames tonen een voorgalerij waar een tweetal blanke mannen zitten, in rotan stoelen, bij een tafeltje met tafelkleed.\r\n\r" .
 <https://n2t.net/ark:/27023/ea2b72a72e9210ea707d0206a709ba38> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ea2b72a72e9210ea707d0206a709ba38> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea2b72a72e9210ea707d0206a709ba38> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#identifier> "nf%201305-28-3" .
+<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#description> "Portretfoto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nFoto is afgedrukt in een soort frame. In het witte deel rechts staat geschreven:\r\n'Tom koopmans - Soerabaia'\r\n\r\nAfbeelding toont een portret van Madelon Belle en haar moeder Ita Paats.\r\n\r\nDeze " .
+<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#creator> "Tom Koopmans" .
+<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea40a0c7f75c42547ae0e392dea7d501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea40a0c7f75c42547ae0e392dea7d501> <https://colonialcollections.nl/schema#identifier> "EDO%20622-22-3" .
 <https://n2t.net/ark:/27023/ea40a0c7f75c42547ae0e392dea7d501> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een landweggetje in een bergachtig landschap. Er staan twee oudere personen, een man en een vrouw, niet bepaald 'zomers' gekleed.\r\n\r\nEr is gekozen als geografische herkomst vo" .
@@ -529,18 +550,6 @@
 <https://n2t.net/ark:/27023/ea495ba60ef1cc960c7bb7c442916e7c> <https://colonialcollections.nl/schema#description> "Lint afkomstig uit lederen cassette met decoraties van luitenant-kolonel J.I. de Rochemont. Vermoedelijk behorend bij een buitenlandse onderscheiding." .
 <https://n2t.net/ark:/27023/ea495ba60ef1cc960c7bb7c442916e7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea495ba60ef1cc960c7bb7c442916e7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/6" .
-<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#name> "Hotel Brastagi" .
-<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Hotel Brastagi." .
-<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9fe0530fdae7e168dd8e3ee9242c6c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#identifier> "2016/01/19-1-2" .
-<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#name> "Embleem \"Nederland zal herrijzen\"" .
-<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#description> "Embleem uitgeven door de Vaderlandsche Club naar een ontwerp van Robert Was (volgens het Bataviaasch Nieuwsblad van 1 juni 1940 was Robert Deppe de ontwerper) waarschijnlijk bestemd om op de grill van een auto te bevestigen. Autoplaquette.\r\n\r\nEmbleem in m" .
-<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea3f62056922b7890d0dbdeae621dff5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea042402af0c75e9356aa0108a9756e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea042402af0c75e9356aa0108a9756e2> <https://colonialcollections.nl/schema#identifier> "S%206191-13" .
 <https://n2t.net/ark:/27023/ea042402af0c75e9356aa0108a9756e2> <https://colonialcollections.nl/schema#description> "serie leger/KNIL voorwerpen\r\n(mouw)embleem van de Bewakings Troepen, met wapen van Batavia." .
@@ -586,11 +595,6 @@
 <https://n2t.net/ark:/27023/ea4707648bd1bb7fdb56087c68c57b1e> <https://colonialcollections.nl/schema#description> "type zoals vroeger aan de Atjehers als gunstbewijs werd geschonken.\r\nHerkomkst: Atjeh en onderh., west-Sumatra." .
 <https://n2t.net/ark:/27023/ea4707648bd1bb7fdb56087c68c57b1e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea4707648bd1bb7fdb56087c68c57b1e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#identifier> "nf%201305-28-3" .
-<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#description> "Portretfoto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nFoto is afgedrukt in een soort frame. In het witte deel rechts staat geschreven:\r\n'Tom koopmans - Soerabaia'\r\n\r\nAfbeelding toont een portret van Madelon Belle en haar moeder Ita Paats.\r\n\r\nDeze " .
-<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea2fb20a90febd7e25ea56b444ad57f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea020f272f702d6745ec2ecb62145050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea020f272f702d6745ec2ecb62145050> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-2/131" .
 <https://n2t.net/ark:/27023/ea020f272f702d6745ec2ecb62145050> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -1,12 +1,20 @@
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-7" .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#name> "Krans om een foto" .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. Krans om foto." .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#inscription> "Vereeniging [B.A.B.] Ned. Oost Indië" .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#identifier> "1990/08/20-12-2" .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#name> "Schoolplaat \"Lijkverbranding op Bali, Kleine Soenda eilanden\"" .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#description> "Schoolplaat voorzien van houten lijst naar schilderij van Gabrielse uit de serie van Henri Zondervan ; Insulinde in woord en beeld. Afm. 92 x 75,5 cm." .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#inscription> "Lijkverbranding op Bali. - Kleine Soenda eilanden." .
-<https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
+<https://n2t.net/ark:/27023/0048888f1a5c63cad1936b6de5d2cc0d> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/000054a6975f823f0950b4ac456c5266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/000054a6975f823f0950b4ac456c5266> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-11/39" .
 <https://n2t.net/ark:/27023/000054a6975f823f0950b4ac456c5266> <https://colonialcollections.nl/schema#name> "Prentbriefkaart, 'M.S. \"Johan van Oldenbarnevelt\"- Stoomvaart Maatschappij 'Nederland''" .
@@ -28,6 +36,13 @@
 <https://n2t.net/ark:/27023/001a98a2e4b31002cab4fcc633a97c9a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/001a98a2e4b31002cab4fcc633a97c9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/001a98a2e4b31002cab4fcc633a97c9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#identifier> "1996/05/20-2-1" .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#name> "Groepsfoto van Infanterie V Andjing Nica 2e CIE" .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Reproductie. Laatste groepsfoto (infanterie-gedeelte) van Inf.V. Andjing-Nica 2e Cie., opgenomen nabij de kazerne te Klandasan Balikpapan Borneo, juli 1949.\r\nCC: Kpt. Klein\r\nSMA: SMA Palit\r\nBEVO: Sgt. Evers\r\nP.C.´n SMI Bos & Teunissen & S" .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#creator> "San Liang Yoe Photo Studio Klandasan-Balikpapan" .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/002e24308aa6e4c6b85efa54c9ac5b74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/002e24308aa6e4c6b85efa54c9ac5b74> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/406" .
 <https://n2t.net/ark:/27023/002e24308aa6e4c6b85efa54c9ac5b74> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -35,6 +50,34 @@
 <https://n2t.net/ark:/27023/002e24308aa6e4c6b85efa54c9ac5b74> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/002e24308aa6e4c6b85efa54c9ac5b74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/002e24308aa6e4c6b85efa54c9ac5b74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/6" .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz voor commandant generaal-majoor S.A. Drijber voor de commandantswoning op Bronbeek" .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit.  Defilé van het detachement Van Heutsz voor commandant generaal-majoor S.A. Drijber voor de commandantswoning op Bronbeek (zie ook foto 2006/00-24-41/2)." .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/2" .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#name> "Steenbakkerij nabij - Soerabaia" .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Steenbakkerij nabij - Soerabaia.\" \"Compania de Manila, Willemskade, Soerabaia.\"" .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#creator> "Compañia de Manilla, Willemskade, Soerabaia" .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-1" .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#name> "Van Indië tot Indonesië. Over het leven en werk van dichter Sitor Situmorang" .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#description> "Master tape van \"Van Indië tot Indonesië. Over het leven en werk van dichter Sitor Situmorang\". Gemaakt door Oogland Fimproducties, directie John Albert jansen. Op een digibetacam 64, palplus 16:9. Totale duur 59:27:05." .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#creator> "John Albert Jansen" .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#identifier> "IB2005/01-1-1" .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#name> "Muziekblad, foto en tekstvel betreffende de zeven december divisie" .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#description> "Muziekblad, foto en tekstvel betreffende de zeven december divisie opgeplakt op karton. Mogelijk gebruikt voor een expositie of presentatie\r\n\r\nOnderschrift foto: 1 januari 1948. De drumband van de 7 December divisie op het voetbalveld van Tjimahi." .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#creator> "sergeant L.V.D. Gerard Dentener" .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/001cf1ecbfac2242b1ed7e8496b8229a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/001cf1ecbfac2242b1ed7e8496b8229a> <https://colonialcollections.nl/schema#identifier> "nf%20335-39" .
 <https://n2t.net/ark:/27023/001cf1ecbfac2242b1ed7e8496b8229a> <https://colonialcollections.nl/schema#description> "Geen onderschrift.\r\n\r\nOpname van een grote groep mannen en vrouwen, duidelijk geïnteresseerd in tennis, en 4 kinderen.\r\nEén van de mannen is ook gefotografeerd op nf 335-38-2 en nf 335-38-3" .
@@ -69,13 +112,6 @@
 <https://n2t.net/ark:/27023/00382406c0d6e38608c94dcd5f6e2adc> <https://colonialcollections.nl/schema#inscription> "American Red Cross Prisoner of War Food Package No.10. For distribution through International Red Cross Committee; 9.43. Gaylord Boxes. Gaylord Container Corporation St.Louis, Missouri. Corrugated Solid Fibre" .
 <https://n2t.net/ark:/27023/00382406c0d6e38608c94dcd5f6e2adc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/00382406c0d6e38608c94dcd5f6e2adc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-7" .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#name> "Krans om een foto" .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. Krans om foto." .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#inscription> "Vereeniging [B.A.B.] Ned. Oost Indië" .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0009761996dcbd16a1abb936d1d32c62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0001c3c8bf366d59a36143cb1702a8b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0001c3c8bf366d59a36143cb1702a8b8> <https://colonialcollections.nl/schema#identifier> "S%2084-68" .
 <https://n2t.net/ark:/27023/0001c3c8bf366d59a36143cb1702a8b8> <https://colonialcollections.nl/schema#name> "songsong" .
@@ -520,36 +556,6 @@
 <https://n2t.net/ark:/27023/0048f17d1940d593498c129a848851d2> <https://colonialcollections.nl/schema#description> "zw/w. foto. Groepsfoto. Zes meisjes in het veld, waarvan er vijf gekleed gaan in een Zeeuwse streekdracht.\r\n\r\n[de foto is genomen tijdens het Nederlandse verlof van de familie Slagter in 1929-1930]\r\nfoto is opgeplakt met aantal andere foto's in album of e" .
 <https://n2t.net/ark:/27023/0048f17d1940d593498c129a848851d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0048f17d1940d593498c129a848851d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#identifier> "1996/05/20-2-1" .
-<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#name> "Groepsfoto van Infanterie V Andjing Nica 2e CIE" .
-<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Reproductie. Laatste groepsfoto (infanterie-gedeelte) van Inf.V. Andjing-Nica 2e Cie., opgenomen nabij de kazerne te Klandasan Balikpapan Borneo, juli 1949.\r\nCC: Kpt. Klein\r\nSMA: SMA Palit\r\nBEVO: Sgt. Evers\r\nP.C.´n SMI Bos & Teunissen & S" .
-<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0028d10f5126fab07dd6cf3f2a8b837d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/6" .
-<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz voor commandant generaal-majoor S.A. Drijber voor de commandantswoning op Bronbeek" .
-<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit.  Defilé van het detachement Van Heutsz voor commandant generaal-majoor S.A. Drijber voor de commandantswoning op Bronbeek (zie ook foto 2006/00-24-41/2)." .
-<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0031341e0fbc20127f0c55b02346bb9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/2" .
-<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#name> "Steenbakkerij nabij - Soerabaia" .
-<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Steenbakkerij nabij - Soerabaia.\" \"Compania de Manila, Willemskade, Soerabaia.\"" .
-<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0034912542115e3ce963ee952ed974e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-1" .
-<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#name> "Van Indië tot Indonesië. Over het leven en werk van dichter Sitor Situmorang" .
-<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#description> "Master tape van \"Van Indië tot Indonesië. Over het leven en werk van dichter Sitor Situmorang\". Gemaakt door Oogland Fimproducties, directie John Albert jansen. Op een digibetacam 64, palplus 16:9. Totale duur 59:27:05." .
-<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/003631c8c4327d5ea49d87dca3c108eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#identifier> "IB2005/01-1-1" .
-<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#name> "Muziekblad, foto en tekstvel betreffende de zeven december divisie" .
-<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#description> "Muziekblad, foto en tekstvel betreffende de zeven december divisie opgeplakt op karton. Mogelijk gebruikt voor een expositie of presentatie\r\n\r\nOnderschrift foto: 1 januari 1948. De drumband van de 7 December divisie op het voetbalveld van Tjimahi." .
-<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0039be15630344e2d776e98ae65ad613> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/001a725cecba9db6347304bff7659706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/001a725cecba9db6347304bff7659706> <https://colonialcollections.nl/schema#identifier> "nf%20843-87" .
 <https://n2t.net/ark:/27023/001a725cecba9db6347304bff7659706> <https://colonialcollections.nl/schema#description> "Luchtopname van beboste bergen met laaghangende bewolking in de dalen." .

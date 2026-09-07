@@ -12,6 +12,13 @@
 <https://n2t.net/ark:/27023/d7da903533ea3db0b2defa7b714c4926> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/d7da903533ea3db0b2defa7b714c4926> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7da903533ea3db0b2defa7b714c4926> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#identifier> "2017/07/30-3-1" .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#name> "Avondmaalsstel vlootpredikant" .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#description> "Avondmaalsschaal onderdeel van een avondmaalsstel van een vlootpredikant. \r\n\r\nSchaal roestvrij staal rond met op de rand inscripties: Valkenburg, Garoet, Biak, Tasikmalaja, Tjiamis,m Bandjar, Buitenzorg, Renggalengan, Tjandjoer. In het midden\r\neen onklaar" .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#creator> "Gero" .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d7e07e4096f04bca6a3dac9245ced561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d7e07e4096f04bca6a3dac9245ced561> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/61" .
 <https://n2t.net/ark:/27023/d7e07e4096f04bca6a3dac9245ced561> <https://colonialcollections.nl/schema#name> "Militairen werken aan een stalen brug in aanbouw" .
@@ -558,12 +565,6 @@
 <https://n2t.net/ark:/27023/d7fc8d4e06dd0f89be73910f88fb91c7> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, totaal 348 stuks, van diensttijd van R.J. Mulder bij 43 Zelfstandige Mitrailleur Compagnie (43 ZMC)  in Nederlands-Indië 1949-1950:\r\nnatuurfoto's, foto's van voornamelijk Nederlandse militairen, foto's van havens, sportdagen etc. in de pe" .
 <https://n2t.net/ark:/27023/d7fc8d4e06dd0f89be73910f88fb91c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7fc8d4e06dd0f89be73910f88fb91c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#identifier> "2017/07/30-3-1" .
-<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#name> "Avondmaalsstel vlootpredikant" .
-<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#description> "Avondmaalsschaal onderdeel van een avondmaalsstel van een vlootpredikant. \r\n\r\nSchaal roestvrij staal rond met op de rand inscripties: Valkenburg, Garoet, Biak, Tasikmalaja, Tjiamis,m Bandjar, Buitenzorg, Renggalengan, Tjandjoer. In het midden\r\neen onklaar" .
-<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d7da9ca9000f14e1cb6f735dcd52d714> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d7c11c04c9c7cfd749ca59988b409bf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d7c11c04c9c7cfd749ca59988b409bf5> <https://colonialcollections.nl/schema#identifier> "nf%201414-28" .
 <https://n2t.net/ark:/27023/d7c11c04c9c7cfd749ca59988b409bf5> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 28, staat vermeld: 7-'35 Patscherkofel\r\n\r\nOpname toont een aantal blanke personen zo te zien op de top van een berg.Links staat een 'driepoot', die waar" .

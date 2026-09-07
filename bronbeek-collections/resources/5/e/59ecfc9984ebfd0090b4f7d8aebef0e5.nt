@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-7" .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#name> "92. Het Ciseleren van koperen Vazen Java" .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#description> "Schoolplaat. 92. Het Ciseleren van koperen Vazen Java. Kleynenberg & Co., Haarlem." .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#inscription> "92. Het Ciseleren van koperen Vazen Java" .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ed8d383e5fe3340e80d16d2f1736dcdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ed8d383e5fe3340e80d16d2f1736dcdd> <https://colonialcollections.nl/schema#identifier> "1999/11/01-1-5" .
 <https://n2t.net/ark:/27023/ed8d383e5fe3340e80d16d2f1736dcdd> <https://colonialcollections.nl/schema#name> "Foto in lijst : 'Meer met vlot, op achtergrond een vulkaan'" .
@@ -12,6 +20,7 @@
 <https://n2t.net/ark:/27023/ed9ab820fdde744d58e24eaac0c16bb5> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/ed9ab820fdde744d58e24eaac0c16bb5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ed9ab820fdde744d58e24eaac0c16bb5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ed9ab820fdde744d58e24eaac0c16bb5> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/ed9d42fe8096b62cb547861ba8070a6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ed9d42fe8096b62cb547861ba8070a6a> <https://colonialcollections.nl/schema#identifier> "2010/11/09-1-1" .
 <https://n2t.net/ark:/27023/ed9d42fe8096b62cb547861ba8070a6a> <https://colonialcollections.nl/schema#name> "Portret in olieverf van Franciscus Darlang (1840-1881)  van J.H. Neuman(1863)" .
@@ -26,6 +35,13 @@
 <https://n2t.net/ark:/27023/edafb5a50671b7a4b385e5c647f14f6a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/edafb5a50671b7a4b385e5c647f14f6a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/edafb5a50671b7a4b385e5c647f14f6a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-38" .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#name> "Na de aanval voeren de Nederlanders speciale acties uit op de straten en in de kampongs" .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#description> "Leden van de Militaire Politie fouilleren iedere voorbijganger. maart - juni 1949." .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/edbdfb462025d3933c6348f672aa6bdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/edbdfb462025d3933c6348f672aa6bdf> <https://colonialcollections.nl/schema#identifier> "nf%20705-26" .
 <https://n2t.net/ark:/27023/edbdfb462025d3933c6348f672aa6bdf> <https://colonialcollections.nl/schema#name> "'Hindoe ruine Moeara Takoes .-  vert...? oud- en nieuw..?  october 89'" .
@@ -107,13 +123,6 @@
 <https://n2t.net/ark:/27023/edc08df98a9ebbdfcd5d212ae54fa7df> <https://colonialcollections.nl/schema#inscription> "Pres Soekawati Makassar" .
 <https://n2t.net/ark:/27023/edc08df98a9ebbdfcd5d212ae54fa7df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/edc08df98a9ebbdfcd5d212ae54fa7df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-7" .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#name> "92. Het Ciseleren van koperen Vazen Java" .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#description> "Schoolplaat. 92. Het Ciseleren van koperen Vazen Java. Kleynenberg & Co., Haarlem." .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#inscription> "92. Het Ciseleren van koperen Vazen Java" .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/edc144d5d4ba580dd2a40d36a5d55c30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ed83621c90070e203182cda494819d2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ed83621c90070e203182cda494819d2f> <https://colonialcollections.nl/schema#identifier> "2016/03/11-1-1/154" .
 <https://n2t.net/ark:/27023/ed83621c90070e203182cda494819d2f> <https://colonialcollections.nl/schema#name> "Foto" .
@@ -552,12 +561,6 @@
 <https://n2t.net/ark:/27023/edc83a7bb4a2ad461ce4b3eae40c51a5> <https://colonialcollections.nl/schema#description> "Onderdeel van een schede, bovenzijde. Ivoor. Gravering met florale motieven, ingelegd met een donkere materie. Sumatra, Atjeh. Sikin" .
 <https://n2t.net/ark:/27023/edc83a7bb4a2ad461ce4b3eae40c51a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/edc83a7bb4a2ad461ce4b3eae40c51a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-38" .
-<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#name> "Na de aanval voeren de Nederlanders speciale acties uit op de straten en in de kampongs" .
-<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#description> "Leden van de Militaire Politie fouilleren iedere voorbijganger. maart - juni 1949." .
-<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/edbdcd03ec929f4cd3ab30a0b31c4e2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ed8beebbe5c72d6df6a54653a3975d84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ed8beebbe5c72d6df6a54653a3975d84> <https://colonialcollections.nl/schema#identifier> "S%20451-832" .
 <https://n2t.net/ark:/27023/ed8beebbe5c72d6df6a54653a3975d84> <https://colonialcollections.nl/schema#description> "Rechte kris met houten greep en schede van het type gayaman met verzilverde overschede..\r\nHerkomst; Bali." .

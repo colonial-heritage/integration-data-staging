@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-1" .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#name> "Schoolplaat 122. Lampongsche Bruiloft." .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 122. Lampongsche Bruiloft. Kleynenberg en Co, Haarlem. In redeli" .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#inscription> "122. Lampongsche Bruiloft." .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
 <https://n2t.net/ark:/27023/e893e6f5e6c92ec1e954b097a25e7721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e893e6f5e6c92ec1e954b097a25e7721> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-6" .
 <https://n2t.net/ark:/27023/e893e6f5e6c92ec1e954b097a25e7721> <https://colonialcollections.nl/schema#name> "Block met prentbriefkaarten 'Mooi Soerabaja'" .
@@ -6,6 +15,14 @@
 <https://n2t.net/ark:/27023/e893e6f5e6c92ec1e954b097a25e7721> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/e893e6f5e6c92ec1e954b097a25e7721> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e893e6f5e6c92ec1e954b097a25e7721> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-15" .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#name> "Ontvangst bij de Sultan van Solo (?)" .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst bij de Sultan van Solo (?), met danseressen. Op achterzijde; \"Photo by R.M. Soetarto Solo Phone 101 Java (D.E.I.)\"" .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#inscription> "16 W.D" .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#creator> "R.M. Soetarto" .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/6" .
 <https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
@@ -13,6 +30,21 @@
 <https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e8766498000b405e66b8ef51a98ee07b> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-11" .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#name> "Ontvangst van de Sultan van Pontianak (?) als Generaal KNIL bij een lid van Raad van Indië" .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst van KNIL-generaal Sultan van pontianak (?) in bijzijn van een lid van de Raad van Indië  en de vice Admiraal Helfrich." .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#creator> "Oeij Eng Tian" .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-715" .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met vijf foto's van Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Prentbriefkaart met vijf foto's van Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea.\r\n\r\nRecto: Vrouwen van de Wissel-meren." .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#creator> "Kwa Hong Lok, Manokwari" .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e8a36142488c9290630c76df43cf36db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e8a36142488c9290630c76df43cf36db> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/7" .
 <https://n2t.net/ark:/27023/e8a36142488c9290630c76df43cf36db> <https://colonialcollections.nl/schema#name> "Semarang-sector. Kolonel van Langen, commandant T-Brigade is natuurlijk in voorste lijn" .
@@ -59,20 +91,6 @@
 <https://n2t.net/ark:/27023/e8a3feca730db0a74446bbeea22a69cd> <https://colonialcollections.nl/schema#inscription> "Nefis" .
 <https://n2t.net/ark:/27023/e8a3feca730db0a74446bbeea22a69cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e8a3feca730db0a74446bbeea22a69cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-1" .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#name> "Schoolplaat 122. Lampongsche Bruiloft." .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 122. Lampongsche Bruiloft. Kleynenberg en Co, Haarlem. In redeli" .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#inscription> "122. Lampongsche Bruiloft." .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e87c866d249f35403bfa15c849802cea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-15" .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#name> "Ontvangst bij de Sultan van Solo (?)" .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst bij de Sultan van Solo (?), met danseressen. Op achterzijde; \"Photo by R.M. Soetarto Solo Phone 101 Java (D.E.I.)\"" .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#inscription> "16 W.D" .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e8940e1d69cc673c59e9dfced31cd3de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e874b24c3996c6d3238d58fe93a3739a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e874b24c3996c6d3238d58fe93a3739a> <https://colonialcollections.nl/schema#identifier> "1865/10/23-1-4" .
 <https://n2t.net/ark:/27023/e874b24c3996c6d3238d58fe93a3739a> <https://colonialcollections.nl/schema#name> "Strijdhoed met valse baard en keelband, Nias" .
@@ -541,18 +559,6 @@
 <https://n2t.net/ark:/27023/e8c434cda76341f6a9fd6204b634c4e0> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Afkomstig van de familie Rauchbaar en zuster Jo Potman.\r\nFamiliefoto's (sommige met kinderen); foto's van verpleegsters (waar onder J. Potman?), Javanen; Koningin Emma Ziekenhuis Tjikini; interieurfoto's. \r\nPeriode met name jaren dertig 20" .
 <https://n2t.net/ark:/27023/e8c434cda76341f6a9fd6204b634c4e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e8c434cda76341f6a9fd6204b634c4e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-11" .
-<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#name> "Ontvangst van de Sultan van Pontianak (?) als Generaal KNIL bij een lid van Raad van Indië" .
-<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst van KNIL-generaal Sultan van pontianak (?) in bijzijn van een lid van de Raad van Indië  en de vice Admiraal Helfrich." .
-<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e880559fde4fc29d3ffaa477cafbe9ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-715" .
-<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met vijf foto's van Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Prentbriefkaart met vijf foto's van Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea.\r\n\r\nRecto: Vrouwen van de Wissel-meren." .
-<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e8a305115cec2293923bea5c6b5bf85a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e88ad7a0f9ffaf4a80974e286b557428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e88ad7a0f9ffaf4a80974e286b557428> <https://colonialcollections.nl/schema#identifier> "nf%20843-164" .
 <https://n2t.net/ark:/27023/e88ad7a0f9ffaf4a80974e286b557428> <https://colonialcollections.nl/schema#description> "Opname van een man, zittend bij de boeg van een prauw, varend op een rivier." .

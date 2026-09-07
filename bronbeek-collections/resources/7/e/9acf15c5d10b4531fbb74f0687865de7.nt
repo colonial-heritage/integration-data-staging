@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#identifier> "C/003/129" .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#name> "Achterlaad kanon 37 mm (sloepenkanon) op pivot affuit." .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#description> "Achterlaad kanon 37 mm op pivot affuit. Zogenaamd sloepenkanon van de Nederlandse marine. Het kanon is gemonteerd op een onderstel in de vorm van een reling. Onderstel gemaakt door Marinemuseum." .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#inscription> "Fried: Krupp Essen 1896" .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#creator> "Friedrich Krupp" .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-83" .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Hartman" .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Hartman" .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#inscription> "Mevr. Hartman" .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/25" .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#name> "Opnemer van de Topografische Dienst aan het werk, vermoedelijk in de buurt van Den Pasar" .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nOpnemer van de Topografische Dienst aan het werk, vermoedelijk in de buurt van Den Pasar." .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/acdc8a4b2ea906cb458bd158c9534290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/acdc8a4b2ea906cb458bd158c9534290> <https://colonialcollections.nl/schema#identifier> "20018/07/25-2-3/4" .
 <https://n2t.net/ark:/27023/acdc8a4b2ea906cb458bd158c9534290> <https://colonialcollections.nl/schema#name> "Groepsfoto officieren en dames Inf V te Semarang" .
@@ -12,13 +36,36 @@
 <https://n2t.net/ark:/27023/ace5b0f885848a8774f6a8ab268c3467> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ace5b0f885848a8774f6a8ab268c3467> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ace5b0f885848a8774f6a8ab268c3467> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-205" .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#name> "Petovertrek dagelijkse tenue tropen" .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#description> "Petovertrek van beigekleurige katoen met wit etiket. Geweven etiket wit met blauwe letters KONINKLIJKE MARINE. Gedrukt: \r\nB. HENDRIKSEN - ARNHEM\r\n58\r\nMEI 1959" .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#creator> "Firma H. Hendriksen" .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#identifier> "nf%201473-17" .
 <https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#name> "De races te Fort de Kock in 1911, Sumatra" .
 <https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 56. DE RACES TE FORT DE KOCK IN 1911. SUMATRA.\r\nGeschreven: Op de voorgrond jockeys. Het winnende paard k" .
-<https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ad1351d602342ed5ee7b58173b19afcd> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/58" .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#name> "\"Medan, Aanlegplaats van de boot.\"" .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Medan, Aanlegplaats van de boot.\"" .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#creator> "W.T. Uhlenhuth" .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#identifier> "S%204252C" .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#name> "Oost-Java en Madoera" .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#description> "Informatietabellen over afstanden op Java en Madoera.\r\n\r\n3e verbeterde druk" .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#creator> "Koninklijke Vereeniging Java Motor Club" .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#creator> "De Boer" .
 <https://n2t.net/ark:/27023/ace0e2fe3398b58e8ad6e8337fe6eba1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ace0e2fe3398b58e8ad6e8337fe6eba1> <https://colonialcollections.nl/schema#identifier> "nf%201629-17" .
 <https://n2t.net/ark:/27023/ace0e2fe3398b58e8ad6e8337fe6eba1> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, twee foto's naast elkaar geplakt op grijs karton, hoeken afgerond, los aangetroffen met anderen.\r\n\r\nOp achterkant in inkt en potlood: 'Bireun, on gewezen voorhuis - poes met mij- Atjeh Sumatra'\r\n\r\nOpnames tonen een zijkant van een h" .
@@ -71,27 +118,6 @@
 <https://n2t.net/ark:/27023/ad1401b9cbfaa87469d83db882c9bbfb> <https://colonialcollections.nl/schema#inscription> "EAG - aanzichtskaarten \"Mooi Bali\" bestaande uit 16 seriën van 10 stuks Serie VIII. Volkstypen.; Engros verkrijgbaar bij W.Gertis Soerabaya Baritostraat N.6" .
 <https://n2t.net/ark:/27023/ad1401b9cbfaa87469d83db882c9bbfb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ad1401b9cbfaa87469d83db882c9bbfb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#identifier> "C/003/129" .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#name> "Achterlaad kanon 37 mm (sloepenkanon) op pivot affuit." .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#description> "Achterlaad kanon 37 mm op pivot affuit. Zogenaamd sloepenkanon van de Nederlandse marine. Het kanon is gemonteerd op een onderstel in de vorm van een reling. Onderstel gemaakt door Marinemuseum." .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#inscription> "Fried: Krupp Essen 1896" .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ace1ec0faf242b6e0782c8398e5cc6fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-83" .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Hartman" .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Hartman" .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#inscription> "Mevr. Hartman" .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ace6548a3d7730e0fa4104b1b87e1737> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/25" .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#name> "Opnemer van de Topografische Dienst aan het werk, vermoedelijk in de buurt van Den Pasar" .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nOpnemer van de Topografische Dienst aan het werk, vermoedelijk in de buurt van Den Pasar." .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ad097e240465e551b4003b145b90c090> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/acd1c1f0d5e8990100bb6665d781ded8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/acd1c1f0d5e8990100bb6665d781ded8> <https://colonialcollections.nl/schema#identifier> "1994/10/05-6/2" .
 <https://n2t.net/ark:/27023/acd1c1f0d5e8990100bb6665d781ded8> <https://colonialcollections.nl/schema#name> "Slendang with warp ikat patterning" .
@@ -506,24 +532,6 @@
 <https://n2t.net/ark:/27023/ad237ec90af76f8069cfca13b1beb803> <https://colonialcollections.nl/schema#description> "Foto ( een van 19 stuks)  afkomstig van Kolonel der Artillerie KNIL ir. August Fischer (1896-1974):\r\nFischer was actief als controleur namen het KNIL bij de fabriek van Bofors. Enkele foto´s laten een groep mensen in Bofors zien. (waaronder Roemenen, Zwed" .
 <https://n2t.net/ark:/27023/ad237ec90af76f8069cfca13b1beb803> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ad237ec90af76f8069cfca13b1beb803> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-205" .
-<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#name> "Petovertrek dagelijkse tenue tropen" .
-<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#description> "Petovertrek van beigekleurige katoen met wit etiket. Geweven etiket wit met blauwe letters KONINKLIJKE MARINE. Gedrukt: \r\nB. HENDRIKSEN - ARNHEM\r\n58\r\nMEI 1959" .
-<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/acef6e5dea95e2fbd8b63591eb97586a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/58" .
-<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#name> "\"Medan, Aanlegplaats van de boot.\"" .
-<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Medan, Aanlegplaats van de boot.\"" .
-<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ad14a0401d26303629ab63f91b4368da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#identifier> "S%204252C" .
-<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#name> "Oost-Java en Madoera" .
-<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#description> "Informatietabellen over afstanden op Java en Madoera.\r\n\r\n3e verbeterde druk" .
-<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ad1505785e906daa82d51a1c61f02d32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/acdd73ac68e23840a54ea9ae6fd95369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/acdd73ac68e23840a54ea9ae6fd95369> <https://colonialcollections.nl/schema#identifier> "nf%201305-6-2" .
 <https://n2t.net/ark:/27023/acdd73ac68e23840a54ea9ae6fd95369> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een vrouw en een meisje zittend op de grond van een hoge oever naast een smalle rivier.\r\nDe omgeving lijkt een cultuuraanplant, onduidelijk wat voor" .

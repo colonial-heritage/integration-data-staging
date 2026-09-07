@@ -1,10 +1,27 @@
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/33" .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine. Los in album.\r\nIn een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 18.\r\nAfgebeeld: Man in burgerkleding zittend op stoel, vol portret" .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#inscription> "Julius art O.I.; A.A. Vermeulen." .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#creator> "A.A. Vermeulen" .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#identifier> "1991/08/24-1-20" .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#name> "31 Augustus Parade op het Tidarterrein. Magelang" .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"31 Augustus Parade op het Tidarterrein. Magelang\"\r\nGericht aan: Fam. C. Bruggenmans, van: C.C:J. Bruggenmans." .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#inscription> "31 Augustus Parade op het Tidarterrein. Magelang" .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#creator> "N.V. H.V.Maresch, Magelang" .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#identifier> "nf%201888-8" .
 <https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#name> "Ploughing the ricefield, Central Java" .
 <https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#description> "Ansichtkaart, in kleur, met gescheiden belijning, met anderen aangetroffen in erbij horende envelop.\r\n\r\nOp achterkant meergedrukte tekst, waaronder een titel in meerdere talen, de naam van de uitgever, en een uitgeversnummer, in dit geval PS-G76 IP.11\r\n\r\n" .
-<https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#creator> "Department of Information, Republic of Indonesia" .
 <https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7c8988477855634622291406cd49b5b6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7c89f01a96426c5e233efd565575b02a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7c89f01a96426c5e233efd565575b02a> <https://colonialcollections.nl/schema#identifier> "nf%201125" .
 <https://n2t.net/ark:/27023/7c89f01a96426c5e233efd565575b02a> <https://colonialcollections.nl/schema#name> "Strand met kalkrotsen" .
@@ -12,6 +29,20 @@
 <https://n2t.net/ark:/27023/7c89f01a96426c5e233efd565575b02a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7c89f01a96426c5e233efd565575b02a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7c89f01a96426c5e233efd565575b02a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-13/3" .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#name> "Vermoedelijk luitenant-kolonel C.M. Donck met Colijn lopend langs een rij oud-militairen tijdens een reünie van het voormalige instructie-bataljon" .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#description> "Liggende zwartwit foto met vermoedelijk luitenant-kolonel C.M. Donck (links in beeld) en Colijn lopend langs een rij oud-militairen.\r\n\r\nVier persfoto's van activiteiten in het kader van de reünie van het vm. instructie-bataljon. Lnt. Kol. C.M. Donck b.d. " .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#creator> "Fotopersbureau J. Voeten" .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-37" .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#name> "Na de aanval voeren de Nederlanders speciale acties uit op de straten en in de kampongs" .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#description> "Na de aanval voeren de Nederlanders speciale acties uit op de straten en in de kampongs. maart - juni 1949." .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7c98a8dd7c6d43139f2574af36877a7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7c98a8dd7c6d43139f2574af36877a7c> <https://colonialcollections.nl/schema#identifier> "nf%20834-27-2" .
 <https://n2t.net/ark:/27023/7c98a8dd7c6d43139f2574af36877a7c> <https://colonialcollections.nl/schema#name> "De twee 'popjes'" .
@@ -19,13 +50,28 @@
 <https://n2t.net/ark:/27023/7c98a8dd7c6d43139f2574af36877a7c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7c98a8dd7c6d43139f2574af36877a7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7c98a8dd7c6d43139f2574af36877a7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/3" .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Warmemorial on Gebel Mariam near Ismaila. Architect Roux-spitz, Sculptures by Raymond Delamarre. 315" .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"Warmemorial on Gebel Mariam near Ismaila. Architect Roux-spitz, Sculptures by Raymond Delamarre. 315\"" .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#creator> "The Oriental Commercial Bureau Port Saïd" .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/175" .
 <https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
 <https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Pintoe Besar. Batavia." .
-<https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
+<https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7cb2908c251a9d1248d1d51378356966> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#identifier> "2017/08/07-4-20" .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#name> "Studio opname adjudant-onderofficier ziekenverpleger KNIL" .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#description> "Studio opname in passsepartout zwart wit ten voeten uit adjudant-onderofficier ziekenverpleger KNIL in klein tenue (blauw) met wandelsabel model 1912 met sabelkwast." .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#creator> "N.V. Mosstypie" .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7cc4465e6a83dadb8258c7ccb721e10c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7cc4465e6a83dadb8258c7ccb721e10c> <https://colonialcollections.nl/schema#identifier> "1999/01/05-11-2" .
 <https://n2t.net/ark:/27023/7cc4465e6a83dadb8258c7ccb721e10c> <https://colonialcollections.nl/schema#name> "Poster : \"Te land, ter zee. De Mariniers\"" .
@@ -57,20 +103,6 @@
 <https://n2t.net/ark:/27023/7cbf9b7b6b12400ea9e214c6592535c1> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/7cbf9b7b6b12400ea9e214c6592535c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7cbf9b7b6b12400ea9e214c6592535c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/33" .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine. Los in album.\r\nIn een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 18.\r\nAfgebeeld: Man in burgerkleding zittend op stoel, vol portret" .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#inscription> "Julius art O.I.; A.A. Vermeulen." .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7c89391ef538c48c99f068ee287895a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#identifier> "1991/08/24-1-20" .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#name> "31 Augustus Parade op het Tidarterrein. Magelang" .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"31 Augustus Parade op het Tidarterrein. Magelang\"\r\nGericht aan: Fam. C. Bruggenmans, van: C.C:J. Bruggenmans." .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#inscription> "31 Augustus Parade op het Tidarterrein. Magelang" .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7cbdcc6a4c0b2fb564ca84a15acea535> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7c78428539ae3c39c3ed6ea5d7a8ed1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7c78428539ae3c39c3ed6ea5d7a8ed1a> <https://colonialcollections.nl/schema#identifier> "1994/06/24-2-1/6" .
 <https://n2t.net/ark:/27023/7c78428539ae3c39c3ed6ea5d7a8ed1a> <https://colonialcollections.nl/schema#name> "Voortrekkers-embleem (stof)" .
@@ -515,30 +547,6 @@
 <https://n2t.net/ark:/27023/7cc968e24b5bf12a3c3ddffa20ddcfef> <https://colonialcollections.nl/schema#description> "Embleem, metaal, 426 Bataljon Infanterie." .
 <https://n2t.net/ark:/27023/7cc968e24b5bf12a3c3ddffa20ddcfef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7cc968e24b5bf12a3c3ddffa20ddcfef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-13/3" .
-<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#name> "Vermoedelijk luitenant-kolonel C.M. Donck met Colijn lopend langs een rij oud-militairen tijdens een reünie van het voormalige instructie-bataljon" .
-<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#description> "Liggende zwartwit foto met vermoedelijk luitenant-kolonel C.M. Donck (links in beeld) en Colijn lopend langs een rij oud-militairen.\r\n\r\nVier persfoto's van activiteiten in het kader van de reünie van het vm. instructie-bataljon. Lnt. Kol. C.M. Donck b.d. " .
-<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7c8bcfcf3e4e953fa5f463c7c6858582> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-37" .
-<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#name> "Na de aanval voeren de Nederlanders speciale acties uit op de straten en in de kampongs" .
-<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#description> "Na de aanval voeren de Nederlanders speciale acties uit op de straten en in de kampongs. maart - juni 1949." .
-<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7c8ec3f6dc4a640f0ef76fa8ce867bae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/3" .
-<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Warmemorial on Gebel Mariam near Ismaila. Architect Roux-spitz, Sculptures by Raymond Delamarre. 315" .
-<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"Warmemorial on Gebel Mariam near Ismaila. Architect Roux-spitz, Sculptures by Raymond Delamarre. 315\"" .
-<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7cabcffc8687dcd22aea4556ba08e10f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#identifier> "2017/08/07-4-20" .
-<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#name> "Studio opname adjudant-onderofficier ziekenverpleger KNIL" .
-<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#description> "Studio opname in passsepartout zwart wit ten voeten uit adjudant-onderofficier ziekenverpleger KNIL in klein tenue (blauw) met wandelsabel model 1912 met sabelkwast." .
-<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7cb8533d8df866a107658242923a1937> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7c796dd212c7b52aa1f6fc676b429792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7c796dd212c7b52aa1f6fc676b429792> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42936" .
 <https://n2t.net/ark:/27023/7c796dd212c7b52aa1f6fc676b429792> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tlange broek\r\nRubriek:\t(niet ingevoerd)\r\nMedia:\t3469\r\nHuidige standplaats:\t[3469] Depot, Textielkast, 1.1 [T.K. 1.1] [18-nov-2002]" .

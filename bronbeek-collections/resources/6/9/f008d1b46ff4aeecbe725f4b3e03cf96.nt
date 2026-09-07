@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/11" .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#name> "Passar Glodok - Batavia" .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met zwart-wit afbeelding van de Passar Glodok in Batavia.\r\n\r\nMet nietgaatjes aan bovenzijde." .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#inscription> "Passar Glodok - Batavia" .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#creator> "Vesta - Rotogravure De Unie" .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/118" .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#name> "Plaat 118. Kampong Koeta-Radja (Pak-pak)." .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 118. Kampong Koeta-Radja (Pak-pak)." .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#inscription> "Plaat 118. Kampong Koeta-Radja (Pak-pak)." .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/85e793da4e11b7f793b32ab433cc1824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/85e793da4e11b7f793b32ab433cc1824> <https://colonialcollections.nl/schema#identifier> "nf%20842-117" .
 <https://n2t.net/ark:/27023/85e793da4e11b7f793b32ab433cc1824> <https://colonialcollections.nl/schema#name> "Vier Javaanse jongetjes, West-Java" .
@@ -19,6 +35,20 @@
 <https://n2t.net/ark:/27023/85f66fdcf324a6a73c78f10ede6f94bb> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/85f66fdcf324a6a73c78f10ede6f94bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/85f66fdcf324a6a73c78f10ede6f94bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#identifier> "nf%201562-2" .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#name> "Bataks op Tobameer" .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt geschreven tekst: 'Bataks op Tobameer'.\r\nIn potlood de naam 'Jongbloed'.\r\nOok is er een stempel met volgende tekst: UITGAVE PARKHOTEL - FORT DE KOCK - NADRUK VERBODEN'\r\n\r\nOpname " .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#identifier> "1995/10/18-2/29" .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#name> "Twee Indonesische militairen staan bij een vliegtuig en geven elkaar een hand" .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#description> "Foto. Twee Indonesische militairen geven elkaar een hand. Achter hen is de vleugel van een vliegtuig te zien. De man rechts in beeld draagt een leren tas. Foto heeft betrekking op de ML-KNIL.\r\n\r\nStempel verso: tekening van een roofvogel en Foto Auri." .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#creator> "Foto Auri" .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8613cc12ddfbf4a2fd7f5e9617112926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8613cc12ddfbf4a2fd7f5e9617112926> <https://colonialcollections.nl/schema#identifier> "nf%20335-7-1" .
 <https://n2t.net/ark:/27023/8613cc12ddfbf4a2fd7f5e9617112926> <https://colonialcollections.nl/schema#name> "Bivak" .
@@ -33,6 +63,13 @@
 <https://n2t.net/ark:/27023/8616fc66b997b98f10a7649357001cd7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8616fc66b997b98f10a7649357001cd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8616fc66b997b98f10a7649357001cd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/12" .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#name> "Rituele dans Inheemse bevolking" .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#description> "Rituele dans Inheemse bevolking." .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8622cdbb0dd2ecfd3a0f8c1d658179b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8622cdbb0dd2ecfd3a0f8c1d658179b8> <https://colonialcollections.nl/schema#identifier> "1874/10-1/23" .
 <https://n2t.net/ark:/27023/8622cdbb0dd2ecfd3a0f8c1d658179b8> <https://colonialcollections.nl/schema#name> "Nr. 23: Bivak Penajoeng (van buiten gezien, Oostzijde), uit ´Dertig gezichten op Atjeh´" .
@@ -40,6 +77,13 @@
 <https://n2t.net/ark:/27023/8622cdbb0dd2ecfd3a0f8c1d658179b8> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/8622cdbb0dd2ecfd3a0f8c1d658179b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8622cdbb0dd2ecfd3a0f8c1d658179b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#identifier> "nf%201621-23" .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#name> "Tuhenorizoon van Soliga, Noord Nias" .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: TUHENORIZOON VAN SOLIGA, N.NIAS, 1929 - rechts FOTO R.BONNET\r\n" .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8609643bc37c154d180743f2ff240008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8609643bc37c154d180743f2ff240008> <https://colonialcollections.nl/schema#identifier> "nf%201537-23" .
 <https://n2t.net/ark:/27023/8609643bc37c154d180743f2ff240008> <https://colonialcollections.nl/schema#description> "Stereofoto, twee zo goed als identieke zwart/wit foto's naast elkaar op een stukje donkergrijs karton geplakt, met anderen los aangetroffen.\r\n\r\nOp voor- en achterkant van een nummer voorzien.\r\n\r\nOpnames tonen op de voorgrond een tweetal volwassen mannen. " .
@@ -58,6 +102,7 @@
 <https://n2t.net/ark:/27023/861f6e4ce1d04c63d5d7cfe663f00d94> <https://colonialcollections.nl/schema#creator> "Dhr. Gualtherus Kolff" .
 <https://n2t.net/ark:/27023/861f6e4ce1d04c63d5d7cfe663f00d94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/861f6e4ce1d04c63d5d7cfe663f00d94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/861f6e4ce1d04c63d5d7cfe663f00d94> <https://colonialcollections.nl/schema#creator> "Koninklijke Drukkerij G.J. Thieme" .
 <https://n2t.net/ark:/27023/861111cd5c2d77c2af6a1a42d556b2f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/861111cd5c2d77c2af6a1a42d556b2f0> <https://colonialcollections.nl/schema#identifier> "2016/03/03-1-13" .
 <https://n2t.net/ark:/27023/861111cd5c2d77c2af6a1a42d556b2f0> <https://colonialcollections.nl/schema#name> "Kapmes (klein) in houten schede (ajour), op kling 'Tjibatoe'" .
@@ -86,20 +131,6 @@
 <https://n2t.net/ark:/27023/862147533a5070ed4f6b5af43c8c678c> <https://colonialcollections.nl/schema#inscription> "Der letzte Gang der 11 Schill´schen Offiziere, Wesel 1809." .
 <https://n2t.net/ark:/27023/862147533a5070ed4f6b5af43c8c678c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/862147533a5070ed4f6b5af43c8c678c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/11" .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#name> "Passar Glodok - Batavia" .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met zwart-wit afbeelding van de Passar Glodok in Batavia.\r\n\r\nMet nietgaatjes aan bovenzijde." .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#inscription> "Passar Glodok - Batavia" .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/85f19c5972c195281668265bc6e1e9c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/118" .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#name> "Plaat 118. Kampong Koeta-Radja (Pak-pak)." .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 118. Kampong Koeta-Radja (Pak-pak)." .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#inscription> "Plaat 118. Kampong Koeta-Radja (Pak-pak)." .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/860a86ffe80c35fcab2fd44429d46c84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/85e6688817c0a0dcc8c985496b1f992f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/85e6688817c0a0dcc8c985496b1f992f> <https://colonialcollections.nl/schema#identifier> "nf%20841-50-5" .
 <https://n2t.net/ark:/27023/85e6688817c0a0dcc8c985496b1f992f> <https://colonialcollections.nl/schema#name> "Sarulla" .
@@ -526,30 +557,6 @@
 <https://n2t.net/ark:/27023/8630821d2baf3814cfd598a74f3f689f> <https://colonialcollections.nl/schema#description> "Documenten H.F. Roders." .
 <https://n2t.net/ark:/27023/8630821d2baf3814cfd598a74f3f689f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8630821d2baf3814cfd598a74f3f689f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#identifier> "nf%201562-2" .
-<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#name> "Bataks op Tobameer" .
-<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt geschreven tekst: 'Bataks op Tobameer'.\r\nIn potlood de naam 'Jongbloed'.\r\nOok is er een stempel met volgende tekst: UITGAVE PARKHOTEL - FORT DE KOCK - NADRUK VERBODEN'\r\n\r\nOpname " .
-<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8610a56f09a03c618da634faaa3e12fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#identifier> "1995/10/18-2/29" .
-<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#name> "Twee Indonesische militairen staan bij een vliegtuig en geven elkaar een hand" .
-<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#description> "Foto. Twee Indonesische militairen geven elkaar een hand. Achter hen is de vleugel van een vliegtuig te zien. De man rechts in beeld draagt een leren tas. Foto heeft betrekking op de ML-KNIL.\r\n\r\nStempel verso: tekening van een roofvogel en Foto Auri." .
-<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86112679df158dfaf26d97397fe524f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/12" .
-<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#name> "Rituele dans Inheemse bevolking" .
-<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#description> "Rituele dans Inheemse bevolking." .
-<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8621e3757a9708f92b8a8133403bfe52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#identifier> "nf%201621-23" .
-<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#name> "Tuhenorizoon van Soliga, Noord Nias" .
-<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: TUHENORIZOON VAN SOLIGA, N.NIAS, 1929 - rechts FOTO R.BONNET\r\n" .
-<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8629ac582dfeb867b7c5b1eeb9ababc1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/85f46ecdf6296e73df5bd3f78dcf88b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/85f46ecdf6296e73df5bd3f78dcf88b9> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42922" .
 <https://n2t.net/ark:/27023/85f46ecdf6296e73df5bd3f78dcf88b9> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tdoosjes\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tin vruchtvorm met schotel\r\nMedia:\t3455\r\nHuidige standplaats:\t[3455] Depot, 28, R d [28 R d] [25-nov-2002]" .

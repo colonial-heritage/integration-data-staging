@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#identifier> "2000/10/12-3-17" .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#name> "Doos met steriel noodverband \"NV E.N.I. Verbandstoffenfabriek Soerabaia\"" .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#description> "Doos met steriel noodverband \"NV E.N.I. Verbandstoffenfabriek Soerabaia\".  N.V. Eerste Nederlandsch Indische Verbandstoffenfabriek" .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#inscription> "NV en 1 Verbandstoffenfabriek Soerabaia" .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#creator> "N.V. Eerste Nederlandsch Indische Verbandstoffenfabriek" .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-27" .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#name> "4-daagse, KNIL militairen" .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 4-daagse, KNIL militairen, Onderluitenant Langenberg. Op achterzijde gestempeld: \"H.W. Verplanke Dominicanenstraat 33 Nijmegen, no.1\"." .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#creator> "H.W. Verplanke" .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2cbf3c7384840bc9ed059a14abe1d06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2cbf3c7384840bc9ed059a14abe1d06> <https://colonialcollections.nl/schema#identifier> "nf%20605-34" .
 <https://n2t.net/ark:/27023/f2cbf3c7384840bc9ed059a14abe1d06> <https://colonialcollections.nl/schema#name> "Boogbrug over de Anei rivier" .
@@ -5,6 +20,13 @@
 <https://n2t.net/ark:/27023/f2cbf3c7384840bc9ed059a14abe1d06> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f2cbf3c7384840bc9ed059a14abe1d06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2cbf3c7384840bc9ed059a14abe1d06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#identifier> "2018/02/19-3-3" .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#name> "Kihei Soten Soan [the Cavalry Drill Book, Draft] Rikugunsho Ken’etsu Zumi [Censored by Ministry of Army]" .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#description> "Title: 騎兵操典草案 (Kihei Soten Soan/ the Cavalry Drill Book, Draft)\r\nSecond title: 陸軍省検閲済み (Rikugunsho Ken’etsu Zumi/ Censored by Ministry of Army)\r\nThird title: 綱領、総則、第一乃至第五篇、付録、付票及び付図 (Kouryou, Sousoku, Dai-ichi naishi Dai-go hen, Furoku, Fuhyou, Fuzu/ Outl" .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#creator> "Matakichi KOBAYASHI" .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2d38cb30f879cca60ae05e6a8378bc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2d38cb30f879cca60ae05e6a8378bc4> <https://colonialcollections.nl/schema#identifier> "2007/06/04-2-5/5" .
 <https://n2t.net/ark:/27023/f2d38cb30f879cca60ae05e6a8378bc4> <https://colonialcollections.nl/schema#name> "Maurits Goedhart" .
@@ -19,6 +41,14 @@
 <https://n2t.net/ark:/27023/f2d9d567b8870fd5a0f922570c956974> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/f2d9d567b8870fd5a0f922570c956974> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2d9d567b8870fd5a0f922570c956974> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#identifier> "nf%201334-4" .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#name> "Passar Baroe - Batavia" .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Passar Baroe - Batavia'\r\n\r\nOpname toont" .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#creator> "ROTOGRAVURE DE UNIE" .
 <https://n2t.net/ark:/27023/f298ea61f493e397a7852adb0199ddab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f298ea61f493e397a7852adb0199ddab> <https://colonialcollections.nl/schema#identifier> "nf%201690" .
 <https://n2t.net/ark:/27023/f298ea61f493e397a7852adb0199ddab> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nOpname toont een woonkamer met een hoog plafond en een planken vloer. Op een kleed een ronde tafel met daaromheen  drie stoelen en een tweezits bank. Deze zitmeubelen hebben een open structuur. Boven de t" .
@@ -100,13 +130,6 @@
 <https://n2t.net/ark:/27023/f2dc1f6913476d4a727f2a48a2448647> <https://colonialcollections.nl/schema#inscription> "Anna E. Tietzel Klodjenkodoel 35 Malang" .
 <https://n2t.net/ark:/27023/f2dc1f6913476d4a727f2a48a2448647> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2dc1f6913476d4a727f2a48a2448647> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#identifier> "2000/10/12-3-17" .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#name> "Doos met steriel noodverband \"NV E.N.I. Verbandstoffenfabriek Soerabaia\"" .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#description> "Doos met steriel noodverband \"NV E.N.I. Verbandstoffenfabriek Soerabaia\".  N.V. Eerste Nederlandsch Indische Verbandstoffenfabriek" .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#inscription> "NV en 1 Verbandstoffenfabriek Soerabaia" .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f2c2b5d1d79b706d4de25f384619855d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f29b52351b59e7276c6628a750327f02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f29b52351b59e7276c6628a750327f02> <https://colonialcollections.nl/schema#identifier> "2003/10/31-6-3/13" .
 <https://n2t.net/ark:/27023/f29b52351b59e7276c6628a750327f02> <https://colonialcollections.nl/schema#name> "Foto. Zwart-wit. Periode 1945/46" .
@@ -521,24 +544,6 @@
 <https://n2t.net/ark:/27023/f2e1dfe203167116fa5b630885cb4940> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit, diensttijd J. Grimme 1949-1951 Nederlands-Indië/Indonesië. Bandoeng." .
 <https://n2t.net/ark:/27023/f2e1dfe203167116fa5b630885cb4940> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2e1dfe203167116fa5b630885cb4940> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-27" .
-<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#name> "4-daagse, KNIL militairen" .
-<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 4-daagse, KNIL militairen, Onderluitenant Langenberg. Op achterzijde gestempeld: \"H.W. Verplanke Dominicanenstraat 33 Nijmegen, no.1\"." .
-<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f2aede4fb8220cb39c0b7d87d5eb4411> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#identifier> "2018/02/19-3-3" .
-<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#name> "Kihei Soten Soan [the Cavalry Drill Book, Draft] Rikugunsho Ken’etsu Zumi [Censored by Ministry of Army]" .
-<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#description> "Title: 騎兵操典草案 (Kihei Soten Soan/ the Cavalry Drill Book, Draft)\r\nSecond title: 陸軍省検閲済み (Rikugunsho Ken’etsu Zumi/ Censored by Ministry of Army)\r\nThird title: 綱領、総則、第一乃至第五篇、付録、付票及び付図 (Kouryou, Sousoku, Dai-ichi naishi Dai-go hen, Furoku, Fuhyou, Fuzu/ Outl" .
-<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f2cfa05df85721f77097971e1847fccd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#identifier> "nf%201334-4" .
-<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#name> "Passar Baroe - Batavia" .
-<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Passar Baroe - Batavia'\r\n\r\nOpname toont" .
-<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f2dca77b2c0790a57989617d4b005f5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f29ec0e10223780a14a9d0efa95caa12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f29ec0e10223780a14a9d0efa95caa12> <https://colonialcollections.nl/schema#identifier> "nf%20840-14-4" .
 <https://n2t.net/ark:/27023/f29ec0e10223780a14a9d0efa95caa12> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant. \r\n\r\nDe enige tekst op deze fotopagina in beeld is de in zilverkleurige inkt geschreven naam \"Brastagi\".\r\n\r\nTekst op achterkant in inkt luidt:" .

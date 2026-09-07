@@ -1,10 +1,19 @@
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-8" .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#name> "Djember, De Batoe-Oeloe" .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#inscription> "Djember De Batoe-Oeloe" .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#identifier> "nf%201408-84" .
 <https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#name> "Petroleum tin fabriek" .
 <https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#description> "afbeelding toont een fabriekshal. Netjes op een rij, zitten lokale werkkrachten, mannen en vrouwen, aan apparaten die vermoedelijk metalen (tinnen) platen vouwen tot blikken. Men ziet aandrijfbanden en -wielen boven de werkers.\r\n\r\nDeze afbeelding komt voo" .
-<https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c647e12ba1701aa9e0c6fd7cca86d93> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/5c6612a812cec2d42ab409d32431b383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c6612a812cec2d42ab409d32431b383> <https://colonialcollections.nl/schema#identifier> "2016/03/29-1-63" .
 <https://n2t.net/ark:/27023/5c6612a812cec2d42ab409d32431b383> <https://colonialcollections.nl/schema#name> "Nederlandsch-Indische prenten: Gambar-Gambar. No.2." .
@@ -12,6 +21,13 @@
 <https://n2t.net/ark:/27023/5c6612a812cec2d42ab409d32431b383> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/5c6612a812cec2d42ab409d32431b383> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c6612a812cec2d42ab409d32431b383> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#identifier> "1999/00-583" .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#name> "Koningin Wilhelmina" .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#description> "Portret.  Wilhelmina zittend afgebeeld." .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#creator> "Louis de Breet" .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <https://colonialcollections.nl/schema#identifier> "nf%201430-3" .
 <https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <https://colonialcollections.nl/schema#name> "Keladi planten" .
@@ -19,6 +35,14 @@
 <https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c742891eb6a57678529667291e3e87f> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#identifier> "nf%20772" .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#name> "Bandoeng. Groote Postweg" .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de grote postweg te Bandoeng.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Bandoeng. Groote Postweg.'\r\n\r\ngedeelde achterkant met bovenaan (in het bruin) vermeld 'BRIEFKAART / Carte Postale - Postkarte / Post Card / Wereld" .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c808d32a8690ea532791b3d10313f62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c808d32a8690ea532791b3d10313f62> <https://colonialcollections.nl/schema#identifier> "2002/02/08-7-6/18" .
 <https://n2t.net/ark:/27023/5c808d32a8690ea532791b3d10313f62> <https://colonialcollections.nl/schema#name> "Relief tempelfries" .
@@ -26,6 +50,13 @@
 <https://n2t.net/ark:/27023/5c808d32a8690ea532791b3d10313f62> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/5c808d32a8690ea532791b3d10313f62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c808d32a8690ea532791b3d10313f62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#identifier> "2000/02/29-1-1" .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#name> "Meer van Pandjaloe bij Tasikmalaya" .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#description> "Foto: zwart-wit: Meer van Pandjaloe bij Tasikmalaya, door \"W.E. Kerkhoff, fotograaf Soerabaia.\"" .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#creator> "W.E. Kerkhoff" .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c925f3fcdcd9e69939f69db7c186499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c925f3fcdcd9e69939f69db7c186499> <https://colonialcollections.nl/schema#identifier> "1952/04/01-1" .
 <https://n2t.net/ark:/27023/5c925f3fcdcd9e69939f69db7c186499> <https://colonialcollections.nl/schema#name> "Geschilderd portret van 2e Luitenant der Infanterie KNIL, anoniem" .
@@ -33,6 +64,12 @@
 <https://n2t.net/ark:/27023/5c925f3fcdcd9e69939f69db7c186499> <https://colonialcollections.nl/schema#creator> "Anoniem persoon" .
 <https://n2t.net/ark:/27023/5c925f3fcdcd9e69939f69db7c186499> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c925f3fcdcd9e69939f69db7c186499> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#identifier> "EDO%20481-16" .
+<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een typische (land)weg door een dorp op Bali. De foto is te klein en onduidelijk om meer specifiek te zijn." .
+<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c612bcca3e262b53e8dcb274abc41b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c612bcca3e262b53e8dcb274abc41b2> <https://colonialcollections.nl/schema#identifier> "nf%20833-39" .
 <https://n2t.net/ark:/27023/5c612bcca3e262b53e8dcb274abc41b2> <https://colonialcollections.nl/schema#description> "Kleurenopname van een open ruimte buiten, waar veel aan stokken gebonden varkens liggen\r\n\r\nOp framerand is mogelijk het cijfer 3 te zien.\r\n\r\nOp lijst genoemde tekst bij foto 3: Aangebrachte varkens. Dodenfeest T., K. 1969" .
@@ -93,13 +130,6 @@
 <https://n2t.net/ark:/27023/5c8ad9de75ad5ba18a4a85cf518734a5> <https://colonialcollections.nl/schema#inscription> "C.A.K. 5-8-´42 Tjimahi" .
 <https://n2t.net/ark:/27023/5c8ad9de75ad5ba18a4a85cf518734a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c8ad9de75ad5ba18a4a85cf518734a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-8" .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#name> "Djember, De Batoe-Oeloe" .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#inscription> "Djember De Batoe-Oeloe" .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c73a36c913cac27568f1c671bf21e40> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c55b4c9d4077f74575d1b0df4f96a0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c55b4c9d4077f74575d1b0df4f96a0f> <https://colonialcollections.nl/schema#identifier> "2006/00-23-13-6" .
 <https://n2t.net/ark:/27023/5c55b4c9d4077f74575d1b0df4f96a0f> <https://colonialcollections.nl/schema#name> "Correspondentie museum en bibliotheek Bronbeek, 1973" .
@@ -514,24 +544,6 @@
 <https://n2t.net/ark:/27023/5c9325414b1a268b39b43da457ad69ed> <https://colonialcollections.nl/schema#description> "Document. Poster. Acties van de U-brigade. In de randen staan afbeeldingen van de diverse eenheden waaruit de Brigade was opgebouwd. Afm. 24 x 31 cm. In goede staat." .
 <https://n2t.net/ark:/27023/5c9325414b1a268b39b43da457ad69ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c9325414b1a268b39b43da457ad69ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#identifier> "1999/00-583" .
-<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#name> "Koningin Wilhelmina" .
-<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#description> "Portret.  Wilhelmina zittend afgebeeld." .
-<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c6e322852b1b53a1faf5a0851c41242> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#identifier> "nf%20772" .
-<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#name> "Bandoeng. Groote Postweg" .
-<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de grote postweg te Bandoeng.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Bandoeng. Groote Postweg.'\r\n\r\ngedeelde achterkant met bovenaan (in het bruin) vermeld 'BRIEFKAART / Carte Postale - Postkarte / Post Card / Wereld" .
-<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c7b035388ab9c62d55bce81106eae98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#identifier> "2000/02/29-1-1" .
-<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#name> "Meer van Pandjaloe bij Tasikmalaya" .
-<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#description> "Foto: zwart-wit: Meer van Pandjaloe bij Tasikmalaya, door \"W.E. Kerkhoff, fotograaf Soerabaia.\"" .
-<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c91ab0e29b4419886352e7f2a2fdfb4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c5db61342b92025d496d2f2c87bf22b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c5db61342b92025d496d2f2c87bf22b> <https://colonialcollections.nl/schema#identifier> "1866/04-1-143" .
 <https://n2t.net/ark:/27023/5c5db61342b92025d496d2f2c87bf22b> <https://colonialcollections.nl/schema#description> "Een pijl van een set van veertien pijlen" .
@@ -577,11 +589,6 @@
 <https://n2t.net/ark:/27023/5c90eff2b029b06b767c0c439b2f67fc> <https://colonialcollections.nl/schema#description> "bruine vezels van een rietblad; bij wijze van franje hangend aan een gevlochten touw van vezels, dat aan de uiteinden twee lussen heeft.\r\nHerkomst: port Moresbey, zuidkust Australisch Nieuw Guinea." .
 <https://n2t.net/ark:/27023/5c90eff2b029b06b767c0c439b2f67fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c90eff2b029b06b767c0c439b2f67fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#identifier> "EDO%20481-16" .
-<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een typische (land)weg door een dorp op Bali. De foto is te klein en onduidelijk om meer specifiek te zijn." .
-<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c5d63c7fb9f6cd07b53c7c474f6624e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c7f3f7023ce65404b7fdaed4b58bbb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c7f3f7023ce65404b7fdaed4b58bbb5> <https://colonialcollections.nl/schema#identifier> "S%20230-652" .
 <https://n2t.net/ark:/27023/5c7f3f7023ce65404b7fdaed4b58bbb5> <https://colonialcollections.nl/schema#name> "Model van een fuik" .

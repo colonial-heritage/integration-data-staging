@@ -1,10 +1,18 @@
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-2/1" .
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#name> "Foto van de Sultan Sambas (c.a. 1916)" .
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#description> "Foto. Portret van de Sultan Sambas in Staatsiekleed (westers model), Borneo (ca. 1916). Geplakt op passepartout.\r\nRecto; stempel fotograaf: \"J. Yamasaki, Photographer Pamangkat, W. Borneo.\"\r\nVerso: 'Kakadapan S.P. toean Majoor. Aken Judie tanda matu durie" .
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#creator> "J. Yamasaki, Photographer Pamangkat, W. Borneo" .
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#identifier> "nf%20419-50" .
 <https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#name> "Officierswoningen te Tjikoedapateuh, Bandoeng" .
 <https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#description> "Officierswoningen te Tjikoedapateuh, Bandoeng\r\n\r\nOp voorzijde middenboven de tekst 'Officierswoningen te Tjikoedapateuh Bandoeng' rechts overdwars vermeld '123912 J.C. Becker, Bandoeng, Java' (in rode letters)\r\n\r\ngedeelde achterkant met de tekst; 'Briefka" .
-<https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#creator> "J.C. Becker (Bandoeng, Java)" .
 <https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ea644c1e5751d0314d29e12739a2dcc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0ea94a65f8428e3d9b8cca33139118c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ea94a65f8428e3d9b8cca33139118c2> <https://colonialcollections.nl/schema#identifier> "nf%20677-19" .
 <https://n2t.net/ark:/27023/0ea94a65f8428e3d9b8cca33139118c2> <https://colonialcollections.nl/schema#name> "Batara Kala" .
@@ -12,6 +20,20 @@
 <https://n2t.net/ark:/27023/0ea94a65f8428e3d9b8cca33139118c2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0ea94a65f8428e3d9b8cca33139118c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ea94a65f8428e3d9b8cca33139118c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#identifier> "2008/01/17-1-1/3" .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#name> "Groepsportret van militairen" .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Groepsportret.\r\nFoto van persfotograaf Kabinet Leger-Commandant KNIL Voorlichtingsdienst. Gedurende Politionele acties 1946-1949.  \r\nHandgeschreven tekst verso: 1. J v Gorp; 5. H. Schuyenbroek [?]; 4. .. Onzenoord [?]; 3. .. Horvers; 9. Ti" .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#creator> "Hokkien Photo Studio" .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/30" .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#name> "Voorkampement Magelang" .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Voorkampement Magelang. Gestempeld en postzegel." .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#creator> "Drukkerij H.V. Maresch" .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0eb8f076a986fb5298c9f74c0da742ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0eb8f076a986fb5298c9f74c0da742ed> <https://colonialcollections.nl/schema#identifier> "nf%20694-7" .
 <https://n2t.net/ark:/27023/0eb8f076a986fb5298c9f74c0da742ed> <https://colonialcollections.nl/schema#name> "Loeboek Perakoe" .
@@ -47,6 +69,13 @@
 <https://n2t.net/ark:/27023/0ed4788f14a6720b421c7d943483f054> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/0ed4788f14a6720b421c7d943483f054> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ed4788f14a6720b421c7d943483f054> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#identifier> "1932/11/01-1-2" .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#name> "Portret in lijst" .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#description> "Foto. Portret van luitenant-kolonel R. Heijtman. Heijtman is en trois-quarts geportretteerd en kijkt naar links. Hij staat er met hoofd tot en met borst op. Heijtman heeft een sik en snor en draagt een attila met 2 sterren op de kraag en twee medailles, w" .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#creator> "M. Mazaraki" .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0ee5d53a0118f4ce73d2ca892b3c3273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ee5d53a0118f4ce73d2ca892b3c3273> <https://colonialcollections.nl/schema#identifier> "1997/00-1/338" .
 <https://n2t.net/ark:/27023/0ee5d53a0118f4ce73d2ca892b3c3273> <https://colonialcollections.nl/schema#name> "Kaart van omgeving Si Pirok en Baringin, Sumatra" .
@@ -85,6 +114,12 @@
 <https://n2t.net/ark:/27023/0ebd1986c2028a6c6139f3348f4b5e9b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0ebd1986c2028a6c6139f3348f4b5e9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ebd1986c2028a6c6139f3348f4b5e9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-12" .
+<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Ja[  ]Children\"" .
+<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
+<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0ece83bd94c15bda9c1055504706417e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ece83bd94c15bda9c1055504706417e> <https://colonialcollections.nl/schema#identifier> "nf%201307-13-3" .
 <https://n2t.net/ark:/27023/0ece83bd94c15bda9c1055504706417e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig bijgeknipt, opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een klein meisje in lichte kleding, (mogelijk gebreid) jurkje, jasje en hoedje.\r\nDeze kleding doet niet aan de tropen denken.\r\n\r\nDe setting verwijst een kl" .
@@ -522,30 +557,6 @@
 <https://n2t.net/ark:/27023/0ee9306fddc51f57a71783e8961ebb30> <https://colonialcollections.nl/schema#description> "Reproductie van foto, zwart-wit. Meestal op achterzijde een beschrijving. Reproductie bevat verschillende thema's. Afm. 17,7 x 12,6 cm. Totaal 74 stuks (inv.nrs 2000/01/03-6-1 t/m 2000/01/03-6-74)." .
 <https://n2t.net/ark:/27023/0ee9306fddc51f57a71783e8961ebb30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ee9306fddc51f57a71783e8961ebb30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-2/1" .
-<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#name> "Foto van de Sultan Sambas (c.a. 1916)" .
-<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#description> "Foto. Portret van de Sultan Sambas in Staatsiekleed (westers model), Borneo (ca. 1916). Geplakt op passepartout.\r\nRecto; stempel fotograaf: \"J. Yamasaki, Photographer Pamangkat, W. Borneo.\"\r\nVerso: 'Kakadapan S.P. toean Majoor. Aken Judie tanda matu durie" .
-<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ea5005a2afc2af90fe8019d8ea8e98f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#identifier> "2008/01/17-1-1/3" .
-<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#name> "Groepsportret van militairen" .
-<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Groepsportret.\r\nFoto van persfotograaf Kabinet Leger-Commandant KNIL Voorlichtingsdienst. Gedurende Politionele acties 1946-1949.  \r\nHandgeschreven tekst verso: 1. J v Gorp; 5. H. Schuyenbroek [?]; 4. .. Onzenoord [?]; 3. .. Horvers; 9. Ti" .
-<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ead8bd0475ab95bbedaafc9afbb7e85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/30" .
-<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#name> "Voorkampement Magelang" .
-<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Voorkampement Magelang. Gestempeld en postzegel." .
-<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0eb4313d30170649968761c29247a183> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#identifier> "1932/11/01-1-2" .
-<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#name> "Portret in lijst" .
-<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#description> "Foto. Portret van luitenant-kolonel R. Heijtman. Heijtman is en trois-quarts geportretteerd en kijkt naar links. Hij staat er met hoofd tot en met borst op. Heijtman heeft een sik en snor en draagt een attila met 2 sterren op de kraag en twee medailles, w" .
-<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ee520b4bfa75403b973436bdb0a5cf3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0eaaa682a4dd1e33a770bdb3a9ad718e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0eaaa682a4dd1e33a770bdb3a9ad718e> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42491" .
 <https://n2t.net/ark:/27023/0eaaa682a4dd1e33a770bdb3a9ad718e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 127,4 cm\r\nMedia:\t3024\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3024] Depot, K [K]\r\nhoofdmateriaal:\thout" .
@@ -586,11 +597,6 @@
 <https://n2t.net/ark:/27023/0ee6ee0f836980b7341d5f19ec1e72d5> <https://colonialcollections.nl/schema#description> "Foto." .
 <https://n2t.net/ark:/27023/0ee6ee0f836980b7341d5f19ec1e72d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ee6ee0f836980b7341d5f19ec1e72d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-12" .
-<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Ja[  ]Children\"" .
-<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ec039977c3e2f74728b8857dc50d135> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0eb27824b7c951967adefef653c722f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0eb27824b7c951967adefef653c722f3> <https://colonialcollections.nl/schema#identifier> "2016/04/20-1-1/2" .
 <https://n2t.net/ark:/27023/0eb27824b7c951967adefef653c722f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

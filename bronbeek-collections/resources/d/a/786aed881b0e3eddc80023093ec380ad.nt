@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-10" .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#name> "29. 's Lands Plantentuin. Buitenzorg. (Pandanen)." .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#description> "Schoolplaat. 29. 's Lands Plantentuin. Buitenzorg. (Pandanen)." .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#inscription> "29. 's Lands Plantentuin. Buitenzorg. (Pandanen)." .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/59c33c30435eed7624223d24b558b166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/59c33c30435eed7624223d24b558b166> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/012" .
 <https://n2t.net/ark:/27023/59c33c30435eed7624223d24b558b166> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -10,9 +18,10 @@
 <https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#identifier> "nf%201304-30" .
 <https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#name> "Abhimanjoe" .
 <https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nDeze plaat behoort met anderen, allemaal losse platen, tot een boekwerk met het inventarisnummer N7221.\r\nNaast de platen bestaat dit boekwer" .
-<https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/59a4e619d10f944b96ffe22a5156f4e8> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/59a4f295018e593b14e6ec743dcabfe7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/59a4f295018e593b14e6ec743dcabfe7> <https://colonialcollections.nl/schema#identifier> "nf%20619-18" .
 <https://n2t.net/ark:/27023/59a4f295018e593b14e6ec743dcabfe7> <https://colonialcollections.nl/schema#name> "Een pasar te Weltevreden" .
@@ -20,6 +29,20 @@
 <https://n2t.net/ark:/27023/59a4f295018e593b14e6ec743dcabfe7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/59a4f295018e593b14e6ec743dcabfe7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/59a4f295018e593b14e6ec743dcabfe7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/182" .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Louise Straeter." .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/6" .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt vanaf het Paleis op de Dam door de Raadhuisstraat (?) richting Rozengracht, Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/59be305958f6938010df95dff4851cf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/59be305958f6938010df95dff4851cf5> <https://colonialcollections.nl/schema#identifier> "nf%20705-8" .
 <https://n2t.net/ark:/27023/59be305958f6938010df95dff4851cf5> <https://colonialcollections.nl/schema#name> "'dal Ombilin rivier'" .
@@ -80,13 +103,6 @@
 <https://n2t.net/ark:/27023/59a887f3229d38c65f857f51c6e4d2a3> <https://colonialcollections.nl/schema#inscription> "Gombong Java West Iendië J.Mansheijm ser maj instr." .
 <https://n2t.net/ark:/27023/59a887f3229d38c65f857f51c6e4d2a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/59a887f3229d38c65f857f51c6e4d2a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-10" .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#name> "29. 's Lands Plantentuin. Buitenzorg. (Pandanen)." .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#description> "Schoolplaat. 29. 's Lands Plantentuin. Buitenzorg. (Pandanen)." .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#inscription> "29. 's Lands Plantentuin. Buitenzorg. (Pandanen)." .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/599f7ca8b7075d28fca57d316f22a52e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/598c56cf6f97a97fd871b778528f05d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/598c56cf6f97a97fd871b778528f05d0> <https://colonialcollections.nl/schema#identifier> "2006/12/20-4-2/322" .
 <https://n2t.net/ark:/27023/598c56cf6f97a97fd871b778528f05d0> <https://colonialcollections.nl/schema#name> "Foto Nederlands Indië" .
@@ -531,18 +547,6 @@
 <https://n2t.net/ark:/27023/59d1eef25d18f006c35b7e7882cd61a6> <https://colonialcollections.nl/schema#description> "Foto van landschappen, etc. Totaal 13 stuks (inv.nrs 1998/04/22-1-10/1 en 1998/04/22-1-10/13)." .
 <https://n2t.net/ark:/27023/59d1eef25d18f006c35b7e7882cd61a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/59d1eef25d18f006c35b7e7882cd61a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/182" .
-<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Louise Straeter." .
-<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/59b9dc240f03eedd902ab7e7694b602f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/6" .
-<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
-<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt vanaf het Paleis op de Dam door de Raadhuisstraat (?) richting Rozengracht, Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/59bb38496032279de15363fe343193a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/59965d6bde5ea078ea13937e11c24e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/59965d6bde5ea078ea13937e11c24e18> <https://colonialcollections.nl/schema#identifier> "1921/04/01-3-58" .
 <https://n2t.net/ark:/27023/59965d6bde5ea078ea13937e11c24e18> <https://colonialcollections.nl/schema#description> "Een niet nader omschreven versiering of versiersel van een set van twee versieringen." .
@@ -588,11 +592,12 @@
 <https://n2t.net/ark:/27023/59d028c36e846290822be531d56b09a9> <https://colonialcollections.nl/schema#description> "Zo te zien een opname van een niet Indonesische plaats. Mogelijk een vakantiefoto." .
 <https://n2t.net/ark:/27023/59d028c36e846290822be531d56b09a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/59d028c36e846290822be531d56b09a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#identifier> "nf%20323-32-2" .
+<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/59d0d7df4bae9c4969746ad28a837a42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/59d0d7df4bae9c4969746ad28a837a42> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43718" .
 <https://n2t.net/ark:/27023/59d0d7df4bae9c4969746ad28a837a42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/59d0d7df4bae9c4969746ad28a837a42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#identifier> "nf%20323-32-2" .
-<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/59a301dbe00d73c32a59a9c08831461c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

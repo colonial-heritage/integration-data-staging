@@ -19,6 +19,13 @@
 <https://n2t.net/ark:/27023/606b68cc4c977ef091fb1f18ce0fb673> <https://colonialcollections.nl/schema#creator> "C.B. Snijders" .
 <https://n2t.net/ark:/27023/606b68cc4c977ef091fb1f18ce0fb673> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/606b68cc4c977ef091fb1f18ce0fb673> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/142" .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Kranslegging door man in burger." .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <https://colonialcollections.nl/schema#identifier> "nf%201304-36" .
 <https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <https://colonialcollections.nl/schema#name> "Kretawarma" .
@@ -26,6 +33,7 @@
 <https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/607b3ffd2b1fdff5cc47ec376cf17342> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/608f5e2c32dbcc9a203a3e9f17d8a034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/608f5e2c32dbcc9a203a3e9f17d8a034> <https://colonialcollections.nl/schema#identifier> "nf%201413-9" .
 <https://n2t.net/ark:/27023/608f5e2c32dbcc9a203a3e9f17d8a034> <https://colonialcollections.nl/schema#name> "Kanaalstation. Voor het Bittermeer" .
@@ -521,12 +529,6 @@
 <https://n2t.net/ark:/27023/608fa6ec60cb1b10369f4b35faadb7bc> <https://colonialcollections.nl/schema#description> "Oorkonde behorende bij] overblijfsel van het gedeeltelijk vernieuwde vaandeldoek van het 3e bataljon der Infanterie van het KNIL. Maakt deel uit van een serie overblijfselen van vaandeldoeken met bijbehorende oorkonden." .
 <https://n2t.net/ark:/27023/608fa6ec60cb1b10369f4b35faadb7bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/608fa6ec60cb1b10369f4b35faadb7bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/142" .
-<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Kranslegging door man in burger." .
-<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/60738e744dfdf3bad76b670b6a70c191> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/605fe066dfa080835462c80c74173ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/605fe066dfa080835462c80c74173ba3> <https://colonialcollections.nl/schema#identifier> "S%20230-170" .
 <https://n2t.net/ark:/27023/605fe066dfa080835462c80c74173ba3> <https://colonialcollections.nl/schema#description> "Koker in gebruik om koffie bereid uit koffiebladeren (kopi daun) in te doen;\r\nbamboegeleding en een tussenschot als bodem; op drie plaatsen omwinding met rotanrepen, verbonden aan een handvat van gevlochten rotan.\r\nHerkomst: Padangse benedenlanden, west S" .

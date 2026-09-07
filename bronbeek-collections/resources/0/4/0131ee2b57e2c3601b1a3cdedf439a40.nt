@@ -1,10 +1,56 @@
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-6" .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#name> "Djember, Het leggen van een spoorbrug" .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#inscription> "Djember Het leggen van een spoorbrug" .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/59" .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#name> "Volgelingen van de vorst bij de ingang van de poeri (paleis) van Gianjar" .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nVolgelingen van de vorst bij de ingang van de poeri (paleis) van Gianjar." .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#identifier> "S%204271" .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#name> "Plattegrond van Semarang" .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#description> "Eenvoudige plattegrond van Semarang\r\n\r\nzonder schaal" .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#creator> "Pembina" .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#identifier> "nf%20903" .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#name> "Bali verbrandt een vorst" .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#description> "Film 'Bali verbrandt een vorst'" .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#creator> "Hans Hülscher" .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#identifier> "S%206245-41" .
 <https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#name> "Ploegende karbouwen" .
 <https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Ploegende karbouwen.\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt op Normaalpap" .
-<https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/78dac59df0fdf92e69b2ab3530b5e921> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/9" .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#name> "Rokende kraterwand" .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Rokende kraterwand." .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#creator> "I. Asada Fotograaf, Brastagi" .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/20" .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
 <https://n2t.net/ark:/27023/78cbdf48abaf7d01d04736efab11c9e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/78cbdf48abaf7d01d04736efab11c9e8> <https://colonialcollections.nl/schema#identifier> "nf%20680-78" .
 <https://n2t.net/ark:/27023/78cbdf48abaf7d01d04736efab11c9e8> <https://colonialcollections.nl/schema#description> "Gebouw (fort?), achter wal of muur, vermoedelijk te Makassar" .
@@ -96,20 +142,6 @@
 <https://n2t.net/ark:/27023/790067a9b499659d87067516deaacb33> <https://colonialcollections.nl/schema#inscription> "18 juli 1969" .
 <https://n2t.net/ark:/27023/790067a9b499659d87067516deaacb33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/790067a9b499659d87067516deaacb33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-6" .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#name> "Djember, Het leggen van een spoorbrug" .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#inscription> "Djember Het leggen van een spoorbrug" .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/78df58b9e567a3569a21402ca5a546d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/59" .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#name> "Volgelingen van de vorst bij de ingang van de poeri (paleis) van Gianjar" .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nVolgelingen van de vorst bij de ingang van de poeri (paleis) van Gianjar." .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/79098c4fe912a286fbe10639c801ce19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/78ccc72c332bf80ed2c08eb38a367c8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/78ccc72c332bf80ed2c08eb38a367c8e> <https://colonialcollections.nl/schema#identifier> "2014/02/26-1/8" .
 <https://n2t.net/ark:/27023/78ccc72c332bf80ed2c08eb38a367c8e> <https://colonialcollections.nl/schema#name> "foto" .
@@ -554,30 +586,6 @@
 <https://n2t.net/ark:/27023/790ec68332975c9774acc1b97ab4a1ad> <https://colonialcollections.nl/schema#description> "Identiteitsbewijs van A.M. Douwes, uitgereikt \"ter verkrijging van de voor militairen geldende reductie op de Nederlandsche Spoorwegen\" op 25 januari 1947, geldig van 22 juli 1946 t/m 21 oktober 1946" .
 <https://n2t.net/ark:/27023/790ec68332975c9774acc1b97ab4a1ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/790ec68332975c9774acc1b97ab4a1ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#identifier> "S%204271" .
-<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#name> "Plattegrond van Semarang" .
-<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#description> "Eenvoudige plattegrond van Semarang\r\n\r\nzonder schaal" .
-<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/78ce27cc304dfebe3d1e7c26146c8f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#identifier> "nf%20903" .
-<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#name> "Bali verbrandt een vorst" .
-<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#description> "Film 'Bali verbrandt een vorst'" .
-<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/78d08ad2b0fc5fd3c348f33b90b6fb18> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/9" .
-<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#name> "Rokende kraterwand" .
-<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Rokende kraterwand." .
-<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/78ebe3e0511b0e795ee1aa3fc17ae0e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/20" .
-<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
-<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
-<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/790238bc5496e2b189a9d4b2c4209a65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/78e88c6f38b443211030665d07ee616d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/78e88c6f38b443211030665d07ee616d> <https://colonialcollections.nl/schema#identifier> "S%20230-650" .
 <https://n2t.net/ark:/27023/78e88c6f38b443211030665d07ee616d> <https://colonialcollections.nl/schema#description> "model\r\nHerkomst: Banjoemas; midden Java." .

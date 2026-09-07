@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-9" .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#name> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#description> "Schoolplaat. 27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#inscription> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/8" .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Preanger-Serie II." .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Preanger-Serie II.\r\nBevat 8 prentbriefkaarten, los in een groene kaft/omslag. Op kaft in blauw potlood: \"10\".\r\n\r\nNrs.: " .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Preanger-Serie II." .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#creator> "N.V. Handel Maatschappij Appel & Duveen" .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#identifier> "1997/00-1/324" .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#name> "Kaart van het Gebied bezet in Groot Atjeh" .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#description> "Kaart van het Gebied bezet in Groot Atjeh met de nederzettingen Lepoeng en Lehoeng.\r\nSchaal 1: 40.000; samengesteld door L.W.J.K. Thomson.\r\nUitg. Smulders J.C. te ´s Gravenhage, okt. 1897; met legenda." .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#creator> "J.C. Smulders & Co." .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6685848e96b1fd561ad576cbf28caac0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6685848e96b1fd561ad576cbf28caac0> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/41" .
 <https://n2t.net/ark:/27023/6685848e96b1fd561ad576cbf28caac0> <https://colonialcollections.nl/schema#name> "De Chef der Genie generaal-majoor De Quant zittend achter een bureau en een KNIL-militair naast hem" .
@@ -5,6 +28,13 @@
 <https://n2t.net/ark:/27023/6685848e96b1fd561ad576cbf28caac0> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/6685848e96b1fd561ad576cbf28caac0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6685848e96b1fd561ad576cbf28caac0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/17" .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Portret van Louise van Swieten als bruid staand met bruidsbouquet en een ingelijst portret van haar echtgenoot Jhr. van Cammingha tussen bloemen. Opgeplakt op bruin karton. Preegstempel van fotogra" .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#creator> "Henri Berssenbrugge" .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/66aa2175c217f6e92d0baadc7a64c885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66aa2175c217f6e92d0baadc7a64c885> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/15" .
 <https://n2t.net/ark:/27023/66aa2175c217f6e92d0baadc7a64c885> <https://colonialcollections.nl/schema#name> "Tinus Herner uit Leiden heeft het druk met zijn bulldozer om de gaten te dichten" .
@@ -12,21 +42,29 @@
 <https://n2t.net/ark:/27023/66aa2175c217f6e92d0baadc7a64c885> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/66aa2175c217f6e92d0baadc7a64c885> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/66aa2175c217f6e92d0baadc7a64c885> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#identifier> "1994/11/04-3-1" .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#name> "Benteng 'Lam Koenjet' Atjeh, 1896'" .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#description> "Schilderij in lijst, benteng 'Lam Koenjet' Atjeh, 1896'." .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#creator> "Mw.  Creutz Lechleitner" .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#identifier> "nf%201367-2" .
 <https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#name> "Op weg naar Perak (haven)" .
 <https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 3 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'MIEP en FRANS in den tuin op schommel en wip en te paard; Op weg n" .
-<https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/66b705c07dead96cef8d3cccc5ebdd08> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#identifier> "nf%201408-29" .
 <https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#name> "schedelhuis" .
 <https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#description> "afbeelding toont een kleine groep inheemse personen, een man, een volwassen vrouw met baby op de heup, twee meisjes die rijst aan het stampen zijn eneen jongetje met een donkere doek over zich heen.\r\nAchter hen gebouwen uit hun dorp. Opvallend is het acht" .
-<https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/66baa57ac4adb94152be75c82ac4fe65> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/7" .
 <https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
@@ -34,6 +72,7 @@
 <https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/66c8b1785ecd9adbb8cd4a809a2aef39> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/66c95b15b3c114b95873f18543c7050c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66c95b15b3c114b95873f18543c7050c> <https://colonialcollections.nl/schema#identifier> "1874/08-2/27" .
 <https://n2t.net/ark:/27023/66c95b15b3c114b95873f18543c7050c> <https://colonialcollections.nl/schema#name> "Nr. 27. Kotta Goenoengan of Taman met bezetting, uit ´Vierendertig gezichten op Atjeh´" .
@@ -47,6 +86,18 @@
 <https://n2t.net/ark:/27023/668e834ce36ad26c971477bc1962a5ab> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/668e834ce36ad26c971477bc1962a5ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/668e834ce36ad26c971477bc1962a5ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#identifier> "nf%201424-7" .
+<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een Papoea man. Heel erg 'westers' gekleed, lange witte broek en wit overhemd met korte mouwen. Hij draagt een hoed. Bij hem" .
+<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#creator> "Jac. Hoogerbrugge" .
+<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#identifier> "EDO%20481-38" .
+<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van nogal ver af, van een gebeuren waar veel mensen op af zijn gekomen.\r\nIn dit geval is het een foto van het publiek, maar waarnaar gekeken wordt is onbekend.\r\n\r\nHet formaat van de foto verhin" .
+<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/66bbf7e528cc21c6b8f42243e11556b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66bbf7e528cc21c6b8f42243e11556b0> <https://colonialcollections.nl/schema#identifier> "nf%201691-2" .
 <https://n2t.net/ark:/27023/66bbf7e528cc21c6b8f42243e11556b0> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nAchterop in potlood: 'Bandoeng (Naripanweg)'.\r\n\r\nOpname toont een straat gebouwen aan beide zijden. Deze gebouwen zien er niet uit als woonhuizen. Het verkeer op straat bestaat uit tweewileige voertuigen," .
@@ -73,20 +124,6 @@
 <https://n2t.net/ark:/27023/669307826cb7b7e394a390f8e9b047c2> <https://colonialcollections.nl/schema#inscription> "Dai Nippon teikoku seihu" .
 <https://n2t.net/ark:/27023/669307826cb7b7e394a390f8e9b047c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/669307826cb7b7e394a390f8e9b047c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-9" .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#name> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#description> "Schoolplaat. 27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#inscription> "27. 's Lands Plantentuin. Buitenzorg. Bamboe." .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/66a57d46562ce32d3f00d47fe72af3b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/8" .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Preanger-Serie II." .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Preanger-Serie II.\r\nBevat 8 prentbriefkaarten, los in een groene kaft/omslag. Op kaft in blauw potlood: \"10\".\r\n\r\nNrs.: " .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Preanger-Serie II." .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/66ba758af041538077e172d821bdcecb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/667d3b271a584afaf9449b7c97d693ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/667d3b271a584afaf9449b7c97d693ee> <https://colonialcollections.nl/schema#identifier> "1962/11/29-1-11" .
 <https://n2t.net/ark:/27023/667d3b271a584afaf9449b7c97d693ee> <https://colonialcollections.nl/schema#name> "foto" .
@@ -513,24 +550,6 @@
 <https://n2t.net/ark:/27023/66c6edad37ee81ba638c481d01a4c158> <https://colonialcollections.nl/schema#description> "Foto. Modern, in kleur. Kamp Gedangan, Semarang. 32 stuks." .
 <https://n2t.net/ark:/27023/66c6edad37ee81ba638c481d01a4c158> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/66c6edad37ee81ba638c481d01a4c158> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#identifier> "1997/00-1/324" .
-<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#name> "Kaart van het Gebied bezet in Groot Atjeh" .
-<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#description> "Kaart van het Gebied bezet in Groot Atjeh met de nederzettingen Lepoeng en Lehoeng.\r\nSchaal 1: 40.000; samengesteld door L.W.J.K. Thomson.\r\nUitg. Smulders J.C. te ´s Gravenhage, okt. 1897; met legenda." .
-<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/667ce8900ac9c0de15d30d2ed129811a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/17" .
-<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Portret van Louise van Swieten als bruid staand met bruidsbouquet en een ingelijst portret van haar echtgenoot Jhr. van Cammingha tussen bloemen. Opgeplakt op bruin karton. Preegstempel van fotogra" .
-<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/668aee1b2821b937f31327d6ca4b95fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#identifier> "1994/11/04-3-1" .
-<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#name> "Benteng 'Lam Koenjet' Atjeh, 1896'" .
-<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#description> "Schilderij in lijst, benteng 'Lam Koenjet' Atjeh, 1896'." .
-<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/66b240f725548b4bcb1757f6c7cc57aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/667e15062b4a460669c8f2d5ae8584db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/667e15062b4a460669c8f2d5ae8584db> <https://colonialcollections.nl/schema#identifier> "nf%20899-102" .
 <https://n2t.net/ark:/27023/667e15062b4a460669c8f2d5ae8584db> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nOpname van een meisje, zittend op een speelgoed paard.\r\n\r\nIn het meisje is vermoedelijk een jonge Pop Knaap te herkennen." .
@@ -571,16 +590,6 @@
 <https://n2t.net/ark:/27023/66c4af704bac1c41123da8cdd7606567> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .
 <https://n2t.net/ark:/27023/66c4af704bac1c41123da8cdd7606567> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/66c4af704bac1c41123da8cdd7606567> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#identifier> "nf%201424-7" .
-<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een Papoea man. Heel erg 'westers' gekleed, lange witte broek en wit overhemd met korte mouwen. Hij draagt een hoed. Bij hem" .
-<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/66a6b781fd1eefc26cf38954e8839128> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#identifier> "EDO%20481-38" .
-<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van nogal ver af, van een gebeuren waar veel mensen op af zijn gekomen.\r\nIn dit geval is het een foto van het publiek, maar waarnaar gekeken wordt is onbekend.\r\n\r\nHet formaat van de foto verhin" .
-<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/66b4faeeaacc025edf4ca52d971cd775> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/669ff1ea9cc546a72f2df82b40dc3ac5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/669ff1ea9cc546a72f2df82b40dc3ac5> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/21" .
 <https://n2t.net/ark:/27023/669ff1ea9cc546a72f2df82b40dc3ac5> <https://colonialcollections.nl/schema#name> "Colditz" .

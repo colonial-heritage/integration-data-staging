@@ -21,6 +21,20 @@
 <https://n2t.net/ark:/27023/188aece2bae49e65f774554f3fdbf200> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/188aece2bae49e65f774554f3fdbf200> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/188aece2bae49e65f774554f3fdbf200> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#identifier> "S%206245-5" .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#name> "Bårå Boedoer" .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los in map.\r\n\r\nOp de voorkant staat ergens in zwarte letters ' Bårå Boedoer '\r\n\r\nDe achterkant toont een ansichtkaart met horizontale belijning, nog zonder vertikale middenlijn. Hetgeen inhoudt dat de kaart van vóór 1" .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#creator> "J. Olbertz" .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#identifier> "1998/00-579" .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#name> "Zeeslag op de reede van Goa, 1638" .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#description> "olieverf op doek, zeeslag op de rede van Goa  in 1638 met de Nederlandse schepen \"Amsterdam\" en \"Rotterdam\" aan de Portugezen onder Admiraal Adam van Westerwolt.\r\nGeschilderd door J.A. Beerstraten (J. van Berenstraten) 1622-1666.\r\n59.5 x 106.5cm; bronskle" .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#creator> "J.A. Beerstraten" .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/189a0203c065d2e1706f7c407edbfad8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/189a0203c065d2e1706f7c407edbfad8> <https://colonialcollections.nl/schema#identifier> "nf%20705-13" .
 <https://n2t.net/ark:/27023/189a0203c065d2e1706f7c407edbfad8> <https://colonialcollections.nl/schema#name> "'Ombilin vallei Singkarak-Kolenveld'" .
@@ -35,6 +49,13 @@
 <https://n2t.net/ark:/27023/189b0e6d3879343302a20b7eaee39544> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/189b0e6d3879343302a20b7eaee39544> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/189b0e6d3879343302a20b7eaee39544> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#identifier> "2013/06/01-1-6/3" .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#name> "Carte de visite van twee honden op hoekstoel" .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#description> "Carte de visite van twee honden op hoekstoel, circa 1920." .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#creator> "Photograaf Beng Son & Co" .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/18b2bcf61b17d15a5559069f2a819626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/18b2bcf61b17d15a5559069f2a819626> <https://colonialcollections.nl/schema#identifier> "2017/07/28-5-9" .
 <https://n2t.net/ark:/27023/18b2bcf61b17d15a5559069f2a819626> <https://colonialcollections.nl/schema#name> "Embleem Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek (KTOMM Bronbeek)" .
@@ -42,6 +63,13 @@
 <https://n2t.net/ark:/27023/18b2bcf61b17d15a5559069f2a819626> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
 <https://n2t.net/ark:/27023/18b2bcf61b17d15a5559069f2a819626> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/18b2bcf61b17d15a5559069f2a819626> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#identifier> "nf%20486-8" .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#name> "Sawa's in het binnenland" .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#description> "Gezicht op sawa's (rijstvelden) in het binnenland" .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#creator> "H. Salzwedel, Soerabaya" .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/188cf955510fe40e0d3bc8af20443203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/188cf955510fe40e0d3bc8af20443203> <https://colonialcollections.nl/schema#identifier> "nf%20842-281" .
 <https://n2t.net/ark:/27023/188cf955510fe40e0d3bc8af20443203> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BB, 01 t/m 36. Deze slede is opgeborgen in doos met afneembare roodbruine rug, gemerkt met\r\nBB, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BB 21, in potlood DX 25\r\n\r\nOpn" .
@@ -530,30 +558,6 @@
 <https://n2t.net/ark:/27023/18cfe1b3ef641c9391fe20154c627117> <https://colonialcollections.nl/schema#description> "Foto's betreffende diensttijd C. Wijnen, 72 stuks." .
 <https://n2t.net/ark:/27023/18cfe1b3ef641c9391fe20154c627117> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/18cfe1b3ef641c9391fe20154c627117> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#identifier> "S%206245-5" .
-<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#name> "Bårå Boedoer" .
-<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los in map.\r\n\r\nOp de voorkant staat ergens in zwarte letters ' Bårå Boedoer '\r\n\r\nDe achterkant toont een ansichtkaart met horizontale belijning, nog zonder vertikale middenlijn. Hetgeen inhoudt dat de kaart van vóór 1" .
-<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/18903ed7d0c0f8fae3798ea64fb35458> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#identifier> "1998/00-579" .
-<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#name> "Zeeslag op de reede van Goa, 1638" .
-<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#description> "olieverf op doek, zeeslag op de rede van Goa  in 1638 met de Nederlandse schepen \"Amsterdam\" en \"Rotterdam\" aan de Portugezen onder Admiraal Adam van Westerwolt.\r\nGeschilderd door J.A. Beerstraten (J. van Berenstraten) 1622-1666.\r\n59.5 x 106.5cm; bronskle" .
-<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1896acdee2f187776a63b5da992a856b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#identifier> "2013/06/01-1-6/3" .
-<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#name> "Carte de visite van twee honden op hoekstoel" .
-<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#description> "Carte de visite van twee honden op hoekstoel, circa 1920." .
-<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/189cae11de4595dddf81dd019b78b926> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#identifier> "nf%20486-8" .
-<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#name> "Sawa's in het binnenland" .
-<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#description> "Gezicht op sawa's (rijstvelden) in het binnenland" .
-<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/18c4d1229a485ccba74338f8c26b6ecb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/188f82dc74050531104606b4669e3650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/188f82dc74050531104606b4669e3650> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/17" .
 <https://n2t.net/ark:/27023/188f82dc74050531104606b4669e3650> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/46" .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#name> "Groepsportret van KNIL-officieren" .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nGroepsportret van KNIL-officieren." .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d93c81f414f0f4ab8bb909bad0008ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d93c81f414f0f4ab8bb909bad0008ee> <https://colonialcollections.nl/schema#identifier> "2006/00-42-3/14" .
 <https://n2t.net/ark:/27023/1d93c81f414f0f4ab8bb909bad0008ee> <https://colonialcollections.nl/schema#name> "Nr. 33: Officiers-Kampement aan de Kwala Atjeh, uit ´Vierendertig gezichten op Atjeh´" .
@@ -5,13 +13,28 @@
 <https://n2t.net/ark:/27023/1d93c81f414f0f4ab8bb909bad0008ee> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/1d93c81f414f0f4ab8bb909bad0008ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d93c81f414f0f4ab8bb909bad0008ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#identifier> "1971/01/15-1-1" .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#name> "Commandowisseling Bronbeek 1969/01/01" .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#description> "Foto Commandowisseling Bronbeek 1969/01/01" .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#creator> "Fotopersbureau Kiekschiet" .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#identifier> "nf%20681-19-2" .
 <https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#name> "Rie Schol" .
 <https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, gekarteld.\r\n\r\nDe opname toont een oudere dame, Rie Schol, lopend op straat, vermoedelijk Scheveningen" .
-<https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#creator> "Archipel, De (Den Haag)" .
 <https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1db1604b741747aab6242e7606ef2b90> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/29" .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Badplaats Klandasan" .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balikpapan (Borneo) Badplaats Klandasan" .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#creator> "Rob. Hennemann & Co." .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1dc6909f5a1968a7fe071f18247910b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1dc6909f5a1968a7fe071f18247910b1> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/436" .
 <https://n2t.net/ark:/27023/1dc6909f5a1968a7fe071f18247910b1> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -19,6 +42,13 @@
 <https://n2t.net/ark:/27023/1dc6909f5a1968a7fe071f18247910b1> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/1dc6909f5a1968a7fe071f18247910b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1dc6909f5a1968a7fe071f18247910b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#identifier> "1999/00-453" .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#name> "Model van een zeilschip" .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#description> "Model van een zeilschip, huisvlijt" .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#creator> "Soldaat Infanterie KNIL Joannes Theodorus van der Polet" .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1dd9d12e00b9832e1661475e7701d12c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1dd9d12e00b9832e1661475e7701d12c> <https://colonialcollections.nl/schema#identifier> "nf%20836-36-5" .
 <https://n2t.net/ark:/27023/1dd9d12e00b9832e1661475e7701d12c> <https://colonialcollections.nl/schema#name> "Pop in Kinder costuum" .
@@ -26,6 +56,13 @@
 <https://n2t.net/ark:/27023/1dd9d12e00b9832e1661475e7701d12c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1dd9d12e00b9832e1661475e7701d12c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1dd9d12e00b9832e1661475e7701d12c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#identifier> "2005/00-700" .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#name> "Kepi-KNIL Artillerie Sub.Off., model 1912-1942" .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#description> "Kepi-KNIL Artillerie Sub.Off., model 1912-1942. Zweetband ontbreekt. Kepi met stormband en kokarde, goudkleurig; bovenrand rood." .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#creator> "Toko Militair, Magelang" .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1de8d56ec6c9ec0ae8c86d6bceea9fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1de8d56ec6c9ec0ae8c86d6bceea9fc7> <https://colonialcollections.nl/schema#identifier> "2001/09/24-1-20" .
 <https://n2t.net/ark:/27023/1de8d56ec6c9ec0ae8c86d6bceea9fc7> <https://colonialcollections.nl/schema#name> "Penning, Het Nederlandsche Roode Kruis, Bloedtransfusiedienst. Prof. Dr. Karl Landsteiner" .
@@ -106,13 +143,6 @@
 <https://n2t.net/ark:/27023/1de09d29d8f7e0fc120d65233b53c59a> <https://colonialcollections.nl/schema#inscription> "Parree Horst (L)" .
 <https://n2t.net/ark:/27023/1de09d29d8f7e0fc120d65233b53c59a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1de09d29d8f7e0fc120d65233b53c59a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/46" .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#name> "Groepsportret van KNIL-officieren" .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nGroepsportret van KNIL-officieren." .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1de2dd2eff10f47a60ab2fac0bc5ebfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d934395bc9d5def5368fa84ea3e886c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d934395bc9d5def5368fa84ea3e886c> <https://colonialcollections.nl/schema#identifier> "2009/07/31-2/100" .
 <https://n2t.net/ark:/27023/1d934395bc9d5def5368fa84ea3e886c> <https://colonialcollections.nl/schema#name> "Fotocollectie uit de diensttijd van Johan Schopberteld" .
@@ -545,30 +575,6 @@
 <https://n2t.net/ark:/27023/1dec51b754584e63b0ae4458dac73288> <https://colonialcollections.nl/schema#description> "Kaart met foto betreffende \"'s Lands Koepok Instituut en Instituut Pasteur Bandoeng\" Nederlands-Indië/Indonesië. Uit een serie van 65 foto's" .
 <https://n2t.net/ark:/27023/1dec51b754584e63b0ae4458dac73288> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1dec51b754584e63b0ae4458dac73288> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#identifier> "1971/01/15-1-1" .
-<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#name> "Commandowisseling Bronbeek 1969/01/01" .
-<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#description> "Foto Commandowisseling Bronbeek 1969/01/01" .
-<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d94b82fc0e56f378961ae9b98b419ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/29" .
-<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Badplaats Klandasan" .
-<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balikpapan (Borneo) Badplaats Klandasan" .
-<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1dbfcbab4fb68250bfc9cc2716e68775> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#identifier> "1999/00-453" .
-<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#name> "Model van een zeilschip" .
-<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#description> "Model van een zeilschip, huisvlijt" .
-<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1dcc8acfdb92552c01cc855a4c820f0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#identifier> "2005/00-700" .
-<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#name> "Kepi-KNIL Artillerie Sub.Off., model 1912-1942" .
-<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#description> "Kepi-KNIL Artillerie Sub.Off., model 1912-1942. Zweetband ontbreekt. Kepi met stormband en kokarde, goudkleurig; bovenrand rood." .
-<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1ddd2796388082d04e4768dc301980bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d9c7b345cf404dc5c376192fcd25e80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d9c7b345cf404dc5c376192fcd25e80> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42977" .
 <https://n2t.net/ark:/27023/1d9c7b345cf404dc5c376192fcd25e80> <https://colonialcollections.nl/schema#description> "Houten deksel met singha" .

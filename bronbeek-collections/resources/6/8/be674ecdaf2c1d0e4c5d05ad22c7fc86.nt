@@ -3,9 +3,10 @@
 <https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#name> "9 prentbriefkaarten van NIWIN" .
 <https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, 9 stuks. NIWIN. Copyright N.V. Drukkerij de Spaarnestad, Haarlem.\r\nPasar Senen te Batavia\r\nVerkoper van mandwerk\r\nMoeilijkheden met de motor onderweg\r\nMariniers in Oost-Java\r\nVoedseluitreiking door het Rode Kruis op Madoera\r\nOssenspan i" .
 <https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#inscription> "Binnenlandsche Strijdkrachten 1944-1945; B" .
-<https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0338a3ac581bc8dc1217998b14a2d5e1> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/0307b23de385f01abe9a64bbf0324eb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0307b23de385f01abe9a64bbf0324eb0> <https://colonialcollections.nl/schema#identifier> "nf%201413-262" .
 <https://n2t.net/ark:/27023/0307b23de385f01abe9a64bbf0324eb0> <https://colonialcollections.nl/schema#name> "Kembang sepatoe. Struikgewas met rode bloemen" .
@@ -35,6 +36,20 @@
 <https://n2t.net/ark:/27023/033f76b810e51543839a5ac9a9961235> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/033f76b810e51543839a5ac9a9961235> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/033f76b810e51543839a5ac9a9961235> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#identifier> "nf%201489-1" .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#name> "Medicijnmannen in Zuid Nieuw Guinea" .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gedrukte en geschreven tekst:\r\ngedrukt de naam van de fotograaf; geschreven: '1394 Zuid N.G. Medicijnmannen'\r\n\r\nOpname toont een viertal zo goed als naakte donkere manne" .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/32" .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#name> "Plantentuin te Buitenzorg" .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/03435f9e71a6bed9c5305b8f18dcd2ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03435f9e71a6bed9c5305b8f18dcd2ed> <https://colonialcollections.nl/schema#identifier> "nf%20842-10" .
 <https://n2t.net/ark:/27023/03435f9e71a6bed9c5305b8f18dcd2ed> <https://colonialcollections.nl/schema#name> "De keuken van een warung langs de grote weg in de buurt van Gombong." .
@@ -49,6 +64,7 @@
 <https://n2t.net/ark:/27023/034370ef39b8d026b3be7239007195fe> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/034370ef39b8d026b3be7239007195fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/034370ef39b8d026b3be7239007195fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/034370ef39b8d026b3be7239007195fe> <https://colonialcollections.nl/schema#creator> "Mevrouw Th. Weissenborn" .
 <https://n2t.net/ark:/27023/0309345e9edaf5f069e36c72a02a1a3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0309345e9edaf5f069e36c72a02a1a3e> <https://colonialcollections.nl/schema#identifier> "nf%20833-92" .
 <https://n2t.net/ark:/27023/0309345e9edaf5f069e36c72a02a1a3e> <https://colonialcollections.nl/schema#description> "Kleurenopname van een aantal personen, links de mannen, maar centraal een drietal vrouwen.\r\n\r\nOp framerand is een getal 77 te zien.\r\n\r\nOp lijst genoemde tekst bij foto 77: Groep vrouwen. Sangalla 1972" .
@@ -73,6 +89,12 @@
 <https://n2t.net/ark:/27023/0319d3f8d9a028807b71046782b1d6ed> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0319d3f8d9a028807b71046782b1d6ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0319d3f8d9a028807b71046782b1d6ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#identifier> "nf%20692" .
+<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#description> "Kraam met hoofddoeken ergens in Jakarta" .
+<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#creator> "drs. Pim Westerkamp MA" .
+<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/032a73672a8ec13a627b46bc9b844e5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/032a73672a8ec13a627b46bc9b844e5c> <https://colonialcollections.nl/schema#identifier> "nf%201374-16" .
 <https://n2t.net/ark:/27023/032a73672a8ec13a627b46bc9b844e5c> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname toont een oudere man, gefotografeerd op een strand. Hij draagt een kokerdoek/sarong, heeft een ontbloot bovenlijf, maar draagt wel iets van een los hesje en een loshangende omslagdoek. Als hoofddeksel hee" .
@@ -500,18 +522,6 @@
 <https://n2t.net/ark:/27023/034aaf015b09adc05168587f8569679e> <https://colonialcollections.nl/schema#description> "Gebatikte doek: donkerbruin, 252 x 105cm, 1 zijde verknipt enkele gaten. In redelijke staat." .
 <https://n2t.net/ark:/27023/034aaf015b09adc05168587f8569679e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/034aaf015b09adc05168587f8569679e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#identifier> "nf%201489-1" .
-<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#name> "Medicijnmannen in Zuid Nieuw Guinea" .
-<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gedrukte en geschreven tekst:\r\ngedrukt de naam van de fotograaf; geschreven: '1394 Zuid N.G. Medicijnmannen'\r\n\r\nOpname toont een viertal zo goed als naakte donkere manne" .
-<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/033f8b1ac8a9529a55d0796444024c99> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/32" .
-<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#name> "Plantentuin te Buitenzorg" .
-<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
-<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0341af8d43357847b9cf55308399162f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/030f4cf65b0776280567755bbb6334ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/030f4cf65b0776280567755bbb6334ae> <https://colonialcollections.nl/schema#identifier> "S%202312-15" .
 <https://n2t.net/ark:/27023/030f4cf65b0776280567755bbb6334ae> <https://colonialcollections.nl/schema#description> "KL: donkerbruin, koperkleurig, metaalkleurig ; VO: langwerpig, met lange punt ; DE: afscheiding tussen punt en schacht is rond metalen plaatje (bloemblaadjes) ; bovenkant schacht is versierd met roodkoperen manchet" .
@@ -577,11 +587,6 @@
 <https://n2t.net/ark:/27023/03476b1068408357ec6d933e29f9f8d7> <https://colonialcollections.nl/schema#description> "Paar Chinese sloffen; vlechtwerk van vezels; 3 richtingssysteem; binnenzool; van rietrepen; schuine dichte tweeslag; ongekleurd, zwart en rood; voering van luchtig, rood wollen stof; onderzool; een dun geel vel; naaisel; ramee(touw), 2 maal langs de omtre" .
 <https://n2t.net/ark:/27023/03476b1068408357ec6d933e29f9f8d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/03476b1068408357ec6d933e29f9f8d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#identifier> "nf%20692" .
-<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#description> "Kraam met hoofddoeken ergens in Jakarta" .
-<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/031ccb6f47e52ef0dbfc433471c3066e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/030c0cf1a8df4375fe5de67042c1605a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/030c0cf1a8df4375fe5de67042c1605a> <https://colonialcollections.nl/schema#identifier> "S%20230-501" .
 <https://n2t.net/ark:/27023/030c0cf1a8df4375fe5de67042c1605a> <https://colonialcollections.nl/schema#name> "Kacip" .

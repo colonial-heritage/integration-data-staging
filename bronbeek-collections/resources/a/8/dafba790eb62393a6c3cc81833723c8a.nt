@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#identifier> "1999/07/16-7-2" .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#name> "Merbaboe massief, midden Java vanaf Magelang gezien" .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#description> "Aquarel opgeplakt op strokarton. Aquarel met 'Sawah's voor berging', gesigneerd door 'Soewardja'. Op achterzijde : 'Merbaboe massief midden Java vanaf Magelang gezien'." .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#inscription> "Merbaboe massief midden Java vanaf Magelang gezien" .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#creator> "Soewardja" .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d2649a2fd1546852b792e87cac7b8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d2649a2fd1546852b792e87cac7b8fb> <https://colonialcollections.nl/schema#identifier> "1972/08/16-1-10" .
 <https://n2t.net/ark:/27023/0d2649a2fd1546852b792e87cac7b8fb> <https://colonialcollections.nl/schema#name> "\"Javaansche school te Soerabaya.\"" .
@@ -13,6 +21,14 @@
 <https://n2t.net/ark:/27023/0d01f38bb3435b207c0b597b09406461> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0d01f38bb3435b207c0b597b09406461> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d01f38bb3435b207c0b597b09406461> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d01f38bb3435b207c0b597b09406461> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/1" .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#creator> "Zindler, Djokjakarta" .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d08fe681a4e4d5f104932acce95df25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d08fe681a4e4d5f104932acce95df25> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/2" .
 <https://n2t.net/ark:/27023/0d08fe681a4e4d5f104932acce95df25> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
@@ -27,6 +43,14 @@
 <https://n2t.net/ark:/27023/0d2039976d96c865f402e7f4d94d41fe> <https://colonialcollections.nl/schema#creator> "Johannes Uko Gorter" .
 <https://n2t.net/ark:/27023/0d2039976d96c865f402e7f4d94d41fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d2039976d96c865f402e7f4d94d41fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#identifier> "2006/00-43/62" .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#name> "Kaart van Nederlands Oost-Indië (tevens automobielkaart)" .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#description> "Kaart van Nederlands Oost-Indië (tevens automobielkaart), Drukkerij Senefelder, Amsterdam. Schaal 1: 4.150.000.\r\nLinksonder op kaart: Sleeswijks kaart van Nederlands Oost-Indië. Door P.Joh. Benttink en J. Krijgsman." .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#creator> "Drukkerij Senefelder Amsterdam." .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#creator> "P.Joh. Benttink en J. Krijgsman" .
 <https://n2t.net/ark:/27023/0d2877897d3d8d4bb209f36c5d13e30e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d2877897d3d8d4bb209f36c5d13e30e> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-12/5" .
 <https://n2t.net/ark:/27023/0d2877897d3d8d4bb209f36c5d13e30e> <https://colonialcollections.nl/schema#name> "Overzichtskaart van Atjeh en onderhorigheden" .
@@ -34,6 +58,27 @@
 <https://n2t.net/ark:/27023/0d2877897d3d8d4bb209f36c5d13e30e> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/0d2877897d3d8d4bb209f36c5d13e30e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d2877897d3d8d4bb209f36c5d13e30e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#identifier> "1999/08/23-4" .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#name> "Bronzen plaquette; buste en linkerzijde van gezicht van H. Colijn" .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#description> "Bronzen plaquette ; buste en linkerzijde van gezicht van H. Colijn. Gesigneerd : \"J.C. Wienecke 1925\"." .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#creator> "J.C. Wienecke" .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#identifier> "2010/09/22-6-3" .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#name> "Schilderij in lijst (klein), twee Indonesische huizen" .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#description> "Schilderij in lijst (klein), twee Indonesische huizen. Geschilderd door Paul Akkerman uit Vaassen." .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#creator> "Paul Akkerman" .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#identifier> "nf%201621-10" .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#name> "Maluajazangers in Bawodabaro, Zuid Nias" .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op bruin karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: MALUAJAZANGERS IN BAWODABARO, Z.NIAS 1930 - rechts FOTO R.BONNET\r\n\r\n" .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d2eaf3f5293708edb68c69b7da2dc7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d2eaf3f5293708edb68c69b7da2dc7b> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-40" .
 <https://n2t.net/ark:/27023/0d2eaf3f5293708edb68c69b7da2dc7b> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -72,6 +117,12 @@
 <https://n2t.net/ark:/27023/0d1e195b6f3dff3ca2e1c112ee6c5589> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0d1e195b6f3dff3ca2e1c112ee6c5589> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d1e195b6f3dff3ca2e1c112ee6c5589> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#identifier> "nf%20323-3-2" .
+<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#description> "bijschrift; 'De bochtenrijke weg bij Rioeng. UItzicht naar het Noordwesten, links op den achtergrond het schiereiland van Kdindi'" .
+<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d27f862122227e93dd39c982803fbe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d27f862122227e93dd39c982803fbe6> <https://colonialcollections.nl/schema#identifier> "nf%20842-591" .
 <https://n2t.net/ark:/27023/0d27f862122227e93dd39c982803fbe6> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BD 72 t/m 100.  Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BD, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BD 98, in potlood EF 17" .
@@ -118,13 +169,6 @@
 <https://n2t.net/ark:/27023/0d2a4c6512254d96edfa5963fadd6c5f> <https://colonialcollections.nl/schema#inscription> "W.C.Jesse; 21212" .
 <https://n2t.net/ark:/27023/0d2a4c6512254d96edfa5963fadd6c5f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d2a4c6512254d96edfa5963fadd6c5f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#identifier> "1999/07/16-7-2" .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#name> "Merbaboe massief, midden Java vanaf Magelang gezien" .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#description> "Aquarel opgeplakt op strokarton. Aquarel met 'Sawah's voor berging', gesigneerd door 'Soewardja'. Op achterzijde : 'Merbaboe massief midden Java vanaf Magelang gezien'." .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#inscription> "Merbaboe massief midden Java vanaf Magelang gezien" .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d13951de2a392bdfb693a0ac1c69db7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cf9b3218056322246f6f2e7af2b819b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cf9b3218056322246f6f2e7af2b819b> <https://colonialcollections.nl/schema#identifier> "2008/02/18-9-1" .
 <https://n2t.net/ark:/27023/0cf9b3218056322246f6f2e7af2b819b> <https://colonialcollections.nl/schema#name> "Kruithoorn, moderne replica" .
@@ -539,36 +583,6 @@
 <https://n2t.net/ark:/27023/0d31ca4641b7d1942aa046a4dfb06e47> <https://colonialcollections.nl/schema#description> "Metalen Voortrekkersembleem KNIL. Werd ook wel \"KNIL-PEER\" genoemd." .
 <https://n2t.net/ark:/27023/0d31ca4641b7d1942aa046a4dfb06e47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d31ca4641b7d1942aa046a4dfb06e47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/1" .
-<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
-<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
-<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d04ce7be07b283cfac4716fe4ea68cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#identifier> "2006/00-43/62" .
-<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#name> "Kaart van Nederlands Oost-Indië (tevens automobielkaart)" .
-<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#description> "Kaart van Nederlands Oost-Indië (tevens automobielkaart), Drukkerij Senefelder, Amsterdam. Schaal 1: 4.150.000.\r\nLinksonder op kaart: Sleeswijks kaart van Nederlands Oost-Indië. Door P.Joh. Benttink en J. Krijgsman." .
-<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d26a0f29234f6451242175256938421> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#identifier> "1999/08/23-4" .
-<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#name> "Bronzen plaquette; buste en linkerzijde van gezicht van H. Colijn" .
-<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#description> "Bronzen plaquette ; buste en linkerzijde van gezicht van H. Colijn. Gesigneerd : \"J.C. Wienecke 1925\"." .
-<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d28fef9e583ce952d89dff45847f5c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#identifier> "2010/09/22-6-3" .
-<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#name> "Schilderij in lijst (klein), twee Indonesische huizen" .
-<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#description> "Schilderij in lijst (klein), twee Indonesische huizen. Geschilderd door Paul Akkerman uit Vaassen." .
-<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d2a1ed9e25863717ca289d7e49cea46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#identifier> "nf%201621-10" .
-<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#name> "Maluajazangers in Bawodabaro, Zuid Nias" .
-<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op bruin karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: MALUAJAZANGERS IN BAWODABARO, Z.NIAS 1930 - rechts FOTO R.BONNET\r\n\r\n" .
-<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d2b7fac4d4a18f3defbc12ed857cedb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d1373ccfbc50a1ccee9ba5a3dd657e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d1373ccfbc50a1ccee9ba5a3dd657e8> <https://colonialcollections.nl/schema#identifier> "S%20681-3" .
 <https://n2t.net/ark:/27023/0d1373ccfbc50a1ccee9ba5a3dd657e8> <https://colonialcollections.nl/schema#description> "(kleur) beige;" .
@@ -599,8 +613,3 @@
 <https://n2t.net/ark:/27023/0d32f768f0c42c859d2b6e678ef824c0> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tdrinknap\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tuitgehold\r\nEmailadres: toelichting:\tDe drinknap is gemaakt van een halve, uitgeholde, gedroogde kokosnoot.    Op de onderkant van de nap i" .
 <https://n2t.net/ark:/27023/0d32f768f0c42c859d2b6e678ef824c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d32f768f0c42c859d2b6e678ef824c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#identifier> "nf%20323-3-2" .
-<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#description> "bijschrift; 'De bochtenrijke weg bij Rioeng. UItzicht naar het Noordwesten, links op den achtergrond het schiereiland van Kdindi'" .
-<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d21eca55abdcee2379fcd500e1df41c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

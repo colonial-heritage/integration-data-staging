@@ -14,6 +14,21 @@
 <https://n2t.net/ark:/27023/1e5a4522632d502b227159e96fcbdef7> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/1e5a4522632d502b227159e96fcbdef7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1e5a4522632d502b227159e96fcbdef7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-14" .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#name> "Officierssabel Model 1852" .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#description> "Sabel in schede. Officierssabel Model 1852.\r\nTotale lengte: 98cm. Lengte sabel: 95cm.\r\nGemerkt op kling bovenaan met gehelmde buste.\r\nSchede met 2 ringen. bronskleurig. Schroefje aan onderzijde insteek ontbreekt.\r\nMetaalwindsels greep los/\r\n\r\nM.van Laar (" .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#inscription> "Binnenzijde gevest: klingknop met cijfer \"8\"; onderkant stootplaat: cijfer \"8\"\r\ngreep:\"VIII\"\r\nKling: T. Schoonman - Breda, Wijersberg (logo),  IJzerhouwer\r\nAngel:  R.B. en cijfer \"8\"" .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#creator> "Frederik Schoonman" .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#identifier> "2006/00-42-219" .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#name> "Groepsfoto bij de Atjehtram 'Lam - Meulo'" .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Geplakt op beige papier en grijs karton met een blind kader. Groepsfoto bij de Atjehtram. De locomotief is versierd met kransen en Nederlandse vlaggen. Voorop de locomotief hangt een bord met de tekst 'Lam - Meulo'. Direct naast de trein s" .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#creator> "Yong Mee" .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1e571869efa5c5fa394a250b9b45852c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1e571869efa5c5fa394a250b9b45852c> <https://colonialcollections.nl/schema#identifier> "1986/12-2-2" .
 <https://n2t.net/ark:/27023/1e571869efa5c5fa394a250b9b45852c> <https://colonialcollections.nl/schema#name> "Meer met vulkaan, voor 1910" .
@@ -39,9 +54,24 @@
 <https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#identifier> "nf%201408-107" .
 <https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#name> "Belawan. Station" .
 <https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#description> "afbeelding toont een spoorwegemplacement, met rails, een locomotief, perrons en rechts achter de gebouwen ook de toppen van masten en pijpen van zeeschepen.\r\n\r\nDeze afbeelding komt voor op plaat 2.\r\n\r\nDeze foto is op Noord Sumatra genomen, in Belawan om p" .
-<https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1e6338864b89bb2c670d48b2c6b0a5e0> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#identifier> "1973/11/08-1-7" .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#name> "Schilderij, een schilderijtje: Lauterbrunnen bij Kusnach (Zwitserland) geschilderd door L.J.C. Breet" .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#description> "Schilderij. Lauterbrunnen bij Kusnach (Zwitserland) geschilderd door L.J.C. Breet;" .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#creator> "L.C.J. Breet" .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#identifier> "1969/03/03-1-4" .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#name> "Foto van ontvangst Toeankoe Moehamad Daoed Sjah, Sultan van Atjeh." .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#description> "Foto van ontvangst Toeankoe Moehamad Daoed Sjah, Sultan van Atjeh op station Sigli bij onderwerping 10.01.1903. Foto van C. Kühr te Sigli." .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#creator> "C. Kühr" .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1e337dc4febdc839262d6c49eb42314c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1e337dc4febdc839262d6c49eb42314c> <https://colonialcollections.nl/schema#identifier> "nf%201307-1" .
 <https://n2t.net/ark:/27023/1e337dc4febdc839262d6c49eb42314c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, (slordig) afgeknipt, opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding/stilleven toont een tropische vrucht. Zij liggen los, enkele in een mandje en één opengesneden.\r\nDeze vrucht heet in Indonesië een manggistan." .
@@ -75,13 +105,6 @@
 <https://n2t.net/ark:/27023/1e7b65862787c355f6e2a3d256e0f8d0> <https://colonialcollections.nl/schema#inscription> "Op kling:  P.Mansvelt & Zoon te ´s Hage; Eijzerhouwer" .
 <https://n2t.net/ark:/27023/1e7b65862787c355f6e2a3d256e0f8d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1e7b65862787c355f6e2a3d256e0f8d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-14" .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#name> "Officierssabel Model 1852" .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#description> "Sabel in schede. Officierssabel Model 1852.\r\nTotale lengte: 98cm. Lengte sabel: 95cm.\r\nGemerkt op kling bovenaan met gehelmde buste.\r\nSchede met 2 ringen. bronskleurig. Schroefje aan onderzijde insteek ontbreekt.\r\nMetaalwindsels greep los/\r\n\r\nM.van Laar (" .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#inscription> "Binnenzijde gevest: klingknop met cijfer \"8\"; onderkant stootplaat: cijfer \"8\"\r\ngreep:\"VIII\"\r\nKling: T. Schoonman - Breda, Wijersberg (logo),  IJzerhouwer\r\nAngel:  R.B. en cijfer \"8\"" .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1e6f2615b0ce29677284db0d53d1c509> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1e341f97d49c99bc305f878dc078903f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1e341f97d49c99bc305f878dc078903f> <https://colonialcollections.nl/schema#identifier> "2001/09/24-1-13" .
 <https://n2t.net/ark:/27023/1e341f97d49c99bc305f878dc078903f> <https://colonialcollections.nl/schema#name> "Medaille Prinses Irene Mars (Den Bosch) met gesp \"4\"." .
@@ -520,24 +543,6 @@
 <https://n2t.net/ark:/27023/1e7de4ebefc924d07fb156da331971c5> <https://colonialcollections.nl/schema#description> "Foto's zwart wit Java, Nederlands-Indië uit diensttijd van de heer Oskam, vader van D. Oskam" .
 <https://n2t.net/ark:/27023/1e7de4ebefc924d07fb156da331971c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1e7de4ebefc924d07fb156da331971c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#identifier> "2006/00-42-219" .
-<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#name> "Groepsfoto bij de Atjehtram 'Lam - Meulo'" .
-<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Geplakt op beige papier en grijs karton met een blind kader. Groepsfoto bij de Atjehtram. De locomotief is versierd met kransen en Nederlandse vlaggen. Voorop de locomotief hangt een bord met de tekst 'Lam - Meulo'. Direct naast de trein s" .
-<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1e4816e1a8e18cc51398f126d35c3f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#identifier> "1973/11/08-1-7" .
-<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#name> "Schilderij, een schilderijtje: Lauterbrunnen bij Kusnach (Zwitserland) geschilderd door L.J.C. Breet" .
-<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#description> "Schilderij. Lauterbrunnen bij Kusnach (Zwitserland) geschilderd door L.J.C. Breet;" .
-<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1e64e66898bccd39dceaca97cfcd32d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#identifier> "1969/03/03-1-4" .
-<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#name> "Foto van ontvangst Toeankoe Moehamad Daoed Sjah, Sultan van Atjeh." .
-<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#description> "Foto van ontvangst Toeankoe Moehamad Daoed Sjah, Sultan van Atjeh op station Sigli bij onderwerping 10.01.1903. Foto van C. Kühr te Sigli." .
-<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1e654dc54ec9bb90bdacbd3d494a6d77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1e32dd83ad3b4865e12cafbe32be7a4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1e32dd83ad3b4865e12cafbe32be7a4f> <https://colonialcollections.nl/schema#identifier> "1880/05-2-35" .
 <https://n2t.net/ark:/27023/1e32dd83ad3b4865e12cafbe32be7a4f> <https://colonialcollections.nl/schema#description> "Een pijl van een set van 34 pijlen. De pijlen zijn oorspronkelijk in een krans gerangschikt." .

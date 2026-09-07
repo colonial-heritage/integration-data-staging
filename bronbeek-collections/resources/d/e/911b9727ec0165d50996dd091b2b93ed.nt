@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/1" .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#name> "Pang La'ot en Lêbé Ali, gidsen en tolken der colonne. Tocht van Overste van Daalen naar de Gajo- en Alaslanden, in 1904" .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. \r\nGenummerd: Pl 1. Pang La'ot en Lêbé Ali, gidsen en tolken der colonne.\r\nTocht van Overste van Daalen naar de Gajo en Alas-landen, in 1904. Op karton geplakt. Fotoformaat: 17,1 x 11,4cm." .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#inscription> "Pl 1. Pang La'ot en Lêbé Ali, gidsen en tolken der colonne." .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-19" .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#name> "Vuurplan van de Batterijen der Rebellen der negerij Sorrij Sorrij op het Eiland Saparoea" .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#description> "Pentekening, Plan van de batterijen der Rebellen der Negorijen Oelat en Ouw, 11-11-1817, getekend door Luitenant ter Zee H.P.N. 't Hooft\r\n\r\n\"Vuurplan van de Batterijen der Rebellen der negerij Sorrij Sorrij op het Eiland Saparoea\"\r\nLinksonder gesigneerd: " .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#inscription> "Vuurplan van de Batterijen der Rebellen der negerij Sorrij Sorrij op het Eiland Saparoea" .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#creator> "Luitenant-ter-zee H.P.N. 't Hooft" .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/af399890156eec968e02db3c232a2f9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/af399890156eec968e02db3c232a2f9f> <https://colonialcollections.nl/schema#identifier> "2005/00-692/2" .
 <https://n2t.net/ark:/27023/af399890156eec968e02db3c232a2f9f> <https://colonialcollections.nl/schema#name> "Prent met voorstelling middelen van vervoer" .
@@ -12,6 +28,13 @@
 <https://n2t.net/ark:/27023/af3a841fb3b36e2d13ea5f4fec873f03> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/af3a841fb3b36e2d13ea5f4fec873f03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/af3a841fb3b36e2d13ea5f4fec873f03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/143" .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#name> "Wonosobo (Java) Kali Serajoe" .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Wonosobo (Java) Kali Serajoe" .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#creator> "P. Izeboud" .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/af579ce610fb236e3723e3a23feb4118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/af579ce610fb236e3723e3a23feb4118> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/99" .
 <https://n2t.net/ark:/27023/af579ce610fb236e3723e3a23feb4118> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -19,6 +42,13 @@
 <https://n2t.net/ark:/27023/af579ce610fb236e3723e3a23feb4118> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/af579ce610fb236e3723e3a23feb4118> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/af579ce610fb236e3723e3a23feb4118> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-46" .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#name> "Attila KNIL, Kapitein der Genie" .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#description> "Attila. Kapitein der Genie. Attila groot tenue model 1896.\r\nBorsttressen van goudkoord. Op de kraag drie zilverkleurige metalen sterren met daarachter een van zilverdraad geborduurde Griekse helm." .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#creator> "Eigen Hulp Den Haag Kleeding en Uitrusting" .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/af699a64f2dd4b0693f0c8a4a438c26f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/af699a64f2dd4b0693f0c8a4a438c26f> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-57" .
 <https://n2t.net/ark:/27023/af699a64f2dd4b0693f0c8a4a438c26f> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -47,6 +77,13 @@
 <https://n2t.net/ark:/27023/af721a717340a6dbafc1cb1e88876ce5> <https://colonialcollections.nl/schema#creator> "Katholiek Thuisfront" .
 <https://n2t.net/ark:/27023/af721a717340a6dbafc1cb1e88876ce5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/af721a717340a6dbafc1cb1e88876ce5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#identifier> "2001/03/26-1/7" .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#name> "Portret van een militair" .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Uit periode 1910-1930. Portret van hoofd en borst van een militair in uniform. Hij kijkt naar de camera. De foto is op beigegrijs karton in een gepreegd kader geplakt.\r\n\r\nStempel recto: H.D. Fraenkel, Amsterdam 1e van Swindenstraat 33.\r\n\r" .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#creator> "H.D. Fraenkel" .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/af3b5821691752202052299e563f3613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/af3b5821691752202052299e563f3613> <https://colonialcollections.nl/schema#identifier> "nf%20680-64" .
 <https://n2t.net/ark:/27023/af3b5821691752202052299e563f3613> <https://colonialcollections.nl/schema#description> "Drie (westerse) mensen op een houten steiger, vermoedelijk te Makassar\r\n\r\nN.B.: Uit latere informatie van de geefster blijkt dat: De vrouw rechts de schenkster is en dat de beide andere personen oom en tante Barendregt zijn." .
@@ -118,20 +155,6 @@
 <https://n2t.net/ark:/27023/af80153f77b25c3ba7085bed4056cd42> <https://colonialcollections.nl/schema#inscription> "GB; USA" .
 <https://n2t.net/ark:/27023/af80153f77b25c3ba7085bed4056cd42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/af80153f77b25c3ba7085bed4056cd42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/1" .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#name> "Pang La'ot en Lêbé Ali, gidsen en tolken der colonne. Tocht van Overste van Daalen naar de Gajo- en Alaslanden, in 1904" .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. \r\nGenummerd: Pl 1. Pang La'ot en Lêbé Ali, gidsen en tolken der colonne.\r\nTocht van Overste van Daalen naar de Gajo en Alas-landen, in 1904. Op karton geplakt. Fotoformaat: 17,1 x 11,4cm." .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#inscription> "Pl 1. Pang La'ot en Lêbé Ali, gidsen en tolken der colonne." .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/af3eb657b0c9ff967426bd642343da68> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-19" .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#name> "Vuurplan van de Batterijen der Rebellen der negerij Sorrij Sorrij op het Eiland Saparoea" .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#description> "Pentekening, Plan van de batterijen der Rebellen der Negorijen Oelat en Ouw, 11-11-1817, getekend door Luitenant ter Zee H.P.N. 't Hooft\r\n\r\n\"Vuurplan van de Batterijen der Rebellen der negerij Sorrij Sorrij op het Eiland Saparoea\"\r\nLinksonder gesigneerd: " .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#inscription> "Vuurplan van de Batterijen der Rebellen der negerij Sorrij Sorrij op het Eiland Saparoea" .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/af603de7d1c3692c5f80b11d323c31f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/af316955ea86ed93eb2e5ac3234d0bee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/af316955ea86ed93eb2e5ac3234d0bee> <https://colonialcollections.nl/schema#identifier> "1999/11/12-2-2/2" .
 <https://n2t.net/ark:/27023/af316955ea86ed93eb2e5ac3234d0bee> <https://colonialcollections.nl/schema#name> "Bankbiljet \"De Japansche Regeering : tien (10) gulden\"" .
@@ -528,24 +551,6 @@
 <https://n2t.net/ark:/27023/af7f147a24132926959be4b29bccc737> <https://colonialcollections.nl/schema#description> "Munt. 1/4 Gulden Nederlands Indië, 1945." .
 <https://n2t.net/ark:/27023/af7f147a24132926959be4b29bccc737> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/af7f147a24132926959be4b29bccc737> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/143" .
-<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#name> "Wonosobo (Java) Kali Serajoe" .
-<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Wonosobo (Java) Kali Serajoe" .
-<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/af50af890817bdc2225aa91d49f2948e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-46" .
-<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#name> "Attila KNIL, Kapitein der Genie" .
-<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#description> "Attila. Kapitein der Genie. Attila groot tenue model 1896.\r\nBorsttressen van goudkoord. Op de kraag drie zilverkleurige metalen sterren met daarachter een van zilverdraad geborduurde Griekse helm." .
-<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/af5b2f512e9642f357eb7f843a1c0097> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#identifier> "2001/03/26-1/7" .
-<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#name> "Portret van een militair" .
-<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Uit periode 1910-1930. Portret van hoofd en borst van een militair in uniform. Hij kijkt naar de camera. De foto is op beigegrijs karton in een gepreegd kader geplakt.\r\n\r\nStempel recto: H.D. Fraenkel, Amsterdam 1e van Swindenstraat 33.\r\n\r" .
-<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/af7d358d057665b6b0feda413dd69b7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/af33418b6a5186495819e81aeef3a8c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/af33418b6a5186495819e81aeef3a8c2> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41724" .
 <https://n2t.net/ark:/27023/af33418b6a5186495819e81aeef3a8c2> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoed\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2257\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2257] Depot, 13, M d [13 M d]" .

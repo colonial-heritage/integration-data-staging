@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-42" .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#name> "Carte de visite: Anton Wreesman" .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Anton Wreesman" .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#inscription> "Anton Wreesman" .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#identifier> "1885/09-1-17" .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#name> "s.a.r. La Princesse Louise de Prusse, epouse de s.a.r. le Prince Frédéric des Pays Bas" .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#description> "Prent: s.a.r. La Princesse Louise de Prusse, epouse de s.a.r. le Prince Frédéric des Pays Bas.\" \"Madou\", \"Lith. De Fotard\"" .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#inscription> "s.a.r. La Princesse Louise de Prusse, epouse de s.a.r. le Prince Frédéric des Pays Bas.\" \"Madou\", \"Lith. De Fotard\"" .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#creator> "Moudou [?]" .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#creator> "Jotard [?]" .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#identifier> "2003/11/09-7-3/3" .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#name> "Vruchtverkopers in Nederlands Indië, voor 1942" .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart. Vruchtverkopers (mangistans) Nederlands Indië.\r\nGericht aan J.W. Vermaak op verlof in Nederland, afkomstig van Marion & Wim." .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#creator> "Kasima Batavia C." .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fc45b5e2ae6b05452369085e61aaac6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fc45b5e2ae6b05452369085e61aaac6c> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/2" .
 <https://n2t.net/ark:/27023/fc45b5e2ae6b05452369085e61aaac6c> <https://colonialcollections.nl/schema#name> "Carte de visite" .
@@ -5,6 +29,27 @@
 <https://n2t.net/ark:/27023/fc45b5e2ae6b05452369085e61aaac6c> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/fc45b5e2ae6b05452369085e61aaac6c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fc45b5e2ae6b05452369085e61aaac6c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/8" .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#name> "Noordwijk - Batavia" .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met afbeelding in zwart-wit van een straatbeeld in Noordwijk - Batavia" .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#creator> "Vesta - Rotogravure De Unie" .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-31" .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Malang?" .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  Muziekkapel." .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#creator> "Kawai & Co. Bandoeng" .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-25" .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#name> "Itje ayoe vrouw demang TBeling" .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Idje ayoe Vrouw demang TBeling\"" .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#creator> "C.A. von Hedemann, Java" .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fc2f06c0100082f213fc5bb1eb39bbcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fc2f06c0100082f213fc5bb1eb39bbcf> <https://colonialcollections.nl/schema#identifier> "nf%20262-2" .
 <https://n2t.net/ark:/27023/fc2f06c0100082f213fc5bb1eb39bbcf> <https://colonialcollections.nl/schema#description> "Op de achterkant staat geschreven \"Afgodsbeeld in achterzijde hoofdtempel\".\r\n\r\nPrambanan tempelcomplex\r\n(mog. Vishnu in Vishnu tempel) in dat geval is het een beeld in de Noordelijkste tempel en niet in de hoofdtempel." .
@@ -62,20 +107,6 @@
 <https://n2t.net/ark:/27023/fc76ac44dd0a1e5c25f000cb0d69832e> <https://colonialcollections.nl/schema#inscription> "14244544" .
 <https://n2t.net/ark:/27023/fc76ac44dd0a1e5c25f000cb0d69832e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fc76ac44dd0a1e5c25f000cb0d69832e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-42" .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#name> "Carte de visite: Anton Wreesman" .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Anton Wreesman" .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#inscription> "Anton Wreesman" .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc2f3190f1dc2cf56cdd25d405229036> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#identifier> "1885/09-1-17" .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#name> "s.a.r. La Princesse Louise de Prusse, epouse de s.a.r. le Prince Frédéric des Pays Bas" .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#description> "Prent: s.a.r. La Princesse Louise de Prusse, epouse de s.a.r. le Prince Frédéric des Pays Bas.\" \"Madou\", \"Lith. De Fotard\"" .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#inscription> "s.a.r. La Princesse Louise de Prusse, epouse de s.a.r. le Prince Frédéric des Pays Bas.\" \"Madou\", \"Lith. De Fotard\"" .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc3e3a5a24e5547e5a311610161c240b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fc2a7d96a8993d6ef681dfb2759e86bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fc2a7d96a8993d6ef681dfb2759e86bb> <https://colonialcollections.nl/schema#identifier> "1986/05/20-1-10" .
 <https://n2t.net/ark:/27023/fc2a7d96a8993d6ef681dfb2759e86bb> <https://colonialcollections.nl/schema#name> "Monumen Saksi Kepahlawan Padang Kota Tercinta" .
@@ -526,30 +557,6 @@
 <https://n2t.net/ark:/27023/fc762cd4e52f1911ef3b48f101fd4b7c> <https://colonialcollections.nl/schema#description> "Foto familie Van Delden Nederlands-Indië:\r\nFamiliefoto zwart wit, totaal 32 stuks, Indisch kind (3 jaar?) met halsketting." .
 <https://n2t.net/ark:/27023/fc762cd4e52f1911ef3b48f101fd4b7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fc762cd4e52f1911ef3b48f101fd4b7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#identifier> "2003/11/09-7-3/3" .
-<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#name> "Vruchtverkopers in Nederlands Indië, voor 1942" .
-<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart. Vruchtverkopers (mangistans) Nederlands Indië.\r\nGericht aan J.W. Vermaak op verlof in Nederland, afkomstig van Marion & Wim." .
-<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc2a939567b0f1efdc7a70f31d0ae8ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/8" .
-<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#name> "Noordwijk - Batavia" .
-<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met afbeelding in zwart-wit van een straatbeeld in Noordwijk - Batavia" .
-<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc4fb9c9227f4a5bb0c9adacf9ae0c70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-31" .
-<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Malang?" .
-<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  Muziekkapel." .
-<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc6e7ed88540c1b76f87a4396bc3379d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-25" .
-<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#name> "Itje ayoe vrouw demang TBeling" .
-<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Idje ayoe Vrouw demang TBeling\"" .
-<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc76a07866baecb762b1c6bfbbd87b37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fc33b1212b40bca64f8b369942d8486f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fc33b1212b40bca64f8b369942d8486f> <https://colonialcollections.nl/schema#identifier> "nf%201306-12-2" .
 <https://n2t.net/ark:/27023/fc33b1212b40bca64f8b369942d8486f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een huis, gebouwd op een uit de heuvel afgevlakt terrein. \r\n\r\nN.B.: Deze foto heeft dezelfde geografische herkomst en datum notering gekregen als is aangegeven" .

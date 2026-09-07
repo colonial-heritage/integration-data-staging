@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-5" .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#name> "8. De Kawah Manoek krater (West-Java)" .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n8. De Kawah Manoek krater (West-Java)" .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#inscription> "8. De Kawah Manoek krater (West-Java)" .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7b298508ae606a8f53d992f5029445a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7b298508ae606a8f53d992f5029445a0> <https://colonialcollections.nl/schema#identifier> "nf%201815" .
 <https://n2t.net/ark:/27023/7b298508ae606a8f53d992f5029445a0> <https://colonialcollections.nl/schema#name> "Vertrek van Soerabaja" .
@@ -5,6 +13,20 @@
 <https://n2t.net/ark:/27023/7b298508ae606a8f53d992f5029445a0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7b298508ae606a8f53d992f5029445a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7b298508ae606a8f53d992f5029445a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#identifier> "1998/04/08-2-8/10" .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#name> "Protest van bewoners tegen sluiting van Bronbeek 6 februari 1979" .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#description> "Protest van bewoners tegen sluiting van Bronbeek 6 februari 1979\r\nCopyright Algemeen Rijksarchief, collectie Anefo. 930-1096.\r\nModerne reproductieafdruk 1997.\r\nFoto Croes." .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#creator> "Anefo" .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/29" .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Botanical Garden, Tjibodas" .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Botanical Garden, Tjibodas." .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7b322817ea5b726a0c46b47b272715b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7b322817ea5b726a0c46b47b272715b4> <https://colonialcollections.nl/schema#identifier> "2002/02/08-7-6/15" .
 <https://n2t.net/ark:/27023/7b322817ea5b726a0c46b47b272715b4> <https://colonialcollections.nl/schema#name> "Beeld in Tempel" .
@@ -19,6 +41,15 @@
 <https://n2t.net/ark:/27023/7b3718b29f7221d7729274e29ae93d9f> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/7b3718b29f7221d7729274e29ae93d9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7b3718b29f7221d7729274e29ae93d9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7b3718b29f7221d7729274e29ae93d9f> <https://colonialcollections.nl/schema#creator> "Officieele Vereeniging voor Toeristen Verkeer" .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/29" .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart kleuren druk. Briefkaart. Onbeschreven. Javaansche Verkoopers Orang djoewalan. F.J. Rauch, Bandoeng. 6297." .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#creator> "G. Degert" .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#creator> "F.J.Rauch" .
 <https://n2t.net/ark:/27023/7b56369bfbb3a8df1a82f2fb78c22d75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7b56369bfbb3a8df1a82f2fb78c22d75> <https://colonialcollections.nl/schema#identifier> "1997/00-1/359" .
 <https://n2t.net/ark:/27023/7b56369bfbb3a8df1a82f2fb78c22d75> <https://colonialcollections.nl/schema#name> "Kaart van de Padangse Benedenlanden, Sumatra" .
@@ -65,13 +96,6 @@
 <https://n2t.net/ark:/27023/7b2aa57852a3239864946821229fee10> <https://colonialcollections.nl/schema#inscription> "Klom" .
 <https://n2t.net/ark:/27023/7b2aa57852a3239864946821229fee10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7b2aa57852a3239864946821229fee10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-5" .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#name> "8. De Kawah Manoek krater (West-Java)" .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n8. De Kawah Manoek krater (West-Java)" .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#inscription> "8. De Kawah Manoek krater (West-Java)" .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7b0ca20ffd38dc1a0a73f0bb810438b0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7b0a7d926fbad05a93d0f8382181eb55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7b0a7d926fbad05a93d0f8382181eb55> <https://colonialcollections.nl/schema#identifier> "1998/09/07-1-50/22" .
 <https://n2t.net/ark:/27023/7b0a7d926fbad05a93d0f8382181eb55> <https://colonialcollections.nl/schema#name> "Rangonderscheidingsteken, textiel" .
@@ -504,24 +528,6 @@
 <https://n2t.net/ark:/27023/7b561d551a4af14c933efddcb3e47d01> <https://colonialcollections.nl/schema#description> "Luchtfoto, print. Gemerkt: \"EA/JA16 24-1-46 10.000' 20'' 681 SQDN\". Deel van een reeks luchtfoto's van Malang en omgeving gemaakt op 24 januari 1946.\r\nDe achterzijde van het fotopapier is gemerkt: \"A M Crown Copyright reserved\"." .
 <https://n2t.net/ark:/27023/7b561d551a4af14c933efddcb3e47d01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7b561d551a4af14c933efddcb3e47d01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#identifier> "1998/04/08-2-8/10" .
-<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#name> "Protest van bewoners tegen sluiting van Bronbeek 6 februari 1979" .
-<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#description> "Protest van bewoners tegen sluiting van Bronbeek 6 februari 1979\r\nCopyright Algemeen Rijksarchief, collectie Anefo. 930-1096.\r\nModerne reproductieafdruk 1997.\r\nFoto Croes." .
-<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7b2c1b895528de15a9f9d71243738f9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/29" .
-<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Botanical Garden, Tjibodas" .
-<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Botanical Garden, Tjibodas." .
-<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7b2f053a56971b8786012d369ba43dab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/29" .
-<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
-<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart kleuren druk. Briefkaart. Onbeschreven. Javaansche Verkoopers Orang djoewalan. F.J. Rauch, Bandoeng. 6297." .
-<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7b47a38e736b36f4392a41d3ac5675f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7b0a5f4dac6e1cc3928904b1cb782efb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7b0a5f4dac6e1cc3928904b1cb782efb> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42488" .
 <https://n2t.net/ark:/27023/7b0a5f4dac6e1cc3928904b1cb782efb> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 148,6 cm\r\nMedia:\t3021\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3021] Depot, K [K]\r\nhoofdmateriaal:\thout" .

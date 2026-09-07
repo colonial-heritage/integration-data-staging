@@ -1,3 +1,17 @@
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/81" .
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#name> "Ossenkar met koelies" .
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ossenkar met koelies" .
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#creator> "Meijster" .
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/5" .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#name> "Bezoek Koningn Beatrix aan Bronbeek bij het 125-jarig bestaan" .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#description> "Zwart-wit foto. Bezoek Koningn Beatrix aan Bronbeek bij het 125-jarig bestaan. Naast haar loopt commandant Bronbeek, de Brigade-generaal Epke. In de Oostgang van de benedenverdieping.  Rehts is ook zichtbaar de burgemeester van Arnhem, de heer Drijber. 19" .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#creator> "Theo Janssen" .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/216dd0e14060f0819ea6149e2ea48563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/216dd0e14060f0819ea6149e2ea48563> <https://colonialcollections.nl/schema#identifier> "1992/06/04-12" .
 <https://n2t.net/ark:/27023/216dd0e14060f0819ea6149e2ea48563> <https://colonialcollections.nl/schema#name> "Schetskaart van het eiland Bali" .
@@ -5,6 +19,13 @@
 <https://n2t.net/ark:/27023/216dd0e14060f0819ea6149e2ea48563> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/216dd0e14060f0819ea6149e2ea48563> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/216dd0e14060f0819ea6149e2ea48563> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/23" .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#name> "Groet uit Batavia. No.48 Javasche Bank" .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Batavia. No.48 Javasche Bank" .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2170baf89e869589d96162566ad69fbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2170baf89e869589d96162566ad69fbe> <https://colonialcollections.nl/schema#identifier> "nf%20703-8" .
 <https://n2t.net/ark:/27023/2170baf89e869589d96162566ad69fbe> <https://colonialcollections.nl/schema#name> "'Missigit te Kota Baroe (Agam) bij fort de Kock'" .
@@ -482,24 +503,6 @@
 <https://n2t.net/ark:/27023/217c9630dbff453518d454237906551c> <https://colonialcollections.nl/schema#description> "Foto 5-5 RI, 1948-1950. Totaal 317 stuks." .
 <https://n2t.net/ark:/27023/217c9630dbff453518d454237906551c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/217c9630dbff453518d454237906551c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/81" .
-<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#name> "Ossenkar met koelies" .
-<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ossenkar met koelies" .
-<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2134eaa204d2f788abfeca8c055c59f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/5" .
-<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#name> "Bezoek Koningn Beatrix aan Bronbeek bij het 125-jarig bestaan" .
-<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#description> "Zwart-wit foto. Bezoek Koningn Beatrix aan Bronbeek bij het 125-jarig bestaan. Naast haar loopt commandant Bronbeek, de Brigade-generaal Epke. In de Oostgang van de benedenverdieping.  Rehts is ook zichtbaar de burgemeester van Arnhem, de heer Drijber. 19" .
-<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/214ef5840da17aa6223bb121d4d26204> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/23" .
-<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#name> "Groet uit Batavia. No.48 Javasche Bank" .
-<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Batavia. No.48 Javasche Bank" .
-<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/216e8141e3b81ab619e4f90e12bdb91f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/212d7ac3110ba9dd8462bb124a675a34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/212d7ac3110ba9dd8462bb124a675a34> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-27/28" .
 <https://n2t.net/ark:/27023/212d7ac3110ba9dd8462bb124a675a34> <https://colonialcollections.nl/schema#description> "Foto." .

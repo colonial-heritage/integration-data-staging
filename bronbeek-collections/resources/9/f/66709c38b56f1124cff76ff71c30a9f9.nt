@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/259/1" .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#name> "Hemd gevechtstenue Nederlands detachement UNIFIL Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#description> "Hemd van groene katoen met liggende kraag en revers en schouderlappen. Het hemd wordt middels vier knopen van groene kunsstof gesloten. De hemdsluiting loopt tot halverwege het hemd.\r\n\r\nIn de kraag een wit etiket met zwarte tekst:\r\n\r\nPG8R/UN 8/06493/IF\r\n\r" .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#inscription> "SHUI LUNG INDUSTRIAL CO LTD" .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#creator> "SHUI LUNG INDUSTRIAL CO LTD" .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/2" .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#name> "Defilé van het detachement voor commandant generaal-majoor S.A. Drijber voor de commandantswoning" .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Defilé van het detachement Van Heutsz voor commandant generaal-majoor S.A. Drijber voor de commandantswoning op Bronbeek.\r\n\r\nVerso: Defilé van het det. voor C-Bronbeek Gen.Maj. S.A. Drijber.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dcf4592f75922367c08fa6a2a09cb954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dcf4592f75922367c08fa6a2a09cb954> <https://colonialcollections.nl/schema#identifier> "nf%20681-2" .
 <https://n2t.net/ark:/27023/dcf4592f75922367c08fa6a2a09cb954> <https://colonialcollections.nl/schema#name> "Soengei Bedjankar" .
@@ -9,9 +24,17 @@
 <https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#identifier> "nf%201473-31" .
 <https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#name> "De kloof van Harau, Sumatra" .
 <https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 86. DE KLOOF VAN HARAU. SUMATRA.\r\ngeschreven: Ruim 150 m hoge wanden\r\n\r\nOpname toont een landweg met duid" .
-<https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dcf6497b89cf24a55e8fcff7b4e26c13> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#identifier> "1997/00-1/385" .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#name> "Landkaart van de residentie Pekalongan in drie bladen" .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#description> "Landkaart van de residentie Pekalongan in vier bladen, in papieren kaft; Schaal 1: 100.000; I Blad van de  afdeling Pekalongan en Batang, II 2 bladen van de afd. Tegal, Brebes en Pemalang. Uitg.: Topografische Inrichting, ´s Gravenhage, 1913 (herz. druk)." .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dcfc53522bfa79b0ef411eed7c777166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dcfc53522bfa79b0ef411eed7c777166> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/20" .
 <https://n2t.net/ark:/27023/dcfc53522bfa79b0ef411eed7c777166> <https://colonialcollections.nl/schema#name> "Groet uit Sabang" .
@@ -40,13 +63,22 @@
 <https://n2t.net/ark:/27023/dd0b9ed21d347b43a10bdadb08c48f4f> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/dd0b9ed21d347b43a10bdadb08c48f4f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dd0b9ed21d347b43a10bdadb08c48f4f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dd0b9ed21d347b43a10bdadb08c48f4f> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/8" .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. Publiek kijkt naar Indonesische dansvoorstelling door danser in traditionele kledij op podium.\r\n\r\nVerso: stempel:\r\n\r\ncopyright reserved by:\r\nfoto" .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#creator> "Fotopersbureau \"Hendriksen-Valk\"" .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#identifier> "nf%201473-15" .
 <https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#name> "De waterval in de Anaikloof, Sumatra" .
 <https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 53. DE WATERVAL IN DE ANAIKLOOF. SUMATRA.\r\nGeschreven: Ajer Mantjoerwaterval 25 M. hoog - tandradspoorweg" .
-<https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dd1c727f6639a56935f826f04e3dd95c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/dd205643bdeb82571f3822f75e6071b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dd205643bdeb82571f3822f75e6071b3> <https://colonialcollections.nl/schema#identifier> "nf%20678-5-8" .
 <https://n2t.net/ark:/27023/dd205643bdeb82571f3822f75e6071b3> <https://colonialcollections.nl/schema#name> "Witte kaketoe met kuif" .
@@ -68,6 +100,21 @@
 <https://n2t.net/ark:/27023/dd2591d36de6c2df87c04f4ac9369729> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/dd2591d36de6c2df87c04f4ac9369729> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dd2591d36de6c2df87c04f4ac9369729> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/4" .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue hoofdofficier Brigade Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#description> "Platte pet hoofdofficieren, maat 56." .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#creator> "Louis Simons Jr. Den Haag" .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-4" .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#name> "Portret van Josephine Haak Bastiaanse-van Zeeland" .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#description> "Prent, lithografie. Portret van Josephine Haak Bastiaanse-van Zeeland." .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#creator> "P. Blommers" .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#creator> "N.J.W. de Roode" .
 <https://n2t.net/ark:/27023/dd29f0b2eec32b4a7dfd0b33a2609690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dd29f0b2eec32b4a7dfd0b33a2609690> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/12" .
 <https://n2t.net/ark:/27023/dd29f0b2eec32b4a7dfd0b33a2609690> <https://colonialcollections.nl/schema#name> "Voorname Atjehsche vrouw" .
@@ -101,13 +148,6 @@
 <https://n2t.net/ark:/27023/dd09dcdad9e48b32c748d0dd466bb0b8> <https://colonialcollections.nl/schema#inscription> "voor trouwen dienst" .
 <https://n2t.net/ark:/27023/dd09dcdad9e48b32c748d0dd466bb0b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dd09dcdad9e48b32c748d0dd466bb0b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/259/1" .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#name> "Hemd gevechtstenue Nederlands detachement UNIFIL Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#description> "Hemd van groene katoen met liggende kraag en revers en schouderlappen. Het hemd wordt middels vier knopen van groene kunsstof gesloten. De hemdsluiting loopt tot halverwege het hemd.\r\n\r\nIn de kraag een wit etiket met zwarte tekst:\r\n\r\nPG8R/UN 8/06493/IF\r\n\r" .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#inscription> "SHUI LUNG INDUSTRIAL CO LTD" .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dd1d1453742bc96e10cae6001029cd7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dced46acfcf7cc1c2e5335045a6760e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dced46acfcf7cc1c2e5335045a6760e2> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-7" .
 <https://n2t.net/ark:/27023/dced46acfcf7cc1c2e5335045a6760e2> <https://colonialcollections.nl/schema#name> "Kris in schede (solo)" .
@@ -498,36 +538,6 @@
 <https://n2t.net/ark:/27023/dd2d2da0c6f22943bdd3efe176019c3a> <https://colonialcollections.nl/schema#description> "Foto Nederlands-Indië, periode 1905-1923." .
 <https://n2t.net/ark:/27023/dd2d2da0c6f22943bdd3efe176019c3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dd2d2da0c6f22943bdd3efe176019c3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/2" .
-<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#name> "Defilé van het detachement voor commandant generaal-majoor S.A. Drijber voor de commandantswoning" .
-<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Defilé van het detachement Van Heutsz voor commandant generaal-majoor S.A. Drijber voor de commandantswoning op Bronbeek.\r\n\r\nVerso: Defilé van het det. voor C-Bronbeek Gen.Maj. S.A. Drijber.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dcf1608f10c327cca85fdc9c53c2c4e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#identifier> "1997/00-1/385" .
-<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#name> "Landkaart van de residentie Pekalongan in drie bladen" .
-<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#description> "Landkaart van de residentie Pekalongan in vier bladen, in papieren kaft; Schaal 1: 100.000; I Blad van de  afdeling Pekalongan en Batang, II 2 bladen van de afd. Tegal, Brebes en Pemalang. Uitg.: Topografische Inrichting, ´s Gravenhage, 1913 (herz. druk)." .
-<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dcf8a6d6915b97e05a07630b2c1c17a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/8" .
-<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. Publiek kijkt naar Indonesische dansvoorstelling door danser in traditionele kledij op podium.\r\n\r\nVerso: stempel:\r\n\r\ncopyright reserved by:\r\nfoto" .
-<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dd0d70bcb709012a393691aec7210ad8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/4" .
-<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue hoofdofficier Brigade Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#description> "Platte pet hoofdofficieren, maat 56." .
-<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dd25dc6c34b4d2988eadb34cefe68ef5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-4" .
-<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#name> "Portret van Josephine Haak Bastiaanse-van Zeeland" .
-<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#description> "Prent, lithografie. Portret van Josephine Haak Bastiaanse-van Zeeland." .
-<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dd276e4e805938a39419e12f64d87ab6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dcf386a6b892f0145613acbc3e92018c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dcf386a6b892f0145613acbc3e92018c> <https://colonialcollections.nl/schema#identifier> "nf%201353-39-2" .
 <https://n2t.net/ark:/27023/dcf386a6b892f0145613acbc3e92018c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een huis van twee, misschien drie verdiepingen. Beneden heeft het een open terras, gedeeltelijk gestut door hoekige pilaren van (n" .

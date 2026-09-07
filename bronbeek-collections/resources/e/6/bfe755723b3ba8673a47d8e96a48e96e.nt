@@ -5,6 +5,20 @@
 <https://n2t.net/ark:/27023/97306852e52af9348a119fa0883e1291> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/97306852e52af9348a119fa0883e1291> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97306852e52af9348a119fa0883e1291> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-188" .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#name> "Twee pasfoto´s van een man" .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Twee pasfoto´s met kartelrand van een man met bijbehorend papieren zakje erbij ´Pesanlah photo No 2018, etc., Photo Libra, Malang." .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#creator> "Photo Libra" .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#identifier> "2018/06/11-3-26" .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#name> "Schetskaart van Samalanga." .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#description> "Schetskaart van Samalanga. Schaal van 1 : 20.000 Opgenomen met de kompas bousfola en op den pas door den korp. Opnemer Soker. Papier op linnen. In kleur. Op linnen gestempeld: G.J. van Griethuijsen. \r\nSamalanga, Atjeh's Noordkust. Atjeh-oorlog." .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#creator> "korporaal-opnemer Soker" .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9744f8e4f3487fa828b990d109412d26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9744f8e4f3487fa828b990d109412d26> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/39" .
 <https://n2t.net/ark:/27023/9744f8e4f3487fa828b990d109412d26> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -16,9 +30,25 @@
 <https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#identifier> "1968/07/03-1" .
 <https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#name> "Het eerste Oost-Indische Gezantschap in Nederland, Grave 1602" .
 <https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#description> "staalgravure M. ten Kate pinxit et W. Steelink sculps, c.a 1850\r\ngoede staat" .
-<https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#creator> "M. ten Kate" .
+<https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#creator> "W. Steelink" .
 <https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9751ddbb9f6b213ea07938e2c14cfaa6> <https://colonialcollections.nl/schema#creator> "M. ten Kate" .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-54" .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#description> "Attila. Etiket in hals." .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#creator> "Maatschappij Onderlinge Hulp, Batavia" .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#identifier> "2003/03/12-5-2" .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#name> "Foto van Longhouse met groep kinderen & 2 mannen, in een lijst" .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#description> "Foto. In lijst. Longhouse met groep kinderen & 2 mannen. Niet gesigneerd maar waarschijnlijk Foto van Oeveren." .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#creator> "Foto van Oeveren" .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/975feac12720e8cef606490514838a6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/975feac12720e8cef606490514838a6d> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/27" .
 <https://n2t.net/ark:/27023/975feac12720e8cef606490514838a6d> <https://colonialcollections.nl/schema#name> "Dansmeid te Batavia. (in kleur)" .
@@ -542,30 +572,6 @@
 <https://n2t.net/ark:/27023/97615cd4c0cf966a67216fd2b053d047> <https://colonialcollections.nl/schema#description> "Foto, totaal 246 stuks, uit nalatenschap van KNIL militair Albert Gerard Johannes Pfister (1904-1994), jaren 1920-1930.\r\nAfgebeeld zijn o.a. Kawah (krater) Kamodjan Garoet, Atambua Timor, Floris, Balikpapan, oogstfeest, Indische landschappen, Inlandse bev" .
 <https://n2t.net/ark:/27023/97615cd4c0cf966a67216fd2b053d047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97615cd4c0cf966a67216fd2b053d047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-188" .
-<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#name> "Twee pasfoto´s van een man" .
-<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Twee pasfoto´s met kartelrand van een man met bijbehorend papieren zakje erbij ´Pesanlah photo No 2018, etc., Photo Libra, Malang." .
-<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9734dc5af72960a83dbbf2cc6d93e2d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#identifier> "2018/06/11-3-26" .
-<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#name> "Schetskaart van Samalanga." .
-<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#description> "Schetskaart van Samalanga. Schaal van 1 : 20.000 Opgenomen met de kompas bousfola en op den pas door den korp. Opnemer Soker. Papier op linnen. In kleur. Op linnen gestempeld: G.J. van Griethuijsen. \r\nSamalanga, Atjeh's Noordkust. Atjeh-oorlog." .
-<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9744dbcfcf42bf152bff274d04348ba1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-54" .
-<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
-<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#description> "Attila. Etiket in hals." .
-<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/975789228ed141af8e0d44ec952930e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#identifier> "2003/03/12-5-2" .
-<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#name> "Foto van Longhouse met groep kinderen & 2 mannen, in een lijst" .
-<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#description> "Foto. In lijst. Longhouse met groep kinderen & 2 mannen. Niet gesigneerd maar waarschijnlijk Foto van Oeveren." .
-<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/975e031f6e6117a89404af3b52afa96b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/973b9766d5e6b1ae8a6b280e3306fd7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/973b9766d5e6b1ae8a6b280e3306fd7a> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/145" .
 <https://n2t.net/ark:/27023/973b9766d5e6b1ae8a6b280e3306fd7a> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

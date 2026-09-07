@@ -12,6 +12,20 @@
 <https://n2t.net/ark:/27023/31dd91425f8942498fd2c7aa7c838a57> <https://colonialcollections.nl/schema#creator> "De Stad Parijs N.V. Den Haag" .
 <https://n2t.net/ark:/27023/31dd91425f8942498fd2c7aa7c838a57> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/31dd91425f8942498fd2c7aa7c838a57> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/129" .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#name> "Cock Fighting in Bali" .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Cock Fighting in Bali" .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#identifier> "1997/00-1/286" .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#name> "Stadsplattegrond van Soerabaja, kopie" .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#description> "Stadsplattegrond van Soerabaja, kopie, met de belangrijkste instellingen van Soerabaja (2-talig).\r\nSchaal 1: 10.000; Uitgeverij Survey Production Centre, S.E.A. , HIND 1072, 1st edition 194?" .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#creator> "Survey Production Centre, A.L.F.S.E.A." .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/31f2e237df32079a797f5f65da4404d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/31f2e237df32079a797f5f65da4404d5> <https://colonialcollections.nl/schema#identifier> "nf%20605-9" .
 <https://n2t.net/ark:/27023/31f2e237df32079a797f5f65da4404d5> <https://colonialcollections.nl/schema#name> "tandradbaan voorbij Kajoe Tanam" .
@@ -519,18 +533,6 @@
 <https://n2t.net/ark:/27023/32046ae8815fdb75c8f6317cafca1f6b> <https://colonialcollections.nl/schema#description> "Foto´s afkomstig van Ch.E. van der Heijden, oorlogscorrespondent voor de Dienst voor Legercontacten (DLC).\r\nFoto's moeten nog per object/record worden beschreven [stikker 2009/08/06-2-19/203 over; zit in doos bij deze serie foto's]." .
 <https://n2t.net/ark:/27023/32046ae8815fdb75c8f6317cafca1f6b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/32046ae8815fdb75c8f6317cafca1f6b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/129" .
-<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#name> "Cock Fighting in Bali" .
-<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Cock Fighting in Bali" .
-<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/31ddec4f9c0f426b3afd2b32a5f9feb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#identifier> "1997/00-1/286" .
-<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#name> "Stadsplattegrond van Soerabaja, kopie" .
-<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#description> "Stadsplattegrond van Soerabaja, kopie, met de belangrijkste instellingen van Soerabaja (2-talig).\r\nSchaal 1: 10.000; Uitgeverij Survey Production Centre, S.E.A. , HIND 1072, 1st edition 194?" .
-<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/31e09eea8fc8731f16da958db4ad9a1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/31ca9bb053887e93c1ac027a56b84dd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/31ca9bb053887e93c1ac027a56b84dd1> <https://colonialcollections.nl/schema#identifier> "1880/05-2-7" .
 <https://n2t.net/ark:/27023/31ca9bb053887e93c1ac027a56b84dd1> <https://colonialcollections.nl/schema#description> "Een pijl van een set van 34 pijlen. De pijlen zijn oorspronkelijk in een krans gerangschikt." .

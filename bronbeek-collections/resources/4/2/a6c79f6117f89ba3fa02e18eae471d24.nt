@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-47" .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Neyson van Bulderen" .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Neyson van Bulderen" .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#inscription> "Mevr. Neyson van Bulderen" .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fe76a2b7e8a6099484aeffc587b6cc37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fe76a2b7e8a6099484aeffc587b6cc37> <https://colonialcollections.nl/schema#identifier> "nf%20580-38" .
 <https://n2t.net/ark:/27023/fe76a2b7e8a6099484aeffc587b6cc37> <https://colonialcollections.nl/schema#name> "Artesische bron Koningsplein, Batavia" .
@@ -5,6 +13,20 @@
 <https://n2t.net/ark:/27023/fe76a2b7e8a6099484aeffc587b6cc37> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fe76a2b7e8a6099484aeffc587b6cc37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fe76a2b7e8a6099484aeffc587b6cc37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-57" .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#name> "Foto van Luitenant-generaal J. van Swieten" .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#description> "Foto van Luitenant-generaal J. van Swieten. In klein tenue uniform van voor 1868. 14 x 10cm. Achterzijde: getekend J.van Swieten, juli 1874. Ovaal" .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#creator> "Atelier Petz & Co, Java Batavia" .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-6" .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#name> "Foto van Bronbeek (?), gemaakt in 1997 voor artikel in Legerkoerier" .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#description> "Foto van Bronbeek (?), gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#creator> "René van Bakel" .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fe7a84affd6d7fb3eac4f6ce86a84432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fe7a84affd6d7fb3eac4f6ce86a84432> <https://colonialcollections.nl/schema#identifier> "nf%20842-100" .
 <https://n2t.net/ark:/27023/fe7a84affd6d7fb3eac4f6ce86a84432> <https://colonialcollections.nl/schema#name> "Twee bambu bruggen op het strand te Parang Tritis bij Yogyakarta" .
@@ -12,6 +34,20 @@
 <https://n2t.net/ark:/27023/fe7a84affd6d7fb3eac4f6ce86a84432> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/fe7a84affd6d7fb3eac4f6ce86a84432> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fe7a84affd6d7fb3eac4f6ce86a84432> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#identifier> "nf%201100" .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#name> "Inboorling van Timor" .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#description> "Reproductie, zwart/wit, rechthoekig, aan bovenkant opgeplakt op dun karton.\r\nOp achterkant een nummer in inkt: 6496.\r\n\r\nOnder de foto staat een tekst: 'Inboorling van Timor - (Indigène de Timor)' \r\n\r\nOpname toont een man, uitgebeeld als een strijder. Hij " .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#creator> "J. Gauchard" .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#identifier> "2013/12/05-2-7/4" .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#name> "Carte de cabinet. Antonia Wilhelmina Meijer in het atelier van Wah Heng, photographer te Macassar" .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#description> "Carte de cabinet. Antonia Wilhelmina Meijer staand achter een van boomstammen gemaakt hekwerk in het atelier van Wah Heng, photographer te Macassar." .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#creator> "Wah Heng Photographer" .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fe911711c636c03b6f615251d2815388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fe911711c636c03b6f615251d2815388> <https://colonialcollections.nl/schema#identifier> "2007/06/04-2-5/52" .
 <https://n2t.net/ark:/27023/fe911711c636c03b6f615251d2815388> <https://colonialcollections.nl/schema#name> "De prinsessen Beatrix, Irene en Margriet in een weide bij een pony met veulen" .
@@ -19,6 +55,13 @@
 <https://n2t.net/ark:/27023/fe911711c636c03b6f615251d2815388> <https://colonialcollections.nl/schema#creator> "A.N.P. Foto Amsterdam" .
 <https://n2t.net/ark:/27023/fe911711c636c03b6f615251d2815388> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fe911711c636c03b6f615251d2815388> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#identifier> "2007/06/04-2-5/1" .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#name> "Foto van de familie Goedhart-Brantigam" .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#description> "Foto; carte de cabinet; zwart/wit. \r\nRecto: H. Salzwedel Soerabaya.\r\nVerso: Soerabaja 17/6 '91 1891.\r\nFamiliefoto van de familie Goedhart-Brantigam. Maurits Goedhart was resident van Palembang en gouverneur van Atjeh. Foto´s beslaan periode 1890-1945." .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#creator> "H.Salzwedel Soerabaya" .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fe9779b034d31a207e9e8c09e305b3ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fe9779b034d31a207e9e8c09e305b3ad> <https://colonialcollections.nl/schema#identifier> "nf%20861-1-3" .
 <https://n2t.net/ark:/27023/fe9779b034d31a207e9e8c09e305b3ad> <https://colonialcollections.nl/schema#name> "Kangeanreis 6-11 november 1933 - We verlaten het onbewoonde eiland. Op den achtergrond de Sepandjang" .
@@ -40,6 +83,13 @@
 <https://n2t.net/ark:/27023/feb217f50e8b2f4dbb88936d78638948> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/feb217f50e8b2f4dbb88936d78638948> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/feb217f50e8b2f4dbb88936d78638948> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/137" .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#name> "Cremation Offering, Bali" .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Cremation Offering, Bali" .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/feba7947a7107914199a18e8526b090f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/feba7947a7107914199a18e8526b090f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/61" .
 <https://n2t.net/ark:/27023/feba7947a7107914199a18e8526b090f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -72,13 +122,6 @@
 <https://n2t.net/ark:/27023/feaa2ab82c77634ce2a81bc6d022a6dc> <https://colonialcollections.nl/schema#inscription> "Beknopte Hindoe-Bijbel in gebruik bij de Voor-Indiërs Nijmegen Maart 1900" .
 <https://n2t.net/ark:/27023/feaa2ab82c77634ce2a81bc6d022a6dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/feaa2ab82c77634ce2a81bc6d022a6dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-47" .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Neyson van Bulderen" .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Neyson van Bulderen" .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#inscription> "Mevr. Neyson van Bulderen" .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fe786c62f4c478331894239efc5a29c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fe76bc5bc30ee561bbbc603d8cc200e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fe76bc5bc30ee561bbbc603d8cc200e0> <https://colonialcollections.nl/schema#identifier> "2016/12/30-1/137" .
 <https://n2t.net/ark:/27023/fe76bc5bc30ee561bbbc603d8cc200e0> <https://colonialcollections.nl/schema#name> "Foto uit diensttijd korporaal H. Rijlaarsdam bij 1-8 RI" .
@@ -505,42 +548,6 @@
 <https://n2t.net/ark:/27023/febb1e231c0bca5e1d611e2a78d4b06d> <https://colonialcollections.nl/schema#description> "Tekening. Portret van Jan Bart Blom (1942-1945) In zwart potlood." .
 <https://n2t.net/ark:/27023/febb1e231c0bca5e1d611e2a78d4b06d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/febb1e231c0bca5e1d611e2a78d4b06d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-57" .
-<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#name> "Foto van Luitenant-generaal J. van Swieten" .
-<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#description> "Foto van Luitenant-generaal J. van Swieten. In klein tenue uniform van voor 1868. 14 x 10cm. Achterzijde: getekend J.van Swieten, juli 1874. Ovaal" .
-<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fe76fee74feb5fc035673d2420416854> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-6" .
-<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#name> "Foto van Bronbeek (?), gemaakt in 1997 voor artikel in Legerkoerier" .
-<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#description> "Foto van Bronbeek (?), gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
-<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fe78d21e4d244c201bc7f18eff3ad12c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#identifier> "nf%201100" .
-<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#name> "Inboorling van Timor" .
-<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#description> "Reproductie, zwart/wit, rechthoekig, aan bovenkant opgeplakt op dun karton.\r\nOp achterkant een nummer in inkt: 6496.\r\n\r\nOnder de foto staat een tekst: 'Inboorling van Timor - (Indigène de Timor)' \r\n\r\nOpname toont een man, uitgebeeld als een strijder. Hij " .
-<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fe828018fa22a1d3219faac6189aaf6b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#identifier> "2013/12/05-2-7/4" .
-<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#name> "Carte de cabinet. Antonia Wilhelmina Meijer in het atelier van Wah Heng, photographer te Macassar" .
-<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#description> "Carte de cabinet. Antonia Wilhelmina Meijer staand achter een van boomstammen gemaakt hekwerk in het atelier van Wah Heng, photographer te Macassar." .
-<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fe89b9caaa0398549cfe7376105ccb06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#identifier> "2007/06/04-2-5/1" .
-<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#name> "Foto van de familie Goedhart-Brantigam" .
-<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#description> "Foto; carte de cabinet; zwart/wit. \r\nRecto: H. Salzwedel Soerabaya.\r\nVerso: Soerabaja 17/6 '91 1891.\r\nFamiliefoto van de familie Goedhart-Brantigam. Maurits Goedhart was resident van Palembang en gouverneur van Atjeh. Foto´s beslaan periode 1890-1945." .
-<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fe924cfd5d3b47f6606bb0482eb9c511> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/137" .
-<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#name> "Cremation Offering, Bali" .
-<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Cremation Offering, Bali" .
-<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/feb33e85be34b4f64e0ec247a48567bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fe799d76dd90b658b1e3fc0fda6b9d0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fe799d76dd90b658b1e3fc0fda6b9d0f> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41886" .
 <https://n2t.net/ark:/27023/fe799d76dd90b658b1e3fc0fda6b9d0f> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tbeenring\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tZware beenring van koper. Aan de binnenkant ruw, aan de buitenkant glad, zonder versieringsmotieven. De buitenkant loopt enigzins bol.  De uiteinde" .

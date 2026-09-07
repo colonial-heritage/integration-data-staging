@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/3" .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#name> "Veld met jonge aanplant. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Veld met jonge aanplant.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#inscription> "Afd. 6." .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-51" .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#name> "Portret van pastoor Verbraak en een militair op een schip" .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Op karton geplakt. Portret van pastoor Verbraak en een militair op een schip naast een stuurwiel.\r\nVerso handgeschreven: Atjeh. Pastoor Verbraak.\r\nVerso signatuur: W. Jones photographer, Penang" .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#creator> "W. Jones. Photographer, No.IC, King Street, Penang" .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/86ed509146d8a76edaaca88c0ae64900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/86ed509146d8a76edaaca88c0ae64900> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/13" .
 <https://n2t.net/ark:/27023/86ed509146d8a76edaaca88c0ae64900> <https://colonialcollections.nl/schema#name> "Soldaat Simon de Wit uit Den Helder is normaal kok, maar nu is hij ingedeeld bij een mortier-sectie, sector Padang" .
@@ -12,13 +27,28 @@
 <https://n2t.net/ark:/27023/86efe26e25b7a69da63d38b8effffa3a> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/86efe26e25b7a69da63d38b8effffa3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/86efe26e25b7a69da63d38b8effffa3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#identifier> "IB1972/04/17-1-1" .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#name> "Portret [in houten lijst, met inlegwerk versierd]" .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#description> "Portret [in houten lijst, met inlegwerk versierd.] Afkomstig uit de collectie Mosselman." .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#creator> "Pieter Nissen" .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#identifier> "2006/00-43/68" .
 <https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#name> "Wandkaart van Nederlandsch-Indië" .
 <https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#description> "Wandkaart van Nederlandsch-Indië door W. van Gelder en C. Lekkerkerker. Bij J.W. Wolters ~~ Groningen-Batavia.\r\nSchaal 1: 2.500.000; 9e herziene herdruk. Cart.Inst. J.B. Wolters.\r\n± 94°C -  141°C OL en ± 8°C NB - 14°C ZB.\r\n\r\nInzetkaart\r\nVoornaamste delen " .
-<https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#creator> "W. van Gelder en C. Lekkerkerker" .
 <https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8704aae2e5929888ee5e5bd8ee5e92fb> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#identifier> "1973/11/08-1-1" .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#name> "Prent van Marius Bauer: Boroboedoer" .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#description> "Prent van Marius Bauer. Boroboedoer.\r\nUit serie: \"Indisch huldeblijk ter gelegenheid van het ZilverenHuwelijksfeest van H.M. de Koningin.\"" .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#creator> "Marius Alexander Jacques Bauer" .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/86c8a86db027254473cc80e6ea949957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/86c8a86db027254473cc80e6ea949957> <https://colonialcollections.nl/schema#identifier> "nf%201918-29" .
 <https://n2t.net/ark:/27023/86c8a86db027254473cc80e6ea949957> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Plantentuin Bzg'\r\n\r\nOpnames tonen een vijver. Op het water de bladeren van waterlelies. Om de vijver heen een gebied met hogere bomen. op de voo" .
@@ -70,13 +100,6 @@
 <https://n2t.net/ark:/27023/86e99674ce387647686c00791382d4fe> <https://colonialcollections.nl/schema#inscription> "\"577 DVR A. Taylor R.A.\"" .
 <https://n2t.net/ark:/27023/86e99674ce387647686c00791382d4fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/86e99674ce387647686c00791382d4fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/3" .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#name> "Veld met jonge aanplant. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Veld met jonge aanplant.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#inscription> "Afd. 6." .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86de9078e437f73ecc1dba8e10686b2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/86ca0e9b6dfabe19e8178e0127e7769e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/86ca0e9b6dfabe19e8178e0127e7769e> <https://colonialcollections.nl/schema#identifier> "1999/07/06-6-3/5" .
 <https://n2t.net/ark:/27023/86ca0e9b6dfabe19e8178e0127e7769e> <https://colonialcollections.nl/schema#name> "Kleurdia \"Kodachrome\" in doosje" .
@@ -491,24 +514,6 @@
 <https://n2t.net/ark:/27023/870d9c970c451c24b4fb0aead9694ecd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. (totaal 62 stuks). KNIL-militairen en Dayaks op Borneo." .
 <https://n2t.net/ark:/27023/870d9c970c451c24b4fb0aead9694ecd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/870d9c970c451c24b4fb0aead9694ecd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-51" .
-<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#name> "Portret van pastoor Verbraak en een militair op een schip" .
-<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Op karton geplakt. Portret van pastoor Verbraak en een militair op een schip naast een stuurwiel.\r\nVerso handgeschreven: Atjeh. Pastoor Verbraak.\r\nVerso signatuur: W. Jones photographer, Penang" .
-<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86d88849160a30751e9874e3f4ff6e6c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#identifier> "IB1972/04/17-1-1" .
-<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#name> "Portret [in houten lijst, met inlegwerk versierd]" .
-<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#description> "Portret [in houten lijst, met inlegwerk versierd.] Afkomstig uit de collectie Mosselman." .
-<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/86fbf19342001b8fd04009c20704faac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#identifier> "1973/11/08-1-1" .
-<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#name> "Prent van Marius Bauer: Boroboedoer" .
-<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#description> "Prent van Marius Bauer. Boroboedoer.\r\nUit serie: \"Indisch huldeblijk ter gelegenheid van het ZilverenHuwelijksfeest van H.M. de Koningin.\"" .
-<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8708370c722d147f376fdea6df6c2ed7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/86cbc4295dd7e336ea09deb15bd3d799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/86cbc4295dd7e336ea09deb15bd3d799> <https://colonialcollections.nl/schema#identifier> "nf%201309-1-3" .
 <https://n2t.net/ark:/27023/86cbc4295dd7e336ea09deb15bd3d799> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig (hoeken afgerond), opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een huis/woning, waarvan waarschijnlijk de achterkant zichtbaar is met een grote veranda, met een paar treden afgaand naar de tuin. Op deze treden een twe" .

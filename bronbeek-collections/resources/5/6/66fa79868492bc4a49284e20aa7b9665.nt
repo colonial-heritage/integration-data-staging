@@ -1,3 +1,20 @@
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#identifier> "2008/12/16-13-2/3" .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#name> "Portret van Ulke van der Bij" .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Ulke van der Bij.\r\nRecto, preegstempel: Foto-Weijer Heerenveen.\r\nVerso: \"Ulke vd Bij\"." .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#inscription> "Foto-Weijer Heerenveen" .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#creator> "Foto Weijer" .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-72" .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#name> "Javaansch Kerkhof" .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Javaansch Kerkhof." .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#inscription> "Javaansche Kerkhof" .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#creator> "G. Adolfs" .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#creator> "Masman & Stroink, Semarang" .
 <https://n2t.net/ark:/27023/8f172ff62ae94dc2db8bcf656445d871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f172ff62ae94dc2db8bcf656445d871> <https://colonialcollections.nl/schema#identifier> "2012/05/09-1-3/11" .
 <https://n2t.net/ark:/27023/8f172ff62ae94dc2db8bcf656445d871> <https://colonialcollections.nl/schema#name> "Expeditie op weg naar een vulkaanuitbarsting" .
@@ -17,9 +34,17 @@
 <https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#identifier> "nf%201473-21" .
 <https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#name> "Drijfjacht op wilde varkens" .
 <https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 67. DRIJFJACHT OP WILDE VARKENS. DE BUIT. SUMATRA.\r\ngeschreven: vernielen de sawah's; onrein dier i.d. oo" .
-<https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f15950db52a58906040256e3c108426> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#identifier> "2006/00-42-30" .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#name> "Straatbeeld van Medan, Sumatra" .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Straatbeeld van Medan, Sumatra.\r\nRecto: Medan.\r\nVerso: Medan. Photo genomen Juli 1930. Sumatra Oostkust.\r\nStempel op verso: Mohd.Dar, schrijver - photograaf, Sabang." .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f1a6eda4caf6914ed9d1d13726cd0bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f1a6eda4caf6914ed9d1d13726cd0bc> <https://colonialcollections.nl/schema#identifier> "nf%20789-3" .
 <https://n2t.net/ark:/27023/8f1a6eda4caf6914ed9d1d13726cd0bc> <https://colonialcollections.nl/schema#name> "Straat in Soerabaja" .
@@ -41,6 +66,13 @@
 <https://n2t.net/ark:/27023/8f1e1be680506346ade5f1a007b90ecd> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/8f1e1be680506346ade5f1a007b90ecd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f1e1be680506346ade5f1a007b90ecd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#identifier> "00265348" .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#name> "Foto bezoek Mangkoe Negoro VII" .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#description> "Foto zwart wit van bezoek van Mangkoe Negoro VII met gevolg aan Kamp Waalsdorp te Den Haag. Delegatie staat met Nederlandse officieren voor barak No. 4. Mangkoe Negoro in uniform van kolonel titulair van het KNIL\r\nDe Mangkoe Negoro is kolonel titulair van" .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#creator> "Fotopersbureau Gompers" .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f2e5a20dd297a89facf7e07af0f4ba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f2e5a20dd297a89facf7e07af0f4ba7> <https://colonialcollections.nl/schema#identifier> "1971/08/04-1-2" .
 <https://n2t.net/ark:/27023/8f2e5a20dd297a89facf7e07af0f4ba7> <https://colonialcollections.nl/schema#name> "Aquarelschets van 3 militairen van het  Korps Marechaussee van Atjeh en Onderhoorigheden, door J. Hoynck van Papendrecht, 1927" .
@@ -48,6 +80,20 @@
 <https://n2t.net/ark:/27023/8f2e5a20dd297a89facf7e07af0f4ba7> <https://colonialcollections.nl/schema#creator> "J. Hoynck van Papendrecht" .
 <https://n2t.net/ark:/27023/8f2e5a20dd297a89facf7e07af0f4ba7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f2e5a20dd297a89facf7e07af0f4ba7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#identifier> "2005/01/17-1-8" .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#name> "Jas werktenue tropen officier Koninklijke marine" .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#description> "Jas van khakikleurig katoen met een gesloten liggende kraag en ingewerkte linkerborstzak en twee ingewerkte schootzakken. Onder de borstzak zit een horlogezakje. Op de kraagpunten zijn drie trensjes aangebracht.\r\n\r\nJas waarschijnlijk gedragen door officie" .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#creator> "Tailor Hei Lon & Co Soerabaia" .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/26" .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#creator> "Turnbull & Sons" .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f353bb7ab20b9aa461fe6d8a6693bcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f353bb7ab20b9aa461fe6d8a6693bcc> <https://colonialcollections.nl/schema#identifier> "nf%20836-24-3" .
 <https://n2t.net/ark:/27023/8f353bb7ab20b9aa461fe6d8a6693bcc> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zwart/wit, slechts gedeeltelijk vastgeplakt.\r\nGeen tekst op achterkant foto.\r\n\r\nZonder onderschrift.\r\n\r\nDeze vakantieopname toont 3 volwassen personen, 2 zittend in een gondel, de derde staand ernaast.\r\n\r\nEén van hen is herkenbaar (ook)" .
@@ -67,20 +113,6 @@
 <https://n2t.net/ark:/27023/8f150faa6abddef95ab4ff172a1e8e49> <https://colonialcollections.nl/schema#inscription> "Janet Gaynor" .
 <https://n2t.net/ark:/27023/8f150faa6abddef95ab4ff172a1e8e49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f150faa6abddef95ab4ff172a1e8e49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#identifier> "2008/12/16-13-2/3" .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#name> "Portret van Ulke van der Bij" .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Ulke van der Bij.\r\nRecto, preegstempel: Foto-Weijer Heerenveen.\r\nVerso: \"Ulke vd Bij\"." .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#inscription> "Foto-Weijer Heerenveen" .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f0e6661569530340b8f62d2b3dabb57> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-72" .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#name> "Javaansch Kerkhof" .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Javaansch Kerkhof." .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#inscription> "Javaansche Kerkhof" .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f0ebb94f1230b9a5bc1664c4609b16b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f13c81d284bc6934b35ffdab2e8e126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f13c81d284bc6934b35ffdab2e8e126> <https://colonialcollections.nl/schema#identifier> "2008/11/25-1-7/15" .
 <https://n2t.net/ark:/27023/8f13c81d284bc6934b35ffdab2e8e126> <https://colonialcollections.nl/schema#name> "Identiteitsplaatjes van Jacobus Verboekend (Soebang 1942), Rd.Soegondo, Soeparijo, Sadiman (Tjiater 1942)" .
@@ -507,30 +539,6 @@
 <https://n2t.net/ark:/27023/8f51941d61f91757cffb7f376489ed7f> <https://colonialcollections.nl/schema#description> "Armband, textiel, rood-witte vlag, met daarop gespeld elf metalen meest rood-witte TNI en guerillagroepsspeldjes. Afm. 24,0 x 7,8 cm." .
 <https://n2t.net/ark:/27023/8f51941d61f91757cffb7f376489ed7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f51941d61f91757cffb7f376489ed7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#identifier> "2006/00-42-30" .
-<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#name> "Straatbeeld van Medan, Sumatra" .
-<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Straatbeeld van Medan, Sumatra.\r\nRecto: Medan.\r\nVerso: Medan. Photo genomen Juli 1930. Sumatra Oostkust.\r\nStempel op verso: Mohd.Dar, schrijver - photograaf, Sabang." .
-<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f17dc5303ebfc45e639f0e9488441be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#identifier> "00265348" .
-<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#name> "Foto bezoek Mangkoe Negoro VII" .
-<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#description> "Foto zwart wit van bezoek van Mangkoe Negoro VII met gevolg aan Kamp Waalsdorp te Den Haag. Delegatie staat met Nederlandse officieren voor barak No. 4. Mangkoe Negoro in uniform van kolonel titulair van het KNIL\r\nDe Mangkoe Negoro is kolonel titulair van" .
-<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f2a72696f2fa35bb6e6ce739a79b4e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#identifier> "2005/01/17-1-8" .
-<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#name> "Jas werktenue tropen officier Koninklijke marine" .
-<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#description> "Jas van khakikleurig katoen met een gesloten liggende kraag en ingewerkte linkerborstzak en twee ingewerkte schootzakken. Onder de borstzak zit een horlogezakje. Op de kraagpunten zijn drie trensjes aangebracht.\r\n\r\nJas waarschijnlijk gedragen door officie" .
-<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f3d22de44947bd6988b74cb3b9d7ee2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/26" .
-<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f4326f9109449c2c5b26112d971d2c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f14ef4ed3144e6cc8aaf997a1542ff1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f14ef4ed3144e6cc8aaf997a1542ff1> <https://colonialcollections.nl/schema#identifier> "nf%20840-1-5" .
 <https://n2t.net/ark:/27023/8f14ef4ed3144e6cc8aaf997a1542ff1> <https://colonialcollections.nl/schema#description> "Foto van een man met Indisch uiterlijk, bril dragend, zittend in een stoel, met op de leuning zittend een blanke vrouw. Zonder bijschrift.\r\nDe sfeer van de foto doet voorkomen dat dit een opname is uit de tropen." .

@@ -3,9 +3,12 @@
 <https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#name> "Batavia. Militaire School te Meester Cornelis" .
 <https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#description> "Getinte Litho. Voorstellende: Militaire School te Meester Cornelis - Batavia.\r\nKlein scheurtje in passepartout. Enige weervlekjes.\r\n\"Batavia, Militaire school te Meester Cornelis\", \"9\"\r\n\"C.Deeleman del\"; Steendr.v. P.W.M.Trap, Leiden\"; \"G.f.Bos, lith.\"; \"" .
 <https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#inscription> "Batavia, Militaire school te Meester Cornelis; 9; Uitgave van Gualtherus Kolff te Batavia" .
-<https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#creator> "G.J. Bos" .
 <https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#creator> "Frederik Charles Theodorus Deeleman" .
+<https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#creator> "P.W.M. Trap" .
+<https://n2t.net/ark:/27023/da7f2cfa59de83d84aa741199ebcfafb> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/da94a58388058732fc8ad98cb563b06a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da94a58388058732fc8ad98cb563b06a> <https://colonialcollections.nl/schema#identifier> "2006/00-55-9" .
 <https://n2t.net/ark:/27023/da94a58388058732fc8ad98cb563b06a> <https://colonialcollections.nl/schema#name> "Kinderen in een Kampong" .
@@ -21,6 +24,7 @@
 <https://n2t.net/ark:/27023/da5243471a72155ffa34227632b8bebf> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/da5243471a72155ffa34227632b8bebf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da5243471a72155ffa34227632b8bebf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da5243471a72155ffa34227632b8bebf> <https://colonialcollections.nl/schema#creator> "E. Fuhri & Co." .
 <https://n2t.net/ark:/27023/da5bf6b2037deecd6050bd85c7fcd874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da5bf6b2037deecd6050bd85c7fcd874> <https://colonialcollections.nl/schema#identifier> "nf%20335-25-2" .
 <https://n2t.net/ark:/27023/da5bf6b2037deecd6050bd85c7fcd874> <https://colonialcollections.nl/schema#name> "Vredespaleis" .
@@ -28,6 +32,13 @@
 <https://n2t.net/ark:/27023/da5bf6b2037deecd6050bd85c7fcd874> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/da5bf6b2037deecd6050bd85c7fcd874> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da5bf6b2037deecd6050bd85c7fcd874> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/13" .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Slaapzaal" .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Slaapzaal." .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <https://colonialcollections.nl/schema#identifier> "nf%201638-1" .
 <https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <https://colonialcollections.nl/schema#name> "Karbouwengat" .
@@ -35,6 +46,21 @@
 <https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da72a6db0195ae259f37988ba1755861> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-24" .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#name> "\"Vrouw van Hoofd[  ]Telokbeling\"" .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Vrouw van Hoofd[  ] Telokbeling\"" .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#creator> "C.A. von Hedemann, Java" .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/23" .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#name> "De Kota met jongens van onze compagnie in Belawan, oct. 1946" .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. De Kota met jongens van onze compagnie in Belawan, oct. 1946" .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#creator> "D. Hofma" .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/da8bb40bfdeb92c8471c85b87997582e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da8bb40bfdeb92c8471c85b87997582e> <https://colonialcollections.nl/schema#identifier> "nf%201413-125" .
 <https://n2t.net/ark:/27023/da8bb40bfdeb92c8471c85b87997582e> <https://colonialcollections.nl/schema#name> "Koelipondok K.P.V. Zuid" .
@@ -49,6 +75,7 @@
 <https://n2t.net/ark:/27023/da8e31aa7579da45ed03be7f23ed3c1a> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/da8e31aa7579da45ed03be7f23ed3c1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da8e31aa7579da45ed03be7f23ed3c1a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da8e31aa7579da45ed03be7f23ed3c1a> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <https://colonialcollections.nl/schema#identifier> "nf%201765-18" .
 <https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <https://colonialcollections.nl/schema#name> "Kampong Soryar Biak Nieuw Guinea" .
@@ -56,6 +83,14 @@
 <https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/da8ebe6784a00abbf8097201d690f0d1> <https://colonialcollections.nl/schema#creator> "Tellko" .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/15" .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Eetzaal onderofficieren met gedekte tafel" .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Eetzaal onderofficieren met gedekte tafel. Met schilderij Tocht van Barents en Heemskerk. Muurschilderingen." .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/da981e71ff33707386af37d7a7e1c353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da981e71ff33707386af37d7a7e1c353> <https://colonialcollections.nl/schema#identifier> "nf%20705-12" .
 <https://n2t.net/ark:/27023/da981e71ff33707386af37d7a7e1c353> <https://colonialcollections.nl/schema#name> "'Vallei Ombilin Rivier tusschen Kolenveld en Singakarak meer'" .
@@ -529,30 +564,6 @@
 <https://n2t.net/ark:/27023/da985f72f25ba8efa7c2dba0ee256698> <https://colonialcollections.nl/schema#description> "Foto uit diensttijd adjudant-onderofficier Dirk Slothouwer Militaire Luchtvaart (ML-KNIL)." .
 <https://n2t.net/ark:/27023/da985f72f25ba8efa7c2dba0ee256698> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/da985f72f25ba8efa7c2dba0ee256698> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/13" .
-<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Slaapzaal" .
-<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Slaapzaal." .
-<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/da5ea46c69941707fbfd283caf398834> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-24" .
-<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#name> "\"Vrouw van Hoofd[  ]Telokbeling\"" .
-<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Vrouw van Hoofd[  ] Telokbeling\"" .
-<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/da7348934a98811b2f88c95513afb400> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/23" .
-<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#name> "De Kota met jongens van onze compagnie in Belawan, oct. 1946" .
-<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. De Kota met jongens van onze compagnie in Belawan, oct. 1946" .
-<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/da7f2d77e6642e0c4974975b5f485f5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/15" .
-<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Eetzaal onderofficieren met gedekte tafel" .
-<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Eetzaal onderofficieren met gedekte tafel. Met schilderij Tocht van Barents en Heemskerk. Muurschilderingen." .
-<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/da90e3548e021aff1549d4e7c9d2a1ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/da553a36fc84c1c582b4d02480c49411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/da553a36fc84c1c582b4d02480c49411> <https://colonialcollections.nl/schema#identifier> "S%20230-166" .
 <https://n2t.net/ark:/27023/da553a36fc84c1c582b4d02480c49411> <https://colonialcollections.nl/schema#description> "Kleine rood aardewerken waterkruik, kegelvormig met de hals in het midden verdikt, op lage cilindrische voet. Ingekerfde motieven: smalle en brede banden met bladrankmotieven en geometrische motieven. Wijd uitstaande mondrand. Onderste deel van de buik is" .

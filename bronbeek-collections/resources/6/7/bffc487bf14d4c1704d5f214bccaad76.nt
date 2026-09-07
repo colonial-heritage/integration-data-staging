@@ -1,10 +1,36 @@
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#identifier> "2004/05/24-5-10" .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#name> "Portret van M. van der Laan als Krijgsgevangene, 1 juli 1943" .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#description> "Tekening. In potlood. Portret van M. van der Laan. door S.Kok, 1 juli 1943.\r\n\"Krijgsgevangene Palembang (1-4-1942) - Tondjong radja (8-1942 / 3-1943) TandjongKarang (10-3-1942/1-4-1942), Singapore (5-1945/10-1945)" .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#inscription> "Krijgsgevangene Palembang (1-4-1942) - Tondjong radja (8-1942 / 3-1943) TandjongKarang (10-3-1942/1-4-1942), Singapore (5-1945/10-1945)" .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#creator> "S. Kok" .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-2" .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#name> "Schoolplaat 127. De Sultan van Djokjakarta op zijn troon. Java" .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 127. De Sultan van Djokjakarta op zijn troon. Java. Drukkerij: K" .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#inscription> "127. De Sultan van Djokjakarta op zijn troon. Java" .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#creator> "Kassian Céphas" .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-109" .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#name> "Carte de visite: Rosenberger" .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Rosenberger" .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#inscription> "Rosenberger" .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#creator> "Photographisch atelier P.H.van der Burght" .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/21" .
 <https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Chinese wijk in Palembang. \"NIWIN\"" .
 <https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Op achterzijde:  \"NIWIN\": Chinese wijk in Palembang." .
-<https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9c8fa6edb76d21cd9489c64d473bfac3> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/9c8fdc993272746045b80af034acb14b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9c8fdc993272746045b80af034acb14b> <https://colonialcollections.nl/schema#identifier> "2003/02/12-1/20" .
 <https://n2t.net/ark:/27023/9c8fdc993272746045b80af034acb14b> <https://colonialcollections.nl/schema#name> "Nr. 22 \"Hoofdweg in Bivak Penajoeng (Verkenningsbrigade)\", uit ´Dertig gezichten op Atjeh´" .
@@ -19,6 +45,13 @@
 <https://n2t.net/ark:/27023/9c948ddaf75a1df195cbf222a154fe9a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9c948ddaf75a1df195cbf222a154fe9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9c948ddaf75a1df195cbf222a154fe9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/27" .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#name> "Groet uit Java - Krater van den \"Bromo\"" .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Java - Krater van den \"Bromo\"." .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9ca0ff6f36932d84111a69c1ddea0179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9ca0ff6f36932d84111a69c1ddea0179> <https://colonialcollections.nl/schema#identifier> "1997/00-1/56" .
 <https://n2t.net/ark:/27023/9ca0ff6f36932d84111a69c1ddea0179> <https://colonialcollections.nl/schema#name> "Landkaart Java, Residentie Besoeki, Japanse fotocopie" .
@@ -26,6 +59,20 @@
 <https://n2t.net/ark:/27023/9ca0ff6f36932d84111a69c1ddea0179> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/9ca0ff6f36932d84111a69c1ddea0179> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9ca0ff6f36932d84111a69c1ddea0179> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/153" .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nMilitaire voertuigen in kolonne." .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#identifier> "2006/00-42-29" .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#name> "Paleis van de sultan van Deli te Medan, Sumatra" .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Paleis van de sultan van Deli te Medan, Sumatra.\r\nRecto: Astana-baroe. Sulthan Deli.\r\nVerso: Medan. Photo genomen Juli 1930. Sumatra Oostkust.\r\nStempel op verso: Mohd.Dar, schrijver - photograaf, Sabang." .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9cb439fb29eaee0fbb6157a63dcba804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9cb439fb29eaee0fbb6157a63dcba804> <https://colonialcollections.nl/schema#identifier> "nf%20842-111" .
 <https://n2t.net/ark:/27023/9cb439fb29eaee0fbb6157a63dcba804> <https://colonialcollections.nl/schema#name> "groep kinderen in bont gekleurde kleding en met angklungs, West-Java" .
@@ -40,12 +87,25 @@
 <https://n2t.net/ark:/27023/9cb640f021f326f0fbad89b29fb3fe27> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9cb640f021f326f0fbad89b29fb3fe27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9cb640f021f326f0fbad89b29fb3fe27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#identifier> "1953/04/01-1" .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#name> "Borstbeeld van Kapitein Kaniess" .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#description> "Beeld, borstbeeld. Kapitein Kaniess. Gesigneerd: \"Poschacher\"" .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#creator> "mw. Marie Louise Poschacher" .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9c94a5e149db4f540b619b919f5e32ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9c94a5e149db4f540b619b919f5e32ba> <https://colonialcollections.nl/schema#identifier> "nf%201758-4" .
 <https://n2t.net/ark:/27023/9c94a5e149db4f540b619b919f5e32ba> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt geschreven een verwijzing naar inventarisnummer S 956\r\n\r\nOpname toont een beeld van een omgeving waar alles nogal steil is. OP de voorgrond links en rechts lijkt de ruimte tussen twee steile kant" .
 <https://n2t.net/ark:/27023/9c94a5e149db4f540b619b919f5e32ba> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9c94a5e149db4f540b619b919f5e32ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9c94a5e149db4f540b619b919f5e32ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#identifier> "nf%20841-76-3" .
+<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nVoor fotopagina 75 en heel waarschijnlijk ook fotopagina 76 geldt voor alle foto's op die pagina's de op pagina 75 geldende tekst: \"De Sibolga baai op " .
+<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9cac5a4658a7dc13c9b1c950928c742f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9cac5a4658a7dc13c9b1c950928c742f> <https://colonialcollections.nl/schema#identifier> "nf%201650-6" .
 <https://n2t.net/ark:/27023/9cac5a4658a7dc13c9b1c950928c742f> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide naast elkaar geplakt op een rechthoekig groen stuk karton, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in potlood geschreven: 'Tosari'\r\n\r\nOpnames tonen een rivier met hoge oevers en veel grote stenen. Op de achtergrond" .
@@ -72,27 +132,6 @@
 <https://n2t.net/ark:/27023/9ca2ed196879d08300206af2589f2f6c> <https://colonialcollections.nl/schema#inscription> "1914 Afd. Bandoeng. F. van Ardenne, R.L.A. Schoemaker, W. Hoedt\r\n1915 Afd. Soerabaia.. H.J.W. Verniers v.d. Loeff, W.J. Rinkel, C.E. Schmidt, \r\n1916 Afd. Tjimahi. F.C. Lindgreen, J.M. Beckman, F. van Suchtelen.\r\n1917 Afdeeling Bandoeng. G.A: Scheffer, R.L.A. Schoemaker, L.H.P. Zondag\r\n1918 Afd. Tjimahi. H.J.W. Verniers v.d. Loeff, J.M. Beckman, F. van Suchtelen.\r\n1919 Afd. Wilden. A. Weber, J.P. Cabri, J.E. van Lingen\r\n1921 Verniers van der Loeff, Beckman, van Lingen, \r\n1928 Afd. Magelang. G.A. Scheffer (gen.-Majoor), P.Eenhoorn, I.B. Bakhuys.\r\n1929 Afd. Bandoeng. C.W. Ekkart, W.P. Gerharz, W.K. Seijn.\r\n1930 Afd. Bandoeng. C.W: Ekkart, W.P. gerharz, G.P.N. Fikenscher\r\n1931 Afd. Tjimahi. A.J. Haga, A.A.F. Maurenbrecher, F. v.d. Veen\r\n1932 Afd. Bandoeng. G.F.V. Gosenson, C.W. Ekkart, W.P.Gerharz.\r\n1933 Afdeeling Bandoeng. W.J.E. Kunzel, Luit. Vlgr\r\nW.F. Boot, Luit. Vlgr, J.D. de Riemer, Luit. Vlgr" .
 <https://n2t.net/ark:/27023/9ca2ed196879d08300206af2589f2f6c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9ca2ed196879d08300206af2589f2f6c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#identifier> "2004/05/24-5-10" .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#name> "Portret van M. van der Laan als Krijgsgevangene, 1 juli 1943" .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#description> "Tekening. In potlood. Portret van M. van der Laan. door S.Kok, 1 juli 1943.\r\n\"Krijgsgevangene Palembang (1-4-1942) - Tondjong radja (8-1942 / 3-1943) TandjongKarang (10-3-1942/1-4-1942), Singapore (5-1945/10-1945)" .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#inscription> "Krijgsgevangene Palembang (1-4-1942) - Tondjong radja (8-1942 / 3-1943) TandjongKarang (10-3-1942/1-4-1942), Singapore (5-1945/10-1945)" .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9c85fd5b37adf95eb2afa0d829ba52a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-2" .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#name> "Schoolplaat 127. De Sultan van Djokjakarta op zijn troon. Java" .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 127. De Sultan van Djokjakarta op zijn troon. Java. Drukkerij: K" .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#inscription> "127. De Sultan van Djokjakarta op zijn troon. Java" .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9ca28777e70a4c6ddbe4ce06bd6ff00a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-109" .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#name> "Carte de visite: Rosenberger" .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Rosenberger" .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#inscription> "Rosenberger" .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9cc107586b593616f92629356caaf3b0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9c81ef5c6fb7c86f208b79ce93179023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9c81ef5c6fb7c86f208b79ce93179023> <https://colonialcollections.nl/schema#identifier> "1996/07/12-2-1/2" .
 <https://n2t.net/ark:/27023/9c81ef5c6fb7c86f208b79ce93179023> <https://colonialcollections.nl/schema#name> "Foto opgebaarde lijkkist J. Gortmans" .
@@ -501,30 +540,6 @@
 <https://n2t.net/ark:/27023/9cc9d509ecbae7002bc2f8361a3b1a75> <https://colonialcollections.nl/schema#description> "Atjeh- of Kratonmedaille 1873-1874. Aan beschadigd lint." .
 <https://n2t.net/ark:/27023/9cc9d509ecbae7002bc2f8361a3b1a75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9cc9d509ecbae7002bc2f8361a3b1a75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/27" .
-<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#name> "Groet uit Java - Krater van den \"Bromo\"" .
-<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Java - Krater van den \"Bromo\"." .
-<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9c9500f6028367540654f15bd84c376f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/153" .
-<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nMilitaire voertuigen in kolonne." .
-<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9ca60b4d53a3e54d00acf86fcd6a2685> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#identifier> "2006/00-42-29" .
-<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#name> "Paleis van de sultan van Deli te Medan, Sumatra" .
-<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Paleis van de sultan van Deli te Medan, Sumatra.\r\nRecto: Astana-baroe. Sulthan Deli.\r\nVerso: Medan. Photo genomen Juli 1930. Sumatra Oostkust.\r\nStempel op verso: Mohd.Dar, schrijver - photograaf, Sabang." .
-<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9cac5afd53de7c913474d00db8b98d78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#identifier> "1953/04/01-1" .
-<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#name> "Borstbeeld van Kapitein Kaniess" .
-<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#description> "Beeld, borstbeeld. Kapitein Kaniess. Gesigneerd: \"Poschacher\"" .
-<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9ccc812192e520da8ed3bdcb65177bf0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9c8484bff772eb374822aff99a16e903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9c8484bff772eb374822aff99a16e903> <https://colonialcollections.nl/schema#identifier> "nf%201355-1-3" .
 <https://n2t.net/ark:/27023/9c8484bff772eb374822aff99a16e903> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen.\r\n\r\nOpname toont een blanke man, gehurkt zittend. Bij hem een hond en een aapje. Het lijkt een erf bij een huis, met meer naar achter een Indones" .
@@ -570,11 +585,6 @@
 <https://n2t.net/ark:/27023/9cc9091bc2722ab318008aeee6ea5b35> <https://colonialcollections.nl/schema#description> "Houten lans met nibunghouten punt, van inkepingen als weerhaken voorzien; gestoken in een gele rietstengel als schacht met een dikte van ongeveer 1 cm; aan de bovenkant enig snijwerk en rotan omwinding;\r\nHerkomst: Goodseilanden, Torressraat." .
 <https://n2t.net/ark:/27023/9cc9091bc2722ab318008aeee6ea5b35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9cc9091bc2722ab318008aeee6ea5b35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#identifier> "nf%20841-76-3" .
-<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nVoor fotopagina 75 en heel waarschijnlijk ook fotopagina 76 geldt voor alle foto's op die pagina's de op pagina 75 geldende tekst: \"De Sibolga baai op " .
-<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9ca6279b9d3af5ad5707372c31c52995> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9c826adebb7af20c3945eeb2b82452de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9c826adebb7af20c3945eeb2b82452de> <https://colonialcollections.nl/schema#identifier> "nf%20270-47" .
 <https://n2t.net/ark:/27023/9c826adebb7af20c3945eeb2b82452de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

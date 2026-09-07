@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/f5de19ade5ede8d78115df368c9d74e5> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/f5de19ade5ede8d78115df368c9d74e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f5de19ade5ede8d78115df368c9d74e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#identifier> "S%206245-4" .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#name> "Bårå Boedoer" .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los in map.\r\n\r\nOp de voorkant staat ergens in zwarte letters ' Bårå Boedoer '\r\n\r\nDe achterkant toont een ansichtkaart met horizontale belijning, nog zonder vertikale middenlijn. Hetgeen inhoudt dat de kaart van vóór 1" .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#creator> "J. Olbertz" .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f5cea22e05dee40bd38ad5d3a0732553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f5cea22e05dee40bd38ad5d3a0732553> <https://colonialcollections.nl/schema#identifier> "nf%201897-7" .
 <https://n2t.net/ark:/27023/f5cea22e05dee40bd38ad5d3a0732553> <https://colonialcollections.nl/schema#name> "Het feestelijk huiswaarts brengen van de eerste padi in de Karo-Bataklanden" .
@@ -20,6 +27,20 @@
 <https://n2t.net/ark:/27023/f5d56cea1d6aa1b6a99a1bc1e7c0c12a> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/f5d56cea1d6aa1b6a99a1bc1e7c0c12a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f5d56cea1d6aa1b6a99a1bc1e7c0c12a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/189" .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Louise Straeter." .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#identifier> "nf%201431-6" .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#name> "Ovale huizen, het type van Noord Nias" .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOnder de afbeelding is tekst te lezen, luidend: 'Ovale huizen, het type van Noord Nias'.\r\nOok de fotograaf staat vermeld: 'Foto Helbig.'\r\n\r\nOpname toont een aantal " .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#creator> "Foto Helbig." .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f5f289fd08fd3f92fff60aee070f064d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f5f289fd08fd3f92fff60aee070f064d> <https://colonialcollections.nl/schema#identifier> "1993/12/21-1-4" .
 <https://n2t.net/ark:/27023/f5f289fd08fd3f92fff60aee070f064d> <https://colonialcollections.nl/schema#name> "Prenten van herinneringen-aquarellen van de Birma-Siam spoorlijn, Tom Ingelse, 1968." .
@@ -38,9 +59,11 @@
 <https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#identifier> "2003/12/12-1-10" .
 <https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#name> "De Sumatra Spoorweg" .
 <https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#description> "Affiche met foto van een omgevallen locomotief en tekst betreffende het verzet rond de Sumatra spoorweg. Affiche bij publicatie \"De Sumatra Spoorweg\" van H. Neumann e.a." .
-<https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#creator> "H. Neumann" .
+<https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#creator> "Studio Pieter Mulier" .
 <https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#creator> "H. Neumann" .
+<https://n2t.net/ark:/27023/f5fc0a75166adaa1ef336ba5c145d532> <https://colonialcollections.nl/schema#creator> "E. van Witsen" .
 <https://n2t.net/ark:/27023/f5c8d5482630898bd3e4668c0d4fdf32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f5c8d5482630898bd3e4668c0d4fdf32> <https://colonialcollections.nl/schema#identifier> "nf%20899-25" .
 <https://n2t.net/ark:/27023/f5c8d5482630898bd3e4668c0d4fdf32> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nPortretopname van een blanke vrouw, zittend in een stoel. \r\n\r\nAchter haar is een lang wandkleed zichtbaar, met veel symbolen, die echter moeilijk zijn  te beschrijven.\r\n\r\nIn feite dezelfde opname als nf 899-24, maar dan va" .
@@ -516,24 +539,6 @@
 <https://n2t.net/ark:/27023/f608fa5604f19c73c589b974eb8d23a7> <https://colonialcollections.nl/schema#description> "Metalen embleem, groot model, Verenigde Naties Nederland." .
 <https://n2t.net/ark:/27023/f608fa5604f19c73c589b974eb8d23a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f608fa5604f19c73c589b974eb8d23a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#identifier> "S%206245-4" .
-<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#name> "Bårå Boedoer" .
-<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los in map.\r\n\r\nOp de voorkant staat ergens in zwarte letters ' Bårå Boedoer '\r\n\r\nDe achterkant toont een ansichtkaart met horizontale belijning, nog zonder vertikale middenlijn. Hetgeen inhoudt dat de kaart van vóór 1" .
-<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f5c653b31c76fcf6e5559645b8cde230> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/189" .
-<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Louise Straeter." .
-<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f5d6a81a28ddb776f82d1a483b5c5d9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#identifier> "nf%201431-6" .
-<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#name> "Ovale huizen, het type van Noord Nias" .
-<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOnder de afbeelding is tekst te lezen, luidend: 'Ovale huizen, het type van Noord Nias'.\r\nOok de fotograaf staat vermeld: 'Foto Helbig.'\r\n\r\nOpname toont een aantal " .
-<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f5da110a39f8b94ca5f082b7a74c74a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f5c4e8e332ebdc8b35403999cd886f57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f5c4e8e332ebdc8b35403999cd886f57> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42365" .
 <https://n2t.net/ark:/27023/f5c4e8e332ebdc8b35403999cd886f57> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tlans met zilverbeslag\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 195 cm\r\nMedia:\t2898\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2898] Depot, 14, wand t/o kast 14 [31-okt-2002]" .

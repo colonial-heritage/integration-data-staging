@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/bf6d4ffe53dfed5667bc823d20ef6245> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/bf6d4ffe53dfed5667bc823d20ef6245> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf6d4ffe53dfed5667bc823d20ef6245> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-10/4" .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#name> "\"Regenten van de Preanger-regentschappen met hun vrouwen (Rhaden Ajoe's) en oppasser die de pajoongs (parasols) vasthouden\"" .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Regenten van de Preanger-regentschappen met hun vrouwen (Rhaden Ajoe's) en oppasser die de pajoongs (parasols) vasthouden\"" .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#creator> "Fotografisch Atelier L.C. van Bergen" .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bf6fea657254940218a4a65884683078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf6fea657254940218a4a65884683078> <https://colonialcollections.nl/schema#identifier> "nf%20834-22-1" .
 <https://n2t.net/ark:/27023/bf6fea657254940218a4a65884683078> <https://colonialcollections.nl/schema#name> "Karbouwengevecht te Badjawa (Ngada) eil. Flores" .
@@ -34,6 +41,20 @@
 <https://n2t.net/ark:/27023/bf8d3cdaad6054839f3336b281f5ec7b> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/bf8d3cdaad6054839f3336b281f5ec7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf8d3cdaad6054839f3336b281f5ec7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#identifier> "1989/01/01-7" .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#name> "Balinees meisje met 5 hanen" .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#description> "Schilderij, Balinees meisje met 5 hanen in bamboebos. Geschilderd door J.Pluim Mentz in 1979. In goede staat." .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#creator> "J. Pluim Mentz" .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#identifier> "1885/09-1-2" .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#name> "Portret van Admiraal G.H. Ver Huell" .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#description> "olieverf op paneel 30 x 38cm, vergulde houten sierlijst breedt 7cm, dubbele vergulde passe partout, breed 5 cm, gesigneerd rechtsonder \" B.L. Hendriks\"\r\ngecraqueleerd" .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#creator> "B.L. Hendriks" .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bfaa52b7fb7e6f46e6e203eda480f4dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bfaa52b7fb7e6f46e6e203eda480f4dc> <https://colonialcollections.nl/schema#identifier> "nf%20834-39-2" .
 <https://n2t.net/ark:/27023/bfaa52b7fb7e6f46e6e203eda480f4dc> <https://colonialcollections.nl/schema#name> "Pop met de roode mantel voor Holland" .
@@ -498,24 +519,6 @@
 <https://n2t.net/ark:/27023/bfaf3d453f5303e94906fdcd95f00f4e> <https://colonialcollections.nl/schema#description> "Foto, zw/w. \"IFAR Nieuw-Guinea 1954\"; Hoofdkwartier en woonwijk met hospitaal Koninklijke Landmacht in Nieuw-Guinea.\r\ngenoemn vanuit vogelperspectief. \r\nFoto is een reproductie van twee aan elkaar geplakte foto's." .
 <https://n2t.net/ark:/27023/bfaf3d453f5303e94906fdcd95f00f4e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bfaf3d453f5303e94906fdcd95f00f4e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-10/4" .
-<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#name> "\"Regenten van de Preanger-regentschappen met hun vrouwen (Rhaden Ajoe's) en oppasser die de pajoongs (parasols) vasthouden\"" .
-<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Regenten van de Preanger-regentschappen met hun vrouwen (Rhaden Ajoe's) en oppasser die de pajoongs (parasols) vasthouden\"" .
-<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bf6d76340e22878c40a99e441237033a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#identifier> "1989/01/01-7" .
-<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#name> "Balinees meisje met 5 hanen" .
-<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#description> "Schilderij, Balinees meisje met 5 hanen in bamboebos. Geschilderd door J.Pluim Mentz in 1979. In goede staat." .
-<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bf8d4712297b90d1921c0526f0e9001e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#identifier> "1885/09-1-2" .
-<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#name> "Portret van Admiraal G.H. Ver Huell" .
-<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#description> "olieverf op paneel 30 x 38cm, vergulde houten sierlijst breedt 7cm, dubbele vergulde passe partout, breed 5 cm, gesigneerd rechtsonder \" B.L. Hendriks\"\r\ngecraqueleerd" .
-<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bf984a491c822be4ebe5e831c4de456e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bf681fa51875884b61f6064fbbf9f50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf681fa51875884b61f6064fbbf9f50a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42030" .
 <https://n2t.net/ark:/27023/bf681fa51875884b61f6064fbbf9f50a> <https://colonialcollections.nl/schema#description> "Afdeling:\tMidden en Zuid Amerika\r\nObjectnaam:\ttas\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tvruchtenpitten\r\n\tgeregen\r\nEmailadres: toelichting:\tKlein 5 hoekig tasje van donkerbruin en lichtbruin gekleurde vruchtenpitten.  Aaan de top di" .

@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#identifier> "2002/02/11-4-5" .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#name> "Haven van Tandjong Priok" .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#description> "Topografische kaart, Haven van Tandjong Priok, Batavia. Schaal 1:5.000. Soepardi 25.8.21." .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#inscription> "Haven van Tandjong Priok" .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#creator> "Soepardi" .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/29" .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#creator> "Th. Brüggemann Photographie" .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d288eb1fd2502fc29c1dc33a829909ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d288eb1fd2502fc29c1dc33a829909ae> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/11" .
 <https://n2t.net/ark:/27023/d288eb1fd2502fc29c1dc33a829909ae> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -5,6 +20,14 @@
 <https://n2t.net/ark:/27023/d288eb1fd2502fc29c1dc33a829909ae> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/d288eb1fd2502fc29c1dc33a829909ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d288eb1fd2502fc29c1dc33a829909ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#identifier> "1917/02-1-2" .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#name> "Model Molen" .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#description> "Model van een molen, onderdeel van een set huisvlijt bestaande uit een kerk, een molen en een onbekend aantal huizen (Thieme inv.nr. 1669)." .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#creator> "Dhr. de Veer" .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#creator> "Dhr. Uitenboogaart" .
 <https://n2t.net/ark:/27023/d2b6311feb22b58617b5a1ba41557e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d2b6311feb22b58617b5a1ba41557e59> <https://colonialcollections.nl/schema#identifier> "nf%201413-46" .
 <https://n2t.net/ark:/27023/d2b6311feb22b58617b5a1ba41557e59> <https://colonialcollections.nl/schema#name> "Rakits langs de oever van de Moesi" .
@@ -12,6 +35,13 @@
 <https://n2t.net/ark:/27023/d2b6311feb22b58617b5a1ba41557e59> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/d2b6311feb22b58617b5a1ba41557e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d2b6311feb22b58617b5a1ba41557e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#identifier> "1983/07/18-1-3" .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#name> "Overhemd dagelijks tenue, shirt OD winter (U.S. Army, Australische aanmaak) VK-KNIL" .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#description> "Overhemd dagelijks tenue, shirt OD (olive drab) winter (model U.S. Army, Australische aanmaak) VK-KNIL\r\nOverhemd van bruinkleurige wol met liggende kraag en schouderlappen. Het overhemd wordt met vijf bruine kunststof knopen gesloten. Manchetten met split" .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#creator> "Wardrop of Melbourne" .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d27f67256df63d4317297994908ef1cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d27f67256df63d4317297994908ef1cb> <https://colonialcollections.nl/schema#identifier> "EDO%20622-22-5" .
 <https://n2t.net/ark:/27023/d27f67256df63d4317297994908ef1cb> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een viertal blanke personen buiten zittend aan een kopje koffie. De kleding is niet 'zomers'. \r\n\r\nEr is gekozen als geografische herkomst voor Europa, omdat dat het meest logi" .
@@ -52,13 +82,6 @@
 <https://n2t.net/ark:/27023/d2b5ca21b711e6c3ca6152278b619282> <https://colonialcollections.nl/schema#inscription> "op passe-partout met goudkleurige letters: A. Luymes Generaal-Majoor Ridder Mil. Willems-Orde 4ekl." .
 <https://n2t.net/ark:/27023/d2b5ca21b711e6c3ca6152278b619282> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d2b5ca21b711e6c3ca6152278b619282> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#identifier> "2002/02/11-4-5" .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#name> "Haven van Tandjong Priok" .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#description> "Topografische kaart, Haven van Tandjong Priok, Batavia. Schaal 1:5.000. Soepardi 25.8.21." .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#inscription> "Haven van Tandjong Priok" .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d2b59bae4d52bcea39d6ac7c4188db1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d27ff8e8c668b28ec6e4f3ec7feb81a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d27ff8e8c668b28ec6e4f3ec7feb81a4> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/17" .
 <https://n2t.net/ark:/27023/d27ff8e8c668b28ec6e4f3ec7feb81a4> <https://colonialcollections.nl/schema#name> "Haven van Rotterdam" .
@@ -527,24 +550,6 @@
 <https://n2t.net/ark:/27023/d2c114c6e7238a63a44aca0bcc5509ff> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit uit diensttijd dienstplichtig korporaal H. van Soest in Nederlands-Indië bij 3 afdeling 6de Regiment Veldartillerie (3-6 RVA) bij C-Divisie \"7 December\" West-Java." .
 <https://n2t.net/ark:/27023/d2c114c6e7238a63a44aca0bcc5509ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d2c114c6e7238a63a44aca0bcc5509ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/29" .
-<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d2811ba81482bbc0a9f3262796276702> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#identifier> "1917/02-1-2" .
-<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#name> "Model Molen" .
-<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#description> "Model van een molen, onderdeel van een set huisvlijt bestaande uit een kerk, een molen en een onbekend aantal huizen (Thieme inv.nr. 1669)." .
-<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d298fa8338a53d611a352da558bd273f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#identifier> "1983/07/18-1-3" .
-<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#name> "Overhemd dagelijks tenue, shirt OD winter (U.S. Army, Australische aanmaak) VK-KNIL" .
-<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#description> "Overhemd dagelijks tenue, shirt OD (olive drab) winter (model U.S. Army, Australische aanmaak) VK-KNIL\r\nOverhemd van bruinkleurige wol met liggende kraag en schouderlappen. Het overhemd wordt met vijf bruine kunststof knopen gesloten. Manchetten met split" .
-<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d2bd2967e5153d333473ab95683474d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d2a61e0e0955daa911225a930e217d16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d2a61e0e0955daa911225a930e217d16> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41781" .
 <https://n2t.net/ark:/27023/d2a61e0e0955daa911225a930e217d16> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\toorlepeltje\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2314\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2314] Depot, LB I, 50 [LB I 50]" .

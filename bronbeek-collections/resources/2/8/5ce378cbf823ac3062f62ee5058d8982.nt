@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/2285edcb0939655dce358a1f09244ef2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2285edcb0939655dce358a1f09244ef2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2285edcb0939655dce358a1f09244ef2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#identifier> "1997/00-1/368" .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#name> "Kaart van Midden Sumatra" .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#description> "Kaart van Midden Sumatra.\r\nSchaal 1: 900.000; legenda; Uitg. Topografische Inrichting, 1903." .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/22a68079d7dc3ab7195c7e20e8f531a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/22a68079d7dc3ab7195c7e20e8f531a7> <https://colonialcollections.nl/schema#identifier> "nf%201413-103" .
 <https://n2t.net/ark:/27023/22a68079d7dc3ab7195c7e20e8f531a7> <https://colonialcollections.nl/schema#name> "Soemantrie en Overdijk, assistent-gravimeters" .
@@ -546,12 +553,6 @@
 <https://n2t.net/ark:/27023/22aaaec66cdd60c7ee77870985d7490e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. \"Y-brigade op Bali\"." .
 <https://n2t.net/ark:/27023/22aaaec66cdd60c7ee77870985d7490e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/22aaaec66cdd60c7ee77870985d7490e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#identifier> "1997/00-1/368" .
-<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#name> "Kaart van Midden Sumatra" .
-<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#description> "Kaart van Midden Sumatra.\r\nSchaal 1: 900.000; legenda; Uitg. Topografische Inrichting, 1903." .
-<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/228a79dae11b2aac64a29cd7c7ab1ee8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/226ba1460eead138ed13b6a53ac82aa2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/226ba1460eead138ed13b6a53ac82aa2> <https://colonialcollections.nl/schema#identifier> "nf%20696-30" .
 <https://n2t.net/ark:/27023/226ba1460eead138ed13b6a53ac82aa2> <https://colonialcollections.nl/schema#description> "Opname toont een onbekend gewas, aardappels??\r\nlinksboven het getal 238, linksonder de datum 5? '24, middenonder de initialen 'W.B.'" .

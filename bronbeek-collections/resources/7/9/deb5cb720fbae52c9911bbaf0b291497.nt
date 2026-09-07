@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/0d36ee5ee46ab50bf70d5fbdd7459c09> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0d36ee5ee46ab50bf70d5fbdd7459c09> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d36ee5ee46ab50bf70d5fbdd7459c09> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#identifier> "2005/00-193" .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#name> "Pijprokende man met tulband voor de ingang van een gebouw" .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#description> "Pentekening" .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#creator> "J.W. van Asperen" .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d44f6e4e4f6cc8d8d002245bf77c65e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d44f6e4e4f6cc8d8d002245bf77c65e> <https://colonialcollections.nl/schema#identifier> "nf%20559" .
 <https://n2t.net/ark:/27023/0d44f6e4e4f6cc8d8d002245bf77c65e> <https://colonialcollections.nl/schema#name> "Bouw van een spoorbrug" .
@@ -16,9 +23,32 @@
 <https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#identifier> "S%206245-81" .
 <https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#name> "vruchtdragende tak van den manggis (Garcinia Mangostana)" .
 <https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): vruchtdragende tak van den manggis (Garcinia Mangostana) (fijne Indische ooftsoort)\r\nDaaronder: Uitgave van het K" .
-<https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/0d478bdae5a55e019cb9aea445345615> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#identifier> "1973/11/08-1-4" .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#name> "Prent van Marius Bauer: Godsdienstig feest op Bali" .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#description> "Prent van Marius Bauer. Godsdienstig feest op Bali.\r\nUit serie: \"Indisch huldeblijk ter gelegenheid van het Zilveren Huwelijksfeest van H.M. de Koningin.\"" .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#creator> "Marius Alexander Jacques Bauer" .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/22" .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#name> "Heuvelachtig landschap, in de verte komt een vrachtauto aan rijden" .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#description> "Heuvelachtig landschap, in de verte komt een vrachtauto aan rijden." .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-55" .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#description> "Attila. Officier van Gezondheid, c.a.1930." .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#creator> "F.A. Boomsma Costumier Groningen" .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d7042252249c6e08d99d92645b81445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d7042252249c6e08d99d92645b81445> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-24" .
 <https://n2t.net/ark:/27023/0d7042252249c6e08d99d92645b81445> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten in boekje \"Javasche landschappen (views of Java)\"" .
@@ -496,30 +526,6 @@
 <https://n2t.net/ark:/27023/0d78bae89905f9c1c2d9178139e042d8> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië, periode 1945-1950." .
 <https://n2t.net/ark:/27023/0d78bae89905f9c1c2d9178139e042d8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d78bae89905f9c1c2d9178139e042d8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#identifier> "2005/00-193" .
-<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#name> "Pijprokende man met tulband voor de ingang van een gebouw" .
-<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#description> "Pentekening" .
-<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d3fe354553a8b1c3dcc6966b96112e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#identifier> "1973/11/08-1-4" .
-<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#name> "Prent van Marius Bauer: Godsdienstig feest op Bali" .
-<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#description> "Prent van Marius Bauer. Godsdienstig feest op Bali.\r\nUit serie: \"Indisch huldeblijk ter gelegenheid van het Zilveren Huwelijksfeest van H.M. de Koningin.\"" .
-<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d4c764481b9c26ace0f49bbe741d0df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/22" .
-<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#name> "Heuvelachtig landschap, in de verte komt een vrachtauto aan rijden" .
-<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#description> "Heuvelachtig landschap, in de verte komt een vrachtauto aan rijden." .
-<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d5d1275d573dfee237be5290f3a674f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-55" .
-<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
-<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#description> "Attila. Officier van Gezondheid, c.a.1930." .
-<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d5f4db1231cb0cc06bc3180ac453d80> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d3c56777f2cf8a995cf48e92b1b2ab7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d3c56777f2cf8a995cf48e92b1b2ab7> <https://colonialcollections.nl/schema#identifier> "1866/04-1-175" .
 <https://n2t.net/ark:/27023/0d3c56777f2cf8a995cf48e92b1b2ab7> <https://colonialcollections.nl/schema#description> "Een pijl van een set van veertien pijlen" .

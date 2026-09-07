@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-18" .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#name> "Probolinggo, Heerenstraat" .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#inscription> "Probolinggo Heerenstraat" .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#identifier> "2002/01/23-1/1" .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#name> "Ben M. Koster, \"De ongelijke strijd in de Vogelkop\", verschenen in de Panorama" .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#description> "Een artikel uit een reeks van drie, geschreven door Ben M. Koster en getiteld \"De ongelijke strijd in de Vogelkop\".\r\nVerschenen in de Panorama. Datum van verschijnen niet bijgevoegd." .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#creator> "Ben M. Koster" .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/64887c6b6dfd75927dbb5ce68c3b37a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/64887c6b6dfd75927dbb5ce68c3b37a2> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/389" .
 <https://n2t.net/ark:/27023/64887c6b6dfd75927dbb5ce68c3b37a2> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -9,9 +24,10 @@
 <https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/6-10" .
 <https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. Onze scherpschutters maken 'n dankbaar gebruik van een vijandelijke versperring\"" .
 <https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#description> "Prentbriefkaart \"Mariniers in Indië. Onze scherpschutters maken 'n dankbaar gebruik van een vijandelijke versperring\". \r\nGefotografeerd door Luitenant H. Wilmar voor de Voorlichtingsdienst van de 1e Mariniersbrigade." .
-<https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/648afd8c6076aa7e2b14b06a12730362> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/648d32a27ecd0fc3ccef611c5f8722a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/648d32a27ecd0fc3ccef611c5f8722a6> <https://colonialcollections.nl/schema#identifier> "1984/02/10-1-13" .
 <https://n2t.net/ark:/27023/648d32a27ecd0fc3ccef611c5f8722a6> <https://colonialcollections.nl/schema#name> "Tandjoeng Priok Haven" .
@@ -33,6 +49,20 @@
 <https://n2t.net/ark:/27023/649cd20f3bb2089c8ecfb2e8ae713130> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
 <https://n2t.net/ark:/27023/649cd20f3bb2089c8ecfb2e8ae713130> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/649cd20f3bb2089c8ecfb2e8ae713130> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#identifier> "nf%201255" .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#name> "Ulu Danu Tempel, Bali" .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#description> "Foto, kleur, rechthoekig, los\r\n\r\nAchterop een sticker van Museum Nusantara met o.a. gegevens van fotograaf en titel en geografische herkomst.\r\n\r\nOpname toont een meer met op kleine eilandjes in dat meer pura's. Links een eilandje met een bamboe(stoel)." .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#creator> "H.(Hiddo) R. Sinia" .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/37" .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#name> "Brug in de plantentuin, Buitenzorg" .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <https://colonialcollections.nl/schema#identifier> "nf%20491-5" .
 <https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <https://colonialcollections.nl/schema#name> "A view of the plain of Bandoeng looking from Lembang" .
@@ -40,6 +70,14 @@
 <https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/64ab381bd3c64088da7d56652d7613ca> <https://colonialcollections.nl/schema#creator> "Foto-atelier \"Kinosita\", Bandoeng" .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#identifier> "1994/06/20-2-13/1" .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#name> "Oorkonde in Latijn t.n.v. W. Pelleboer" .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#description> "Oorkonde in Latijn t.n.v. W. Pelleboer. In goede staat. Voetius L.S.  (...)" .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#creator> "Joh. A. Moesman" .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/64b9b1e5bc661c7376e3ace1abe17592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/64b9b1e5bc661c7376e3ace1abe17592> <https://colonialcollections.nl/schema#identifier> "1874/08-2/15" .
 <https://n2t.net/ark:/27023/64b9b1e5bc661c7376e3ace1abe17592> <https://colonialcollections.nl/schema#name> "Nr. 15: Brug over de Atjeh-rivier bij Kampong Djawa, uit ´Vierendertig gezichten op Atjeh´" .
@@ -109,13 +147,6 @@
 <https://n2t.net/ark:/27023/64b67a15f55a326fe745cb34d2556020> <https://colonialcollections.nl/schema#inscription> "Tasseron" .
 <https://n2t.net/ark:/27023/64b67a15f55a326fe745cb34d2556020> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/64b67a15f55a326fe745cb34d2556020> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-18" .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#name> "Probolinggo, Heerenstraat" .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#inscription> "Probolinggo Heerenstraat" .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/64bb8559f7b0277ecf92bb1c7641ae10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/64848394b3e93da88e11e82c66a95471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/64848394b3e93da88e11e82c66a95471> <https://colonialcollections.nl/schema#identifier> "2002/04/22-6-2/49" .
 <https://n2t.net/ark:/27023/64848394b3e93da88e11e82c66a95471> <https://colonialcollections.nl/schema#name> "Foto van peuter op potje" .
@@ -542,30 +573,6 @@
 <https://n2t.net/ark:/27023/64c8f4b8e208807da7fcb686202284e6> <https://colonialcollections.nl/schema#description> "Foto zwart-wit Ereveld Kalibanteng, Semarang, Indonesië. Vrouwenmonument.\r\n\r\nMet pen beschreven:\r\n\r\nFoto eigendom van:\r\n\r\nN.V. Nederlands Ingenieurs Bureau Ingenieur Vrijling" .
 <https://n2t.net/ark:/27023/64c8f4b8e208807da7fcb686202284e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/64c8f4b8e208807da7fcb686202284e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#identifier> "2002/01/23-1/1" .
-<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#name> "Ben M. Koster, \"De ongelijke strijd in de Vogelkop\", verschenen in de Panorama" .
-<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#description> "Een artikel uit een reeks van drie, geschreven door Ben M. Koster en getiteld \"De ongelijke strijd in de Vogelkop\".\r\nVerschenen in de Panorama. Datum van verschijnen niet bijgevoegd." .
-<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/64848d41c5681fbf63201dbd8b36332b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#identifier> "nf%201255" .
-<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#name> "Ulu Danu Tempel, Bali" .
-<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#description> "Foto, kleur, rechthoekig, los\r\n\r\nAchterop een sticker van Museum Nusantara met o.a. gegevens van fotograaf en titel en geografische herkomst.\r\n\r\nOpname toont een meer met op kleine eilandjes in dat meer pura's. Links een eilandje met een bamboe(stoel)." .
-<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/649e374a13c6a93101a870574493acfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/37" .
-<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#name> "Brug in de plantentuin, Buitenzorg" .
-<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
-<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/64a29f797db5e43a67b77d1c9c8679f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#identifier> "1994/06/20-2-13/1" .
-<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#name> "Oorkonde in Latijn t.n.v. W. Pelleboer" .
-<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#description> "Oorkonde in Latijn t.n.v. W. Pelleboer. In goede staat. Voetius L.S.  (...)" .
-<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/64b0c8761bcb1e07c0a149f8553a367d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/64873adaea4ae3208485596c66af09b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/64873adaea4ae3208485596c66af09b2> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42312" .
 <https://n2t.net/ark:/27023/64873adaea4ae3208485596c66af09b2> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkokosrasp\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tgesmeed\r\nEmailadres: toelichting:\tDe rasp is gemaakt van ijzer en heeft een ovaal blad dat langs de rand voor een deel gekarteld is. Aan " .

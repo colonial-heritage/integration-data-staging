@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-12" .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#name> "32. De Solo-rivier bij Tjepoe . (Midden-Java)." .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#description> "Schoolplaat. 32. De Solo-rivier bij Tjepoe . (Midden-Java)." .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#inscription> "32. De Solo-rivier bij Tjepoe . (Midden-Java)." .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aa8dc951727d537fc4c0c9ed25f3b2fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa8dc951727d537fc4c0c9ed25f3b2fa> <https://colonialcollections.nl/schema#identifier> "2005/00-712" .
 <https://n2t.net/ark:/27023/aa8dc951727d537fc4c0c9ed25f3b2fa> <https://colonialcollections.nl/schema#name> "Uniformpet Kepi-KNIL <A.O.O." .
@@ -47,14 +55,27 @@
 <https://n2t.net/ark:/27023/aaa04581ae5b377e6475936fb755bd06> <https://colonialcollections.nl/schema#creator> "J. Ephraim" .
 <https://n2t.net/ark:/27023/aaa04581ae5b377e6475936fb755bd06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aaa04581ae5b377e6475936fb755bd06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/24" .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#name> "De loods van Port Said" .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. De loods van Port Said." .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#creator> "D. Hofma" .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#identifier> "2013/05/29-1" .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#name> "C.W. Mieling, Javansche Oudheden. Opgedragen aan Z.K.H. Prins Hendrik der Nederlanden, 1852" .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#description> "C.W. Mieling, Javasche Oudheden. Opgedragen aan Z.K.H. Prins Hendrik der Nederlanden. Uitgegeven en gedrukt ter Koninklijke Lithografie van C.W. Mieling, te 's Hage 1852.\r\n\r\n1.\tEen vervallen Tjandi (tempel) in een pepertuin te Bangil. \"Ruïne van een Tjand" .
-<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Charles Rochussen" .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Jacob Jan van der Maaten" .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Frederik Hendrik Weissenbruch" .
 <https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "C.W. Mieling" .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Jan Weissenbruch" .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Paulus Lauters" .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Adrianus Johannes Bik" .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Cornelis Springer" .
+<https://n2t.net/ark:/27023/aab42c922b35552375131e3ed83890af> <https://colonialcollections.nl/schema#creator> "Charles Rochussen" .
 <https://n2t.net/ark:/27023/aab54fa0333779c46880722673abb369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aab54fa0333779c46880722673abb369> <https://colonialcollections.nl/schema#identifier> "nf%20681-10" .
 <https://n2t.net/ark:/27023/aab54fa0333779c46880722673abb369> <https://colonialcollections.nl/schema#name> "Boengara Estate" .
@@ -62,6 +83,19 @@
 <https://n2t.net/ark:/27023/aab54fa0333779c46880722673abb369> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/aab54fa0333779c46880722673abb369> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aab54fa0333779c46880722673abb369> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-3/2" .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#name> "Kind met een menselijke schedel" .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#description> "Foto. Kind met een menselijke schedel in de hand, staand in een knekelveld. Nieuw Guinea(?)" .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#creator> "Kino-Foto-Huis Würffel" .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#identifier> "nf%201424-10" .
+<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont de hand van een Papoea man en de metalen beitel waarrmee hij een decoratie aanbrengt  op een prauwsteven. Deze fraaie decora" .
+<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#creator> "Jac. Hoogerbrugge" .
+<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aaa5a0f8b2e6970b3b857595961247bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aaa5a0f8b2e6970b3b857595961247bb> <https://colonialcollections.nl/schema#identifier> "nf%201011" .
 <https://n2t.net/ark:/27023/aaa5a0f8b2e6970b3b857595961247bb> <https://colonialcollections.nl/schema#description> "foto, rechthoekig, kleur. Met nog een andere foto met tape aan één kant op karton opgeplakt.\r\n\r\nOp voorkant is te zien dat de polaroid kleurenfoto is gemaakt in augustus 1967\r\n\r\nDe opname toont een drietal beelden in vooraanzicht. Zij staan op een licht b" .
@@ -100,13 +134,6 @@
 <https://n2t.net/ark:/27023/aabab45878838ab8f37a1f4bdd8468b6> <https://colonialcollections.nl/schema#inscription> "DT; Finnigans [ ] 1943" .
 <https://n2t.net/ark:/27023/aabab45878838ab8f37a1f4bdd8468b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aabab45878838ab8f37a1f4bdd8468b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-12" .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#name> "32. De Solo-rivier bij Tjepoe . (Midden-Java)." .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#description> "Schoolplaat. 32. De Solo-rivier bij Tjepoe . (Midden-Java)." .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#inscription> "32. De Solo-rivier bij Tjepoe . (Midden-Java)." .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aabb84aa810b668a4e234052203b84af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aa884c97a5bf575eea97515ac84dff80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa884c97a5bf575eea97515ac84dff80> <https://colonialcollections.nl/schema#identifier> "2006/00-23-111-50" .
 <https://n2t.net/ark:/27023/aa884c97a5bf575eea97515ac84dff80> <https://colonialcollections.nl/schema#name> "3 bouwtekeningen van nevenpanelen, signaleringscomponenten en geografisch paneel hoofdgebouw, 1986 (kopie)" .
@@ -527,18 +554,6 @@
 <https://n2t.net/ark:/27023/aacfad023f25f001a2a3d64c133c62d7> <https://colonialcollections.nl/schema#description> "Oorlogsherinneringskruis zonder gesp." .
 <https://n2t.net/ark:/27023/aacfad023f25f001a2a3d64c133c62d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aacfad023f25f001a2a3d64c133c62d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/24" .
-<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#name> "De loods van Port Said" .
-<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. De loods van Port Said." .
-<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aaaacce47007705da8c55bf3d6280dd9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-3/2" .
-<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#name> "Kind met een menselijke schedel" .
-<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#description> "Foto. Kind met een menselijke schedel in de hand, staand in een knekelveld. Nieuw Guinea(?)" .
-<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aac7df72cb1a0e732b046d5493ffd584> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aa88a49873f9f8b6f080b5386b1bac9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa88a49873f9f8b6f080b5386b1bac9e> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/98" .
 <https://n2t.net/ark:/27023/aa88a49873f9f8b6f080b5386b1bac9e> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .
@@ -579,11 +594,6 @@
 <https://n2t.net/ark:/27023/aac6c40956928157c36721fcddcb54c0> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, bovenkant met lijm in album geplakt.\r\nEr is geen geschreven tekst op de achterkant.\r\n\r\nOpname toont een personenauto uit de eerste helft van de 20ste eeuw. Zo te zien een twoseater, maar in de 'kofferbak' kunnen waarschijnlij" .
 <https://n2t.net/ark:/27023/aac6c40956928157c36721fcddcb54c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aac6c40956928157c36721fcddcb54c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#identifier> "nf%201424-10" .
-<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont de hand van een Papoea man en de metalen beitel waarrmee hij een decoratie aanbrengt  op een prauwsteven. Deze fraaie decora" .
-<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aa98fa32f8487c38dedac5f0c4627825> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aa9a3f9b733784958aba02ce44f634ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa9a3f9b733784958aba02ce44f634ac> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43542" .
 <https://n2t.net/ark:/27023/aa9a3f9b733784958aba02ce44f634ac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

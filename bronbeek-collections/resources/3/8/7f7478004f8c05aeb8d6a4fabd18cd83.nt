@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#identifier> "2000/07/24-1" .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van inwoner Tijmen Vivié in het insectarium op Bronbeek" .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto met als titel: \"Insectarium Kon. Kol. Invalidenhuis Bronbeek - Arnhem\"\r\nZwart-wit.\r\n\r\nAfgebeelde man is inwoner Tijmen Vivié.\r\nZelfde foto als 2000/07/16-1 en 1990/10/02-1." .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#inscription> "Insectarium Kon.Kol.Invalidenhuis Bronbeek, Arnhem Newo Arnhem Nadruk verboden" .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#creator> "Newo Arnhem" .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c7d5766ef372cf371bc32baf62d0784f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c7d5766ef372cf371bc32baf62d0784f> <https://colonialcollections.nl/schema#identifier> "2016/08/16-4-1/7" .
 <https://n2t.net/ark:/27023/c7d5766ef372cf371bc32baf62d0784f> <https://colonialcollections.nl/schema#name> "\"Nummer 13. Een v/d Toppen (Soembing) v/d Kloet Krater. Het afbrokkelen van deze rotspartij veroorzaakt de erupties.\"" .
@@ -5,6 +13,20 @@
 <https://n2t.net/ark:/27023/c7d5766ef372cf371bc32baf62d0784f> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/c7d5766ef372cf371bc32baf62d0784f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c7d5766ef372cf371bc32baf62d0784f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-827" .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#name> "Gevechtslaarzen model 1957 Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#description> "Gevechtslaars (paar) van bruin leer met hoge schacht. De laars wordt gesloten met een bruine veter door elf met bruine metalen ringen afgewerkte gaten. De zool is van zwart rubber.\r\nOp de zool staat\r\nMvO\r\n44\r\nBata - Best\r\n\r\nOp de hak staat\r\nMvO\r\n3" .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#creator> "Bata" .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-134" .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Zittend publiek luistert naar toespraak. Op de eerste rij zittend mevrouw Ch. Tjarda van Starkenborch Stachouwer-Marburg, de voormalig gouverneur-" .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#creator> "Fotobureau Stokvis" .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c7e559d57cb6c973d7dbb3daa1e8f3fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c7e559d57cb6c973d7dbb3daa1e8f3fb> <https://colonialcollections.nl/schema#identifier> "nf%20490-1" .
 <https://n2t.net/ark:/27023/c7e559d57cb6c973d7dbb3daa1e8f3fb> <https://colonialcollections.nl/schema#name> "brug over de Tjitaroem voorbij Tjimahi" .
@@ -33,6 +55,13 @@
 <https://n2t.net/ark:/27023/c7f6621fea196cef056a80c7be0552aa> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c7f6621fea196cef056a80c7be0552aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c7f6621fea196cef056a80c7be0552aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-16" .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#name> "De president, de vice-president en andere leiders worden verbannen naar Sumatra" .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#description> "De president, de vice-president en andere leiders worden verbannen naar Sumatra. 19 december 1948" .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c7c1604764502e2c3824b331775ef6d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c7c1604764502e2c3824b331775ef6d3> <https://colonialcollections.nl/schema#identifier> "nf%20335-68" .
 <https://n2t.net/ark:/27023/c7c1604764502e2c3824b331775ef6d3> <https://colonialcollections.nl/schema#description> "Geen onderschrift.\r\n\r\nZwart/wit opname, sterk vergeeld, van rotsen, met zichtbaar een aantal mensen op mogelijk strand.  \r\n\r\nAchterop staat: \"Rotsen bij de ingang van Sydney haven.\"" .
@@ -83,13 +112,6 @@
 <https://n2t.net/ark:/27023/c7ece86154206dbd0965f6527f0a33a8> <https://colonialcollections.nl/schema#inscription> "DKG..Goirle" .
 <https://n2t.net/ark:/27023/c7ece86154206dbd0965f6527f0a33a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c7ece86154206dbd0965f6527f0a33a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#identifier> "2000/07/24-1" .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van inwoner Tijmen Vivié in het insectarium op Bronbeek" .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto met als titel: \"Insectarium Kon. Kol. Invalidenhuis Bronbeek - Arnhem\"\r\nZwart-wit.\r\n\r\nAfgebeelde man is inwoner Tijmen Vivié.\r\nZelfde foto als 2000/07/16-1 en 1990/10/02-1." .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#inscription> "Insectarium Kon.Kol.Invalidenhuis Bronbeek, Arnhem Newo Arnhem Nadruk verboden" .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c7fabbc73c863fdee2dc55f47aa3ae3e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c7c0432596f024b9e9b645c0b3551e9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c7c0432596f024b9e9b645c0b3551e9c> <https://colonialcollections.nl/schema#identifier> "2013/10/28-2-3" .
 <https://n2t.net/ark:/27023/c7c0432596f024b9e9b645c0b3551e9c> <https://colonialcollections.nl/schema#name> "Buitenzorg" .
@@ -468,24 +490,6 @@
 <https://n2t.net/ark:/27023/c7fbf46276e6bfd024a5e4eba52bc214> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Afkomstig van de familie Rauchbaar en zuster Jo Potman.\r\nFamiliefoto's (sommige met kinderen); foto's van verpleegsters (waar onder J. Potman?), Javanen; Koningin Emma Ziekenhuis Tjikini; interieurfoto's. \r\nPeriode met name jaren dertig 20" .
 <https://n2t.net/ark:/27023/c7fbf46276e6bfd024a5e4eba52bc214> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c7fbf46276e6bfd024a5e4eba52bc214> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-827" .
-<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#name> "Gevechtslaarzen model 1957 Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#description> "Gevechtslaars (paar) van bruin leer met hoge schacht. De laars wordt gesloten met een bruine veter door elf met bruine metalen ringen afgewerkte gaten. De zool is van zwart rubber.\r\nOp de zool staat\r\nMvO\r\n44\r\nBata - Best\r\n\r\nOp de hak staat\r\nMvO\r\n3" .
-<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c7d599aa34a3678cdfe2a2e24f4d1e91> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-134" .
-<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Zittend publiek luistert naar toespraak. Op de eerste rij zittend mevrouw Ch. Tjarda van Starkenborch Stachouwer-Marburg, de voormalig gouverneur-" .
-<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c7d9ad608d099e741ea8044651393b8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-16" .
-<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#name> "De president, de vice-president en andere leiders worden verbannen naar Sumatra" .
-<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#description> "De president, de vice-president en andere leiders worden verbannen naar Sumatra. 19 december 1948" .
-<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c7f68b68f5e9e18b87fe928abc8abf3f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c7c174bbfb912b0fe204686098d0a274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c7c174bbfb912b0fe204686098d0a274> <https://colonialcollections.nl/schema#identifier> "nf%20697-26" .
 <https://n2t.net/ark:/27023/c7c174bbfb912b0fe204686098d0a274> <https://colonialcollections.nl/schema#description> "Opname toont een onbekende gewas.\r\n\r\nEr staat tekst op de foto: 'W.S.' en een datum 24-6-'24" .

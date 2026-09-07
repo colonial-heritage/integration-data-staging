@@ -13,6 +13,13 @@
 <https://n2t.net/ark:/27023/547eceb75c4de84cebd64575b40de0b6> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/547eceb75c4de84cebd64575b40de0b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/547eceb75c4de84cebd64575b40de0b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/94" .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Aanlegplaats te Tandjong Kait." .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/548f14e89d9e73e592efb535096b1052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/548f14e89d9e73e592efb535096b1052> <https://colonialcollections.nl/schema#identifier> "2016/12/28-6-2" .
 <https://n2t.net/ark:/27023/548f14e89d9e73e592efb535096b1052> <https://colonialcollections.nl/schema#name> "Fotomozaiek luchtfoto's noordkust eiland Bangka Indonesië" .
@@ -58,6 +65,7 @@
 <https://n2t.net/ark:/27023/548e2adaeb2a87cf0c30afcc5b6889df> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/548e2adaeb2a87cf0c30afcc5b6889df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/548e2adaeb2a87cf0c30afcc5b6889df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/548e2adaeb2a87cf0c30afcc5b6889df> <https://colonialcollections.nl/schema#creator> "H.ANDERSON - FOTO - MANOKWARI" .
 <https://n2t.net/ark:/27023/549cf9ce5221540beb780cc7a2e806f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/549cf9ce5221540beb780cc7a2e806f3> <https://colonialcollections.nl/schema#identifier> "nf%20842-701" .
 <https://n2t.net/ark:/27023/549cf9ce5221540beb780cc7a2e806f3> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 01 t/m 36.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 15, in potloo" .
@@ -541,12 +549,6 @@
 <https://n2t.net/ark:/27023/54c179951b15bc89794d17a7bc2d964f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart." .
 <https://n2t.net/ark:/27023/54c179951b15bc89794d17a7bc2d964f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54c179951b15bc89794d17a7bc2d964f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/94" .
-<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Aanlegplaats te Tandjong Kait." .
-<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/54878845a3d72c06cd8277812a44a967> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/546b9d5d5f6c6e2b58081fec3b363caa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/546b9d5d5f6c6e2b58081fec3b363caa> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41840" .
 <https://n2t.net/ark:/27023/546b9d5d5f6c6e2b58081fec3b363caa> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoed\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezels, gevlochten\r\nEmailadres: toelichting:\tSpits toelopende hoed van palmblad. De gevouwen bladeren zijn aan elkaar genaaid met plantenvezels. De ronde rand" .

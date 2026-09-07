@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#identifier> "2013/11/27-2" .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#name> "Bestek der reis van Holland naar Batavia, vertrokken 20 Mei 1873" .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#description> "Kaart, landkaart van de reis van Kapitein KNIL A.J. Cochius (1841-1912) van Nederland naar Nederlands-Indie, begonnen op 20 mei 1873. Opgedragen aan zijn ouders. Kaart op linnen met in rode pen de locaties van het schip.\r\n\"Bestek der reis van Holland naar" .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#inscription> "Bestek der reis van Holland naar Batavia, vertrokken 20 Mei 1873 [  ] opgedragen aan mijne Ouders door AJCochius" .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#creator> "Kapitein KNIL Arnoldus Johannes Cochius" .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#identifier> "2008/02/13-1-2" .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#name> "KNIL-militairen in een boom met observatiepost te Proempait, Atjeh" .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Groep KNIL-militairen in een boom met observatiepost te Proempait, Atjeh. Ca. 1880-1890. Fotograaf vermoedelijk Kaulfuss.\r\n\r\nHandgeschreven tekst verso: Obserrvatiepost te Proepait." .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#inscription> "Observatiepost te Proem[pait]" .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#creator> "E.A. Kaulfuss" .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/76badf4f1865336578a5353c6bced3df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/76badf4f1865336578a5353c6bced3df> <https://colonialcollections.nl/schema#identifier> "1977/03-1-23" .
 <https://n2t.net/ark:/27023/76badf4f1865336578a5353c6bced3df> <https://colonialcollections.nl/schema#name> "Makassaarsche prauw" .
@@ -26,6 +42,27 @@
 <https://n2t.net/ark:/27023/76ce84b1afd313948961f46002367ba9> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/76ce84b1afd313948961f46002367ba9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/76ce84b1afd313948961f46002367ba9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/1" .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#name> "Onthulling monument jongenskampen 1988/11/10 door Prins Bernhard" .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#description> "Zwart-wit foto Onthulling monument jongenskampen 1988/11/10 door Prins Bernhard." .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#creator> "Theo Janssen" .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#identifier> "1997/00-1/264" .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#name> "Kaart van Zuid Sumatra" .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#description> "Kaart van Zuid Sumatra, gedeelte tussen Djambi en de zuidkust.\r\n\r\nSchaal 1: 750.000; Uitg. Industriële Maatschappij Palembang." .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#creator> "Industriële Maatschappij Palembang" .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#identifier> "1867/11/27-1" .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#name> "Beknopte Beschrijving van de Aardbeving, die het eiland Java in den Ochtend van den 10den Junij 1867 heeft geteisterd, benevens eenige historische herinneringen aan den oorsprong van Passar-Gedée" .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#description> "Boek. Beknopte Beschrijving met 4 groote photographiën van de Aardbeving, die het eiland Java in den Ochtend van den 10den Junij 1867 heeft geteisterd, benevens eenige historische herinneringen aan den oorsprong van Passar-Gedée. Uitgegeven ten voordeele " .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#creator> "Camerik" .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/76e37450aa6af5ae48cf945b925a1eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/76e37450aa6af5ae48cf945b925a1eae> <https://colonialcollections.nl/schema#identifier> "nf%20836-19-2" .
 <https://n2t.net/ark:/27023/76e37450aa6af5ae48cf945b925a1eae> <https://colonialcollections.nl/schema#name> "Verlof 1928. Liesbosch 3 Juni 1928" .
@@ -40,6 +77,13 @@
 <https://n2t.net/ark:/27023/76e60d73a677891d287996e26f48b499> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/76e60d73a677891d287996e26f48b499> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/76e60d73a677891d287996e26f48b499> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-20/3" .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Abulani\"" .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#creator> "Abulani" .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/76fe359efd3ce82e23b7a490eea67e08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/76fe359efd3ce82e23b7a490eea67e08> <https://colonialcollections.nl/schema#identifier> "nf%20842-74" .
 <https://n2t.net/ark:/27023/76fe359efd3ce82e23b7a490eea67e08> <https://colonialcollections.nl/schema#name> "Groep vissers aan het strand te Pangandaran, West-Java" .
@@ -92,20 +136,6 @@
 <https://n2t.net/ark:/27023/76d5de7c32b064fac3007d6a0da58b02> <https://colonialcollections.nl/schema#inscription> "De kinderen een dagje aan zee" .
 <https://n2t.net/ark:/27023/76d5de7c32b064fac3007d6a0da58b02> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/76d5de7c32b064fac3007d6a0da58b02> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#identifier> "2013/11/27-2" .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#name> "Bestek der reis van Holland naar Batavia, vertrokken 20 Mei 1873" .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#description> "Kaart, landkaart van de reis van Kapitein KNIL A.J. Cochius (1841-1912) van Nederland naar Nederlands-Indie, begonnen op 20 mei 1873. Opgedragen aan zijn ouders. Kaart op linnen met in rode pen de locaties van het schip.\r\n\"Bestek der reis van Holland naar" .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#inscription> "Bestek der reis van Holland naar Batavia, vertrokken 20 Mei 1873 [  ] opgedragen aan mijne Ouders door AJCochius" .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76edc4d56fb9a99aaaf6a3c1b9bda203> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#identifier> "2008/02/13-1-2" .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#name> "KNIL-militairen in een boom met observatiepost te Proempait, Atjeh" .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Groep KNIL-militairen in een boom met observatiepost te Proempait, Atjeh. Ca. 1880-1890. Fotograaf vermoedelijk Kaulfuss.\r\n\r\nHandgeschreven tekst verso: Obserrvatiepost te Proepait." .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#inscription> "Observatiepost te Proem[pait]" .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76ef094a71cf1b64c23b5d5b614c1b0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/76ba58db7813e192c19d9fefdbe7af79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/76ba58db7813e192c19d9fefdbe7af79> <https://colonialcollections.nl/schema#identifier> "2009/04/30-4-1/62" .
 <https://n2t.net/ark:/27023/76ba58db7813e192c19d9fefdbe7af79> <https://colonialcollections.nl/schema#name> "Foto periode 1947-1949" .
@@ -544,30 +574,6 @@
 <https://n2t.net/ark:/27023/76ff3427abe1e1151ab0958c8490f95b> <https://colonialcollections.nl/schema#description> "zw/w. foto. Kano met drie jongens op water. De voorste jongen is te herkennen als Martin Slagter, de achterste als Gerrit Slagter, beiden zoons van Kapitein M.Th. Slagter.\r\nDe lokatie bereft wellicht het meer van Korintji, e.e.a. gezien het feit dat de lo" .
 <https://n2t.net/ark:/27023/76ff3427abe1e1151ab0958c8490f95b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/76ff3427abe1e1151ab0958c8490f95b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/1" .
-<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#name> "Onthulling monument jongenskampen 1988/11/10 door Prins Bernhard" .
-<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#description> "Zwart-wit foto Onthulling monument jongenskampen 1988/11/10 door Prins Bernhard." .
-<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76cfa599146ed4cfb15e22f10535f92f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#identifier> "1997/00-1/264" .
-<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#name> "Kaart van Zuid Sumatra" .
-<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#description> "Kaart van Zuid Sumatra, gedeelte tussen Djambi en de zuidkust.\r\n\r\nSchaal 1: 750.000; Uitg. Industriële Maatschappij Palembang." .
-<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76cfc6eeafc002699cbecd0101de19df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#identifier> "1867/11/27-1" .
-<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#name> "Beknopte Beschrijving van de Aardbeving, die het eiland Java in den Ochtend van den 10den Junij 1867 heeft geteisterd, benevens eenige historische herinneringen aan den oorsprong van Passar-Gedée" .
-<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#description> "Boek. Beknopte Beschrijving met 4 groote photographiën van de Aardbeving, die het eiland Java in den Ochtend van den 10den Junij 1867 heeft geteisterd, benevens eenige historische herinneringen aan den oorsprong van Passar-Gedée. Uitgegeven ten voordeele " .
-<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76da60554157b957872c62794e1c6273> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-20/3" .
-<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Abulani\"" .
-<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76f78023e53746493bbc2cc7aaf68b71> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/76ba986b23d62e2033e24f051d3756a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/76ba986b23d62e2033e24f051d3756a2> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42895" .
 <https://n2t.net/ark:/27023/76ba986b23d62e2033e24f051d3756a2> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tvingerring\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tmetaal\r\n\tgesmeed, gegranuleerd, filigrain, ingekerfd\r\nEmailadres: toelichting:\tDe ring (Diam 1,9) is gemaakt van koper. Bij de ring hoor" .

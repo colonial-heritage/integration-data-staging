@@ -14,6 +14,14 @@
 <https://n2t.net/ark:/27023/ff1c51c02e28556ae98797990a0b60c7> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/ff1c51c02e28556ae98797990a0b60c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff1c51c02e28556ae98797990a0b60c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff1c51c02e28556ae98797990a0b60c7> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-20/1" .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Abulani\"" .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#creator> "Abulani" .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff23f2fe1c16495bc5aae2451abfe3d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff23f2fe1c16495bc5aae2451abfe3d7> <https://colonialcollections.nl/schema#identifier> "nf%201897-1" .
 <https://n2t.net/ark:/27023/ff23f2fe1c16495bc5aae2451abfe3d7> <https://colonialcollections.nl/schema#name> "Vrouw uit de Karo-Bataklanden, getooid met de zware zilveren padoeng padoeng" .
@@ -21,6 +29,13 @@
 <https://n2t.net/ark:/27023/ff23f2fe1c16495bc5aae2451abfe3d7> <https://colonialcollections.nl/schema#creator> "Tassilo Adam" .
 <https://n2t.net/ark:/27023/ff23f2fe1c16495bc5aae2451abfe3d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff23f2fe1c16495bc5aae2451abfe3d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/31" .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#name> "Drie militairen, middelsteman met korte broek en armen gekruist" .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#description> "Drie militairen, middelste man met korte broek en armen gekruist.\r\nAchter op foto geschreven \"grootmajoor Boom-Telders-Hoekman?, Nw Guinea ±1950\"." .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff41ede8428d3c47cb3b09e41b737ab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff41ede8428d3c47cb3b09e41b737ab5> <https://colonialcollections.nl/schema#identifier> "nf%20842-108" .
 <https://n2t.net/ark:/27023/ff41ede8428d3c47cb3b09e41b737ab5> <https://colonialcollections.nl/schema#name> "Een Javaan, gehurkt op straat naast een boom, West-Java" .
@@ -49,6 +64,12 @@
 <https://n2t.net/ark:/27023/ff5ba19a74e93f93e02dc91f4ca5ba1d> <https://colonialcollections.nl/schema#creator> "2e Luitenant J.C. Nanning" .
 <https://n2t.net/ark:/27023/ff5ba19a74e93f93e02dc91f4ca5ba1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff5ba19a74e93f93e02dc91f4ca5ba1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#identifier> "EDO%20481-21" .
+<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van waarschijnlijk een deel van een (tempel)poort. Groot gebeeldhouwde figuur in steen, geplaatst in een nis." .
+<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff25a39d9e39192a4ea4f8e6d1ef3943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff25a39d9e39192a4ea4f8e6d1ef3943> <https://colonialcollections.nl/schema#identifier> "nf%20842-596" .
 <https://n2t.net/ark:/27023/ff25a39d9e39192a4ea4f8e6d1ef3943> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BE 01 t/m 36. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BE, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BE 10, in potlood EF 29.\r" .
@@ -513,18 +534,6 @@
 <https://n2t.net/ark:/27023/ff5d47f65e779508b5a9a8e56d338e25> <https://colonialcollections.nl/schema#description> "Certificaat ereteken Orde en Vrede t.n.v. T. van Mourik. Gedateerd 12 februari 1949." .
 <https://n2t.net/ark:/27023/ff5d47f65e779508b5a9a8e56d338e25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff5d47f65e779508b5a9a8e56d338e25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-20/1" .
-<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Abulani\"" .
-<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ff17d8efadb65258d344f10236bd9044> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/31" .
-<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#name> "Drie militairen, middelsteman met korte broek en armen gekruist" .
-<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#description> "Drie militairen, middelste man met korte broek en armen gekruist.\r\nAchter op foto geschreven \"grootmajoor Boom-Telders-Hoekman?, Nw Guinea ±1950\"." .
-<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ff33eda26a70ef9205ea3f088960a304> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff131d6bc276469989130ff6faa67fd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff131d6bc276469989130ff6faa67fd7> <https://colonialcollections.nl/schema#identifier> "2005/00-160/89-18" .
 <https://n2t.net/ark:/27023/ff131d6bc276469989130ff6faa67fd7> <https://colonialcollections.nl/schema#description> "Document. Barcodesticker is uitgedraaid [KP]." .
@@ -575,11 +584,6 @@
 <https://n2t.net/ark:/27023/ff59923a361aff94ec90c63c3617bebf> <https://colonialcollections.nl/schema#description> "model\r\nHerkomst: Benkoelen,zuid-Sumatra." .
 <https://n2t.net/ark:/27023/ff59923a361aff94ec90c63c3617bebf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff59923a361aff94ec90c63c3617bebf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#identifier> "EDO%20481-21" .
-<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van waarschijnlijk een deel van een (tempel)poort. Groot gebeeldhouwde figuur in steen, geplaatst in een nis." .
-<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ff204eee5ba0a54218afe12c868cde39> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff41812bb6632a42e123df9d898d1d2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff41812bb6632a42e123df9d898d1d2f> <https://colonialcollections.nl/schema#identifier> "S%20230-827" .
 <https://n2t.net/ark:/27023/ff41812bb6632a42e123df9d898d1d2f> <https://colonialcollections.nl/schema#name> "Model van een Minahasa vissersvaartuig, londei belutu" .

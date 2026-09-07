@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#identifier> "1964/07/07-1-3" .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#name> "Colonne Geweer, Onze Land- en Zeemacht, serie \"Koloniale Reserve\", no. 6" .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. No.6. Onze Land- en Zeemacht. Serie \"Koloniale Reserve\". \"Colonne geweer\"." .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#inscription> "Onze Land- en Zeemacht. Serie \"Koloniale Reserve.\" Colonne Geweer" .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#creator> "Jos. Nuss & Co." .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dfee52b9832a3f657a5836b8642ac7c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dfee52b9832a3f657a5836b8642ac7c1> <https://colonialcollections.nl/schema#identifier> "nf%201413-126" .
 <https://n2t.net/ark:/27023/dfee52b9832a3f657a5836b8642ac7c1> <https://colonialcollections.nl/schema#name> "Weg door het moeras tussen Tandjoeng Kerang en K.P.V. Zuid" .
@@ -33,6 +41,15 @@
 <https://n2t.net/ark:/27023/e009cf0511c99e3976ff87280e3a743e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e009cf0511c99e3976ff87280e3a743e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e009cf0511c99e3976ff87280e3a743e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e009cf0511c99e3976ff87280e3a743e> <https://colonialcollections.nl/schema#creator> "J.H.Zindler - Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/e009cf0511c99e3976ff87280e3a743e> <https://colonialcollections.nl/schema#creator> "Tellko" .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-2/1" .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#name> "Coffee cleaning. Aden" .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#description> "Foto als prentbriefkaart met drie meisjes die koffiebessen (?) sorteren. Rechtsonder genummerd: No. 68." .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#creator> "A. Abassi" .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e011ab1cad099b0b4c3ab97f451d8cf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e011ab1cad099b0b4c3ab97f451d8cf6> <https://colonialcollections.nl/schema#identifier> "nf%201322-4" .
 <https://n2t.net/ark:/27023/e011ab1cad099b0b4c3ab97f451d8cf6> <https://colonialcollections.nl/schema#name> "Het winnen van zwavel in Kawah Kamodjan" .
@@ -74,6 +91,12 @@
 <https://n2t.net/ark:/27023/dfddb0c6a920b20ba8ecde4da897f9fd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/dfddb0c6a920b20ba8ecde4da897f9fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dfddb0c6a920b20ba8ecde4da897f9fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#identifier> "nf%20863-5" .
+<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#description> "Foto van een groep mannen, nagenoeg allemaal westers en vermoedelijk een bowlingclub, zittend en staand in een ruimte.\r\nVooraan tussen hen in, liggen een drietal bowlingballen. Op de middelste staat de datum '4-4-'22'.\r\n\r\nDe foto is geplakt op een rechtho" .
+<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#creator> "M. Honda, Pontianak" .
+<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dff98cbf4521afd397cb3470db098479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dff98cbf4521afd397cb3470db098479> <https://colonialcollections.nl/schema#identifier> "nf%20926-15-2" .
 <https://n2t.net/ark:/27023/dff98cbf4521afd397cb3470db098479> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van drie personen bij een ouderwetse motorfiets, die op een standaard staat. Op het zadel een meisje met donkerblond kortgeknipt haar. Achter haar op de foto staat een blanke man met een kind op de arm.\r\nDe numme" .
@@ -112,13 +135,6 @@
 <https://n2t.net/ark:/27023/e01059fee70a45976aa07677610af51f> <https://colonialcollections.nl/schema#inscription> "\"Lider\" Maart ´48 Gew.- Inspectie. Over-gew.\"" .
 <https://n2t.net/ark:/27023/e01059fee70a45976aa07677610af51f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e01059fee70a45976aa07677610af51f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#identifier> "1964/07/07-1-3" .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#name> "Colonne Geweer, Onze Land- en Zeemacht, serie \"Koloniale Reserve\", no. 6" .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. No.6. Onze Land- en Zeemacht. Serie \"Koloniale Reserve\". \"Colonne geweer\"." .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#inscription> "Onze Land- en Zeemacht. Serie \"Koloniale Reserve.\" Colonne Geweer" .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e000e91a1d8b8cef19191978e283972d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dfd7d1df74a90e587027942101ea0c3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dfd7d1df74a90e587027942101ea0c3e> <https://colonialcollections.nl/schema#identifier> "2006/00-23-13-10" .
 <https://n2t.net/ark:/27023/dfd7d1df74a90e587027942101ea0c3e> <https://colonialcollections.nl/schema#name> "Correspondentie museum en bibliotheek Bronbeek 1974" .
@@ -533,12 +549,6 @@
 <https://n2t.net/ark:/27023/e026a543df8645a532df6cbf6c15750f> <https://colonialcollections.nl/schema#description> "Foto diensttijd matroos Bart Burgers in Nederlands Nieuw Guinea in 1956. Bart Burgers werkte als matroos stoker op HMS de Ruyter." .
 <https://n2t.net/ark:/27023/e026a543df8645a532df6cbf6c15750f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e026a543df8645a532df6cbf6c15750f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-2/1" .
-<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#name> "Coffee cleaning. Aden" .
-<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#description> "Foto als prentbriefkaart met drie meisjes die koffiebessen (?) sorteren. Rechtsonder genummerd: No. 68." .
-<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e00d597cb2d0155b824719b93a133085> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dfe05d805fa916c135d1964fadb1a838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dfe05d805fa916c135d1964fadb1a838> <https://colonialcollections.nl/schema#identifier> "nf%201353-6-1" .
 <https://n2t.net/ark:/27023/dfe05d805fa916c135d1964fadb1a838> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, bovenste helft met lijm opgeplakt.\r\nOp achterkant geen tekst.\r\n\r\nVoor alle 4 foto's op dit blad geldt dat de herkomst Batang-Serangan is en 1926 als datering is gegeven.\r\n\r\nOpname toont een blanke man en vrouw staand in een t" .
@@ -574,11 +584,6 @@
 <https://n2t.net/ark:/27023/e026b8efd97a9e78ce5fea7870381887> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/e026b8efd97a9e78ce5fea7870381887> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e026b8efd97a9e78ce5fea7870381887> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#identifier> "nf%20863-5" .
-<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#description> "Foto van een groep mannen, nagenoeg allemaal westers en vermoedelijk een bowlingclub, zittend en staand in een ruimte.\r\nVooraan tussen hen in, liggen een drietal bowlingballen. Op de middelste staat de datum '4-4-'22'.\r\n\r\nDe foto is geplakt op een rechtho" .
-<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dff076e6afca6da363bd007ae845fd65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dff8af96fd0b7a574aac4d31286b5b28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dff8af96fd0b7a574aac4d31286b5b28> <https://colonialcollections.nl/schema#identifier> "S%20230-187" .
 <https://n2t.net/ark:/27023/dff8af96fd0b7a574aac4d31286b5b28> <https://colonialcollections.nl/schema#name> "Model van een stoel, kadera, omgeving Ternate" .

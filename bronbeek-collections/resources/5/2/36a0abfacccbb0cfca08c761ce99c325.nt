@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-35" .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#name> "Kebon Radja Solo (Java)" .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  \"Kebon Radja Solo (Java)\" Krokodil in dierentuin." .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#inscription> "Kebon Radja Solo (Java)" .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#creator> "Kawai & Co. Bandoeng" .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3bcb5ee9080d17235e3e104cdae6b07c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3bcb5ee9080d17235e3e104cdae6b07c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/422" .
 <https://n2t.net/ark:/27023/3bcb5ee9080d17235e3e104cdae6b07c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -26,13 +34,16 @@
 <https://n2t.net/ark:/27023/3bf99aa664f9d6c2a1ceec4dfd7666bc> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/3bf99aa664f9d6c2a1ceec4dfd7666bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3bf99aa664f9d6c2a1ceec4dfd7666bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3bf99aa664f9d6c2a1ceec4dfd7666bc> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#identifier> "S%206245-36" .
 <https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#name> "Weven [tenoen]" .
 <https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Weven [tenoen].\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt op Normaalpapier 3" .
-<https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/3c02f5de54d5651b7e844af337dd674f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3c03cb35c4c357edc2b21c7b5b4f7722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3c03cb35c4c357edc2b21c7b5b4f7722> <https://colonialcollections.nl/schema#identifier> "nf%20258" .
 <https://n2t.net/ark:/27023/3c03cb35c4c357edc2b21c7b5b4f7722> <https://colonialcollections.nl/schema#name> "Rijstcultuur, sawahbewerking" .
@@ -87,13 +98,6 @@
 <https://n2t.net/ark:/27023/3bec90649844fbbe63aa2628f61109a2> <https://colonialcollections.nl/schema#inscription> "1 ; Papoea" .
 <https://n2t.net/ark:/27023/3bec90649844fbbe63aa2628f61109a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3bec90649844fbbe63aa2628f61109a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-35" .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#name> "Kebon Radja Solo (Java)" .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  \"Kebon Radja Solo (Java)\" Krokodil in dierentuin." .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#inscription> "Kebon Radja Solo (Java)" .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3bf7a265b5983eff238fabd7adf06f2c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3bc89e31f93c928a335b5a4d13b1259b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3bc89e31f93c928a335b5a4d13b1259b> <https://colonialcollections.nl/schema#identifier> "2011/10/06-1-3" .
 <https://n2t.net/ark:/27023/3bc89e31f93c928a335b5a4d13b1259b> <https://colonialcollections.nl/schema#name> "Documenten: tijdschriftknipsel en schema Nederlands-Indische Unie" .
@@ -580,16 +584,17 @@
 <https://n2t.net/ark:/27023/3c018d32fba31c551b19f6e368271454> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Harangaol Sept '35\"\r\n\r\nOpname toont de heer Thies in witte uitmonstering zittend op de rand van een pr" .
 <https://n2t.net/ark:/27023/3c018d32fba31c551b19f6e368271454> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3c018d32fba31c551b19f6e368271454> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#identifier> "S%204184-1" .
+<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#name> "De Boroboedoer" .
+<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#creator> "Jan Poortenaar" .
+<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3bc487826d8df833df28d68dfd56cffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3bc487826d8df833df28d68dfd56cffe> <https://colonialcollections.nl/schema#identifier> "S%20230-819" .
 <https://n2t.net/ark:/27023/3bc487826d8df833df28d68dfd56cffe> <https://colonialcollections.nl/schema#name> "Model van een Oost-Javaans vissersvaartuig, perahu jaten" .
 <https://n2t.net/ark:/27023/3bc487826d8df833df28d68dfd56cffe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3bc487826d8df833df28d68dfd56cffe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#identifier> "S%204184-1" .
-<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#name> "De Boroboedoer" .
-<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3be9914d03f790a40f60dc38171f8ba4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3bc962488f8f8dea7c4e1e8d25723f66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3bc962488f8f8dea7c4e1e8d25723f66> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-2/124" .
 <https://n2t.net/ark:/27023/3bc962488f8f8dea7c4e1e8d25723f66> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

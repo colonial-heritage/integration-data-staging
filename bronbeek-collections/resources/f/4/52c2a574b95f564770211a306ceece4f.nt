@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#identifier> "2002/00-33/44" .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#name> "137. Militair Karrentransport." .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n137. Militair Karrentransport." .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#inscription> "137. Militair Karrentransport." .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8aa1f0b0cc46ef75cb3a5204573e73d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8aa1f0b0cc46ef75cb3a5204573e73d0> <https://colonialcollections.nl/schema#identifier> "1910/10/01-2/34" .
 <https://n2t.net/ark:/27023/8aa1f0b0cc46ef75cb3a5204573e73d0> <https://colonialcollections.nl/schema#name> "Nr. 34. De seinbrigade aan de kwala atjeh, uit ´Vierendertig gezichten op Atjeh´" .
@@ -14,6 +22,14 @@
 <https://n2t.net/ark:/27023/8aa1f6224f3337706fe5c52de4dfce42> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/8aa1f6224f3337706fe5c52de4dfce42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8aa1f6224f3337706fe5c52de4dfce42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8aa1f6224f3337706fe5c52de4dfce42> <https://colonialcollections.nl/schema#creator> "J.H. Hoffmeister" .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-12" .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali,  Pamekasan" .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Pamekasan, restricted, second edition, sheet 12, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#creator> "653rd ENGR.BN U.S.A.F." .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8aa7be09403ce84f4b6c0ea9946359da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8aa7be09403ce84f4b6c0ea9946359da> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/163" .
 <https://n2t.net/ark:/27023/8aa7be09403ce84f4b6c0ea9946359da> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -21,6 +37,13 @@
 <https://n2t.net/ark:/27023/8aa7be09403ce84f4b6c0ea9946359da> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/8aa7be09403ce84f4b6c0ea9946359da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8aa7be09403ce84f4b6c0ea9946359da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#identifier> "2002/10/17-1-11" .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#name> "Carte de Cabinet \"Hond van Luitenant Henri Mari Vis 1899\"" .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#description> "Foto, Carte de Cabinet \"Hond van Luitenant Henri Mari Vis 1899\"\r\n\"G.R. Lambert & Co. Singapore & Straits Settlements\"." .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#creator> "G.R.Lambert & Co Singapore & Straits Settlements." .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8ab3d5b7fd0ce6c554530e91bec6200a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ab3d5b7fd0ce6c554530e91bec6200a> <https://colonialcollections.nl/schema#identifier> "nf%20842-43" .
 <https://n2t.net/ark:/27023/8ab3d5b7fd0ce6c554530e91bec6200a> <https://colonialcollections.nl/schema#name> "Weggetje in Batu, Oost-Java" .
@@ -35,6 +58,12 @@
 <https://n2t.net/ark:/27023/8ab5a9feea8f4030e057710a74bfa557> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/8ab5a9feea8f4030e057710a74bfa557> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ab5a9feea8f4030e057710a74bfa557> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#identifier> "EDO%20481-72" .
+<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een lijkverbranding.\r\nDe foto toont een ópen' verhoging van bamboe en hout, in etages, taps naar boven toelopend. Erop staat een dakje op 4 palen. Onder het afdak een hou" .
+<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8ab9238af44284e5ac1bafd5422dfd6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ab9238af44284e5ac1bafd5422dfd6b> <https://colonialcollections.nl/schema#identifier> "EDO%20622-46-6" .
 <https://n2t.net/ark:/27023/8ab9238af44284e5ac1bafd5422dfd6b> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een jong blank meisje, staand op blote voetjes in het water. Zij heeft een hoedje op, een lichte blouse aan met een donker rokje.\r\n\r\nEr zijn te weinig aanknopingspunten om een" .
@@ -74,13 +103,6 @@
 <https://n2t.net/ark:/27023/8ad001792aa5c39c5cabb29dc62f05f5> <https://colonialcollections.nl/schema#inscription> "Smalspoorbaan in Surakarta, Solo, midden-Java, ±1951" .
 <https://n2t.net/ark:/27023/8ad001792aa5c39c5cabb29dc62f05f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ad001792aa5c39c5cabb29dc62f05f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#identifier> "2002/00-33/44" .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#name> "137. Militair Karrentransport." .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n137. Militair Karrentransport." .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#inscription> "137. Militair Karrentransport." .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8a998715ec4be5eff5ab16405186222f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8a99dd37f480c35c3bfe669a4517fded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8a99dd37f480c35c3bfe669a4517fded> <https://colonialcollections.nl/schema#identifier> "2017/03/21-2-2/90" .
 <https://n2t.net/ark:/27023/8a99dd37f480c35c3bfe669a4517fded> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal OVW A.C. van Eerd, Nederlands Indie 1945-1948" .
@@ -555,18 +577,6 @@
 <https://n2t.net/ark:/27023/8ae67c2191df9b972c3b62af2e80d8b4> <https://colonialcollections.nl/schema#description> "Foto 5-5 RI, 1948-1950. Totaal 317 stuks." .
 <https://n2t.net/ark:/27023/8ae67c2191df9b972c3b62af2e80d8b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ae67c2191df9b972c3b62af2e80d8b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-12" .
-<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali,  Pamekasan" .
-<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Pamekasan, restricted, second edition, sheet 12, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
-<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8a9f878717f5b96e8e526fe7db7e2373> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#identifier> "2002/10/17-1-11" .
-<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#name> "Carte de Cabinet \"Hond van Luitenant Henri Mari Vis 1899\"" .
-<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#description> "Foto, Carte de Cabinet \"Hond van Luitenant Henri Mari Vis 1899\"\r\n\"G.R. Lambert & Co. Singapore & Straits Settlements\"." .
-<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8ab039cb612fe172014554fc5f30a5af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8aad2a252b8d9d4f0eea21f2ec895bb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8aad2a252b8d9d4f0eea21f2ec895bb1> <https://colonialcollections.nl/schema#identifier> "nf%20840-34-5" .
 <https://n2t.net/ark:/27023/8aad2a252b8d9d4f0eea21f2ec895bb1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in potlood luidt: \"achter in 't rubber bosch 1934\"\r\n\r\nOpname toont mw. Thies en een grote hond die tegen haar opspring" .
@@ -587,11 +597,6 @@
 <https://n2t.net/ark:/27023/8ad27034ac5736f57b544dff9f83786b> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tmes\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tDolkmes met schede. de afmetingen van de schede zijn: L 21.2, Br 5.2, D 2.3.\r\nAfmetingen:\tL 27.8, Br 5.4, D 2.6\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2140\r\n" .
 <https://n2t.net/ark:/27023/8ad27034ac5736f57b544dff9f83786b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ad27034ac5736f57b544dff9f83786b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#identifier> "EDO%20481-72" .
-<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een lijkverbranding.\r\nDe foto toont een ópen' verhoging van bamboe en hout, in etages, taps naar boven toelopend. Erop staat een dakje op 4 palen. Onder het afdak een hou" .
-<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8aaf74db8c155a0f98fa33a244801a48> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8aa2de41d7a985f994e8315927ef5e42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8aa2de41d7a985f994e8315927ef5e42> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43824" .
 <https://n2t.net/ark:/27023/8aa2de41d7a985f994e8315927ef5e42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

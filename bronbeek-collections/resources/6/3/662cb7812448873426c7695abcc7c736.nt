@@ -1,27 +1,9 @@
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#identifier> "S%206245-58-2" .
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#name> "Papaja. (Carica Papaya.)" .
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Papaja. (Carica Papaya.)\r\nRechts onder: Lichtdruk van H. Kleinmann & Co., te Haarlem\r\n\r\nDe opname toont een opval" .
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#identifier> "nf%201435-2" .
-<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#description> "Stereofoto, beide foto's opgeplakt op lichtgrijs karton. Alle hoeken van het karton zijn afgerond.\r\n\r\nOp achterkant geschreven tekst in inkt en potlood. Het zijn 3 namen, waarvan er één duidelijk is: 'Dr. Poser (Off.v. Gezondheid)'\r\n\r\nDe opnamen tonen dri" .
-<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#identifier> "nf%201196" .
-<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los.\r\n\r\nOp achterkant geschreven tekst, bestaande uit nummer, onderwerp en afkomst:\r\n551.21(922.3)N39 - Onderwerp: Luchtfoto v.h. Tenggergebergte met de G.Batok, Bromo en Zandzee - Afkomst: Luchtv.Afd.N.I.Leger\r\n\r\nVerder nog " .
-<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-14" .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#name> "Ontvangst bij de Sultan van Solo (?)" .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst bij de Sultan van Solo (?).\r\nOp achterzijde; \"Photo by R.M. Soetarto Solo Phone 101 Java (D.E.I.)\"" .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#inscription> "11 W.D" .
+<https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#creator> "R.M. Soetarto" .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ddc7ce8748ffe809f3852463b6f6ebf7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -29,6 +11,7 @@
 <https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <https://colonialcollections.nl/schema#name> "Plaat 108. Gewapende Bataks voor een huis in Kenopen." .
 <https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <https://colonialcollections.nl/schema#description> "Foto. Plaat 108. Gewapende Bataks voor een huis in Kenopen." .
 <https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <https://colonialcollections.nl/schema#inscription> "Plaat 108. Gewapende Bataks voor een huis in Kenopen." .
+<https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
 <https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ddca8e1db5101333d6501b8a5be0431f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -36,8 +19,63 @@
 <https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <https://colonialcollections.nl/schema#name> "31. Spoorweg in de Preanger Regentschappen." .
 <https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n31. Spoorweg in de Preanger Regentschappen." .
 <https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <https://colonialcollections.nl/schema#inscription> "31. Spoorweg in de Preanger Regentschappen." .
+<https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
 <https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dde0e5555dc0d49bd1e61a3507a653d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/3" .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#name> "Prins Bernhard ontmoet twee inwoners Bronbeek in de Poorterszaal" .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#description> "Zwart-wit foto. Prins Bernhard ontmoet twee inwoners Bronbeek in de Poorterszaal tijdens een werkbezoek op 1988/09/29." .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#creator> "Theo Janssen" .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-15" .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#name> "5 Knillers, 2e links Luitenant Langenberg en 1 KL + burger voor poort KMA te Breda" .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 5 Knillers, 2e links Luitenant Langenberg en 1 KL + burger voor poort KMA te Breda. Op achterzijde gestempeld: H.W. Verplanke Dominicanenstraat 33 Nijmegen\" + \"W:3f\"." .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#creator> "H.W. Verplanke" .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#identifier> "2005/00-607/2" .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#name> "Foto van landschap met hospitaal Pematang-Siantar" .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Landschap met hospitaal te Pematang-Siantar, Sumatra-Oostkust\r\n\r\nverso: in potlood \" Photo genomenm Juli 1930 Landschap-hospitaal P. Siantar Sumatra-oostkust\"" .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/55" .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#name> "\"Prapat (Toba-meer)\"" .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Geadresseerd: Familie Vermaas, Pastorie, Lochem. \"Prapat (Toba-meer). Gefrankeerd 12,5 cent." .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#creator> "W.T. Uhlenhuth" .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#identifier> "S%206245-58-2" .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#name> "Papaja. (Carica Papaya.)" .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Papaja. (Carica Papaya.)\r\nRechts onder: Lichtdruk van H. Kleinmann & Co., te Haarlem\r\n\r\nDe opname toont een opval" .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddc84a01bb49f866f3537bb29aa975fb> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#identifier> "nf%201435-2" .
+<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#description> "Stereofoto, beide foto's opgeplakt op lichtgrijs karton. Alle hoeken van het karton zijn afgerond.\r\n\r\nOp achterkant geschreven tekst in inkt en potlood. Het zijn 3 namen, waarvan er één duidelijk is: 'Dr. Poser (Off.v. Gezondheid)'\r\n\r\nDe opnamen tonen dri" .
+<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddb0219296dd22724bd496c55fdf74c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#identifier> "nf%20323-27-1" .
+<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#description> "bijschrift; 'Op den voorgrond het Roode meer, rechts op den achtergrond het Groene meer van Kalimoetoe met den rookenden sulfatoren'" .
+<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#identifier> "nf%201196" .
+<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los.\r\n\r\nOp achterkant geschreven tekst, bestaande uit nummer, onderwerp en afkomst:\r\n551.21(922.3)N39 - Onderwerp: Luchtfoto v.h. Tenggergebergte met de G.Batok, Bromo en Zandzee - Afkomst: Luchtv.Afd.N.I.Leger\r\n\r\nVerder nog " .
+<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ddd003524e83c17e07474aa1c24c0640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dda6247439f529b8f86ae04817dfd743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dda6247439f529b8f86ae04817dfd743> <https://colonialcollections.nl/schema#identifier> "2015/02/04-7-4" .
 <https://n2t.net/ark:/27023/dda6247439f529b8f86ae04817dfd743> <https://colonialcollections.nl/schema#name> "Brief van bedrijfsleider van Drukkerij A. Boom & Zoon te Meppel" .
@@ -518,30 +556,6 @@
 <https://n2t.net/ark:/27023/dde59f34923ff7c2fcb35ad5ed1d52e6> <https://colonialcollections.nl/schema#description> "Riem, khaki. U.S.  I.Q.M.D. 1944, 40" .
 <https://n2t.net/ark:/27023/dde59f34923ff7c2fcb35ad5ed1d52e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dde59f34923ff7c2fcb35ad5ed1d52e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/3" .
-<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#name> "Prins Bernhard ontmoet twee inwoners Bronbeek in de Poorterszaal" .
-<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#description> "Zwart-wit foto. Prins Bernhard ontmoet twee inwoners Bronbeek in de Poorterszaal tijdens een werkbezoek op 1988/09/29." .
-<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddb0b08542e655dcf11351180115bcab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-15" .
-<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#name> "5 Knillers, 2e links Luitenant Langenberg en 1 KL + burger voor poort KMA te Breda" .
-<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 5 Knillers, 2e links Luitenant Langenberg en 1 KL + burger voor poort KMA te Breda. Op achterzijde gestempeld: H.W. Verplanke Dominicanenstraat 33 Nijmegen\" + \"W:3f\"." .
-<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddb5d25b41da86248485d07b1040136f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#identifier> "2005/00-607/2" .
-<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#name> "Foto van landschap met hospitaal Pematang-Siantar" .
-<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Landschap met hospitaal te Pematang-Siantar, Sumatra-Oostkust\r\n\r\nverso: in potlood \" Photo genomenm Juli 1930 Landschap-hospitaal P. Siantar Sumatra-oostkust\"" .
-<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddc5034098bcaccdba77a88bf4985da3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/55" .
-<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#name> "\"Prapat (Toba-meer)\"" .
-<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Geadresseerd: Familie Vermaas, Pastorie, Lochem. \"Prapat (Toba-meer). Gefrankeerd 12,5 cent." .
-<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddc79dbf6e8948dadda197d93ea172ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dda98ae075495886d4487378ea034c98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dda98ae075495886d4487378ea034c98> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42629" .
 <https://n2t.net/ark:/27023/dda98ae075495886d4487378ea034c98> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tcasuarisveren\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t3162\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[3162] Depot, LB VIII, 20 [LB VIII 20]" .
@@ -582,11 +596,6 @@
 <https://n2t.net/ark:/27023/dde3b0858aba85dca38969994c0958b3> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/dde3b0858aba85dca38969994c0958b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dde3b0858aba85dca38969994c0958b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#identifier> "nf%20323-27-1" .
-<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#description> "bijschrift; 'Op den voorgrond het Roode meer, rechts op den achtergrond het Groene meer van Kalimoetoe met den rookenden sulfatoren'" .
-<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ddb2a759fe1dd2fde90015f0c497b1f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ddd95ad5d38a0bcd9b3dc29c55f19ecc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ddd95ad5d38a0bcd9b3dc29c55f19ecc> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/82" .
 <https://n2t.net/ark:/27023/ddd95ad5d38a0bcd9b3dc29c55f19ecc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-5" .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#name> "Batavia (Weltevreden) IV" .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart-boekje: Batavia (Weltevreden) IV. Uitgave Tio Tek Hong, Weltevreden (Batavia). 10 prentbriefkaarten.\r\n1181. Museum.  Batavia (Weltevreden).\r\n1182. Willemskerk.  Batavia (Weltevreden).\r\n1183. Planten en Dierentuin.  Batavia (Weltevreden).\r\n" .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#inscription> "Batavia (Weltevreden) IV" .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f38ee2f251f9ece0a1345108175188dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f38ee2f251f9ece0a1345108175188dd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/001" .
 <https://n2t.net/ark:/27023/f38ee2f251f9ece0a1345108175188dd> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/f38ee2f251f9ece0a1345108175188dd> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/f38ee2f251f9ece0a1345108175188dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f38ee2f251f9ece0a1345108175188dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-35" .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#description> "Attila. CT Luitenant-kolonel.\r\nWasetiket: Mr. Max Pherson, den 20 dec. 1915, 4473G" .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#inscription> "Mr. Max Pherson, den 20 dec. 1915, 4473G" .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#creator> "Gebr. Domhoff Den Haag" .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f37426e4959cd14a2a63c5a2d4af7b4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f37426e4959cd14a2a63c5a2d4af7b4f> <https://colonialcollections.nl/schema#identifier> "nf%201621-42" .
 <https://n2t.net/ark:/27023/f37426e4959cd14a2a63c5a2d4af7b4f> <https://colonialcollections.nl/schema#name> "Adu Zatua" .
@@ -41,12 +57,34 @@
 <https://n2t.net/ark:/27023/f37f783331f19dcceeddccead3e3f3f8> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/f37f783331f19dcceeddccead3e3f3f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f37f783331f19dcceeddccead3e3f3f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-158/4" .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue resident binnenlands bestuur" .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#description> "Platte pet van lichtblauwe wollen stof met een zwarte afhangende lederen klep en een stormriem van zwart leder. De stormband is met kleine bronzen knopen met het Engelse wapen bevestigd. Om de opstaande rand een zwarte band van wol met aan de boven en ond" .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#creator> "A. Karim & Bros" .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/73" .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Swieten, geb. 1896.\r\nFotograaf: W. Koenecke, Java." .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#creator> "W. Koenecke" .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#identifier> "2016/12/21-2-1" .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#name> "Gitaar" .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#description> "Gitaar Riselonia Parlour Gitar met een Engraved Dreima tailpiece/bridge." .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#creator> "Dreima" .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <https://colonialcollections.nl/schema#identifier> "nf%201430-7" .
 <https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 17.\r\n\r\nOpname toont\r\n\r\nN.B.: Aangenomen is dat de geografische herkomst van de foto's met inventarisnummer \r\nnf 1430 Nieuw Guinea of Papua " .
 <https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f383e7c06a64825a418d91f7eb80c2aa> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/f3952416b60c673562c3833c6acb9775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f3952416b60c673562c3833c6acb9775> <https://colonialcollections.nl/schema#identifier> "nf%201719" .
 <https://n2t.net/ark:/27023/f3952416b60c673562c3833c6acb9775> <https://colonialcollections.nl/schema#description> "Foto, stereofoto, zwart/wit, twee foto's naast elkaar geplakt op bruin karton, los aangetroffen. \r\n\r\nOpnames tonen een schip op zee. Wat voor boot is onduidelijk. Op voor- en middenschip is een overkapping te zien, bescherming tegen zon en regen.\r\nOp de z" .
@@ -59,6 +97,12 @@
 <https://n2t.net/ark:/27023/f39fdac7e57bf32f493784cf112c910a> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/f39fdac7e57bf32f493784cf112c910a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f39fdac7e57bf32f493784cf112c910a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#identifier> "EDO%20481-73" .
+<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een 'gebouw', zo te zien heel open. Een dak rustend op palen. Het geheel staat op een (aarden) verhoging. \r\nDe entree is een trap geflankeerd door beelden.\r\n\r\nDit gebouw is mogelijk als rec" .
+<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f39aa973987d678c8fa946d241897271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f39aa973987d678c8fa946d241897271> <https://colonialcollections.nl/schema#identifier> "2004/02/02-2-9" .
 <https://n2t.net/ark:/27023/f39aa973987d678c8fa946d241897271> <https://colonialcollections.nl/schema#name> "Britse pukkel" .
@@ -66,20 +110,6 @@
 <https://n2t.net/ark:/27023/f39aa973987d678c8fa946d241897271> <https://colonialcollections.nl/schema#inscription> "v.Heyst" .
 <https://n2t.net/ark:/27023/f39aa973987d678c8fa946d241897271> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f39aa973987d678c8fa946d241897271> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-5" .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#name> "Batavia (Weltevreden) IV" .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart-boekje: Batavia (Weltevreden) IV. Uitgave Tio Tek Hong, Weltevreden (Batavia). 10 prentbriefkaarten.\r\n1181. Museum.  Batavia (Weltevreden).\r\n1182. Willemskerk.  Batavia (Weltevreden).\r\n1183. Planten en Dierentuin.  Batavia (Weltevreden).\r\n" .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#inscription> "Batavia (Weltevreden) IV" .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f38c299672d7c33b9d0eda207c20c6e8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-35" .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#description> "Attila. CT Luitenant-kolonel.\r\nWasetiket: Mr. Max Pherson, den 20 dec. 1915, 4473G" .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#inscription> "Mr. Max Pherson, den 20 dec. 1915, 4473G" .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f3a03eaa4eaadd83429268bd9042c025> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f374dd684045ff72521de01a5b0183e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f374dd684045ff72521de01a5b0183e6> <https://colonialcollections.nl/schema#identifier> "2000/04/17-1-6" .
 <https://n2t.net/ark:/27023/f374dd684045ff72521de01a5b0183e6> <https://colonialcollections.nl/schema#name> "Kris in schede" .
@@ -524,24 +554,6 @@
 <https://n2t.net/ark:/27023/f3b6a0a6c78be687f8fb8208ca879735> <https://colonialcollections.nl/schema#description> "Tekening van Muurvlak Bovengang Oostzijde - Rechts van Prauw en Draak. Links van Prauw en Draak staat op console Geharnaste Ridder No. 2245, + Muurvlak Verlengde Bovengang Oostzijde Tegenover O.O. kamers nrs. 16 en 17, in de museale opstelling in het hoof" .
 <https://n2t.net/ark:/27023/f3b6a0a6c78be687f8fb8208ca879735> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f3b6a0a6c78be687f8fb8208ca879735> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-158/4" .
-<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue resident binnenlands bestuur" .
-<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#description> "Platte pet van lichtblauwe wollen stof met een zwarte afhangende lederen klep en een stormriem van zwart leder. De stormband is met kleine bronzen knopen met het Engelse wapen bevestigd. Om de opstaande rand een zwarte band van wol met aan de boven en ond" .
-<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f38e583adf10ea7ee684ae953c17773d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/73" .
-<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Swieten, geb. 1896.\r\nFotograaf: W. Koenecke, Java." .
-<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f391e7cc5658f148ca31061ee1b2868f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#identifier> "2016/12/21-2-1" .
-<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#name> "Gitaar" .
-<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#description> "Gitaar Riselonia Parlour Gitar met een Engraved Dreima tailpiece/bridge." .
-<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f3a93eb5c41149db7f00a162892bdbb4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f389cdf9f0df9d4525c482f18b72a494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f389cdf9f0df9d4525c482f18b72a494> <https://colonialcollections.nl/schema#identifier> "nf%201309-24-2" .
 <https://n2t.net/ark:/27023/f389cdf9f0df9d4525c482f18b72a494> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een kip in het gras. Deze kip heet 'Lientje' (zie beschrijving S 4461)" .
@@ -582,11 +594,6 @@
 <https://n2t.net/ark:/27023/f3b3d4a1bbd25ac34a897ec7a6f517c1> <https://colonialcollections.nl/schema#description> "Pijl met houten punt" .
 <https://n2t.net/ark:/27023/f3b3d4a1bbd25ac34a897ec7a6f517c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f3b3d4a1bbd25ac34a897ec7a6f517c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#identifier> "EDO%20481-73" .
-<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een 'gebouw', zo te zien heel open. Een dak rustend op palen. Het geheel staat op een (aarden) verhoging. \r\nDe entree is een trap geflankeerd door beelden.\r\n\r\nDit gebouw is mogelijk als rec" .
-<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f3a93dc5b88edcc5f06771e0e3ce87a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f38745eeaaeb5fdda6f3de94a7194231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f38745eeaaeb5fdda6f3de94a7194231> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/595" .
 <https://n2t.net/ark:/27023/f38745eeaaeb5fdda6f3de94a7194231> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

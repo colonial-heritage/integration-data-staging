@@ -6,6 +6,28 @@
 <https://n2t.net/ark:/27023/21def8da36a1f64b67cb5181be9c35aa> <https://colonialcollections.nl/schema#creator> "De Stad Parijs N.V. Den Haag" .
 <https://n2t.net/ark:/27023/21def8da36a1f64b67cb5181be9c35aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/21def8da36a1f64b67cb5181be9c35aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-103" .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#name> "Carte de visite: Crone en Broek" .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Crone en Broek" .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#inscription> "Crone en Broek" .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#identifier> "2005/00-611/3" .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#name> "Foto van groep van belangstellenden bij de uitreiking van Eretekenen bij het 2e Marechausssee Bataljon te Soerabaia op 2 april 1930" .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Groepsportret van belangstellenden  bij de uitreiking van \"Eretekenen voor Belangrijke Krijgsbedrijven\" bij het 2e Marechaussee Bataljon te Soerabaia op 2 april 1930. Op de foto afgebeeld onder (1) Kapitein der Infanterie J.P. Wissema en onder" .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#creator> "Aué Foto- en Film-Industrie Soerabaia" .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/33" .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#name> "Drie militairen, gehurkt bij een afgrond" .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#description> "Drie militairen, gehurkt bij een afgrond." .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/21d2035d4c7269779ccd378cc730eb60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21d2035d4c7269779ccd378cc730eb60> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/28" .
 <https://n2t.net/ark:/27023/21d2035d4c7269779ccd378cc730eb60> <https://colonialcollections.nl/schema#name> "Portret van Belle Denninghoff Stelling" .
@@ -27,6 +49,14 @@
 <https://n2t.net/ark:/27023/21e3e03a2e1a3b2d57bf6e22871a5a19> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/21e3e03a2e1a3b2d57bf6e22871a5a19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/21e3e03a2e1a3b2d57bf6e22871a5a19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/55" .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#name> "Louis Straeter" .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#description> "Kabinetfoto met portret van Louis Straeter.\r\nRecto: Koene & Co.\r\nVerso: Oom Louis Straeter.\r\nFotograaf: Koene & Co, Batavia, Amsterdam, Alkmaar.\r\nFamiliefoto uit de Collectie Van Swieten." .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#creator> "Koene & Co, Batavia" .
 <https://n2t.net/ark:/27023/21f91c0de791599317dd9dab75cdbd13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21f91c0de791599317dd9dab75cdbd13> <https://colonialcollections.nl/schema#identifier> "1884/09-1-1" .
 <https://n2t.net/ark:/27023/21f91c0de791599317dd9dab75cdbd13> <https://colonialcollections.nl/schema#name> "Tentboot op de rivier voor een suikerplantage" .
@@ -91,13 +121,6 @@
 <https://n2t.net/ark:/27023/21d84db45ed7a6695a09482548041d23> <https://colonialcollections.nl/schema#inscription> "Programma van een militair feest te geven door de burgerij van Batavia aan het garnizoen. Zaterdag 5 mei 1860." .
 <https://n2t.net/ark:/27023/21d84db45ed7a6695a09482548041d23> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/21d84db45ed7a6695a09482548041d23> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-103" .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#name> "Carte de visite: Crone en Broek" .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Crone en Broek" .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#inscription> "Crone en Broek" .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/220ac709000a225f999f234e3f409ff1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/21c922ecfd0b08eec8948cce6a4eb01e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21c922ecfd0b08eec8948cce6a4eb01e> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-9/21" .
 <https://n2t.net/ark:/27023/21c922ecfd0b08eec8948cce6a4eb01e> <https://colonialcollections.nl/schema#name> "Mouwembleem, 42e Regiment Veldartillerie KL" .
@@ -542,24 +565,6 @@
 <https://n2t.net/ark:/27023/220d79e1cad61a57c774487ff3c5c36e> <https://colonialcollections.nl/schema#description> "Eetketelset (3-delig) KNIL, aluminium (zonder hoes)." .
 <https://n2t.net/ark:/27023/220d79e1cad61a57c774487ff3c5c36e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/220d79e1cad61a57c774487ff3c5c36e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#identifier> "2005/00-611/3" .
-<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#name> "Foto van groep van belangstellenden bij de uitreiking van Eretekenen bij het 2e Marechausssee Bataljon te Soerabaia op 2 april 1930" .
-<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Groepsportret van belangstellenden  bij de uitreiking van \"Eretekenen voor Belangrijke Krijgsbedrijven\" bij het 2e Marechaussee Bataljon te Soerabaia op 2 april 1930. Op de foto afgebeeld onder (1) Kapitein der Infanterie J.P. Wissema en onder" .
-<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/21cb86601256e20d57c305ec1cdea066> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/33" .
-<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#name> "Drie militairen, gehurkt bij een afgrond" .
-<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#description> "Drie militairen, gehurkt bij een afgrond." .
-<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/21cb94e89ba680b55efdaf6106cd8998> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/55" .
-<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#name> "Louis Straeter" .
-<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#description> "Kabinetfoto met portret van Louis Straeter.\r\nRecto: Koene & Co.\r\nVerso: Oom Louis Straeter.\r\nFotograaf: Koene & Co, Batavia, Amsterdam, Alkmaar.\r\nFamiliefoto uit de Collectie Van Swieten." .
-<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/21f848266a04724172de94613a27b4c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/21c59bc2eb471a99c95b8d2a65819a2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21c59bc2eb471a99c95b8d2a65819a2d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43029" .
 <https://n2t.net/ark:/27023/21c59bc2eb471a99c95b8d2a65819a2d> <https://colonialcollections.nl/schema#description> "3 handavtten van rijstmesjes" .

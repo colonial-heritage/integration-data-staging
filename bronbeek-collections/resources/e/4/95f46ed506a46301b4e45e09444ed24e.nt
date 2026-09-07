@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/35" .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#name> "Plaat 35. Bawars van Pehambang (links) en van Dagang (rechts)" .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 35. Bawars van Pehambang (links) en van Dagang (rechts). (PLaat 8 in publicatie Kempees)" .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#inscription> "Plaat 35. Bawars van Pehambang (links) en van Dagang (rechts)" .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-10" .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#name> "98. Rijstcultuur. Het oogsten" .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#description> "Schoolplaat. 98. Rijstcultuur. Het oogsten. Kleyenberg & Co., Haarlem." .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#inscription> "98. Rijstcultuur. Het oogsten" .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d90ef2b3c468fa241ae214313fb0ea88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d90ef2b3c468fa241ae214313fb0ea88> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/29" .
 <https://n2t.net/ark:/27023/d90ef2b3c468fa241ae214313fb0ea88> <https://colonialcollections.nl/schema#name> "De Militaire Cantine te Padang Pandjang (M-Sumatra)" .
@@ -12,6 +28,13 @@
 <https://n2t.net/ark:/27023/d92009d0aec186caa662d2d99ba52a07> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d92009d0aec186caa662d2d99ba52a07> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d92009d0aec186caa662d2d99ba52a07> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#identifier> "2013/11/27-3-2/2" .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#name> "Bestemmingsplan Hollandia-Haven, Directie opbouwwerken Nieuw Guinea, afdeling Gebouwen- en stadsaanleg" .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#description> "Landkaart: Bestemmingsplan Hollandia-Haven, Directie opbouwwerken Nieuw Guinea, afdeling Gebouwen- en stadsaanleg.1953/02/03. schaal 1:10000. Met legenda. Zwart-wit kopie.\r\nDirecteur: Ir. A.M.J. van der Most\r\nHoofd gebouwen- en stadsaanleg: Ir. C.J.E. Kle" .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#creator> "E.M. Donkers" .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d93ec3582953475573261350d5bce002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d93ec3582953475573261350d5bce002> <https://colonialcollections.nl/schema#identifier> "nf%201325-18" .
 <https://n2t.net/ark:/27023/d93ec3582953475573261350d5bce002> <https://colonialcollections.nl/schema#name> "Waterlooplein" .
@@ -19,6 +42,13 @@
 <https://n2t.net/ark:/27023/d93ec3582953475573261350d5bce002> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/d93ec3582953475573261350d5bce002> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d93ec3582953475573261350d5bce002> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-27" .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#creator> "de heer C. Engelen" .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d950dbc723ec84c2e4c9d357e9590c09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d950dbc723ec84c2e4c9d357e9590c09> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/7" .
 <https://n2t.net/ark:/27023/d950dbc723ec84c2e4c9d357e9590c09> <https://colonialcollections.nl/schema#name> "Carte de visite" .
@@ -68,20 +98,6 @@
 <https://n2t.net/ark:/27023/d94dff37e939dcd82c6aa388fd03a394> <https://colonialcollections.nl/schema#inscription> "Joh Munts Amsterdam ; Je Maintiendrai ; gekroonde R ; AH ; LP ; LEG ; L" .
 <https://n2t.net/ark:/27023/d94dff37e939dcd82c6aa388fd03a394> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d94dff37e939dcd82c6aa388fd03a394> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/35" .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#name> "Plaat 35. Bawars van Pehambang (links) en van Dagang (rechts)" .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 35. Bawars van Pehambang (links) en van Dagang (rechts). (PLaat 8 in publicatie Kempees)" .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#inscription> "Plaat 35. Bawars van Pehambang (links) en van Dagang (rechts)" .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d92b99b6a9012f1cdce985968ae7b8c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-10" .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#name> "98. Rijstcultuur. Het oogsten" .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#description> "Schoolplaat. 98. Rijstcultuur. Het oogsten. Kleyenberg & Co., Haarlem." .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#inscription> "98. Rijstcultuur. Het oogsten" .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d95a82f0bf6fd6654540c9d2e7a16445> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d90e5fe0b71d943bbffecaf5649a97ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d90e5fe0b71d943bbffecaf5649a97ec> <https://colonialcollections.nl/schema#identifier> "1995/06/12-4-50" .
 <https://n2t.net/ark:/27023/d90e5fe0b71d943bbffecaf5649a97ec> <https://colonialcollections.nl/schema#name> "Papier : Toewijzing ruimte Tjideng" .
@@ -514,18 +530,6 @@
 <https://n2t.net/ark:/27023/d95a566f6f7319a3ff4ce1f12a77c22d> <https://colonialcollections.nl/schema#description> "Document. Tijdelijke identiteitskaart voor bevrijde geinterneerden. Uitgereikt door de Dienst van Sociale Zaken K.D.P. op 25 oktober 1945 aan Anton Adriaan Memelink te Makassar." .
 <https://n2t.net/ark:/27023/d95a566f6f7319a3ff4ce1f12a77c22d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d95a566f6f7319a3ff4ce1f12a77c22d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#identifier> "2013/11/27-3-2/2" .
-<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#name> "Bestemmingsplan Hollandia-Haven, Directie opbouwwerken Nieuw Guinea, afdeling Gebouwen- en stadsaanleg" .
-<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#description> "Landkaart: Bestemmingsplan Hollandia-Haven, Directie opbouwwerken Nieuw Guinea, afdeling Gebouwen- en stadsaanleg.1953/02/03. schaal 1:10000. Met legenda. Zwart-wit kopie.\r\nDirecteur: Ir. A.M.J. van der Most\r\nHoofd gebouwen- en stadsaanleg: Ir. C.J.E. Kle" .
-<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d92946ced29b9408033a48006cfe93ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-27" .
-<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
-<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
-<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d94a0e699d055b8382b25c00dfc0a1c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d90cd59c2e11e2837b94c91c559d987d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d90cd59c2e11e2837b94c91c559d987d> <https://colonialcollections.nl/schema#identifier> "nf%201354-43" .
 <https://n2t.net/ark:/27023/d90cd59c2e11e2837b94c91c559d987d> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los achter in album S 5076\r\nOp achterkant geen tekst.\r\n\r\nOpname toont een gezelschap blanke personen, mannen en vrouwen, binnen zittend op een vloerkleed, op stoelen en staand. De mannen in het wit gekleed, de dames in fraaie" .

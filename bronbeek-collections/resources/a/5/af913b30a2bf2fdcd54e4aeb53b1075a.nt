@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-34" .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#name> "146. Zoutpers." .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#description> "Schoolplaat. 146. Zoutpers." .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#inscription> "146. Zoutpers." .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0086b940e04abec953910901b035f690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0086b940e04abec953910901b035f690> <https://colonialcollections.nl/schema#identifier> "1972/08/16-1-1" .
 <https://n2t.net/ark:/27023/0086b940e04abec953910901b035f690> <https://colonialcollections.nl/schema#name> "\"Zaagmolen van den Heer Pietermaat bij Palembang.\"" .
@@ -27,20 +35,30 @@
 <https://n2t.net/ark:/27023/005b827fbad51c8ec72c6a83b6f2434c> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/005b827fbad51c8ec72c6a83b6f2434c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/005b827fbad51c8ec72c6a83b6f2434c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/005b827fbad51c8ec72c6a83b6f2434c> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#identifier> "nf%201408-19" .
 <https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#name> "Op Expeditie" .
 <https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#description> "afbeelding toont een landschap, licht glooiend, met links op de achtergrond een vulkaan. Het is onduidelijk wat de begroeiing van het open terrein is. Mogelijk landbouwgronden, mogelijk gewezen landbouwgronden met nu opgroeiend onkruid zoals alang-alang.\r" .
-<https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/005f211a01cc726a57e958723a40ab22> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#identifier> "nf%201473-33" .
 <https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#name> "Type van een Minangkabaus huis met loemboeng, Sumatra" .
 <https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 88. TYPE VAN EEN MINANGKABAUSCH HUIS MET LOEMBOENG. SUMATRA.\r\ngeschreven: zie no. 62 - loemboeng = rijsts" .
-<https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/00614713a3fc1fdd5213b4fd08a71c3c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-3/20" .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#name> "Foto uit verzameling van de militaire carrière en familiefoto´s van Luitenant Kolonel J.W. Berenschot, c.a. 1890-1926" .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#description> "Portret van jonge 2e luitenant KNIL, c.a. 1870. Fotografie: \"Binger´s Photografische Inrichting Oude Gracht, Haarlem\".\r\nFoto uit verzameling van de militaire carrière en familiefoto's van Luitenant-kolonel J.W. Berenschot, uit periode c.a. 1890-1925" .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#creator> "Binger´s Photografische Inrichting Oude Gracht, Haarlem" .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/006ef2809987d3f70c3e25e798bd7677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/006ef2809987d3f70c3e25e798bd7677> <https://colonialcollections.nl/schema#identifier> "nf%20487-1" .
 <https://n2t.net/ark:/27023/006ef2809987d3f70c3e25e798bd7677> <https://colonialcollections.nl/schema#name> "De Pasar Besar vanaf toko Grimm gezien." .
@@ -97,13 +115,6 @@
 <https://n2t.net/ark:/27023/0087e98a1769b71feadfd35abc12bf89> <https://colonialcollections.nl/schema#inscription> "\"Bronbeek 1947\" \"de Fuselier van den Bergh mag niet uit, hij heeft 5 dagen licht...\"" .
 <https://n2t.net/ark:/27023/0087e98a1769b71feadfd35abc12bf89> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0087e98a1769b71feadfd35abc12bf89> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-34" .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#name> "146. Zoutpers." .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#description> "Schoolplaat. 146. Zoutpers." .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#inscription> "146. Zoutpers." .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/007beb30a62a7afed9d42aced071e7ac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0049f11589fc4f1640189622ce5d00a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0049f11589fc4f1640189622ce5d00a7> <https://colonialcollections.nl/schema#identifier> "1996/03/01-3-1/3" .
 <https://n2t.net/ark:/27023/0049f11589fc4f1640189622ce5d00a7> <https://colonialcollections.nl/schema#name> "Fotoalbum van Oud-Commandant van het KNIL Luitenant-Generaal M. Boerstra" .
@@ -524,12 +535,6 @@
 <https://n2t.net/ark:/27023/00891c869e388fdf29dd05bdef6749ea> <https://colonialcollections.nl/schema#description> "Foto, zwartwit. Totaal 90 stuks met betrekking tot de familie Eisma, circa 1938. Op verso's staat o.a.: Borneo, Paroek - Tjahoe, rubber, Amoentai." .
 <https://n2t.net/ark:/27023/00891c869e388fdf29dd05bdef6749ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/00891c869e388fdf29dd05bdef6749ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-3/20" .
-<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#name> "Foto uit verzameling van de militaire carrière en familiefoto´s van Luitenant Kolonel J.W. Berenschot, c.a. 1890-1926" .
-<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#description> "Portret van jonge 2e luitenant KNIL, c.a. 1870. Fotografie: \"Binger´s Photografische Inrichting Oude Gracht, Haarlem\".\r\nFoto uit verzameling van de militaire carrière en familiefoto's van Luitenant-kolonel J.W. Berenschot, uit periode c.a. 1890-1925" .
-<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/006d3cb634ff68cd28afc9e65dc1e6a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/004922861aa342bbf3adcd234dec7138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/004922861aa342bbf3adcd234dec7138> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-19/41" .
 <https://n2t.net/ark:/27023/004922861aa342bbf3adcd234dec7138> <https://colonialcollections.nl/schema#description> "Foto.\r\nNetherlands Indies Government Information Service (NIGIS) Film and Photo Unit. Melbourne. File: 26. 1945/10/02.\r\n\"Netherlanders who had evaded German conscription or were released when Holland was liberated volunteered for service in the Netherland" .

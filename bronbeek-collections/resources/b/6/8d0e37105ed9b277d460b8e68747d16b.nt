@@ -2,9 +2,11 @@
 <https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#identifier> "S%206245-54" .
 <https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#name> "Bamboe" .
 <https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Bamboe.\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt op Normaalpapier 3. B. [No" .
-<https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/9fec1aff9378a7ecc14bc2b582eae44f> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/9ffc221b2b3b3f46a4cfb3023df033e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9ffc221b2b3b3f46a4cfb3023df033e9> <https://colonialcollections.nl/schema#identifier> "nf%20842-127" .
 <https://n2t.net/ark:/27023/9ffc221b2b3b3f46a4cfb3023df033e9> <https://colonialcollections.nl/schema#name> "Drie hangende Rangda maskers" .
@@ -12,6 +14,29 @@
 <https://n2t.net/ark:/27023/9ffc221b2b3b3f46a4cfb3023df033e9> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/9ffc221b2b3b3f46a4cfb3023df033e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9ffc221b2b3b3f46a4cfb3023df033e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#identifier> "2008/11/25-1-10/1" .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#name> "Documenten en foto´s van H.A. Visser" .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#description> "Envelop met documenten, foto´s.\r\n\"vermoedelijk van J.A. Visser ( - 1945/05/10)\r\nEchtgenote mevr. H.A. Visser-Hansen, Tennisweg 4, Malang ( - 1946/1/10)\r\nZoon J.C.Th. Visser Emnl. K.P.M. in 1942 te Sydney\r\nDochter J.Th. Visser verder geen gegevens.\"\r\n\"Nabe" .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#creator> "Mew Fong Photographer" .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#creator> "Fotografisch Atelier \"Stelder\"" .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#identifier> "nf%20701-5" .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#name> "Opiumschuivers" .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#description> "De afbeelding toont een drietal opiumschuivers\r\n\r\nbijschrift linksonder; 'Opiumschuivers. Opiumsmokers'\r\nbijschrift rechtsonder; 'Fumeurs d'opium. Opiumraucher'" .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/8" .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz op kasteel Doorwerth, Legermuseum" .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#description> "Detachement Van Heutsz op kasteel Doorwerth, Legermuseum.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9ffd73dc3bb134f1bf51af29d67c383b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9ffd73dc3bb134f1bf51af29d67c383b> <https://colonialcollections.nl/schema#identifier> "nf%201307-3-1" .
 <https://n2t.net/ark:/27023/9ffd73dc3bb134f1bf51af29d67c383b> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, (slordig) afgeknipt, opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een heuvelachtig landschap. De voorgrond helt naar een rivier. Daar, aan weerszijden, is er duidelijk tropische vegetatie. De achtergrond toont een redeli" .
@@ -27,9 +52,17 @@
 <https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#identifier> "nf%20677-30" .
 <https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#description> "Ansichtkaart, kleur, rechthoekig, los. Dus niet opgeplakt aangetroffen.\r\n\r\nKaart met 'gedeelde' achterkant. Op de 'gedeelde' lijn staat: Printed in England by Henry Stone & Son (Printers) Ltd., Banbury\r\nDe andere gedrukte tekst luidt: 'POST CARD' 'THE BRI" .
-<https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#creator> "Henry Stone & Son (Printers) Ltd., Banbury, England" .
 <https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#creator> "British Museum (London)" .
+<https://n2t.net/ark:/27023/a015fda59326a2c9e942171f7e7bf5a9> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#identifier> "nf%20803" .
+<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Kali Progo te Magelang.\r\n\r\nLinksboven op de voorkant staat vermeld: 'Kali Progor, Magelang'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië / (Carte postale " .
+<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#creator> "J.M.J. van Eijck, Magelang" .
+<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a0108ec8fc938568003dbee94bbbd86f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0108ec8fc938568003dbee94bbbd86f> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-13/5" .
 <https://n2t.net/ark:/27023/a0108ec8fc938568003dbee94bbbd86f> <https://colonialcollections.nl/schema#name> "Patroon" .
@@ -499,24 +532,6 @@
 <https://n2t.net/ark:/27023/a03afbe58e5ff24aea6f100e1acfbaf5> <https://colonialcollections.nl/schema#description> "Foto. Reprofoto. Afscheidsfeest 17 februari peloton, Laan Holle Batavia, voor vertrek naar Nederland, februari 1950\r\nVK-KNIL\r\n\r\nFoto, in lijst, tijdens diner. In goede staat." .
 <https://n2t.net/ark:/27023/a03afbe58e5ff24aea6f100e1acfbaf5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a03afbe58e5ff24aea6f100e1acfbaf5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#identifier> "2008/11/25-1-10/1" .
-<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#name> "Documenten en foto´s van H.A. Visser" .
-<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#description> "Envelop met documenten, foto´s.\r\n\"vermoedelijk van J.A. Visser ( - 1945/05/10)\r\nEchtgenote mevr. H.A. Visser-Hansen, Tennisweg 4, Malang ( - 1946/1/10)\r\nZoon J.C.Th. Visser Emnl. K.P.M. in 1942 te Sydney\r\nDochter J.Th. Visser verder geen gegevens.\"\r\n\"Nabe" .
-<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a01e780126a65f621a8d95b2bbe914d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#identifier> "nf%20701-5" .
-<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#name> "Opiumschuivers" .
-<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#description> "De afbeelding toont een drietal opiumschuivers\r\n\r\nbijschrift linksonder; 'Opiumschuivers. Opiumsmokers'\r\nbijschrift rechtsonder; 'Fumeurs d'opium. Opiumraucher'" .
-<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a02f8eed1c2351287e4807d7e3fc9d94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/8" .
-<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz op kasteel Doorwerth, Legermuseum" .
-<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#description> "Detachement Van Heutsz op kasteel Doorwerth, Legermuseum.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a0371065452cd709c6c523f997fe379a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9feb05ea815db74ae1666e8c51e4bfac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9feb05ea815db74ae1666e8c51e4bfac> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44141" .
 <https://n2t.net/ark:/27023/9feb05ea815db74ae1666e8c51e4bfac> <https://colonialcollections.nl/schema#description> "Pijl met houten punt\r\n\r\nAfdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tbamboe, hout\r\n\tgesneden\r\nAfmetingen:\tGeheel: 127,1 cm\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t4674\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ." .
@@ -577,13 +592,9 @@
 <https://n2t.net/ark:/27023/a01b997f688b214cabf43a26c69996d5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
 <https://n2t.net/ark:/27023/a01b997f688b214cabf43a26c69996d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a01b997f688b214cabf43a26c69996d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#identifier> "nf%20803" .
-<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Kali Progo te Magelang.\r\n\r\nLinksboven op de voorkant staat vermeld: 'Kali Progor, Magelang'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië / (Carte postale " .
-<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a02aebbe7ba73e39ca635eb87881c9cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a031b58c7f23c8a2ba8d9459de13f06c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a031b58c7f23c8a2ba8d9459de13f06c> <https://colonialcollections.nl/schema#identifier> "IB1993/01/15-10" .
 <https://n2t.net/ark:/27023/a031b58c7f23c8a2ba8d9459de13f06c> <https://colonialcollections.nl/schema#name> "Portret van L. Vervaet" .
+<https://n2t.net/ark:/27023/a031b58c7f23c8a2ba8d9459de13f06c> <https://colonialcollections.nl/schema#creator> "Edgar Jansen" .
 <https://n2t.net/ark:/27023/a031b58c7f23c8a2ba8d9459de13f06c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a031b58c7f23c8a2ba8d9459de13f06c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

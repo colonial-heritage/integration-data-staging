@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#identifier> "1989/01/01-1-2" .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#name> "125. Berg-Artillerie." .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#description> "Schoolplaat. 125. Berg-Artillerie. Zwart-wit. Gereproduceerd Kleyenberg en Co, Haarlem, nr.125  . In redelijke staat, een scheur linksboven en een scheur midonder & 1 gat onder." .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#inscription> "125. Bergartillerie" .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/41" .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#name> "Een panggoeng (verhoogd gebouw) binnen de poeri van Tabanan" .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nEen panggoeng (verhoogd gebouw) binnen de poeri van Tabanan." .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2f1d4f73b7e1bf5ad4b8145041fc05da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2f1d4f73b7e1bf5ad4b8145041fc05da> <https://colonialcollections.nl/schema#identifier> "nf%20677-16" .
 <https://n2t.net/ark:/27023/2f1d4f73b7e1bf5ad4b8145041fc05da> <https://colonialcollections.nl/schema#name> "Resi Ksatrya" .
@@ -19,6 +35,13 @@
 <https://n2t.net/ark:/27023/2f29131a30e528454ac85a62a41ee71a> <https://colonialcollections.nl/schema#creator> "Confectiebedrijf Sturka" .
 <https://n2t.net/ark:/27023/2f29131a30e528454ac85a62a41ee71a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2f29131a30e528454ac85a62a41ee71a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-7" .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#name> "Platte pet uitgaanstenue (tenue B) onderofficier Papoea Vrijwilligers Korps (PVK) Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#description> "Pet. Platte pet van het Papua Vrijwilligerskorps, maat 57. Compleet.\r\nAan binnenzijde: \"Kon.Marine N.V. Uniformpettenfabriek v/h Fa. Hassing Amersfoort September 1959 57.\"\r\nPet. Platte pet. Platte pet met zwarte vallende klep, staande rand van zwart laken" .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#creator> "N.V. Uniformpettenfabriek v/h Fa. A. Hassing Amersfoort" .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2f2ea5d83fa21ed0a575ca237964dcd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2f2ea5d83fa21ed0a575ca237964dcd7> <https://colonialcollections.nl/schema#identifier> "2000/08/24-1-4" .
 <https://n2t.net/ark:/27023/2f2ea5d83fa21ed0a575ca237964dcd7> <https://colonialcollections.nl/schema#name> "Krant \"De Telegraaf\", zondag 24 februari 1935" .
@@ -48,6 +71,13 @@
 <https://n2t.net/ark:/27023/2f388a4e08d9d146def0343396713271> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2f388a4e08d9d146def0343396713271> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2f388a4e08d9d146def0343396713271> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#identifier> "2001/01/16-1" .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#name> "Vooraanzicht Bronbeek omstreeks 1910" .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart vooraanzicht Bronbeek ca. 1910. Kunstchromo no. 750 J.H. Schaefer, Amsterdam. Datum stempel: Tilburg, 30-7-1912." .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#creator> "J.H. Schaefer" .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/174" .
 <https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -55,6 +85,22 @@
 <https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f45b204edb89fc4be4f727a28cc1d06> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#identifier> "nf%20677-5" .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#name> "Duryodhana" .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: DURYODHANA\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                                       foto 'maria austria'\r\n                         " .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#creator> "Maria Austria" .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#identifier> "nf%20701-12" .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#name> "De Aloen-Aloen te Djocjakarta" .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#description> "De afbeelding toont de aloen-aloen in Yogyakarta\r\n\r\nbijschrift linksonder; 'De Aloen-Aloen te Djocjakarta. The Aloen-Aloen at Djocjakarta'\r\nbijschrift rechtsonder; 'Le Aloen-Aloen à Djocjakarta. Der Aloen-Aloen zu Djocjakarta'" .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/2f2000b88aff7a348c7cd687cb58c051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2f2000b88aff7a348c7cd687cb58c051> <https://colonialcollections.nl/schema#identifier> "nf%20842-632" .
 <https://n2t.net/ark:/27023/2f2000b88aff7a348c7cd687cb58c051> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BE 73 t/m 100. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BE, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BE 100, in potlood EI 07" .
@@ -107,20 +153,6 @@
 <https://n2t.net/ark:/27023/2f515641151d4baeae236690b1e88dc6> <https://colonialcollections.nl/schema#inscription> "\"1947?\"" .
 <https://n2t.net/ark:/27023/2f515641151d4baeae236690b1e88dc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2f515641151d4baeae236690b1e88dc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#identifier> "1989/01/01-1-2" .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#name> "125. Berg-Artillerie." .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#description> "Schoolplaat. 125. Berg-Artillerie. Zwart-wit. Gereproduceerd Kleyenberg en Co, Haarlem, nr.125  . In redelijke staat, een scheur linksboven en een scheur midonder & 1 gat onder." .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#inscription> "125. Bergartillerie" .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f4e169dd44cce27d8c276e3c28bd9dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/41" .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#name> "Een panggoeng (verhoogd gebouw) binnen de poeri van Tabanan" .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nEen panggoeng (verhoogd gebouw) binnen de poeri van Tabanan." .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f4fac61410f9db51447015ab92e2cba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2f1a2f611adff2b6de36bd4caf3d7c04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2f1a2f611adff2b6de36bd4caf3d7c04> <https://colonialcollections.nl/schema#identifier> "2011/12/30-2-2/38" .
 <https://n2t.net/ark:/27023/2f1a2f611adff2b6de36bd4caf3d7c04> <https://colonialcollections.nl/schema#name> "Foto's uit diensttijd Nederland - Nederlands-Indië, 1945 - 1949" .
@@ -529,30 +561,6 @@
 <https://n2t.net/ark:/27023/2f5efb3b9fe4d8064cf271c1693b6df2> <https://colonialcollections.nl/schema#description> "Japanse keizerlijke sabel met schede." .
 <https://n2t.net/ark:/27023/2f5efb3b9fe4d8064cf271c1693b6df2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2f5efb3b9fe4d8064cf271c1693b6df2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-7" .
-<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#name> "Platte pet uitgaanstenue (tenue B) onderofficier Papoea Vrijwilligers Korps (PVK) Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#description> "Pet. Platte pet van het Papua Vrijwilligerskorps, maat 57. Compleet.\r\nAan binnenzijde: \"Kon.Marine N.V. Uniformpettenfabriek v/h Fa. Hassing Amersfoort September 1959 57.\"\r\nPet. Platte pet. Platte pet met zwarte vallende klep, staande rand van zwart laken" .
-<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f2ace1164df677f900b33a8174a8ff5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#identifier> "2001/01/16-1" .
-<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#name> "Vooraanzicht Bronbeek omstreeks 1910" .
-<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart vooraanzicht Bronbeek ca. 1910. Kunstchromo no. 750 J.H. Schaefer, Amsterdam. Datum stempel: Tilburg, 30-7-1912." .
-<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f3abbf7642e87cadf69da01279e7d3f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#identifier> "nf%20677-5" .
-<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#name> "Duryodhana" .
-<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: DURYODHANA\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                                       foto 'maria austria'\r\n                         " .
-<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f48b26a99e59bec846915bf8e3eed97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#identifier> "nf%20701-12" .
-<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#name> "De Aloen-Aloen te Djocjakarta" .
-<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#description> "De afbeelding toont de aloen-aloen in Yogyakarta\r\n\r\nbijschrift linksonder; 'De Aloen-Aloen te Djocjakarta. The Aloen-Aloen at Djocjakarta'\r\nbijschrift rechtsonder; 'Le Aloen-Aloen à Djocjakarta. Der Aloen-Aloen zu Djocjakarta'" .
-<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f5c24823e6abfb7c3bb19604dfa57c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2f1c85f6cbafa83260eeef34cc2e8029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2f1c85f6cbafa83260eeef34cc2e8029> <https://colonialcollections.nl/schema#identifier> "S%20230-105" .
 <https://n2t.net/ark:/27023/2f1c85f6cbafa83260eeef34cc2e8029> <https://colonialcollections.nl/schema#description> "Rijstpotdeksel (?) van rood aardewerk. De knop is beschadigd." .

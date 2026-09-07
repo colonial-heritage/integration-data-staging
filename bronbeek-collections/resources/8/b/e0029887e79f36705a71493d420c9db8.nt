@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-50" .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#name> "Carte de visite:  Mevr. van de Velde" .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. van de Velde" .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#inscription> "Mevr. van de Velde" .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#creator> "Le Monde Illustré Photographie" .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2de2f3a8ebba5e8ef7fe6d14c0784ac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2de2f3a8ebba5e8ef7fe6d14c0784ac6> <https://colonialcollections.nl/schema#identifier> "nf%20619-47" .
 <https://n2t.net/ark:/27023/2de2f3a8ebba5e8ef7fe6d14c0784ac6> <https://colonialcollections.nl/schema#name> "Gezicht op de hoogvlakte bij Badjawa" .
@@ -13,6 +21,20 @@
 <https://n2t.net/ark:/27023/2dfb482215b947190b63061632be8eb3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2dfb482215b947190b63061632be8eb3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2dfb482215b947190b63061632be8eb3> <https://colonialcollections.nl/schema#creator> "James Haworth & Brother Ltd." .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/5" .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#name> "Serie foto's betreffende diensttijd in Grave en verblijf in Nieuw-Guinea van G.J. Dominicus" .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#description> "Foto's van G.J. Dominicus' diensttijd in Grave en verblijf in Soerabaia en Nieuw-Guinea.\r\n\r\n- 5 foto's opleiding Grave o.m. (Gabous [?] kazerne op Ridax-papier (6 x      8,9 cm)\r\n- 3 foto's op ongemerkt papier o.a. Jo Hoekman en Ben Peters te Angeren   en" .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/335" .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Vruchtenpasser te Medan.\"\r\nUitgave van Deli Courant." .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e147cce8394eb90a2f294ab488c93a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e147cce8394eb90a2f294ab488c93a8> <https://colonialcollections.nl/schema#identifier> "nf%20834-46-3" .
 <https://n2t.net/ark:/27023/2e147cce8394eb90a2f294ab488c93a8> <https://colonialcollections.nl/schema#name> "Aan het strand. Pop is een beetje bang voor de aanrollende golfjes" .
@@ -27,6 +49,20 @@
 <https://n2t.net/ark:/27023/2e15665cd9d2b0f5da8dede0d3ed2f3a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2e15665cd9d2b0f5da8dede0d3ed2f3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e15665cd9d2b0f5da8dede0d3ed2f3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-823" .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#name> "Junglehangmat" .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#description> "Junglehangmat bestaande uit een hangmat met dekzeil en klamboe.\r\n\r\nAan binnenzijde een wit etiket met groene opdruk:\r\n\r\nHAMMOCK, JUNGLE\r\nCOMPLETE\r\nKING KARD\r\nOVERALL CO.\r\nCont. W-669-qm. 30824\r\nDated June 30, 1943\r\nQ.M.C. Tent. Spec.\r\nP.Q.D. No. 256C\r\nDat" .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#creator> "King Kard Overall Co." .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-720/1" .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#name> "Korte broek dagelijks tenue tropen Troepenmacht in Suriname (TRIS) Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#description> "Korte broek van beigekleurige stof met twee insteekzakken, rechts voor een horlogezakje en twee ingewerkte achterzakken. De linkerachterzak wordt gesloten met een lus en een beigekleurige kunststof knoop. De tailleband heeft zeven lussen voor de broekriem" .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#creator> "TWS Kleding" .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ded8d56bd8eeaba88ff45932995ce01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ded8d56bd8eeaba88ff45932995ce01> <https://colonialcollections.nl/schema#identifier> "nf%20335-65-3" .
 <https://n2t.net/ark:/27023/2ded8d56bd8eeaba88ff45932995ce01> <https://colonialcollections.nl/schema#description> "Geen onderschrift.\r\n\r\nZwart/wit opname, verknipte ansichtkaart, van een roeiboot met 4 mannen en een vermoedelijk rood/wit/blauwe vlag. Op de achtergrond een mailboot." .
@@ -76,13 +112,6 @@
 <https://n2t.net/ark:/27023/2e08a841612275787c81e48a403aaa2c> <https://colonialcollections.nl/schema#inscription> "Haurien, S.de Dagen" .
 <https://n2t.net/ark:/27023/2e08a841612275787c81e48a403aaa2c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e08a841612275787c81e48a403aaa2c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-50" .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#name> "Carte de visite:  Mevr. van de Velde" .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. van de Velde" .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#inscription> "Mevr. van de Velde" .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e09490966f91fabe82f723554e13f61> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2de1b9b3f471fe89ca67d0a3b90fea46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2de1b9b3f471fe89ca67d0a3b90fea46> <https://colonialcollections.nl/schema#identifier> "2016/08/11-6-1" .
 <https://n2t.net/ark:/27023/2de1b9b3f471fe89ca67d0a3b90fea46> <https://colonialcollections.nl/schema#name> "Fotoalbum diensttijd tijdelijk korporaal mariniers OVW H. Bruggink" .
@@ -497,30 +526,6 @@
 <https://n2t.net/ark:/27023/2e337727dadbec6b9331e8e7b1a77ce3> <https://colonialcollections.nl/schema#description> "Foto's zwart/wit, totaal 243 stuks(incl. 2 negatieven + 1 kleur), diensttijd J.A. Sluimer bij 1ste Divisie '7 December' /C-Divisie '7 December'.\r\nMilitairen poserend met militair voertuig." .
 <https://n2t.net/ark:/27023/2e337727dadbec6b9331e8e7b1a77ce3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e337727dadbec6b9331e8e7b1a77ce3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/5" .
-<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#name> "Serie foto's betreffende diensttijd in Grave en verblijf in Nieuw-Guinea van G.J. Dominicus" .
-<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#description> "Foto's van G.J. Dominicus' diensttijd in Grave en verblijf in Soerabaia en Nieuw-Guinea.\r\n\r\n- 5 foto's opleiding Grave o.m. (Gabous [?] kazerne op Ridax-papier (6 x      8,9 cm)\r\n- 3 foto's op ongemerkt papier o.a. Jo Hoekman en Ben Peters te Angeren   en" .
-<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2dfe191f0d0e771a5d6922d705758467> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/335" .
-<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Vruchtenpasser te Medan.\"\r\nUitgave van Deli Courant." .
-<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e0024193f7c78016e0b7ee110784b9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-823" .
-<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#name> "Junglehangmat" .
-<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#description> "Junglehangmat bestaande uit een hangmat met dekzeil en klamboe.\r\n\r\nAan binnenzijde een wit etiket met groene opdruk:\r\n\r\nHAMMOCK, JUNGLE\r\nCOMPLETE\r\nKING KARD\r\nOVERALL CO.\r\nCont. W-669-qm. 30824\r\nDated June 30, 1943\r\nQ.M.C. Tent. Spec.\r\nP.Q.D. No. 256C\r\nDat" .
-<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e19fd4d52639f7e114ded43869ec1f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-720/1" .
-<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#name> "Korte broek dagelijks tenue tropen Troepenmacht in Suriname (TRIS) Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#description> "Korte broek van beigekleurige stof met twee insteekzakken, rechts voor een horlogezakje en twee ingewerkte achterzakken. De linkerachterzak wordt gesloten met een lus en een beigekleurige kunststof knoop. De tailleband heeft zeven lussen voor de broekriem" .
-<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e1ebbbc5c409b044135cd4777cadd34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2df567adb84268a1b6f005952f221ae3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2df567adb84268a1b6f005952f221ae3> <https://colonialcollections.nl/schema#identifier> "nf%20696-37" .
 <https://n2t.net/ark:/27023/2df567adb84268a1b6f005952f221ae3> <https://colonialcollections.nl/schema#description> "Opname toont een jonge Javaan met een voor de borst gedragen apparaat waarvan de functie nog onbekend is. Misschien wel een apparaat om iets mee te zaaien." .

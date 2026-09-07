@@ -1,3 +1,24 @@
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#identifier> "nf%201314-23" .
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#name> "Havenwerken met transporteurs te Sabang" .
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, met in inkt geschreven tekst, datum, adres geadresseerde, postzegel van Nederland van 10 cent, poststempel Postagent Amsterdam-Batavia.\r\n\r\nOp afbeelding tekst links bovenaan: 'Havenwerken met Transporteurs te Sa" .
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/8" .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#name> "Stafkaart Batavia Military Guide Map, Nederlands Indië" .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#description> "Stafkaart Batavia Military Guide Map, Nederlands Indië; schaal 1:20.000.\r\nUitgegeven door Svy.Dte.H.Q.AFNEI. dec.´45.\r\nTekst middenboven op kaart (in Engels): \r\nKaart is gebaseerd op Nl. stadsplattegrond van ca. 1935; aanpassingen gebaseerd op genomen luc" .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#creator> "Svy.Dte.H.Q.AFNEI" .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#identifier> "nf%20677-7" .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#name> "Einde van het dobbelspel" .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: EINDE VAN HET DOBBELSPEL. \r\nDussasana heeft vergeefs getracht Draupadi van haar kleding te beroven.\r\nVan links naar rechts: Sakuni, Duryodhana, Dussasana, Draupadi en 3 P" .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#creator> "Maria Austria" .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de785790696c492ef33193ad7cc0ee3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de785790696c492ef33193ad7cc0ee3b> <https://colonialcollections.nl/schema#identifier> "nf%20605-11" .
 <https://n2t.net/ark:/27023/de785790696c492ef33193ad7cc0ee3b> <https://colonialcollections.nl/schema#name> "tandradspoor bij Kajoe Tanam" .
@@ -12,20 +33,43 @@
 <https://n2t.net/ark:/27023/de7b7f2983e19212ac2ff0235e72b0ab> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/de7b7f2983e19212ac2ff0235e72b0ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/de7b7f2983e19212ac2ff0235e72b0ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#identifier> "2007/04/23-3-1" .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#name> "Klewang in schede" .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#description> "Klewang in schede. Kling: P.D.Lüneschloss, Solingen\". Leren schede (nieuw?) Kling geblauwd. Greep hout met 3 klinknagels. Korf vertoont lichte corrosie." .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#creator> "P.D.Lüneschloss, Solingen" .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/13" .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#description> "Foto z/w (totaal 97 stuks) diensttijd KNIL 1927-1949. KNIL-militairen met bamboehoeden, fiets, paard en wagen en muziekinstrumenten. Op de achtergrond een rivier met brug waarop militairen lopen." .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#creator> "Studio Tjimahi" .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#identifier> "2014/02/26-3-58/7" .
 <https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#name> "Beediging Solo 1939, 28 januari" .
 <https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#description> "Foto. Beediging Solo 1939, 28 januari" .
-<https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#creator> "Soerabaiasch Handelsblad" .
+<https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#creator> "R.M. Soetarto" .
 <https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/de9fcbd99a791717bfb094a3336507e3> <https://colonialcollections.nl/schema#creator> "Soerabaiasch Handelsblad" .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/12" .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Biljartzaal" .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Biljartzaal. Met schilderij Generaal Smits." .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/6-8" .
 <https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. De kerels die het 'vuile werk' doen maar toch een opgewekt gezicht\"" .
 <https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#description> "Prentbriefkaart \"Mariniers in Indië. De kerels die het 'vuile werk' doen maar toch een opgewekt gezicht\". \r\nGefotografeerd door Luitenant H. Wilmar voor de Voorlichtingsdienst van de 1e Mariniersbrigade." .
-<https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/deb8e88adb2bbdc656a1d734232f0a44> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/debbf81439dadc367d2febabb20ac485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/debbf81439dadc367d2febabb20ac485> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/14" .
 <https://n2t.net/ark:/27023/debbf81439dadc367d2febabb20ac485> <https://colonialcollections.nl/schema#name> "Door het Departement van Sociale Zaken werd aan de bevolking kleding uitgereikt" .
@@ -528,42 +572,6 @@
 <https://n2t.net/ark:/27023/debae098d50e8d12cc20a340512129c4> <https://colonialcollections.nl/schema#description> "Kubusvorm, plastic / bakeliet omhulsel met daarin, radiobuizen, barometer, hoogtemeter. In goede staat, thermometer ontbreekt.\r\nRadiozender (sonde) gebruikt t.b.v. weervoorspelling door Japanse leger (in bezit gekomen als \"oorlogsbuit\") te Samarang 1947" .
 <https://n2t.net/ark:/27023/debae098d50e8d12cc20a340512129c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/debae098d50e8d12cc20a340512129c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#identifier> "nf%201314-23" .
-<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#name> "Havenwerken met transporteurs te Sabang" .
-<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, met in inkt geschreven tekst, datum, adres geadresseerde, postzegel van Nederland van 10 cent, poststempel Postagent Amsterdam-Batavia.\r\n\r\nOp afbeelding tekst links bovenaan: 'Havenwerken met Transporteurs te Sa" .
-<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de7245c5a60e38df28eb2b569426e91e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/8" .
-<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#name> "Stafkaart Batavia Military Guide Map, Nederlands Indië" .
-<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#description> "Stafkaart Batavia Military Guide Map, Nederlands Indië; schaal 1:20.000.\r\nUitgegeven door Svy.Dte.H.Q.AFNEI. dec.´45.\r\nTekst middenboven op kaart (in Engels): \r\nKaart is gebaseerd op Nl. stadsplattegrond van ca. 1935; aanpassingen gebaseerd op genomen luc" .
-<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de735b2f3b55fef6f076881f4a99ddc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#identifier> "nf%20677-7" .
-<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#name> "Einde van het dobbelspel" .
-<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: EINDE VAN HET DOBBELSPEL. \r\nDussasana heeft vergeefs getracht Draupadi van haar kleding te beroven.\r\nVan links naar rechts: Sakuni, Duryodhana, Dussasana, Draupadi en 3 P" .
-<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de76c69d0566cdba21ef74712e67d9ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#identifier> "2007/04/23-3-1" .
-<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#name> "Klewang in schede" .
-<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#description> "Klewang in schede. Kling: P.D.Lüneschloss, Solingen\". Leren schede (nieuw?) Kling geblauwd. Greep hout met 3 klinknagels. Korf vertoont lichte corrosie." .
-<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de8c9529fc7dbf4132568a34a17250da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/13" .
-<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
-<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#description> "Foto z/w (totaal 97 stuks) diensttijd KNIL 1927-1949. KNIL-militairen met bamboehoeden, fiets, paard en wagen en muziekinstrumenten. Op de achtergrond een rivier met brug waarop militairen lopen." .
-<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de9b2246ce40b05c51dad13cdc091b82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/12" .
-<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Biljartzaal" .
-<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Biljartzaal. Met schilderij Generaal Smits." .
-<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/deb61ea5b1ebba1173afeca90d27e30b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de76bf195e3b21be8d3a38540c5df969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de76bf195e3b21be8d3a38540c5df969> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43183" .
 <https://n2t.net/ark:/27023/de76bf195e3b21be8d3a38540c5df969> <https://colonialcollections.nl/schema#description> "Zitmat" .

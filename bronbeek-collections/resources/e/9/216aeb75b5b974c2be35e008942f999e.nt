@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/3" .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 3.\r\nAfgebeeld: Officier Artillerie bij kanon." .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#inscription> "de Notre ami J.C.Aetink\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nde Notre ami J.C.Aetink" .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#creator> "J. van Koningsveld" .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <https://colonialcollections.nl/schema#identifier> "2005/07/04-2-4/1" .
 <https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <https://colonialcollections.nl/schema#name> "9 prentbriefkaarten van NIWIN" .
@@ -6,6 +14,30 @@
 <https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2fb890bd7ab028e454bd71a1955d7210> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/16" .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#name> "Bromo. Batok from Moengal Pass" .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bromo. Batok from Moengal Pass" .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#inscription> "De laagvlakte op de voorgrond is ontstaan door het uitwerpen van lava en asch en ligt tusschen hooge bergen in. Die hooge berg is de Batok, en rechts ervan , waar die rook uitkomt, is de Bromo." .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-27" .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#name> "59. Bevloeiingswerken op Java" .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n59. Bevloeiingswerken op Java" .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#inscription> "59. Bevloeiingswerken op Java" .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-4/2" .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#name> "Baretgesp Klimmende leeuw" .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#description> "Baretgesp. Klimmende leeuw. \"Nederland\". Met sluitspeld." .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#creator> "K.C. Luke" .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <https://colonialcollections.nl/schema#identifier> "nf%201408-2" .
 <https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <https://colonialcollections.nl/schema#name> "Sabang - Laden van tabak in Holl. Mailstomer" .
@@ -13,6 +45,7 @@
 <https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2fc52e632645e442d72f43bd17579172> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/2fd4b8c7159c30d87f511b092fcd99cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2fd4b8c7159c30d87f511b092fcd99cf> <https://colonialcollections.nl/schema#identifier> "nf%201156" .
 <https://n2t.net/ark:/27023/2fd4b8c7159c30d87f511b092fcd99cf> <https://colonialcollections.nl/schema#name> "Bruidspaar" .
@@ -27,6 +60,20 @@
 <https://n2t.net/ark:/27023/2fd974ff20fb0636e42ff132e9027d31> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/2fd974ff20fb0636e42ff132e9027d31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2fd974ff20fb0636e42ff132e9027d31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-2/3" .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#name> "Foto van de Sultan Sambas (c.a. 1916)" .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#description> "Foto van de Sultan Sambas, Borneo (c.a. 1916).\r\nFotograaf: \"J. Yamasaki, Photographer Pamangkat, W. Borneo.\"\r\nGroepsportret met doek: \"Selamat toean Sulthan Mohamad Tsafioedin 50 tahoen dengan moerah dan adil\". Binnenlands Bestuur groepsfoto, allen genumm" .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#creator> "J. Yamasaki, Photographer Pamangkat, W. Borneo" .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/21" .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#creator> "Natalie Hoogmoed, KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2fb7399a49f8642a75dba4297d563465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2fb7399a49f8642a75dba4297d563465> <https://colonialcollections.nl/schema#identifier> "nf%201459" .
 <https://n2t.net/ark:/27023/2fb7399a49f8642a75dba4297d563465> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant staat in het Duits, in inkt geschreven;'Niasser aus Kampong - Tetehosi (Teteheusi), ???????)\r\n\r\nOpname toont een staande inheemse man, enigszins van opzij genomen. Hij draagt een lendendoek." .
@@ -85,27 +132,6 @@
 <https://n2t.net/ark:/27023/2ff1a862aefb9a380ca72eb3323adce7> <https://colonialcollections.nl/schema#inscription> "Kanchanaburi. West-Thailand. Famous during World-War II (1941-1945)" .
 <https://n2t.net/ark:/27023/2ff1a862aefb9a380ca72eb3323adce7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ff1a862aefb9a380ca72eb3323adce7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/3" .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 3.\r\nAfgebeeld: Officier Artillerie bij kanon." .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#inscription> "de Notre ami J.C.Aetink\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nde Notre ami J.C.Aetink" .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2fb302e3fa705a278a7071706112e3e3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/16" .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#name> "Bromo. Batok from Moengal Pass" .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bromo. Batok from Moengal Pass" .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#inscription> "De laagvlakte op de voorgrond is ontstaan door het uitwerpen van lava en asch en ligt tusschen hooge bergen in. Die hooge berg is de Batok, en rechts ervan , waar die rook uitkomt, is de Bromo." .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2fdd477e54c5cd1d508cbd9dbb32fbf6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-27" .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#name> "59. Bevloeiingswerken op Java" .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n59. Bevloeiingswerken op Java" .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#inscription> "59. Bevloeiingswerken op Java" .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2fed71880cd6fcb1d3030e901488c007> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2faf2cbf0af6c5623c5ff3bfa53bc27a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2faf2cbf0af6c5623c5ff3bfa53bc27a> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-5/18" .
 <https://n2t.net/ark:/27023/2faf2cbf0af6c5623c5ff3bfa53bc27a> <https://colonialcollections.nl/schema#name> "Een handgeschreven document, waarschijnlijk geschreven door W.A. van der Gant." .
@@ -549,24 +575,6 @@
 <https://n2t.net/ark:/27023/2ff44fcbb78a74a26902d4021f616219> <https://colonialcollections.nl/schema#description> "Rangonderscheidingsknoop \"stip\", goudkleurig. Totaal negen stuks (inv.nrs 1998/01/01-2-12/1 t/m 1998/01/01-2-12/9)." .
 <https://n2t.net/ark:/27023/2ff44fcbb78a74a26902d4021f616219> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ff44fcbb78a74a26902d4021f616219> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-4/2" .
-<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#name> "Baretgesp Klimmende leeuw" .
-<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#description> "Baretgesp. Klimmende leeuw. \"Nederland\". Met sluitspeld." .
-<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2fb45aca1fb5078acb284dd50b037f62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-2/3" .
-<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#name> "Foto van de Sultan Sambas (c.a. 1916)" .
-<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#description> "Foto van de Sultan Sambas, Borneo (c.a. 1916).\r\nFotograaf: \"J. Yamasaki, Photographer Pamangkat, W. Borneo.\"\r\nGroepsportret met doek: \"Selamat toean Sulthan Mohamad Tsafioedin 50 tahoen dengan moerah dan adil\". Binnenlands Bestuur groepsfoto, allen genumm" .
-<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2fe5b86c69651c7328de15f3f5a47ed0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/21" .
-<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
-<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
-<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ff410775e7f4213f385693f977f840c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2fc15984314ec55d142bcfec496c67f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2fc15984314ec55d142bcfec496c67f6> <https://colonialcollections.nl/schema#identifier> "S%2066-14" .
 <https://n2t.net/ark:/27023/2fc15984314ec55d142bcfec496c67f6> <https://colonialcollections.nl/schema#description> "Houten lans met nibunghouten punt, van inkepingen als weerhaken voorzien; gestoken in een gele rietstengel als schacht met een dikte van ongeveer 1 cm; aan de bovenkant enig snijwerk en rotan omwinding;\r\nHerkomst: Goodseilanden, Torressraat." .

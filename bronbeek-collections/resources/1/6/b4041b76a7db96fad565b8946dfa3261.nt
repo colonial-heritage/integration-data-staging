@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-51" .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#name> "Carte de visite: van de Velde" .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. van de Velde, ambt. bij de bebakening" .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#inscription> "van de Velde ambt. bij de bebakening" .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#creator> "Le Monde Illustré Photographie" .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-1/3" .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#name> "Foto´s Dienst leger Contacten, 25 stuks" .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#description> "Foto´s Dienst legercontacten, 25 stuks (meest genummerd), enkele voorzien van commentaar in pen. \r\n\r\nFoto´s gemaakt door fotograaf/journalist Bartel Hartwiesen (Ministerie van Oorlog, dienst legercontacten), 1946-1947. De foto´s handelen over het militair" .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#inscription> "FE115" .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#creator> "Dhr. Bartel Hartwiesen" .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c6c8b7c211a2a2887de2cb9a9abe4fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c6c8b7c211a2a2887de2cb9a9abe4fb> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-208" .
 <https://n2t.net/ark:/27023/0c6c8b7c211a2a2887de2cb9a9abe4fb> <https://colonialcollections.nl/schema#name> "Japans zwaard, \"Wakizashi\", laat Koto of vroeg Shinto (voor of na 1600). Provincie Sagani, smid: waarschijnlijk \"Hiroyoshi\"" .
@@ -20,6 +36,13 @@
 <https://n2t.net/ark:/27023/0c3dfda62cb1b36d60a8f6b59da03aab> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/0c3dfda62cb1b36d60a8f6b59da03aab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c3dfda62cb1b36d60a8f6b59da03aab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/54" .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#name> "\"Gamelang\"" .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Gamelang\"" .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#creator> "W.T. Uhlenhuth" .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c5124542a531b54f148848e5482a663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c5124542a531b54f148848e5482a663> <https://colonialcollections.nl/schema#identifier> "2006/00-42-738/4" .
 <https://n2t.net/ark:/27023/0c5124542a531b54f148848e5482a663> <https://colonialcollections.nl/schema#name> "Overgave commando Koloniale Reserve, De overste Barendsen reikt het vaandel aan den nieuw benoemden commandant de Majoor Wissema over. 1 december 1931" .
@@ -48,6 +71,13 @@
 <https://n2t.net/ark:/27023/0c630ccefabd655294c67523795255b3> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/0c630ccefabd655294c67523795255b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c630ccefabd655294c67523795255b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#identifier> "2006/00-5/4" .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat KNIL en Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met stolpplooi en rechte zakkleppen en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmodel met een " .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#creator> "Rexalco Overhemdenfabriek" .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <https://colonialcollections.nl/schema#identifier> "S%206245-75" .
 <https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <https://colonialcollections.nl/schema#name> "tabaksveld" .
@@ -55,6 +85,7 @@
 <https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0c6cc1bd9a6b2cf342be200abcd0ad06> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/0c6d954f17d96d275fb96e35df8313ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c6d954f17d96d275fb96e35df8313ce> <https://colonialcollections.nl/schema#identifier> "S%20409-3" .
 <https://n2t.net/ark:/27023/0c6d954f17d96d275fb96e35df8313ce> <https://colonialcollections.nl/schema#name> "'Het lage Noorderstrand. Java'" .
@@ -63,6 +94,12 @@
 <https://n2t.net/ark:/27023/0c6d954f17d96d275fb96e35df8313ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c6d954f17d96d275fb96e35df8313ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c6d954f17d96d275fb96e35df8313ce> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-25" .
+<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een poort. Onduidelijk of deze poort ook bij een tempelcomplex hoort, zo te zien niet. Er is wel weer fraai beeldhouwwerk.\r\nEr komt een Balinese vrouw de trap af met een schaal met inhoud o" .
+<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c376dee5f60a3fafe1a2f55c589ebe4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c376dee5f60a3fafe1a2f55c589ebe4> <https://colonialcollections.nl/schema#identifier> "nf%20926-6-2" .
 <https://n2t.net/ark:/27023/0c376dee5f60a3fafe1a2f55c589ebe4> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van een blank gezin van een vader met een baby op schoot, een moeder en tussen hen in staand een dochter.\r\n\r\nHet is min of meer dezelfde foto als nf 926-6-1, alleen is men gaan verzitten.\r\n\r\nHet is het gezin van " .
@@ -75,6 +112,7 @@
 <https://n2t.net/ark:/27023/0c426358103bd832b96be3755e39bb2e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0c426358103bd832b96be3755e39bb2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c426358103bd832b96be3755e39bb2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0c426358103bd832b96be3755e39bb2e> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/0c46cfb38189d083be7b5c2a9dd6f610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c46cfb38189d083be7b5c2a9dd6f610> <https://colonialcollections.nl/schema#identifier> "nf%201593" .
 <https://n2t.net/ark:/27023/0c46cfb38189d083be7b5c2a9dd6f610> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOpname toont een man in eenvoudige kleding. De hoed die de man draagt doet denken aan een 'Europese' hoed. Mogelijk is de man een blanke. Hij staat bij een paard dat ingespannen is voor e" .
@@ -108,20 +146,6 @@
 <https://n2t.net/ark:/27023/0c44d243778a2757f81700246478a5c6> <https://colonialcollections.nl/schema#inscription> "Bij een heftig handgemeen Bleek de kok niet vast ter been" .
 <https://n2t.net/ark:/27023/0c44d243778a2757f81700246478a5c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c44d243778a2757f81700246478a5c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-51" .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#name> "Carte de visite: van de Velde" .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. van de Velde, ambt. bij de bebakening" .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#inscription> "van de Velde ambt. bij de bebakening" .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0c4a9ba521d35356256355c26ae562f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-1/3" .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#name> "Foto´s Dienst leger Contacten, 25 stuks" .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#description> "Foto´s Dienst legercontacten, 25 stuks (meest genummerd), enkele voorzien van commentaar in pen. \r\n\r\nFoto´s gemaakt door fotograaf/journalist Bartel Hartwiesen (Ministerie van Oorlog, dienst legercontacten), 1946-1947. De foto´s handelen over het militair" .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#inscription> "FE115" .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0c59a80868988c584229490be0aad284> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c3281dfcac0e5130584ca9b928a6567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c3281dfcac0e5130584ca9b928a6567> <https://colonialcollections.nl/schema#identifier> "2009/10/28-3-9" .
 <https://n2t.net/ark:/27023/0c3281dfcac0e5130584ca9b928a6567> <https://colonialcollections.nl/schema#name> "Aluminium doosje met deksel (Japans etensblik?)" .
@@ -518,18 +542,6 @@
 <https://n2t.net/ark:/27023/0c6fc604f4c2ff678d53401cf98b8293> <https://colonialcollections.nl/schema#description> "Foto. \"Gezicht op het etablissement\"" .
 <https://n2t.net/ark:/27023/0c6fc604f4c2ff678d53401cf98b8293> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c6fc604f4c2ff678d53401cf98b8293> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/54" .
-<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#name> "\"Gamelang\"" .
-<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Gamelang\"" .
-<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0c4ac189a08dd93c03ccc8fccfe6dde5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#identifier> "2006/00-5/4" .
-<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat KNIL en Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met stolpplooi en rechte zakkleppen en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmodel met een " .
-<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0c6616f674a4309df893b2feafc1a26c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c3da9a7fd3776a3e9365325cb0be3db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c3da9a7fd3776a3e9365325cb0be3db> <https://colonialcollections.nl/schema#identifier> "1999/00-592" .
 <https://n2t.net/ark:/27023/0c3da9a7fd3776a3e9365325cb0be3db> <https://colonialcollections.nl/schema#description> "Lijst met foto's en pamfletten betrekking hebben op de strijd van het KNIL tegen de Japanners; onderdeel van een schenking bestaande uit 8 lijsten met foto's, pamfletten e.d. (Thieme inv.nr. 1959)." .
@@ -575,11 +587,6 @@
 <https://n2t.net/ark:/27023/0c6b11df45b5126f788f6820b049019a> <https://colonialcollections.nl/schema#description> "Zwaard met schede, Borneo" .
 <https://n2t.net/ark:/27023/0c6b11df45b5126f788f6820b049019a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c6b11df45b5126f788f6820b049019a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-25" .
-<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een poort. Onduidelijk of deze poort ook bij een tempelcomplex hoort, zo te zien niet. Er is wel weer fraai beeldhouwwerk.\r\nEr komt een Balinese vrouw de trap af met een schaal met inhoud o" .
-<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0c34387666f195950c42198a05852ea1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c42075679bd9dfa9bae3c479ee059f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c42075679bd9dfa9bae3c479ee059f2> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44209" .
 <https://n2t.net/ark:/27023/0c42075679bd9dfa9bae3c479ee059f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -5,13 +5,28 @@
 <https://n2t.net/ark:/27023/33233fdaf1225d3b6c3e25b1b546d188> <https://colonialcollections.nl/schema#creator> "James Voûte" .
 <https://n2t.net/ark:/27023/33233fdaf1225d3b6c3e25b1b546d188> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/33233fdaf1225d3b6c3e25b1b546d188> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/137" .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Monument." .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/169" .
 <https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
 <https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Tandjong Priok. Batavia." .
-<https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
+<https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3329fe35c2179a50bc181f9719889602> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/433" .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Passarstraat Makassar.\"" .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#creator> "Handelsdrukkerij en kantoorhandel Celebes, Makassar" .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/332f9d05511ba121fb70cbded3d57d71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/332f9d05511ba121fb70cbded3d57d71> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-252-3" .
 <https://n2t.net/ark:/27023/332f9d05511ba121fb70cbded3d57d71> <https://colonialcollections.nl/schema#name> "Platte pet geklede tenue controleur Nederlandse Bestuurskorps Nederlands Nieuw-Guinea" .
@@ -26,6 +41,13 @@
 <https://n2t.net/ark:/27023/333fcc7a47af033fd9d103de81f95c27> <https://colonialcollections.nl/schema#creator> "Persfoto-bureau \"Gelderland\" Nijmegen" .
 <https://n2t.net/ark:/27023/333fcc7a47af033fd9d103de81f95c27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/333fcc7a47af033fd9d103de81f95c27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#identifier> "nf%201562-1" .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#name> "Graf bij Balige" .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt geschreven tekst: 'graf bij Baligé (Sumatra)\r\nIn potlood de naam 'Jongbloed'.\r\nOok is er een stempel met volgende tekst: UITGAVE PARKHOTEL - FORT DE KOCK - NADRUK VERBODEN'\r\n\r\nOp" .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3339dec5312962b8b9ff793c0338d588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3339dec5312962b8b9ff793c0338d588> <https://colonialcollections.nl/schema#identifier> "nf%20842-422" .
 <https://n2t.net/ark:/27023/3339dec5312962b8b9ff793c0338d588> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 01 t/m 36. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 26, in pot" .
@@ -497,24 +519,6 @@
 <https://n2t.net/ark:/27023/336475c6031cabe3fc59a8f95d88a94e> <https://colonialcollections.nl/schema#description> "Schouderschuifpassant (paar) van groene wol met aan de schouderzijde een van gouddraad geborduurde balk met daarboven twee geborduurde sterren. Boven de sterren in gouddraad geborduurd het Rijkswapen met schildhouders en links en rechts een lauwertak.\r\nRa" .
 <https://n2t.net/ark:/27023/336475c6031cabe3fc59a8f95d88a94e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/336475c6031cabe3fc59a8f95d88a94e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/137" .
-<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Monument." .
-<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/33252e5aaa191a850d11747333901bd6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/433" .
-<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Passarstraat Makassar.\"" .
-<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/332eec25f1b643b95f91844b8b562df6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#identifier> "nf%201562-1" .
-<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#name> "Graf bij Balige" .
-<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt geschreven tekst: 'graf bij Baligé (Sumatra)\r\nIn potlood de naam 'Jongbloed'.\r\nOok is er een stempel met volgende tekst: UITGAVE PARKHOTEL - FORT DE KOCK - NADRUK VERBODEN'\r\n\r\nOp" .
-<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3343165e1ab22f16c6ed2a237f8667f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/331f8849881c98209fb5ed38c71fdaca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/331f8849881c98209fb5ed38c71fdaca> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/37" .
 <https://n2t.net/ark:/27023/331f8849881c98209fb5ed38c71fdaca> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

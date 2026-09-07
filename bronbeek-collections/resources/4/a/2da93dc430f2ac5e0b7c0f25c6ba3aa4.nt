@@ -6,6 +6,20 @@
 <https://n2t.net/ark:/27023/08360937c11c6629784a7b445d1a73eb> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/08360937c11c6629784a7b445d1a73eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/08360937c11c6629784a7b445d1a73eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#identifier> "2013/12/05-5-2" .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#name> "J.P.Coen Verzameling: Djokja" .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#description> "Doos met 12 lantaarnplaatjes. \"J.P. Coen verzameling. Djokja.\" Uitgave van T.O.A. Aerdenhout. Alle plaatjes genummerd en gelabeld. Aanwezig de nummers: 27-28-29-30-31-32-46-47-48-49-50-51" .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#creator> "T.O.A. Aerdenhout" .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#identifier> "2017/07/30-3-4" .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#name> "Avondmaalsstel vlootpredikant" .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#description> "Avondmaalskom onderdeel van een avondmaalsstel van een vlootpredikant. \r\nKom met deksel" .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#creator> "Gero" .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0835cb053d0e471da1ea763e4c4a15ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0835cb053d0e471da1ea763e4c4a15ab> <https://colonialcollections.nl/schema#identifier> "nf%20724" .
 <https://n2t.net/ark:/27023/0835cb053d0e471da1ea763e4c4a15ab> <https://colonialcollections.nl/schema#name> "'vliegdemonstratie Bandoeng 1929'" .
@@ -20,6 +34,13 @@
 <https://n2t.net/ark:/27023/08370f8d13dbcb20cb8e73f8bfd19685> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/08370f8d13dbcb20cb8e73f8bfd19685> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/08370f8d13dbcb20cb8e73f8bfd19685> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-4/1" .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#name> "Orang Papoea" .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Orang Papoea. Op achterzijde in druk: \"G. Furukawa\"." .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#creator> "G. Furukawa" .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/083a464bdbcc8677e5abd588b27f8765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/083a464bdbcc8677e5abd588b27f8765> <https://colonialcollections.nl/schema#identifier> "nf%201413-206" .
 <https://n2t.net/ark:/27023/083a464bdbcc8677e5abd588b27f8765> <https://colonialcollections.nl/schema#name> "Bivak in ladanghuis" .
@@ -41,6 +62,7 @@
 <https://n2t.net/ark:/27023/08490d7fa743f1b4b22d270b2a3ea67a> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/08490d7fa743f1b4b22d270b2a3ea67a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/08490d7fa743f1b4b22d270b2a3ea67a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/08490d7fa743f1b4b22d270b2a3ea67a> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/082e9a1d320a1020d89bffeb5d9f630d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/082e9a1d320a1020d89bffeb5d9f630d> <https://colonialcollections.nl/schema#identifier> "nf%20680-107" .
 <https://n2t.net/ark:/27023/082e9a1d320a1020d89bffeb5d9f630d> <https://colonialcollections.nl/schema#description> "Drie kleine kinderen op een bankje voor een huis.\r\n\r\nN.B.: Latere informatie van de geefster luidt:'Vriendjes van ons, Makassar'\r\n\r\nVerder is aangegeven dat het middelste kind 'Mieke' heet." .
@@ -59,6 +81,18 @@
 <https://n2t.net/ark:/27023/083825d85a60c0c49f2be463750bbf74> <https://colonialcollections.nl/schema#creator> "Ed van Straten, Leidschendam" .
 <https://n2t.net/ark:/27023/083825d85a60c0c49f2be463750bbf74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/083825d85a60c0c49f2be463750bbf74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#identifier> "nf%20841-68-2" .
+<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOpname van een groep blanke mannen, 'luchtig gekleed', poserend voor de foto. Er staat ook nog een lokale vrouw in sarong en kabaja gekleed, op de foto" .
+<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#identifier> "EDO%20481-35" .
+<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een berglandschap met centraal achterin een vulkaan, waarschijnlijk de goenoeng Batur (de vulkaan Batoer).\r\n\r\nDeze opname is van mindere kwaliteit vergeleken met EDO 481-33.\r\n\r\nDoor het k" .
+<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0849f67c55f51c893299cc0f3de3aec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0849f67c55f51c893299cc0f3de3aec2> <https://colonialcollections.nl/schema#identifier> "nf%20926-37-1" .
 <https://n2t.net/ark:/27023/0849f67c55f51c893299cc0f3de3aec2> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van een jongetje gekleed in een apenpakje (tjelana/celana monyet/monjet). Hij is uitgedost met tropenhelm en een zonnebril.\r\n\r\nIn dit jochie is Jelle van den Berg te herkennen." .
@@ -494,24 +528,6 @@
 <https://n2t.net/ark:/27023/0867d3cde81202e53aa520e4b972ee4b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Nederlands-Indië.\r\n'Tjitarumbrug Radjamandala.'\r\nJ.C. Becker, Bandoeng, Java." .
 <https://n2t.net/ark:/27023/0867d3cde81202e53aa520e4b972ee4b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0867d3cde81202e53aa520e4b972ee4b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#identifier> "2013/12/05-5-2" .
-<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#name> "J.P.Coen Verzameling: Djokja" .
-<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#description> "Doos met 12 lantaarnplaatjes. \"J.P. Coen verzameling. Djokja.\" Uitgave van T.O.A. Aerdenhout. Alle plaatjes genummerd en gelabeld. Aanwezig de nummers: 27-28-29-30-31-32-46-47-48-49-50-51" .
-<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0827c754f0fa49b407b1a181e4b1a6c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#identifier> "2017/07/30-3-4" .
-<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#name> "Avondmaalsstel vlootpredikant" .
-<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#description> "Avondmaalskom onderdeel van een avondmaalsstel van een vlootpredikant. \r\nKom met deksel" .
-<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/08310e05f989e2595beeb61eb8516458> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-4/1" .
-<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#name> "Orang Papoea" .
-<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Orang Papoea. Op achterzijde in druk: \"G. Furukawa\"." .
-<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/08397fee49632b898b31b60113453e21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0827852434ff763168c7c2465cb8ffd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0827852434ff763168c7c2465cb8ffd6> <https://colonialcollections.nl/schema#identifier> "nf%201306-39-2" .
 <https://n2t.net/ark:/27023/0827852434ff763168c7c2465cb8ffd6> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'Patialah's' \r\n\r\nAfbeelding toont een militaire parade. In beeld, van wat verderaf genomen, donkere, in kaki uniform, tulband dragende, exerc" .
@@ -572,16 +588,6 @@
 <https://n2t.net/ark:/27023/0865d61bc8cecb5aa3a0fe9f74e3744f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een blanke vrouw in een licht gekleurde jurk, zittend op een zandberm. Links achter haar een gebouw, de achtergrond een meer en de" .
 <https://n2t.net/ark:/27023/0865d61bc8cecb5aa3a0fe9f74e3744f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0865d61bc8cecb5aa3a0fe9f74e3744f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#identifier> "nf%20841-68-2" .
-<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOpname van een groep blanke mannen, 'luchtig gekleed', poserend voor de foto. Er staat ook nog een lokale vrouw in sarong en kabaja gekleed, op de foto" .
-<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/083b0c441c14e04b3a46b7cc3a2fe633> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#identifier> "EDO%20481-35" .
-<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een berglandschap met centraal achterin een vulkaan, waarschijnlijk de goenoeng Batur (de vulkaan Batoer).\r\n\r\nDeze opname is van mindere kwaliteit vergeleken met EDO 481-33.\r\n\r\nDoor het k" .
-<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0849843c632240a5c238b33234e10957> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/085b54cfaed8b122ec608ed3bfb6b8f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/085b54cfaed8b122ec608ed3bfb6b8f8> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/580" .
 <https://n2t.net/ark:/27023/085b54cfaed8b122ec608ed3bfb6b8f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

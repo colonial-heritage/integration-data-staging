@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#identifier> "2002/00-33/26" .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#name> "39. Bibit Kap- en Sorteerloods." .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n39. Bibit Kap- en Sorteerloods." .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#inscription> "39. Bibit Kap- en Sorteerloods." .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <https://colonialcollections.nl/schema#identifier> "nf%201408-97" .
 <https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <https://colonialcollections.nl/schema#name> "Witte Societeit" .
@@ -5,6 +13,21 @@
 <https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e1e6f4f65ae7fbdb9b25dce00336b97a> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#identifier> "2007/09/19-1-4/8" .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#name> "Familieportret van vader Jan Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien, Kolonedale" .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit op karton. Familieportret van vader ´Iep´ Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien.\r\nHandgeschreven tekst verso: ´Kolonedale December 1911. Celebes. Souvenir voor Bennie, Annie.´\r\nFoto 7 en 9 uit dez" .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#creator> "Wah Heng Photographer" .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#identifier> "2012/10/03-1" .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#name> "Uitreiking van het vaandel van de Hoofdcursus te Kampen aan de directeur majoor Kooiman" .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit van het Fotopersbureau \"Holland\" uit Amsterdam. Uitreiking van het vaandel van de Hoofdcursus te Kampen door Generaal Drijber aan de directeur de majoor N.J. Kooiman. De minister van Koloniën was vertegenwoordigd door de generaal-majoor Du" .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#creator> "Fotopersbureau \"Holland\"" .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e20dbbb644152adb0b2a5c4746a48a88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e20dbbb644152adb0b2a5c4746a48a88> <https://colonialcollections.nl/schema#identifier> "nf%20619-32" .
 <https://n2t.net/ark:/27023/e20dbbb644152adb0b2a5c4746a48a88> <https://colonialcollections.nl/schema#name> "Het brengen van de 'adat' door enige Batakse hoofden" .
@@ -12,6 +35,13 @@
 <https://n2t.net/ark:/27023/e20dbbb644152adb0b2a5c4746a48a88> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e20dbbb644152adb0b2a5c4746a48a88> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e20dbbb644152adb0b2a5c4746a48a88> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#identifier> "1997/06/25-1-8" .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#name> "Appéllijst van Europees sergeant G.J. Hendriks" .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#description> "Appéllijst (appellijst) 2de brigade 10de compagnie 1ste Regiment Infanterie (10-1 RI). Brigadecommandant Europees sergeant G.J. Hendriks, stamboeknr. 92501. Naamlijst 2de Brigade KM (karabijnmitrailleur) groep en K (karabijn) groep met stamboeknummers, be" .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#creator> "A.C. Nix & Co" .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e21f7a65199fb8aae64f468a92c4be39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e21f7a65199fb8aae64f468a92c4be39> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-11" .
 <https://n2t.net/ark:/27023/e21f7a65199fb8aae64f468a92c4be39> <https://colonialcollections.nl/schema#name> "Rood beertje" .
@@ -33,6 +63,13 @@
 <https://n2t.net/ark:/27023/e224d89c52b6688ff39948fa0d13eaf2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e224d89c52b6688ff39948fa0d13eaf2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e224d89c52b6688ff39948fa0d13eaf2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/3" .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#name> "Delegatie herbegrafenis Generaal Van Heutsz bezoekt Bronbeek" .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#description> "Delegatie herbegrafenis Generaal Van Heutsz bezoekt Bronbeek." .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1e5020b35e48178bbc4bb8c5134e72a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1e5020b35e48178bbc4bb8c5134e72a> <https://colonialcollections.nl/schema#identifier> "EDO%20622-35-6" .
 <https://n2t.net/ark:/27023/e1e5020b35e48178bbc4bb8c5134e72a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nFamiliekiekje. Opname toont een vrouw in donkere rok en lichter vest en een jongen.\r\nZij zitten op een rots." .
@@ -119,13 +156,6 @@
 <https://n2t.net/ark:/27023/e1f9055a9a6ea78245a29562f872fa2f> <https://colonialcollections.nl/schema#inscription> "S000" .
 <https://n2t.net/ark:/27023/e1f9055a9a6ea78245a29562f872fa2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1f9055a9a6ea78245a29562f872fa2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#identifier> "2002/00-33/26" .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#name> "39. Bibit Kap- en Sorteerloods." .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n39. Bibit Kap- en Sorteerloods." .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#inscription> "39. Bibit Kap- en Sorteerloods." .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e21ba179fec5f4d3def0243c2d47ab1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1e31a8d3dae4c6a58e9743b4df9dd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1e31a8d3dae4c6a58e9743b4df9dd51> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-331" .
 <https://n2t.net/ark:/27023/e1e31a8d3dae4c6a58e9743b4df9dd51> <https://colonialcollections.nl/schema#name> "Foto met zoölogische afbeeldingen" .
@@ -558,30 +588,6 @@
 <https://n2t.net/ark:/27023/e227f5728d530e7afd556cf23a0fe34c> <https://colonialcollections.nl/schema#description> "Herinneringsvlaggetjes KODAM VI Siliwangi, groen met gele franje. Afm. 19 x 25 cm. In goede staat." .
 <https://n2t.net/ark:/27023/e227f5728d530e7afd556cf23a0fe34c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e227f5728d530e7afd556cf23a0fe34c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#identifier> "2007/09/19-1-4/8" .
-<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#name> "Familieportret van vader Jan Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien, Kolonedale" .
-<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit op karton. Familieportret van vader ´Iep´ Troostwijk, moeder Marian Troostwijk-Van der Heijden en dochters Claartje en Lien.\r\nHandgeschreven tekst verso: ´Kolonedale December 1911. Celebes. Souvenir voor Bennie, Annie.´\r\nFoto 7 en 9 uit dez" .
-<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1e7d25cbc92a200f6b4af346b3bb0fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#identifier> "2012/10/03-1" .
-<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#name> "Uitreiking van het vaandel van de Hoofdcursus te Kampen aan de directeur majoor Kooiman" .
-<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit van het Fotopersbureau \"Holland\" uit Amsterdam. Uitreiking van het vaandel van de Hoofdcursus te Kampen door Generaal Drijber aan de directeur de majoor N.J. Kooiman. De minister van Koloniën was vertegenwoordigd door de generaal-majoor Du" .
-<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e2091da48b4044c97c4f915d9d3bb73e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#identifier> "1997/06/25-1-8" .
-<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#name> "Appéllijst van Europees sergeant G.J. Hendriks" .
-<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#description> "Appéllijst (appellijst) 2de brigade 10de compagnie 1ste Regiment Infanterie (10-1 RI). Brigadecommandant Europees sergeant G.J. Hendriks, stamboeknr. 92501. Naamlijst 2de Brigade KM (karabijnmitrailleur) groep en K (karabijn) groep met stamboeknummers, be" .
-<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e21e34293edaf9d7513a540ea33ed008> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/3" .
-<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#name> "Delegatie herbegrafenis Generaal Van Heutsz bezoekt Bronbeek" .
-<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#description> "Delegatie herbegrafenis Generaal Van Heutsz bezoekt Bronbeek." .
-<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e227a6f12c705cd14aa6083e3a2135df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e214449488c728664ed4171b933774d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e214449488c728664ed4171b933774d6> <https://colonialcollections.nl/schema#identifier> "nf%201305-20-6" .
 <https://n2t.net/ark:/27023/e214449488c728664ed4171b933774d6> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een blanke man en dito meisje, staand op de voorgrond met achter hen Indonesische mannen met twee versierde koeien of stieren. Het meisje draagt een" .

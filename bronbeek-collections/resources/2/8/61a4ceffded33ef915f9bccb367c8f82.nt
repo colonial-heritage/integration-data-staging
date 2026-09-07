@@ -1,12 +1,20 @@
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-18" .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#name> "57. De Kalédong en de Haroemén in de vlakte van Lélés" .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#description> "Schoolplaat. 57. De Kalédong en de Haroemén in de vlakte van Lélés." .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#inscription> "57. De Kalédong en de Haroemén in de vlakte van Lélés." .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#identifier> "1992/01/05-1-1" .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#name> "Schoolplaat \"Het lage Noorderstrand te Java, nr. 3\"" .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#description> "Schoolplaat. Het lage Noorderstrand. - Java.\r\nUitgave J.B. Wolters-Noordhoff. In redelijke staat. Hoeken zijn beschadigd.\r\nnaar schilderij van Bleckmann uit de serie van Henri Zondervan ; Insulinde in woord en beeld." .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#inscription> "Het lage Noorderstrand. - Java." .
-<https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
+<https://n2t.net/ark:/27023/61ce77abb5aabc841108d8476bae3330> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/61ddfb53c30ddaf1d25087b942dbd3b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61ddfb53c30ddaf1d25087b942dbd3b9> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-78" .
 <https://n2t.net/ark:/27023/61ddfb53c30ddaf1d25087b942dbd3b9> <https://colonialcollections.nl/schema#name> "Carte de visite: 'Gualtherus (?) ? Kolff" .
@@ -29,6 +37,7 @@
 <https://n2t.net/ark:/27023/61b7bb7e379d28e57b6103ab0acd5a27> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/61b7bb7e379d28e57b6103ab0acd5a27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61b7bb7e379d28e57b6103ab0acd5a27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/61b7bb7e379d28e57b6103ab0acd5a27> <https://colonialcollections.nl/schema#creator> "Arw-Kiekjes van Java's Land en Volk" .
 <https://n2t.net/ark:/27023/61bab1b5dfce22a693b326e2623b52ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61bab1b5dfce22a693b326e2623b52ed> <https://colonialcollections.nl/schema#identifier> "nf%20619-34" .
 <https://n2t.net/ark:/27023/61bab1b5dfce22a693b326e2623b52ed> <https://colonialcollections.nl/schema#name> "Ofiiciersverblijf in kampong Palilitan" .
@@ -64,6 +73,13 @@
 <https://n2t.net/ark:/27023/61cb0307e369a5bdd7c7bf2c3dd425da> <https://colonialcollections.nl/schema#creator> "H.A. van den Eynde" .
 <https://n2t.net/ark:/27023/61cb0307e369a5bdd7c7bf2c3dd425da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61cb0307e369a5bdd7c7bf2c3dd425da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#identifier> "2005/00-607/29" .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#name> "Foto van vrouw staand met parasol de waterkering in Pematang-Siantar" .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#description> "Foto, zw/w. vrouw met parasol staande bij de waterkering te Pametang-Siantar. op de achtergrond een brug.\r\n\r\nverso: in potlood \"photo genomen Juli 1930 waterpaal/kristalijs P.Siantar Sumatra-oostkust\"" .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61da75cf0bee824c2df1a8d011ef9150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61da75cf0bee824c2df1a8d011ef9150> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-11" .
 <https://n2t.net/ark:/27023/61da75cf0bee824c2df1a8d011ef9150> <https://colonialcollections.nl/schema#name> "Aussies" .
@@ -78,6 +94,20 @@
 <https://n2t.net/ark:/27023/61e0a095d7d245910e03e68c8b2fa0af> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/61e0a095d7d245910e03e68c8b2fa0af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61e0a095d7d245910e03e68c8b2fa0af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/8" .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#identifier> "nf%201398-8" .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#name> "Boeren bij de rijstaanplant" .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart, in kleur, rechthoekig, met gedeelde achterkant.\r\nOp achterkant gedrukt: 'Aus dem Kalender \"Junge Kunst aus Bali\" en \r\n'Copyright 1970 by Pandion Verlag, 655 Bad Kreuznach, W.-Germany'\r\n\r\nVoorkant toont een voorstelling in kleur, me" .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#creator> "Pandion Verlag" .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61c73fa4a9ac5c80e87621c5c19aa3e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61c73fa4a9ac5c80e87621c5c19aa3e0> <https://colonialcollections.nl/schema#identifier> "nf%20419-15" .
 <https://n2t.net/ark:/27023/61c73fa4a9ac5c80e87621c5c19aa3e0> <https://colonialcollections.nl/schema#description> "Noordkust van Noesa Kambangan" .
@@ -129,13 +159,6 @@
 <https://n2t.net/ark:/27023/61eace7e6dfdf473c29628ec95301c77> <https://colonialcollections.nl/schema#inscription> "TRI Djaga Duty 93 + katakana; No 3. Dines Kamp Gadjah Mada" .
 <https://n2t.net/ark:/27023/61eace7e6dfdf473c29628ec95301c77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61eace7e6dfdf473c29628ec95301c77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-18" .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#name> "57. De Kalédong en de Haroemén in de vlakte van Lélés" .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#description> "Schoolplaat. 57. De Kalédong en de Haroemén in de vlakte van Lélés." .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#inscription> "57. De Kalédong en de Haroemén in de vlakte van Lélés." .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/61c3c3e32eeabb0ec8a8d42029cdf18b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61afa1dcbd0774ccb3207ddbf0d12dbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61afa1dcbd0774ccb3207ddbf0d12dbf> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-285" .
 <https://n2t.net/ark:/27023/61afa1dcbd0774ccb3207ddbf0d12dbf> <https://colonialcollections.nl/schema#name> "Attila soldaat 1e klasse Artillerie" .
@@ -508,24 +531,6 @@
 <https://n2t.net/ark:/27023/61f32c48895f6c866cc41d2394dd5a9a> <https://colonialcollections.nl/schema#description> "Foto's afkomstig uit nalatenschap van soldaat H.J. Beverdam (1928-1948)." .
 <https://n2t.net/ark:/27023/61f32c48895f6c866cc41d2394dd5a9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61f32c48895f6c866cc41d2394dd5a9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#identifier> "2005/00-607/29" .
-<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#name> "Foto van vrouw staand met parasol de waterkering in Pematang-Siantar" .
-<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#description> "Foto, zw/w. vrouw met parasol staande bij de waterkering te Pametang-Siantar. op de achtergrond een brug.\r\n\r\nverso: in potlood \"photo genomen Juli 1930 waterpaal/kristalijs P.Siantar Sumatra-oostkust\"" .
-<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/61d432e3f587c3af868388401ef053bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/8" .
-<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
-<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/61e4174caa45aaea36abe0e1cb4c8d13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#identifier> "nf%201398-8" .
-<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#name> "Boeren bij de rijstaanplant" .
-<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart, in kleur, rechthoekig, met gedeelde achterkant.\r\nOp achterkant gedrukt: 'Aus dem Kalender \"Junge Kunst aus Bali\" en \r\n'Copyright 1970 by Pandion Verlag, 655 Bad Kreuznach, W.-Germany'\r\n\r\nVoorkant toont een voorstelling in kleur, me" .
-<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/61eec82f6ff759583c59cf745e9f775a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61afa7e551e99511ba263b32cd16cb4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61afa7e551e99511ba263b32cd16cb4d> <https://colonialcollections.nl/schema#identifier> "S%20230-506" .
 <https://n2t.net/ark:/27023/61afa7e551e99511ba263b32cd16cb4d> <https://colonialcollections.nl/schema#description> "Sigarenkoker met overschuivend deksel.\r\nHerkomst: Riau archipel." .

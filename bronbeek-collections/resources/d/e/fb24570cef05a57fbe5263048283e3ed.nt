@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/72" .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#name> "Plaat 72. De Boven-Singkel, beneden djamboer Laq-laq." .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 72. De Boven-Singkel, beneden djamboer Laq-laq." .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#inscription> "Plaat 72. De Boven-Singkel, beneden djamboer Laq-laq." .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7d5f98188e89a1e38eca86f1e3fff4b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7d5f98188e89a1e38eca86f1e3fff4b9> <https://colonialcollections.nl/schema#identifier> "nf%20836-37-2" .
 <https://n2t.net/ark:/27023/7d5f98188e89a1e38eca86f1e3fff4b9> <https://colonialcollections.nl/schema#name> "Haven van Sabang 23.10.28" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/7d5f98188e89a1e38eca86f1e3fff4b9> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7d5f98188e89a1e38eca86f1e3fff4b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7d5f98188e89a1e38eca86f1e3fff4b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#identifier> "1997/04/18-1-1/2" .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#name> "Pamflet: \"Ha..Ha..Haa..!!! Andjing Belanda Jalah Djalan!!! (Gevonden aangeplakt op passer Tj. Batoe 12/11-´47 Kpl. Reefs.\")" .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#description> "Document. Pamflet: \"Ha..Ha..Haa..!!! Andjing Belanda Jalah Djalan!!! (Gevonden aangeplakt op passer Tj. Batoe 12/11-´47 Kpl. Reefs.\")\r\n\r\nAfkomstig uit :\r\nMap met titel: \"Authentieke documenten Akties Gadjah Merah\".\r\nBevat:\r\nDagrapport over 6 mei 194[6] Af" .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#creator> "Sukemi" .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7d6aed394586298efcb0a1ae54d46363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7d6aed394586298efcb0a1ae54d46363> <https://colonialcollections.nl/schema#identifier> "nf%20923" .
 <https://n2t.net/ark:/27023/7d6aed394586298efcb0a1ae54d46363> <https://colonialcollections.nl/schema#name> "Minangkabau's huis" .
@@ -16,9 +31,10 @@
 <https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/64" .
 <https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#name> "Residentielaan. Magelang" .
 <https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Residentielaan. Magelang" .
-<https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#creator> "W.& S.H." .
+<https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#creator> "N.V. H.V.Maresch, Magelang" .
 <https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7d7a4624431027cd0fac53ca4554f063> <https://colonialcollections.nl/schema#creator> "W.& S.H." .
 <https://n2t.net/ark:/27023/7d7f54e4d42cdd96ecd89f27cfbe9c7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7d7f54e4d42cdd96ecd89f27cfbe9c7b> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-1/11" .
 <https://n2t.net/ark:/27023/7d7f54e4d42cdd96ecd89f27cfbe9c7b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"Katholiek Thuisfront\"" .
@@ -85,6 +101,12 @@
 <https://n2t.net/ark:/27023/7d904c9956ba42700bbe8034d8e80f89> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7d904c9956ba42700bbe8034d8e80f89> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7d904c9956ba42700bbe8034d8e80f89> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#identifier> "nf%20841-72-1" .
+<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOpname van een heuvelachtig landschap. In een dal enige bebouwing.\r\n\r\nOnderschrift: \"Sibolga. (12 Nov. - 25 Nov. 1949)\"" .
+<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7d8c764dc9a093e97ec3010003f6e2c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7d8c764dc9a093e97ec3010003f6e2c4> <https://colonialcollections.nl/schema#identifier> "2000/01/19-1-3" .
 <https://n2t.net/ark:/27023/7d8c764dc9a093e97ec3010003f6e2c4> <https://colonialcollections.nl/schema#name> "Afscheidsdoek Frans van den Dungen, 1937" .
@@ -99,13 +121,6 @@
 <https://n2t.net/ark:/27023/7d9eed67b8d8a796a618da64f5a701c3> <https://colonialcollections.nl/schema#inscription> "Bali 1846; Bali 1849; Boni 1859; Atjeh 1873-1874" .
 <https://n2t.net/ark:/27023/7d9eed67b8d8a796a618da64f5a701c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7d9eed67b8d8a796a618da64f5a701c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/72" .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#name> "Plaat 72. De Boven-Singkel, beneden djamboer Laq-laq." .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 72. De Boven-Singkel, beneden djamboer Laq-laq." .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#inscription> "Plaat 72. De Boven-Singkel, beneden djamboer Laq-laq." .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7d7b0e0fc3a6b8b0cd17cd6b354ed4b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7d5dee97c1c3926f262e8d3024e37814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7d5dee97c1c3926f262e8d3024e37814> <https://colonialcollections.nl/schema#identifier> "1996/06/17-3-14" .
 <https://n2t.net/ark:/27023/7d5dee97c1c3926f262e8d3024e37814> <https://colonialcollections.nl/schema#name> "Foto Magelang" .
@@ -556,12 +571,6 @@
 <https://n2t.net/ark:/27023/7da725c3ec2d9da1fe0a9e370f789e81> <https://colonialcollections.nl/schema#description> "Clips met vijf patronen, kaliber .303" .
 <https://n2t.net/ark:/27023/7da725c3ec2d9da1fe0a9e370f789e81> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7da725c3ec2d9da1fe0a9e370f789e81> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#identifier> "1997/04/18-1-1/2" .
-<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#name> "Pamflet: \"Ha..Ha..Haa..!!! Andjing Belanda Jalah Djalan!!! (Gevonden aangeplakt op passer Tj. Batoe 12/11-´47 Kpl. Reefs.\")" .
-<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#description> "Document. Pamflet: \"Ha..Ha..Haa..!!! Andjing Belanda Jalah Djalan!!! (Gevonden aangeplakt op passer Tj. Batoe 12/11-´47 Kpl. Reefs.\")\r\n\r\nAfkomstig uit :\r\nMap met titel: \"Authentieke documenten Akties Gadjah Merah\".\r\nBevat:\r\nDagrapport over 6 mei 194[6] Af" .
-<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7d683820521a73afcee76e0f6a453d17> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7d624c99c0abcd88c7e3c29481b41194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7d624c99c0abcd88c7e3c29481b41194> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-27/76" .
 <https://n2t.net/ark:/27023/7d624c99c0abcd88c7e3c29481b41194> <https://colonialcollections.nl/schema#description> "Foto." .
@@ -597,8 +606,3 @@
 <https://n2t.net/ark:/27023/7d9184da755c6d5e235c077eb157b450> <https://colonialcollections.nl/schema#description> "Glasnegatief, rechthoekig, zwart/wit tinten.\r\n\r\nOpname toont een kamer met rechts in bed een blanke vrouw met baby. Naast haar staat een groot boeket. Waarschijnlijk is de vrouw kort ervoor bevallen." .
 <https://n2t.net/ark:/27023/7d9184da755c6d5e235c077eb157b450> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7d9184da755c6d5e235c077eb157b450> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#identifier> "nf%20841-72-1" .
-<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOpname van een heuvelachtig landschap. In een dal enige bebouwing.\r\n\r\nOnderschrift: \"Sibolga. (12 Nov. - 25 Nov. 1949)\"" .
-<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7d94e340b9b473524725a736c7f04784> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

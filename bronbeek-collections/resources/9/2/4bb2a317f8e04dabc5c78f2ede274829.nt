@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/6a5a6491e89e9bd5404623fa354fefea> <https://colonialcollections.nl/schema#creator> "Hansje van Waardenburg" .
 <https://n2t.net/ark:/27023/6a5a6491e89e9bd5404623fa354fefea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a5a6491e89e9bd5404623fa354fefea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-15" .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#name> "Senen Batavia.C." .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. Zwart-wit. 'Senen Batavia.C.'" .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#inscription> "Senen Batavia.C." .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#creator> "Jat San, Batavia-Centrum" .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a39b6f2a608007a8008160e9a732129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a39b6f2a608007a8008160e9a732129> <https://colonialcollections.nl/schema#identifier> "1994/06/20-2-8/1" .
 <https://n2t.net/ark:/27023/6a39b6f2a608007a8008160e9a732129> <https://colonialcollections.nl/schema#name> "Telefoongids Bandoeng april 1949" .
@@ -13,6 +21,27 @@
 <https://n2t.net/ark:/27023/6a39b6f2a608007a8008160e9a732129> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/6a39b6f2a608007a8008160e9a732129> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a39b6f2a608007a8008160e9a732129> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#identifier> "2005/10/13-2-4/4" .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#name> "De Javasche Bank te Batavia" .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. De Javasche Bank te Batavia.\r\nGericht aan fam. Bosmans te Nijmegen. Gestempeld Veldpost Batavia 1947." .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#creator> "John Kappee" .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/32" .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#name> "Auto" .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#description> "Auto" .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/88" .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: J. van Swieten, zoon van Lt.Gen. J. v. Swieten.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a5401046302439720b36f2c697220e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a5401046302439720b36f2c697220e4> <https://colonialcollections.nl/schema#identifier> "IB2016/09/27-2" .
 <https://n2t.net/ark:/27023/6a5401046302439720b36f2c697220e4> <https://colonialcollections.nl/schema#name> "Beeldhouwwerk liggend vrouwelijk naakt getiteld \"Derelicta\"" .
@@ -27,6 +56,13 @@
 <https://n2t.net/ark:/27023/6a6c011f9ecd9de16da545e8e7a7e8cc> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/6a6c011f9ecd9de16da545e8e7a7e8cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a6c011f9ecd9de16da545e8e7a7e8cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#identifier> "nf%201315-4" .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#name> "Omstreken van Bandoeng - Lèlès" .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a7f34b30821048d8c32e47c77a7ecb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a7f34b30821048d8c32e47c77a7ecb5> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-10" .
 <https://n2t.net/ark:/27023/6a7f34b30821048d8c32e47c77a7ecb5> <https://colonialcollections.nl/schema#name> "Landkaart Simo" .
@@ -109,13 +145,6 @@
 <https://n2t.net/ark:/27023/6a3f8329887c742999c453b1bd8206ac> <https://colonialcollections.nl/schema#inscription> "Wanneer kom je met verlof?" .
 <https://n2t.net/ark:/27023/6a3f8329887c742999c453b1bd8206ac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a3f8329887c742999c453b1bd8206ac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-15" .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#name> "Senen Batavia.C." .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. Zwart-wit. 'Senen Batavia.C.'" .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#inscription> "Senen Batavia.C." .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a90f7ffe1b20bc6619214dde8a6a234> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a3b37f0a4aab7efb9f3875c248b6cc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a3b37f0a4aab7efb9f3875c248b6cc9> <https://colonialcollections.nl/schema#identifier> "2013/02/04-15-1/61" .
 <https://n2t.net/ark:/27023/6a3b37f0a4aab7efb9f3875c248b6cc9> <https://colonialcollections.nl/schema#name> "\"Danseresjes. (Slametan in Ngadiwono).\"" .
@@ -518,30 +547,6 @@
 <https://n2t.net/ark:/27023/6a933d4d345ba183eaeecf06d44f70b8> <https://colonialcollections.nl/schema#description> "Zakdoek op karton geplakt. Met gekleurd garen in de vier hoeken geborduurd: 'Dick', 'Wytze', 'Jan Piet', 'Robby'. In het midden van de zakdoek 'O.K.'. In de hoerlpunt bij 'Jan Piet 'is een dierenkop geborduurd met de letters \"JPDR'. \r\nLangs de randen deel" .
 <https://n2t.net/ark:/27023/6a933d4d345ba183eaeecf06d44f70b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a933d4d345ba183eaeecf06d44f70b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#identifier> "2005/10/13-2-4/4" .
-<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#name> "De Javasche Bank te Batavia" .
-<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. De Javasche Bank te Batavia.\r\nGericht aan fam. Bosmans te Nijmegen. Gestempeld Veldpost Batavia 1947." .
-<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a3c6e5d93c3c96c0ffdedbadc5b674b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/32" .
-<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#name> "Auto" .
-<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#description> "Auto" .
-<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a4cfa8a8edb02c84386359466ca39cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/88" .
-<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: J. van Swieten, zoon van Lt.Gen. J. v. Swieten.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
-<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a4d69a82795a3a977d74d0561929ca6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#identifier> "nf%201315-4" .
-<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#name> "Omstreken van Bandoeng - Lèlès" .
-<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a7ebe4d343161780d5077b9188b20cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a440c68f21fac701df8bbd5a5298d16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a440c68f21fac701df8bbd5a5298d16> <https://colonialcollections.nl/schema#identifier> "nf%201354-41-3" .
 <https://n2t.net/ark:/27023/6a440c68f21fac701df8bbd5a5298d16> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nGeen tekst op achterkant.\r\n\r\nOpname toont drie blanke personen, twee mannen en een vrouw, zittend in rieten (tuin)fauteuils, bij een tafel. Alles zo maar midden in de tuin.\r\nAchter he" .

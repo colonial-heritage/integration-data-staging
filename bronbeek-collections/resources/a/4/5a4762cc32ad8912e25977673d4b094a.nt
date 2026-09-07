@@ -6,6 +6,22 @@
 <https://n2t.net/ark:/27023/0d7e03c8549a8dd436fd4625ae8f2b1c> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/0d7e03c8549a8dd436fd4625ae8f2b1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d7e03c8549a8dd436fd4625ae8f2b1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#identifier> "1885/09-1-32" .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#name> "Her Majesty the Queen" .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#description> "Prent: Her Majesty the Queen.\r\n\"To Her Royal Highness the Duchess of Kent this Portrait of Her Majesty The Queen, is with special permission most respectfully dedicated by Her Royal Higness most devoted & obedient humble Servt. Fras. Grahm. Moon.\", \"Publi" .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#inscription> "\"To Her Royal Highness the Duchess of Kent this Portrait of Her Majesty The Queen, is with special permission most respectfully dedicated by Her Royal Higness most devoted & obedient humble Servt. Fras. Grahm. Moon.\", \"Published April 11, 1838, by F.G. Moon, Printseller by special appointment to her Majesty & H.R.H. The Duchess of Kent, 20, Threadneedlestreet.\"" .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#creator> "F.G. Moon" .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/3" .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#name> "Generaal-majoor Rost van Tonningen (links te paard) keert met zijn troepen terug naar Sanoer na een actie vanuit deze plaats" .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nGeneraal-majoor Rost van Tonningen (links te paard) keert met zijn troepen terug naar Sanoer na een actie vanuit deze plaats." .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <https://colonialcollections.nl/schema#identifier> "nf%201473-13" .
 <https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <https://colonialcollections.nl/schema#name> "Bron van de Progo rivier, Java" .
@@ -13,6 +29,7 @@
 <https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0d974c284efac0e7ecc74dd029453147> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/0d9f53b81d46bfd31cd3fca5dfa36d84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d9f53b81d46bfd31cd3fca5dfa36d84> <https://colonialcollections.nl/schema#identifier> "nf%2031" .
 <https://n2t.net/ark:/27023/0d9f53b81d46bfd31cd3fca5dfa36d84> <https://colonialcollections.nl/schema#name> "groep kinderen voor een boom" .
@@ -27,6 +44,7 @@
 <https://n2t.net/ark:/27023/0da25afb480f14d2d89a87f0e9adeef3> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0da25afb480f14d2d89a87f0e9adeef3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0da25afb480f14d2d89a87f0e9adeef3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0da25afb480f14d2d89a87f0e9adeef3> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/0da2686fbfbb66c36eccc7078ce75b55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0da2686fbfbb66c36eccc7078ce75b55> <https://colonialcollections.nl/schema#identifier> "nf%20925-23-3" .
 <https://n2t.net/ark:/27023/0da2686fbfbb66c36eccc7078ce75b55> <https://colonialcollections.nl/schema#name> "hè!" .
@@ -34,6 +52,20 @@
 <https://n2t.net/ark:/27023/0da2686fbfbb66c36eccc7078ce75b55> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0da2686fbfbb66c36eccc7078ce75b55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0da2686fbfbb66c36eccc7078ce75b55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#identifier> "2016/04/20-1-4" .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#name> "Portret van Pangeran Ario Soerio Ningrat" .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#description> "Foto in lijst. Portret in vol ceremonieel kostuum van Pangeran Ar Soeyodinigrat, prins van Djokjakarta.Gefotografeerd tijdens zijn bezoek aan Nederland in mei 1926 door J. van Wijk & Co, Den Haag.\r\nPortret is gesigneerd en beschreven met de tekst:\"Aangebo" .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#creator> "Atelier Jac. van Wijk & Co. Den Haag" .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-4" .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#name> "Landschap op Sumatra" .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#description> "Tekening in waterverf, gesigneerd A. Mortier-Ramus. Zonder lijst." .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#creator> "A. Mortier-Ramus" .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d8831663d3c39dc4a0df8f9bc960294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d8831663d3c39dc4a0df8f9bc960294> <https://colonialcollections.nl/schema#identifier> "nf%20842-674" .
 <https://n2t.net/ark:/27023/0d8831663d3c39dc4a0df8f9bc960294> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BH 37 t/m 72. Deze slede is opgeborgen in grijze doos met lichtgrijs deksel, gemerkt met BH, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BH 68, in potlood EP 20.\r\n\r\nOpnam" .
@@ -116,20 +148,6 @@
 <https://n2t.net/ark:/27023/0d9dc1a72cc325d6525d05d6c74edae1> <https://colonialcollections.nl/schema#inscription> "Op kling IJzerhouwer" .
 <https://n2t.net/ark:/27023/0d9dc1a72cc325d6525d05d6c74edae1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0d9dc1a72cc325d6525d05d6c74edae1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#identifier> "1885/09-1-32" .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#name> "Her Majesty the Queen" .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#description> "Prent: Her Majesty the Queen.\r\n\"To Her Royal Highness the Duchess of Kent this Portrait of Her Majesty The Queen, is with special permission most respectfully dedicated by Her Royal Higness most devoted & obedient humble Servt. Fras. Grahm. Moon.\", \"Publi" .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#inscription> "\"To Her Royal Highness the Duchess of Kent this Portrait of Her Majesty The Queen, is with special permission most respectfully dedicated by Her Royal Higness most devoted & obedient humble Servt. Fras. Grahm. Moon.\", \"Published April 11, 1838, by F.G. Moon, Printseller by special appointment to her Majesty & H.R.H. The Duchess of Kent, 20, Threadneedlestreet.\"" .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0d7fb21d233dc64210d04ecbf6c20014> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/3" .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#name> "Generaal-majoor Rost van Tonningen (links te paard) keert met zijn troepen terug naar Sanoer na een actie vanuit deze plaats" .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nGeneraal-majoor Rost van Tonningen (links te paard) keert met zijn troepen terug naar Sanoer na een actie vanuit deze plaats." .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0da39306a94ad5c19f80f58fcc80a35f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d7c87b80551f2e49ae11bced4d6e4b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d7c87b80551f2e49ae11bced4d6e4b8> <https://colonialcollections.nl/schema#identifier> "2012/03/20-3-31/17" .
 <https://n2t.net/ark:/27023/0d7c87b80551f2e49ae11bced4d6e4b8> <https://colonialcollections.nl/schema#name> "Foto's,  \"Geboortefuif Prinses Beatrix\" en groepsportretten" .
@@ -538,18 +556,6 @@
 <https://n2t.net/ark:/27023/0dbeb82682ffc4a6c64ffdc0fef5d920> <https://colonialcollections.nl/schema#description> "Foto's diensttijd." .
 <https://n2t.net/ark:/27023/0dbeb82682ffc4a6c64ffdc0fef5d920> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0dbeb82682ffc4a6c64ffdc0fef5d920> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#identifier> "2016/04/20-1-4" .
-<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#name> "Portret van Pangeran Ario Soerio Ningrat" .
-<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#description> "Foto in lijst. Portret in vol ceremonieel kostuum van Pangeran Ar Soeyodinigrat, prins van Djokjakarta.Gefotografeerd tijdens zijn bezoek aan Nederland in mei 1926 door J. van Wijk & Co, Den Haag.\r\nPortret is gesigneerd en beschreven met de tekst:\"Aangebo" .
-<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0dadab21cca1be3a15297f7cd7d30f16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-4" .
-<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#name> "Landschap op Sumatra" .
-<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#description> "Tekening in waterverf, gesigneerd A. Mortier-Ramus. Zonder lijst." .
-<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0db9f80d5bdb1b8bd2c3f5020fd0c373> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0d7bcda475333f8b4134d94cbf05380c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d7bcda475333f8b4134d94cbf05380c> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44447" .
 <https://n2t.net/ark:/27023/0d7bcda475333f8b4134d94cbf05380c> <https://colonialcollections.nl/schema#description> "Mes of speerpunt\r\n\r\nAfdeling:\tOceanië\r\nObjectnaam: speerpunt\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting: mes of speerpunt\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t4980\r\nBruikleen van: Gemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[4" .

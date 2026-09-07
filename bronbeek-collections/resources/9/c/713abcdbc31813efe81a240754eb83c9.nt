@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/5646024a3716bf1477ebcec8eb28af89> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/5646024a3716bf1477ebcec8eb28af89> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5646024a3716bf1477ebcec8eb28af89> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/7" .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/564cac652b744cfa959efb96dba22904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/564cac652b744cfa959efb96dba22904> <https://colonialcollections.nl/schema#identifier> "1977/03-1-18" .
 <https://n2t.net/ark:/27023/564cac652b744cfa959efb96dba22904> <https://colonialcollections.nl/schema#name> "Indisch huisje" .
@@ -26,6 +33,7 @@
 <https://n2t.net/ark:/27023/564ead3d370d7f03e30dca9658b528fa> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/564ead3d370d7f03e30dca9658b528fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/564ead3d370d7f03e30dca9658b528fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/564ead3d370d7f03e30dca9658b528fa> <https://colonialcollections.nl/schema#creator> "J.C. Becker (Bandoeng, Java)" .
 <https://n2t.net/ark:/27023/56576a1b74280de48b1774728b35bcf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/56576a1b74280de48b1774728b35bcf7> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/3" .
 <https://n2t.net/ark:/27023/56576a1b74280de48b1774728b35bcf7> <https://colonialcollections.nl/schema#name> "Bewoners Bronbeek." .
@@ -33,6 +41,13 @@
 <https://n2t.net/ark:/27023/56576a1b74280de48b1774728b35bcf7> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/56576a1b74280de48b1774728b35bcf7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/56576a1b74280de48b1774728b35bcf7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#identifier> "2005/00-607/7" .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#name> "Foto weg langs loof- en palmbos waarop man met jukj en man geleund tegen een boom." .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#description> "Foto, zw/w.  Weg lopend langs loof- en palmbos waarop zich enkele mensen bevinden, eén met juk en één staand tegen een boom. \r\n\r\nrecto: in witte inkt \"Mohd. Dar didjalan Na[....] Bedagai\"\r\nverso: in potlood \"photogenomen Augustus 1930 begraafe[......]\"" .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5626b8d6ad066163e4db69cc1c6ed250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5626b8d6ad066163e4db69cc1c6ed250> <https://colonialcollections.nl/schema#identifier> "nf%20842-581" .
 <https://n2t.net/ark:/27023/5626b8d6ad066163e4db69cc1c6ed250> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BD 72 t/m 100.  Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BD, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BD 82, in potlood EE 36" .
@@ -527,18 +542,6 @@
 <https://n2t.net/ark:/27023/566bfcc12ef68bb6b0d6e5b4f2adcdf2> <https://colonialcollections.nl/schema#description> "Sjerp; onderdeel van een schenking bestaande uit een aantal eretekens met brevetten en een sjerp (Thieme inv.nr. 1580)." .
 <https://n2t.net/ark:/27023/566bfcc12ef68bb6b0d6e5b4f2adcdf2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/566bfcc12ef68bb6b0d6e5b4f2adcdf2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/7" .
-<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
-<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5647b17789066454993682ad5e824a2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#identifier> "2005/00-607/7" .
-<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#name> "Foto weg langs loof- en palmbos waarop man met jukj en man geleund tegen een boom." .
-<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#description> "Foto, zw/w.  Weg lopend langs loof- en palmbos waarop zich enkele mensen bevinden, eén met juk en één staand tegen een boom. \r\n\r\nrecto: in witte inkt \"Mohd. Dar didjalan Na[....] Bedagai\"\r\nverso: in potlood \"photogenomen Augustus 1930 begraafe[......]\"" .
-<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5667862dfb0676340a351727f32fa7cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5626a7e3e2ae908eaf9fb2253e8f83f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5626a7e3e2ae908eaf9fb2253e8f83f1> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42172" .
 <https://n2t.net/ark:/27023/5626a7e3e2ae908eaf9fb2253e8f83f1> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoofdband\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tL 24.5, Br 19.2, D 1.3\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2705\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2705] Depot, " .

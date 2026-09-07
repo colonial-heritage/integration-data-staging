@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/22" .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#name> "Het logeergebouw, tevens goedang voor buskruit en schatkamer, vermoedelijk in de tweede binnenplaats van de poeri te Den Pasar" .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nHet logeergebouw, tevens goedang voor buskruit en schatkamer, vermoedelijk in de tweede binnenplaats van de poeri te Den Pasar." .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/26" .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#name> "Noordwijk te Weltevreden" .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Noordwijk te Weltevreden'" .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#inscription> "Noordwijk te Weltevreden" .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#identifier> "1999/03/23-2-26" .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#name> "Foto van poster \"Fongers, in gebruik bij het Nederlandsche en Nederlandsch Indische Leger\"" .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#description> "Foto van poster met KNIL-militair op een fiets: \"Fongers, in gebruik bij het Nederlandsche en Nederlandsch Indische Leger\", van F.G. Schlette, Lith. J. Beertha Gron.\" C.a 1915.\r\n\r\nOp achterzijde: \"J.G. Kerkhoff\" & \"Soldaat K.N.I.L. 1894-1905\"" .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#creator> "F.G. Schlette" .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55aa75288b6fbae42b4d3d93a8677cdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55aa75288b6fbae42b4d3d93a8677cdd> <https://colonialcollections.nl/schema#identifier> "nf%20834-10" .
 <https://n2t.net/ark:/27023/55aa75288b6fbae42b4d3d93a8677cdd> <https://colonialcollections.nl/schema#name> "Flores Inlanders terug v/d hertenjacht" .
@@ -5,6 +28,20 @@
 <https://n2t.net/ark:/27023/55aa75288b6fbae42b4d3d93a8677cdd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/55aa75288b6fbae42b4d3d93a8677cdd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/55aa75288b6fbae42b4d3d93a8677cdd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-2/4" .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#name> "Foto´s, prentbriefkaarten Nederlandsche Stoomvaart Maatschappij, 5 stuks" .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#description> "Foto´s, prentbriefkaarten (vermoedelijk vooroorlogs) Nederlandsche Stoomvaart Maatschappij, 5 stuks:\r\nSuez, Egypte\r\nBatavia Kongi besar (Chinatown)\r\nSolo Pasar\r\nBuitenzorg Paleis GG\r\nSchip Stoomvaartmaatschappij\r\n\r\nFoto´s gemaakt door fotograaf/journalist" .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#creator> "Dhr. Bartel Hartwiesen" .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/44" .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#name> "Dorp bij viersprong, op voorgrond een kar getrokken door een os (?)" .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#description> "Dorp bij viersprong, op voorgrond een kar getrokken door een os (?)." .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55baf12b0df26963b66b6cf9e80d1ddd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55baf12b0df26963b66b6cf9e80d1ddd> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/27" .
 <https://n2t.net/ark:/27023/55baf12b0df26963b66b6cf9e80d1ddd> <https://colonialcollections.nl/schema#name> "Landvoogd van Mook inspecteert met generaal-majoor De Quant, generaal-majoor Buurman van Vreeden en vice-admiraal Pinke de opgestelde troepen tijdens de viering van het 200-jarige bestaan van het Korps Mineurs en Sappeurs, Batavia" .
@@ -71,20 +108,6 @@
 <https://n2t.net/ark:/27023/55c82a614068f39bd4daf680e9f3d564> <https://colonialcollections.nl/schema#inscription> "Mustang vliegt over Inlandse vissersboot - Vliegmedische Dienst C.V.M.D. Bandoeng" .
 <https://n2t.net/ark:/27023/55c82a614068f39bd4daf680e9f3d564> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/55c82a614068f39bd4daf680e9f3d564> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/22" .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#name> "Het logeergebouw, tevens goedang voor buskruit en schatkamer, vermoedelijk in de tweede binnenplaats van de poeri te Den Pasar" .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nHet logeergebouw, tevens goedang voor buskruit en schatkamer, vermoedelijk in de tweede binnenplaats van de poeri te Den Pasar." .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55b2dc61c45694db58d9de0b28a37b14> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/26" .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#name> "Noordwijk te Weltevreden" .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Noordwijk te Weltevreden'" .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#inscription> "Noordwijk te Weltevreden" .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55c3a6bb48cf0b919d758f1b39debf4e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/558d690b0071b0f1d512cbda9bcff421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/558d690b0071b0f1d512cbda9bcff421> <https://colonialcollections.nl/schema#identifier> "nf%20841-21-1" .
 <https://n2t.net/ark:/27023/558d690b0071b0f1d512cbda9bcff421> <https://colonialcollections.nl/schema#name> "Een visje van 7 pond" .
@@ -523,24 +546,6 @@
 <https://n2t.net/ark:/27023/55cecad8604c1c2fc69d72dda9e7dc09> <https://colonialcollections.nl/schema#description> "Rangonderscheidingsteken. Chevron van Sergeant. (1 stuk)" .
 <https://n2t.net/ark:/27023/55cecad8604c1c2fc69d72dda9e7dc09> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/55cecad8604c1c2fc69d72dda9e7dc09> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#identifier> "1999/03/23-2-26" .
-<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#name> "Foto van poster \"Fongers, in gebruik bij het Nederlandsche en Nederlandsch Indische Leger\"" .
-<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#description> "Foto van poster met KNIL-militair op een fiets: \"Fongers, in gebruik bij het Nederlandsche en Nederlandsch Indische Leger\", van F.G. Schlette, Lith. J. Beertha Gron.\" C.a 1915.\r\n\r\nOp achterzijde: \"J.G. Kerkhoff\" & \"Soldaat K.N.I.L. 1894-1905\"" .
-<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5597583f672f841c6f91c32982f5d7c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-2/4" .
-<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#name> "Foto´s, prentbriefkaarten Nederlandsche Stoomvaart Maatschappij, 5 stuks" .
-<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#description> "Foto´s, prentbriefkaarten (vermoedelijk vooroorlogs) Nederlandsche Stoomvaart Maatschappij, 5 stuks:\r\nSuez, Egypte\r\nBatavia Kongi besar (Chinatown)\r\nSolo Pasar\r\nBuitenzorg Paleis GG\r\nSchip Stoomvaartmaatschappij\r\n\r\nFoto´s gemaakt door fotograaf/journalist" .
-<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55b3c9c9982b9b287e43d7165e99255d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/44" .
-<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#name> "Dorp bij viersprong, op voorgrond een kar getrokken door een os (?)" .
-<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#description> "Dorp bij viersprong, op voorgrond een kar getrokken door een os (?)." .
-<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55b4716433691f2bcc654ab995d63bd0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5594cc7bd09d8896cd2d16df172b43bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5594cc7bd09d8896cd2d16df172b43bc> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-4" .
 <https://n2t.net/ark:/27023/5594cc7bd09d8896cd2d16df172b43bc> <https://colonialcollections.nl/schema#description> "Foto op karton." .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/61" .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#name> "Plaat 61. Tampéng. Schietstand in de Z.O. saillant." .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 61. Tampéng. Schietstand in de Z.O. saillant." .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#inscription> "Plaat 61. Tampéng. Schietstand in de Z.O. saillant." .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/3" .
 <https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
@@ -5,6 +13,15 @@
 <https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b3af128b7bb5e41e296f40abb1746486> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#identifier> "2005/00-635/12" .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#name> "De Tjikaso-waterval ten zuiden van Soekaboemi op West-Java" .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#description> "Kalenderblad met rechtsboven een afbeelding van een \"Kalenderblad met linksboven een afbeelding van  \"De Tjikaso-waterval ten zuiden van Soekaboemi op West-Java\"\r\n\r\nMidden rechts: een der vele beeldwerken van de Boroboedoer, het machtige bouwwerk uit de g" .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#creator> "Indisch Instituut" .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#creator> "Dorco uitgave" .
 <https://n2t.net/ark:/27023/b3ba9486ee8a039f355ce336d3d406cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b3ba9486ee8a039f355ce336d3d406cf> <https://colonialcollections.nl/schema#identifier> "nf%20597-1" .
 <https://n2t.net/ark:/27023/b3ba9486ee8a039f355ce336d3d406cf> <https://colonialcollections.nl/schema#name> "Gezicht op de post Poelo-Raja" .
@@ -12,6 +29,13 @@
 <https://n2t.net/ark:/27023/b3ba9486ee8a039f355ce336d3d406cf> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b3ba9486ee8a039f355ce336d3d406cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3ba9486ee8a039f355ce336d3d406cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#identifier> "IB1966/03/03-1" .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal A.R.W. Gey van Pittius" .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#description> "portret van Adriaan Rudolph Willem Gey van Pittius, niet gedateerd \r\nzwarte lijst met vergulde bies" .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#creator> "Mw. Thérèse Schwartze" .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b3cbefa475e753c1b6a89eb310a925f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b3cbefa475e753c1b6a89eb310a925f5> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/47" .
 <https://n2t.net/ark:/27023/b3cbefa475e753c1b6a89eb310a925f5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -53,13 +77,6 @@
 <https://n2t.net/ark:/27023/b3dc28161b26e5b08315255028148563> <https://colonialcollections.nl/schema#inscription> "Ander schip in ´t zicht" .
 <https://n2t.net/ark:/27023/b3dc28161b26e5b08315255028148563> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3dc28161b26e5b08315255028148563> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/61" .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#name> "Plaat 61. Tampéng. Schietstand in de Z.O. saillant." .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 61. Tampéng. Schietstand in de Z.O. saillant." .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#inscription> "Plaat 61. Tampéng. Schietstand in de Z.O. saillant." .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b3b06fc5a4701b763d136dc641d9217a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b39758380efdc84160a9159d56a074b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b39758380efdc84160a9159d56a074b8> <https://colonialcollections.nl/schema#identifier> "1996/05/03-2-6" .
 <https://n2t.net/ark:/27023/b39758380efdc84160a9159d56a074b8> <https://colonialcollections.nl/schema#name> "Noordkust Java Westervaarwater van Soerabaja" .
@@ -522,18 +539,6 @@
 <https://n2t.net/ark:/27023/b3e1658f3e05ffc8f3767ea58d96df65> <https://colonialcollections.nl/schema#description> "lange, cilindervormige trom met huid bespannen.\r\nHerkomst: eiland Nias, Sumatra." .
 <https://n2t.net/ark:/27023/b3e1658f3e05ffc8f3767ea58d96df65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3e1658f3e05ffc8f3767ea58d96df65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#identifier> "2005/00-635/12" .
-<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#name> "De Tjikaso-waterval ten zuiden van Soekaboemi op West-Java" .
-<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#description> "Kalenderblad met rechtsboven een afbeelding van een \"Kalenderblad met linksboven een afbeelding van  \"De Tjikaso-waterval ten zuiden van Soekaboemi op West-Java\"\r\n\r\nMidden rechts: een der vele beeldwerken van de Boroboedoer, het machtige bouwwerk uit de g" .
-<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b3b227c4cc8e739a3376967fd72f6bab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#identifier> "IB1966/03/03-1" .
-<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal A.R.W. Gey van Pittius" .
-<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#description> "portret van Adriaan Rudolph Willem Gey van Pittius, niet gedateerd \r\nzwarte lijst met vergulde bies" .
-<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b3c2b49eb825514e17a7855a111ee468> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b39cccfc670f911cc8aa7ef86a4d1baf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b39cccfc670f911cc8aa7ef86a4d1baf> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41828" .
 <https://n2t.net/ark:/27023/b39cccfc670f911cc8aa7ef86a4d1baf> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tschaal\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tkoper\r\n\r\nEmailadres: toelichting:\tKoperen schaal op een voet gegraveerd met geometrische figuren.\r\nAfmetingen:\tH 25.2, Diam 27.6\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t" .

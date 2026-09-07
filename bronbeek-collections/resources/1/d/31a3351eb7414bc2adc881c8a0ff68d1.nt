@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#identifier> "1885/09-1-34" .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#name> "Onbekende Ridder MWO. Waarschijnlijk luitenant-ter-zee der tweede klasse J.C.J. van Speijk (1802-1831)" .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#description> "Prent: Onbekende Ridder MWO. Waarschijnlijk luitenant-ter-zee der tweede klasse J.C.J. van Speijk (1802-1831).\r\n\"L.W.Pieneman pinx.\", \"W.Steelink. Deflet. Sculps\"42,7 x 59,5. Lichte vlekke, bruin.\r\nOpgeplakt op passepartout: 51,1 x 64,5cm. Prent losgesche" .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#inscription> "\"L.W.Pieneman pinx.\", \"W.Steelink. Deflet. Sculps\"" .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#creator> "J.W. Pieneman" .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#creator> "W. Steelink" .
 <https://n2t.net/ark:/27023/ba5bf61a8e75a6045fb9907444f85dd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba5bf61a8e75a6045fb9907444f85dd3> <https://colonialcollections.nl/schema#identifier> "2001/00-53-16" .
 <https://n2t.net/ark:/27023/ba5bf61a8e75a6045fb9907444f85dd3> <https://colonialcollections.nl/schema#name> "Gepakt bij het smokkelen van voedsel" .
@@ -5,6 +14,13 @@
 <https://n2t.net/ark:/27023/ba5bf61a8e75a6045fb9907444f85dd3> <https://colonialcollections.nl/schema#creator> "James Voûte" .
 <https://n2t.net/ark:/27023/ba5bf61a8e75a6045fb9907444f85dd3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba5bf61a8e75a6045fb9907444f85dd3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#identifier> "1882/01/13-1" .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#name> "Standbeeld van koning Willem II, held van Quatre-Bras, Waterloo, Hasselt en Leuven." .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#description> "Het beeld toont koning Willem II in generaalsuniform.\r\n\r\nTh.P. (Teus) Mejan MA, Medewerker Decoraties en Advies, Kanselarij der Nederlandse Orden, 4 september 2015 (via mail Niek Ravensbergen):\r\nDe prins is afgebeeld als Ridder Grootkruis der Militaire Wi" .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#creator> "Hornberger" .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba6712c17defd373064ba2e968dda8d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba6712c17defd373064ba2e968dda8d1> <https://colonialcollections.nl/schema#identifier> "nf%201802-1" .
 <https://n2t.net/ark:/27023/ba6712c17defd373064ba2e968dda8d1> <https://colonialcollections.nl/schema#name> "Roeiwedstrijden op de Brantas in Soerabaja" .
@@ -19,6 +35,13 @@
 <https://n2t.net/ark:/27023/ba6ff9c794f68add25fe6a533b0a658a> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/ba6ff9c794f68add25fe6a533b0a658a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba6ff9c794f68add25fe6a533b0a658a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#identifier> "nf%20881-3" .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#name> "SS. \"Patria\" op weg naar Holland-Sabang" .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart met een afbeelding van S.S. (stoomschip) Patria vertrekkend vanaf Sabang. Linksboven op de voorkant staat de tekst 'SS. \"Patria\" op weg naar Holland-Sabang'.\r\n\r\nOp de gedeelde achterkant staat overdwars 'P. Alberti, Sabang' en links" .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba7f9a8c654a3fd0ba166adf8bc49e44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba7f9a8c654a3fd0ba166adf8bc49e44> <https://colonialcollections.nl/schema#identifier> "nf%201359-3" .
 <https://n2t.net/ark:/27023/ba7f9a8c654a3fd0ba166adf8bc49e44> <https://colonialcollections.nl/schema#name> "Op de divan" .
@@ -34,6 +57,20 @@
 <https://n2t.net/ark:/27023/ba8191466f7b829e8db903721f246265> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/ba8191466f7b829e8db903721f246265> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba8191466f7b829e8db903721f246265> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#identifier> "2006/00-42-197/1" .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor N.L.W. van Straten, RMWO-4" .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van generaal-majoor N.L.W. van Straten RMWO-4, commandant van Bronbeek 1946-1955.\r\nVerso, stempel: Fotodienst De Spaarnestad etc. Fotograaf W. van der Randen. Copyright N.V. Drukkerij De Spaarbestad Haarlem-Holland. Reproductie ..." .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#identifier> "2012/11/28-5/9" .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#name> "Groepsfoto Koninklijke Landmacht Nederland" .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#description> "Groepsfoto Koninklijke Landmacht Nederland. In de foto ook Sergenat Treffers. Op achterzijde stempel: Fototechnisch Bureau W.S. Jaquet Arnhem, 4934-1." .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#creator> "Foto bureau W.S. Jaquet" .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba9076a1f769569c4277a22932c475aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba9076a1f769569c4277a22932c475aa> <https://colonialcollections.nl/schema#identifier> "2015/10/26-1" .
 <https://n2t.net/ark:/27023/ba9076a1f769569c4277a22932c475aa> <https://colonialcollections.nl/schema#name> "Schoolwandkaart Nederlands-Indië" .
@@ -41,6 +78,12 @@
 <https://n2t.net/ark:/27023/ba9076a1f769569c4277a22932c475aa> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/ba9076a1f769569c4277a22932c475aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba9076a1f769569c4277a22932c475aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#identifier> "nf%20323-26-1" .
+<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#description> "bijschrift; 'Bestuur van Endeh.'" .
+<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba6e077a8c8a40ef57fbd9f01a031d2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba6e077a8c8a40ef57fbd9f01a031d2e> <https://colonialcollections.nl/schema#identifier> "nf%20783-6" .
 <https://n2t.net/ark:/27023/ba6e077a8c8a40ef57fbd9f01a031d2e> <https://colonialcollections.nl/schema#description> "Weg in heuvelachtig landschap." .
@@ -79,13 +122,6 @@
 <https://n2t.net/ark:/27023/ba9567f812d2d68c974b7263f1ad9bef> <https://colonialcollections.nl/schema#inscription> "III -20929" .
 <https://n2t.net/ark:/27023/ba9567f812d2d68c974b7263f1ad9bef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba9567f812d2d68c974b7263f1ad9bef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#identifier> "1885/09-1-34" .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#name> "Onbekende Ridder MWO. Waarschijnlijk luitenant-ter-zee der tweede klasse J.C.J. van Speijk (1802-1831)" .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#description> "Prent: Onbekende Ridder MWO. Waarschijnlijk luitenant-ter-zee der tweede klasse J.C.J. van Speijk (1802-1831).\r\n\"L.W.Pieneman pinx.\", \"W.Steelink. Deflet. Sculps\"42,7 x 59,5. Lichte vlekke, bruin.\r\nOpgeplakt op passepartout: 51,1 x 64,5cm. Prent losgesche" .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#inscription> "\"L.W.Pieneman pinx.\", \"W.Steelink. Deflet. Sculps\"" .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba8e17bfe04133b7aa867533c8a2020f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba5d124aa95f9db32a82b2f498e9403c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba5d124aa95f9db32a82b2f498e9403c> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-37" .
 <https://n2t.net/ark:/27023/ba5d124aa95f9db32a82b2f498e9403c> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
@@ -470,30 +506,6 @@
 <https://n2t.net/ark:/27023/ba9a1ac9063df088b037147aec7d64d0> <https://colonialcollections.nl/schema#description> "Tijdschrift getiteld \"Nieuwstijdinghen voor Mineurs en Sappeurs te velde, 1 september 1948, no. 16 en 17, jaargang 1001.\r\nLegertentoonstellingsnummer" .
 <https://n2t.net/ark:/27023/ba9a1ac9063df088b037147aec7d64d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba9a1ac9063df088b037147aec7d64d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#identifier> "1882/01/13-1" .
-<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#name> "Standbeeld van koning Willem II, held van Quatre-Bras, Waterloo, Hasselt en Leuven." .
-<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#description> "Het beeld toont koning Willem II in generaalsuniform.\r\n\r\nTh.P. (Teus) Mejan MA, Medewerker Decoraties en Advies, Kanselarij der Nederlandse Orden, 4 september 2015 (via mail Niek Ravensbergen):\r\nDe prins is afgebeeld als Ridder Grootkruis der Militaire Wi" .
-<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba603d54546261b1e063ea0d21ec6226> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#identifier> "nf%20881-3" .
-<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#name> "SS. \"Patria\" op weg naar Holland-Sabang" .
-<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart met een afbeelding van S.S. (stoomschip) Patria vertrekkend vanaf Sabang. Linksboven op de voorkant staat de tekst 'SS. \"Patria\" op weg naar Holland-Sabang'.\r\n\r\nOp de gedeelde achterkant staat overdwars 'P. Alberti, Sabang' en links" .
-<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba7dd3d0fdf43e6fa69a5bcb0cd8d05a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#identifier> "2006/00-42-197/1" .
-<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor N.L.W. van Straten, RMWO-4" .
-<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van generaal-majoor N.L.W. van Straten RMWO-4, commandant van Bronbeek 1946-1955.\r\nVerso, stempel: Fotodienst De Spaarnestad etc. Fotograaf W. van der Randen. Copyright N.V. Drukkerij De Spaarbestad Haarlem-Holland. Reproductie ..." .
-<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba8a1240c628a450bc20b080c8d65d03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#identifier> "2012/11/28-5/9" .
-<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#name> "Groepsfoto Koninklijke Landmacht Nederland" .
-<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#description> "Groepsfoto Koninklijke Landmacht Nederland. In de foto ook Sergenat Treffers. Op achterzijde stempel: Fototechnisch Bureau W.S. Jaquet Arnhem, 4934-1." .
-<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba8db5b1d064f8e86f3622ef9b24556a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba61dee312aebe43f4811ab2c8b8d883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba61dee312aebe43f4811ab2c8b8d883> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41919" .
 <https://n2t.net/ark:/27023/ba61dee312aebe43f4811ab2c8b8d883> <https://colonialcollections.nl/schema#description> "Afdeling:\tMidden en Zuid Amerika\r\nObjectnaam:\tschaal\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2452\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2452] Depot, 1, M b [1 M b]" .
@@ -569,11 +581,6 @@
 <https://n2t.net/ark:/27023/ba8fb8ba1bc2ac87a35c64e63a081a04> <https://colonialcollections.nl/schema#description> "(kleur) beige;" .
 <https://n2t.net/ark:/27023/ba8fb8ba1bc2ac87a35c64e63a081a04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba8fb8ba1bc2ac87a35c64e63a081a04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#identifier> "nf%20323-26-1" .
-<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#description> "bijschrift; 'Bestuur van Endeh.'" .
-<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba6cf06fe39b842453cb63ffb789cb6f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba5cc0dde9f422fe39c80e74a8e654e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba5cc0dde9f422fe39c80e74a8e654e2> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-169" .
 <https://n2t.net/ark:/27023/ba5cc0dde9f422fe39c80e74a8e654e2> <https://colonialcollections.nl/schema#name> "Kris" .

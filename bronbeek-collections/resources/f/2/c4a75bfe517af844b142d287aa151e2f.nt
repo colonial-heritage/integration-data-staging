@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/61" .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#name> "Assistent-resident H.J.E.F. Schwartz en een poenggawa met zijn volgelingen te Tabanan" .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nAssistent-resident H.J.E.F. Schwartz en een poenggawa met zijn volgelingen te Tabanan." .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/95" .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#name> "Plaat 95. Afgodenbeelden bij Kampong Kenopen (Pak pak)." .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 95. Afgodenbeelden bij Kampong Kenopen (Pak pak)." .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#inscription> "Plaat 95. Afgodenbeelden bij Kampong Kenopen (Pak pak)." .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4ead9deec6ba00c82ef02d52d499347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4ead9deec6ba00c82ef02d52d499347> <https://colonialcollections.nl/schema#identifier> "2012/05/09-1-3/3" .
 <https://n2t.net/ark:/27023/c4ead9deec6ba00c82ef02d52d499347> <https://colonialcollections.nl/schema#name> "Expeditie op weg naar een vulkaanuitbarsting" .
@@ -6,6 +22,13 @@
 <https://n2t.net/ark:/27023/c4ead9deec6ba00c82ef02d52d499347> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/c4ead9deec6ba00c82ef02d52d499347> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4ead9deec6ba00c82ef02d52d499347> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/40" .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#name> "Marcherende militairen" .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#description> "Marcherende militairen." .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4af00af5d78d7474912b73490d9d56f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4af00af5d78d7474912b73490d9d56f> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/2-1" .
 <https://n2t.net/ark:/27023/c4af00af5d78d7474912b73490d9d56f> <https://colonialcollections.nl/schema#name> "No. 7. Station S.S. - Soerabaia- Kotta Soerabaia" .
@@ -17,10 +40,24 @@
 <https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#identifier> "2018/02/18-8-1" .
 <https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#name> "Coin Korps Barisan Tjakra Madoera KNIL" .
 <https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#description> "Relatiegeschenk Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek. Coin 3de serie goudkleurig metaal met onderdeelsembleem Korps Barisan Tjakra Madoera KNIL op een zwarte ondergrond. In bordeuarode rand de tekst in vlakreliëf Korps Barisan Tjakra M" .
-<https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#creator> "Kapitein der Mariniers A.L.F. Broers" .
+<https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
 <https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
+<https://n2t.net/ark:/27023/c4ba13f5ede8ec35202a683ec95d949c> <https://colonialcollections.nl/schema#creator> "Kapitein der Mariniers A.L.F. Broers" .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#identifier> "2017/03/20-3-3" .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#name> "Onderdeelsembleem Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek (KTOMM Bronbeek)" .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#description> "Onderdeelsembleem Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek (KTOMM). Machinaal geborduurd. Borstzakembleem.\r\nRond embleem van zwarte stof. Randen gefestonneerd. In het midden in kleur machinaal geborduurd een gekroonde zon met ovalen oranje" .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#creator> "Aviation Patch Supplies (APS) Soest" .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/25" .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#name> "Twee militairen staand/poserend op grasveld" .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#description> "Twee militairen staand/poserend op grasveld.\r\nOp achterkant geschreven \"Hofmeester Zierikzee en de Wit, Chauffeer 1948/49\"." .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/20" .
 <https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <https://colonialcollections.nl/schema#name> "Meer Mahsama." .
@@ -28,6 +65,7 @@
 <https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c4d408844eb1d6ad206ad3382a6b9414> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/c4dd4390f5fe5c0ec6eeb7b1b2fcd863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4dd4390f5fe5c0ec6eeb7b1b2fcd863> <https://colonialcollections.nl/schema#identifier> "nf%201357-43" .
 <https://n2t.net/ark:/27023/c4dd4390f5fe5c0ec6eeb7b1b2fcd863> <https://colonialcollections.nl/schema#name> "Cartagena - stadsmuur met muilezelkarren" .
@@ -63,9 +101,10 @@
 <https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#identifier> "nf%201777-1" .
 <https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'De nieuwe kinderzaal'\r\n\r\nOpname toont een gebouw met een golfplatendak. Er zijn veel openslaande- en openstaande deuren of ramen. Men kan bedden zien." .
-<https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c4b15f8fbf35937faebc181ec0947d5d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c4dc592fdc34efce16232ff6a4518997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4dc592fdc34efce16232ff6a4518997> <https://colonialcollections.nl/schema#identifier> "nf%20331-14" .
 <https://n2t.net/ark:/27023/c4dc592fdc34efce16232ff6a4518997> <https://colonialcollections.nl/schema#description> "onderschrift; 'Pop en mammie'" .
@@ -93,20 +132,6 @@
 <https://n2t.net/ark:/27023/c4e7a32c985545edf6bf133c5a04af17> <https://colonialcollections.nl/schema#inscription> "Aangeboden aan den Generaal Majoor R. Schuursma, aftredend Inspecteur der Artillerie door de officieren derArtillerie v/h Garnizoen Weltevreden op den 28ste september 1932" .
 <https://n2t.net/ark:/27023/c4e7a32c985545edf6bf133c5a04af17> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4e7a32c985545edf6bf133c5a04af17> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/61" .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#name> "Assistent-resident H.J.E.F. Schwartz en een poenggawa met zijn volgelingen te Tabanan" .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nAssistent-resident H.J.E.F. Schwartz en een poenggawa met zijn volgelingen te Tabanan." .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4b014f428e147d83df0adf2b8b40fa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/95" .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#name> "Plaat 95. Afgodenbeelden bij Kampong Kenopen (Pak pak)." .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 95. Afgodenbeelden bij Kampong Kenopen (Pak pak)." .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#inscription> "Plaat 95. Afgodenbeelden bij Kampong Kenopen (Pak pak)." .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4ea587caf9c55e49b13d01d8b9a9488> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4a39e2c68c831f13a9a78a413d92fb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4a39e2c68c831f13a9a78a413d92fb2> <https://colonialcollections.nl/schema#identifier> "2014/02/05-5-2/284" .
 <https://n2t.net/ark:/27023/c4a39e2c68c831f13a9a78a413d92fb2> <https://colonialcollections.nl/schema#name> "Foto 5-5 RI, periode 1948-1950" .
@@ -533,24 +558,6 @@
 <https://n2t.net/ark:/27023/c4e93e98f07ea807d7471ad2e88f3a38> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit, diensttijd J. Grimme 1949-1951 Nederlands-Indië/Indonesië. Bandoeng." .
 <https://n2t.net/ark:/27023/c4e93e98f07ea807d7471ad2e88f3a38> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4e93e98f07ea807d7471ad2e88f3a38> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/40" .
-<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#name> "Marcherende militairen" .
-<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#description> "Marcherende militairen." .
-<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4aab60484aa83cbffbe46bbaf03c1f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#identifier> "2017/03/20-3-3" .
-<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#name> "Onderdeelsembleem Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek (KTOMM Bronbeek)" .
-<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#description> "Onderdeelsembleem Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek (KTOMM). Machinaal geborduurd. Borstzakembleem.\r\nRond embleem van zwarte stof. Randen gefestonneerd. In het midden in kleur machinaal geborduurd een gekroonde zon met ovalen oranje" .
-<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4c3abd2912fdddb8a32cdab97f4d9ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/25" .
-<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#name> "Twee militairen staand/poserend op grasveld" .
-<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#description> "Twee militairen staand/poserend op grasveld.\r\nOp achterkant geschreven \"Hofmeester Zierikzee en de Wit, Chauffeer 1948/49\"." .
-<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4d1a15b9a02f679c4448fd01127625b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4a1429924ccde79720efb83d4959dab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4a1429924ccde79720efb83d4959dab> <https://colonialcollections.nl/schema#identifier> "S%203601" .
 <https://n2t.net/ark:/27023/c4a1429924ccde79720efb83d4959dab> <https://colonialcollections.nl/schema#description> "navelbreukband, langwerpig, rechthoekig, met opgenaaid middenstuk dat aan beide uiteinden is voorzien van 4 smalle sluitstroken" .

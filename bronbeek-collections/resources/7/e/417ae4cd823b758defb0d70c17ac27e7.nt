@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#identifier> "2003/00-18-8" .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#name> "Trouwe dienst in brons" .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#description> "Medaille. Aan lint. Trouwe Dienst in brons." .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#inscription> "Voor Trouwen Dienst" .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#creator> "I.P. Schouberg" .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <https://colonialcollections.nl/schema#identifier> "nf%20293" .
 <https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <https://colonialcollections.nl/schema#name> "Binnenhaven, Tegal" .
@@ -5,6 +13,14 @@
 <https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/61ff97041fb6caa74da8b714a4dcd138> <https://colonialcollections.nl/schema#creator> "J.D. de Boer" .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#identifier> "00265347" .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#name> "Foto bezoek Mangkoe Negoro VII" .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#description> "Foto zwart wit van bezoek van Mangkoe Negoro VII met gevolg aan Kamp Waalsdorp te Den Haag. Delegatie staat met Nederlandse officieren aangetreden voor barak No. 4. Mangkoe Negoro in uniform van kolonel titulair van het KNIL" .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#creator> "Fotopersbureau Gompers" .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/620ede62a8ccb418eac5891d0efd3f86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/620ede62a8ccb418eac5891d0efd3f86> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/396" .
 <https://n2t.net/ark:/27023/620ede62a8ccb418eac5891d0efd3f86> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -12,14 +28,21 @@
 <https://n2t.net/ark:/27023/620ede62a8ccb418eac5891d0efd3f86> <https://colonialcollections.nl/schema#creator> "Toko \"Agam\" Liem Sioe Yaam, Fort de Kock" .
 <https://n2t.net/ark:/27023/620ede62a8ccb418eac5891d0efd3f86> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/620ede62a8ccb418eac5891d0efd3f86> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-3/1" .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#name> "Groepsportret van 8 papoea mannen" .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#description> "Foto. Groep van 8 papoea-mannen op een rij" .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#creator> "Kino-Foto-Huis Würffel" .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#identifier> "2017/02/19-9-2" .
 <https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#name> "Oorlogsherinneringskruis met 2 gespen opgemaakt op het lint" .
 <https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#description> "Oorlogsherinneringskruis met de gespen Nederlandsch-Indië 1941-1942 en Oost-Azië - Zuid-Pacific 1943-1945 opgemaakt op het lint met baton met twee zevepuntige sterren." .
-<https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
+<https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
 <https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
+<https://n2t.net/ark:/27023/6229f5d1297e031dc72089cd43d5b8b5> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/61fec957be454673b8f86183c13b6b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61fec957be454673b8f86183c13b6b21> <https://colonialcollections.nl/schema#identifier> "nf%201855-6" .
 <https://n2t.net/ark:/27023/61fec957be454673b8f86183c13b6b21> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant getypte tekst: 'Baboe Siti 1930 Batavia' en in potlood: 'Siti Batavia'\r\n\r\nAfbeelding toont een Indonesische vrouw, gekleed in sarong en kabaja, poserend voor de foto. Achter haar de stam van een hoge boo" .
@@ -38,6 +61,12 @@
 <https://n2t.net/ark:/27023/6214d97fa4b9996fff7493193b8988f7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6214d97fa4b9996fff7493193b8988f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6214d97fa4b9996fff7493193b8988f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/5-1" .
+<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
+<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#creator> "Curt Teich & Co., Inc." .
+<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6226b1b6a8bdda6f01731658023ec947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6226b1b6a8bdda6f01731658023ec947> <https://colonialcollections.nl/schema#identifier> "nf%201918-102" .
 <https://n2t.net/ark:/27023/6226b1b6a8bdda6f01731658023ec947> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Duiker maken Kemoening Oct. '31'\r\n\r\nOpnames tonen een in aanbouw zijnde brug over een drooggevallen waterloop. In de bedding daarvan is een arbe" .
@@ -84,13 +113,6 @@
 <https://n2t.net/ark:/27023/6226c1733f0e641a4e73ffe4ef60e19b> <https://colonialcollections.nl/schema#inscription> "Andjing2 !!! Kembalilah Kepada Bangsamu Sebelum Terlambat. Semar." .
 <https://n2t.net/ark:/27023/6226c1733f0e641a4e73ffe4ef60e19b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6226c1733f0e641a4e73ffe4ef60e19b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#identifier> "2003/00-18-8" .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#name> "Trouwe dienst in brons" .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#description> "Medaille. Aan lint. Trouwe Dienst in brons." .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#inscription> "Voor Trouwen Dienst" .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/61f6872e21c2c13e36a862d885611aff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61f4c4919532ff30b685d06713cb21d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61f4c4919532ff30b685d06713cb21d1> <https://colonialcollections.nl/schema#identifier> "2006/00-33-9" .
 <https://n2t.net/ark:/27023/61f4c4919532ff30b685d06713cb21d1> <https://colonialcollections.nl/schema#name> "Rapport van de Commissie maatschappelijke erkenning veteranen (1991) (Archief Geerts)" .
@@ -516,18 +538,6 @@
 <https://n2t.net/ark:/27023/6232d2bb3d97884a5e5c30a14c243133> <https://colonialcollections.nl/schema#description> "Sabeltas Generaal-majoor KNIL, 1868-1942. In blikken doos." .
 <https://n2t.net/ark:/27023/6232d2bb3d97884a5e5c30a14c243133> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6232d2bb3d97884a5e5c30a14c243133> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#identifier> "00265347" .
-<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#name> "Foto bezoek Mangkoe Negoro VII" .
-<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#description> "Foto zwart wit van bezoek van Mangkoe Negoro VII met gevolg aan Kamp Waalsdorp te Den Haag. Delegatie staat met Nederlandse officieren aangetreden voor barak No. 4. Mangkoe Negoro in uniform van kolonel titulair van het KNIL" .
-<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6206a467ac11155cb0c03eec6d9eab90> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#identifier> "2010/06/14-3-3/1" .
-<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#name> "Groepsportret van 8 papoea mannen" .
-<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#description> "Foto. Groep van 8 papoea-mannen op een rij" .
-<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6229534a817b9a482b7e2270c754f083> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/61f3b5c2383d1449996d1495a74082af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/61f3b5c2383d1449996d1495a74082af> <https://colonialcollections.nl/schema#identifier> "S%20240-30" .
 <https://n2t.net/ark:/27023/61f3b5c2383d1449996d1495a74082af> <https://colonialcollections.nl/schema#description> "de voorkant bedrukt met Chinese karakters in rood en zwart" .
@@ -583,11 +593,6 @@
 <https://n2t.net/ark:/27023/6231091d5b14141e746d0499ccd88e7d> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thalsring\r\nTitel:\tsingkil\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tgesmeed\r\nEmailadres: toelichting:\tDe halsring is gemaakt van een massieve staaf tin. De halsring is rond gebogen. de staaf" .
 <https://n2t.net/ark:/27023/6231091d5b14141e746d0499ccd88e7d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6231091d5b14141e746d0499ccd88e7d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/5-1" .
-<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
-<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/62174f322c45d77e9b4f8ff1e69c9655> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/62298d62e7d977e365469b9b52df1fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62298d62e7d977e365469b9b52df1fc7> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-72" .
 <https://n2t.net/ark:/27023/62298d62e7d977e365469b9b52df1fc7> <https://colonialcollections.nl/schema#name> "Sabel, of klewang" .

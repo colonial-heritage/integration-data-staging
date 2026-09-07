@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/d7fd76139c41b8edf68b6483f8f3748c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7fd76139c41b8edf68b6483f8f3748c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d7fd76139c41b8edf68b6483f8f3748c> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/122" .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#name> "Goewa Lawa (Bat´s Cave)" .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Goewa Lawa (Bat´s Cave)" .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d81ac84cc8fdb2643c1c5a81d43393bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d81ac84cc8fdb2643c1c5a81d43393bd> <https://colonialcollections.nl/schema#identifier> "1999/02/22-1-2" .
 <https://n2t.net/ark:/27023/d81ac84cc8fdb2643c1c5a81d43393bd> <https://colonialcollections.nl/schema#name> "Foto : Portret voluit Fuselier van der Kam" .
@@ -13,6 +20,14 @@
 <https://n2t.net/ark:/27023/d81ac84cc8fdb2643c1c5a81d43393bd> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/d81ac84cc8fdb2643c1c5a81d43393bd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d81ac84cc8fdb2643c1c5a81d43393bd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#identifier> "1997/09/29-1-2" .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#name> "Schoolplaat \"Een Javaansche Woning\"" .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#description> "\"Een Javaansche Woning\". Schoolplaat J.J. ten Have, Aardrijkskundige. Wandplaten van Nederlandsch Oost-Indië, eerste serie no. 2 tweede druk, uitgever N.V. Joh. Ykema, 's-Gravenhage, Drukkerij Senefelder Amsterdam." .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#creator> "Drukkerij Senefelder Amsterdam." .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#creator> "uitgever N.V. Joh. Ykema, 's-Gravenhage" .
 <https://n2t.net/ark:/27023/d835aa734673ece59da70017f86cb20c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d835aa734673ece59da70017f86cb20c> <https://colonialcollections.nl/schema#identifier> "nf%201325-21" .
 <https://n2t.net/ark:/27023/d835aa734673ece59da70017f86cb20c> <https://colonialcollections.nl/schema#name> "Molenvliet Weltevreden" .
@@ -503,18 +518,6 @@
 <https://n2t.net/ark:/27023/d844ef5becfa3ed0e0a98190848f7e5e> <https://colonialcollections.nl/schema#description> "Stel van 9 gevlochten bakjes\r\nAfdeling:\tMidden en Zuid Amerika\r\n9 Gevlochten bakjes of schaaltjes met een steeds kleinere diameter. Gevlochten uit een soort riet: in het centrum kruisen de repen elkaar, naar buiten toe worden ze met een ander soort riet a" .
 <https://n2t.net/ark:/27023/d844ef5becfa3ed0e0a98190848f7e5e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d844ef5becfa3ed0e0a98190848f7e5e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/122" .
-<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#name> "Goewa Lawa (Bat´s Cave)" .
-<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Goewa Lawa (Bat´s Cave)" .
-<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d7fddab76ad997dba7029ce1aae1e1f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#identifier> "1997/09/29-1-2" .
-<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#name> "Schoolplaat \"Een Javaansche Woning\"" .
-<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#description> "\"Een Javaansche Woning\". Schoolplaat J.J. ten Have, Aardrijkskundige. Wandplaten van Nederlandsch Oost-Indië, eerste serie no. 2 tweede druk, uitgever N.V. Joh. Ykema, 's-Gravenhage, Drukkerij Senefelder Amsterdam." .
-<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d81b30f5eecf40aa70511d68a1759021> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d805e70d362bb658b45733ff5edc838d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d805e70d362bb658b45733ff5edc838d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42241" .
 <https://n2t.net/ark:/27023/d805e70d362bb658b45733ff5edc838d> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 100 cm\r\nMedia:\t2774\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2774] Depot, K [K]\r\nhoofdmateriaal:\thout" .

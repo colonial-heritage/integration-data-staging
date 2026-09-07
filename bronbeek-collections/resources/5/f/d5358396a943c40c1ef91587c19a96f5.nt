@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#identifier> "2017/05/03-3-15" .
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#name> "Blouse Vrouwenkorps KNIL (VK-KNIL)" .
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#description> "Blouse Vrouwenkorps KNIL (VK-KNIL). \r\nBlouse, kaki dunne stof zonder kraag. Lange mouw. Aparte schouderlappen opgenaaid. Nationaliteitsemblemen  langs schoudernaad zijn verwijderd. In kraag gesigneerd: “FAULAT, BELFAST”,  “4”, “292/C/678N 1942“ In rug met" .
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#creator> "Belfast Collar Company Limited" .
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16947eb3a4a323390b1ca03a8e7a90fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16947eb3a4a323390b1ca03a8e7a90fd> <https://colonialcollections.nl/schema#identifier> "nf%20703-11" .
 <https://n2t.net/ark:/27023/16947eb3a4a323390b1ca03a8e7a90fd> <https://colonialcollections.nl/schema#name> "'Zilversmeden te Kota Gadang, Agam'" .
@@ -9,9 +16,17 @@
 <https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#identifier> "nf%201408-34" .
 <https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#name> "Rijst stampende Battakkvrouwen" .
 <https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#description> "afbeelding toont een groep vrouwen en een man, gekleed in traditonele, dagelijkse dracht, sarongs en hoofddoeken. \r\nOp een verhoging is een lange houten trog geplaatst, het lijkt wel een prauw. Naast elkaar kunnen daar vrouwen daarin de rijst stampen met " .
-<https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16abbdea0dfb765d33171ffcb373f2af> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#identifier> "nf%201315-8" .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#name> "Bandoeng - Nederlandsch-Indische Escompto Maatschappij" .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand bovenaan.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vor" .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16bb18949eb1ea6b197104ec970f8a5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16bb18949eb1ea6b197104ec970f8a5a> <https://colonialcollections.nl/schema#identifier> "nf%201357-32" .
 <https://n2t.net/ark:/27023/16bb18949eb1ea6b197104ec970f8a5a> <https://colonialcollections.nl/schema#name> "Kandy - tempel van de Heilige tand van Boeddha" .
@@ -19,6 +34,13 @@
 <https://n2t.net/ark:/27023/16bb18949eb1ea6b197104ec970f8a5a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/16bb18949eb1ea6b197104ec970f8a5a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16bb18949eb1ea6b197104ec970f8a5a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/128" .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#name> "Balinese Miss and Mrs." .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balinese Miss and Mrs." .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1696a234075f0bf5738af4805a45e250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1696a234075f0bf5738af4805a45e250> <https://colonialcollections.nl/schema#identifier> "nf%201891-11" .
 <https://n2t.net/ark:/27023/1696a234075f0bf5738af4805a45e250> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, in kleur, voorkomend in strips van 4, gezamelijk opgeborgen in kunststof bewaarstrips, los aangetroffen\r\n\r\nOpname toont landbouwpercelen, sawa's. De gewassen, in dit geval rijst, staan er in verschillende fases van groei. Ook de d" .
@@ -31,6 +53,12 @@
 <https://n2t.net/ark:/27023/16a1fe038907c75b657175d26c84589c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/16a1fe038907c75b657175d26c84589c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16a1fe038907c75b657175d26c84589c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#identifier> "nf%20323-8-1" .
+<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#description> "bijschrift; 'De overgang van de Wae Reno.'" .
+<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16aefc3a4b108608d0066fb9eb08ebc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16aefc3a4b108608d0066fb9eb08ebc3> <https://colonialcollections.nl/schema#identifier> "1995/08/03-1-2/4" .
 <https://n2t.net/ark:/27023/16aefc3a4b108608d0066fb9eb08ebc3> <https://colonialcollections.nl/schema#name> "Sportprijs toebehoord hebbend aan de Kolonel KNIL P. Doornbos" .
@@ -509,24 +537,6 @@
 <https://n2t.net/ark:/27023/16c99759aaa8f533f0a447275f11319b> <https://colonialcollections.nl/schema#description> "Baret, Nederlands." .
 <https://n2t.net/ark:/27023/16c99759aaa8f533f0a447275f11319b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16c99759aaa8f533f0a447275f11319b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#identifier> "2017/05/03-3-15" .
-<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#name> "Blouse Vrouwenkorps KNIL (VK-KNIL)" .
-<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#description> "Blouse Vrouwenkorps KNIL (VK-KNIL). \r\nBlouse, kaki dunne stof zonder kraag. Lange mouw. Aparte schouderlappen opgenaaid. Nationaliteitsemblemen  langs schoudernaad zijn verwijderd. In kraag gesigneerd: “FAULAT, BELFAST”,  “4”, “292/C/678N 1942“ In rug met" .
-<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16945b75be13799f5953b1bfa7979f49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#identifier> "nf%201315-8" .
-<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#name> "Bandoeng - Nederlandsch-Indische Escompto Maatschappij" .
-<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand bovenaan.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vor" .
-<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16b6afd5ae442226179c04f6fa18f88d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/128" .
-<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#name> "Balinese Miss and Mrs." .
-<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balinese Miss and Mrs." .
-<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16c42438a6ceca5e83a7d7e51233f4fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1690479fb558edc92e772930d694a8ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1690479fb558edc92e772930d694a8ff> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42887" .
 <https://n2t.net/ark:/27023/1690479fb558edc92e772930d694a8ff> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thandtas\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\ttextiel, gouddraad, zilverdraad, draad\r\n\tgeborduurd\r\nEmailadres: toelichting:\tHet handtasje is rechthoekig van vorm, heeft aan de voorzijde" .
@@ -577,11 +587,6 @@
 <https://n2t.net/ark:/27023/16c97c7f52bf1ecea241480f8dc63d47> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tplankbeeldengroep\r\nRubriek:\t(niet ingevoerd)\r\nMedia:\t3194\r\nHuidige standplaats:\t[3194] Depot, op, kast 19 [op kast 19]" .
 <https://n2t.net/ark:/27023/16c97c7f52bf1ecea241480f8dc63d47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16c97c7f52bf1ecea241480f8dc63d47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#identifier> "nf%20323-8-1" .
-<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#description> "bijschrift; 'De overgang van de Wae Reno.'" .
-<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16ad565b58bc99cfd1beb6e77eaf37e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16abe180d3afd6d8fb0a21b38fddc68d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16abe180d3afd6d8fb0a21b38fddc68d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43838" .
 <https://n2t.net/ark:/27023/16abe180d3afd6d8fb0a21b38fddc68d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

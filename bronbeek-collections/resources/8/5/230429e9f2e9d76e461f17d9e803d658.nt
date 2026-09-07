@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-44" .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#name> "134. Zendingsschool te Modjowarno. (Oost-Java)" .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n134. Zendingsschool te Modjowarno. (Oost-Java)" .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#inscription> "134. Zendingsschool te Modjowarno. (Oost-Java)" .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#identifier> "2003/11/09-7-3/2-4" .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#name> "Cavalerie KNIL, voor 1942" .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. 8 stuks opgeplakt op vel papier. Cavalerie KNIL, voor 1942. o.a. Pantserwagens: D 7024 & D 7002." .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#creator> "Lan Fong Bd." .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#creator> "King Land" .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#identifier> "1997/00-1/366" .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#name> "Kaart van Sumatra´s Oostkust, Tapanoeli" .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#description> "Kaart van residentiën Sumatra´s oostkust en Tapanoeli en de onafhankelijke Bataklanden.\r\nSchaal 1: 600.000; legenda.\r\nUitg. Topografische Inrichting, 1902." .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2b377ba87fed26f746aa04d51be916e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b377ba87fed26f746aa04d51be916e4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-869/2-34" .
 <https://n2t.net/ark:/27023/2b377ba87fed26f746aa04d51be916e4> <https://colonialcollections.nl/schema#name> "Bijeenkomst 1939" .
@@ -5,6 +28,20 @@
 <https://n2t.net/ark:/27023/2b377ba87fed26f746aa04d51be916e4> <https://colonialcollections.nl/schema#creator> "N.V. Vereenigde Fotobureaux" .
 <https://n2t.net/ark:/27023/2b377ba87fed26f746aa04d51be916e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2b377ba87fed26f746aa04d51be916e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#identifier> "2003/06/06-2-2" .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#name> "Carte de Visite, 2 kinderen" .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#description> "Foto. Carte de Visite. Twee kinderen staand aan weerszijden van een tafeltje.\r\nFotograaf is J.B. Jasper Photograaf te Soerabaya." .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#creator> "J.B. Jasper Photograaf Soerabaija" .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-4" .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#name> "W.2. - Front Street at Night, Wilmington, North Carolina" .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W.2. - Front Street at Night, Wilmington, North Carolina. [in kleurendruk[" .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#creator> "Service Merchandise Co." .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2b4bdbab9e3afc32e38397b052f65f89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b4bdbab9e3afc32e38397b052f65f89> <https://colonialcollections.nl/schema#identifier> "2009/08/05-2-4" .
 <https://n2t.net/ark:/27023/2b4bdbab9e3afc32e38397b052f65f89> <https://colonialcollections.nl/schema#name> "Aantekeningen uit krijgsgevangenschap 15 januari 1943 - 22 oktober 1944" .
@@ -19,6 +56,20 @@
 <https://n2t.net/ark:/27023/2b4beeb21a463cc49f42a3fab18c41b8> <https://colonialcollections.nl/schema#creator> "Theo van Houts" .
 <https://n2t.net/ark:/27023/2b4beeb21a463cc49f42a3fab18c41b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2b4beeb21a463cc49f42a3fab18c41b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-2" .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#name> "2 inlanders aan warungstalletje, c.a. 1860" .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#description> "Carte de visite: (10,3 x 6,2), 9,3 x 5,8. Op achterzijde: \"J.B.Jasper Photograaf Soerabaya\". 2 inlanders aan warungstalletje. C.a. 1860?" .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#creator> "J.B. Jasper Photograaf Soerabaija" .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/360" .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Residentielaan, Menado\".\r\nUitgave van Gebr. Que, Menado." .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2b5842c10c1b0331c286bb433e8113b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b5842c10c1b0331c286bb433e8113b3> <https://colonialcollections.nl/schema#identifier> "nf%20681-26-3" .
 <https://n2t.net/ark:/27023/2b5842c10c1b0331c286bb433e8113b3> <https://colonialcollections.nl/schema#name> "Groep mensen voor Batoe Gingging estate" .
@@ -37,9 +88,17 @@
 <https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/19" .
 <https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#name> "Kamp in de woestyn." .
 <https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#description> "Prent. Kamp in de woestyn.\r\nGenummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 t/m 1997/10/09-1-3/28)." .
-<https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b5ca962f4ac9a5bdd7c2cee7feee25d> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-3/1" .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#name> "Groepsoto Nederlandse militaire wielrijders" .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#description> "Groepsfoto zwart wit militairen van een peloton van het 2de Compagnie Wielrijders te 's-Hertogenbosch in het blauwe velduniform.\r\n\r\nDertig (30) foto's van militairen Nederland en internationaal, periode 1914-1918." .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#creator> "P. Weijnen" .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2b3a31523e505cdcc8feeee5c860e5a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b3a31523e505cdcc8feeee5c860e5a8> <https://colonialcollections.nl/schema#identifier> "nf%20646-1" .
 <https://n2t.net/ark:/27023/2b3a31523e505cdcc8feeee5c860e5a8> <https://colonialcollections.nl/schema#description> "een meisje en een vrouw dragen een pot en koker op hun hoofd, ondertussen breiend en wol bewerkend" .
@@ -115,13 +174,6 @@
 <https://n2t.net/ark:/27023/2b693bc85c176dfc138fb22a21f35b0b> <https://colonialcollections.nl/schema#inscription> "Korea 1950; J" .
 <https://n2t.net/ark:/27023/2b693bc85c176dfc138fb22a21f35b0b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2b693bc85c176dfc138fb22a21f35b0b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-44" .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#name> "134. Zendingsschool te Modjowarno. (Oost-Java)" .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n134. Zendingsschool te Modjowarno. (Oost-Java)" .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#inscription> "134. Zendingsschool te Modjowarno. (Oost-Java)" .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b4254706037cffca2eb5f383ef52ab0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2b2bebc09ccfd1d5cd7ca65acc7c314b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b2bebc09ccfd1d5cd7ca65acc7c314b> <https://colonialcollections.nl/schema#identifier> "2014/07/01-1-1/6" .
 <https://n2t.net/ark:/27023/2b2bebc09ccfd1d5cd7ca65acc7c314b> <https://colonialcollections.nl/schema#name> "Portret van Victor Obdeijn in ambtskostuum" .
@@ -518,48 +570,6 @@
 <https://n2t.net/ark:/27023/2b79ca6801b157bc9040dc3ef04a106d> <https://colonialcollections.nl/schema#description> "Document afkomstig uit plakboek onder nr. 9, \"Hoogland \"9-11-'22\". Met betrekking tot E.J. Feenstra." .
 <https://n2t.net/ark:/27023/2b79ca6801b157bc9040dc3ef04a106d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2b79ca6801b157bc9040dc3ef04a106d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#identifier> "2003/11/09-7-3/2-4" .
-<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#name> "Cavalerie KNIL, voor 1942" .
-<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. 8 stuks opgeplakt op vel papier. Cavalerie KNIL, voor 1942. o.a. Pantserwagens: D 7024 & D 7002." .
-<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b3510870582c28e7c4ed9cc75ef1a2a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#identifier> "1997/00-1/366" .
-<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#name> "Kaart van Sumatra´s Oostkust, Tapanoeli" .
-<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#description> "Kaart van residentiën Sumatra´s oostkust en Tapanoeli en de onafhankelijke Bataklanden.\r\nSchaal 1: 600.000; legenda.\r\nUitg. Topografische Inrichting, 1902." .
-<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b36d96a311291e3e5246d66e8e8bde0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#identifier> "2003/06/06-2-2" .
-<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#name> "Carte de Visite, 2 kinderen" .
-<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#description> "Foto. Carte de Visite. Twee kinderen staand aan weerszijden van een tafeltje.\r\nFotograaf is J.B. Jasper Photograaf te Soerabaya." .
-<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b3d441d0d770927a4721bc47c66b5de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-4" .
-<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#name> "W.2. - Front Street at Night, Wilmington, North Carolina" .
-<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W.2. - Front Street at Night, Wilmington, North Carolina. [in kleurendruk[" .
-<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b4908846454f2b59a608af83dbc8142> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-2" .
-<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#name> "2 inlanders aan warungstalletje, c.a. 1860" .
-<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#description> "Carte de visite: (10,3 x 6,2), 9,3 x 5,8. Op achterzijde: \"J.B.Jasper Photograaf Soerabaya\". 2 inlanders aan warungstalletje. C.a. 1860?" .
-<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b4dadec0b0e582f9602dad17b776c84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/360" .
-<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Residentielaan, Menado\".\r\nUitgave van Gebr. Que, Menado." .
-<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b53783b4008fbc80e93cc5cd212afb8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-3/1" .
-<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#name> "Groepsoto Nederlandse militaire wielrijders" .
-<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#description> "Groepsfoto zwart wit militairen van een peloton van het 2de Compagnie Wielrijders te 's-Hertogenbosch in het blauwe velduniform.\r\n\r\nDertig (30) foto's van militairen Nederland en internationaal, periode 1914-1918." .
-<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b6ebaccc0e43995e410ec800b87b577> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2b2dcde99fbbf550ed3e018adbcc7caa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b2dcde99fbbf550ed3e018adbcc7caa> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43685" .
 <https://n2t.net/ark:/27023/2b2dcde99fbbf550ed3e018adbcc7caa> <https://colonialcollections.nl/schema#description> "Vrucht uit Lumadjang" .

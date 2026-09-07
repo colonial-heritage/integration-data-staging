@@ -23,9 +23,17 @@
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/10" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#name> "Eiland Philé" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#description> "Prent. Eiland Philé.\r\nGenummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 t/m 1997/10/09-1-3/28)." .
-<https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/8" .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door de NIWIN voor de troepen in Nederlands-Indië / Indonesië.\r\nFoto Foto-sectie Dienst Welfare Niwin-fotowedstrijd" .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#creator> "Dienst Welfare" .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/136974b4e403034cd49d97cc8931cddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/136974b4e403034cd49d97cc8931cddc> <https://colonialcollections.nl/schema#identifier> "2017/07/28-5-8" .
 <https://n2t.net/ark:/27023/136974b4e403034cd49d97cc8931cddc> <https://colonialcollections.nl/schema#name> "Wapenschild Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek (KTOMM Bronbeek)" .
@@ -47,6 +55,21 @@
 <https://n2t.net/ark:/27023/136f233954e500aedb97d44797bbf355> <https://colonialcollections.nl/schema#creator> "Wah Seng" .
 <https://n2t.net/ark:/27023/136f233954e500aedb97d44797bbf355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/136f233954e500aedb97d44797bbf355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-20" .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#name> "4-daagse, KNIL militairen" .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 4-daagse, KNIL militairen, Onderluitenant Langenberg. Op achterzijde gestempeld: \"H.W. Verplanke Dominicanenstraat 33 Nijmegen Nr. 22\"" .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#creator> "H.W. Verplanke" .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#identifier> "1999/09/29-7-3" .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#name> "Fotoalbum over de overjarige cultures op de Oostkust van Sumatra" .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#description> "Fotoalbum. Zwartwit. De 126 foto's zijn ter illustratie van de tekst met betrekking tot de overjarige cultures van de AVROS op Oost-Sumatra.\r\nTitelblad: \"De overjarige cultures ter Oostkust van Sumatra in woord en beeld\". Door de AVROS eerbiedig opgedrage" .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#creator> "Meijster" .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#creator> "Varekamp & Co." .
 <https://n2t.net/ark:/27023/13720589172ce8f8142ac493e7126d16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/13720589172ce8f8142ac493e7126d16> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/18" .
 <https://n2t.net/ark:/27023/13720589172ce8f8142ac493e7126d16> <https://colonialcollections.nl/schema#name> "Bivak te Samalanga (Atjeh)" .
@@ -528,24 +551,6 @@
 <https://n2t.net/ark:/27023/137acb3ef5ed55899bc472f235f2fc30> <https://colonialcollections.nl/schema#description> "Documenten van P.D.T. Geerlings:\r\nTelegram 1946/03/13. Melden bij KMA.\r\nBrief over betaling jaarwedde over april 1946. 1947/05/14.\r\nOproeping geneeskundig onderzoek. 1946/01/24.\r\nBewijs van verschijnen medische keuring. 1946/01/05.\r\nBewijs van vrijstellin" .
 <https://n2t.net/ark:/27023/137acb3ef5ed55899bc472f235f2fc30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/137acb3ef5ed55899bc472f235f2fc30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/8" .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door de NIWIN voor de troepen in Nederlands-Indië / Indonesië.\r\nFoto Foto-sectie Dienst Welfare Niwin-fotowedstrijd" .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#identifier> "2000/09/21-2-20" .
-<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#name> "4-daagse, KNIL militairen" .
-<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#description> "Foto. zwart-wit. 4-daagse, KNIL militairen, Onderluitenant Langenberg. Op achterzijde gestempeld: \"H.W. Verplanke Dominicanenstraat 33 Nijmegen Nr. 22\"" .
-<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/13709824e47d65c3e681e91d3940382c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#identifier> "1999/09/29-7-3" .
-<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#name> "Fotoalbum over de overjarige cultures op de Oostkust van Sumatra" .
-<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#description> "Fotoalbum. Zwartwit. De 126 foto's zijn ter illustratie van de tekst met betrekking tot de overjarige cultures van de AVROS op Oost-Sumatra.\r\nTitelblad: \"De overjarige cultures ter Oostkust van Sumatra in woord en beeld\". Door de AVROS eerbiedig opgedrage" .
-<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1371ce44080d908a4842dfe852d10bbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1352d68ee1253daa462d441d6245cbb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1352d68ee1253daa462d441d6245cbb0> <https://colonialcollections.nl/schema#identifier> "S%20240-280-61" .
 <https://n2t.net/ark:/27023/1352d68ee1253daa462d441d6245cbb0> <https://colonialcollections.nl/schema#description> "Verzen uit de Koran\r\nHerkomst: Indonesië." .

@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/13" .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#name> "Plaat 13 Tripö bij kampong Pasér." .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit.\r\nPlaat 13 Tripö bij kampong Pasér." .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#inscription> "Plaat 13 Tripö bij kampong Pasér." .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-9" .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#name> "Jonkheer Adriaan van Swieten door J. Goltzius" .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#description> "Gravure: Jonkheer Adriaan van Swieten door J. Goltzius, 1579.\r\nIn zilveren lijstje\r\nLengte 7cm, breedte 6cm. Beeltenis in ovaal omschrift, luidende\" Bemindt Gerechtichheyt - AETAT.SUAE 47 Anno 1579 - J.Goltzius fecit\"\r\nOvaal in rechthoekige zilveren portr" .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#inscription> "\" Bemindt Gerechtichheyt - AETAT.SUAE 47 Anno 1579 - J.Goltzius fecit\"" .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#creator> "J. Goltzius" .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d9d3646c7e780651e7b3592e2a133939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d9d3646c7e780651e7b3592e2a133939> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-123" .
 <https://n2t.net/ark:/27023/d9d3646c7e780651e7b3592e2a133939> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -26,6 +42,13 @@
 <https://n2t.net/ark:/27023/d9edd7560d3284423d45a7e9492172fc> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/d9edd7560d3284423d45a7e9492172fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d9edd7560d3284423d45a7e9492172fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#identifier> "nf%201306-46" .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, met bijschrift.\r\n\r\nEr is in inkt geschreven tekst in de rechter bovenhoek, die luidt: '5 jarig bestaan Koppenberg accountants kantoor - receptie in Borne'\r\n\r\nDe achterkant van de foto hee" .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#creator> "Gevaert" .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#creator> "Foto HAVO" .
 <https://n2t.net/ark:/27023/d9bdf651dbc3de9cbe30dea39d24e437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d9bdf651dbc3de9cbe30dea39d24e437> <https://colonialcollections.nl/schema#identifier> "nf%20926-2-1" .
 <https://n2t.net/ark:/27023/d9bdf651dbc3de9cbe30dea39d24e437> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van een baby, slapend in een bedje met klamboe.\r\n\r\nDe gefotografeerde baby is Jelle (Jellie) van den Berg." .
@@ -44,6 +67,12 @@
 <https://n2t.net/ark:/27023/d9d7958f29a65b7571a01939aea3dc7b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d9d7958f29a65b7571a01939aea3dc7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d9d7958f29a65b7571a01939aea3dc7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#identifier> "nf%201353-23-3" .
+<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart, zwart/wit, met gedeelde achterkant. \r\nIn donkergrijze kleur de volgende tekst meegedrukt: POST-CARD \r\n....CORRESPONDENCE - ADDRESS ONLY.... en een rechthoekje waar de postzegel geplakt moet worden\r\nIn blauw een stempel met de naam va" .
+<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#creator> "Foto-handel Meijsters, Medan Sumatra" .
+<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d9e4b2c7013a3fee472bfb52a529344a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d9e4b2c7013a3fee472bfb52a529344a> <https://colonialcollections.nl/schema#identifier> "nf%201722-3" .
 <https://n2t.net/ark:/27023/d9e4b2c7013a3fee472bfb52a529344a> <https://colonialcollections.nl/schema#description> "Foto, stereofoto, zwart/wit, twee foto's naast elkaar geplakt op licht grijsgroen karton, los aangetroffen. \r\n\r\nOpnames tonen links een watervlakte, mogelijk een meer. Centraal een muurtje waarop gezeten kan worden. Bij en op de muur blanke personen, volw" .
@@ -78,20 +107,6 @@
 <https://n2t.net/ark:/27023/d9db84c5af3204af4b1c097242d89e8c> <https://colonialcollections.nl/schema#inscription> "11" .
 <https://n2t.net/ark:/27023/d9db84c5af3204af4b1c097242d89e8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d9db84c5af3204af4b1c097242d89e8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/13" .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#name> "Plaat 13 Tripö bij kampong Pasér." .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit.\r\nPlaat 13 Tripö bij kampong Pasér." .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#inscription> "Plaat 13 Tripö bij kampong Pasér." .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d9e7f041983e29d71dccb8e30724a086> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-9" .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#name> "Jonkheer Adriaan van Swieten door J. Goltzius" .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#description> "Gravure: Jonkheer Adriaan van Swieten door J. Goltzius, 1579.\r\nIn zilveren lijstje\r\nLengte 7cm, breedte 6cm. Beeltenis in ovaal omschrift, luidende\" Bemindt Gerechtichheyt - AETAT.SUAE 47 Anno 1579 - J.Goltzius fecit\"\r\nOvaal in rechthoekige zilveren portr" .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#inscription> "\" Bemindt Gerechtichheyt - AETAT.SUAE 47 Anno 1579 - J.Goltzius fecit\"" .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d9f6a0d733d69bb5ea57f60954c907fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d9b0ea6b4a1b85d6394ac4aac2801eb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d9b0ea6b4a1b85d6394ac4aac2801eb2> <https://colonialcollections.nl/schema#identifier> "2015/02/04-14-2" .
 <https://n2t.net/ark:/27023/d9b0ea6b4a1b85d6394ac4aac2801eb2> <https://colonialcollections.nl/schema#name> "Legger met dagboek van P.H. Musters" .
@@ -581,16 +596,6 @@
 <https://n2t.net/ark:/27023/d9e9002f3dc70bd8d5bd85bbc31e5d5c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift, geldend voor de drie bovenste foto's op dit fotoblad 38, luidt: 'Seaforth Highlanders'\r\n\r\nIn de linker bovenhoek staat in inkt geschreven: 'Geallie" .
 <https://n2t.net/ark:/27023/d9e9002f3dc70bd8d5bd85bbc31e5d5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d9e9002f3dc70bd8d5bd85bbc31e5d5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#identifier> "nf%201306-46" .
-<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, met bijschrift.\r\n\r\nEr is in inkt geschreven tekst in de rechter bovenhoek, die luidt: '5 jarig bestaan Koppenberg accountants kantoor - receptie in Borne'\r\n\r\nDe achterkant van de foto hee" .
-<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d9b383c223409f1aab64461dec3a505c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#identifier> "nf%201353-23-3" .
-<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart, zwart/wit, met gedeelde achterkant. \r\nIn donkergrijze kleur de volgende tekst meegedrukt: POST-CARD \r\n....CORRESPONDENCE - ADDRESS ONLY.... en een rechthoekje waar de postzegel geplakt moet worden\r\nIn blauw een stempel met de naam va" .
-<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d9e0921dca0259ecbc37a596d1b26e01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d9dbac696faeb4c937c107747d896f35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d9dbac696faeb4c937c107747d896f35> <https://colonialcollections.nl/schema#identifier> "1863/12-1-43" .
 <https://n2t.net/ark:/27023/d9dbac696faeb4c937c107747d896f35> <https://colonialcollections.nl/schema#name> "Ernestus, Aartshertog van Oostenrijk, Gouverneur-Generaal der Spaansche Nederlanden" .

@@ -28,6 +28,13 @@
 <https://n2t.net/ark:/27023/537769582380c3ddc8bd6a990186a3c6> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/537769582380c3ddc8bd6a990186a3c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/537769582380c3ddc8bd6a990186a3c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#identifier> "2006/00-5/5" .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat KNIL en Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#description> "Hemdjas van olijfgroene katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met stolpplooi en rechte zakkleppen en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmodel met een split met extr" .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#creator> "Rexalco Overhemdenfabriek" .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/53870c76a8f03696911c20422c080b98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/53870c76a8f03696911c20422c080b98> <https://colonialcollections.nl/schema#identifier> "1997/00-1/341" .
 <https://n2t.net/ark:/27023/53870c76a8f03696911c20422c080b98> <https://colonialcollections.nl/schema#name> "Kaart van gedeelte van de afdeling Hoeboek Si Kaping, Sumatra" .
@@ -537,12 +544,6 @@
 <https://n2t.net/ark:/27023/53a58967d2d263fdc6f54bc1743d6147> <https://colonialcollections.nl/schema#description> "Foto uit diensttijd adjudant-onderofficier Dirk Slothouwer Militaire Luchtvaart (ML-KNIL)." .
 <https://n2t.net/ark:/27023/53a58967d2d263fdc6f54bc1743d6147> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/53a58967d2d263fdc6f54bc1743d6147> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#identifier> "2006/00-5/5" .
-<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat KNIL en Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#description> "Hemdjas van olijfgroene katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met stolpplooi en rechte zakkleppen en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmodel met een split met extr" .
-<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5382bbc23eb54538d42cdc7fa06be97c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/53694d137afb9f3d11364211ea04a3f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/53694d137afb9f3d11364211ea04a3f1> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41482" .
 <https://n2t.net/ark:/27023/53694d137afb9f3d11364211ea04a3f1> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tspeelkaarten\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2016\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2016] Depot, LB VI, 27 [LB VI 27]" .

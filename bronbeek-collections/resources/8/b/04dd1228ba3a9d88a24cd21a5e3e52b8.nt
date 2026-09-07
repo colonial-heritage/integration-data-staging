@@ -13,6 +13,13 @@
 <https://n2t.net/ark:/27023/34db9d3e067fa1281483d008f90c8eca> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/34db9d3e067fa1281483d008f90c8eca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/34db9d3e067fa1281483d008f90c8eca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#identifier> "2005/01/03-1-7" .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#name> "3 Petemblemen Nederland, Australische aanmaak: K.C.Luke, Melbourne" .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#description> "Embleem. Petembleem klimmende Leeuw. Metaal.  \"Nederland\", met op achterzijdespeld. Gemerkt: \"K.C.Luke, Melbourne\". 3 stuks." .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#creator> "K.C. Luke" .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/34faebf31acf9b5951699963c731eb4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/34faebf31acf9b5951699963c731eb4b> <https://colonialcollections.nl/schema#identifier> "1997/00-1/374" .
 <https://n2t.net/ark:/27023/34faebf31acf9b5951699963c731eb4b> <https://colonialcollections.nl/schema#name> "Kaart van de Padangse benedenlanden" .
@@ -511,12 +518,6 @@
 <https://n2t.net/ark:/27023/3507b83ce9f4d195bb14c1b12fe6b6de> <https://colonialcollections.nl/schema#description> "Diploma, afdeling Middelburg. Afm. 16 x 12 cm. In goede staat." .
 <https://n2t.net/ark:/27023/3507b83ce9f4d195bb14c1b12fe6b6de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3507b83ce9f4d195bb14c1b12fe6b6de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#identifier> "2005/01/03-1-7" .
-<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#name> "3 Petemblemen Nederland, Australische aanmaak: K.C.Luke, Melbourne" .
-<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#description> "Embleem. Petembleem klimmende Leeuw. Metaal.  \"Nederland\", met op achterzijdespeld. Gemerkt: \"K.C.Luke, Melbourne\". 3 stuks." .
-<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/34efea95f927c76f450e3190badb27e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/34c299e42e8966779dfd818da72409ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/34c299e42e8966779dfd818da72409ad> <https://colonialcollections.nl/schema#identifier> "S%20230-202" .
 <https://n2t.net/ark:/27023/34c299e42e8966779dfd818da72409ad> <https://colonialcollections.nl/schema#description> "Herkomst: Banjoemas, Java." .

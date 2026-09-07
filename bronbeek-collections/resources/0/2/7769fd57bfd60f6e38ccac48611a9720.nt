@@ -12,6 +12,13 @@
 <https://n2t.net/ark:/27023/9b8c7bc4c42ed171f11d10267b068933> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/9b8c7bc4c42ed171f11d10267b068933> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9b8c7bc4c42ed171f11d10267b068933> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/2" .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#name> "Prins Bernhard ontmoet inwoners Bronbeek voor de Commandantswoning tijdens de Onthulling monument jongenskampen" .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#description> "Zwart-wit foto. Prins Bernhard ontmoet inwoners Bronbeek voor de Commandantswoning tijdens de Onthulling monument jongenskampen 1988/11/10." .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#creator> "Theo Janssen" .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9ba7b27ee2abe434e308431dfef62543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9ba7b27ee2abe434e308431dfef62543> <https://colonialcollections.nl/schema#identifier> "nf%201261" .
 <https://n2t.net/ark:/27023/9ba7b27ee2abe434e308431dfef62543> <https://colonialcollections.nl/schema#name> "Paleis van de Sultan van Deli" .
@@ -515,12 +522,6 @@
 <https://n2t.net/ark:/27023/9bafb10489cc85fd34741d9e126e1da8> <https://colonialcollections.nl/schema#description> "fotografisch portret van Luitenant-kolonel der Infanterie O.H.J. Muller von Czernicki. Borststuk in attila groot tenue model 1896 met groot model onderscheidingen.\r\nCarte de visite van J.H. van der Laag te Wageningen. Gedrukt op carte de visite van \"Prage" .
 <https://n2t.net/ark:/27023/9bafb10489cc85fd34741d9e126e1da8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9bafb10489cc85fd34741d9e126e1da8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#identifier> "1996/07/12-3/2" .
-<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#name> "Prins Bernhard ontmoet inwoners Bronbeek voor de Commandantswoning tijdens de Onthulling monument jongenskampen" .
-<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#description> "Zwart-wit foto. Prins Bernhard ontmoet inwoners Bronbeek voor de Commandantswoning tijdens de Onthulling monument jongenskampen 1988/11/10." .
-<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9b99a955e6a123d906333161ad0919d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9b738196d22799836fdd5796203acde4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9b738196d22799836fdd5796203acde4> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42162" .
 <https://n2t.net/ark:/27023/9b738196d22799836fdd5796203acde4> <https://colonialcollections.nl/schema#description> "Afdeling:\tOceanië\r\nObjectnaam:\ttas\r\nRubriek:\t(niet ingevoerd)\r\ntoelichting:\tTrapeziumvormige tas, gevlochten (of eigenlijk gebreid) volgens de methode van de spiraalvlechting in de figuurachtsteek van tweedradig gedraaid vezel. Door bij het vlechten gebru" .

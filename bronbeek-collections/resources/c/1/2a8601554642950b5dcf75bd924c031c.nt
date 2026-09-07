@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/1" .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#name> "Een batterij houwitsers van 12 cm op de kust bij Tabean Sanoer" .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nEen batterij houwitsers van 12 cm op de kust bij Tabean Sanoer." .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bb90a9bb72b24c34b33cc257a2e456be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb90a9bb72b24c34b33cc257a2e456be> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/50" .
 <https://n2t.net/ark:/27023/bb90a9bb72b24c34b33cc257a2e456be> <https://colonialcollections.nl/schema#name> "Twee bewoners Bronbeek in de eetzaal; één met appel in zijn hand" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/bb90a9bb72b24c34b33cc257a2e456be> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/bb90a9bb72b24c34b33cc257a2e456be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bb90a9bb72b24c34b33cc257a2e456be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-21" .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Suratin\"" .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#creator> "Suratin" .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bba5860e122017806e04dbe181f6a8c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bba5860e122017806e04dbe181f6a8c0> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-165" .
 <https://n2t.net/ark:/27023/bba5860e122017806e04dbe181f6a8c0> <https://colonialcollections.nl/schema#name> "Groepsportret van KNIL officieren, brigade-commandanten en Panglima´s van de Marechausse die aan de Celebes-expeditie deelnamen, waaronder Darlang" .
@@ -26,6 +41,7 @@
 <https://n2t.net/ark:/27023/bbb5c5ed8ef03e0ab0978a58d6b605bb> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/bbb5c5ed8ef03e0ab0978a58d6b605bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bbb5c5ed8ef03e0ab0978a58d6b605bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bbb5c5ed8ef03e0ab0978a58d6b605bb> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/bbbae1bfc592b3d82b7d857489def669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bbbae1bfc592b3d82b7d857489def669> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/165" .
 <https://n2t.net/ark:/27023/bbbae1bfc592b3d82b7d857489def669> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -40,6 +56,13 @@
 <https://n2t.net/ark:/27023/bbc19ec184168df99c3c1de29a495e8c> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/bbc19ec184168df99c3c1de29a495e8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bbc19ec184168df99c3c1de29a495e8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/11" .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#creator> "Zindler, Djokjakarta" .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bbcca0ee3730b5c2ebd7616074e9c275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bbcca0ee3730b5c2ebd7616074e9c275> <https://colonialcollections.nl/schema#identifier> "nf%201186" .
 <https://n2t.net/ark:/27023/bbcca0ee3730b5c2ebd7616074e9c275> <https://colonialcollections.nl/schema#name> "Prauw met aanhangmotor op Barito" .
@@ -47,6 +70,13 @@
 <https://n2t.net/ark:/27023/bbcca0ee3730b5c2ebd7616074e9c275> <https://colonialcollections.nl/schema#creator> "S. Steenhuisen" .
 <https://n2t.net/ark:/27023/bbcca0ee3730b5c2ebd7616074e9c275> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bbcca0ee3730b5c2ebd7616074e9c275> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#identifier> "2016/01/01-1" .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#name> "Bijeenkomst Indië-monument Roermond" .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#description> "Foto in zwart/wit. Bijeenkomst Indië-monument Roermond." .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#creator> "Fotopersburo Fer Traugott" .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bbda05f89ec732854f1406ee5c51b786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bbda05f89ec732854f1406ee5c51b786> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/177" .
 <https://n2t.net/ark:/27023/bbda05f89ec732854f1406ee5c51b786> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -86,13 +116,6 @@
 <https://n2t.net/ark:/27023/bbca7ea45c0a120d6fa61fb7f5ffb604> <https://colonialcollections.nl/schema#inscription> "J. van den Bos" .
 <https://n2t.net/ark:/27023/bbca7ea45c0a120d6fa61fb7f5ffb604> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bbca7ea45c0a120d6fa61fb7f5ffb604> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/1" .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#name> "Een batterij houwitsers van 12 cm op de kust bij Tabean Sanoer" .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nEen batterij houwitsers van 12 cm op de kust bij Tabean Sanoer." .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bbaa746bde004413e3958c510af8ce52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bb8d97c9221aa3c3b6884893ce6c77eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb8d97c9221aa3c3b6884893ce6c77eb> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/467" .
 <https://n2t.net/ark:/27023/bb8d97c9221aa3c3b6884893ce6c77eb> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
@@ -525,24 +548,6 @@
 <https://n2t.net/ark:/27023/bbdb6197470c59b66080047b93443da0> <https://colonialcollections.nl/schema#description> "Negatief van Coen van Altena afkomstig uit een papieren hoesje van \"Beck's Fotohandel, Theresiastraat 90-90a, 's-Gravenhage. In potlood aantekening: \"Cliche's dienst 1924 Ede (11) - Den Haag (2)\"." .
 <https://n2t.net/ark:/27023/bbdb6197470c59b66080047b93443da0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bbdb6197470c59b66080047b93443da0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-21" .
-<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Suratin\"" .
-<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bb941f3a58114bd39ab9ab4f7172ead7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/11" .
-<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
-<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
-<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bbc475a8a86f0ac6b8682c778efc352d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#identifier> "2016/01/01-1" .
-<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#name> "Bijeenkomst Indië-monument Roermond" .
-<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#description> "Foto in zwart/wit. Bijeenkomst Indië-monument Roermond." .
-<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bbd8447143300b02b6fabac546fba442> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bb9289d617671dfa3431049acf5e0843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb9289d617671dfa3431049acf5e0843> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42998" .
 <https://n2t.net/ark:/27023/bb9289d617671dfa3431049acf5e0843> <https://colonialcollections.nl/schema#description> "Gevlochten koker" .

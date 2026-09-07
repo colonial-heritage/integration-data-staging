@@ -13,6 +13,13 @@
 <https://n2t.net/ark:/27023/42acd4771e9205ac2386277bdc9c5533> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/42acd4771e9205ac2386277bdc9c5533> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/42acd4771e9205ac2386277bdc9c5533> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/1" .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#name> "20 Colored Post Cards Marine Base Camp Lejeune  North Carolina" .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#description> "Mapje met 20 prentbriefkaarten. 20 Colored Post Cards Marine Base Camp Lejeune  North Carolina.\r\nEnlisted Men's Barracks, Marine Base, Camp Lejeune, N.C.\r\nTanks in Action,\r\nLanding Party Hits Beach, \r\nAdministration Building,\r\nRaiders Land from Rubber Boa" .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#creator> "Curt Teich & Co., Inc." .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/42c743b8b50534f1d22517ed4d04f1ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/42c743b8b50534f1d22517ed4d04f1ee> <https://colonialcollections.nl/schema#identifier> "2006/00-43/37" .
 <https://n2t.net/ark:/27023/42c743b8b50534f1d22517ed4d04f1ee> <https://colonialcollections.nl/schema#name> "Java, Res. Batavia" .
@@ -24,9 +31,10 @@
 <https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#identifier> "2001/02/26-9-3" .
 <https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#name> "Officieren Gezondheid, Hospitaalsoldaten en Ambulance (te Velde) O.I.Leger 1897" .
 <https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#description> "Kleurenreproductie. Officieren Gezondheid, Hospitaalsoldaten en Ambulance (te Velde) O.I.Leger 1897\r\nRechtsonder vermeld: J.P. de Veer" .
-<https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#creator> "Majoor KNIL Justus Pieter de Veer" .
+<https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
 <https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/42cdd5a2b3425d90ec752fe389dcd96c> <https://colonialcollections.nl/schema#creator> "Majoor KNIL Justus Pieter de Veer" .
 <https://n2t.net/ark:/27023/428f7806beb6b57afb49975f8f814f1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/428f7806beb6b57afb49975f8f814f1c> <https://colonialcollections.nl/schema#identifier> "nf%201808-6" .
 <https://n2t.net/ark:/27023/428f7806beb6b57afb49975f8f814f1c> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's naast elkaar opgeplakt op groengrijs karton, los aangetroffen.\r\n\r\nOpnames tonen een berglandschap. Van wat grotere afstand ziet men links de zandzee, op de voorgrond (vulkanische) hellingen en op de ahctergrond de batok" .
@@ -520,12 +528,6 @@
 <https://n2t.net/ark:/27023/42cfbbf6b1006880312eb81dbc41e25a> <https://colonialcollections.nl/schema#description> "Map met 1 brief en 4 concepten voor artikelen van C.A. Heshusius:\r\n- brief aan P. van Meel (redacteur Stabelan), dd 15 januari 1989 betreffende toezending kopij en foto's;\r\n- concept getiteld \"De tanks die niet kwamen\" (5 blz typoscript);\r\n- concept getit" .
 <https://n2t.net/ark:/27023/42cfbbf6b1006880312eb81dbc41e25a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/42cfbbf6b1006880312eb81dbc41e25a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/1" .
-<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#name> "20 Colored Post Cards Marine Base Camp Lejeune  North Carolina" .
-<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#description> "Mapje met 20 prentbriefkaarten. 20 Colored Post Cards Marine Base Camp Lejeune  North Carolina.\r\nEnlisted Men's Barracks, Marine Base, Camp Lejeune, N.C.\r\nTanks in Action,\r\nLanding Party Hits Beach, \r\nAdministration Building,\r\nRaiders Land from Rubber Boa" .
-<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/42b08284db834cdc0354f858edc06a98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/428e9349d0556a10915587948164c607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/428e9349d0556a10915587948164c607> <https://colonialcollections.nl/schema#identifier> "nf%201305-26-2" .
 <https://n2t.net/ark:/27023/428e9349d0556a10915587948164c607> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt, zonder bijschrift.\r\n\r\nMidden bovenaan van fotoblad 25, staat in inkt: 'Pasir Putih' \r\nAangenomen is dat dit ook geldt voor de 5 foto's op dit fotoblad 26.\r\n\r\nAfbeelding toont een jongen en zes meisjes zi" .

@@ -1,10 +1,62 @@
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#identifier> "2002/00-93-2" .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#name> "Groepsportret militairen" .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart model. Groepsportret militairen. \r\nOp de foto: \"Leve lichting 1919 3e ploeg 7e reg. Infanterie IIIe Bat. 1e Compie 1e sectie\"\r\nOp achterzijde gestempeld: \"Photographie van B. van der Heide, 2e Oosterparkstraat 4 Amsterdam.\"\r\nOp achte" .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#inscription> "Leve lichting 1919 3e ploeg 7e reg. Infanterie IIIe Bat. 1e Compie 1e sectie" .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#creator> "B. van der Heide" .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/4" .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#name> "Chineesche Voorstraat - Soerabaia" .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Chineesche Voorstraat - Soerabaia.\" \"Compania de Manila, Willemskade, Soerabaia.\"" .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#creator> "Compañia de Manilla, Willemskade, Soerabaia" .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/124" .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: E.C. van Swieten (1859-1946).\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-417" .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#name> "Hemd veldtenue Algemene Politie Nederlands-Indië" .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#description> "Hemd van groene katoen met open kraag en revers. Het hemd is voorzien van schouderlappen en twee opgestikte borstzakken met stolpplooi en puntiggesneden borstzakken. Het hemd wordt met vier afneembare grote knopen gesloten. De schouderlappen, zakkleppen e" .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#creator> "Hendrikx" .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#identifier> "2010/09/29-2-1/3" .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#name> "Foto van een relief met agrarische scenes" .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#description> "Foto van een relief met agrarische scenes \"Copyright Nauta & Haagen, Amsterdam\"." .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#creator> "Nauta&Haagen, Amsterdam" .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#identifier> "nf%201408-69" .
 <https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#name> "Tabak in droogschuur. Het bundelen" .
 <https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#description> "afbeelding toont een grote, donkere, overdekte ruimte, een grote loods, waar op de vloer, op matten, inheemse mannen en vrouwen, tabaksbladeren bij elkaar rijgen of bundelen. Het is niet te zien of dat de bladeren al gedroogd zijn en dan anders gebundeld " .
-<https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a18012c495609c9177588bf9399553e5> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#identifier> "1963/03/20-1" .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#name> "Portret van luitenant ter zee 1e klas W.A. Kok, Ridder M.W.O. 4e klas" .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#description> "Geschilderd zelfportret van Luitenant ter Zee 1e klas W.A. Kok RMWO4" .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#creator> "Luitenant-ter-zee W.A. Kok" .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#identifier> "nf%20937-2" .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#name> "Menang Kabausche bruidjes" .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#creator> "Winkel Mij. v/hn P. Baumer & Co. (Padang)" .
 <https://n2t.net/ark:/27023/a19cc550f57083931045f0d20f7f5818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a19cc550f57083931045f0d20f7f5818> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-18" .
 <https://n2t.net/ark:/27023/a19cc550f57083931045f0d20f7f5818> <https://colonialcollections.nl/schema#name> "Krijgsgevangene 8105" .
@@ -12,6 +64,13 @@
 <https://n2t.net/ark:/27023/a19cc550f57083931045f0d20f7f5818> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/a19cc550f57083931045f0d20f7f5818> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a19cc550f57083931045f0d20f7f5818> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/336" .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Inlandsche Jeugd in de Kali.\"\r\nUitgave van Deli Courant." .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a1a59bf1b8c172ab52101042660b1478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a1a59bf1b8c172ab52101042660b1478> <https://colonialcollections.nl/schema#identifier> "nf%201357-9" .
 <https://n2t.net/ark:/27023/a1a59bf1b8c172ab52101042660b1478> <https://colonialcollections.nl/schema#name> "Gymnastiek" .
@@ -33,6 +92,14 @@
 <https://n2t.net/ark:/27023/a1afd7d78d12c614b21cff93d0bc0a6e> <https://colonialcollections.nl/schema#creator> "H.A. van den Eynde" .
 <https://n2t.net/ark:/27023/a1afd7d78d12c614b21cff93d0bc0a6e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a1afd7d78d12c614b21cff93d0bc0a6e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#identifier> "1887/02-1-2" .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#name> "Voorstellende typen van de bewoners van verschillende eilanden in de Indische archipel." .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#description> "Prent. Lithografie in kleur. Buginees, Wedono & Toekang Reaal. Door E. Dubois. Uitgegeven door Ritsema te Haarlem.\r\nDe prent is waarschijnlijk ingelijst. Uitgelijst 2001.\r\nGerestaureerd zomer 2001 Atelier KOP.\r\n\r\nBoeginees.Orang Njang Pikol Payong. Zonnen" .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#creator> "Ernest de Jancigny Dubois" .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#creator> "Coenraad Ritsema" .
 <https://n2t.net/ark:/27023/a1b8b262a547499e8a4499d35ba7d7cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a1b8b262a547499e8a4499d35ba7d7cd> <https://colonialcollections.nl/schema#identifier> "1976/08/04-1" .
 <https://n2t.net/ark:/27023/a1b8b262a547499e8a4499d35ba7d7cd> <https://colonialcollections.nl/schema#name> "Portret Generaal-majoor P.P.H. van Ham, MWO 4" .
@@ -59,13 +126,6 @@
 <https://n2t.net/ark:/27023/a1a806ea5befd2cf34e3b5bc4be9d7b9> <https://colonialcollections.nl/schema#inscription> "5.01.1945" .
 <https://n2t.net/ark:/27023/a1a806ea5befd2cf34e3b5bc4be9d7b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a1a806ea5befd2cf34e3b5bc4be9d7b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#identifier> "2002/00-93-2" .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#name> "Groepsportret militairen" .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart model. Groepsportret militairen. \r\nOp de foto: \"Leve lichting 1919 3e ploeg 7e reg. Infanterie IIIe Bat. 1e Compie 1e sectie\"\r\nOp achterzijde gestempeld: \"Photographie van B. van der Heide, 2e Oosterparkstraat 4 Amsterdam.\"\r\nOp achte" .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#inscription> "Leve lichting 1919 3e ploeg 7e reg. Infanterie IIIe Bat. 1e Compie 1e sectie" .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a19061052f6dc7b280be8d68d518bda5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a17391949b7540ab551af669962ffc8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a17391949b7540ab551af669962ffc8e> <https://colonialcollections.nl/schema#identifier> "2017/04/03-5-7/280" .
 <https://n2t.net/ark:/27023/a17391949b7540ab551af669962ffc8e> <https://colonialcollections.nl/schema#name> "Foto diensttijd in Nederlands-Indië" .
@@ -492,54 +552,6 @@
 <https://n2t.net/ark:/27023/a1b8b972a2c6e8c57a66e36e7c3f3ffc> <https://colonialcollections.nl/schema#description> "Javaanse krisschede (incompleet & beschadigd)" .
 <https://n2t.net/ark:/27023/a1b8b972a2c6e8c57a66e36e7c3f3ffc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a1b8b972a2c6e8c57a66e36e7c3f3ffc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/4" .
-<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#name> "Chineesche Voorstraat - Soerabaia" .
-<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Chineesche Voorstraat - Soerabaia.\" \"Compania de Manila, Willemskade, Soerabaia.\"" .
-<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a175bf99dd54d3d9d7d1ae9b6b836187> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/124" .
-<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: E.C. van Swieten (1859-1946).\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
-<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a17662d93fff6d4cc3e8fba83fb82b1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-417" .
-<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#name> "Hemd veldtenue Algemene Politie Nederlands-Indië" .
-<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#description> "Hemd van groene katoen met open kraag en revers. Het hemd is voorzien van schouderlappen en twee opgestikte borstzakken met stolpplooi en puntiggesneden borstzakken. Het hemd wordt met vier afneembare grote knopen gesloten. De schouderlappen, zakkleppen e" .
-<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a177574b1e87b0a1e1823a4588506cd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#identifier> "2010/09/29-2-1/3" .
-<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#name> "Foto van een relief met agrarische scenes" .
-<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#description> "Foto van een relief met agrarische scenes \"Copyright Nauta & Haagen, Amsterdam\"." .
-<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a17f73dc29641d98999bd8652f5eeff9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#identifier> "1963/03/20-1" .
-<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#name> "Portret van luitenant ter zee 1e klas W.A. Kok, Ridder M.W.O. 4e klas" .
-<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#description> "Geschilderd zelfportret van Luitenant ter Zee 1e klas W.A. Kok RMWO4" .
-<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a18bdc92f3016f74c57d9cb3113fd8f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#identifier> "nf%20937-2" .
-<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#name> "Menang Kabausche bruidjes" .
-<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
-<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a18bec2805c15c9f172af54c527b0dcf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/336" .
-<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Inlandsche Jeugd in de Kali.\"\r\nUitgave van Deli Courant." .
-<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a1a0f076c117721f85d4b8c6a08a21c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#identifier> "1887/02-1-2" .
-<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#name> "Voorstellende typen van de bewoners van verschillende eilanden in de Indische archipel." .
-<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#description> "Prent. Lithografie in kleur. Buginees, Wedono & Toekang Reaal. Door E. Dubois. Uitgegeven door Ritsema te Haarlem.\r\nDe prent is waarschijnlijk ingelijst. Uitgelijst 2001.\r\nGerestaureerd zomer 2001 Atelier KOP.\r\n\r\nBoeginees.Orang Njang Pikol Payong. Zonnen" .
-<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a1b75e07d37d6a016bad3689043cb983> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a179dfec7132918a0c039e44138e720b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a179dfec7132918a0c039e44138e720b> <https://colonialcollections.nl/schema#identifier> "2015/11/02-1-7/2" .
 <https://n2t.net/ark:/27023/a179dfec7132918a0c039e44138e720b> <https://colonialcollections.nl/schema#description> "Foto" .

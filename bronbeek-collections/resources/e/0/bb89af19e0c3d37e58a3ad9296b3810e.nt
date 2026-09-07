@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/55" .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#name> "Plaat 55. Kemala Rödjö en Kemala Derna met onderhorigen melden zich." .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 55. Kemala Rödjö en Kemala Derna met onderhorigen melden zich." .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#inscription> "Plaat 55. Kemala Rödjö en Kemala Derna met onderhorigen melden zich." .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-14" .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#name> "Djember, Kotta" .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#inscription> "Djember Kotta" .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6263fb584520819fdffe529ad4aa888f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6263fb584520819fdffe529ad4aa888f> <https://colonialcollections.nl/schema#identifier> "1997/00-1/280" .
 <https://n2t.net/ark:/27023/6263fb584520819fdffe529ad4aa888f> <https://colonialcollections.nl/schema#name> "Kaart van een gedeelte van West-Java" .
@@ -21,9 +37,10 @@
 <https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#identifier> "nf%201469-4" .
 <https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant kaart is tekst gedrukt: 'Hotel Wanasari - Soekaboemi - 4000 voet.\r\nOok is er het logo van de drukkerij: W & S H (in een klein driehoekje).\r\n\r\nOpname toont een gebouw op " .
-<https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#creator> "W & S H" .
 <https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6256e046c4fc10cc5ad6b9247df37158> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/626051278e13f47b0c6eca4753457862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/626051278e13f47b0c6eca4753457862> <https://colonialcollections.nl/schema#identifier> "nf%201894" .
 <https://n2t.net/ark:/27023/626051278e13f47b0c6eca4753457862> <https://colonialcollections.nl/schema#description> "Fotonegatief, kleur, los aangetroffen in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een traditionele woning ergens in Oost Indonesië. Het gebouwtje zelf staat op stevige palen. Er staat een bamboetrap om naar de opening te klimmen die toegang geeft tot he" .
@@ -49,20 +66,6 @@
 <https://n2t.net/ark:/27023/623676cd64e44d15a2efa10c2605e95f> <https://colonialcollections.nl/schema#inscription> "Mijn reis met het m.s. Tabinta van Tj.Priok naar Amsterdam, vertrek 4 november 1949, aankomst 1 December 1949" .
 <https://n2t.net/ark:/27023/623676cd64e44d15a2efa10c2605e95f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/623676cd64e44d15a2efa10c2605e95f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/55" .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#name> "Plaat 55. Kemala Rödjö en Kemala Derna met onderhorigen melden zich." .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 55. Kemala Rödjö en Kemala Derna met onderhorigen melden zich." .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#inscription> "Plaat 55. Kemala Rödjö en Kemala Derna met onderhorigen melden zich." .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6242725b43af270cf88f63e1f2dc4940> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-14" .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#name> "Djember, Kotta" .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#inscription> "Djember Kotta" .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/624e2b5189a54fb44676d156d4e48424> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/623367be706970784f2ab63764744497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/623367be706970784f2ab63764744497> <https://colonialcollections.nl/schema#identifier> "1995/02/27-1-2" .
 <https://n2t.net/ark:/27023/623367be706970784f2ab63764744497> <https://colonialcollections.nl/schema#name> "Broek, driekwart, Japans" .

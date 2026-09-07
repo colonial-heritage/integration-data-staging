@@ -6,6 +6,22 @@
 <https://n2t.net/ark:/27023/32f65501e1c23ed4d88363fcb1d58af1> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/32f65501e1c23ed4d88363fcb1d58af1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/32f65501e1c23ed4d88363fcb1d58af1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#identifier> "2013/05/13-1" .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#name> "De slag om Bronbeek 13-2-1979" .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#description> "Schilderij in lijst, verf op doek. Borststuk van een inwoner van Bronbeek. Getiteld op lijst: \"De slag om Bronbeek, 13-2-1979\". Het schilderij is linksonder gesigneerd: \"J.v.V.\" hetgeen staat voor J.P.A. van Velzen. J. van Velzen was als burger mederwerke" .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#inscription> "De slag om Bronbeek, 13-2-1979" .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#creator> "J.P.A. van Velzen" .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#identifier> "1996/04/06-1-42" .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#name> "Afscheidsfoto van een KNIL soldaat te Harderwijk, 1892" .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#description> "Foto. Portret van een soldaat KNIL voor zijn vertrek uit Harderwijk. \"Tot wederziens 1892\"" .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#inscription> "Tot wederziens, 1892" .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#creator> "D. Schooneboom" .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/32e5e55dd17b8aca06a54ac3607e0b23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32e5e55dd17b8aca06a54ac3607e0b23> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-1/7" .
 <https://n2t.net/ark:/27023/32e5e55dd17b8aca06a54ac3607e0b23> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"Katholiek Thuisfront\"" .
@@ -27,6 +43,13 @@
 <https://n2t.net/ark:/27023/32e9323f006366d86acac57d39297840> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/32e9323f006366d86acac57d39297840> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/32e9323f006366d86acac57d39297840> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-13" .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#name> "Nederlandse troepen, die Jogyakarta binnengaan en mensen als schild gebruiken" .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#description> "Nederlandse troepen, die Jogyakarta binnengaan en mensen als schild gebruiken. 19 december 1948" .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/32ed7c562696437d3d662389a65d57a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32ed7c562696437d3d662389a65d57a5> <https://colonialcollections.nl/schema#identifier> "nf%201649-4" .
 <https://n2t.net/ark:/27023/32ed7c562696437d3d662389a65d57a5> <https://colonialcollections.nl/schema#name> "Tjandi Panataran - Garoeda" .
@@ -34,6 +57,41 @@
 <https://n2t.net/ark:/27023/32ed7c562696437d3d662389a65d57a5> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/32ed7c562696437d3d662389a65d57a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/32ed7c562696437d3d662389a65d57a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-13/4" .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#name> "Vermoedelijk luitenant-kolonel C.M. Donck te paard met achter hem militairen in kolone tijdens een reünie van het voormalige instructie-bataljon" .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#description> "Vermoedelijk luitenant-kolonel C.M. Donck te paard met achter hem militairen in kolone tijdens een reünie van het voormalige instructie-bataljon.\r\n\r\nVier persfoto's van activiteiten in het kader van de reünie van het vm. instructie-bataljon. Lnt. Kol. C.M" .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#creator> "Fotopersbureau J. Voeten" .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/27" .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#creator> "Fr.Jul. von Kolkow" .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#identifier> "nf%201256" .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#name> "De Barong dans, Bali" .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#description> "Foto, kleur, rechthoekig, los\r\n\r\nAchterop een sticker van Museum Nusantara met o.a. gegevens van fotograaf en titel en geografische herkomst.\r\n\r\nOpname toont twee hoofdrolspelers uit de Barong dans." .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#creator> "H.(Hiddo) R. Sinia" .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/344" .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Masdjid, Palembang.\"\r\nUitgave van M.A. Jamato, Palembang." .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#creator> "M.A. Jamato" .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#identifier> "1994/09/22-2" .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#name> "Suriname: Watermolenstraat, c.a.1900" .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#description> "Ingekleurde ets?, voorstellende de Watermolenstraat omstreeks 1900, gedateerd ong. 1963, nr. 52. Opgeplakt op karton." .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#creator> "J.C. Volders" .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/331eac669ff4fdcefda99b6b9f1dcc8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/331eac669ff4fdcefda99b6b9f1dcc8d> <https://colonialcollections.nl/schema#identifier> "nf%201413-42" .
 <https://n2t.net/ark:/27023/331eac669ff4fdcefda99b6b9f1dcc8d> <https://colonialcollections.nl/schema#name> "Kreek te Palembang" .
@@ -72,20 +130,6 @@
 <https://n2t.net/ark:/27023/3313624900451a1ae4a24a58de72e07b> <https://colonialcollections.nl/schema#inscription> "32" .
 <https://n2t.net/ark:/27023/3313624900451a1ae4a24a58de72e07b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3313624900451a1ae4a24a58de72e07b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#identifier> "2013/05/13-1" .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#name> "De slag om Bronbeek 13-2-1979" .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#description> "Schilderij in lijst, verf op doek. Borststuk van een inwoner van Bronbeek. Getiteld op lijst: \"De slag om Bronbeek, 13-2-1979\". Het schilderij is linksonder gesigneerd: \"J.v.V.\" hetgeen staat voor J.P.A. van Velzen. J. van Velzen was als burger mederwerke" .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#inscription> "De slag om Bronbeek, 13-2-1979" .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3307f627d93604acee1f2e23d9f916a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#identifier> "1996/04/06-1-42" .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#name> "Afscheidsfoto van een KNIL soldaat te Harderwijk, 1892" .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#description> "Foto. Portret van een soldaat KNIL voor zijn vertrek uit Harderwijk. \"Tot wederziens 1892\"" .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#inscription> "Tot wederziens, 1892" .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/330cb0dd7b64aae5a2c03210c7a6975a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/32e23cf8e2cec4bc132b23ff96cafe3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32e23cf8e2cec4bc132b23ff96cafe3d> <https://colonialcollections.nl/schema#identifier> "1999/03/01-2-29" .
 <https://n2t.net/ark:/27023/32e23cf8e2cec4bc132b23ff96cafe3d> <https://colonialcollections.nl/schema#name> "Mouwembleem \"Nederlandsch Indië\"" .
@@ -482,42 +526,6 @@
 <https://n2t.net/ark:/27023/331dcfa20f549fb7de76197dd3656930> <https://colonialcollections.nl/schema#description> "Foto. Kleur. Afbeelding m.b.t. de opening van de Kumpulan van Bronbeek op 24 september 1992. Op de opening was onder andere minister van Defensie Relus Ter Beek aanwezig." .
 <https://n2t.net/ark:/27023/331dcfa20f549fb7de76197dd3656930> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/331dcfa20f549fb7de76197dd3656930> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-13" .
-<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#name> "Nederlandse troepen, die Jogyakarta binnengaan en mensen als schild gebruiken" .
-<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#description> "Nederlandse troepen, die Jogyakarta binnengaan en mensen als schild gebruiken. 19 december 1948" .
-<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/32ed4d24773820b919012fa2e5331d5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-13/4" .
-<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#name> "Vermoedelijk luitenant-kolonel C.M. Donck te paard met achter hem militairen in kolone tijdens een reünie van het voormalige instructie-bataljon" .
-<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#description> "Vermoedelijk luitenant-kolonel C.M. Donck te paard met achter hem militairen in kolone tijdens een reünie van het voormalige instructie-bataljon.\r\n\r\nVier persfoto's van activiteiten in het kader van de reünie van het vm. instructie-bataljon. Lnt. Kol. C.M" .
-<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/32f1b01d4de1ccfdff6744e9677a373a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/27" .
-<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/32fd748d5b6a6cf1618860d643269f33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#identifier> "nf%201256" .
-<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#name> "De Barong dans, Bali" .
-<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#description> "Foto, kleur, rechthoekig, los\r\n\r\nAchterop een sticker van Museum Nusantara met o.a. gegevens van fotograaf en titel en geografische herkomst.\r\n\r\nOpname toont twee hoofdrolspelers uit de Barong dans." .
-<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/33079f286f939376ac092dac8a802acd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/344" .
-<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Masdjid, Palembang.\"\r\nUitgave van M.A. Jamato, Palembang." .
-<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/330d1630bdc7061a9116bdff4756d1e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#identifier> "1994/09/22-2" .
-<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#name> "Suriname: Watermolenstraat, c.a.1900" .
-<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#description> "Ingekleurde ets?, voorstellende de Watermolenstraat omstreeks 1900, gedateerd ong. 1963, nr. 52. Opgeplakt op karton." .
-<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/33194b0192c6db93c43fcd6e0de02cf4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/32e285e21407bf473e22434ce0e13d14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32e285e21407bf473e22434ce0e13d14> <https://colonialcollections.nl/schema#identifier> "S%20230-771" .
 <https://n2t.net/ark:/27023/32e285e21407bf473e22434ce0e13d14> <https://colonialcollections.nl/schema#description> "Herkomst: Indonesië." .

@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-157/4" .
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#name> "Kabinetfoto van vier zwart geschminkte mannen met hoeden, verkleedkleren en muziekinstrumenten" .
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#description> "Foto. Studioportret van vier zwart gesminkte mannen met hoeden, verkleedkleren en muziekinstrumenten. Twee van hen zitten, twee staan.\r\nKabinetfoto van fotograaf P. Stutz uit Maastricht.\r\nTekst recto: ´Firma P. Stutz. Hofphotograaf. Maastricht.´\r\nGedrukte" .
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#creator> "P. Stutz" .
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/baa4cefa5106c2e9f46933432564ff1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/baa4cefa5106c2e9f46933432564ff1f> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/198" .
 <https://n2t.net/ark:/27023/baa4cefa5106c2e9f46933432564ff1f> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -5,13 +12,36 @@
 <https://n2t.net/ark:/27023/baa4cefa5106c2e9f46933432564ff1f> <https://colonialcollections.nl/schema#creator> "Ebner" .
 <https://n2t.net/ark:/27023/baa4cefa5106c2e9f46933432564ff1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/baa4cefa5106c2e9f46933432564ff1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#identifier> "nf%201765-16" .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#name> "Dakversiering voor Chamadi's woning te Tobati" .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt tekst: 'Tabati, Humboldtbaai - Dakversiering (casuaris) voor dak van de woning v/h adathoofd Chamadi (foto Galis)\r\nOok is er een stempel van het 'RIJKSMUSEUM VOOR VOLKENKUNDE te LEIDEN'\r\n\r\nOpname" .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#creator> "Galis" .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/354" .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Societeit Minahassa, Menado\".\r\nUitgave van Gebr. Que, Menado." .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-7" .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#name> "Plaat G uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#description> "Tekening \"G\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1. Eurasian seaman, Marinevendel; Djakarta, 1941\r\n1a. Badg" .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#creator> "Adam Hook" .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#identifier> "nf%201008" .
 <https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#name> "Barisdanser, voorstellende: de mediteerende Ardjoena" .
 <https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#description> "ansichtkaart, rechthoekig, kleur. Samen met nog een andere ansichtkaart met tape aan één kant op karton opgeplakt.\r\n\r\nDeze kaarten hebben de gebruikelijke belijning van ansichtkaarten. En er is tekst.\r\nTitels in drie talen, Nederlands, Indonesisch en Fran" .
-<https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
 <https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
+<https://n2t.net/ark:/27023/badd0ce734cc9f0662fd20134859a962> <https://colonialcollections.nl/schema#creator> "L. Blok" .
 <https://n2t.net/ark:/27023/bae3a1af5e08706cb77bf5e9e85c33bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bae3a1af5e08706cb77bf5e9e85c33bd> <https://colonialcollections.nl/schema#identifier> "2015/01/22-1-5/10" .
 <https://n2t.net/ark:/27023/bae3a1af5e08706cb77bf5e9e85c33bd> <https://colonialcollections.nl/schema#name> "Chinesche begrafenis" .
@@ -26,6 +56,26 @@
 <https://n2t.net/ark:/27023/baeb49a979bf0f6cfcaa5cb4385e07ac> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/baeb49a979bf0f6cfcaa5cb4385e07ac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/baeb49a979bf0f6cfcaa5cb4385e07ac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#identifier> "IB1993/01/15-6" .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#name> "Portret van F.J. van Voorn" .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#description> "Portret van de heer F.J. van Voorn kijkend naar links, met bril en witte baard. In uniformjas met onderscheidingen" .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#creator> "Edgar Jansen" .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/147" .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia. 1282. Glodok." .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#identifier> "EDO%20481-89" .
+<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname toont kleine vierkante gebouwtjes met lage puntdaken op palen. Het gehele beeld heeft veel verwantschap met de beelden op de ansichtkaarten EDO 481-83 en EDO 481-84.\r\nHet betreft daar het tempe" .
+<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bae1937ae03a07b8f664241d277d7735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bae1937ae03a07b8f664241d277d7735> <https://colonialcollections.nl/schema#identifier> "nf%201784-2" .
 <https://n2t.net/ark:/27023/bae1937ae03a07b8f664241d277d7735> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt verwijzing naar inventarisnummer S 956.\r\nOok op achterkant in potlood tekst: 'dochter poenggawa Boeleleng'\r\n\r\nOpname toont een portret van een jonge Balinese vrouw. Zij is heel f" .
@@ -507,42 +557,6 @@
 <https://n2t.net/ark:/27023/baec814e01115426caef7c9191bca054> <https://colonialcollections.nl/schema#description> "Instructie betreffende de \"Krijgstucht en het bijbrengen en handhaven daarvan\".\r\n17 blz. stencil" .
 <https://n2t.net/ark:/27023/baec814e01115426caef7c9191bca054> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/baec814e01115426caef7c9191bca054> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-157/4" .
-<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#name> "Kabinetfoto van vier zwart geschminkte mannen met hoeden, verkleedkleren en muziekinstrumenten" .
-<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#description> "Foto. Studioportret van vier zwart gesminkte mannen met hoeden, verkleedkleren en muziekinstrumenten. Twee van hen zitten, twee staan.\r\nKabinetfoto van fotograaf P. Stutz uit Maastricht.\r\nTekst recto: ´Firma P. Stutz. Hofphotograaf. Maastricht.´\r\nGedrukte" .
-<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/baa22ce8cbd4fedfef67a3ae7ceedd52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#identifier> "nf%201765-16" .
-<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#name> "Dakversiering voor Chamadi's woning te Tobati" .
-<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt tekst: 'Tabati, Humboldtbaai - Dakversiering (casuaris) voor dak van de woning v/h adathoofd Chamadi (foto Galis)\r\nOok is er een stempel van het 'RIJKSMUSEUM VOOR VOLKENKUNDE te LEIDEN'\r\n\r\nOpname" .
-<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bad4a7744cbc3a06c5cc8afb91294318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/354" .
-<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Societeit Minahassa, Menado\".\r\nUitgave van Gebr. Que, Menado." .
-<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bad76faff44d1cca349d6ee0c9df7026> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-7" .
-<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#name> "Plaat G uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
-<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#description> "Tekening \"G\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1. Eurasian seaman, Marinevendel; Djakarta, 1941\r\n1a. Badg" .
-<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/badada4a8c1297fff996309be9b48ce9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#identifier> "IB1993/01/15-6" .
-<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#name> "Portret van F.J. van Voorn" .
-<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#description> "Portret van de heer F.J. van Voorn kijkend naar links, met bril en witte baard. In uniformjas met onderscheidingen" .
-<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/baebbad66f474d5022fb2164962bd7bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/147" .
-<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia. 1282. Glodok." .
-<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/baed03eb2c7109c855cc41d1486552e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bab7d2aeaa942edf55c09c3b790a9ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bab7d2aeaa942edf55c09c3b790a9ba3> <https://colonialcollections.nl/schema#identifier> "nf%201414-78" .
 <https://n2t.net/ark:/27023/bab7d2aeaa942edf55c09c3b790a9ba3> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 78, staat vermeld: 7-37 Kalioerang\r\n\r\nOpname toont drie volwassen blanke vrouwen, van dichtbij gefotografeerd.\r\n\r\nDe vrouw in het midden is Miep Knaap-v" .
@@ -588,11 +602,6 @@
 <https://n2t.net/ark:/27023/bae8b3563713eb969fb143789540e4a9> <https://colonialcollections.nl/schema#description> "Hoofdtooi, Borneo" .
 <https://n2t.net/ark:/27023/bae8b3563713eb969fb143789540e4a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bae8b3563713eb969fb143789540e4a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#identifier> "EDO%20481-89" .
-<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname toont kleine vierkante gebouwtjes met lage puntdaken op palen. Het gehele beeld heeft veel verwantschap met de beelden op de ansichtkaarten EDO 481-83 en EDO 481-84.\r\nHet betreft daar het tempe" .
-<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bac7833e7a3275379c8f6135c8f9fad5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bad997f7ebfde9d64ae3280314d039ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bad997f7ebfde9d64ae3280314d039ae> <https://colonialcollections.nl/schema#identifier> "2016/04/20-1-1/9" .
 <https://n2t.net/ark:/27023/bad997f7ebfde9d64ae3280314d039ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

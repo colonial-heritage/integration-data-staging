@@ -13,6 +13,13 @@
 <https://n2t.net/ark:/27023/a090f3d68a33b08cfec0bf59f2b267f0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a090f3d68a33b08cfec0bf59f2b267f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a090f3d68a33b08cfec0bf59f2b267f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#identifier> "1969/03/03-1-3" .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#name> "Foto van de onthulling Monument Generaal K. van der Heijden te Arnhem" .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#description> "Foto van de onthulling Monument Generaal K. van der Heijden te Arnhem, opname van W. Moonen te Arnhem.\r\n\r\nVerso: H.14." .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#creator> "Dhr. W. Moonen" .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a0a33a05bbc01db480a02cda37b5e08d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0a33a05bbc01db480a02cda37b5e08d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/189" .
 <https://n2t.net/ark:/27023/a0a33a05bbc01db480a02cda37b5e08d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -20,6 +27,13 @@
 <https://n2t.net/ark:/27023/a0a33a05bbc01db480a02cda37b5e08d> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/a0a33a05bbc01db480a02cda37b5e08d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a0a33a05bbc01db480a02cda37b5e08d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/9" .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#name> "Stafkaart Meester Cornelis, Java & Madura, Nederlands Indië" .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#description> "Stafkaart Nederlands Indië; Java & Madura, Meester Cornelis. schaal 1 : 50.000.\r\nSheet 37/XXXVII-C\r\nOp kaart: Meester Cornelis en het gebied ten zuid-oosten daarvan.\r\n\r\nReproductie uit 1943 van een eerste editie uit 1942, uitgegeven door U.S. Army. Kaart " .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#creator> "India Offices (P.Z.O.)" .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a0c409eabbea1a4c6d5e6f7b8bbf187e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0c409eabbea1a4c6d5e6f7b8bbf187e> <https://colonialcollections.nl/schema#identifier> "nf%20836-19-5" .
 <https://n2t.net/ark:/27023/a0c409eabbea1a4c6d5e6f7b8bbf187e> <https://colonialcollections.nl/schema#name> "Verlof 1928. Liesbosch 3 Juni 1928" .
@@ -42,9 +56,10 @@
 <https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#identifier> "nf%201728-7" .
 <https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant tekst in potlood: 'Afk.: Hr. H. Voorrips, oud gezagvoerder K.P.M. - in inkt:\r\nSiak rivier, hout laden'\r\n\r\nOpname toont een rivier met een gemeerd liggend schip. Het heeft twee masten. De zeilen zijn gestr" .
-<https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a0a53998bf8789add4267750994d9c97> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a0ac2cd214884dd852c61f24653ab278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0ac2cd214884dd852c61f24653ab278> <https://colonialcollections.nl/schema#identifier> "nf%2046" .
 <https://n2t.net/ark:/27023/a0ac2cd214884dd852c61f24653ab278> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit.\r\n\r\nOpname toont een heel eenvoudige kerk, met klein uistekend torentje. Het is volledig opgetrokken uit plantaardig materiaal. De wanden zijn zo te zien gemaakt vfan platgeslagen bamboe.\r\n\r\nAangenomen is dat dit een kerkje is dat " .
@@ -57,6 +72,12 @@
 <https://n2t.net/ark:/27023/a0b250c031f0ee77114c0875aa4995cc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a0b250c031f0ee77114c0875aa4995cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a0b250c031f0ee77114c0875aa4995cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#identifier> "nf%201711" .
+<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, geplakt op lichtgrijs karton.\r\n\r\nOp voorkant, onder de foto, in zilverkleur: Robt Lenz & Co - SINGAPORE - Corner Atamford Road & Hill Street.\r\n\r\nOp achterkant in inkt: [...] - ChulalonkornK - Smarang 25th July 1896\r\n\r\nOpname toont een por" .
+<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#creator> "Robert Lenz & Co, Singapore" .
+<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a0c07724467b1b43541d51524296956e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0c07724467b1b43541d51524296956e> <https://colonialcollections.nl/schema#identifier> "nf%201311-40" .
 <https://n2t.net/ark:/27023/a0c07724467b1b43541d51524296956e> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, los\r\n\r\nOp achterkant staat in inkt het jaartal '1929' \r\n\r\nOpname van drie personen, twee volwasseenen in het wit gekleed en een klein jongetje. Zij staan, poserend voor de foto, in licht struikgewas op de oever van een rivier, die achter " .
@@ -565,18 +586,6 @@
 <https://n2t.net/ark:/27023/a0d06177b79ebd86c2454a8f455806dd> <https://colonialcollections.nl/schema#description> "dragon, officieren. Sabelkwast." .
 <https://n2t.net/ark:/27023/a0d06177b79ebd86c2454a8f455806dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a0d06177b79ebd86c2454a8f455806dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#identifier> "1969/03/03-1-3" .
-<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#name> "Foto van de onthulling Monument Generaal K. van der Heijden te Arnhem" .
-<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#description> "Foto van de onthulling Monument Generaal K. van der Heijden te Arnhem, opname van W. Moonen te Arnhem.\r\n\r\nVerso: H.14." .
-<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a09a038d84068a597c5235b1a1807870> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/9" .
-<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#name> "Stafkaart Meester Cornelis, Java & Madura, Nederlands Indië" .
-<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#description> "Stafkaart Nederlands Indië; Java & Madura, Meester Cornelis. schaal 1 : 50.000.\r\nSheet 37/XXXVII-C\r\nOp kaart: Meester Cornelis en het gebied ten zuid-oosten daarvan.\r\n\r\nReproductie uit 1943 van een eerste editie uit 1942, uitgegeven door U.S. Army. Kaart " .
-<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a0c01eee172717745194c277be795f8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a094e45858d17bac46d1e931655ffe28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a094e45858d17bac46d1e931655ffe28> <https://colonialcollections.nl/schema#identifier> "nf%20696-14" .
 <https://n2t.net/ark:/27023/a094e45858d17bac46d1e931655ffe28> <https://colonialcollections.nl/schema#description> "Opname van een rol met punten, vermoedelijk gemaakt van bamboe. Geen idee waarvoor dit object dient." .
@@ -587,11 +596,6 @@
 <https://n2t.net/ark:/27023/a0b1991a9765f42ad3cea68c805a506b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
 <https://n2t.net/ark:/27023/a0b1991a9765f42ad3cea68c805a506b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a0b1991a9765f42ad3cea68c805a506b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#identifier> "nf%201711" .
-<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, geplakt op lichtgrijs karton.\r\n\r\nOp voorkant, onder de foto, in zilverkleur: Robt Lenz & Co - SINGAPORE - Corner Atamford Road & Hill Street.\r\n\r\nOp achterkant in inkt: [...] - ChulalonkornK - Smarang 25th July 1896\r\n\r\nOpname toont een por" .
-<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a0b33b212b30799a9ea1a8ece8f7920f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a0a3a07f2c2cdbe6dc4b546077286fe9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a0a3a07f2c2cdbe6dc4b546077286fe9> <https://colonialcollections.nl/schema#identifier> "2016/04/20-1-1/27" .
 <https://n2t.net/ark:/27023/a0a3a07f2c2cdbe6dc4b546077286fe9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

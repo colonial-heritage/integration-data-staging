@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/12" .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Soerabaia-Serie." .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Soerabaia-Serie.\r\nBevat 13 prentbriefkaarten, los in een rode kaft/omslag. Op kaft in blauw potlood: \"20\".\r\n\r\nNrs.: 205" .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Soerabaia-Serie." .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#creator> "N.V. Handel Maatschappij Appel & Duveen" .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/84e14a7b8dcaebca15ed5a9f0f6b9c4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84e14a7b8dcaebca15ed5a9f0f6b9c4a> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-139/1" .
 <https://n2t.net/ark:/27023/84e14a7b8dcaebca15ed5a9f0f6b9c4a> <https://colonialcollections.nl/schema#name> "Foto herdenking bij Van der Heijdenbank op Landgoed Bronbeek" .
@@ -9,9 +17,10 @@
 <https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#identifier> "2000/01/19-2-1" .
 <https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#name> "Landkaart Pakanbaroe, Sumatra" .
 <https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#description> "Landkaart Sumatra, Pakanbaroe  en gebied rondom Pakanbaroe; schaal 1:250.000.\r\nMet groen potlood rechtsboven op kaart:\" P.Baroe-->Moeara 217 km.\"\r\nAchterop kaart met potlood: \"PAKAN-BAROE 30\"\r\n\r\nSheet 30; gedrukt door Survey of India Offices (H.L.O.), REG" .
-<https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
+<https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#creator> "Survey of India Offices" .
 <https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/84e5b1f44e4cc8c3f518f83c4a6b60cc> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
 <https://n2t.net/ark:/27023/84f067bb5049fde5591d498469f958a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84f067bb5049fde5591d498469f958a9> <https://colonialcollections.nl/schema#identifier> "nf%20705-43" .
 <https://n2t.net/ark:/27023/84f067bb5049fde5591d498469f958a9> <https://colonialcollections.nl/schema#name> "'Passar te fort de Kock 1888'" .
@@ -19,6 +28,13 @@
 <https://n2t.net/ark:/27023/84f067bb5049fde5591d498469f958a9> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/84f067bb5049fde5591d498469f958a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/84f067bb5049fde5591d498469f958a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#identifier> "2016/08/24-5-5" .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#name> "Carte de visite van Kapitein S.J.E.J.V. Barthelemij, circa 1870" .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#description> "Carte de visite van S.J.E.J.V. Barthelemij in het uniform van een kapitein infanterie KNIL. Borststuk, met onderscheidingen: Ereteken Belangrijke Krijgsverrichtingen met Eervolle Vermelding en Officierskruis. Naar links gekeerd, circa 1870." .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#creator> "De Lavieter & Co, Photographes" .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/84ff7ef9c6c023300bfb0b839f4f16ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84ff7ef9c6c023300bfb0b839f4f16ab> <https://colonialcollections.nl/schema#identifier> "1875/07-1-29/2" .
 <https://n2t.net/ark:/27023/84ff7ef9c6c023300bfb0b839f4f16ab> <https://colonialcollections.nl/schema#name> "Lans" .
@@ -40,6 +56,13 @@
 <https://n2t.net/ark:/27023/8504e5b70a37dd77cf46b24fbba6fd43> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/8504e5b70a37dd77cf46b24fbba6fd43> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8504e5b70a37dd77cf46b24fbba6fd43> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/22" .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Museum hal 1e verdieping overloop" .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Museum hal 1e verdieping overloop." .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/84e1900dc7ef7c0c83f971cf65467455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84e1900dc7ef7c0c83f971cf65467455> <https://colonialcollections.nl/schema#identifier> "nf%20928-11-2" .
 <https://n2t.net/ark:/27023/84e1900dc7ef7c0c83f971cf65467455> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt, geen bijschrift.\r\n\r\nOpname van een aantal blanke personen die aan het zwemmen zijn. Onduidelijk is of het hier een echt zwembad betreft of een meer/rivier. Zo te zien ligt het in of bij een rubberonderneming. \r\nOp " .
@@ -88,13 +111,6 @@
 <https://n2t.net/ark:/27023/8509782314c05a079b0163f5bb992082> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8509782314c05a079b0163f5bb992082> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8509782314c05a079b0163f5bb992082> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/12" .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Soerabaia-Serie." .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Soerabaia-Serie.\r\nBevat 13 prentbriefkaarten, los in een rode kaft/omslag. Op kaft in blauw potlood: \"20\".\r\n\r\nNrs.: 205" .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Soerabaia-Serie." .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/84e15c3d7a367cdff4836ee846b88f7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/84de76138c6d1ef21a825ac30ec53c4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84de76138c6d1ef21a825ac30ec53c4c> <https://colonialcollections.nl/schema#identifier> "2013/02/04-15-1/36" .
 <https://n2t.net/ark:/27023/84de76138c6d1ef21a825ac30ec53c4c> <https://colonialcollections.nl/schema#name> "\"Gezicht op Sawahs.\"" .
@@ -503,18 +519,6 @@
 <https://n2t.net/ark:/27023/8515b4bcc9174ed620a89e4cf9132f5d> <https://colonialcollections.nl/schema#description> "Foto´s. Zwartwit. Periode 1920-1947. Totaal 202 stuks.\r\nJaren '30: familiefoto's, enkele foto's van zoutwinning door koelies, (thee-) ondernemingen en theepluksters, fabriek; 'Het Arendsnest' te Sarangan; Bali, 1938;\r\nenkele foto's met kinderen (o.a. waar" .
 <https://n2t.net/ark:/27023/8515b4bcc9174ed620a89e4cf9132f5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8515b4bcc9174ed620a89e4cf9132f5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#identifier> "2016/08/24-5-5" .
-<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#name> "Carte de visite van Kapitein S.J.E.J.V. Barthelemij, circa 1870" .
-<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#description> "Carte de visite van S.J.E.J.V. Barthelemij in het uniform van een kapitein infanterie KNIL. Borststuk, met onderscheidingen: Ereteken Belangrijke Krijgsverrichtingen met Eervolle Vermelding en Officierskruis. Naar links gekeerd, circa 1870." .
-<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/84fb03cb8ab59fad7da58599c3fc6fb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/22" .
-<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Museum hal 1e verdieping overloop" .
-<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Museum hal 1e verdieping overloop." .
-<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/85106a072e5b94afe35ac1ad09495985> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/84e2cf3accb9921a44852e3687aa2665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84e2cf3accb9921a44852e3687aa2665> <https://colonialcollections.nl/schema#identifier> "2015/07/20-1-5/71" .
 <https://n2t.net/ark:/27023/84e2cf3accb9921a44852e3687aa2665> <https://colonialcollections.nl/schema#description> "Foto" .

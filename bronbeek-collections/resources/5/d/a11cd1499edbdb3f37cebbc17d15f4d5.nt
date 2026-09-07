@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/110" .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#name> "Plaat 110. Ingang naar Kampong Hoeta Galong." .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 110. Ingang naar Kampong Hoeta Galong. (plaat 23 in publicatie Kempees)" .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#inscription> "Plaat 110. Ingang naar Kampong Hoeta Galong." .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-1/10" .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#name> "Foto´s Dienst leger Contacten, 25 stuks" .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#description> "Foto´s Dienst legercontacten, 25 stuks (meest genummerd), enkele voorzien van commentaar in pen. \r\n\r\nFoto´s gemaakt door fotograaf/journalist Bartel Hartwiesen (Ministerie van Oorlog, dienst legercontacten), 1946-1947. De foto´s handelen over het militair" .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#inscription> "HA297" .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#creator> "Dhr. Bartel Hartwiesen" .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be14e696473ae9f5e41870e85ca871b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be14e696473ae9f5e41870e85ca871b3> <https://colonialcollections.nl/schema#identifier> "nf%20834-15" .
 <https://n2t.net/ark:/27023/be14e696473ae9f5e41870e85ca871b3> <https://colonialcollections.nl/schema#name> "mev. Sant met Fransje Pop en Mien" .
@@ -5,6 +21,20 @@
 <https://n2t.net/ark:/27023/be14e696473ae9f5e41870e85ca871b3> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/be14e696473ae9f5e41870e85ca871b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be14e696473ae9f5e41870e85ca871b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/111" .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Lien v. S.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-81" .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#name> "Semq. Cherib. Stoomtram Mij." .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Semq. Cherib. Stoomtram Mij." .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be219af1effcd5132d75d0376ff9a54d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be219af1effcd5132d75d0376ff9a54d> <https://colonialcollections.nl/schema#identifier> "2002/02/08-7-6/14" .
 <https://n2t.net/ark:/27023/be219af1effcd5132d75d0376ff9a54d> <https://colonialcollections.nl/schema#name> "Tempelruine, Java" .
@@ -26,6 +56,13 @@
 <https://n2t.net/ark:/27023/be2d119f18fb4a0a825e7512010051fe> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/be2d119f18fb4a0a825e7512010051fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be2d119f18fb4a0a825e7512010051fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/92" .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van mevrouw Van Swieten-Steinmetz, echtgenote van generaal Jan van Swieten.\r\nVerso: Madame W.J.M. van Swieten née Steinmetz 1864 ; W.J.M. van Swieten-Steinmetz, echtgenote van generaal " .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#creator> "Confeld von Felbert, voorheen Emil Becher" .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be38a4984ef531448dd242478f07ea9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be38a4984ef531448dd242478f07ea9f> <https://colonialcollections.nl/schema#identifier> "nf%201227" .
 <https://n2t.net/ark:/27023/be38a4984ef531448dd242478f07ea9f> <https://colonialcollections.nl/schema#name> "Besakih - Bali" .
@@ -47,6 +84,13 @@
 <https://n2t.net/ark:/27023/be41920ba46302c99c470d88b69a6493> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/be41920ba46302c99c470d88b69a6493> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be41920ba46302c99c470d88b69a6493> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#identifier> "nf%20806" .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#name> "Badplaats Kali-Bening, Magelang" .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de badplaats Kali-Bening te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Badplaats Kali-Bening, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67750'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) " .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be49f95c116c77d98c8127bf08027f43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be49f95c116c77d98c8127bf08027f43> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-659" .
 <https://n2t.net/ark:/27023/be49f95c116c77d98c8127bf08027f43> <https://colonialcollections.nl/schema#name> "Brevetembleem arts Koninklijke Landmacht en Koninklijke Luchtmacht" .
@@ -66,6 +110,12 @@
 <https://n2t.net/ark:/27023/be166b7432cfefea7aa1f6ae87639c7f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/be166b7432cfefea7aa1f6ae87639c7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be166b7432cfefea7aa1f6ae87639c7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#identifier> "nf%20807" .
+<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Tidarlaan te Magelang.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Tidarlaan, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67722'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) vermeld 'DRUKWERK' en li" .
+<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be4aff5e3f3055da5470be78f27387ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be4aff5e3f3055da5470be78f27387ed> <https://colonialcollections.nl/schema#identifier> "nf%20233" .
 <https://n2t.net/ark:/27023/be4aff5e3f3055da5470be78f27387ed> <https://colonialcollections.nl/schema#description> "Onduidelijke opname toont een landschap.\r\n\r\nAangenomen is dat deze foto uit Nieuw Guinea stamt." .
@@ -119,20 +169,6 @@
 <https://n2t.net/ark:/27023/be49e54a13830e2ad432358218bcc8f2> <https://colonialcollections.nl/schema#inscription> "Parree Horst (L)" .
 <https://n2t.net/ark:/27023/be49e54a13830e2ad432358218bcc8f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be49e54a13830e2ad432358218bcc8f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/110" .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#name> "Plaat 110. Ingang naar Kampong Hoeta Galong." .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 110. Ingang naar Kampong Hoeta Galong. (plaat 23 in publicatie Kempees)" .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#inscription> "Plaat 110. Ingang naar Kampong Hoeta Galong." .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be2f25a3c3504823f43fdfb7a67439a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-1/10" .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#name> "Foto´s Dienst leger Contacten, 25 stuks" .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#description> "Foto´s Dienst legercontacten, 25 stuks (meest genummerd), enkele voorzien van commentaar in pen. \r\n\r\nFoto´s gemaakt door fotograaf/journalist Bartel Hartwiesen (Ministerie van Oorlog, dienst legercontacten), 1946-1947. De foto´s handelen over het militair" .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#inscription> "HA297" .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be4c6cc0b643fef2b73df3ddd25afcf3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be10af0e2b3114aafb979123c774cf8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be10af0e2b3114aafb979123c774cf8f> <https://colonialcollections.nl/schema#identifier> "2009/08/20-6-25" .
 <https://n2t.net/ark:/27023/be10af0e2b3114aafb979123c774cf8f> <https://colonialcollections.nl/schema#name> "Doek" .
@@ -535,30 +571,6 @@
 <https://n2t.net/ark:/27023/be57c4e3676ae8f4a09230f8b2fbc261> <https://colonialcollections.nl/schema#description> "Foto, onderdeel van het archief van de familie Van Zwieten de Blom-Haasdijk." .
 <https://n2t.net/ark:/27023/be57c4e3676ae8f4a09230f8b2fbc261> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be57c4e3676ae8f4a09230f8b2fbc261> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/111" .
-<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Lien v. S.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
-<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be1a8eac787a91ea411ac57e3a1910dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-81" .
-<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#name> "Semq. Cherib. Stoomtram Mij." .
-<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Semq. Cherib. Stoomtram Mij." .
-<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be2077e5729c0a3109c1a31f05fc2b9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/92" .
-<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van mevrouw Van Swieten-Steinmetz, echtgenote van generaal Jan van Swieten.\r\nVerso: Madame W.J.M. van Swieten née Steinmetz 1864 ; W.J.M. van Swieten-Steinmetz, echtgenote van generaal " .
-<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be363effbf4526e6286b1b39b9106647> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#identifier> "nf%20806" .
-<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#name> "Badplaats Kali-Bening, Magelang" .
-<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de badplaats Kali-Bening te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Badplaats Kali-Bening, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67750'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) " .
-<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be48f8656a41fefa22f2e4361079c825> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be14753053ddb836bd281054959a4cc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be14753053ddb836bd281054959a4cc0> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43633" .
 <https://n2t.net/ark:/27023/be14753053ddb836bd281054959a4cc0> <https://colonialcollections.nl/schema#description> "Gevlochten pinangdoos" .
@@ -594,11 +606,6 @@
 <https://n2t.net/ark:/27023/be52882ba22f2d860674988ae5bc262b> <https://colonialcollections.nl/schema#description> "Houwwapen met schede, ook benoemd als sierwapen.\r\nHerkomst: Celebes." .
 <https://n2t.net/ark:/27023/be52882ba22f2d860674988ae5bc262b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be52882ba22f2d860674988ae5bc262b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#identifier> "nf%20807" .
-<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Tidarlaan te Magelang.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Tidarlaan, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67722'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) vermeld 'DRUKWERK' en li" .
-<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be16d60952cdb09044bd04677c671f74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be1d4a3430bdff76476f2bed8e04030a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be1d4a3430bdff76476f2bed8e04030a> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-112" .
 <https://n2t.net/ark:/27023/be1d4a3430bdff76476f2bed8e04030a> <https://colonialcollections.nl/schema#name> "Lans" .

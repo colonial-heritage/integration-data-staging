@@ -7,6 +7,13 @@
 <https://n2t.net/ark:/27023/20c13085983497ebe2e16a4ab3fbb2d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/20c13085983497ebe2e16a4ab3fbb2d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/20c13085983497ebe2e16a4ab3fbb2d4> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/23" .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nCheribon. Kuine Gowa. Soerija-rage (Waterpaleis). A. Bisschop, Semarang Cheribon" .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/20a4a59560bbb6d47c9ecf886554669b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/20a4a59560bbb6d47c9ecf886554669b> <https://colonialcollections.nl/schema#identifier> "nf%201358-12-3" .
 <https://n2t.net/ark:/27023/20a4a59560bbb6d47c9ecf886554669b> <https://colonialcollections.nl/schema#name> "Bergstroom" .
@@ -49,6 +56,14 @@
 <https://n2t.net/ark:/27023/20c06711d286b081fdcd1d7f029c31ab> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/20c06711d286b081fdcd1d7f029c31ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/20c06711d286b081fdcd1d7f029c31ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/6" .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#name> "Hotel der Nederlanden, Rijswijk, Batavia" .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met zwart-wit afbeelding van Hotel der Nederlanden in Rijswijk- Batavia." .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#creator> "Hotel der Nederlanden, Rijswijk-Batavia" .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#creator> "John Kappee" .
 <https://n2t.net/ark:/27023/20d15817cce41bb9432b2a3ca4f67960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/20d15817cce41bb9432b2a3ca4f67960> <https://colonialcollections.nl/schema#identifier> "nf%20789-28" .
 <https://n2t.net/ark:/27023/20d15817cce41bb9432b2a3ca4f67960> <https://colonialcollections.nl/schema#name> "Bamboeboschje nabij het krankzinnigengesticht te Buitenzorg" .
@@ -523,18 +538,6 @@
 <https://n2t.net/ark:/27023/20df8be673974ac9e4d8d97f34134ed0> <https://colonialcollections.nl/schema#description> "Klederdracht Tabo-Bataks. Schouderkleed, paars met witte uiteinden, bewerkt met diverse motieven." .
 <https://n2t.net/ark:/27023/20df8be673974ac9e4d8d97f34134ed0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/20df8be673974ac9e4d8d97f34134ed0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/23" .
-<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
-<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nCheribon. Kuine Gowa. Soerija-rage (Waterpaleis). A. Bisschop, Semarang Cheribon" .
-<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/209806fff6d91245e2f754f610e7b550> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/6" .
-<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#name> "Hotel der Nederlanden, Rijswijk, Batavia" .
-<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met zwart-wit afbeelding van Hotel der Nederlanden in Rijswijk- Batavia." .
-<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/20c579a0153f6dd0e61455a8374b4a78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2099f47f9605a5ab3653e8a8755fc138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2099f47f9605a5ab3653e8a8755fc138> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-27/52" .
 <https://n2t.net/ark:/27023/2099f47f9605a5ab3653e8a8755fc138> <https://colonialcollections.nl/schema#description> "Foto." .

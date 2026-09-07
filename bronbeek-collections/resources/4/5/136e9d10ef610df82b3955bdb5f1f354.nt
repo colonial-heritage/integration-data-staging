@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/68" .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#name> "Plaat 68. Onze begraafplaats bij Koetö Lintang." .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 68. Onze begraafplaats bij Koetö Lintang." .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#inscription> "Plaat 68. Onze begraafplaats bij Koetö Lintang." .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de3aeca75b52e97463b1792c5205d9e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de3aeca75b52e97463b1792c5205d9e7> <https://colonialcollections.nl/schema#identifier> "1871/06-1-1" .
 <https://n2t.net/ark:/27023/de3aeca75b52e97463b1792c5205d9e7> <https://colonialcollections.nl/schema#name> "Portret van Generaal-majoor D.L. de Brabant" .
@@ -12,6 +20,13 @@
 <https://n2t.net/ark:/27023/de44db40721b9fb60a18d5f5c79d831c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/de44db40721b9fb60a18d5f5c79d831c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/de44db40721b9fb60a18d5f5c79d831c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#identifier> "S%20277-14" .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#name> "Dessagezicht in de Preanger" .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#description> "Reproductie, zwartr/wit, rechthoekig, opgeplakt op rechthoekig wit karton\r\n\r\nOnder de afbeelding in zwart een gedrukte titel: 'DESSAGEZICHT IN DE PREANGER'\r\n\r\nRechts onder foto staat ook: 'FOTO K.A. SIMON, BANDOENG'\r\n\r\n\r\nOp de achterkant een rood stempel " .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#creator> "Foto K.A. Simon, Bandoeng" .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de3cc98cd28be17b203745a87f740482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de3cc98cd28be17b203745a87f740482> <https://colonialcollections.nl/schema#identifier> "nf%201651-1" .
 <https://n2t.net/ark:/27023/de3cc98cd28be17b203745a87f740482> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide naast elkaar geplakt op een rechthoekig bruin stuk karton, los aangetroffen met vele anderen.\r\n\r\nOpnames tonen mogelijk een rivierbedding met stenen. Op de voorgrond kokospalmen, helemaal in de verte een brug. \r\n\r\nGegeven is d" .
@@ -74,13 +89,6 @@
 <https://n2t.net/ark:/27023/de499e395d4f458df3683958c8591930> <https://colonialcollections.nl/schema#inscription> "B.K." .
 <https://n2t.net/ark:/27023/de499e395d4f458df3683958c8591930> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/de499e395d4f458df3683958c8591930> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/68" .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#name> "Plaat 68. Onze begraafplaats bij Koetö Lintang." .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 68. Onze begraafplaats bij Koetö Lintang." .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#inscription> "Plaat 68. Onze begraafplaats bij Koetö Lintang." .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de46139bf807495c6f883796608a800a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de32c1ab18ad4a7507fa36f08ed45e74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de32c1ab18ad4a7507fa36f08ed45e74> <https://colonialcollections.nl/schema#identifier> "1985/07/10-3-6" .
 <https://n2t.net/ark:/27023/de32c1ab18ad4a7507fa36f08ed45e74> <https://colonialcollections.nl/schema#name> "Extract uit het Algemeen Stamboek van Onderofficieren enn Manschappen van mindere rangen van het Nederlandsch Oost-Indisch Leger, Willem Wagenaar, stamboeknummer 64661" .
@@ -525,12 +533,6 @@
 <https://n2t.net/ark:/27023/de6beab281ab69c87536bc6ce8ba1538> <https://colonialcollections.nl/schema#description> "Lepel. Benen steel met een schelp lepel." .
 <https://n2t.net/ark:/27023/de6beab281ab69c87536bc6ce8ba1538> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/de6beab281ab69c87536bc6ce8ba1538> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#identifier> "S%20277-14" .
-<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#name> "Dessagezicht in de Preanger" .
-<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#description> "Reproductie, zwartr/wit, rechthoekig, opgeplakt op rechthoekig wit karton\r\n\r\nOnder de afbeelding in zwart een gedrukte titel: 'DESSAGEZICHT IN DE PREANGER'\r\n\r\nRechts onder foto staat ook: 'FOTO K.A. SIMON, BANDOENG'\r\n\r\n\r\nOp de achterkant een rood stempel " .
-<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/de662f1e39522866986f6a5598449349> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/de395db14155a574c47cd3f8ece8f7cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/de395db14155a574c47cd3f8ece8f7cb> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/73" .
 <https://n2t.net/ark:/27023/de395db14155a574c47cd3f8ece8f7cb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Soerabaia. Kalimaas - Kampoeng Baroe." .

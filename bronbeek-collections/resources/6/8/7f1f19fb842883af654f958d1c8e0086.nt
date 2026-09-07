@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/25" .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#name> "Plaat 25. Kampong Badaq N:O zijde." .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 25. Kampong Badaq N:O zijde." .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#inscription> "Plaat 25. Kampong Badaq N:O zijde." .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/51187e0fb33616f43938a9c05c263653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/51187e0fb33616f43938a9c05c263653> <https://colonialcollections.nl/schema#identifier> "nf%20842-13" .
 <https://n2t.net/ark:/27023/51187e0fb33616f43938a9c05c263653> <https://colonialcollections.nl/schema#name> "Landschap met rivier bij Loana, Midden-Java" .
@@ -12,6 +20,23 @@
 <https://n2t.net/ark:/27023/511fe284527aa95dfdbead13e502ee4e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/511fe284527aa95dfdbead13e502ee4e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/511fe284527aa95dfdbead13e502ee4e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/511fe284527aa95dfdbead13e502ee4e> <https://colonialcollections.nl/schema#creator> "J.M.Chr. Nijland, Sociëteitstraat Soerabaia" .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#identifier> "2000/02/21-6" .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#name> "Foto van een geschilderd portret van jonkheer N.C. van Heurn" .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit. Afgebeeld is het portretschilderij van Jonkheer N.C. van Heurn. Foto afkomstig van de Rijksdienst voor Kunsthistorische Documentatie.\r\nPortret uit de collectie van Jonkheer van Heurn te Bussum. Geschilderd door Jan Veth in 1915, afmetinge" .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#creator> "A. Frequin" .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#creator> "Jan Veth" .
+<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#creator> "Rijksbureau voor kunsthistorische en ikonografische documentatie" .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#identifier> "2006/03/21-1-2/4" .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#name> "Portret van luitenant generaal J.A. Vetter op latere leeftijd" .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#description> "Fotografisch portret (borsstuk) op een passepartout van Luitenant generaal J.A. Vetter" .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/51569b6c12414790c92b90447c313a4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/51569b6c12414790c92b90447c313a4e> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-1/4" .
 <https://n2t.net/ark:/27023/51569b6c12414790c92b90447c313a4e> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"Katholiek Thuisfront\"" .
@@ -49,6 +74,12 @@
 <https://n2t.net/ark:/27023/5144f8714420a6a7d43a44e560255b5d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5144f8714420a6a7d43a44e560255b5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5144f8714420a6a7d43a44e560255b5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#identifier> "nf%20323-1-2" .
+<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#description> "bijschrift; 'In de haven van Reo. Boegineesche prauwen'" .
+<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/51567099cfc72341fa825d79d0307467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/51567099cfc72341fa825d79d0307467> <https://colonialcollections.nl/schema#identifier> "nf%20405" .
 <https://n2t.net/ark:/27023/51567099cfc72341fa825d79d0307467> <https://colonialcollections.nl/schema#description> "Tempelcomplex op Bali\r\nfoto is afgedrukt als ansichtkaart\r\ngedeelde achterkant" .
@@ -69,13 +100,6 @@
 <https://n2t.net/ark:/27023/514c777d1d25678dcdef8e728f60c940> <https://colonialcollections.nl/schema#inscription> "W.G. Hofker" .
 <https://n2t.net/ark:/27023/514c777d1d25678dcdef8e728f60c940> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/514c777d1d25678dcdef8e728f60c940> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/25" .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#name> "Plaat 25. Kampong Badaq N:O zijde." .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 25. Kampong Badaq N:O zijde." .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#inscription> "Plaat 25. Kampong Badaq N:O zijde." .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/51412dc0c85b79d0234a35a249f799e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/510c8e4bb9bc4035dee330df5dc65cc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/510c8e4bb9bc4035dee330df5dc65cc6> <https://colonialcollections.nl/schema#identifier> "2017/06/09-3" .
 <https://n2t.net/ark:/27023/510c8e4bb9bc4035dee330df5dc65cc6> <https://colonialcollections.nl/schema#name> "Indonesische sabel in schede, 1948-1950" .
@@ -544,18 +568,6 @@
 <https://n2t.net/ark:/27023/515663f3cf419b885a8e55aa9d9121a7> <https://colonialcollections.nl/schema#description> "Boek. Geschiedenis van Nederlandsch-Indië. In redelijke staat." .
 <https://n2t.net/ark:/27023/515663f3cf419b885a8e55aa9d9121a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/515663f3cf419b885a8e55aa9d9121a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#identifier> "2000/02/21-6" .
-<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#name> "Foto van een geschilderd portret van jonkheer N.C. van Heurn" .
-<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit. Afgebeeld is het portretschilderij van Jonkheer N.C. van Heurn. Foto afkomstig van de Rijksdienst voor Kunsthistorische Documentatie.\r\nPortret uit de collectie van Jonkheer van Heurn te Bussum. Geschilderd door Jan Veth in 1915, afmetinge" .
-<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/51551dabafbd1f2f598de85ac6a207de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#identifier> "2006/03/21-1-2/4" .
-<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#name> "Portret van luitenant generaal J.A. Vetter op latere leeftijd" .
-<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#description> "Fotografisch portret (borsstuk) op een passepartout van Luitenant generaal J.A. Vetter" .
-<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/515563fa457bac71b14acb1e3deb4d4b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5127559f38dd4851949cface3bafd42c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5127559f38dd4851949cface3bafd42c> <https://colonialcollections.nl/schema#identifier> "1921/04/01-3-47/4" .
 <https://n2t.net/ark:/27023/5127559f38dd4851949cface3bafd42c> <https://colonialcollections.nl/schema#description> "Pijl behorend aan een rek, samen met nog 25 pijlen en 3 bogen (Thieme inv.nr. 1735)." .
@@ -591,8 +603,3 @@
 <https://n2t.net/ark:/27023/5155c0b11f2cec6d58f118ef0655bafd> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/5155c0b11f2cec6d58f118ef0655bafd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5155c0b11f2cec6d58f118ef0655bafd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#identifier> "nf%20323-1-2" .
-<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#description> "bijschrift; 'In de haven van Reo. Boegineesche prauwen'" .
-<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/51484ee57024a3813f3882e6edddfb44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

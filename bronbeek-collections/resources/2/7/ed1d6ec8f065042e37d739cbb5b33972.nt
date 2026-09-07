@@ -14,6 +14,21 @@
 <https://n2t.net/ark:/27023/8d06636d5029cef7c46bb665ffa71f93> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/8d06636d5029cef7c46bb665ffa71f93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8d06636d5029cef7c46bb665ffa71f93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-295" .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#name> "Knopen miltair" .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#description> "Knopen, set, vier grote en vier kleine metalen knopen met klimmende gekroonde leeuw met opstaande rand. Keerzijde gemerkt GAUNT LONDON. In kartonnen medicijnen doosje." .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#inscription> "GAUNT LONDON" .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#creator> "J.R. Gaunt & Son Ltd." .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/109" .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Tante Lien ; Lien van Swieten, dochter van Lt.Gen. J. van Swieten.\r\nFotograaf: H. Dandoy, Maastricht." .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#creator> "H. Dandoy" .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8cf16428b57aab9c36ebff488588d2c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8cf16428b57aab9c36ebff488588d2c8> <https://colonialcollections.nl/schema#identifier> "2003/06/06-2-5" .
 <https://n2t.net/ark:/27023/8cf16428b57aab9c36ebff488588d2c8> <https://colonialcollections.nl/schema#name> "Foto van een plantage met planterswoning" .
@@ -28,6 +43,13 @@
 <https://n2t.net/ark:/27023/8cf23669c09313ecefa1228beca58818> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/8cf23669c09313ecefa1228beca58818> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8cf23669c09313ecefa1228beca58818> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/2" .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#name> "Fotokopie artikel 'De eerste landheer Dezentjé van Ampel' door dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#description> "Fotokopie artikel, 2 pagina's. Uit het tijdschrift Tong-Tong, 15 november 1967. In goede staat." .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#creator> "Dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <https://colonialcollections.nl/schema#identifier> "nf%201408-57" .
 <https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <https://colonialcollections.nl/schema#name> "Het oogsten der Koffie" .
@@ -35,6 +57,7 @@
 <https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8cf9d26d7f107aa9ac9119f7f8dfb6ac> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/8d04e836d159ebdf72954d0211a135e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8d04e836d159ebdf72954d0211a135e3> <https://colonialcollections.nl/schema#identifier> "2001/00-53-12" .
 <https://n2t.net/ark:/27023/8d04e836d159ebdf72954d0211a135e3> <https://colonialcollections.nl/schema#name> "Eten ze? Er is niets te eten..." .
@@ -53,10 +76,17 @@
 <https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#identifier> "nf%201367-3" .
 <https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#name> "Spel met Maleis beertje op terrasje en in de tuin" .
 <https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 3 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'MIEP en FRANS in den tuin op schommel en wip en te paard; Op weg n" .
-<https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/8d1bb914fb3f982eead8dbb72aa3bb31> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#identifier> "nf%20820" .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#name> "Militair Hospitaal, Magelang" .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van het militair hospitaal te Magelang.\r\n\r\nLinks bovenaan op de voorkant staat vermeld: 'Militair Hospitaal, Magelang.'\r\nlinksonder in de afbeelding staat het getal '67743'\r\nGedeelde achterkant met bovenaan (in het groen) v" .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8d25fecbf5009409225b91ce8a472895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8d25fecbf5009409225b91ce8a472895> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-78" .
 <https://n2t.net/ark:/27023/8d25fecbf5009409225b91ce8a472895> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -71,6 +101,13 @@
 <https://n2t.net/ark:/27023/8d2ca9dbf1f219618ce007ef2391e259> <https://colonialcollections.nl/schema#creator> "Firma J.M.J. van Wielik" .
 <https://n2t.net/ark:/27023/8d2ca9dbf1f219618ce007ef2391e259> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8d2ca9dbf1f219618ce007ef2391e259> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/26" .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#name> "Groet uit Java. \"Smeroe\" gebergte" .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Java. \"Smeroe\" gebergte" .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8d09c473431cb7de2db4f48c2d44b3b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8d09c473431cb7de2db4f48c2d44b3b7> <https://colonialcollections.nl/schema#identifier> "nf%201652" .
 <https://n2t.net/ark:/27023/8d09c473431cb7de2db4f48c2d44b3b7> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, geplakt op rechthoekig stuk karton, los aangetroffen\r\n\r\nOp achterkant in potlood gegevens: 'Klaten, febr.1895, Soerakarta, Java'\r\n\r\nOpname toont een Indisch erf. Onverhard, mogelijk heir en daar wat gras. Op die open ruimte een aantal jon" .
@@ -80,9 +117,10 @@
 <https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#identifier> "nf%20387" .
 <https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#description> "Groep Balische danseressen.\r\nfoto is afgedrukt als ansichtkaart\r\ngedeelde achterkant, K Ltd in vierkant van de postzegel" .
-<https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8d16bd776e55065acec886dda8be8655> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8cf1ee3d4fc39e8ebf6e38f98debcd6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8cf1ee3d4fc39e8ebf6e38f98debcd6a> <https://colonialcollections.nl/schema#identifier> "2002/08/05-1-3" .
 <https://n2t.net/ark:/27023/8cf1ee3d4fc39e8ebf6e38f98debcd6a> <https://colonialcollections.nl/schema#name> "Cavalerie Cadettensabel Model 1876" .
@@ -90,13 +128,6 @@
 <https://n2t.net/ark:/27023/8cf1ee3d4fc39e8ebf6e38f98debcd6a> <https://colonialcollections.nl/schema#inscription> "Op kling:  Frans Pauwels, hofleverancier te ´s Gravenhage; IJzerhouwer" .
 <https://n2t.net/ark:/27023/8cf1ee3d4fc39e8ebf6e38f98debcd6a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8cf1ee3d4fc39e8ebf6e38f98debcd6a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-295" .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#name> "Knopen miltair" .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#description> "Knopen, set, vier grote en vier kleine metalen knopen met klimmende gekroonde leeuw met opstaande rand. Keerzijde gemerkt GAUNT LONDON. In kartonnen medicijnen doosje." .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#inscription> "GAUNT LONDON" .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8d2a74688706a576a7734e7d57c5c6f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8ce602b37853ad600745ea4343f31199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ce602b37853ad600745ea4343f31199> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-166" .
 <https://n2t.net/ark:/27023/8ce602b37853ad600745ea4343f31199> <https://colonialcollections.nl/schema#name> "Negatief erevelden Thailand" .
@@ -505,30 +536,6 @@
 <https://n2t.net/ark:/27023/8d339f0a7d90b51f72d66e9ce4ae087d> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van diensttijd korporaal L. Krijnen 1946-1949." .
 <https://n2t.net/ark:/27023/8d339f0a7d90b51f72d66e9ce4ae087d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8d339f0a7d90b51f72d66e9ce4ae087d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/109" .
-<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Tante Lien ; Lien van Swieten, dochter van Lt.Gen. J. van Swieten.\r\nFotograaf: H. Dandoy, Maastricht." .
-<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8ced8a2918cf9da1c7ca5b08ea2b5dfe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/2" .
-<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#name> "Fotokopie artikel 'De eerste landheer Dezentjé van Ampel' door dr H.J. de Graaf" .
-<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#description> "Fotokopie artikel, 2 pagina's. Uit het tijdschrift Tong-Tong, 15 november 1967. In goede staat." .
-<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8cf9b3f1d98b2bd815340ef6b1bda51e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#identifier> "nf%20820" .
-<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#name> "Militair Hospitaal, Magelang" .
-<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van het militair hospitaal te Magelang.\r\n\r\nLinks bovenaan op de voorkant staat vermeld: 'Militair Hospitaal, Magelang.'\r\nlinksonder in de afbeelding staat het getal '67743'\r\nGedeelde achterkant met bovenaan (in het groen) v" .
-<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8d25aea8290a6ac783e179312eb456fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/26" .
-<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#name> "Groet uit Java. \"Smeroe\" gebergte" .
-<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Java. \"Smeroe\" gebergte" .
-<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8d2fa464b93fe18eef7161e1fe4a27ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8cf069c99b71d54071720a2c5352a2d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8cf069c99b71d54071720a2c5352a2d2> <https://colonialcollections.nl/schema#identifier> "S%20541-2d" .
 <https://n2t.net/ark:/27023/8cf069c99b71d54071720a2c5352a2d2> <https://colonialcollections.nl/schema#description> "Epauletten van een uniform van een militair arts, met 2 sterren van gouddraad (rang van een overste). Eén korte zijde is gegolfd en de andere loopt schuin. Aan de achterkant zitten 4 oogjes." .

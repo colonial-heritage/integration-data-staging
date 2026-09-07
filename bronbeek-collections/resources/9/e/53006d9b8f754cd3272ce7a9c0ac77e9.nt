@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-3" .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#name> "85. Inlandsch Kustvaartuig. Midden-Java" .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#description> "Schoolplaat. 85. Inlandsch Kustvaartuig. Midden-Java. \r\nKleyenberg & Co., Haarlem." .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#inscription> "85. Inlandsch Kustvaartuig. Midden-Java" .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2e25681293465b269b915f5f11013b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2e25681293465b269b915f5f11013b3> <https://colonialcollections.nl/schema#identifier> "nf%201899-2" .
 <https://n2t.net/ark:/27023/f2e25681293465b269b915f5f11013b3> <https://colonialcollections.nl/schema#name> "Sibajak [Gunung Sibayak], uitzicht van de oostelijke scherpe rand van het gebergte op het kratermeer en de Sinaboen [Gunung Sinabung]" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/f2e25681293465b269b915f5f11013b3> <https://colonialcollections.nl/schema#creator> "Tassilo Adam" .
 <https://n2t.net/ark:/27023/f2e25681293465b269b915f5f11013b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2e25681293465b269b915f5f11013b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/332" .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Medan - Chineesche Tempel.\"\r\nUitgave van Deli Courant." .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <https://colonialcollections.nl/schema#identifier> "nf%201408-24" .
 <https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <https://colonialcollections.nl/schema#name> "Sibayak Kraterrand u. Top 2172 mtr" .
@@ -12,14 +27,22 @@
 <https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f2ee6bbaeaa5180ca782c2860ae3a9b6> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#identifier> "2015/11/10-1-4" .
 <https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#name> "Medaille Ereteken voor Orde en Vrede" .
 <https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#description> "Ereteken voor Orde en Vrede op het lint zonder gesp(en). Medaille nog in cellofaan fabrikant Koninklijke Begeer.\r\nEreteken geslagen door Koninklijke Begeer.\r\nOpmaakt door Firma A. Tack." .
-<https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
+<https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
+<https://n2t.net/ark:/27023/f2f2add95ae7113923aba02870225bfe> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#identifier> "2005/01/17-1-2" .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#name> "Platte pet khaki hoofdofficier KNIL, 1949" .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#description> "Platte pet, khaki, hoofdofficier 1949." .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#creator> "Stemmerik & Co, Den Haag-Soerabaja" .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2f70231a7ec5b9bcfe6691ef92faa1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2f70231a7ec5b9bcfe6691ef92faa1c> <https://colonialcollections.nl/schema#identifier> "1963/00-3/1" .
 <https://n2t.net/ark:/27023/f2f70231a7ec5b9bcfe6691ef92faa1c> <https://colonialcollections.nl/schema#name> "foto van luitenant-kolonel J.H. Heyl, Ridder M.W.O. 4e klas" .
@@ -27,6 +50,20 @@
 <https://n2t.net/ark:/27023/f2f70231a7ec5b9bcfe6691ef92faa1c> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/f2f70231a7ec5b9bcfe6691ef92faa1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2f70231a7ec5b9bcfe6691ef92faa1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#identifier> "2001/09/24-3-38" .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#name> "Knopgewicht van 1 kati" .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#description> "Gewicht. Knopgewicht van 1 Kati. Haagse Balansen en Gewichten Fabriek. Op de bovenrand: '1 Kati', en jaarletter 'S' (1925). Op de romp 9 jaarletters: 'T' (1926), 'V' (1927), 'X' (1928), 'Y' (1929), 'Z' (1930), 'A' (1931), 'B' (1932), 'C' (1933), 'E' (1935" .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#creator> "Haagse Balansen en Gewichten Fabriek" .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#identifier> "2005/00-619" .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#name> "Attila 2e Luitenant Pantser- en Luchtafweer" .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#description> "Attila 2e Luitenant, met op de kraag het embleem Pantser- en Luchtafweer (PLA)." .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#creator> "W.J. Nijboer" .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f31cb080e712d8942a5c4f0f31c963db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f31cb080e712d8942a5c4f0f31c963db> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/11" .
 <https://n2t.net/ark:/27023/f31cb080e712d8942a5c4f0f31c963db> <https://colonialcollections.nl/schema#name> "Hoge militair en spreker voor de microfoon in de Kumpulan [?], voor het schilderij Slag bij Samalangan" .
@@ -34,6 +71,13 @@
 <https://n2t.net/ark:/27023/f31cb080e712d8942a5c4f0f31c963db> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/f31cb080e712d8942a5c4f0f31c963db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f31cb080e712d8942a5c4f0f31c963db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-718" .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van een Papoeavrouw, Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Prentbriefkaart met foto van een Papoeavrouw, waarschijnlijk uit het gebied van de Wisselmeren, Nieuw-Guinea." .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#creator> "Jaap Zindler" .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2f3af15d547bc827e831a6f0424d6ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2f3af15d547bc827e831a6f0424d6ba> <https://colonialcollections.nl/schema#identifier> "nf%201826-9" .
 <https://n2t.net/ark:/27023/f2f3af15d547bc827e831a6f0424d6ba> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's naast elkaar opgeplakt op lichtbruin karton, los aangetroffen.\r\n\r\nOpnames tonen één van de actieve vulkanen op Bali.\r\n\r\nN.B.: Aangenomen is dat de foto's onder registratienummer nf 1826 zijn genomen op Bali." .
@@ -67,13 +111,6 @@
 <https://n2t.net/ark:/27023/f2f14815108dd4e91c48ffb81bb66342> <https://colonialcollections.nl/schema#inscription> "Fijnste Java Speelkaarten No.117. Vereinigte Stralsunder Spielkarten Fabriken in Duitsland. Van Duym & Co. Soerabaja" .
 <https://n2t.net/ark:/27023/f2f14815108dd4e91c48ffb81bb66342> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f2f14815108dd4e91c48ffb81bb66342> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#identifier> "1998/02/20-1-3" .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#name> "85. Inlandsch Kustvaartuig. Midden-Java" .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#description> "Schoolplaat. 85. Inlandsch Kustvaartuig. Midden-Java. \r\nKleyenberg & Co., Haarlem." .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#inscription> "85. Inlandsch Kustvaartuig. Midden-Java" .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f30438d911d10e362757a07470221b64> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2e34540b2ccf833a968975fa3f1bfa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2e34540b2ccf833a968975fa3f1bfa3> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-10/9" .
 <https://n2t.net/ark:/27023/f2e34540b2ccf833a968975fa3f1bfa3> <https://colonialcollections.nl/schema#name> "Embleem, \"A.A.T\"" .
@@ -524,36 +561,6 @@
 <https://n2t.net/ark:/27023/f32ee81da3203faa18a817aab9dc0b5d> <https://colonialcollections.nl/schema#description> "Bankbiljet. 100, Mandat Pertahanan Keresidenan Lampung. 15 1 1948." .
 <https://n2t.net/ark:/27023/f32ee81da3203faa18a817aab9dc0b5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f32ee81da3203faa18a817aab9dc0b5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/332" .
-<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Medan - Chineesche Tempel.\"\r\nUitgave van Deli Courant." .
-<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f2e69006d86a1e0461857ab36b3edad9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#identifier> "2005/01/17-1-2" .
-<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#name> "Platte pet khaki hoofdofficier KNIL, 1949" .
-<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#description> "Platte pet, khaki, hoofdofficier 1949." .
-<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f2f6338901f68b5aa210fd7918e0faa5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#identifier> "2001/09/24-3-38" .
-<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#name> "Knopgewicht van 1 kati" .
-<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#description> "Gewicht. Knopgewicht van 1 Kati. Haagse Balansen en Gewichten Fabriek. Op de bovenrand: '1 Kati', en jaarletter 'S' (1925). Op de romp 9 jaarletters: 'T' (1926), 'V' (1927), 'X' (1928), 'Y' (1929), 'Z' (1930), 'A' (1931), 'B' (1932), 'C' (1933), 'E' (1935" .
-<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f3034691913ea2b2e586bbc05c38751b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#identifier> "2005/00-619" .
-<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#name> "Attila 2e Luitenant Pantser- en Luchtafweer" .
-<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#description> "Attila 2e Luitenant, met op de kraag het embleem Pantser- en Luchtafweer (PLA)." .
-<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f31af127a1785de3315f7761461645be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-718" .
-<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van een Papoeavrouw, Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Prentbriefkaart met foto van een Papoeavrouw, waarschijnlijk uit het gebied van de Wisselmeren, Nieuw-Guinea." .
-<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f324d9f86ec8d967dcb8e77db1041c3c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f2eec30b756f7023c4d0f7f7645a98c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f2eec30b756f7023c4d0f7f7645a98c2> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42013" .
 <https://n2t.net/ark:/27023/f2eec30b756f7023c4d0f7f7645a98c2> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\ttheeservies\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tTheeservies gemaakt van kruidnagels, bestaat uit 10 onderdelen.\r\nMedia:\t2546\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidi" .

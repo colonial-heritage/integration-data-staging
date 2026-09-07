@@ -1,10 +1,19 @@
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-31" .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#name> "Carte de visite: [  ] 15 May 1867 Emile Baudry" .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"[  ] 15 May 1867 Emile Baudry\"" .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#inscription> "[  ] 15 May 1867 Emile Baudry" .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#creator> "J. de Parada Peintre Photographe" .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#identifier> "nf%201765-21" .
 <https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#name> "Feestdracht van een vrouw te Tobati" .
 <https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt geschreven tekst: 'Feestdracht van een vrouw te Tabati - Jotifa-baai \r\n(bij inwijding v/d woning v/h adathoofd) (foto Galis)\r\n\r\nOpname toont een groep donkere mannen en vrouwen staand op een open" .
-<https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#creator> "Galis" .
 <https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/554b88fea015af5dad2980d46e7e74f4> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/555cc4d4887c711fd46b995d85147b27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/555cc4d4887c711fd46b995d85147b27> <https://colonialcollections.nl/schema#identifier> "nf%201314-15" .
 <https://n2t.net/ark:/27023/555cc4d4887c711fd46b995d85147b27> <https://colonialcollections.nl/schema#name> "Weltevreden. De Roomsche kerk met Waterlooplein" .
@@ -19,6 +28,20 @@
 <https://n2t.net/ark:/27023/555ebd2eb89eaccf4f5eff11e6fe4b22> <https://colonialcollections.nl/schema#creator> "G.E. Westerborg" .
 <https://n2t.net/ark:/27023/555ebd2eb89eaccf4f5eff11e6fe4b22> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/555ebd2eb89eaccf4f5eff11e6fe4b22> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#identifier> "1933/11-1-1" .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#name> "Voorstellende de kranslegging op 08-07-1933 te Coevorden bij de onthulling van het Van Heutsz-monument door de commandant namens Bronbeek" .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#description> "Foto; Kranslegging op 8 juli 1933 te Coevorden bij de onthulling v/h v. Heutsz monument door den Commandant namens Bronbeek.\r\nOp achterzijde in potlood: \"Kranslegging door Kolonel C.A: Rijnders (Cdt. Bronbeek) in 1933 na de onthulling te Coevorden van het" .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#creator> "N.V. Fotobureau J.W. Verhoef" .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-3" .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#name> "2 boten liggend bij 3 huizen (Kampong). C.a 1860?" .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#description> "Carte de visite: (6,4 x 10,7) 5,7 x 9,3. Op achterzijde: \"J.B.Jasper Photograaf Soerabaya\". 2 boten liggend bij 3 huizen (Kampong). C.a 1860?" .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#creator> "J.B. Jasper Photograaf Soerabaija" .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/556ea2199111cce697a3526f55e739f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/556ea2199111cce697a3526f55e739f8> <https://colonialcollections.nl/schema#identifier> "nf%20629" .
 <https://n2t.net/ark:/27023/556ea2199111cce697a3526f55e739f8> <https://colonialcollections.nl/schema#name> "Noodbrug over de Anai rivier" .
@@ -33,6 +56,13 @@
 <https://n2t.net/ark:/27023/557ee9209377b896afd345a4e2a579ec> <https://colonialcollections.nl/schema#creator> "Dr H.J. Jensen" .
 <https://n2t.net/ark:/27023/557ee9209377b896afd345a4e2a579ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/557ee9209377b896afd345a4e2a579ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/21" .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#name> "Portret van Benjamin Henricus van Delden" .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met inkt) Oom Benjamin Henricus van Delden. - jongste broer van Vader. Eug.\r\nVerso: C. Janssens & E. Radermacher, Photographes, Hofplein 14. 341., Rotterdam.\r\nRecto: C. Janssens &" .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#creator> "C.Janssens & E. Radermacher" .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/558957e28c82ac2164576843933b72a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/558957e28c82ac2164576843933b72a5> <https://colonialcollections.nl/schema#identifier> "nf%20605-24" .
 <https://n2t.net/ark:/27023/558957e28c82ac2164576843933b72a5> <https://colonialcollections.nl/schema#name> "Getande staaf op ligger brug over de Anei" .
@@ -85,13 +115,6 @@
 <https://n2t.net/ark:/27023/558687f08b0b727ed8fb573435f1e9a2> <https://colonialcollections.nl/schema#inscription> "KG Langeberg SMI Genie 86147 Batavia" .
 <https://n2t.net/ark:/27023/558687f08b0b727ed8fb573435f1e9a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/558687f08b0b727ed8fb573435f1e9a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-31" .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#name> "Carte de visite: [  ] 15 May 1867 Emile Baudry" .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"[  ] 15 May 1867 Emile Baudry\"" .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#inscription> "[  ] 15 May 1867 Emile Baudry" .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55696a01a2847d1fbbb71f731e00c88a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/554b79a75035fce237afcd32868591ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/554b79a75035fce237afcd32868591ee> <https://colonialcollections.nl/schema#identifier> "1988/02/01-1-6" .
 <https://n2t.net/ark:/27023/554b79a75035fce237afcd32868591ee> <https://colonialcollections.nl/schema#name> "Angkloeng" .
@@ -524,24 +547,6 @@
 <https://n2t.net/ark:/27023/558b8d69261c8b1bf75d9fcc4e49fd65> <https://colonialcollections.nl/schema#description> "Lendedoek t.b.v. krijgsgevangene (Birma). In goede staat." .
 <https://n2t.net/ark:/27023/558b8d69261c8b1bf75d9fcc4e49fd65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/558b8d69261c8b1bf75d9fcc4e49fd65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#identifier> "1933/11-1-1" .
-<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#name> "Voorstellende de kranslegging op 08-07-1933 te Coevorden bij de onthulling van het Van Heutsz-monument door de commandant namens Bronbeek" .
-<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#description> "Foto; Kranslegging op 8 juli 1933 te Coevorden bij de onthulling v/h v. Heutsz monument door den Commandant namens Bronbeek.\r\nOp achterzijde in potlood: \"Kranslegging door Kolonel C.A: Rijnders (Cdt. Bronbeek) in 1933 na de onthulling te Coevorden van het" .
-<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/556c2fa01f795cb4fe04ef4dddac5285> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-3" .
-<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#name> "2 boten liggend bij 3 huizen (Kampong). C.a 1860?" .
-<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#description> "Carte de visite: (6,4 x 10,7) 5,7 x 9,3. Op achterzijde: \"J.B.Jasper Photograaf Soerabaya\". 2 boten liggend bij 3 huizen (Kampong). C.a 1860?" .
-<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/556c9caa9b06fb1ee832428f005f9b1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/21" .
-<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#name> "Portret van Benjamin Henricus van Delden" .
-<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met inkt) Oom Benjamin Henricus van Delden. - jongste broer van Vader. Eug.\r\nVerso: C. Janssens & E. Radermacher, Photographes, Hofplein 14. 341., Rotterdam.\r\nRecto: C. Janssens &" .
-<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/55886e7ecd1fbf1a1d9eb9b715b5c36c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5567d367935f48ef22f47744941851e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5567d367935f48ef22f47744941851e0> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43523" .
 <https://n2t.net/ark:/27023/5567d367935f48ef22f47744941851e0> <https://colonialcollections.nl/schema#description> "Hoed van bladwerk, Borneo" .
@@ -582,6 +587,11 @@
 <https://n2t.net/ark:/27023/55864c5bd301d0201f50ae0674ae4a7a> <https://colonialcollections.nl/schema#description> "Opname toont een Javaanse vrouw bezig met mogelijk het rollen van sigaretten" .
 <https://n2t.net/ark:/27023/55864c5bd301d0201f50ae0674ae4a7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/55864c5bd301d0201f50ae0674ae4a7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#identifier> "nf%20323-30-1" .
+<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/55717c6eda3822833db0874eb5a63977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/55717c6eda3822833db0874eb5a63977> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-121" .
 <https://n2t.net/ark:/27023/55717c6eda3822833db0874eb5a63977> <https://colonialcollections.nl/schema#name> "Mes" .
@@ -591,7 +601,3 @@
 <https://n2t.net/ark:/27023/557584bbdd32cf74a9fba2d108aaa1fb> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/464" .
 <https://n2t.net/ark:/27023/557584bbdd32cf74a9fba2d108aaa1fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/557584bbdd32cf74a9fba2d108aaa1fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#identifier> "nf%20323-30-1" .
-<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5570c3263081b28a1f305c1955ec998f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

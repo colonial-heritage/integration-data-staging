@@ -26,6 +26,20 @@
 <https://n2t.net/ark:/27023/398ec2b1d3a10c7361f03ae0e9b7077a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/398ec2b1d3a10c7361f03ae0e9b7077a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/398ec2b1d3a10c7361f03ae0e9b7077a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/3" .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Prinses Beatrix loopt langs het Indische buffet.\r\n\r\nVerso: stempel:\r\n\r\ncopyright \r\nnationaal foto persbureau n.v.\r\nheinzestraat 7 - tel. 760555 - " .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#creator> "Nationaal Foto Persbureau" .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/9" .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 9.\r\nAfgebeeld: Vol portret van een officier Generaal? 3 medailles + officierskr" .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#creator> "G. Hoogwinkel Jr." .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/39b310275bccde68d76aaea2121d11a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/39b310275bccde68d76aaea2121d11a8> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-9" .
 <https://n2t.net/ark:/27023/39b310275bccde68d76aaea2121d11a8> <https://colonialcollections.nl/schema#name> "Heistelling bij bruggenbouw, Birma-spoorweg" .
@@ -36,9 +50,10 @@
 <https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#identifier> "nf%201732-7" .
 <https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant is er een stempel met tekst: 'Copyright JAAP ZINDLER - Biak - Nieuw Guinea'\r\n\r\nOpname toont een jonge Papoea vrouw, moeder, met een kind in een schouderdoek (slendang)." .
-<https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
 <https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/396e6ce6127951ebcd67b63c1fcf8ad4> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3970b6a9ce3c9dc7cb993f9e3e2f2fe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3970b6a9ce3c9dc7cb993f9e3e2f2fe6> <https://colonialcollections.nl/schema#identifier> "nf%20678-14-2" .
 <https://n2t.net/ark:/27023/3970b6a9ce3c9dc7cb993f9e3e2f2fe6> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '627'. Geen verdere data.\r\n\r\nOpname toont een zeilbootje op open water. Op de achtergrond een zeeschip en nog een ander zeilbootje.\r\n\r\nN.B.: De foto's nf 678-14-2 en nf 1375-" .
@@ -521,18 +536,6 @@
 <https://n2t.net/ark:/27023/39bc10c78a6e69767d9e7c092cd6d0fb> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit uit diensttijd dienstplichtig korporaal H. van Soest in Nederlands-Indië bij 3 afdeling 6de Regiment Veldartillerie (3-6 RVA) bij C-Divisie \"7 December\" West-Java." .
 <https://n2t.net/ark:/27023/39bc10c78a6e69767d9e7c092cd6d0fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/39bc10c78a6e69767d9e7c092cd6d0fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/3" .
-<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Prinses Beatrix loopt langs het Indische buffet.\r\n\r\nVerso: stempel:\r\n\r\ncopyright \r\nnationaal foto persbureau n.v.\r\nheinzestraat 7 - tel. 760555 - " .
-<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3999606dc9d98cc85a8e7d177d88494c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/9" .
-<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 9.\r\nAfgebeeld: Vol portret van een officier Generaal? 3 medailles + officierskr" .
-<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/399eff006ff75e0da30814889f793188> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3968097ea0b4c46c1e977c6e276ab986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3968097ea0b4c46c1e977c6e276ab986> <https://colonialcollections.nl/schema#identifier> "nf%20843-80" .
 <https://n2t.net/ark:/27023/3968097ea0b4c46c1e977c6e276ab986> <https://colonialcollections.nl/schema#description> "Opname vanuit een donkere grot naar het erbuiten liggende oerwoud." .
@@ -578,6 +581,11 @@
 <https://n2t.net/ark:/27023/399cade3c62549a4b45762afb342cfe5> <https://colonialcollections.nl/schema#description> "2 * kepengstuk ? (V. Cash) East India Company 1803\r\nHerkomst: Nederlands Indië." .
 <https://n2t.net/ark:/27023/399cade3c62549a4b45762afb342cfe5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/399cade3c62549a4b45762afb342cfe5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#identifier> "nf%20323-20-1" .
+<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/397889cdaa4eef7a20c0f1b36fb37429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/397889cdaa4eef7a20c0f1b36fb37429> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-170" .
 <https://n2t.net/ark:/27023/397889cdaa4eef7a20c0f1b36fb37429> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -586,7 +594,3 @@
 <https://n2t.net/ark:/27023/3982711cc2a93bd40dd3f67b97a00fa2> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/521" .
 <https://n2t.net/ark:/27023/3982711cc2a93bd40dd3f67b97a00fa2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3982711cc2a93bd40dd3f67b97a00fa2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#identifier> "nf%20323-20-1" .
-<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/39b24cc6348dad034a1f582426d8f1e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

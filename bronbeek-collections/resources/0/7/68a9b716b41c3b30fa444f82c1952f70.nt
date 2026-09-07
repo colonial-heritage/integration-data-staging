@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/36" .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#name> "Bij Marga, ten noorden van Tabanan" .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBij Marga, ten noorden van Tabanan." .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-13" .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#name> "Ontvangst van een lid van Raad van Indië" .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst van  lid van Raad van Indië  in een salon. Op achtergrond een modern schilderij met arbeiders." .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#creator> "Oeij Eng Tian" .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d31fa642be2a288541535a7ab6b49d66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d31fa642be2a288541535a7ab6b49d66> <https://colonialcollections.nl/schema#identifier> "1997/00-1/24" .
 <https://n2t.net/ark:/27023/d31fa642be2a288541535a7ab6b49d66> <https://colonialcollections.nl/schema#name> "Landkaart Oost-Java, zes identieke kaarten" .
@@ -88,13 +103,6 @@
 <https://n2t.net/ark:/27023/d349a7023c6a9c5f0f8b397a24b8d01d> <https://colonialcollections.nl/schema#inscription> "17 aug 1945 ; 17-8-1945" .
 <https://n2t.net/ark:/27023/d349a7023c6a9c5f0f8b397a24b8d01d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d349a7023c6a9c5f0f8b397a24b8d01d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/36" .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#name> "Bij Marga, ten noorden van Tabanan" .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBij Marga, ten noorden van Tabanan." .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d34cf9b73a27194cfca2aaaf04fbdafd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d2ff33f8d11687005dd7d64edf6f0e9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d2ff33f8d11687005dd7d64edf6f0e9b> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/138" .
 <https://n2t.net/ark:/27023/d2ff33f8d11687005dd7d64edf6f0e9b> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
@@ -550,12 +558,6 @@
 <https://n2t.net/ark:/27023/d34d30be5ea9477882c05276372c9bba> <https://colonialcollections.nl/schema#description> "Schaaltje met deksel uit kokosnoot." .
 <https://n2t.net/ark:/27023/d34d30be5ea9477882c05276372c9bba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d34d30be5ea9477882c05276372c9bba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#identifier> "2010/12/28-6-13" .
-<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#name> "Ontvangst van een lid van Raad van Indië" .
-<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#description> "Foto. Ontvangst van  lid van Raad van Indië  in een salon. Op achtergrond een modern schilderij met arbeiders." .
-<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d307aef057be62ba5e36bdf9be85f447> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d30cb8a8ed4a862facb6a597aa9537ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d30cb8a8ed4a862facb6a597aa9537ec> <https://colonialcollections.nl/schema#identifier> "1996/05/02-1-5/90" .
 <https://n2t.net/ark:/27023/d30cb8a8ed4a862facb6a597aa9537ec> <https://colonialcollections.nl/schema#description> "Foto." .

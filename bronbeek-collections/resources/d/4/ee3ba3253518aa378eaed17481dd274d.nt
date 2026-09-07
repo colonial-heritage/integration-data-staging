@@ -6,6 +6,20 @@
 <https://n2t.net/ark:/27023/2e694729ec30f9325843f71bf53dcd20> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/2e694729ec30f9325843f71bf53dcd20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e694729ec30f9325843f71bf53dcd20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#identifier> "nf%20642-3" .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#name> "Bouw van een spoorbrug" .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug\r\nOp de achterkant staat geschreven; ' Tjipanglaksaän Bamboesteiger'" .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M. Luijks, Bandoeng" .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-98" .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#name> "Carte de visite:?" .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. ?" .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#creator> "R. Severin Photographe de S.M. le Roi" .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e66899d3fddf66e25b348a9214358a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e66899d3fddf66e25b348a9214358a2> <https://colonialcollections.nl/schema#identifier> "2000/09/07-4-5" .
 <https://n2t.net/ark:/27023/2e66899d3fddf66e25b348a9214358a2> <https://colonialcollections.nl/schema#name> "Soerabaja,  Goebeng Boulevard" .
@@ -13,6 +27,13 @@
 <https://n2t.net/ark:/27023/2e66899d3fddf66e25b348a9214358a2> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/2e66899d3fddf66e25b348a9214358a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e66899d3fddf66e25b348a9214358a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-130" .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#name> "Foto Koningin Juliana bij kranslegging" .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Kranslegging Westerkerk Amsterdam. 7 november 1970. Koningin Juliana met landmacht adjudant. Op achtergrond hoogwaardigheidbekleders met echtgenotes.\r\n\r\nVerso: stempel:\r\n\r\ncopyright\r\nANEFO\r\nKerkstraat 310\r\nAmsterdam-C.\r\nTel. 230744 / 23390" .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#creator> "Anefo" .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e7635ea11519a11a141b907649d8ee5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e7635ea11519a11a141b907649d8ee5> <https://colonialcollections.nl/schema#identifier> "nf%20335-13-2" .
 <https://n2t.net/ark:/27023/2e7635ea11519a11a141b907649d8ee5> <https://colonialcollections.nl/schema#name> "Tennisclub Lho Seumawé en Lho Soekon'" .
@@ -33,12 +54,24 @@
 <https://n2t.net/ark:/27023/2e3eedf2c70ccb4b1edd1e8e759a2d7d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2e3eedf2c70ccb4b1edd1e8e759a2d7d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e3eedf2c70ccb4b1edd1e8e759a2d7d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#identifier> "S%206168" .
+<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#description> "Stereoscoop. Optiek bestaat uit twee lenzen aan de achterkant, die door een draaiend mechanisme verzet kunnen worden. Stereofoto's kunnen aan de rechterkant worden ingebracht. Bovenop is een klep aangebracht, scharnierend, met aan de binnenkant een spiege" .
+<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#creator> "UNIS . FRANCE - stereoscopes Paris" .
+<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e4f1d3922e695655314e15156fcdf9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e4f1d3922e695655314e15156fcdf9e> <https://colonialcollections.nl/schema#identifier> "nf%201184" .
 <https://n2t.net/ark:/27023/2e4f1d3922e695655314e15156fcdf9e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, geplakt op wat groter stuk rechthoekig karton.\r\n\r\nBoven foto getypte tekst (rood onderlijnd), die luidt: 'Djambi' (afk: Hr. H. Voorrips, oud gezagvoerder K.P.M.)\r\n\r\nLinks boven in inkt een nummer: R VI-1\r\n\r\nOpname toont een e" .
 <https://n2t.net/ark:/27023/2e4f1d3922e695655314e15156fcdf9e> <https://colonialcollections.nl/schema#creator> "H. Voorrips" .
 <https://n2t.net/ark:/27023/2e4f1d3922e695655314e15156fcdf9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e4f1d3922e695655314e15156fcdf9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#identifier> "nf%20323-23-2" .
+<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het Blauwe meer van Kelimoetoe'" .
+<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e5dae4963d5d626fc81a3912c628f3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e5dae4963d5d626fc81a3912c628f3d> <https://colonialcollections.nl/schema#identifier> "nf%201891-34" .
 <https://n2t.net/ark:/27023/2e5dae4963d5d626fc81a3912c628f3d> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, in kleur, voorkomend in strips van 4, gezamelijk opgeborgen in kunststof bewaarstrips, los aangetroffen\r\n\r\nOpname toont een inheemse landbouwer aan het ploegen. Als trekdier zijn hier waterbuffels, karbouwen ingezet.\r\n\r\nN.B.: Deze" .
@@ -502,24 +535,6 @@
 <https://n2t.net/ark:/27023/2e7ed12263a0fa969bf4e9c01e138f2b> <https://colonialcollections.nl/schema#description> "Set van 20 knopen van koper, verguld met gedreven bloemvormen, genaaid op twee zwarte banden. Wordt gebruikt om een kabaja mee dicht te knopen.\r\nHerkomst: oost-Sumatra." .
 <https://n2t.net/ark:/27023/2e7ed12263a0fa969bf4e9c01e138f2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e7ed12263a0fa969bf4e9c01e138f2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#identifier> "nf%20642-3" .
-<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#name> "Bouw van een spoorbrug" .
-<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug\r\nOp de achterkant staat geschreven; ' Tjipanglaksaän Bamboesteiger'" .
-<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e3f88ec52f6ed4d15ebbf0d70bcf109> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-98" .
-<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#name> "Carte de visite:?" .
-<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. ?" .
-<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e58d9d93de4a0e35158c90af9f63c1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-130" .
-<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#name> "Foto Koningin Juliana bij kranslegging" .
-<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Kranslegging Westerkerk Amsterdam. 7 november 1970. Koningin Juliana met landmacht adjudant. Op achtergrond hoogwaardigheidbekleders met echtgenotes.\r\n\r\nVerso: stempel:\r\n\r\ncopyright\r\nANEFO\r\nKerkstraat 310\r\nAmsterdam-C.\r\nTel. 230744 / 23390" .
-<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e73745d5fca5cf95e53ba493145903f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e3fc750e4332a7d1c6a311c3787fb0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e3fc750e4332a7d1c6a311c3787fb0f> <https://colonialcollections.nl/schema#identifier> "nf%201352-38-4" .
 <https://n2t.net/ark:/27023/2e3fc750e4332a7d1c6a311c3787fb0f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met fotohoekjes in album geplakt.\r\nOp achterkant in inkt geschreven tekst, die luidt: 'In den tuin, v.l.n.r. Hr. Wegener Sleeswijk, Corrie, Han met André'\r\n\r\nOpname toont een viertal blanke personen, twee mannen, een vrouw en" .
@@ -555,16 +570,6 @@
 <https://n2t.net/ark:/27023/2e7e4c0e81aa8c811ea67e98ba2eaf9b> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tdansschild\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesneden\r\nAfmetingen:\tGeheel: 42 x 10,5 cm\r\nMedia:\t2122 a\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2122] Depot, 33, M f [33 M f] [08-nov-2002]\r" .
 <https://n2t.net/ark:/27023/2e7e4c0e81aa8c811ea67e98ba2eaf9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2e7e4c0e81aa8c811ea67e98ba2eaf9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#identifier> "S%206168" .
-<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#description> "Stereoscoop. Optiek bestaat uit twee lenzen aan de achterkant, die door een draaiend mechanisme verzet kunnen worden. Stereofoto's kunnen aan de rechterkant worden ingebracht. Bovenop is een klep aangebracht, scharnierend, met aan de binnenkant een spiege" .
-<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e4aab28865251684fd2de19e58c5ded> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#identifier> "nf%20323-23-2" .
-<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het Blauwe meer van Kelimoetoe'" .
-<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2e544c632236644ca29702796ebccefb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2e65e9945a48c123d5db520e54242b95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2e65e9945a48c123d5db520e54242b95> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-150" .
 <https://n2t.net/ark:/27023/2e65e9945a48c123d5db520e54242b95> <https://colonialcollections.nl/schema#name> "Mes" .

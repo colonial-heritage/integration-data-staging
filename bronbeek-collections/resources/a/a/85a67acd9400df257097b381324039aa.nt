@@ -6,6 +6,7 @@
 <https://n2t.net/ark:/27023/a743cb2719326f3e0e8f2c528f7f80cc> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/a743cb2719326f3e0e8f2c528f7f80cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a743cb2719326f3e0e8f2c528f7f80cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a743cb2719326f3e0e8f2c528f7f80cc> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
 <https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <https://colonialcollections.nl/schema#identifier> "2006/00-53-16" .
 <https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <https://colonialcollections.nl/schema#name> "Staljongen met paard. Java." .
@@ -14,6 +15,7 @@
 <https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7501ee1bf692fbfa285139a60f8ab7a> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
 <https://n2t.net/ark:/27023/a73712253f6956c9dbcfe31fa54d5aeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a73712253f6956c9dbcfe31fa54d5aeb> <https://colonialcollections.nl/schema#identifier> "2006/00-42-350" .
 <https://n2t.net/ark:/27023/a73712253f6956c9dbcfe31fa54d5aeb> <https://colonialcollections.nl/schema#name> "Straatbeeld in een stad in Indië" .
@@ -21,6 +23,13 @@
 <https://n2t.net/ark:/27023/a73712253f6956c9dbcfe31fa54d5aeb> <https://colonialcollections.nl/schema#creator> "Wah Seng" .
 <https://n2t.net/ark:/27023/a73712253f6956c9dbcfe31fa54d5aeb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a73712253f6956c9dbcfe31fa54d5aeb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#identifier> "2006/00-23-113" .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#name> "Nederlanders in Japan. Belevenissen te Kobe, Kawasaki en Nomachi" .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#description> "Typoscript. 30 bladen met 7 bijlagen. Getiteld: \" Nederlanders in Japan. Belevenissen te Kobe, Kawasaki en Nomachi door R. de Haas Jr. Ex-vertegenwoordiger der Nederlandse Onderdanen in bovengenoemde kampen.\" Gedateerd 1 mei 1949. Dit verslag is een aanvu" .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#creator> "R. de Haas Jr." .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a74f8a17aabc7fbff3d0306125219f77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a74f8a17aabc7fbff3d0306125219f77> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/28" .
 <https://n2t.net/ark:/27023/a74f8a17aabc7fbff3d0306125219f77> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -100,6 +109,12 @@
 <https://n2t.net/ark:/27023/a764e7388b3fb256c96844e926dd4022> <https://colonialcollections.nl/schema#creator> "Willem Hofker" .
 <https://n2t.net/ark:/27023/a764e7388b3fb256c96844e926dd4022> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a764e7388b3fb256c96844e926dd4022> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#identifier> "EDO%20481-60" .
+<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een landweg met een hoge stijle wand links. IN de verte veel mensen die één richting op lopen. Boven hen uit is een object te zien dat van deze afstand niet te herkennen valt." .
+<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a76a5d27cc02febe0a10abf4c55e32ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a76a5d27cc02febe0a10abf4c55e32ad> <https://colonialcollections.nl/schema#identifier> "nf%201840-4" .
 <https://n2t.net/ark:/27023/a76a5d27cc02febe0a10abf4c55e32ad> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOpname toont het beeld van een in aanleg zijnde spoorbrug. Het linkerdeel van deze foto is ook rechts te zien op nf 1840-3" .
@@ -512,12 +527,6 @@
 <https://n2t.net/ark:/27023/a76a1b107ef8ed33e541236cdb93a9b7> <https://colonialcollections.nl/schema#description> "Band, textiel. Smal. 2 stuks." .
 <https://n2t.net/ark:/27023/a76a1b107ef8ed33e541236cdb93a9b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a76a1b107ef8ed33e541236cdb93a9b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#identifier> "2006/00-23-113" .
-<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#name> "Nederlanders in Japan. Belevenissen te Kobe, Kawasaki en Nomachi" .
-<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#description> "Typoscript. 30 bladen met 7 bijlagen. Getiteld: \" Nederlanders in Japan. Belevenissen te Kobe, Kawasaki en Nomachi door R. de Haas Jr. Ex-vertegenwoordiger der Nederlandse Onderdanen in bovengenoemde kampen.\" Gedateerd 1 mei 1949. Dit verslag is een aanvu" .
-<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a73a1bcbd0f9fbbe0599103833e7ef1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a7354d984f1d58d3a423332cb0cb07ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7354d984f1d58d3a423332cb0cb07ea> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44104" .
 <https://n2t.net/ark:/27023/a7354d984f1d58d3a423332cb0cb07ea> <https://colonialcollections.nl/schema#description> "Losse pees voor miniatuurboog" .
@@ -563,11 +572,6 @@
 <https://n2t.net/ark:/27023/a76757a61bcea0e5dbe983984218a4c2> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
 <https://n2t.net/ark:/27023/a76757a61bcea0e5dbe983984218a4c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a76757a61bcea0e5dbe983984218a4c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#identifier> "EDO%20481-60" .
-<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een landweg met een hoge stijle wand links. IN de verte veel mensen die één richting op lopen. Boven hen uit is een object te zien dat van deze afstand niet te herkennen valt." .
-<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a76a465da95c3e0b4b14f01be1a29579> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a743a557592157b7ea0e6d2986e1099f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a743a557592157b7ea0e6d2986e1099f> <https://colonialcollections.nl/schema#identifier> "1997/05/02-2-7" .
 <https://n2t.net/ark:/27023/a743a557592157b7ea0e6d2986e1099f> <https://colonialcollections.nl/schema#name> "oorkonde" .

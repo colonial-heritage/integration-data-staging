@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-87" .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#name> "Carte de visite: Jung" .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Jung" .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#inscription> "Jung" .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/63373dad798793405fc3d67386f28196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/63373dad798793405fc3d67386f28196> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-47a" .
 <https://n2t.net/ark:/27023/63373dad798793405fc3d67386f28196> <https://colonialcollections.nl/schema#name> "Tuniek veldtenue Luitenant-Kolonel KNIL model 1904" .
@@ -6,6 +14,27 @@
 <https://n2t.net/ark:/27023/63373dad798793405fc3d67386f28196> <https://colonialcollections.nl/schema#creator> "Aug. Savelkoul" .
 <https://n2t.net/ark:/27023/63373dad798793405fc3d67386f28196> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/63373dad798793405fc3d67386f28196> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#identifier> "2006/00-42-38" .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#name> "Kabinetkaart met studioportret van KNIL-officier in attila met punthelm" .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Kabinetkaart./ Carte-de-cabinet met studioportret van KNIL-militair (luitenant) met punthelm en attila." .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#creator> "Franz Eiffert" .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/31" .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#creator> "Th. Brüggemann Photographie" .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/28" .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#name> "Rijtuig met Gouverneur Generaal(?)" .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). Rijtuig met Gouverneur Generaal(?)" .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/63125c136f8d5b3e5a98349038d24ba5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/63125c136f8d5b3e5a98349038d24ba5> <https://colonialcollections.nl/schema#identifier> "nf%201813-15" .
 <https://n2t.net/ark:/27023/63125c136f8d5b3e5a98349038d24ba5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, ovaal, opgeplakt op strokleurig karton, los aangetroffen.\r\n\r\nOp voorkant linksonder in inkt: 'chineesche wijk op steiger boven de zee'\r\n\r\nOpname van een straatbeeld, met bebouwing links en rechts. De straat is een planken platvorm, waarsc" .
@@ -64,13 +93,6 @@
 <https://n2t.net/ark:/27023/6358a0cfc9c5248215af31ecf9e55db4> <https://colonialcollections.nl/schema#inscription> "5" .
 <https://n2t.net/ark:/27023/6358a0cfc9c5248215af31ecf9e55db4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6358a0cfc9c5248215af31ecf9e55db4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-87" .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#name> "Carte de visite: Jung" .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Jung" .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#inscription> "Jung" .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/633380499319c22862f49458c8671244> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/630cae8a98576d9d2d3a8d8cf8acbc09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/630cae8a98576d9d2d3a8d8cf8acbc09> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-62" .
 <https://n2t.net/ark:/27023/630cae8a98576d9d2d3a8d8cf8acbc09> <https://colonialcollections.nl/schema#name> "Weekblad voor de Nederlandse strijdkrachten \"Pen Gun\", speciale uitgave ter gelegenheid van de 70ste verjaardag van Z.K.H. Prins Bernhard, 29 juni 1981" .
@@ -545,24 +567,6 @@
 <https://n2t.net/ark:/27023/635a543b0d7e6cbb532d3fd6491199fb> <https://colonialcollections.nl/schema#description> "Medaille aan lint. Ereteken voor Belangrijke Krijgsbedrijven (zonder gesp)." .
 <https://n2t.net/ark:/27023/635a543b0d7e6cbb532d3fd6491199fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/635a543b0d7e6cbb532d3fd6491199fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#identifier> "2006/00-42-38" .
-<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#name> "Kabinetkaart met studioportret van KNIL-officier in attila met punthelm" .
-<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Kabinetkaart./ Carte-de-cabinet met studioportret van KNIL-militair (luitenant) met punthelm en attila." .
-<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/63303b1dc741db5ece747289e1b9d442> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/31" .
-<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/63395d381440f6cd48e72391d30b8632> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/28" .
-<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#name> "Rijtuig met Gouverneur Generaal(?)" .
-<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). Rijtuig met Gouverneur Generaal(?)" .
-<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/634a53d74ce325d4305d492d1d874540> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/63110bfe552f77cb5d43ae66906f4abd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/63110bfe552f77cb5d43ae66906f4abd> <https://colonialcollections.nl/schema#identifier> "nf%201355-32-1" .
 <https://n2t.net/ark:/27023/63110bfe552f77cb5d43ae66906f4abd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, half aan de bovenkant met lijm in album geplakt.\r\nOp achterkant in inkt geschreven tekst: 'Tabakaanplant, op den achtergrond oerwoud'\r\n\r\nOpname toont een aanplant van een gewas met redelijk grote bladeren. Rechts hoog gras.\r\n" .

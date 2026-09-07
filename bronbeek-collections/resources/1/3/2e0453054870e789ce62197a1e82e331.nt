@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/3" .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#name> "Plaat 3 Kampong Bobasan" .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit. Opgeplakt op karton.\r\nPlaat 3 Kampong Bobasan" .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#inscription> "Plaat 3 Kampong Bobasan" .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7f76bae6f7688b9d44c6718daf4c08b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7f76bae6f7688b9d44c6718daf4c08b2> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-9" .
 <https://n2t.net/ark:/27023/7f76bae6f7688b9d44c6718daf4c08b2> <https://colonialcollections.nl/schema#name> "Landkaart Ampel" .
@@ -19,6 +27,41 @@
 <https://n2t.net/ark:/27023/7f8bbcb49fc1040152356baf0f3c0785> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/7f8bbcb49fc1040152356baf0f3c0785> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7f8bbcb49fc1040152356baf0f3c0785> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/13" .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#name> "Markt, kledingverkoopsters" .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Markt, kledingverkoopsters." .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#creator> "Sibayak Fotograaf, Brastagi" .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/33" .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#name> "109. Crater of the Tangkoeban Parahoe Bandoeng" .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. 109. Crater of the Tangkoeban Parahoe Bandoeng." .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#creator> "Fotohuis \"Braga\" Bandoeng (Java)" .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-183/1" .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#name> "Luchtfoto Nederlands-Indië/Indonesië" .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#description> "Foto zwart wit. Luchtfoto Nederlands-Indië/Indonesië. Vulkanische uitbarsting Bromo op Java.\r\n\r\nOpdruk: \r\nUitbarsting G. Bromo\r\nPhoto-Verkennings Afdeling\r\nMilitaire Luchtvaart\r\n\r\nG. staat voor gunung (berg)" .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#creator> "Photo-Verkennings Afdeling" .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/465" .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 16.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#creator> "Uitgeverij Spanjersberg" .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/5" .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue subalterne officier Brigade Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#description> "Platte pet, khaki. Maat 55. Juni 1961" .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#creator> "N.V. Uniformpettenfabriek v/h Fa. A. Hassing Amersfoort" .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7f713e46fa84231074972468872f624a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7f713e46fa84231074972468872f624a> <https://colonialcollections.nl/schema#identifier> "nf%201816-1" .
 <https://n2t.net/ark:/27023/7f713e46fa84231074972468872f624a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, gekarteld, los aangetroffen.\r\n\r\nOp achterkant in potlood geschreven tekst: 'Zuidelijk poort'\r\n\r\nOpname toont een poort. Het is een hoekig bouwwerk met een halfronde doorgang, die breder is dan hoog. Zo te zien lijkt de hele poort gebouwd " .
@@ -70,13 +113,6 @@
 <https://n2t.net/ark:/27023/7fa683b30618becb622e3ce262dbea81> <https://colonialcollections.nl/schema#inscription> "Binnenzijde omslag linksboven: Matr. K.M. Z. Brekveld Stbn. 12824" .
 <https://n2t.net/ark:/27023/7fa683b30618becb622e3ce262dbea81> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7fa683b30618becb622e3ce262dbea81> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/3" .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#name> "Plaat 3 Kampong Bobasan" .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit. Opgeplakt op karton.\r\nPlaat 3 Kampong Bobasan" .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#inscription> "Plaat 3 Kampong Bobasan" .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7fbd495a53b613b3c6e02bae11abd99f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7f7008692446931e979b4bbf98f1f1d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7f7008692446931e979b4bbf98f1f1d9> <https://colonialcollections.nl/schema#identifier> "2008/01/17-1-1/30" .
 <https://n2t.net/ark:/27023/7f7008692446931e979b4bbf98f1f1d9> <https://colonialcollections.nl/schema#name> "Een militair staat met geweer op een beschadigd gebouw" .
@@ -521,36 +557,6 @@
 <https://n2t.net/ark:/27023/7fbfc80e83ea588e0b5b71977406ec7b> <https://colonialcollections.nl/schema#description> "Foto's Nederlands-Indië, vooral Militaire Politie (MP) Plaatsen o.a. Djokjakarta (ontruiming juni 1949), Padang, salatiga.." .
 <https://n2t.net/ark:/27023/7fbfc80e83ea588e0b5b71977406ec7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7fbfc80e83ea588e0b5b71977406ec7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/13" .
-<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#name> "Markt, kledingverkoopsters" .
-<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Markt, kledingverkoopsters." .
-<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7f9263965bc6b3f209f01186fc03525c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/33" .
-<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#name> "109. Crater of the Tangkoeban Parahoe Bandoeng" .
-<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. 109. Crater of the Tangkoeban Parahoe Bandoeng." .
-<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7fb0caf812bf6f8e215be2e41cbe5e02> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-183/1" .
-<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#name> "Luchtfoto Nederlands-Indië/Indonesië" .
-<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#description> "Foto zwart wit. Luchtfoto Nederlands-Indië/Indonesië. Vulkanische uitbarsting Bromo op Java.\r\n\r\nOpdruk: \r\nUitbarsting G. Bromo\r\nPhoto-Verkennings Afdeling\r\nMilitaire Luchtvaart\r\n\r\nG. staat voor gunung (berg)" .
-<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7fb77f63e531007b8702b1a7280228b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/465" .
-<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
-<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 16.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
-<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7fba6b6660dd00e70996d2093dfbe1ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/5" .
-<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue subalterne officier Brigade Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#description> "Platte pet, khaki. Maat 55. Juni 1961" .
-<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7fbaf5c7d26ebff18b2a4ffd7c52cd51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7f70f5c4e96982c75faf8574c795d148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7f70f5c4e96982c75faf8574c795d148> <https://colonialcollections.nl/schema#identifier> "nf%20843-22" .
 <https://n2t.net/ark:/27023/7f70f5c4e96982c75faf8574c795d148> <https://colonialcollections.nl/schema#description> "Foto van de onderkant, de plankwortels, van een boom, in het oerwoud van Borneo." .

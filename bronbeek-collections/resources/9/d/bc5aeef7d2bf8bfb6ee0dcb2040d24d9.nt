@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-68" .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#name> "Padi planten" .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Padi planten." .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#inscription> "Padi planten" .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#creator> "G. Adolfs" .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#creator> "Masman & Stroink, Semarang" .
 <https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <https://colonialcollections.nl/schema#identifier> "2002/02/08-7-3/5" .
 <https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <https://colonialcollections.nl/schema#name> "Bij gelegenheid van de onderteekening van de overeenkomst van Linggadjati hield Shahrir een rede" .
@@ -5,13 +14,15 @@
 <https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <https://colonialcollections.nl/schema#creator> "A.N.P. Foto Amsterdam" .
 <https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/18049e2fe1ec8d0e89dbe4835e697ba3> <https://colonialcollections.nl/schema#creator> "Aneta Batavia" .
 <https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#identifier> "nf%201304-8" .
 <https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#name> "Koenti" .
 <https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nDeze plaat behoort met anderen, allemaal losse platen, tot een boekwerk met het inventarisnummer N7221.\r\nNaast de platen bestaat dit boekwer" .
-<https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/180d08c8194e5cef8f21bf7a4d96bac2> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/180d71d7b732d17f805fd661b6651aa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/180d71d7b732d17f805fd661b6651aa1> <https://colonialcollections.nl/schema#identifier> "2016/12/30-7-7" .
 <https://n2t.net/ark:/27023/180d71d7b732d17f805fd661b6651aa1> <https://colonialcollections.nl/schema#name> "Tekening Makassar in lijst" .
@@ -33,6 +44,13 @@
 <https://n2t.net/ark:/27023/18156da0fe2bc9d70ed14a79a3023761> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/18156da0fe2bc9d70ed14a79a3023761> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/18156da0fe2bc9d70ed14a79a3023761> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#identifier> "1999/00-429" .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#name> "Model Engelse tuin" .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#description> "Model van een Engelse tuin" .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#creator> "Dhr. de Veer" .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1830f63406ca025e967a81ba804d8c9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1830f63406ca025e967a81ba804d8c9c> <https://colonialcollections.nl/schema#identifier> "1977/03-1-65" .
 <https://n2t.net/ark:/27023/1830f63406ca025e967a81ba804d8c9c> <https://colonialcollections.nl/schema#name> "Arakstokerij aan de kali" .
@@ -40,6 +58,13 @@
 <https://n2t.net/ark:/27023/1830f63406ca025e967a81ba804d8c9c> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/1830f63406ca025e967a81ba804d8c9c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1830f63406ca025e967a81ba804d8c9c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/6" .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#name> "Landschap met drie vliegtuigen boven veld" .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#description> "Landschap met drie vliegtuigen boven veld." .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/183922709462d01267ae3a4522bcc3cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/183922709462d01267ae3a4522bcc3cd> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/60" .
 <https://n2t.net/ark:/27023/183922709462d01267ae3a4522bcc3cd> <https://colonialcollections.nl/schema#name> "Militairen voeren graafwerkzaamheden uit met behulp van de machine ´Jaques´" .
@@ -47,12 +72,20 @@
 <https://n2t.net/ark:/27023/183922709462d01267ae3a4522bcc3cd> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/183922709462d01267ae3a4522bcc3cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/183922709462d01267ae3a4522bcc3cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#identifier> "nf%201335-1" .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#name> "Groet uit Batavia - Kazerne" .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands en Frans. Deze tekst luidt: 'BRIEFKAART (CARTE POSTALE) - ALGEMEENE POSTVEREENIGING (UNION POSTALE UNIVERSELLE)\r\nOok is er tekst over wat de adreszijde is en waar gesc" .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <https://colonialcollections.nl/schema#identifier> "nf%201469-8" .
 <https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant kaart is tekst gedrukt: 'Hotel Wanasari - Soekaboemi - 4000 voet.\r\nOok is er het logo van de drukkerij: W & S H (in een klein driehoekje).\r\n\r\nOpname toont nog een aanzic" .
 <https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/180d63beae7a1d19d824e7931bda5e0d> <https://colonialcollections.nl/schema#creator> "W & S H" .
 <https://n2t.net/ark:/27023/1823258d243378ced64eb657450c196b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1823258d243378ced64eb657450c196b> <https://colonialcollections.nl/schema#identifier> "EDO%20622-43-5" .
 <https://n2t.net/ark:/27023/1823258d243378ced64eb657450c196b> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een 'pleintje' met links bebouwing en centraal een naar beneden glooiende helling naar een meer. In de verte bergen.\r\n\r\nHet vermoeden bestaat dat het hier om het meer van Sara" .
@@ -119,13 +152,6 @@
 <https://n2t.net/ark:/27023/18417edb7df8fb5bcd4a098fb221fb05> <https://colonialcollections.nl/schema#inscription> "Sitanaia; Sitanala" .
 <https://n2t.net/ark:/27023/18417edb7df8fb5bcd4a098fb221fb05> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/18417edb7df8fb5bcd4a098fb221fb05> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-68" .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#name> "Padi planten" .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Padi planten." .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#inscription> "Padi planten" .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/180d0cd3168ccc333b22982d0b0db9c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/17fec9137791142274cfb6721561555a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/17fec9137791142274cfb6721561555a> <https://colonialcollections.nl/schema#identifier> "2013/04/03-1-2/24" .
 <https://n2t.net/ark:/27023/17fec9137791142274cfb6721561555a> <https://colonialcollections.nl/schema#name> "Foto betreffende Sergeant Verpleger KNIL L. van Deenen" .
@@ -540,24 +566,6 @@
 <https://n2t.net/ark:/27023/1844067251c99f39facd3ec7f9cbb016> <https://colonialcollections.nl/schema#description> "Foto van P. Pijpers Nederlands-Indië in doos Uford gemerkt \"Pijpers foto's Bali A t/m M\". Totaal 90 stuks. Afdruk van negatieven." .
 <https://n2t.net/ark:/27023/1844067251c99f39facd3ec7f9cbb016> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1844067251c99f39facd3ec7f9cbb016> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#identifier> "1999/00-429" .
-<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#name> "Model Engelse tuin" .
-<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#description> "Model van een Engelse tuin" .
-<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1820ac33a9f0f944bc205bff135f114f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/6" .
-<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#name> "Landschap met drie vliegtuigen boven veld" .
-<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#description> "Landschap met drie vliegtuigen boven veld." .
-<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/18373a4bdf7b9d8e05608b05e0f437e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#identifier> "nf%201335-1" .
-<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#name> "Groet uit Batavia - Kazerne" .
-<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands en Frans. Deze tekst luidt: 'BRIEFKAART (CARTE POSTALE) - ALGEMEENE POSTVEREENIGING (UNION POSTALE UNIVERSELLE)\r\nOok is er tekst over wat de adreszijde is en waar gesc" .
-<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1839b37d24e9a480594b537c7a80c7ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/18071b3d5efa2198f2e1853bcc255ff6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/18071b3d5efa2198f2e1853bcc255ff6> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-3" .
 <https://n2t.net/ark:/27023/18071b3d5efa2198f2e1853bcc255ff6> <https://colonialcollections.nl/schema#description> "Carte de visite." .

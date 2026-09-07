@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#identifier> "1875/07-1-16" .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#name> "Engels \"light 6-pounder\" kanon, uit de kraton van Marta Poera" .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#description> "Kanon op affuit. Gemaakt door Richard Gilpin. Lengte loop: 138,5cm. diameter: 9,5 cm. Verbust. Op rechter tap: \"No.1\". Op loop gekroonde P en een blazoen. (Onbekende determinering).\r\n\r\nLilla liggende op een affuit. Op de draaibas is het volgende geschilde" .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#inscription> "'Bandjermasin uit den kraton van den Sultan van Marta-poera, den 13den Juni 1869 in den kraton van Marta-poera gevonden door den kolonel Andresen" .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#creator> "Richard Gilpin" .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/58c905265843729c324c7db0a3978520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58c905265843729c324c7db0a3978520> <https://colonialcollections.nl/schema#identifier> "1977/03-1-22" .
 <https://n2t.net/ark:/27023/58c905265843729c324c7db0a3978520> <https://colonialcollections.nl/schema#name> "Stapelwolken" .
@@ -37,9 +45,10 @@
 <https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#identifier> "2005/00-17/8" .
 <https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#name> "Officieren van Gezondheid, Hospitaalsoldaten en Ambulance (te Velde) O.I. Leger 1897." .
 <https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#description> "Chromodruk. Officieren Gezondheid, Hospitaalsoldaten en Ambulance (te Velde) O.I.Leger 1897\r\nChromodruk van P.W.van de Weijer, Utrecht" .
-<https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#creator> "Majoor KNIL Justus Pieter de Veer" .
+<https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
 <https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/58d8580163721497b46b283d2f32ac8e> <https://colonialcollections.nl/schema#creator> "Majoor KNIL Justus Pieter de Veer" .
 <https://n2t.net/ark:/27023/58dbba833a0c1ea22c4880a8ff80c800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58dbba833a0c1ea22c4880a8ff80c800> <https://colonialcollections.nl/schema#identifier> "nf%201336-3" .
 <https://n2t.net/ark:/27023/58dbba833a0c1ea22c4880a8ff80c800> <https://colonialcollections.nl/schema#name> "Weltevreden - Tuin Societeit Concordia" .
@@ -54,6 +63,13 @@
 <https://n2t.net/ark:/27023/58e9ec4e98944416a8cbe52434ef05a6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/58e9ec4e98944416a8cbe52434ef05a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/58e9ec4e98944416a8cbe52434ef05a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/11" .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Suez. The Colmar Street. 323" .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"Suez. The Colmar Street. 323\"" .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#creator> "The Oriental Commercial Bureau Port Saïd" .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/58fd16668801e459f59483d2ba7ddc61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58fd16668801e459f59483d2ba7ddc61> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-50" .
 <https://n2t.net/ark:/27023/58fd16668801e459f59483d2ba7ddc61> <https://colonialcollections.nl/schema#name> "\"De Generaal J.van Swieten 1807-1888 door J.I. de Rochemont\"" .
@@ -98,6 +114,7 @@
 <https://n2t.net/ark:/27023/58f200e0ba96ea30fe95a378634d156c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/58f200e0ba96ea30fe95a378634d156c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/58f200e0ba96ea30fe95a378634d156c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/58f200e0ba96ea30fe95a378634d156c> <https://colonialcollections.nl/schema#creator> "Archipel, De (Den Haag)" .
 <https://n2t.net/ark:/27023/58f9d92c881541ad9d8d35dc0942e5a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58f9d92c881541ad9d8d35dc0942e5a9> <https://colonialcollections.nl/schema#identifier> "nf%201885-14" .
 <https://n2t.net/ark:/27023/58f9d92c881541ad9d8d35dc0942e5a9> <https://colonialcollections.nl/schema#description> "Glasnegatief, zwart/wit, rechthoekig, met anderen los aangetroffen\r\n\r\nOpname toont een jonge vrouw, staand in een sierlijke danshouding op een mat met een gordijn als achtergrond. Zij draagt een lange witte jurk.\r\n\r\nOnduidelijk is waar de foto is genomen." .
@@ -124,13 +141,6 @@
 <https://n2t.net/ark:/27023/5903f38f64c1e47bb1e9cedbf83892a4> <https://colonialcollections.nl/schema#inscription> "Malang nov. 1929" .
 <https://n2t.net/ark:/27023/5903f38f64c1e47bb1e9cedbf83892a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5903f38f64c1e47bb1e9cedbf83892a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#identifier> "1875/07-1-16" .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#name> "Engels \"light 6-pounder\" kanon, uit de kraton van Marta Poera" .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#description> "Kanon op affuit. Gemaakt door Richard Gilpin. Lengte loop: 138,5cm. diameter: 9,5 cm. Verbust. Op rechter tap: \"No.1\". Op loop gekroonde P en een blazoen. (Onbekende determinering).\r\n\r\nLilla liggende op een affuit. Op de draaibas is het volgende geschilde" .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#inscription> "'Bandjermasin uit den kraton van den Sultan van Marta-poera, den 13den Juni 1869 in den kraton van Marta-poera gevonden door den kolonel Andresen" .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/58d9aab830af28438652bd82d63e232c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/58c54d24d79f05e92087a28e2e9ea32f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58c54d24d79f05e92087a28e2e9ea32f> <https://colonialcollections.nl/schema#identifier> "2001/09/24-1-19" .
 <https://n2t.net/ark:/27023/58c54d24d79f05e92087a28e2e9ea32f> <https://colonialcollections.nl/schema#name> "Penning, Het Nederlandsche Roode Kruis, Bloedtransfusiedienst. Prof. Dr. Karl Landsteiner" .
@@ -533,12 +543,6 @@
 <https://n2t.net/ark:/27023/5907a70462f94145282ca5fab54fde9e> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Dokter Jan Schijfsma, Officier van Gezondheid der 2e klasse zittend met zijn dochtertje Riekje in Amsterdam tijdens het Nederlands verlof in 1908." .
 <https://n2t.net/ark:/27023/5907a70462f94145282ca5fab54fde9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5907a70462f94145282ca5fab54fde9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/11" .
-<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Suez. The Colmar Street. 323" .
-<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"Suez. The Colmar Street. 323\"" .
-<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/58f12a7a3d1d813930e8b339bbeee4dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/58c487c737adb0e5f7f5b1011e3cce77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58c487c737adb0e5f7f5b1011e3cce77> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42263" .
 <https://n2t.net/ark:/27023/58c487c737adb0e5f7f5b1011e3cce77> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 103,8 cm\r\nMedia:\t2796\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2796] Depot, K [K]\r\nhoofdmateriaal:\thout" .

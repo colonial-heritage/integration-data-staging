@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-5" .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#name> "Stations gebouw Soerabaia." .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Stations gebouw Soerabaia." .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#inscription> "Stations gebouw Soerabaia." .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#creator> "Naamlooze Vennootschap Boek en Handelsdrukkerij" .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <https://colonialcollections.nl/schema#identifier> "1997/09/29-1-4" .
 <https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <https://colonialcollections.nl/schema#name> "Schoolplaat \"Papoea's\"" .
@@ -6,6 +14,7 @@
 <https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <https://colonialcollections.nl/schema#creator> "L. van Leer & Co., Amsterdam" .
 <https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80f9fa62184dfc062688056b74d6083d> <https://colonialcollections.nl/schema#creator> "uitgever N.V. Joh. Ykema, 's-Gravenhage" .
 <https://n2t.net/ark:/27023/80cf2ec76b9a0aa68a765c9252c611e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80cf2ec76b9a0aa68a765c9252c611e5> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/3" .
 <https://n2t.net/ark:/27023/80cf2ec76b9a0aa68a765c9252c611e5> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -13,6 +22,41 @@
 <https://n2t.net/ark:/27023/80cf2ec76b9a0aa68a765c9252c611e5> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/80cf2ec76b9a0aa68a765c9252c611e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/80cf2ec76b9a0aa68a765c9252c611e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#identifier> "2001/00-20" .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#name> "2e Regiment de Cheveau-Légers Lanciers de la Garde Impériale. (Hollanders) 1810-1813." .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#description> "Kleurenreproductie \"2e Régiment de Cheveau-Légers Lanciers de la Garde Impériale (Hollanders) 1810-1813.\"\r\nRechtsonder vermeld: J.H.v P" .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/4" .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/36" .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#name> "Nieuwe fontein. Fort de Kock" .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, ongebruikt. \"Nieuwe fontein. Fort de Kock\"." .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#creator> "Hong Ko Beng" .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#identifier> "2014/02/26-3-6" .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#name> "Onderdeelsonderscheidingsteken ML-KNIL van \"Amico\"" .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#description> "Onderdeelsonderscheidingsteken ML-KNIL (paar) Aanmaak \"Amico." .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#creator> "American Insignia Company" .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#identifier> "nf%20741b" .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#name> "'De wegen langs'" .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#description> "'De wegen langs', Indonesië, deel 2. Een film opgenomen door Dr. H.R. Sinia in de jaren 1939 / 1940 / 1941.\r\n\r\nBij de film is een inhoudsoverzicht gevoegd:\r\n\r\n'Garoeda serie, De wegen langs, Een film over Java opgenomen door Dr. H.R. Sinia\r\n\r\nWeltevreden," .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#creator> "H.(Hiddo) R. Sinia" .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80fc0ed8bb42acd01df85ab81f783a27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80fc0ed8bb42acd01df85ab81f783a27> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/51" .
 <https://n2t.net/ark:/27023/80fc0ed8bb42acd01df85ab81f783a27> <https://colonialcollections.nl/schema#name> "Bewoner Bronbeek in de eetzaal, staand aan tafel met vork bij zijn mond" .
@@ -20,12 +64,24 @@
 <https://n2t.net/ark:/27023/80fc0ed8bb42acd01df85ab81f783a27> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/80fc0ed8bb42acd01df85ab81f783a27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/80fc0ed8bb42acd01df85ab81f783a27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#identifier> "nf%20841-75-2" .
+<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, zonder in inkt geschreven bij- onderschrift.\r\n\r\nVoor fotopagina 75 en heel waarschijnlijk ook fotopagina 76 geldt voor alle foto's op die pagina's de op pagina 75 geldende tekst: \"De Sibolga baai " .
+<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80ebdceffd31eed16fd5dc2281d0613a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80ebdceffd31eed16fd5dc2281d0613a> <https://colonialcollections.nl/schema#identifier> "nf%201840-3" .
 <https://n2t.net/ark:/27023/80ebdceffd31eed16fd5dc2281d0613a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOpname toont een beeld van een spoorbrug in aanleg. Over een breed, diep dal moet een spoorlijn worden aangelegd. \r\nTe zien is dat toekomstige pijleers komen te staan op betonnen funderingen. De pijlers zelf zijngeheel" .
 <https://n2t.net/ark:/27023/80ebdceffd31eed16fd5dc2281d0613a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/80ebdceffd31eed16fd5dc2281d0613a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/80ebdceffd31eed16fd5dc2281d0613a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#identifier> "nf%20841-66-3" .
+<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOp fotopagina 66 is in rood de volgende tekst geschreven, waarschijnlijk geldend voor 4 van de 5 foto's. Deze tekst luidt: \"De T.N.I. voor besprekingen" .
+<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80f1bcbbd9404b7f1489128cb5974d95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80f1bcbbd9404b7f1489128cb5974d95> <https://colonialcollections.nl/schema#identifier> "nf%20899-67" .
 <https://n2t.net/ark:/27023/80f1bcbbd9404b7f1489128cb5974d95> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nDe opname toont een klein meisje met hoed en spa die met hulp van de tuinman (toekang kebon) een boom plant\r\n\r\nHet positief is te vinden onder nf 834-9" .
@@ -52,13 +108,6 @@
 <https://n2t.net/ark:/27023/80f23f334209e474ec725baf3002acd3> <https://colonialcollections.nl/schema#inscription> "Merdeka" .
 <https://n2t.net/ark:/27023/80f23f334209e474ec725baf3002acd3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/80f23f334209e474ec725baf3002acd3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-5" .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#name> "Stations gebouw Soerabaia." .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Stations gebouw Soerabaia." .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#inscription> "Stations gebouw Soerabaia." .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80efc6107dd8139d31779f1cc6328ff8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80bbad3043b2bd55318fc530695ff1b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80bbad3043b2bd55318fc530695ff1b4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-404" .
 <https://n2t.net/ark:/27023/80bbad3043b2bd55318fc530695ff1b4> <https://colonialcollections.nl/schema#name> "Schouderschuifpassant dagelijkse tenue Inspecteur van Politie Tweede Klasse Algemene Politie Nederlands-Indië" .
@@ -491,36 +540,6 @@
 <https://n2t.net/ark:/27023/80fee52b03664bbee5697aeb9822bb30> <https://colonialcollections.nl/schema#description> "Foto. Nederlands indië, periode 1920-1930.\r\nVerso in pen: 'Palembang, Juni '21'. Paalwoningen langs water." .
 <https://n2t.net/ark:/27023/80fee52b03664bbee5697aeb9822bb30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/80fee52b03664bbee5697aeb9822bb30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#identifier> "2001/00-20" .
-<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#name> "2e Regiment de Cheveau-Légers Lanciers de la Garde Impériale. (Hollanders) 1810-1813." .
-<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#description> "Kleurenreproductie \"2e Régiment de Cheveau-Légers Lanciers de la Garde Impériale (Hollanders) 1810-1813.\"\r\nRechtsonder vermeld: J.H.v P" .
-<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80d271f479b5188f2ccf05df0b47ba6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/4" .
-<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
-<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
-<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80da1f3d8f09f111aa3ebeb493b92be0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/36" .
-<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#name> "Nieuwe fontein. Fort de Kock" .
-<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, ongebruikt. \"Nieuwe fontein. Fort de Kock\"." .
-<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80e133c5afe66c01536c72a1dd4e30d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#identifier> "2014/02/26-3-6" .
-<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#name> "Onderdeelsonderscheidingsteken ML-KNIL van \"Amico\"" .
-<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#description> "Onderdeelsonderscheidingsteken ML-KNIL (paar) Aanmaak \"Amico." .
-<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80e597d3603fcad8a79bd2e42202ebf1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#identifier> "nf%20741b" .
-<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#name> "'De wegen langs'" .
-<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#description> "'De wegen langs', Indonesië, deel 2. Een film opgenomen door Dr. H.R. Sinia in de jaren 1939 / 1940 / 1941.\r\n\r\nBij de film is een inhoudsoverzicht gevoegd:\r\n\r\n'Garoeda serie, De wegen langs, Een film over Java opgenomen door Dr. H.R. Sinia\r\n\r\nWeltevreden," .
-<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80ee1700538d86cab6da974cedaab7ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80bf8153d51c9eb50f9d6bd059d7bff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80bf8153d51c9eb50f9d6bd059d7bff5> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42991" .
 <https://n2t.net/ark:/27023/80bf8153d51c9eb50f9d6bd059d7bff5> <https://colonialcollections.nl/schema#description> "Gevlochten hoed" .
@@ -571,16 +590,6 @@
 <https://n2t.net/ark:/27023/810054a992fd2081b98ffcb69a1a3b2e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen bruikbare tekst, behalve dan de datum 'Juni 1928'\r\n\r\nOpname toont twee kinderen, een jongen en een meisje. Zij rijden op driewiel fietsjes op een onverharde weg. Ac" .
 <https://n2t.net/ark:/27023/810054a992fd2081b98ffcb69a1a3b2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/810054a992fd2081b98ffcb69a1a3b2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#identifier> "nf%20841-75-2" .
-<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, zonder in inkt geschreven bij- onderschrift.\r\n\r\nVoor fotopagina 75 en heel waarschijnlijk ook fotopagina 76 geldt voor alle foto's op die pagina's de op pagina 75 geldende tekst: \"De Sibolga baai " .
-<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80cb32a855af5c89aaa490bd81d7ad73> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#identifier> "nf%20841-66-3" .
-<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOp fotopagina 66 is in rood de volgende tekst geschreven, waarschijnlijk geldend voor 4 van de 5 foto's. Deze tekst luidt: \"De T.N.I. voor besprekingen" .
-<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/80ec5d8fbc51bbef611c5c9799db5075> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/80e544526fe8d7ecc09c30e14dcb06b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/80e544526fe8d7ecc09c30e14dcb06b8> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/116" .
 <https://n2t.net/ark:/27023/80e544526fe8d7ecc09c30e14dcb06b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

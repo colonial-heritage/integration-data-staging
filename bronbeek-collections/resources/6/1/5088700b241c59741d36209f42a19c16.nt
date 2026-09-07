@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/77" .
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Tjapanas near Garoet - Visch vijver Tjapanas Garoet" .
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Tjapanas near Garoet - Visch vijver Tjapanas Garoet. No. 1115." .
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#creator> "Arw-Kiekjes van Java's Land en Volk." .
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2052e66122b9af451bf700ff65da0766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2052e66122b9af451bf700ff65da0766> <https://colonialcollections.nl/schema#identifier> "2016/12/28-3-6" .
 <https://n2t.net/ark:/27023/2052e66122b9af451bf700ff65da0766> <https://colonialcollections.nl/schema#name> "Merklap van Fiet Bollee uit Japans interneringskamp Moentilan" .
@@ -9,10 +16,17 @@
 <https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#identifier> "nf%20502-1" .
 <https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#name> "De opening van de tunnel op het traject Padelarang Krawang" .
 <https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#description> "Feestelijke opening (?) van een spoortunnel\r\nOp het bord boven de tunnel staat '11 mei 1903 - 23 juni 1903'" .
-<https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
+<https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/2068214b9d143445903f60a2353fa953> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#identifier> "2013/07/19-1-6/1" .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#name> "\"Internaat Siantar, van de schoolvereniging in Simeloengoen. Herinnering aan het feestavondje op zaterdag 19 november 1933\"" .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#description> "Fotoalbum. \"Internaat Siantar, van de schoolvereniging in Simeloengoen. Herinnering aan het feestavondje op zaterdag 19 november 1933\".\r\nFoto's Mei Yoeng, Drukkerij Philemon bin Haroen Siregar.\r\nDe artisten.\r\nTableaux.\r\nZonnekind.\r\nDivertissement Hollanda" .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#creator> "Mei Yoeng" .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/206c4f2b79f21cde85da3fa9345e1754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/206c4f2b79f21cde85da3fa9345e1754> <https://colonialcollections.nl/schema#identifier> "nf%201287" .
 <https://n2t.net/ark:/27023/206c4f2b79f21cde85da3fa9345e1754> <https://colonialcollections.nl/schema#name> "Minangkabausche huizen" .
@@ -511,18 +525,6 @@
 <https://n2t.net/ark:/27023/208efa015cf749dff2b43e6ce7594d9d> <https://colonialcollections.nl/schema#description> "Foto. Nederlands Indië." .
 <https://n2t.net/ark:/27023/208efa015cf749dff2b43e6ce7594d9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/208efa015cf749dff2b43e6ce7594d9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/77" .
-<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Tjapanas near Garoet - Visch vijver Tjapanas Garoet" .
-<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Tjapanas near Garoet - Visch vijver Tjapanas Garoet. No. 1115." .
-<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/20493b39b636bc09b5022dc506ea3708> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#identifier> "2013/07/19-1-6/1" .
-<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#name> "\"Internaat Siantar, van de schoolvereniging in Simeloengoen. Herinnering aan het feestavondje op zaterdag 19 november 1933\"" .
-<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#description> "Fotoalbum. \"Internaat Siantar, van de schoolvereniging in Simeloengoen. Herinnering aan het feestavondje op zaterdag 19 november 1933\".\r\nFoto's Mei Yoeng, Drukkerij Philemon bin Haroen Siregar.\r\nDe artisten.\r\nTableaux.\r\nZonnekind.\r\nDivertissement Hollanda" .
-<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/206b9277dc23d12b1ae1dff05d9d4bcf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2054d5b3d2e647b4051b7b88ca533b67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2054d5b3d2e647b4051b7b88ca533b67> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41780" .
 <https://n2t.net/ark:/27023/2054d5b3d2e647b4051b7b88ca533b67> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\toorhanger\r\nTitel:\tlelbutir\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgegoten\r\nEmailadres: toelichting:\tLelbutir. Omega-vormige oorhangers met in het midden een ovale opening.  De twee symmetrische buitenkanten sl" .

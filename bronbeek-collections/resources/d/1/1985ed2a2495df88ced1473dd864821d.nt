@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1-4" .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#name> "Foto H.Ch. van Meerten" .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#description> "Foto op karton: Mr. H.Ch. van Meerten\r\n\r\novale foto op karton van Mr. Henri Charles van Meerten\r\ngeb. Paramaribo, 9-9-1862\r\noverl. Semarang, 1918\r\nBuitengewoon subst.griffier raad van Just. te Soerabaya 1888.\r\nGriffier van de landraad van Amboina, auditeu" .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#inscription> "recto: H.Jonker,  Leiden\r\nverso: Photografisch Atelier van H. Jonker Leiden\r\nApothekersdijk No.7" .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#creator> "H. Jonker" .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#identifier> "2005/00-607/10" .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#name> "Foto van gebouw Simeloencoeng Club, Pemalang-Siantar" .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Gebouw van de Simeloencoen Club in Pematang-Siantar. Rechts over het balkon hangt de vlag uit. Rechts staat een drietal personen.\r\n\r\nrecto: in witte inkt \"Pematang-Siantar\"\r\nverso: in potlood \"Photo genomen Juli 1930 Sumatra-oostkust\"" .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <https://colonialcollections.nl/schema#identifier> "nf%201473-16" .
 <https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <https://colonialcollections.nl/schema#name> "De racebaan te Fort de Kock, Sumatra" .
@@ -5,6 +20,7 @@
 <https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/823a38fc0643fbbe1b0725c553835e06> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/824342e695d9531d737916ddd6f1baac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/824342e695d9531d737916ddd6f1baac> <https://colonialcollections.nl/schema#identifier> "NG-1986-7" .
 <https://n2t.net/ark:/27023/824342e695d9531d737916ddd6f1baac> <https://colonialcollections.nl/schema#name> "Kop van Javaan van Van Heutsz monument te Batavia" .
@@ -19,6 +35,13 @@
 <https://n2t.net/ark:/27023/8247a471fb97b8e4cb6a72ab5b9aa3b9> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/8247a471fb97b8e4cb6a72ab5b9aa3b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8247a471fb97b8e4cb6a72ab5b9aa3b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#identifier> "2013/12/05-5-1" .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#name> "J.P.Coen Verzameling: Tabak A" .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#description> "Doos met 14 lantaarnplaatjes. \"J.P. Coen verzameling. Tabak A.\" Uitgave van T.O.A. Aerdenhout. Alle plaatjes genummerd en gelabeld." .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#creator> "T.O.A. Aerdenhout" .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8257da617ee530781ad1942f412e6094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8257da617ee530781ad1942f412e6094> <https://colonialcollections.nl/schema#identifier> "nf%20678-2-7" .
 <https://n2t.net/ark:/27023/8257da617ee530781ad1942f412e6094> <https://colonialcollections.nl/schema#name> "Brandbaar gas bij de Niefkloof" .
@@ -30,9 +53,10 @@
 <https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#identifier> "nf%201763-1" .
 <https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#name> "Baai van Manokwari" .
 <https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp voorkant rechtsonderin wit een tekst: 'Manokwari, Baai van Manokwari'\r\nOp achterkant meegedrukt de naam van de uitgever: 'Uitg. Handel Mij. Ledderhof, Manokwari, Nw. Guinea afd. Bo" .
-<https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#creator> "Handel Maatschappij Ledderhof, Manokwari, Nieuw Guinea" .
 <https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/826440fc1c3a72beffe303891cacb9a0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/822b6125af2f016e2b0e3523d972e40a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/822b6125af2f016e2b0e3523d972e40a> <https://colonialcollections.nl/schema#identifier> "nf%201730-9" .
 <https://n2t.net/ark:/27023/822b6125af2f016e2b0e3523d972e40a> <https://colonialcollections.nl/schema#description> "Foto, stereofoto, zwart/wit, twee foto's naast elkaar geplakt op roodbruin karton, los aangetroffen. \r\n\r\nOp achterkant in potlood: 'Borneo'\r\n\r\nOpnamen tonen een rivier, misschien zelfs de zee met links een oever, begroeid.\r\nZichtbaar zijn een aantal hutje" .
@@ -54,9 +78,10 @@
 <https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#identifier> "nf%201465-1" .
 <https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant in potlood geschreven tekst: W. Ruys - 1e reis - '48\r\n\r\nOpname toont een groot passagiersschip in volle zee.\r\n\r\nN.B.: Meegegeven tekst geeft aan dat het hier om de Wille" .
-<https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/825b34ccdf29e7c923fff469f308d574> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8224f609f691a1ee47e7b855756cf62f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8224f609f691a1ee47e7b855756cf62f> <https://colonialcollections.nl/schema#identifier> "2003/06/04-3-5" .
 <https://n2t.net/ark:/27023/8224f609f691a1ee47e7b855756cf62f> <https://colonialcollections.nl/schema#name> "Patroontas geweer" .
@@ -106,13 +131,6 @@
 <https://n2t.net/ark:/27023/825fb3c23fb7a348cf41fa60d8552570> <https://colonialcollections.nl/schema#inscription> "\"Korporaal J.Duiven, No.260118053 A.Comp 4-9 R.I. IIe Divisie, Veldpost Batavia. 31-10-1947\"" .
 <https://n2t.net/ark:/27023/825fb3c23fb7a348cf41fa60d8552570> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/825fb3c23fb7a348cf41fa60d8552570> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1-4" .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#name> "Foto H.Ch. van Meerten" .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#description> "Foto op karton: Mr. H.Ch. van Meerten\r\n\r\novale foto op karton van Mr. Henri Charles van Meerten\r\ngeb. Paramaribo, 9-9-1862\r\noverl. Semarang, 1918\r\nBuitengewoon subst.griffier raad van Just. te Soerabaya 1888.\r\nGriffier van de landraad van Amboina, auditeu" .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#inscription> "recto: H.Jonker,  Leiden\r\nverso: Photografisch Atelier van H. Jonker Leiden\r\nApothekersdijk No.7" .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/82574cc7fae3e3c6631ebca8b741d079> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/822353110c566f65657f75818978da0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/822353110c566f65657f75818978da0e> <https://colonialcollections.nl/schema#identifier> "2017/12/29-2" .
 <https://n2t.net/ark:/27023/822353110c566f65657f75818978da0e> <https://colonialcollections.nl/schema#name> "Project tot het opregten van een corps cadets de marine voor den zee-dienst in Indiën" .
@@ -545,18 +563,6 @@
 <https://n2t.net/ark:/27023/82681adb350050d499dbbc1535f5afbc> <https://colonialcollections.nl/schema#description> "Foto´s 26 stuks Algemene Politie Nederlands Nieuw Guinea. Periode na 1950.\r\nW. van de Ham\r\nAdj. H.C. van P.\r\nGevangenis bewaker Gottschalk, I.v.P.I.\r\nGevangen Indonesische infiltranten\r\nAlgemen Politie Post Waigama" .
 <https://n2t.net/ark:/27023/82681adb350050d499dbbc1535f5afbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/82681adb350050d499dbbc1535f5afbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#identifier> "2005/00-607/10" .
-<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#name> "Foto van gebouw Simeloencoeng Club, Pemalang-Siantar" .
-<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Gebouw van de Simeloencoen Club in Pematang-Siantar. Rechts over het balkon hangt de vlag uit. Rechts staat een drietal personen.\r\n\r\nrecto: in witte inkt \"Pematang-Siantar\"\r\nverso: in potlood \"Photo genomen Juli 1930 Sumatra-oostkust\"" .
-<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8234a1286ffda641e885eb967aa2ca9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#identifier> "2013/12/05-5-1" .
-<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#name> "J.P.Coen Verzameling: Tabak A" .
-<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#description> "Doos met 14 lantaarnplaatjes. \"J.P. Coen verzameling. Tabak A.\" Uitgave van T.O.A. Aerdenhout. Alle plaatjes genummerd en gelabeld." .
-<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/825790be00a60ba47792513b13de9d26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8225abccbba28f0ac999cedaaa5cbe66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8225abccbba28f0ac999cedaaa5cbe66> <https://colonialcollections.nl/schema#identifier> "nf%20697-11" .
 <https://n2t.net/ark:/27023/8225abccbba28f0ac999cedaaa5cbe66> <https://colonialcollections.nl/schema#description> "Opname van een jonge Javaan aan het werk op het land met een hak." .

@@ -1,3 +1,25 @@
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#identifier> "nf%20701-15" .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#name> "Poortje op de Sultans begraafplaats te Pasargede" .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#description> "De afbeelding toont een tempelpoort bij de begraafplaats van de sultans van Yogyakarta te Pasar Gede.\r\n\r\nbijschrift linksonder; 'Poortje op de Sultans begraafplaats te Pasargede. Small gate on the cemetery of the Sultans at Pasargede'\r\nbijschrift rechtson" .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#identifier> "1968/05/18-1-2" .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#name> "Waterverftekening \"Fourageren sept. '44 door Han Rehm, voorstellende \"Hongertocht '44\"" .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#description> "waterverftekening in licht houten lijst van een voedseltocht gedurende de hongerwinter '44-'45" .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#creator> "Han Rehm" .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-37" .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#name> "Portret  man en vrouw" .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Portret borststuk man en vrouw." .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#creator> "J.F. Blöte, Groningen Oosterstraat D18" .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b9d6bbdf7529117ce06d47d5e8ae4a41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b9d6bbdf7529117ce06d47d5e8ae4a41> <https://colonialcollections.nl/schema#identifier> "nf%20678-4-6" .
 <https://n2t.net/ark:/27023/b9d6bbdf7529117ce06d47d5e8ae4a41> <https://colonialcollections.nl/schema#name> "Brandbaar gas bij de Niefkloof" .
@@ -34,6 +56,20 @@
 <https://n2t.net/ark:/27023/ba00b7e9a89abc91883d62a24ecd18ae> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ba00b7e9a89abc91883d62a24ecd18ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba00b7e9a89abc91883d62a24ecd18ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#identifier> "2017/02/19-2-1" .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#name> "Pet grijsgroen manschappen KNIL Europees uniform" .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#description> "Pet grijsgroen manschappen KNIL Europees uniform. model platte pet, KNIL.\r\nPet gedragen door mindere militairen van de Koloniale Reserve. \r\nKwartiermuts (platte pet) grijsgroen (groen) katoen. Om de opstaande rand een grijsgroene band met ribmotief. Aan d" .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#creator> "J.P. Mol, Breda" .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/9" .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#name> "Arbeiderswoningen. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Arbeiderswoningen.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nIdentiek aan 3/8" .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b9bfc268a54c146227b21d844b3b6544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b9bfc268a54c146227b21d844b3b6544> <https://colonialcollections.nl/schema#identifier> "nf%201629-11" .
 <https://n2t.net/ark:/27023/b9bfc268a54c146227b21d844b3b6544> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, twee foto's naast elkaar geplakt op grijs karton, hoeken afgerond, los aangetroffen met anderen.\r\n\r\nOpnames tonen een interieur. Zittend in een rieten fauteuil, bij een tafeltje, een blanke man in het wit. Er staat nog zo'n fauteuil" .
@@ -46,6 +82,18 @@
 <https://n2t.net/ark:/27023/b9d0ca69475f8757e4d7e362e86b5862> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b9d0ca69475f8757e4d7e362e86b5862> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b9d0ca69475f8757e4d7e362e86b5862> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#identifier> "nf%201424-14" .
+<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een Papoea man zittend op een kleine houten prauw met aan één kant een drijver, die met twee bomen aan de prauw is bevestigd" .
+<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#creator> "Jac. Hoogerbrugge" .
+<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#identifier> "nf%20840-45-4" .
+<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#description> "Foto, uitgevoerd als ansichtkaart met de erbij behorende belijning en gedrukte tekst, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, zonder tekst op achterkant.\r\n\r\nOpname toont afhalers op de kade in Rotterdam. Rechts o" .
+<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#creator> "Gevaert" .
+<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ba08300647f8b1be8f71fc47aa0741f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba08300647f8b1be8f71fc47aa0741f2> <https://colonialcollections.nl/schema#identifier> "nf%201767" .
 <https://n2t.net/ark:/27023/ba08300647f8b1be8f71fc47aa0741f2> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op dongergrijs karton, los aangetroffen\r\n\r\nOpnamen tonen een stoomschip, waarschijnlijk voor anker liggend. Op de voorgrond is nog net een stukje kade te zien. Midden links wellicht het eind van een havenhoofd." .
@@ -495,36 +543,6 @@
 <https://n2t.net/ark:/27023/ba0bddf5c768d4d0cc87d11231dfad0b> <https://colonialcollections.nl/schema#description> "Foto z/w Nederlands-Indië circa 1930-1940, o.a. Manokwari, Magelang, Djokja, Priok, Bandoeng en Batavia.\r\nOnderwerpen zijn divers, veelal het familieleven in Nederlands-Indië." .
 <https://n2t.net/ark:/27023/ba0bddf5c768d4d0cc87d11231dfad0b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba0bddf5c768d4d0cc87d11231dfad0b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#identifier> "nf%20701-15" .
-<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#name> "Poortje op de Sultans begraafplaats te Pasargede" .
-<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#description> "De afbeelding toont een tempelpoort bij de begraafplaats van de sultans van Yogyakarta te Pasar Gede.\r\n\r\nbijschrift linksonder; 'Poortje op de Sultans begraafplaats te Pasargede. Small gate on the cemetery of the Sultans at Pasargede'\r\nbijschrift rechtson" .
-<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b9c3be9031be5cd345edb2e6206618ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#identifier> "1968/05/18-1-2" .
-<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#name> "Waterverftekening \"Fourageren sept. '44 door Han Rehm, voorstellende \"Hongertocht '44\"" .
-<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#description> "waterverftekening in licht houten lijst van een voedseltocht gedurende de hongerwinter '44-'45" .
-<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b9c7d1d656e2d0d53decc9f4b5f88d87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-37" .
-<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#name> "Portret  man en vrouw" .
-<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Portret borststuk man en vrouw." .
-<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b9d20ce354586f90e44a8f39345d9866> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#identifier> "2017/02/19-2-1" .
-<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#name> "Pet grijsgroen manschappen KNIL Europees uniform" .
-<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#description> "Pet grijsgroen manschappen KNIL Europees uniform. model platte pet, KNIL.\r\nPet gedragen door mindere militairen van de Koloniale Reserve. \r\nKwartiermuts (platte pet) grijsgroen (groen) katoen. Om de opstaande rand een grijsgroene band met ribmotief. Aan d" .
-<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba02f6e707e557d01f4d693ea0418314> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/9" .
-<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#name> "Arbeiderswoningen. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Arbeiderswoningen.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nIdentiek aan 3/8" .
-<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ba0baf266632331dc5f74007e1630869> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b9c1bb275222a88bfa8c7c299bc32c42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b9c1bb275222a88bfa8c7c299bc32c42> <https://colonialcollections.nl/schema#identifier> "S%203520" .
 <https://n2t.net/ark:/27023/b9c1bb275222a88bfa8c7c299bc32c42> <https://colonialcollections.nl/schema#description> "KL: naturel/wit; VO: rechthoekig, met opgenaaide lap aan beide zijden uitlopend in 4 smalle bandjes" .
@@ -580,16 +598,6 @@
 <https://n2t.net/ark:/27023/ba0c5fa4d0b6012a7cc952bfcdcf8bec> <https://colonialcollections.nl/schema#description> "Opname toont mannen en vrouwen aan het werk, vermoedelijk de oogst, in een rijstveld" .
 <https://n2t.net/ark:/27023/ba0c5fa4d0b6012a7cc952bfcdcf8bec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ba0c5fa4d0b6012a7cc952bfcdcf8bec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#identifier> "nf%201424-14" .
-<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een Papoea man zittend op een kleine houten prauw met aan één kant een drijver, die met twee bomen aan de prauw is bevestigd" .
-<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b9dc7f9c13b473279ef752232daae7d8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#identifier> "nf%20840-45-4" .
-<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#description> "Foto, uitgevoerd als ansichtkaart met de erbij behorende belijning en gedrukte tekst, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, zonder tekst op achterkant.\r\n\r\nOpname toont afhalers op de kade in Rotterdam. Rechts o" .
-<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b9e5ceed3cbc601614a4f0894cdc89a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b9d6c70399514942359919d341137c9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b9d6c70399514942359919d341137c9a> <https://colonialcollections.nl/schema#identifier> "2012/05/18-1/38" .
 <https://n2t.net/ark:/27023/b9d6c70399514942359919d341137c9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

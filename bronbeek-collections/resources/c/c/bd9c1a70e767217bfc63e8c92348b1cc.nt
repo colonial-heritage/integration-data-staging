@@ -14,6 +14,14 @@
 <https://n2t.net/ark:/27023/7618f8e7ee5dede7e192b539b5467419> <https://colonialcollections.nl/schema#creator> "Kapitein E.W. Frowein" .
 <https://n2t.net/ark:/27023/7618f8e7ee5dede7e192b539b5467419> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7618f8e7ee5dede7e192b539b5467419> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#identifier> "1996/03/22-1/12" .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#name> "Soerau Fort de Kock." .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Soerau Fort de Kock.'\r\nOp achterzijde: \"Briefkaart Nederlandsch-Indië\", in pen \"Annie\"" .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#inscription> "Soerau Fort de Kock.; Annie" .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#creator> "Adr. Binkhorst - Fort de Kock" .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/75f3c68383428287fc63cfd11afed075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/75f3c68383428287fc63cfd11afed075> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/62" .
 <https://n2t.net/ark:/27023/75f3c68383428287fc63cfd11afed075> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Noordwyk met het groote Klooster-Weltevreden" .
@@ -21,6 +29,13 @@
 <https://n2t.net/ark:/27023/75f3c68383428287fc63cfd11afed075> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/75f3c68383428287fc63cfd11afed075> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/75f3c68383428287fc63cfd11afed075> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/371" .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Emmahaven.\"\r\nUitgave van Tuinenburg, Padang." .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#creator> "A.H. Tuinenburg" .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/760d825793e237801f4c33d4a3aa68cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/760d825793e237801f4c33d4a3aa68cf> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-81" .
 <https://n2t.net/ark:/27023/760d825793e237801f4c33d4a3aa68cf> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -28,6 +43,13 @@
 <https://n2t.net/ark:/27023/760d825793e237801f4c33d4a3aa68cf> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/760d825793e237801f4c33d4a3aa68cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/760d825793e237801f4c33d4a3aa68cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-885/9" .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#name> "Groepsfoto van alle Nederlanders in Colditz" .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#description> "Groepsfoto van alle Nederlandse krijgsgevangenen in Colditz.. Met censuurstempel: Oflag VI-C 6." .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/761da5bf0d33d1641d29af4ac514c576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/761da5bf0d33d1641d29af4ac514c576> <https://colonialcollections.nl/schema#identifier> "nf%201357-39" .
 <https://n2t.net/ark:/27023/761da5bf0d33d1641d29af4ac514c576> <https://colonialcollections.nl/schema#name> "Cartagena - Castillo del Moros" .
@@ -94,13 +116,6 @@
 <https://n2t.net/ark:/27023/76317320d9329ac8ea086f8b8d3c051c> <https://colonialcollections.nl/schema#inscription> "Ratingen. Totalansicht." .
 <https://n2t.net/ark:/27023/76317320d9329ac8ea086f8b8d3c051c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/76317320d9329ac8ea086f8b8d3c051c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#identifier> "1996/03/22-1/12" .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#name> "Soerau Fort de Kock." .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Soerau Fort de Kock.'\r\nOp achterzijde: \"Briefkaart Nederlandsch-Indië\", in pen \"Annie\"" .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#inscription> "Soerau Fort de Kock.; Annie" .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/76353391c6640587073cc8ff92192d8f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/75f3330b9e7f9043f94214bd4011a29c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/75f3330b9e7f9043f94214bd4011a29c> <https://colonialcollections.nl/schema#identifier> "2001/03/08-1-6/26" .
 <https://n2t.net/ark:/27023/75f3330b9e7f9043f94214bd4011a29c> <https://colonialcollections.nl/schema#name> "Foto uit periode 1945-1949, militair" .
@@ -521,18 +536,6 @@
 <https://n2t.net/ark:/27023/7637f952aea82044e73405968d40b647> <https://colonialcollections.nl/schema#description> "Paar emblemen, onbekend. Voorzien van sluitspelden." .
 <https://n2t.net/ark:/27023/7637f952aea82044e73405968d40b647> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7637f952aea82044e73405968d40b647> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/371" .
-<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Emmahaven.\"\r\nUitgave van Tuinenburg, Padang." .
-<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/75f3f6126946dbb0dc2ede0fa0296f59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-885/9" .
-<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#name> "Groepsfoto van alle Nederlanders in Colditz" .
-<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#description> "Groepsfoto van alle Nederlandse krijgsgevangenen in Colditz.. Met censuurstempel: Oflag VI-C 6." .
-<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7612020c9245b6d096760e904c117a8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/75f32f9207ebc04dee24af69279b5075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/75f32f9207ebc04dee24af69279b5075> <https://colonialcollections.nl/schema#identifier> "S%2061-9" .
 <https://n2t.net/ark:/27023/75f32f9207ebc04dee24af69279b5075> <https://colonialcollections.nl/schema#description> "harpoen, lidak caeng, (oorspronkelijk met ijzeren punt met twee weerhaken)\r\nHerkomst: Smitau; Westerafd. Borneo." .

@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/ccb627e7d589bcab9f052d361dc1c9ab> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/ccb627e7d589bcab9f052d361dc1c9ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ccb627e7d589bcab9f052d361dc1c9ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#identifier> "2011/10/01-4-17/27" .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#name> "Losse foto's en albumbladen, Nederlands-Indië" .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#description> "Losse foto's en foto's op albumbladen, 30 stuks. Nederlands-Indië.\r\nVerso: Begroeiing van Bembanrivieroever [?] bij S. Paranggi." .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#creator> "Henri Berssenbrugge" .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cce04dc4d0f8899e4480c34ae637ff23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cce04dc4d0f8899e4480c34ae637ff23> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/289" .
 <https://n2t.net/ark:/27023/cce04dc4d0f8899e4480c34ae637ff23> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -19,6 +26,14 @@
 <https://n2t.net/ark:/27023/cce745b6d6420d4234a356d41dc1b350> <https://colonialcollections.nl/schema#creator> "James Voûte" .
 <https://n2t.net/ark:/27023/cce745b6d6420d4234a356d41dc1b350> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cce745b6d6420d4234a356d41dc1b350> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#identifier> "nf%20701-8" .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#name> "Boeddha beeld in den Tjandi Mendoet" .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#description> "De afbeelding toont een jonge Boeddha beeld in de candi Mendut bij Yogyakarta\r\n\r\nbijschrift linksonder; 'Boeddha beeld in den Tjando Mendoet. Statue of Boeddha in the Tjando Memdoet'\r\nbijschrift rechtsonder; 'Statue de Boeddha dans le Tjandi Mendoet. Boed" .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
 <https://n2t.net/ark:/27023/ccc036ae2f3319aca8e673f0a231979f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ccc036ae2f3319aca8e673f0a231979f> <https://colonialcollections.nl/schema#identifier> "EDO%20622-23-1" .
 <https://n2t.net/ark:/27023/ccc036ae2f3319aca8e673f0a231979f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nOnder de foto is met ballpoint de naam 'Oudendal' geschreven.\r\n\r\nAfbeelding toont een groepje blanke personen, vermoedelijk een gezin gefotografeerd op een pad dat loopt door dichte vegetatie." .
@@ -31,6 +46,12 @@
 <https://n2t.net/ark:/27023/ccc2e0f42e9c3cd39ebb4b1c05aa2165> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ccc2e0f42e9c3cd39ebb4b1c05aa2165> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ccc2e0f42e9c3cd39ebb4b1c05aa2165> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#identifier> "nf%201354-23" .
+<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een groot gezelschap mannen en vrouwen en twee kinderen, blanken en niet-blanken, in principe netjes gekleed, maar wel met 'feestm" .
+<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#creator> "Kaneo, Medan, O.K.V. Sumatra" .
+<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cccff593b8a308645418d16dc7309796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cccff593b8a308645418d16dc7309796> <https://colonialcollections.nl/schema#identifier> "nf%20833-22" .
 <https://n2t.net/ark:/27023/cccff593b8a308645418d16dc7309796> <https://colonialcollections.nl/schema#description> "Kleurenopname van een lijkkist, zonder deksel, met zicht op een flink aantal schedels\r\n\r\nOp framerand een aantal nummers waaronder 13. \r\n\r\nVolgens lijst de volgende informatie:\r\n\"Oude doodskist, Bunte Pune, Kesu ' 1969\"." .
@@ -536,18 +557,6 @@
 <https://n2t.net/ark:/27023/ccf44b869c5f01796d10a985eebbb995> <https://colonialcollections.nl/schema#description> "Foto´s afkomstig van Ch.E. van der Heijden, oorlogscorrespondent voor de Dienst voor Legercontacten (DLC).\r\nFoto's moeten nog per object/record worden beschreven [stikker 2009/08/06-2-19/203 over; zit in doos bij deze serie foto's]." .
 <https://n2t.net/ark:/27023/ccf44b869c5f01796d10a985eebbb995> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ccf44b869c5f01796d10a985eebbb995> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#identifier> "2011/10/01-4-17/27" .
-<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#name> "Losse foto's en albumbladen, Nederlands-Indië" .
-<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#description> "Losse foto's en foto's op albumbladen, 30 stuks. Nederlands-Indië.\r\nVerso: Begroeiing van Bembanrivieroever [?] bij S. Paranggi." .
-<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ccb954725ce0be7ef9dc196404bb54c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#identifier> "nf%20701-8" .
-<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#name> "Boeddha beeld in den Tjandi Mendoet" .
-<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#description> "De afbeelding toont een jonge Boeddha beeld in de candi Mendut bij Yogyakarta\r\n\r\nbijschrift linksonder; 'Boeddha beeld in den Tjando Mendoet. Statue of Boeddha in the Tjando Memdoet'\r\nbijschrift rechtsonder; 'Statue de Boeddha dans le Tjandi Mendoet. Boed" .
-<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ccee9e28888a50e16e0327bfcc736ac9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ccbcb99ae289b2c0ef335e1efa908068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ccbcb99ae289b2c0ef335e1efa908068> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43068" .
 <https://n2t.net/ark:/27023/ccbcb99ae289b2c0ef335e1efa908068> <https://colonialcollections.nl/schema#description> "Kris met schede" .
@@ -578,11 +587,6 @@
 <https://n2t.net/ark:/27023/ccea3d0e709ce28d545317896dca9633> <https://colonialcollections.nl/schema#description> "model\r\nHerkomst: Malang Pasoeroean, oost-Java." .
 <https://n2t.net/ark:/27023/ccea3d0e709ce28d545317896dca9633> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ccea3d0e709ce28d545317896dca9633> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#identifier> "nf%201354-23" .
-<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een groot gezelschap mannen en vrouwen en twee kinderen, blanken en niet-blanken, in principe netjes gekleed, maar wel met 'feestm" .
-<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ccc8fabe2b0a944125d8293eedcc1d3e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cccdd69aa3010e2901213d19198ce7fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cccdd69aa3010e2901213d19198ce7fa> <https://colonialcollections.nl/schema#identifier> "2016/01/06-1/7" .
 <https://n2t.net/ark:/27023/cccdd69aa3010e2901213d19198ce7fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

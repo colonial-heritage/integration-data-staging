@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#identifier> "1995/01/13-5-9/1" .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#name> "Nederl.Indische Vereeniging tot Natuurbescherming 2e Tiental Prentbriefkaarten." .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Set. Nederl.Indische Vereeniging tot Natuurbescherming 2e Tiental Prentbriefkaarten.\r\n*    Bodem van het Vloedbosch. Foto uit Blaauw, Tropische Natuur,               Koloniaal Instituut.\r\n*    Aan het strand van Noesa Kambangan.  Foto uit" .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#inscription> "Nederl.Indische Vereeniging tot Natuurbescherming 2e Tiental Prentbriefkaarten." .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#creator> "Nederlandsch-Indische Vereeniging tot Natuurbescherming" .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#identifier> "1986/11/26-1-4" .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#name> "Luchtfoto Meer van Pengalengan" .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#description> "Luchtfoto: Meer van Pengalengan.  Zwart-wit." .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#inscription> "Meer v. Pengalengan" .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#creator> "Photo Verkennings Afdeling Militaire Luchtvaart" .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/01fe379a2dfcd66d538c4871b0bb6ca4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01fe379a2dfcd66d538c4871b0bb6ca4> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-2" .
 <https://n2t.net/ark:/27023/01fe379a2dfcd66d538c4871b0bb6ca4> <https://colonialcollections.nl/schema#name> "Zittende militair met geweer" .
@@ -5,6 +21,20 @@
 <https://n2t.net/ark:/27023/01fe379a2dfcd66d538c4871b0bb6ca4> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/01fe379a2dfcd66d538c4871b0bb6ca4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/01fe379a2dfcd66d538c4871b0bb6ca4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#identifier> "2005/00-607/39" .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#name> "Foto van het Jubileumpark te Sabang met wandelaars en spelende kinderen" .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Het Jubileumpark te Sabang met wandelaars en spelende kinderen genomen vanuit vogelperspectief.\r\n\r\nverso: in potlood \" Sabang 11/8.29 photo genomen Jubileum-Park Sabang\"\r\nin groene inkt \"Sabang\"" .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-193/1" .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#name> "Foto's prinses Juliana en prins Bernhard" .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#description> "Foto zwart wit. Prinses Juliana en prins Bernhard bij Luchtmachtkapel. 28 april 1985. Kort voor haar 76ste verjaardag op 30 april.\r\n\r\nCopyright\r\nnr.\r\nTheo Janssen\r\nSikkelstraat 5\r\n6532 VA Nijmegen\r\nthe Netherlands" .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#creator> "Theo Janssen" .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/020b49c009023a126bec989c1b1ed168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/020b49c009023a126bec989c1b1ed168> <https://colonialcollections.nl/schema#identifier> "2006/00-42-357/3" .
 <https://n2t.net/ark:/27023/020b49c009023a126bec989c1b1ed168> <https://colonialcollections.nl/schema#name> "Indonesiërs, militairen en verplegend personeel in een tijdelijke ruimte, mogelijk opvang" .
@@ -26,6 +56,13 @@
 <https://n2t.net/ark:/27023/02375fc8945c45e0dea1810cce03d700> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/02375fc8945c45e0dea1810cce03d700> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02375fc8945c45e0dea1810cce03d700> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#identifier> "2001/03/26-1/8" .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#name> "Carte-de-visite met portret van een adjudant in attila" .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Uit periode 1910-1930. Carte-de-visite met portret van een adjudant in attila. Hij heeft een snor, geen hoofddeksel. De zijrand van het karton is goud gekleurd.\r\n\r\nTekst recto: G.Korfmacher Photograaf Nijmegen." .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#creator> "G. Korfmacher" .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/02062240e49f0bd1b2b9119421672db4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/02062240e49f0bd1b2b9119421672db4> <https://colonialcollections.nl/schema#identifier> "nf%20680-99" .
 <https://n2t.net/ark:/27023/02062240e49f0bd1b2b9119421672db4> <https://colonialcollections.nl/schema#description> "Twee westerse mannen op het dek van een schip.\r\n\r\nUit informatie die de schenkster zelf heeft gegeven bij nf 680-106, blijkt dat zeer waarschijnlijk de man links op de foto haar vader J.C.Gestman is." .
@@ -44,20 +81,6 @@
 <https://n2t.net/ark:/27023/02366d4f36ac712544b763480bf33ebf> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/02366d4f36ac712544b763480bf33ebf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02366d4f36ac712544b763480bf33ebf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#identifier> "1995/01/13-5-9/1" .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#name> "Nederl.Indische Vereeniging tot Natuurbescherming 2e Tiental Prentbriefkaarten." .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Set. Nederl.Indische Vereeniging tot Natuurbescherming 2e Tiental Prentbriefkaarten.\r\n*    Bodem van het Vloedbosch. Foto uit Blaauw, Tropische Natuur,               Koloniaal Instituut.\r\n*    Aan het strand van Noesa Kambangan.  Foto uit" .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#inscription> "Nederl.Indische Vereeniging tot Natuurbescherming 2e Tiental Prentbriefkaarten." .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/020352aca8064e6fab3c41a8c100c2cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#identifier> "1986/11/26-1-4" .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#name> "Luchtfoto Meer van Pengalengan" .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#description> "Luchtfoto: Meer van Pengalengan.  Zwart-wit." .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#inscription> "Meer v. Pengalengan" .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/02072904e0396d2c9c3ea150e223c45e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/01fcc9c92acc5a8d8c9509dc862c3c27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/01fcc9c92acc5a8d8c9509dc862c3c27> <https://colonialcollections.nl/schema#identifier> "2008/11/02-1-10" .
 <https://n2t.net/ark:/27023/01fcc9c92acc5a8d8c9509dc862c3c27> <https://colonialcollections.nl/schema#name> "Geografische kaart van \"Geumpang\", Sumatra" .
@@ -502,24 +525,6 @@
 <https://n2t.net/ark:/27023/023f0d11997072f1dd7bc536ce3672d0> <https://colonialcollections.nl/schema#description> "Embleem. Mouwembleem Oorlogsvrijwilliger\r\nTextiel met borduursel. OVW in metaaldraad, rode kroon." .
 <https://n2t.net/ark:/27023/023f0d11997072f1dd7bc536ce3672d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/023f0d11997072f1dd7bc536ce3672d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#identifier> "2005/00-607/39" .
-<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#name> "Foto van het Jubileumpark te Sabang met wandelaars en spelende kinderen" .
-<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Het Jubileumpark te Sabang met wandelaars en spelende kinderen genomen vanuit vogelperspectief.\r\n\r\nverso: in potlood \" Sabang 11/8.29 photo genomen Jubileum-Park Sabang\"\r\nin groene inkt \"Sabang\"" .
-<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/020705ef216d3c201a3e3abae5f0e784> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-193/1" .
-<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#name> "Foto's prinses Juliana en prins Bernhard" .
-<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#description> "Foto zwart wit. Prinses Juliana en prins Bernhard bij Luchtmachtkapel. 28 april 1985. Kort voor haar 76ste verjaardag op 30 april.\r\n\r\nCopyright\r\nnr.\r\nTheo Janssen\r\nSikkelstraat 5\r\n6532 VA Nijmegen\r\nthe Netherlands" .
-<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/02092b0b9265336f1f173944b6454759> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#identifier> "2001/03/26-1/8" .
-<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#name> "Carte-de-visite met portret van een adjudant in attila" .
-<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Uit periode 1910-1930. Carte-de-visite met portret van een adjudant in attila. Hij heeft een snor, geen hoofddeksel. De zijrand van het karton is goud gekleurd.\r\n\r\nTekst recto: G.Korfmacher Photograaf Nijmegen." .
-<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/023ea06529ef5b0db34a84b4ebc948dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/020ba5df63eeed5eb8e8994434168f63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/020ba5df63eeed5eb8e8994434168f63> <https://colonialcollections.nl/schema#identifier> "nf%20899-149" .
 <https://n2t.net/ark:/27023/020ba5df63eeed5eb8e8994434168f63> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nFraaie opname van een flink aantal koeien, zeboes, mogelijk ook stieren, met tussen hen in een paar belangrijk uitziende inheemse mannen, één ervan met witte tropenhelm. Of het hier een markt betreft is onduidelijk.\r\nOok h" .

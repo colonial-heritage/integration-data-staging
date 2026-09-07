@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/21" .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#name> "Passar Baroe, Weltevreden" .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Passar Baroe Weltevreden'." .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#inscription> "Passar Baroe Weltevreden" .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3c1e101fab8cea9c2662898e6e48c691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3c1e101fab8cea9c2662898e6e48c691> <https://colonialcollections.nl/schema#identifier> "nf%201413-94" .
 <https://n2t.net/ark:/27023/3c1e101fab8cea9c2662898e6e48c691> <https://colonialcollections.nl/schema#name> "Jonge apen" .
@@ -92,13 +100,6 @@
 <https://n2t.net/ark:/27023/3c4aaea94c457dadb39df2ed92be6c17> <https://colonialcollections.nl/schema#inscription> "Geweermakersatelier te Koeta Radja 1-1-09" .
 <https://n2t.net/ark:/27023/3c4aaea94c457dadb39df2ed92be6c17> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3c4aaea94c457dadb39df2ed92be6c17> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/21" .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#name> "Passar Baroe, Weltevreden" .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Passar Baroe Weltevreden'." .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#inscription> "Passar Baroe Weltevreden" .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3c4dad37209e4ca8a81294c8c75fea77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3c0c74fc56cd472028b4ae8b373f02e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3c0c74fc56cd472028b4ae8b373f02e9> <https://colonialcollections.nl/schema#identifier> "2012/05/30-1" .
 <https://n2t.net/ark:/27023/3c0c74fc56cd472028b4ae8b373f02e9> <https://colonialcollections.nl/schema#name> "Zelfgemaakt schaakspel uit 15e Bat" .

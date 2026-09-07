@@ -27,6 +27,13 @@
 <https://n2t.net/ark:/27023/ae6c3426a8417bb9ce8ddcfa90ec1fa5> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/ae6c3426a8417bb9ce8ddcfa90ec1fa5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ae6c3426a8417bb9ce8ddcfa90ec1fa5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#identifier> "1869/03-1-1" .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#name> "Luitenant-Generaal Commandant KNIL 1848-1849" .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#description> "Lithografie: Portret van Jhr. C van der Wijck, Luitenant-Generaal Commandant KNIL 1848-1849, ingelijst, 26 x 22cm.\r\nUitgelijst 2001: Uitgeknipte prent, Litho. Rechtsonder is deel van inscriptie zichtbaar: \"Steend. van I.D.Steuerwald\". Linksonder is een et" .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#creator> "I.D. Steuerwald" .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ae7efaafa36489b122f9edb908668d28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ae7efaafa36489b122f9edb908668d28> <https://colonialcollections.nl/schema#identifier> "2014/05/18-3-7" .
 <https://n2t.net/ark:/27023/ae7efaafa36489b122f9edb908668d28> <https://colonialcollections.nl/schema#name> "Hemd, groen, korte mouw Algemene Politie Nederlands Nieuw-Guinea" .
@@ -525,12 +532,6 @@
 <https://n2t.net/ark:/27023/ae9aa18ada0097b0dc4872fe3a3e413f> <https://colonialcollections.nl/schema#description> "Dagboek diensttijd Korporaal Wim Muller.\r\n\"Dagboek 3e deel van W.C.B.G. Muller 1 juni 1948 IV-8 RI\". 1.6.1948  -   1.12.1948" .
 <https://n2t.net/ark:/27023/ae9aa18ada0097b0dc4872fe3a3e413f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ae9aa18ada0097b0dc4872fe3a3e413f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#identifier> "1869/03-1-1" .
-<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#name> "Luitenant-Generaal Commandant KNIL 1848-1849" .
-<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#description> "Lithografie: Portret van Jhr. C van der Wijck, Luitenant-Generaal Commandant KNIL 1848-1849, ingelijst, 26 x 22cm.\r\nUitgelijst 2001: Uitgeknipte prent, Litho. Rechtsonder is deel van inscriptie zichtbaar: \"Steend. van I.D.Steuerwald\". Linksonder is een et" .
-<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ae781efc532aedac02897f1c510f3058> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ae53ee1ad4ba89fe024ac1e4ec6e4d9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ae53ee1ad4ba89fe024ac1e4ec6e4d9e> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42246" .
 <https://n2t.net/ark:/27023/ae53ee1ad4ba89fe024ac1e4ec6e4d9e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 103,6 cm\r\nMedia:\t2779\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2779] Depot, K [K]\r\nhoofdmateriaal:\thout" .

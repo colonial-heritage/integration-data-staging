@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/71" .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#name> "Plaat 71. Boven-Singkel rivier bij Kampong Djabo." .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 71. Boven-Singkel rivier bij Kampong Djabo." .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#inscription> "Plaat 71. Boven-Singkel rivier bij Kampong Djabo." .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16cbafdd5356db440e5341495d805aea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16cbafdd5356db440e5341495d805aea> <https://colonialcollections.nl/schema#identifier> "2003/02/12-1/8" .
 <https://n2t.net/ark:/27023/16cbafdd5356db440e5341495d805aea> <https://colonialcollections.nl/schema#name> "Nr. 10 \"Gezanten van Edi\", uit ´Dertig gezichten op Atjeh´" .
@@ -12,6 +20,7 @@
 <https://n2t.net/ark:/27023/16da68ceafde0cd284708dc2de57a906> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/16da68ceafde0cd284708dc2de57a906> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16da68ceafde0cd284708dc2de57a906> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16da68ceafde0cd284708dc2de57a906> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/16daf5bfb35f2bc98fc4e54438b4bda2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16daf5bfb35f2bc98fc4e54438b4bda2> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/54" .
 <https://n2t.net/ark:/27023/16daf5bfb35f2bc98fc4e54438b4bda2> <https://colonialcollections.nl/schema#name> "Twee bewoners Bronbeek, de één wijst naar de ander die sigaar in zijn hand heeft" .
@@ -26,6 +35,13 @@
 <https://n2t.net/ark:/27023/16ee2d702eefd4cfea9f5797e48ba4d1> <https://colonialcollections.nl/schema#creator> "E. Hoen" .
 <https://n2t.net/ark:/27023/16ee2d702eefd4cfea9f5797e48ba4d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16ee2d702eefd4cfea9f5797e48ba4d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#identifier> "1989/01/01-27-2" .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue (service dress) Ritmeester Cavalerie KNIL, tot dienst in Europa" .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#description> "Jas van kaki-melee kleurige wollen stof Ritmeester Cavalerie KNIL, tot dienst in Europa. Periode 1945-1950. schouderlappen met zwarte driehoek, sterren ontbreken, gekruiste goudkleurige sabels. Op linkerbovenmouw is het nationaliteitsembleem genaaid in de" .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#creator> "J. van Brummelen en Zoon" .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16f09ca15a054acc83f8cc29083bae1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16f09ca15a054acc83f8cc29083bae1c> <https://colonialcollections.nl/schema#identifier> "2016/03/29-1-70" .
 <https://n2t.net/ark:/27023/16f09ca15a054acc83f8cc29083bae1c> <https://colonialcollections.nl/schema#name> "Nederlandsch-Indische prenten: Gambar-Gambar. No.20" .
@@ -33,6 +49,21 @@
 <https://n2t.net/ark:/27023/16f09ca15a054acc83f8cc29083bae1c> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/16f09ca15a054acc83f8cc29083bae1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/16f09ca15a054acc83f8cc29083bae1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/33" .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#name> "Inheemse man op de passar" .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/7-2" .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#name> "D.2 - View of Headquarters, Camp Davis, North Carolina" .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#description> "Prentbriefkaart D.2 - View of Headquarters, Camp Davis, North Carolina. [kleurendruk]" .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#creator> "Service News Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#creator> "Curt Teich & Co., Inc." .
 <https://n2t.net/ark:/27023/17064a869ee394973430da618b50ee9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/17064a869ee394973430da618b50ee9c> <https://colonialcollections.nl/schema#identifier> "1977/03-1-58" .
 <https://n2t.net/ark:/27023/17064a869ee394973430da618b50ee9c> <https://colonialcollections.nl/schema#name> "Indisch geboomte (c.a. 1871)" .
@@ -40,6 +71,13 @@
 <https://n2t.net/ark:/27023/17064a869ee394973430da618b50ee9c> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/17064a869ee394973430da618b50ee9c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/17064a869ee394973430da618b50ee9c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#identifier> "2006/00-42-195" .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#name> "Karte-de-kabinet met portret van een KNIL-militair" .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Karte-de-kabinet met portret van een KNIL-militair in uniformjas met één ster en met bouillons aan de schouder. Hij draagt een pet en kijkt recht de camera in.\r\n\r\nSignatuur recto: Kannemans & Zoon, Hofphotographen" .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#creator> "Kannemans & Zoon, Hofphotographen" .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1706630b4a73d970113c9198ebdab1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1706630b4a73d970113c9198ebdab1f3> <https://colonialcollections.nl/schema#identifier> "nf%201413-1" .
 <https://n2t.net/ark:/27023/1706630b4a73d970113c9198ebdab1f3> <https://colonialcollections.nl/schema#name> "Gezicht op kade te Marseille vanaf Baloeran" .
@@ -54,6 +92,12 @@
 <https://n2t.net/ark:/27023/170d353c5e300c7a8b2713497d0c952b> <https://colonialcollections.nl/schema#creator> "Apotheek \"De Gedeh\"" .
 <https://n2t.net/ark:/27023/170d353c5e300c7a8b2713497d0c952b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/170d353c5e300c7a8b2713497d0c952b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#identifier> "nf%201282" .
+<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los\r\n\r\nAchterop in inkt geschreven tekst, zijnde een nummer en data over onderwerp en afkomst:\r\nnummer: 551.21(922.2)N39\r\nOnderwerp: G. Merapi (Java) Blonkeng ravijn. Nadat het Blongkeng ravijn geheel v ol met lava gesmeten w" .
+<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#creator> "van Milaan" .
+<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16cfeaa3ffd62a9e408d2338e6c0ec99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16cfeaa3ffd62a9e408d2338e6c0ec99> <https://colonialcollections.nl/schema#identifier> "nf%20680-75" .
 <https://n2t.net/ark:/27023/16cfeaa3ffd62a9e408d2338e6c0ec99> <https://colonialcollections.nl/schema#description> "Kustgebied met gebouwen / woningen, vermoedelijk Makassar" .
@@ -91,13 +135,6 @@
 <https://n2t.net/ark:/27023/1723cb806649abab0508c0f1a29cf4d1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1723cb806649abab0508c0f1a29cf4d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1723cb806649abab0508c0f1a29cf4d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/71" .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#name> "Plaat 71. Boven-Singkel rivier bij Kampong Djabo." .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 71. Boven-Singkel rivier bij Kampong Djabo." .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#inscription> "Plaat 71. Boven-Singkel rivier bij Kampong Djabo." .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1710c9df1a09a4e57d847d4c1c4ccb15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16ca9c42bc9966c221d6f86862e2a3cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16ca9c42bc9966c221d6f86862e2a3cf> <https://colonialcollections.nl/schema#identifier> "1969/05/29-1/17" .
 <https://n2t.net/ark:/27023/16ca9c42bc9966c221d6f86862e2a3cf> <https://colonialcollections.nl/schema#name> "Kapitein Frentz van het Hollandse troepenschip \"Van den Bosch\" arriveert aan boord van HMS \"Moresby\" (Timor)" .
@@ -542,30 +579,6 @@
 <https://n2t.net/ark:/27023/172046a82b4e0d136b6891b161037800> <https://colonialcollections.nl/schema#description> "Document. Eerstedagenvelop Hari penerbitan pertama, 24 october 1951." .
 <https://n2t.net/ark:/27023/172046a82b4e0d136b6891b161037800> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/172046a82b4e0d136b6891b161037800> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#identifier> "1989/01/01-27-2" .
-<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue (service dress) Ritmeester Cavalerie KNIL, tot dienst in Europa" .
-<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#description> "Jas van kaki-melee kleurige wollen stof Ritmeester Cavalerie KNIL, tot dienst in Europa. Periode 1945-1950. schouderlappen met zwarte driehoek, sterren ontbreken, gekruiste goudkleurige sabels. Op linkerbovenmouw is het nationaliteitsembleem genaaid in de" .
-<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16efe7505d4e14924ed36ffe1315f5f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/33" .
-<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#name> "Inheemse man op de passar" .
-<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
-<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16fbe2212394fc57175e849a43d88841> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/7-2" .
-<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#name> "D.2 - View of Headquarters, Camp Davis, North Carolina" .
-<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#description> "Prentbriefkaart D.2 - View of Headquarters, Camp Davis, North Carolina. [kleurendruk]" .
-<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/17001cd1c57dc28ea23bdb1962476081> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#identifier> "2006/00-42-195" .
-<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#name> "Karte-de-kabinet met portret van een KNIL-militair" .
-<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Karte-de-kabinet met portret van een KNIL-militair in uniformjas met één ster en met bouillons aan de schouder. Hij draagt een pet en kijkt recht de camera in.\r\n\r\nSignatuur recto: Kannemans & Zoon, Hofphotographen" .
-<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/17065caaf5373934cc42f5cecf2aee76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/16d5d1ae807dc3ff1bd050b74f5c15bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/16d5d1ae807dc3ff1bd050b74f5c15bf> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42639" .
 <https://n2t.net/ark:/27023/16d5d1ae807dc3ff1bd050b74f5c15bf> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tzwaard & schede\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesmeed\r\nAfmetingen:\tGeheel: 50 x 6 cm\r\nMedia:\t3172\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3172] Depot, 23, R f [23 R f]\r\nhoofdmateriaal" .
@@ -591,11 +604,6 @@
 <https://n2t.net/ark:/27023/1720c1f83ea8580d4ab75b9b48bcafe9> <https://colonialcollections.nl/schema#description> "Dop of stop van kruithoorn in de vorm van een ruiter.\r\nHerkomst: Bataklanden, Sumatra." .
 <https://n2t.net/ark:/27023/1720c1f83ea8580d4ab75b9b48bcafe9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1720c1f83ea8580d4ab75b9b48bcafe9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#identifier> "nf%201282" .
-<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los\r\n\r\nAchterop in inkt geschreven tekst, zijnde een nummer en data over onderwerp en afkomst:\r\nnummer: 551.21(922.2)N39\r\nOnderwerp: G. Merapi (Java) Blonkeng ravijn. Nadat het Blongkeng ravijn geheel v ol met lava gesmeten w" .
-<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/16cf84764be51b1f46c4605e80d48055> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/170eab6fe91e3045d47427944586bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/170eab6fe91e3045d47427944586bf3e> <https://colonialcollections.nl/schema#identifier> "1877/09-2" .
 <https://n2t.net/ark:/27023/170eab6fe91e3045d47427944586bf3e> <https://colonialcollections.nl/schema#name> "De stamboom van het Huis van Oranje-Nassau" .

@@ -11,9 +11,10 @@
 <https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#name> "Dogkar. Java." .
 <https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door G.C.T. van Dorp & Co, Semarang-Soerabaia. Voorstellende Dogkar. Java. Naar een tekening van J. van der Heyden." .
 <https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#inscription> "Dogkar. Java." .
-<https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
 <https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b709becfee51604388d7b6d9d9faa728> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/b72a30b59d75349dfd0d7f70cb9bcd89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b72a30b59d75349dfd0d7f70cb9bcd89> <https://colonialcollections.nl/schema#identifier> "1910/10/01-2/31" .
 <https://n2t.net/ark:/27023/b72a30b59d75349dfd0d7f70cb9bcd89> <https://colonialcollections.nl/schema#name> "Nr. 31. Het vivres magazijn aan de kwala atjeh, uit ´Vierendertig gezichten op Atjeh´" .
@@ -36,6 +37,13 @@
 <https://n2t.net/ark:/27023/b70937a66bbaeb4482d3fe9fed51689c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b70937a66bbaeb4482d3fe9fed51689c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b70937a66bbaeb4482d3fe9fed51689c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#identifier> "2015/03/12-1" .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#name> "Typoscript Sastrawidjaja, De Vrijheidsstrijd van Indonesia" .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#description> "Fotokopie typoscript in kunststof dossiermap Sastrawidjaja, De Vrijheidsstrijd van Indonesia, Amersfoort, januari 1990.\r\nSastrawidjaja is een alias voor Dr. U.C. Koot." .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#creator> "Dr. Ubel Carel Koot" .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b710674f0cb0520caf8325af2c4da917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b710674f0cb0520caf8325af2c4da917> <https://colonialcollections.nl/schema#identifier> "2000/09/07-4-7" .
 <https://n2t.net/ark:/27023/b710674f0cb0520caf8325af2c4da917> <https://colonialcollections.nl/schema#name> "Soerabaja, Julianaboulevard" .
@@ -541,12 +549,6 @@
 <https://n2t.net/ark:/27023/b72ced835f8a2793a9ec185c5e7f731b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto´s Indië, tempelgebouwen, potrettten militair, etcetera." .
 <https://n2t.net/ark:/27023/b72ced835f8a2793a9ec185c5e7f731b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b72ced835f8a2793a9ec185c5e7f731b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#identifier> "2015/03/12-1" .
-<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#name> "Typoscript Sastrawidjaja, De Vrijheidsstrijd van Indonesia" .
-<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#description> "Fotokopie typoscript in kunststof dossiermap Sastrawidjaja, De Vrijheidsstrijd van Indonesia, Amersfoort, januari 1990.\r\nSastrawidjaja is een alias voor Dr. U.C. Koot." .
-<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b70a6968438dc79d87547c9e5b34287c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b6f251e864030bbd6f3fd4cdcc0c2cc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b6f251e864030bbd6f3fd4cdcc0c2cc3> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43913" .
 <https://n2t.net/ark:/27023/b6f251e864030bbd6f3fd4cdcc0c2cc3> <https://colonialcollections.nl/schema#description> "Houten doos (halvemaanvormig)" .

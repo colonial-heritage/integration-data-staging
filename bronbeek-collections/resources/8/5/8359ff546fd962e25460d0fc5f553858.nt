@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-53" .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#name> "Riem met 2 patroontassen en klewanghouder, Algemene Politie of KNIL" .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#description> "Riem, gordel nummer 1, bruin leren riem (1042) met 2 patroontassen (1038a + 1038b) en klewanghouder (1041), Algemene Politie en KNIL, met inscriptie: 'CW N 7 37 A L'." .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#inscription> "CW N 7 37 A L" .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#creator> "Artillerie Constructie Winkel (ACW)" .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4ededbc9bce42befe5de1764ae963092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ededbc9bce42befe5de1764ae963092> <https://colonialcollections.nl/schema#identifier> "2015/10/26-4-1" .
 <https://n2t.net/ark:/27023/4ededbc9bce42befe5de1764ae963092> <https://colonialcollections.nl/schema#name> "Stadsplattegrond van Bandoeng" .
@@ -6,6 +14,21 @@
 <https://n2t.net/ark:/27023/4ededbc9bce42befe5de1764ae963092> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/4ededbc9bce42befe5de1764ae963092> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ededbc9bce42befe5de1764ae963092> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/91" .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#name> "Plaat 91. Pengoeloe-n-Djohor en pengoeloe Biaq Moeli met gevolg." .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 91. Pengoeloe-n-Djohor en pengoeloe Biaq Moeli met gevolg." .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#inscription> "Plaat 91. Pengoeloe-n-Djohor en pengoeloe Biaq Moeli met gevolg." .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/8" .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#creator> "Zindler, Djokjakarta" .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4edd64e8a0d7f686a7ad1c7a42fb6fa4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4edd64e8a0d7f686a7ad1c7a42fb6fa4> <https://colonialcollections.nl/schema#identifier> "2016/03/24-1/3" .
 <https://n2t.net/ark:/27023/4edd64e8a0d7f686a7ad1c7a42fb6fa4> <https://colonialcollections.nl/schema#name> "‘Auf nach Java dem Paradies der Tropen" .
@@ -13,20 +36,29 @@
 <https://n2t.net/ark:/27023/4edd64e8a0d7f686a7ad1c7a42fb6fa4> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/4edd64e8a0d7f686a7ad1c7a42fb6fa4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4edd64e8a0d7f686a7ad1c7a42fb6fa4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-1/4" .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#name> "Portret van de Kapitein der Chinezen te Singkawang, Borneo (c.a. 1915)" .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#description> "Foto. Portret van de Kapitein der Chinezen te Singkawang, Borneo (c.a. 1915). Ovaal geplakt op passepartout; links en rechts beschreven met Chinese tekens.\r\nRecto, fotograaf: \"J.E.Fukuda, Palembang\"\r\nVerso: 'Kapitein Chinees te Singkawang, Borneo'." .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#creator> "J.E.Fukuda, Palembang" .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-40a" .
 <https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#name> "Attila behorend tot Uniform KNIL, Majoor der artillerie" .
 <https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#description> "Attila behorend tot KNIL-uniform, Majoor der Artillerie.\r\nEtiket in hals: F.A. Boomsma Costumier Groningen" .
-<https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#creator> "Aug. Savelkoul" .
+<https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#creator> "F.A. Boomsma Costumier Groningen" .
 <https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ef768307dd9434b1bad9af587b3e494> <https://colonialcollections.nl/schema#creator> "Aug. Savelkoul" .
 <https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#identifier> "nf%20419-54" .
 <https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#name> "Passarweg, Bandoeng" .
 <https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#description> "Passarweg, Bandoeng, 'Groet uit Bandoeng'\r\n\r\nOp de voorzijde linksonder vermeld 'Groet uit Bandoeng' rechtsonder 'Passarweg' links overdwars vermeld '96010 J.C. Becker, Bandoeng, Java' (in rode letters)\r\nOngedeelde achterkant met de tekst; 'Briefkaart uit" .
-<https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#creator> "J.C. Becker (Bandoeng, Java)" .
 <https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f00dea9b0f0fa28609fc7ef2648ccbb> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4eda318893da2a39a5c1393fd3e82ce6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4eda318893da2a39a5c1393fd3e82ce6> <https://colonialcollections.nl/schema#identifier> "nf%201307-7-1" .
 <https://n2t.net/ark:/27023/4eda318893da2a39a5c1393fd3e82ce6> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, (slordig) afgeknipt, opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een aantal blanken, mannen en vrouwen, met hoeden op, poserend voor de foto, in een bergachtig gebied.\r\n\r\nN.B.: Onder de foto EDO 622-5-2 staat in inkt ge" .
@@ -77,20 +109,6 @@
 <https://n2t.net/ark:/27023/4ef88357b4783ba2f845a127e8d441ee> <https://colonialcollections.nl/schema#inscription> "Barendijk" .
 <https://n2t.net/ark:/27023/4ef88357b4783ba2f845a127e8d441ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ef88357b4783ba2f845a127e8d441ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-53" .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#name> "Riem met 2 patroontassen en klewanghouder, Algemene Politie of KNIL" .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#description> "Riem, gordel nummer 1, bruin leren riem (1042) met 2 patroontassen (1038a + 1038b) en klewanghouder (1041), Algemene Politie en KNIL, met inscriptie: 'CW N 7 37 A L'." .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#inscription> "CW N 7 37 A L" .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4edd871f84a469e3380d68de6fbe2114> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/91" .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#name> "Plaat 91. Pengoeloe-n-Djohor en pengoeloe Biaq Moeli met gevolg." .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 91. Pengoeloe-n-Djohor en pengoeloe Biaq Moeli met gevolg." .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#inscription> "Plaat 91. Pengoeloe-n-Djohor en pengoeloe Biaq Moeli met gevolg." .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4f0a921cfa12b4adf2da84440133e1b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4ecbe2f49e5a73984c5e5f507f09d2e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ecbe2f49e5a73984c5e5f507f09d2e1> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-1/1" .
 <https://n2t.net/ark:/27023/4ecbe2f49e5a73984c5e5f507f09d2e1> <https://colonialcollections.nl/schema#name> "Eerstedagenvelop 1e KLM super constellation vlucht, 4 november 1954" .
@@ -547,18 +565,6 @@
 <https://n2t.net/ark:/27023/4f224a71cc8bbdc2f39e83e1dbd6cfda> <https://colonialcollections.nl/schema#description> "Foto, totaal 145 stuks, van Doris Land, geboren te Poerworedjo, en diens familie. Land was Reserve Kapitein KNIL der infanterie." .
 <https://n2t.net/ark:/27023/4f224a71cc8bbdc2f39e83e1dbd6cfda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f224a71cc8bbdc2f39e83e1dbd6cfda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/8" .
-<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
-<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
-<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4ed0d93d234403dd1e38c6f0d7526291> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-1/4" .
-<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#name> "Portret van de Kapitein der Chinezen te Singkawang, Borneo (c.a. 1915)" .
-<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#description> "Foto. Portret van de Kapitein der Chinezen te Singkawang, Borneo (c.a. 1915). Ovaal geplakt op passepartout; links en rechts beschreven met Chinese tekens.\r\nRecto, fotograaf: \"J.E.Fukuda, Palembang\"\r\nVerso: 'Kapitein Chinees te Singkawang, Borneo'." .
-<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4ef0820118dcd41058ea9e26c3b1339f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4ed68bab4a236ad2483f05b4501fcf7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ed68bab4a236ad2483f05b4501fcf7a> <https://colonialcollections.nl/schema#identifier> "S%20313-17a" .
 <https://n2t.net/ark:/27023/4ed68bab4a236ad2483f05b4501fcf7a> <https://colonialcollections.nl/schema#description> "halfrond. Aan de buitenzijde gegraveerd met ineenlopende ornamenten, welke de vorm hebben van 2 dubbele bijllemmetten en dubbele eivormig figuur. Binnenzijde blank. Mannenkalebas.\r\nHerkomst:  bosnegers, Suriname." .

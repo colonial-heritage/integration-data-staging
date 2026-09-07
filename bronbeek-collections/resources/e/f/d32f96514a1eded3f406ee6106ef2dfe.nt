@@ -11,9 +11,17 @@
 <https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#name> "Stad Vlaardingen Makassar op Celebes" .
 <https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#description> "Lithografie.\r\n\"Celebes\"; \"2\"; \"Stad Vlaardingen-Macassar. Ville de Vlaardingen-Macassar.\"\r\n\"Q.M.R.VerHuell del.\"; \"Lith. de Jobard\"\r\n\r\nIn pen: \"Kunstformaat\". Op achterzijde in potlood: \"dubbel\".\r\n Waterschade bovenste helft. Lijmplekken.\r\n\r\nOp achterzijd" .
 <https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#inscription> "\"Celebes\"; \"2\"; \"Stad Vlaardingen-Macassar. Ville de Vlaardingen-Macassar.\"" .
-<https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#creator> "Schout-bij-nacht Q.M.R. Ver Huell" .
+<https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#creator> "J.B.A.M. Jobard" .
 <https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/69aa66bed467578c0bd2b200704411e5> <https://colonialcollections.nl/schema#creator> "Schout-bij-nacht Q.M.R. Ver Huell" .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-183/2" .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#name> "Luchtfoto Nederlands-Indië/Indonesië" .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#description> "Foto zwart wit. Luchtfoto Nederlands-Indië/Indonesië. Drie kleuren meren (Flores).\r\n\r\nOpdruk: \r\nDrie kleuren meren (Flores)\r\nPhoto-Verkennings Afdeling\r\nMilitaire Luchtvaart" .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#creator> "Photo-Verkennings Afdeling" .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/697869495b72e0cfbb20858265f54450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/697869495b72e0cfbb20858265f54450> <https://colonialcollections.nl/schema#identifier> "1997/11/21-2-6" .
 <https://n2t.net/ark:/27023/697869495b72e0cfbb20858265f54450> <https://colonialcollections.nl/schema#name> "Tekening \"Tangerang 1944 : gebouw met tuin op voorzijde\"." .
@@ -21,6 +29,20 @@
 <https://n2t.net/ark:/27023/697869495b72e0cfbb20858265f54450> <https://colonialcollections.nl/schema#creator> "Hansje van Waardenburg" .
 <https://n2t.net/ark:/27023/697869495b72e0cfbb20858265f54450> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/697869495b72e0cfbb20858265f54450> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/221" .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten 1859-1946." .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#creator> "J.J. de Haan" .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-28" .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#name> "Drie guerrilla's tijdens de 'General Attack'" .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#description> "Drie guerrilla's tijdens de 'General Attack'. 19 december 1948" .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/699c4db0ad09d85bff457a3d990067ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/699c4db0ad09d85bff457a3d990067ff> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-7/3" .
 <https://n2t.net/ark:/27023/699c4db0ad09d85bff457a3d990067ff> <https://colonialcollections.nl/schema#name> "Foto Indonesië, 1946-1950 en Nieuw Guinea, 1955-1956" .
@@ -28,6 +50,13 @@
 <https://n2t.net/ark:/27023/699c4db0ad09d85bff457a3d990067ff> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/699c4db0ad09d85bff457a3d990067ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/699c4db0ad09d85bff457a3d990067ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/10" .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6982385ed9edb694d3db85839fb8f8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6982385ed9edb694d3db85839fb8f8fb> <https://colonialcollections.nl/schema#identifier> "nf%201721-3" .
 <https://n2t.net/ark:/27023/6982385ed9edb694d3db85839fb8f8fb> <https://colonialcollections.nl/schema#description> "Foto, stereofoto, zwart/wit, twee foto's naast elkaar geplakt op bruin karton, los aangetroffen. \r\n\r\nOpnames tonen een rivier. Op de rivier enige bootjes. Op de voorgrond een prauw met twee roeiers en hun lading, hout zo te zien. \r\nOp de achtergrond de oe" .
@@ -511,30 +540,6 @@
 <https://n2t.net/ark:/27023/69aab58a97f1e207f4c7b7837954489e> <https://colonialcollections.nl/schema#description> "Reglement voor het Koninklijk Koloniaal MIlitair Invalidenhuisop  Bronbeek, vastgesteld bij K.B. van 7 april 1902, nr. 32\r\nGedrukt. Van aantekeningen en opmerkingen in schrift voorzien; ook ingeplakte wijzingen\r\n27 p. + inlegvellen betreffende latere wijz" .
 <https://n2t.net/ark:/27023/69aab58a97f1e207f4c7b7837954489e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/69aab58a97f1e207f4c7b7837954489e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-183/2" .
-<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#name> "Luchtfoto Nederlands-Indië/Indonesië" .
-<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#description> "Foto zwart wit. Luchtfoto Nederlands-Indië/Indonesië. Drie kleuren meren (Flores).\r\n\r\nOpdruk: \r\nDrie kleuren meren (Flores)\r\nPhoto-Verkennings Afdeling\r\nMilitaire Luchtvaart" .
-<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/69752eb2c2b197b4d0441172019047ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/221" .
-<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten 1859-1946." .
-<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/697ac666276ff061f4668a63e035a4ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-28" .
-<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#name> "Drie guerrilla's tijdens de 'General Attack'" .
-<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#description> "Drie guerrilla's tijdens de 'General Attack'. 19 december 1948" .
-<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6982284a781bf8f01d74cc8142ab742e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#identifier> "2006/00-42-734/10" .
-<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#name> "Rouwstoet voor het Paleis op de Dam, Amsterdam" .
-<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Detachement Van Heutsz; Deputatie KNIL of herbegrafenis Van Heutsz. Stoet loopt door Amsterdam.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/69a03df41689b09974dbfc5043938cda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/697340ec153a2e893042e096046690b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/697340ec153a2e893042e096046690b7> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-97" .
 <https://n2t.net/ark:/27023/697340ec153a2e893042e096046690b7> <https://colonialcollections.nl/schema#description> "Foto op karton." .

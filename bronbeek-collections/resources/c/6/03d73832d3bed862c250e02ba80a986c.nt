@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/d6fef270ca7082d1faab27867ec03125> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/d6fef270ca7082d1faab27867ec03125> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d6fef270ca7082d1faab27867ec03125> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#identifier> "2010/09/22-3-4" .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#name> "Balinese schildering" .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#description> "Schilderij in lijst. Balinese schildering. Op spieraam aan achterzijde: Ida Bgus\" & \"68\" + \"f175,-\" + \"303751\". Op achterzijde doek is een andere schildering te zien, voortekening?" .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#creator> "Ida Bagoes Poetoe Atik van Batoean" .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d6d84b50b9d19b67c31e184305fc54cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d6d84b50b9d19b67c31e184305fc54cc> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/311" .
 <https://n2t.net/ark:/27023/d6d84b50b9d19b67c31e184305fc54cc> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -20,6 +27,7 @@
 <https://n2t.net/ark:/27023/d6f3a88bcfdfbff5e779bcdd3e401d79> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d6f3a88bcfdfbff5e779bcdd3e401d79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d6f3a88bcfdfbff5e779bcdd3e401d79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d6f3a88bcfdfbff5e779bcdd3e401d79> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/d6f4754a1388158351c59a02948a7863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d6f4754a1388158351c59a02948a7863> <https://colonialcollections.nl/schema#identifier> "nf%20842-35" .
 <https://n2t.net/ark:/27023/d6f4754a1388158351c59a02948a7863> <https://colonialcollections.nl/schema#name> "Batu Bulan, bali" .
@@ -558,12 +566,6 @@
 <https://n2t.net/ark:/27023/d7108e74e20f5ac58bbae15d31b05597> <https://colonialcollections.nl/schema#description> "Foto diensttijd sergeant-majoor H. van Valen, 1-1 RI." .
 <https://n2t.net/ark:/27023/d7108e74e20f5ac58bbae15d31b05597> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7108e74e20f5ac58bbae15d31b05597> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#identifier> "2010/09/22-3-4" .
-<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#name> "Balinese schildering" .
-<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#description> "Schilderij in lijst. Balinese schildering. Op spieraam aan achterzijde: Ida Bgus\" & \"68\" + \"f175,-\" + \"303751\". Op achterzijde doek is een andere schildering te zien, voortekening?" .
-<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d6d16928e4813aedca9d29e8bf6f3a3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d6d22dd6d0ac2cc9299aa86b38366624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d6d22dd6d0ac2cc9299aa86b38366624> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44178" .
 <https://n2t.net/ark:/27023/d6d22dd6d0ac2cc9299aa86b38366624> <https://colonialcollections.nl/schema#description> "Pijl van sagobladnerf" .

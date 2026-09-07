@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/98" .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#name> "Plaat 98. Lantoek (doodkist) te Koeta-Radja." .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 98. Lantoek (doodkist) te Koeta-Radja." .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#inscription> "Plaat 98. Lantoek (doodkist) te Koeta-Radja." .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <https://colonialcollections.nl/schema#identifier> "1871/09-1" .
 <https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <https://colonialcollections.nl/schema#name> "De songsong of pajong als onderscheidingsteken op het eiland Java (Vorstenlanden)" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2a740add63e56b0fcf35b2ec5e874400> <https://colonialcollections.nl/schema#creator> "P.W.M. Trap" .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/124" .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Ingekleurde foto van: Pasar Ikan te Batavia." .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#creator> "J.C. Blomme" .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2a63cc781be5f235d8ed8fa692237b2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2a63cc781be5f235d8ed8fa692237b2d> <https://colonialcollections.nl/schema#identifier> "2016/10/29-1-1" .
 <https://n2t.net/ark:/27023/2a63cc781be5f235d8ed8fa692237b2d> <https://colonialcollections.nl/schema#name> "Bed of bamboo slats" .
@@ -13,6 +29,21 @@
 <https://n2t.net/ark:/27023/2a63cc781be5f235d8ed8fa692237b2d> <https://colonialcollections.nl/schema#creator> "M.F.C. Seiker" .
 <https://n2t.net/ark:/27023/2a63cc781be5f235d8ed8fa692237b2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2a63cc781be5f235d8ed8fa692237b2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-2/8" .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#name> "Studiofoto vier militairen Indisch Leger en een matroos" .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#description> "Studiofoto zwart wit, cabinet card. Studio opname van vijf militairen. Vier in de attila van het Indisch Leger en een matroos. In het midden het bord met de tekst \"Tot weerziens 1902\".\r\n\r\nOpname van D. Schoone...m Harderwijk.\r\n\r\nVerso in potloot (moeilijk" .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#creator> "D. Schooneboom" .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#identifier> "2006/00-41-81" .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met de watertoren te Medan, Indië" .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht met de watertoren te Medan, Indië.\r\nGedrukt op recto: Medan - Watertoren\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Watertoren.\r\nH" .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij , KNILM" .
 <https://n2t.net/ark:/27023/2a9561201d1a05b3537d5250c4d3387a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2a9561201d1a05b3537d5250c4d3387a> <https://colonialcollections.nl/schema#identifier> "nf%20699-2" .
 <https://n2t.net/ark:/27023/2a9561201d1a05b3537d5250c4d3387a> <https://colonialcollections.nl/schema#name> "Hamengkubuwono V" .
@@ -20,6 +51,13 @@
 <https://n2t.net/ark:/27023/2a9561201d1a05b3537d5250c4d3387a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2a9561201d1a05b3537d5250c4d3387a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2a9561201d1a05b3537d5250c4d3387a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/8" .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Muziekkorps en bewoners voor de ingang Westkop." .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Muziekkorps en bewoners voor de ingang Westkop." .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2a856beb4aa4c3cb14a57d6e649dbe06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2a856beb4aa4c3cb14a57d6e649dbe06> <https://colonialcollections.nl/schema#identifier> "nf%201918-193" .
 <https://n2t.net/ark:/27023/2a856beb4aa4c3cb14a57d6e649dbe06> <https://colonialcollections.nl/schema#description> "Stereoglaspositief, zwart/wit, 2 heel dunne glasplaatjes op elkaar, samen gehouden en afgewerkt met zwarte tape.\r\n\r\nOp achterkant nf 1918-139 tekst in potlood: 'Orchideeën  G.P. Oct. '31'\r\n\r\nOpnames tonen een blanke man kijkend naar een verzameling potten" .
@@ -53,13 +91,6 @@
 <https://n2t.net/ark:/27023/2a8b03cd00b4494b63842018047745f8> <https://colonialcollections.nl/schema#inscription> "Smile Sone 1915" .
 <https://n2t.net/ark:/27023/2a8b03cd00b4494b63842018047745f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2a8b03cd00b4494b63842018047745f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/98" .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#name> "Plaat 98. Lantoek (doodkist) te Koeta-Radja." .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 98. Lantoek (doodkist) te Koeta-Radja." .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#inscription> "Plaat 98. Lantoek (doodkist) te Koeta-Radja." .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2a66adc28ed5ecd9661febc3b626fa70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2a5490976acc1cbe91be84f87690515d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2a5490976acc1cbe91be84f87690515d> <https://colonialcollections.nl/schema#identifier> "1998/10/29-1-8" .
 <https://n2t.net/ark:/27023/2a5490976acc1cbe91be84f87690515d> <https://colonialcollections.nl/schema#name> "Fotoalbum B.L. de Goede" .
@@ -534,30 +565,6 @@
 <https://n2t.net/ark:/27023/2a9d090e8312d7dc48c78159da36ac6a> <https://colonialcollections.nl/schema#description> "8  Carte de Visite van onbekende militairen. Opgeplakt op een wit A4 vel waarop de schenkster een helpvraag heeft geplakt." .
 <https://n2t.net/ark:/27023/2a9d090e8312d7dc48c78159da36ac6a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2a9d090e8312d7dc48c78159da36ac6a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/124" .
-<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Ingekleurde foto van: Pasar Ikan te Batavia." .
-<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2a5a033438dd579f9d84854420d5cce3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#identifier> "2012/11/26-2-2/8" .
-<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#name> "Studiofoto vier militairen Indisch Leger en een matroos" .
-<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#description> "Studiofoto zwart wit, cabinet card. Studio opname van vijf militairen. Vier in de attila van het Indisch Leger en een matroos. In het midden het bord met de tekst \"Tot weerziens 1902\".\r\n\r\nOpname van D. Schoone...m Harderwijk.\r\n\r\nVerso in potloot (moeilijk" .
-<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2a7f3e9551fb80fe8301911db76b784a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#identifier> "2006/00-41-81" .
-<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met de watertoren te Medan, Indië" .
-<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht met de watertoren te Medan, Indië.\r\nGedrukt op recto: Medan - Watertoren\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Watertoren.\r\nH" .
-<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2a904b020059a4d23759fc79803e7af4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/8" .
-<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Muziekkorps en bewoners voor de ingang Westkop." .
-<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Muziekkorps en bewoners voor de ingang Westkop." .
-<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2a996d38fdb22c2b9133b6250db50318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2a5c4a0ac4075dfac12fa1819c56ac56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2a5c4a0ac4075dfac12fa1819c56ac56> <https://colonialcollections.nl/schema#identifier> "S%20230-961" .
 <https://n2t.net/ark:/27023/2a5c4a0ac4075dfac12fa1819c56ac56> <https://colonialcollections.nl/schema#description> "ook wel padimes of oogstmes genoemd; voor kinderen;\r\nHerkomst: Kedoe, Java." .

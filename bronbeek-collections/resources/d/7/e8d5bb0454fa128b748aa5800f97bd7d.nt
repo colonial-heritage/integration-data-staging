@@ -1,3 +1,24 @@
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#identifier> "2006/00-43/39" .
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#name> "Landkaart Java, omgeving ten Noord-westen Tjililin" .
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#description> "Landkaart Java, omgeving ten Noordwesten van Tjililin; kaart op linnen in 6 delen. Schaal \r\n1: 50.000; Sheet 38/XXXIX-D. Printed at the survey of India Offices (P.Z.O.), Reg.no. 1493 X.D.D. '44-X'44." .
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#creator> "India Offices (P.Z.O.)" .
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-449" .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#name> "Petembleem subalterne officier, adjudant-onderofficier, vaandrig Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#description> "Petembleem van dofbronskleurig metaal bestaande uit de gekroonde klimmende leeuw met pijlenbundel en zwaard op een banderol met de tekst \"NEDERLAND\". Aan de keerzijde een steekspeld ter bevestiging. Ingeslagen het woord \"STOKES\"." .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#creator> "Stokes" .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-100" .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#name> "Drukwerk: Wereldsneeuwbal voor recht en gerechtigheid, in Franse vertaling" .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#description> "Drukwerk: In Franse taal!\r\ngefrankeerd aan Kapt. G. Buijs te Macassar. Wereldsneeuwbal voor recht en gerechtigheid \"De laatste krijgsraad gehouden bij bloemfontein. Help de boeren, Koop en verkoop geen Engelsche artikelen, zend 5 uwer vrienden een dezer k" .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#creator> "Herms Coster & Zoon, Alkmaar." .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e7319dddde6d9944020bc1434d010173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e7319dddde6d9944020bc1434d010173> <https://colonialcollections.nl/schema#identifier> "nf%20681-6-1" .
 <https://n2t.net/ark:/27023/e7319dddde6d9944020bc1434d010173> <https://colonialcollections.nl/schema#name> "Bandar Telor" .
@@ -5,6 +26,13 @@
 <https://n2t.net/ark:/27023/e7319dddde6d9944020bc1434d010173> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e7319dddde6d9944020bc1434d010173> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e7319dddde6d9944020bc1434d010173> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/217" .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten 1859-1946. gehuwd m. C.L. van Swieten-Straeter." .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#creator> "J.J. de Haan" .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e73b927a69676602eaa6ab6b7a5b701c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e73b927a69676602eaa6ab6b7a5b701c> <https://colonialcollections.nl/schema#identifier> "nf%201413-226" .
 <https://n2t.net/ark:/27023/e73b927a69676602eaa6ab6b7a5b701c> <https://colonialcollections.nl/schema#name> "De pondok bij Tandjoeng Laoet. Moerod, Saleh en Oemar" .
@@ -19,6 +47,13 @@
 <https://n2t.net/ark:/27023/e73e08d917074ec03b3a3c3a68fa2c96> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e73e08d917074ec03b3a3c3a68fa2c96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e73e08d917074ec03b3a3c3a68fa2c96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/23" .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#name> "Militair die een hond  optilt, gehurkt voor een hut" .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#description> "Militair die een hond  optilt, gehurkt voor een hut." .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e71046276fc25ac2ec8a9fde7ae51fdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e71046276fc25ac2ec8a9fde7ae51fdb> <https://colonialcollections.nl/schema#identifier> "nf%20265-9" .
 <https://n2t.net/ark:/27023/e71046276fc25ac2ec8a9fde7ae51fdb> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit\r\n\r\ntwee mannen; de linker, waarschijnlijk een Javaan, in westerse kleding. De rechter een Dayak met mandau, pijlenkoker en schaamgordel. Hij draagt een kralensnoer met gele platte Kalimantan kralen. Beiden houden een blaasroer vast; de lin" .
@@ -490,36 +525,6 @@
 <https://n2t.net/ark:/27023/e74a806a4b1b724426dc43a28cd0306a> <https://colonialcollections.nl/schema#description> "Mouwembleem 2e Bataljon 9e Regiment Infanterie. Opgericht in Assen 15-12-1945." .
 <https://n2t.net/ark:/27023/e74a806a4b1b724426dc43a28cd0306a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e74a806a4b1b724426dc43a28cd0306a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#identifier> "2006/00-43/39" .
-<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#name> "Landkaart Java, omgeving ten Noord-westen Tjililin" .
-<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#description> "Landkaart Java, omgeving ten Noordwesten van Tjililin; kaart op linnen in 6 delen. Schaal \r\n1: 50.000; Sheet 38/XXXIX-D. Printed at the survey of India Offices (P.Z.O.), Reg.no. 1493 X.D.D. '44-X'44." .
-<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e717a71e2ffb402b8489602b29b3e6c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-449" .
-<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#name> "Petembleem subalterne officier, adjudant-onderofficier, vaandrig Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#description> "Petembleem van dofbronskleurig metaal bestaande uit de gekroonde klimmende leeuw met pijlenbundel en zwaard op een banderol met de tekst \"NEDERLAND\". Aan de keerzijde een steekspeld ter bevestiging. Ingeslagen het woord \"STOKES\"." .
-<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e71cd3cc54aeed8c62b31a445cc3ea53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-100" .
-<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#name> "Drukwerk: Wereldsneeuwbal voor recht en gerechtigheid, in Franse vertaling" .
-<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#description> "Drukwerk: In Franse taal!\r\ngefrankeerd aan Kapt. G. Buijs te Macassar. Wereldsneeuwbal voor recht en gerechtigheid \"De laatste krijgsraad gehouden bij bloemfontein. Help de boeren, Koop en verkoop geen Engelsche artikelen, zend 5 uwer vrienden een dezer k" .
-<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e72146503f5ede7e066fbb3265899729> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/217" .
-<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten 1859-1946. gehuwd m. C.L. van Swieten-Straeter." .
-<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e73461d37962d1897b6160a7c8de1c31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/23" .
-<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#name> "Militair die een hond  optilt, gehurkt voor een hut" .
-<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#description> "Militair die een hond  optilt, gehurkt voor een hut." .
-<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e74a087720164cf4165006db3d7304a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e70b8e95f64bd1df89a2cb37a6cb536f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e70b8e95f64bd1df89a2cb37a6cb536f> <https://colonialcollections.nl/schema#identifier> "nf%201353-10-3" .
 <https://n2t.net/ark:/27023/e70b8e95f64bd1df89a2cb37a6cb536f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, volledig met lijm in album geplakt.\r\n\r\nMidden op dit fotoblad is tekst geschreven in witte inkt: 'Soengei-Litoer 1926'\r\nAangenomen is dat dit geldt voor alle 5 foto's op dit blad\r\n\r\nOpname toont een wit hondje, 'opgeborgen' i" .

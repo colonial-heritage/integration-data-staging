@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#identifier> "2001/10/12-1" .
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#name> "Noodverband, steriel in blik" .
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#inscription> "NV E.N.I. Verbandstoffenfabriek Soerabaia" .
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#creator> "N.V. Eerste Nederlandsch Indische Verbandstoffenfabriek" .
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/49" .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#name> "Balinezen op weg naar Gianjar, vermoedelijk in de buurt van Bangli" .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBalinezen op weg naar Gianjar, vermoedelijk in de buurt van Bangli." .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/48" .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#name> "Plaat 48. Bruidegom en bruid na het \"toeron koe djèrèt\"." .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 48. Bruidegom en bruid na het \"toeron koe djèrèt\"." .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#inscription> "Plaat 48. Bruidegom en bruid na het \"toeron koe djèrèt\"." .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/48207fdfb12d64eb44f49f95c361fbb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/48207fdfb12d64eb44f49f95c361fbb7> <https://colonialcollections.nl/schema#identifier> "2016/08/16-4-1/3" .
 <https://n2t.net/ark:/27023/48207fdfb12d64eb44f49f95c361fbb7> <https://colonialcollections.nl/schema#name> "\"Nummer 4, Berg pas tusschen Soember [Petreng] en Kloet. Vroeger dicht begroeid\"" .
@@ -20,6 +43,13 @@
 <https://n2t.net/ark:/27023/47ffc0182230c3a525fd953810a13de8> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/47ffc0182230c3a525fd953810a13de8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/47ffc0182230c3a525fd953810a13de8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#identifier> "1919/01/01-1" .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal J. van Swieten, MWO 1" .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#description> "olieverf op linnen, 79 x 121cm, met verguld houten sierlijst, breed 12 cm. Rechts beneden gesigneerd \"P. Quisthout, 1918\", kniestuk, toont van Swieten in groot tenue van 1868." .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#creator> "P. Quisthout" .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4816762b659028bcaa435433f9079d74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4816762b659028bcaa435433f9079d74> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-13" .
 <https://n2t.net/ark:/27023/4816762b659028bcaa435433f9079d74> <https://colonialcollections.nl/schema#name> "Heistelling" .
@@ -45,6 +75,12 @@
 <https://n2t.net/ark:/27023/480c3611246f126c00a99c520b255902> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/480c3611246f126c00a99c520b255902> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/480c3611246f126c00a99c520b255902> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#identifier> "nf%20323-2-2" .
+<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#description> "bijschrift; 'De groote Floresweg bij Reo, daarnaast de Wae Passi. Uitzicht naar het Zuidoosten. Links op den achtergrond de drie toppen van de bergen van Gapong, rechts verdwijnen de 50 K. M. verwijderde bergen van Roeteng.'" .
+<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/47ecd988a14089597b026dbdcde2d925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/47ecd988a14089597b026dbdcde2d925> <https://colonialcollections.nl/schema#identifier> "2006/05/01-2" .
 <https://n2t.net/ark:/27023/47ecd988a14089597b026dbdcde2d925> <https://colonialcollections.nl/schema#name> "Blik \"O.K. American Blend\", \"Wij leven mee met de jongens over zee\"" .
@@ -94,26 +130,6 @@
 <https://n2t.net/ark:/27023/482166aa8c2d7addba0106bbed769479> <https://colonialcollections.nl/schema#inscription> "Enteritis; Erve Kapoeas 35" .
 <https://n2t.net/ark:/27023/482166aa8c2d7addba0106bbed769479> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/482166aa8c2d7addba0106bbed769479> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#identifier> "2001/10/12-1" .
-<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#name> "Noodverband, steriel in blik" .
-<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#inscription> "NV E.N.I. Verbandstoffenfabriek Soerabaia" .
-<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/47e91253c195256254ff14ce3d88512f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/49" .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#name> "Balinezen op weg naar Gianjar, vermoedelijk in de buurt van Bangli" .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBalinezen op weg naar Gianjar, vermoedelijk in de buurt van Bangli." .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/480a6aa7e2de33f5ee2d7cb436654569> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/48" .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#name> "Plaat 48. Bruidegom en bruid na het \"toeron koe djèrèt\"." .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 48. Bruidegom en bruid na het \"toeron koe djèrèt\"." .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#inscription> "Plaat 48. Bruidegom en bruid na het \"toeron koe djèrèt\"." .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4811a116fe8d64d77daa90683f1ed977> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/47e23f7566c4a55afb4fa17ecf95ba7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/47e23f7566c4a55afb4fa17ecf95ba7f> <https://colonialcollections.nl/schema#identifier> "2002/04/30-1-427" .
 <https://n2t.net/ark:/27023/47e23f7566c4a55afb4fa17ecf95ba7f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met afbeelding van Nederlands-Indië" .
@@ -534,12 +550,6 @@
 <https://n2t.net/ark:/27023/4821b5936835d2b1cef20244d7d76413> <https://colonialcollections.nl/schema#description> "kledingstuk van boomschors, mogelijk Sumatra" .
 <https://n2t.net/ark:/27023/4821b5936835d2b1cef20244d7d76413> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4821b5936835d2b1cef20244d7d76413> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#identifier> "1919/01/01-1" .
-<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal J. van Swieten, MWO 1" .
-<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#description> "olieverf op linnen, 79 x 121cm, met verguld houten sierlijst, breed 12 cm. Rechts beneden gesigneerd \"P. Quisthout, 1918\", kniestuk, toont van Swieten in groot tenue van 1868." .
-<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4814c59de36395123e45d3e455feae7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/47e9ba627766eb00d0592cd31a77cd4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/47e9ba627766eb00d0592cd31a77cd4a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43698" .
 <https://n2t.net/ark:/27023/47e9ba627766eb00d0592cd31a77cd4a> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tdonderbus\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesmeed\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t4231\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[4231] Kelder, gewerenrek [kel" .
@@ -590,11 +600,6 @@
 <https://n2t.net/ark:/27023/481f5672cce0550feae0530dab8704f5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'wat een vrolijk troepje'\r\n\r\nCentraal, tussen de vier foto's op dit fotoblad 19, staat geschreven in inkt: 'Als hier een pot met bonen staat..." .
 <https://n2t.net/ark:/27023/481f5672cce0550feae0530dab8704f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/481f5672cce0550feae0530dab8704f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#identifier> "nf%20323-2-2" .
-<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#description> "bijschrift; 'De groote Floresweg bij Reo, daarnaast de Wae Passi. Uitzicht naar het Zuidoosten. Links op den achtergrond de drie toppen van de bergen van Gapong, rechts verdwijnen de 50 K. M. verwijderde bergen van Roeteng.'" .
-<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/48111964cd15f46ea4cc4852be1ad1e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/481bc2364b6e91b5e78ac407d8a2bd5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/481bc2364b6e91b5e78ac407d8a2bd5c> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43855" .
 <https://n2t.net/ark:/27023/481bc2364b6e91b5e78ac407d8a2bd5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

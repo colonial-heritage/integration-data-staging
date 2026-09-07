@@ -1,10 +1,26 @@
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/39" .
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#name> "Marcherende militairen" .
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#description> "Marcherende militairen.\r\nAchter op foto geschreven \"1e Hollandse Papoeamilitairen, peleton Papoea´s ± 1950\"." .
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-84-3" .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#name> "Platte pet geklede tenue onderofficier Koninklijke Marechaussee Nederlandse Antillen" .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#description> "Platte pet type Bancroft in licentie gemaakt door B.V. Hassing Amersfoort. Kunststof binnenwerk en staande rand in model vlechtwerk riet. Zwarte kunststof vallende klep en zwart lederen stormriem met twee goudkleurige petknoopjes met onklaar gekroond anke" .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#creator> "N.V. Uniformpettenfabriek v/h Fa. A. Hassing Amersfoort" .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#identifier> "S%206245-37" .
 <https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#name> "Uitpluizen van katoen [kapas]" .
 <https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Uitpluizen van katoen [kapas].\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt op " .
-<https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
+<https://n2t.net/ark:/27023/2ae48b50e5ef13849175f08ea3d2508c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2ae8818166bb0134fb80aa4c8401c253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ae8818166bb0134fb80aa4c8401c253> <https://colonialcollections.nl/schema#identifier> "2006/00-40-8" .
 <https://n2t.net/ark:/27023/2ae8818166bb0134fb80aa4c8401c253> <https://colonialcollections.nl/schema#name> "Staand studioportret van een vrouw, leunend op een stoelrug" .
@@ -19,6 +35,13 @@
 <https://n2t.net/ark:/27023/2ae9ec316ef2a276da537e27bb342f46> <https://colonialcollections.nl/schema#creator> "W. Vervloet & Zoon, Den Haag" .
 <https://n2t.net/ark:/27023/2ae9ec316ef2a276da537e27bb342f46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ae9ec316ef2a276da537e27bb342f46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/6" .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#name> "1. Village de Gourdon. A.M." .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart. \"1. Village de Gourdon. A.M.\". Aan bovenzijde perforatierand, prentbriefkaart afkomstig uit een boekje." .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#creator> "J. Gilletta et Cie, Edit. Phot., Nice" .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2afd5c5149eeb8c577c1b3315607736a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2afd5c5149eeb8c577c1b3315607736a> <https://colonialcollections.nl/schema#identifier> "nf%201407-10" .
 <https://n2t.net/ark:/27023/2afd5c5149eeb8c577c1b3315607736a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit (verkleurd), rechthoekig, opgeplakt op een groen fotoblad.\r\nDe foto is uit een album geknipt.\r\nEr staan in inkt geschreven nummers onder, die niet zijn opgenomen. Slechts het nummer door de heer Muller gegeven is verwerkt.\r\nDe foto is niet" .
@@ -513,24 +536,6 @@
 <https://n2t.net/ark:/27023/2b29d38aafd257c7c43583658ab5d93b> <https://colonialcollections.nl/schema#description> "Foto uit serie van totaal 181 foto's, voornamelijk van de jacht." .
 <https://n2t.net/ark:/27023/2b29d38aafd257c7c43583658ab5d93b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2b29d38aafd257c7c43583658ab5d93b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/39" .
-<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#name> "Marcherende militairen" .
-<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#description> "Marcherende militairen.\r\nAchter op foto geschreven \"1e Hollandse Papoeamilitairen, peleton Papoea´s ± 1950\"." .
-<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ae04557d23b8cd7e3b8ceead1e57a1a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-84-3" .
-<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#name> "Platte pet geklede tenue onderofficier Koninklijke Marechaussee Nederlandse Antillen" .
-<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#description> "Platte pet type Bancroft in licentie gemaakt door B.V. Hassing Amersfoort. Kunststof binnenwerk en staande rand in model vlechtwerk riet. Zwarte kunststof vallende klep en zwart lederen stormriem met twee goudkleurige petknoopjes met onklaar gekroond anke" .
-<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ae1c4fac35bc1b6caeee7dd1db5c6b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/6" .
-<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#name> "1. Village de Gourdon. A.M." .
-<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart. \"1. Village de Gourdon. A.M.\". Aan bovenzijde perforatierand, prentbriefkaart afkomstig uit een boekje." .
-<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2b10e6ea57c241f2859bf6b0d5315603> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2aea9047db39997040a793fc4c710ce6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2aea9047db39997040a793fc4c710ce6> <https://colonialcollections.nl/schema#identifier> "S%20230-1110" .
 <https://n2t.net/ark:/27023/2aea9047db39997040a793fc4c710ce6> <https://colonialcollections.nl/schema#description> "vermoedelijk luwingvezel.\r\nHerkomst: Tegal, midden-Java." .

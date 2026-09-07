@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/e95c3a39e16ff64c94f139f67fd5da65> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/e95c3a39e16ff64c94f139f67fd5da65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e95c3a39e16ff64c94f139f67fd5da65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-113" .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#name> "Carte de visite: Cornets de Groot" .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Cornets de Groot" .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#inscription> "Cornets de Groot" .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#creator> "R. Severin Photographe de S.M. le Roi" .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e98e59ad5e44225371ed43150531c63b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e98e59ad5e44225371ed43150531c63b> <https://colonialcollections.nl/schema#identifier> "1994/09/21-3-1" .
 <https://n2t.net/ark:/27023/e98e59ad5e44225371ed43150531c63b> <https://colonialcollections.nl/schema#name> "Fotoalbum van Generaal-majoor F.J.P. Sachse" .
@@ -14,6 +22,22 @@
 <https://n2t.net/ark:/27023/e98e59ad5e44225371ed43150531c63b> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/e98e59ad5e44225371ed43150531c63b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e98e59ad5e44225371ed43150531c63b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#identifier> "1988/03/08-1-2" .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#name> "Schoolplaat: \"Eener Suikerfabriek op Java\"" .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#description> "Schoolplaat. \"Eener suikerfabriek op Java. Naar een schilderij van Menno van Meeteren Brouwer. J. Koning en D.Wouters, Aardrijkskundige wandplaten van Nederlands Oost-Indië. Uitgave van P.Noordhoff te Groningen.\"" .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#inscription> "Eener suikerfabriek op Java. Naar een schilderij van Menno van Meeteren Brouwer." .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#creator> "Uitgever P.Noordhoff te Groningen" .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-31" .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#name> "135. Prauwen voor zoutvervoer." .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#description> "Schoolplaat. 135. Prauwen voor zoutvervoer." .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#inscription> "135. Prauwen voor zoutvervoer." .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e965c790ce966c4223d5bc53bf11d789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e965c790ce966c4223d5bc53bf11d789> <https://colonialcollections.nl/schema#identifier> "2006/00-43/12" .
 <https://n2t.net/ark:/27023/e965c790ce966c4223d5bc53bf11d789> <https://colonialcollections.nl/schema#name> "Schetskaart van Midden-Bali" .
@@ -28,6 +52,20 @@
 <https://n2t.net/ark:/27023/e967c1b95073bb5a80ea2f53bd003bb0> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/e967c1b95073bb5a80ea2f53bd003bb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e967c1b95073bb5a80ea2f53bd003bb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/461" .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 2.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#creator> "Uitgeverij Spanjersberg" .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-222" .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#name> "Manuscript C.A. Douwes Dekker - Kolling, Oorlogsherinneringen van een bijzonder gelukkige familie." .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#description> "Print (matrixprinter) van C.A. Douwes Dekker - Kolling, Oorlogsherinneringen van een bijzonder gelukkige familie. 26 pagina's.\r\nPeriode Japanse bezetting van Nederlands-Indië in Malang." .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#creator> "mevrouw C.A. Douwes Dekker - Kolling" .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e99588378a09494775fc2c4e66a53f52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e99588378a09494775fc2c4e66a53f52> <https://colonialcollections.nl/schema#identifier> "1977/03-1-41" .
 <https://n2t.net/ark:/27023/e99588378a09494775fc2c4e66a53f52> <https://colonialcollections.nl/schema#name> "Prauwvoerder met blote rug" .
@@ -42,6 +80,13 @@
 <https://n2t.net/ark:/27023/e99d3415c2de851598b7377fa90c83e7> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/e99d3415c2de851598b7377fa90c83e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e99d3415c2de851598b7377fa90c83e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#identifier> "2013/03/06-1-4" .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#name> "Marcherende Koloniale Reserve tijdens de Vierdaagse van Nijmegen. \"Huis Rijksstraatweg 35\"" .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#description> "Foto. Marcherende Koloniale Reserve tijdens de Vierdaagse van Nijmegen. \"Huis Rijksstraatweg 35. Rechts Hekwerk De Refter (Rijksstraatweg 37) Beek-Ubbergen\".\r\nFotobedrijf Actief, Daalscheweg 317 Nijmegen." .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#creator> "Fotobedrijf Actief" .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e971f14ea181af3be01acbdcca5a03f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e971f14ea181af3be01acbdcca5a03f9> <https://colonialcollections.nl/schema#identifier> "nf%20842-515" .
 <https://n2t.net/ark:/27023/e971f14ea181af3be01acbdcca5a03f9> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BC 37 t/m 72. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BC, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BC 67, in potlood EB 27.\r" .
@@ -51,9 +96,10 @@
 <https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-9" .
 <https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#description> "Carte de visite." .
-<https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
+<https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
 <https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e97cb0446a707a2bb40f58b613f9a090> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/e997f78c348e48883f6c2829780c0198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e997f78c348e48883f6c2829780c0198> <https://colonialcollections.nl/schema#identifier> "nf%20926-38-1" .
 <https://n2t.net/ark:/27023/e997f78c348e48883f6c2829780c0198> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van een hoge imposante boom, waar alleen de stam van is te zien. Er voor is een verhoogd 'terras' aangelegd waar 'pilaren', hoekig en van verschillende hoogte, op staan. Op twee ervan zitten meisjes, degene recht" .
@@ -108,27 +154,6 @@
 <https://n2t.net/ark:/27023/e9ac58afb13da6d338f6ae53b4ecade1> <https://colonialcollections.nl/schema#inscription> "Nederlandsch Indië" .
 <https://n2t.net/ark:/27023/e9ac58afb13da6d338f6ae53b4ecade1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9ac58afb13da6d338f6ae53b4ecade1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-113" .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#name> "Carte de visite: Cornets de Groot" .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Cornets de Groot" .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#inscription> "Cornets de Groot" .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e969444e8cecf72ed28e44521b86250d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#identifier> "1988/03/08-1-2" .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#name> "Schoolplaat: \"Eener Suikerfabriek op Java\"" .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#description> "Schoolplaat. \"Eener suikerfabriek op Java. Naar een schilderij van Menno van Meeteren Brouwer. J. Koning en D.Wouters, Aardrijkskundige wandplaten van Nederlands Oost-Indië. Uitgave van P.Noordhoff te Groningen.\"" .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#inscription> "Eener suikerfabriek op Java. Naar een schilderij van Menno van Meeteren Brouwer." .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e98f8cb2317ae0dcc118007b2d2b3bd8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-31" .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#name> "135. Prauwen voor zoutvervoer." .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#description> "Schoolplaat. 135. Prauwen voor zoutvervoer." .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#inscription> "135. Prauwen voor zoutvervoer." .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9a47c55b3e153b780320a8834a9c2a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e9595a548f1b1865c35a432b03615f9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e9595a548f1b1865c35a432b03615f9d> <https://colonialcollections.nl/schema#identifier> "2003/10/31-6-1" .
 <https://n2t.net/ark:/27023/e9595a548f1b1865c35a432b03615f9d> <https://colonialcollections.nl/schema#name> "Fotoalbum, KNIL, artillerie 1937-1938" .
@@ -555,24 +580,6 @@
 <https://n2t.net/ark:/27023/e9a9c1863e8712d667e5d5e1c6394230> <https://colonialcollections.nl/schema#description> "Foto uit een fotoserie (63 stuks) huwelijk 7 juli 1949." .
 <https://n2t.net/ark:/27023/e9a9c1863e8712d667e5d5e1c6394230> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e9a9c1863e8712d667e5d5e1c6394230> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/461" .
-<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
-<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 2.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
-<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e96d7d15fb6eb56cc5a6092b594fedc5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-222" .
-<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#name> "Manuscript C.A. Douwes Dekker - Kolling, Oorlogsherinneringen van een bijzonder gelukkige familie." .
-<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#description> "Print (matrixprinter) van C.A. Douwes Dekker - Kolling, Oorlogsherinneringen van een bijzonder gelukkige familie. 26 pagina's.\r\nPeriode Japanse bezetting van Nederlands-Indië in Malang." .
-<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9787a6a062ae687737f4604e19f332d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#identifier> "2013/03/06-1-4" .
-<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#name> "Marcherende Koloniale Reserve tijdens de Vierdaagse van Nijmegen. \"Huis Rijksstraatweg 35\"" .
-<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#description> "Foto. Marcherende Koloniale Reserve tijdens de Vierdaagse van Nijmegen. \"Huis Rijksstraatweg 35. Rechts Hekwerk De Refter (Rijksstraatweg 37) Beek-Ubbergen\".\r\nFotobedrijf Actief, Daalscheweg 317 Nijmegen." .
-<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e9ac0dbff86421912e510d4ae8b82714> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e95fc4fde0bcac970144cdd2c7797490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e95fc4fde0bcac970144cdd2c7797490> <https://colonialcollections.nl/schema#identifier> "nf%201308-34-4" .
 <https://n2t.net/ark:/27023/e95fc4fde0bcac970144cdd2c7797490> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, met fotohoekjes opgeplakt, met bijschrift.\r\n\r\nDit bijschrift, in inkt geschreven, luidt: '3x Paats, 1x Belle' \r\n\r\nBij één van de andere foto's op dit fotoblad 34 (nf 1308-34-3) staat in inkt geschreven:\r\n'June brought the ros" .

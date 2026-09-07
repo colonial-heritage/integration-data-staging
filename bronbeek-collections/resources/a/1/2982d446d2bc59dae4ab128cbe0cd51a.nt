@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#identifier> "1999/00-373" .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#name> "Spotprent J.B. Heutsz" .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#description> "Prent in lijst. inventaris 1959: Oud bezit. Bijschriften: \"Generaal v. Heutsz\" en \"Generaal, bevrijd ons nu nog van dat monster\"\r\nOffset uit Nederlandsche Spectator 1904, No.28. ´s Gravenhage, Martinus Nijhoff. \r\ningelijst 20 x 28cm. Ongenummerd aangetrof" .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#inscription> "Generaal, bevrijd ons nu nog van dat monster" .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#creator> "J. Linse" .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/71d051b1ced37b1059ba863057b75c9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/71d051b1ced37b1059ba863057b75c9f> <https://colonialcollections.nl/schema#identifier> "2000/09/04-5-5" .
 <https://n2t.net/ark:/27023/71d051b1ced37b1059ba863057b75c9f> <https://colonialcollections.nl/schema#name> "Orde & Vrede" .
@@ -14,6 +22,13 @@
 <https://n2t.net/ark:/27023/71d3a71bbceec3dc2aec6bbc987f7863> <https://colonialcollections.nl/schema#creator> "War Office, Geographical section" .
 <https://n2t.net/ark:/27023/71d3a71bbceec3dc2aec6bbc987f7863> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/71d3a71bbceec3dc2aec6bbc987f7863> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#identifier> "nf%20805" .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#name> "Badplaats Kali-Bening, Magelang" .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de badplaats Kali-Bening te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Badplaats Kali-Bening, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67740' (4 is onduidelijk)\r\n\r\nGedeelde achterkant met boven" .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/71dfabf00e15f631b090c450432fae97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/71dfabf00e15f631b090c450432fae97> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/188" .
 <https://n2t.net/ark:/27023/71dfabf00e15f631b090c450432fae97> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -78,13 +93,6 @@
 <https://n2t.net/ark:/27023/71d0d50082b583d7fd4a4c09ba174851> <https://colonialcollections.nl/schema#inscription> "Anjer, Noordkust van Java (residentie Bantam)" .
 <https://n2t.net/ark:/27023/71d0d50082b583d7fd4a4c09ba174851> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/71d0d50082b583d7fd4a4c09ba174851> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#identifier> "1999/00-373" .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#name> "Spotprent J.B. Heutsz" .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#description> "Prent in lijst. inventaris 1959: Oud bezit. Bijschriften: \"Generaal v. Heutsz\" en \"Generaal, bevrijd ons nu nog van dat monster\"\r\nOffset uit Nederlandsche Spectator 1904, No.28. ´s Gravenhage, Martinus Nijhoff. \r\ningelijst 20 x 28cm. Ongenummerd aangetrof" .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#inscription> "Generaal, bevrijd ons nu nog van dat monster" .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/71b1695d11f17ee9e03051d148a0faec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/71a84641869be6d33eaca38becab591a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/71a84641869be6d33eaca38becab591a> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-10/7" .
 <https://n2t.net/ark:/27023/71a84641869be6d33eaca38becab591a> <https://colonialcollections.nl/schema#name> "Foto z/w begraafplaats in Nederlands-Indië/Indonesië" .
@@ -517,12 +525,6 @@
 <https://n2t.net/ark:/27023/71e83b733468fa539e8f8de914fa07d2> <https://colonialcollections.nl/schema#description> "Bronzen penning Inspecteur Generaal der Krijgsmacht (IGK), 1945-1970." .
 <https://n2t.net/ark:/27023/71e83b733468fa539e8f8de914fa07d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/71e83b733468fa539e8f8de914fa07d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#identifier> "nf%20805" .
-<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#name> "Badplaats Kali-Bening, Magelang" .
-<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de badplaats Kali-Bening te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Badplaats Kali-Bening, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67740' (4 is onduidelijk)\r\n\r\nGedeelde achterkant met boven" .
-<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/71bdbc1e00d82d6aa6e6b7aa6e798032> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/71adaa6132adacbc4775a52c8e219410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/71adaa6132adacbc4775a52c8e219410> <https://colonialcollections.nl/schema#identifier> "nf%20896-16-1" .
 <https://n2t.net/ark:/27023/71adaa6132adacbc4775a52c8e219410> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, geheel vastgeplakt. Eventuele achterop geschreven tekst dus niet te lezen.\r\n\r\nOpname van een poort. Het is een breed bouwwerk op vier stevige rechthoekige poten, die aan de onderkant versierd zijn. Waarmee is onduidelijk.\r\nDe" .

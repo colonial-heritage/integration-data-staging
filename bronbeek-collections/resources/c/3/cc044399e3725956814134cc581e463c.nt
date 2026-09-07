@@ -19,6 +19,13 @@
 <https://n2t.net/ark:/27023/437bf157783892fea92b4618a020b848> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/437bf157783892fea92b4618a020b848> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/437bf157783892fea92b4618a020b848> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#identifier> "S%204248C" .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#name> "Topografische kaart van Java en Madoera.\r\nOost Java deel" .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#description> "Topografische kaart van Java en Madoera in 3 delen - West Java, Midden Java en Oost Java.\r\nSchaal 1 : 500.000" .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#creator> "Topografische Dienst in Nederlandsch-Indië (Batavia)" .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/15" .
 <https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
@@ -26,6 +33,7 @@
 <https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/438061a2323ea44ef8cf7235af6837b6> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/4385f3d7f720608c4820762ecfb0617e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4385f3d7f720608c4820762ecfb0617e> <https://colonialcollections.nl/schema#identifier> "nf%201559-9" .
 <https://n2t.net/ark:/27023/4385f3d7f720608c4820762ecfb0617e> <https://colonialcollections.nl/schema#name> "Keuring der thee op een plantage" .
@@ -40,6 +48,13 @@
 <https://n2t.net/ark:/27023/438f078ca61cb4015a258dfb74d169c3> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/438f078ca61cb4015a258dfb74d169c3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/438f078ca61cb4015a258dfb74d169c3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/402" .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Passer te Koeta-Radja.\"\r\nBeschreven: \"K.R. 28/5 '31. Lieve Corry... Mies.\" 16 juni 1931. \r\nUitgave van Köhler & Co. v/h. Sabang Drukkerij, Sabang." .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#creator> "Köhler & Co. v/h Sabang Drukkerij, Sabang" .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43a4fb5935c5cb9d76b8d78a3c62d587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43a4fb5935c5cb9d76b8d78a3c62d587> <https://colonialcollections.nl/schema#identifier> "nf%20693-11" .
 <https://n2t.net/ark:/27023/43a4fb5935c5cb9d76b8d78a3c62d587> <https://colonialcollections.nl/schema#name> "Maliërs van Kota-Gedang" .
@@ -59,6 +74,12 @@
 <https://n2t.net/ark:/27023/43835dedae09282dccabd2a00a5466d8> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/43835dedae09282dccabd2a00a5466d8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43835dedae09282dccabd2a00a5466d8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#identifier> "EDO%20481-62" .
+<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van voornamelijk inheemse vrouwen, zittend en staand, een enkeling met iets op haar hoofd. De achtergrond bestaat uit palmbomen.\r\n\r\nHet formaat van de foto verhindert veel meer uitleg." .
+<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4385f9fc1354d7f1e853861cca782adb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4385f9fc1354d7f1e853861cca782adb> <https://colonialcollections.nl/schema#identifier> "nf%201311-75" .
 <https://n2t.net/ark:/27023/4385f9fc1354d7f1e853861cca782adb> <https://colonialcollections.nl/schema#description> "glasnegatief, rechthoekig, los\r\n\r\nOpname van een persoon, waarschijnlijk kind, met een pijl en boog. de achtergrond wordt gevormd door planten/struiken.\r\n\r\nN.B.: Dit glasnegatief en een aantal andere glasnegatieven zijn aangeboden in een bruine envelop me" .
@@ -523,18 +544,6 @@
 <https://n2t.net/ark:/27023/43a7b6222d169d298078b71ad7266e72> <https://colonialcollections.nl/schema#description> "Foto afkomstig uit plakboek onder nr 9 \"Hoogland \"9-11-'22\" (E.J. Feenstra).\r\nTotaal 51 stuks: Harderwijk 1963, Stoottroepen Ermelo 1969; Indië; jaren '40-50, e.a." .
 <https://n2t.net/ark:/27023/43a7b6222d169d298078b71ad7266e72> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43a7b6222d169d298078b71ad7266e72> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#identifier> "S%204248C" .
-<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#name> "Topografische kaart van Java en Madoera.\r\nOost Java deel" .
-<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#description> "Topografische kaart van Java en Madoera in 3 delen - West Java, Midden Java en Oost Java.\r\nSchaal 1 : 500.000" .
-<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/437d4e6dab91e6de12db0858ff6cff35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/402" .
-<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Passer te Koeta-Radja.\"\r\nBeschreven: \"K.R. 28/5 '31. Lieve Corry... Mies.\" 16 juni 1931. \r\nUitgave van Köhler & Co. v/h. Sabang Drukkerij, Sabang." .
-<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4396d30061f0d35dc13f467db71d9405> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43657c6acd1a630134f9a971343c4c29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43657c6acd1a630134f9a971343c4c29> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42303" .
 <https://n2t.net/ark:/27023/43657c6acd1a630134f9a971343c4c29> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkampongpas\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\t1895\r\nMateriaal:\tbamboe\r\n\r\nEmailadres: toelichting:\tDe kampongpas (L 20,2; Br 18,1) is gemaakt van papier, is opgerold en in een bamboekoker (L 12,0; Diam 1,9" .
@@ -575,11 +584,6 @@
 <https://n2t.net/ark:/27023/439d1ffa6052711d3721333a0abe7648> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .
 <https://n2t.net/ark:/27023/439d1ffa6052711d3721333a0abe7648> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/439d1ffa6052711d3721333a0abe7648> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#identifier> "EDO%20481-62" .
-<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van voornamelijk inheemse vrouwen, zittend en staand, een enkeling met iets op haar hoofd. De achtergrond bestaat uit palmbomen.\r\n\r\nHet formaat van de foto verhindert veel meer uitleg." .
-<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/438521af25f8ae2fa87f9dd356632f52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4384d51681636a6e2f6e8d776fc6bf02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4384d51681636a6e2f6e8d776fc6bf02> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-106" .
 <https://n2t.net/ark:/27023/4384d51681636a6e2f6e8d776fc6bf02> <https://colonialcollections.nl/schema#name> "Lans" .

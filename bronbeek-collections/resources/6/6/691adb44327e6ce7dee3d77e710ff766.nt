@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/25" .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#name> "Een tapkoelie in actie, vangt met linkerhand de bark op. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Een tapkoelie in actie, vangt met linkerhand de bark op.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nOp foto: \"Goenoeng Pamela\" door fotograaf aangebracht." .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#inscription> "Een tapkoelie in actie, vangt met linkerhand de bark op.; Goenoeng Pamela" .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/8" .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#name> "Weg te Sabang." .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Weg te Sabang'." .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#inscription> "Weg te Sabang" .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/109" .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#name> "plaat 109. Roemah Koring in kg. Sidi Kalang." .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#description> "Foto.\r\nplaat 109. Roemah Koring in kg. Sidi Kalang." .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#inscription> "plaat 109. Roemah Koring in kg. Sidi Kalang." .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b94dce1e6ee1aee5ddce2be6bf43dbbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b94dce1e6ee1aee5ddce2be6bf43dbbd> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-86" .
 <https://n2t.net/ark:/27023/b94dce1e6ee1aee5ddce2be6bf43dbbd> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -19,6 +43,13 @@
 <https://n2t.net/ark:/27023/b959c6ed4d2dc00bd52e1704f04c9ce4> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/b959c6ed4d2dc00bd52e1704f04c9ce4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b959c6ed4d2dc00bd52e1704f04c9ce4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/353" .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Haven, Menado\".\r\nUitgave van Gebr. Que, Menado." .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b96e80c12916413815924786c9dcc033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b96e80c12916413815924786c9dcc033> <https://colonialcollections.nl/schema#identifier> "nf%20638-3" .
 <https://n2t.net/ark:/27023/b96e80c12916413815924786c9dcc033> <https://colonialcollections.nl/schema#name> "Batak kampong Toba" .
@@ -46,12 +77,19 @@
 <https://n2t.net/ark:/27023/b949126531ad74d3ee1c8b265cd44cb7> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/b949126531ad74d3ee1c8b265cd44cb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b949126531ad74d3ee1c8b265cd44cb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b949126531ad74d3ee1c8b265cd44cb7> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/b954f24a1cb3fead04bff6a5c4e169b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b954f24a1cb3fead04bff6a5c4e169b9> <https://colonialcollections.nl/schema#identifier> "nf%201311-1" .
 <https://n2t.net/ark:/27023/b954f24a1cb3fead04bff6a5c4e169b9> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ovaal, als een passe-partout aangeboden in een rechthoekig enigszins vergeeld dun vel karton van A-vier formaat.\r\n\r\nRechtsonder foto de naam van de fotograaf.\r\n\r\nN.B.: het TMS inventarisnummer is in potlood achter op aangebracht." .
 <https://n2t.net/ark:/27023/b954f24a1cb3fead04bff6a5c4e169b9> <https://colonialcollections.nl/schema#creator> "A.C. Thomann" .
 <https://n2t.net/ark:/27023/b954f24a1cb3fead04bff6a5c4e169b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b954f24a1cb3fead04bff6a5c4e169b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#identifier> "nf%20982" .
+<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto, op verschillende plaatsen in inkt geschreven tekst.\r\n'foto Dr. P. Voorhoeve - archief Nusantara - VII 92' en 'Bataklanden - Parholians op Samosir - (nieuw)'\r\n\r\nDe " .
+<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#creator> "P. Voorhoeve" .
+<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b95e60e06df306231deef111c5ed9fef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b95e60e06df306231deef111c5ed9fef> <https://colonialcollections.nl/schema#identifier> "nf%20651" .
 <https://n2t.net/ark:/27023/b95e60e06df306231deef111c5ed9fef> <https://colonialcollections.nl/schema#description> "Huis van een Nederlands gezin of Nederlander, vermoedelijk op Sumatera\r\nOp de achterkant staat geschreven '± 1880 Geschenk Dr Cool'" .
@@ -64,6 +102,12 @@
 <https://n2t.net/ark:/27023/b9611e23f1154ef773b5dc4986dad786> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/b9611e23f1154ef773b5dc4986dad786> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b9611e23f1154ef773b5dc4986dad786> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#identifier> "EDO%20481-86" .
+<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname een menselijke figuur, zittend met gevouwen handen. De gestalte heeft een groot masker voor met bolle ogen en grote tanden.\r\nHet is geplaatst achter een laag muurtje. Op de achtergrond hoge bom" .
+<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b96a889bfe59ba0b50cbcfdf654a5fe7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b96a889bfe59ba0b50cbcfdf654a5fe7> <https://colonialcollections.nl/schema#identifier> "nf%20721-16" .
 <https://n2t.net/ark:/27023/b96a889bfe59ba0b50cbcfdf654a5fe7> <https://colonialcollections.nl/schema#description> "Aangemeerde inlandse roeiboot in smal riviertje. In de verte is bebouwing te zien." .
@@ -84,27 +128,6 @@
 <https://n2t.net/ark:/27023/b95723585266c2c5214b94bbfa6e3046> <https://colonialcollections.nl/schema#inscription> "W" .
 <https://n2t.net/ark:/27023/b95723585266c2c5214b94bbfa6e3046> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b95723585266c2c5214b94bbfa6e3046> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/25" .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#name> "Een tapkoelie in actie, vangt met linkerhand de bark op. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Een tapkoelie in actie, vangt met linkerhand de bark op.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nOp foto: \"Goenoeng Pamela\" door fotograaf aangebracht." .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#inscription> "Een tapkoelie in actie, vangt met linkerhand de bark op.; Goenoeng Pamela" .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b940086db2bd05dec0386be54284df41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/8" .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#name> "Weg te Sabang." .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Weg te Sabang'." .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#inscription> "Weg te Sabang" .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b94069330769526fcc7a19b6ac12a761> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/109" .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#name> "plaat 109. Roemah Koring in kg. Sidi Kalang." .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#description> "Foto.\r\nplaat 109. Roemah Koring in kg. Sidi Kalang." .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#inscription> "plaat 109. Roemah Koring in kg. Sidi Kalang." .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b96a972842a7c9992070ca5727459cd3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b937dc42ceee868a8905cbbb69904337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b937dc42ceee868a8905cbbb69904337> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-116" .
 <https://n2t.net/ark:/27023/b937dc42ceee868a8905cbbb69904337> <https://colonialcollections.nl/schema#name> "Een berg- of vulkaanlandschap met een meer" .
@@ -525,12 +548,6 @@
 <https://n2t.net/ark:/27023/b979a3f055a7aa63033058cb0a7e591a> <https://colonialcollections.nl/schema#description> "Voorlopig voorschrift Administratie van Kleding en Uitrusting van het Koninklijk Nederlandsch Indisch Leger en de Koninklijke Landmacht (A.K.U.) september 1946.\r\nOok bijgevoegd de bijbehorende modellen." .
 <https://n2t.net/ark:/27023/b979a3f055a7aa63033058cb0a7e591a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b979a3f055a7aa63033058cb0a7e591a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/353" .
-<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Haven, Menado\".\r\nUitgave van Gebr. Que, Menado." .
-<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b96e4eca12ebcfbbcf909191a2ef0cfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b93b8dfd725a1f4dc60c805de8cc40cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b93b8dfd725a1f4dc60c805de8cc40cb> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43621" .
 <https://n2t.net/ark:/27023/b93b8dfd725a1f4dc60c805de8cc40cb> <https://colonialcollections.nl/schema#description> "Draagkorf met deksel" .
@@ -581,16 +598,6 @@
 <https://n2t.net/ark:/27023/b979f19cca3f73e2bd7fd1d74de5b989> <https://colonialcollections.nl/schema#description> "Bamboe pijlpunt" .
 <https://n2t.net/ark:/27023/b979f19cca3f73e2bd7fd1d74de5b989> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b979f19cca3f73e2bd7fd1d74de5b989> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#identifier> "nf%20982" .
-<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto, op verschillende plaatsen in inkt geschreven tekst.\r\n'foto Dr. P. Voorhoeve - archief Nusantara - VII 92' en 'Bataklanden - Parholians op Samosir - (nieuw)'\r\n\r\nDe " .
-<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b95af21168cc7d3f824678e690d2619c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#identifier> "EDO%20481-86" .
-<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname een menselijke figuur, zittend met gevouwen handen. De gestalte heeft een groot masker voor met bolle ogen en grote tanden.\r\nHet is geplaatst achter een laag muurtje. Op de achtergrond hoge bom" .
-<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b966f5fa0c840e038743786bb80f0341> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b979e4c9594647dc875c6a4ccfa18846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b979e4c9594647dc875c6a4ccfa18846> <https://colonialcollections.nl/schema#identifier> "1863/12-1-41" .
 <https://n2t.net/ark:/27023/b979e4c9594647dc875c6a4ccfa18846> <https://colonialcollections.nl/schema#name> "Philips van Marnix, Heer van St. Algonda, burgemeester der stad Antwerpen" .

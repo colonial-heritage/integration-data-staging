@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/6bb2ed84d4b06196d1ef26ef16e60cf5> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/6bb2ed84d4b06196d1ef26ef16e60cf5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bb2ed84d4b06196d1ef26ef16e60cf5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/3" .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Javaansche kinderen-Serie" .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Javaansche kinderen-Serie.\r\nBevat 11 prentbriefkaarten, los in een groene kaft/omslag. Op kaft in blauw potlood: \"5\".\r\n" .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Javaansche kinderen-Serie." .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#creator> "N.V. Handel Maatschappij Appel & Duveen" .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6bba8c0cbd062bb2a0e2603871e2128b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6bba8c0cbd062bb2a0e2603871e2128b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/421" .
 <https://n2t.net/ark:/27023/6bba8c0cbd062bb2a0e2603871e2128b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -13,6 +21,14 @@
 <https://n2t.net/ark:/27023/6bba8c0cbd062bb2a0e2603871e2128b> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/6bba8c0cbd062bb2a0e2603871e2128b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bba8c0cbd062bb2a0e2603871e2128b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#identifier> "nf%20541" .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#name> "Moskee te Kotaradja" .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#description> "Mesigit Raja te Kotta Radja (Atjeh) Banda Aceh" .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#creator> "Topografische Dienst in Nederlandsch-Indië (Batavia)" .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#creator> "H.W. Brauer" .
 <https://n2t.net/ark:/27023/6bd13b4d39594e482b8165b29e308eb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6bd13b4d39594e482b8165b29e308eb4> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-5" .
 <https://n2t.net/ark:/27023/6bd13b4d39594e482b8165b29e308eb4> <https://colonialcollections.nl/schema#name> "Carte de cabinet: Raden ajoe Tjiandoer" .
@@ -24,9 +40,10 @@
 <https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#identifier> "nf%20819" .
 <https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#name> "Militair Zwembasin bij Kali Ello. Magelang" .
 <https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van het militair zwembasin bij Kali Ello te Magelang.\r\n\r\nmidden onderaan op de voorkant staat vermeld: 'Militair Zwembasin bij Kali Ello. Magelang'\r\n\r\nGedeelde achterkant met links onderaan vermeld 'naam' en 'adres' met daa" .
-<https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
 <https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6bd6d5393a165c19fd7b10928bcc3ed2> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/6be5eb9379831b4d29825fd5993eb083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6be5eb9379831b4d29825fd5993eb083> <https://colonialcollections.nl/schema#identifier> "nf%20925-13-1" .
 <https://n2t.net/ark:/27023/6be5eb9379831b4d29825fd5993eb083> <https://colonialcollections.nl/schema#name> "in sarong en kabaai" .
@@ -54,6 +71,18 @@
 <https://n2t.net/ark:/27023/6bbbd13ce4b18cbd056c562798d237ad> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6bbbd13ce4b18cbd056c562798d237ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bbbd13ce4b18cbd056c562798d237ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-65" .
+<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nVeel mensen op de been. \r\nCentraal een (verbrandings)toren, met onderaan een heel grote ?Garudakop. Er omheen een grote mensen menigte." .
+<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#identifier> "nf%20841-66-1" .
+<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOp fotopagina 66 is in rood de volgende tekst geschreven, waarschijnlijk geldend voor 4 van de 5 foto's. Deze tekst luidt: \"De T.N.I. voor besprekingen" .
+<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#creator> "Wim van Leeuwen" .
+<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6bdf97a02b1bba24d3c18f0f5864b20a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6bdf97a02b1bba24d3c18f0f5864b20a> <https://colonialcollections.nl/schema#identifier> "nf%201724" .
 <https://n2t.net/ark:/27023/6bdf97a02b1bba24d3c18f0f5864b20a> <https://colonialcollections.nl/schema#description> "Foto, stereofoto, zwart/wit, twee foto's naast elkaar geplakt op bruin karton, los aangetroffen. \r\n\r\nOpnames tonen een weggetje, met daarop twee tweewielige voertuigen (grobak). De voorste wordt getrokken door twee koeien. De kar zelf heeft een overkappin" .
@@ -102,13 +131,6 @@
 <https://n2t.net/ark:/27023/6bf15967dcfb16d523228fd7a7f2811b> <https://colonialcollections.nl/schema#inscription> "N.A. Vrijman" .
 <https://n2t.net/ark:/27023/6bf15967dcfb16d523228fd7a7f2811b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bf15967dcfb16d523228fd7a7f2811b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/3" .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Javaansche kinderen-Serie" .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Javaansche kinderen-Serie.\r\nBevat 11 prentbriefkaarten, los in een groene kaft/omslag. Op kaft in blauw potlood: \"5\".\r\n" .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Javaansche kinderen-Serie." .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6bd8a068852c364ec2facc8b37200fea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6baf1a1d47ad82d9045e618d7a682888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6baf1a1d47ad82d9045e618d7a682888> <https://colonialcollections.nl/schema#identifier> "2004/01/13-1-6/5" .
 <https://n2t.net/ark:/27023/6baf1a1d47ad82d9045e618d7a682888> <https://colonialcollections.nl/schema#name> "Bouwtekening met plattegronden en legenda van het Koninklijk Tehuis voor  Oud Militairen \"Bronbeek\" in Arnhem" .
@@ -511,12 +533,6 @@
 <https://n2t.net/ark:/27023/6bf5d886b44feec4f5687553c26f448d> <https://colonialcollections.nl/schema#description> "Stafkaart Java en Madoera, gedrukt in oktober 1945 door HQ Reproduction Coy R.E." .
 <https://n2t.net/ark:/27023/6bf5d886b44feec4f5687553c26f448d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bf5d886b44feec4f5687553c26f448d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#identifier> "nf%20541" .
-<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#name> "Moskee te Kotaradja" .
-<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#description> "Mesigit Raja te Kotta Radja (Atjeh) Banda Aceh" .
-<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6bbbf8d7672cb759109af00c06191782> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6bae563590fef59e7fb2497d04d94290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6bae563590fef59e7fb2497d04d94290> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-27/63" .
 <https://n2t.net/ark:/27023/6bae563590fef59e7fb2497d04d94290> <https://colonialcollections.nl/schema#description> "Foto." .
@@ -577,21 +593,14 @@
 <https://n2t.net/ark:/27023/6bf0d0eeb1da56d3490b8103ede3645b> <https://colonialcollections.nl/schema#description> "Schacht van rietstengel (nerf palmblad?) met aan het achtereinde veren en een keep voor het koord van de boog, aan het vooreinde een houten stuk met cirkelvormige doorsnede en een ijzeren punt met weerhaken.\r\nHerkomst: Nieuw Guinea." .
 <https://n2t.net/ark:/27023/6bf0d0eeb1da56d3490b8103ede3645b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6bf0d0eeb1da56d3490b8103ede3645b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-65" .
-<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nVeel mensen op de been. \r\nCentraal een (verbrandings)toren, met onderaan een heel grote ?Garudakop. Er omheen een grote mensen menigte." .
-<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6bcde32ed2f6a9ebcc873d71b19aead1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#identifier> "nf%20841-66-1" .
-<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, met in inkt geschreven bij- onderschrift.\r\n\r\nOp fotopagina 66 is in rood de volgende tekst geschreven, waarschijnlijk geldend voor 4 van de 5 foto's. Deze tekst luidt: \"De T.N.I. voor besprekingen" .
-<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6bdee7f240ae8267cccd7969384d2bac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#identifier> "1885/09-1-00" .
 <https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#name> "Portret van Gustaaf Willem Baron van Imhoff, gouverneur-generaal van Neerl.-Indië AT.XXXVII." .
+<https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#creator> "N. Verkolje" .
 <https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#creator> "J.M. Quinkhard" .
+<https://n2t.net/ark:/27023/6be7e855164eded3fe2571d76a1a376b> <https://colonialcollections.nl/schema#creator> "Is. Tirion" .
 <https://n2t.net/ark:/27023/6bc859ad9b3b649c48fa6c1b281db598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6bc859ad9b3b649c48fa6c1b281db598> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/470" .
 <https://n2t.net/ark:/27023/6bc859ad9b3b649c48fa6c1b281db598> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/49" .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#name> "Plaat 49. Oerang Sepang uit Penampakan." .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 49. Oerang Sepang uit Penampakan." .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#inscription> "Plaat 49. Oerang Sepang uit Penampakan." .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c1cfb3193ab1d579384b99e253d8c99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c1cfb3193ab1d579384b99e253d8c99> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-1/3" .
 <https://n2t.net/ark:/27023/2c1cfb3193ab1d579384b99e253d8c99> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Station. Priok, \"Katholiek Thuisfront\"" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/2c1cfb3193ab1d579384b99e253d8c99> <https://colonialcollections.nl/schema#creator> "Katholiek Thuisfront" .
 <https://n2t.net/ark:/27023/2c1cfb3193ab1d579384b99e253d8c99> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c1cfb3193ab1d579384b99e253d8c99> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#identifier> "nf%20859" .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#name> "Sahel na de ramp" .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#description> "Film op spoel in metalen blik, met de titel 'Sahel na de Ramp', NCRV film" .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#creator> "NOVIB" .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c2d4dd07fe4d46bbea9412cd144537a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c2d4dd07fe4d46bbea9412cd144537a> <https://colonialcollections.nl/schema#identifier> "nf%201413-170" .
 <https://n2t.net/ark:/27023/2c2d4dd07fe4d46bbea9412cd144537a> <https://colonialcollections.nl/schema#name> "Pasar langs de soengei. Verkoop van gevogelte en vis" .
@@ -26,6 +41,13 @@
 <https://n2t.net/ark:/27023/2c43a11e500db02cc7d16941768e3ffa> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/2c43a11e500db02cc7d16941768e3ffa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c43a11e500db02cc7d16941768e3ffa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/157" .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia. 1279. Sluis Goenoeng Sahari." .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c4db4518738f4583abb38ce25bb5e1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c4db4518738f4583abb38ce25bb5e1b> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/191" .
 <https://n2t.net/ark:/27023/2c4db4518738f4583abb38ce25bb5e1b> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -33,12 +55,25 @@
 <https://n2t.net/ark:/27023/2c4db4518738f4583abb38ce25bb5e1b> <https://colonialcollections.nl/schema#creator> "Ebner" .
 <https://n2t.net/ark:/27023/2c4db4518738f4583abb38ce25bb5e1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c4db4518738f4583abb38ce25bb5e1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#identifier> "1890/05-2-4" .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#name> "Portret van sergeant der artillerie G.J. ter Woord, MWO-3" .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#description> "Prent. Portret, borststuk naar links gekeerd. ter Woord in burgerkleding met 3 medailles op de borst. MWO, EBK met EV en 2 gespen en TD. Boven rechterschouder: \"R.Raab\"" .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#creator> "R. Raap" .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c1f648b5b14b8bb40136e0814907865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c1f648b5b14b8bb40136e0814907865> <https://colonialcollections.nl/schema#identifier> "nf%201307-3-3" .
 <https://n2t.net/ark:/27023/2c1f648b5b14b8bb40136e0814907865> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, (slordig) afgeknipt, opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont drie blanke personen, een man en twee vrouwen. Zij staan naast elkaar, zijn in het wit gekleed, poserend voor de foto. \r\nDe achtergrond en de bocht van de" .
 <https://n2t.net/ark:/27023/2c1f648b5b14b8bb40136e0814907865> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2c1f648b5b14b8bb40136e0814907865> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c1f648b5b14b8bb40136e0814907865> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#identifier> "nf%20706-2" .
+<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#description> "Groepsfoto, grote groep westerse en Indonesische mensen staan voor, en op de veranda van, een aan de binnenkant met slingers versierd gebouw, Pamekasan.\r\n\r\nrechtsonder staat in reliëf 'Fotax Soerabaia'\r\n\r\nOp de achterkant staat geschreven 'Pamekasan, 1934" .
+<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#creator> "Fotax Soerabaia" .
+<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c3644af518482185638da62df24d007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c3644af518482185638da62df24d007> <https://colonialcollections.nl/schema#identifier> "nf%201450" .
 <https://n2t.net/ark:/27023/2c3644af518482185638da62df24d007> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achter kant van foto is in inkt de volgende tekst geschreven:\r\nBandjermasin, 25 April 1910 - Vrouwen en kinderen varen voortsurend in prauwen.\r\nAlles gebeurt op het water, bijv. een vader zit op een boomstam die in" .
@@ -77,13 +112,6 @@
 <https://n2t.net/ark:/27023/2c5b6f316fdb9d9aaae311d9bad6b817> <https://colonialcollections.nl/schema#inscription> "1e Luitenant van het Korps Marechaussee F. Darlang - Atjeh Juli-December 1903; Koningin Wilhelmina -  voor betoonde dapperheid" .
 <https://n2t.net/ark:/27023/2c5b6f316fdb9d9aaae311d9bad6b817> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c5b6f316fdb9d9aaae311d9bad6b817> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/49" .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#name> "Plaat 49. Oerang Sepang uit Penampakan." .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 49. Oerang Sepang uit Penampakan." .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#inscription> "Plaat 49. Oerang Sepang uit Penampakan." .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c507dd5a0c3ccae33cdedbdd1831704> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c115b00b5bbe24a5b9b010412e72f6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c115b00b5bbe24a5b9b010412e72f6b> <https://colonialcollections.nl/schema#identifier> "1996/05/03-1-1/7" .
 <https://n2t.net/ark:/27023/2c115b00b5bbe24a5b9b010412e72f6b> <https://colonialcollections.nl/schema#name> "Luchtfoto Tjinagara. West Java. lengte: 108°06´O. breedte: 07°08´Z. intelligence op 3 juni 1947" .
@@ -534,24 +562,6 @@
 <https://n2t.net/ark:/27023/2c5d6c06d4b35adeffe28aa49092ecc0> <https://colonialcollections.nl/schema#description> "Onderscheidingen van Schipper Jacob Kaak. Spang met medailles: Oorlogsherinneringskruis met de gespen Nederland mei 1940, Middellandse Zee 1940-1945, Krijg ter Zee 1940-1945. Ereteken Orde en Vrede met de gespen 1948 & 1949. Trouwe Dienst in zilver (Marin" .
 <https://n2t.net/ark:/27023/2c5d6c06d4b35adeffe28aa49092ecc0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c5d6c06d4b35adeffe28aa49092ecc0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#identifier> "nf%20859" .
-<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#name> "Sahel na de ramp" .
-<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#description> "Film op spoel in metalen blik, met de titel 'Sahel na de Ramp', NCRV film" .
-<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c205476382290d16053ee757cf3c7ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/157" .
-<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia. 1279. Sluis Goenoeng Sahari." .
-<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c45093c6924fa16aa4708f31abd95ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#identifier> "1890/05-2-4" .
-<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#name> "Portret van sergeant der artillerie G.J. ter Woord, MWO-3" .
-<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#description> "Prent. Portret, borststuk naar links gekeerd. ter Woord in burgerkleding met 3 medailles op de borst. MWO, EBK met EV en 2 gespen en TD. Boven rechterschouder: \"R.Raab\"" .
-<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c5d78b445e76b03816c8e2f1f459e20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c20985f794ad4961bdaf3fb3e773930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c20985f794ad4961bdaf3fb3e773930> <https://colonialcollections.nl/schema#identifier> "S%20166-4" .
 <https://n2t.net/ark:/27023/2c20985f794ad4961bdaf3fb3e773930> <https://colonialcollections.nl/schema#description> "Ook wel brandbrief genoemd. Bestaande uit een doormidden gesneden stuk bamboe met Batakschrift, een bundel ijuk, een nagemaakt bamboezwaard, een nagemaakt bamboegeweer en een voetangel.\r\nHerkomst: Bataklanden.\r\n(aanwezig zouden moeten zijn: 'handschrift' " .
@@ -582,11 +592,6 @@
 <https://n2t.net/ark:/27023/2c47814865be637d736b5ea45f178816> <https://colonialcollections.nl/schema#description> "Lage, rode kast met 1 lade versierd met swastika- , bloem- en plantmotieven." .
 <https://n2t.net/ark:/27023/2c47814865be637d736b5ea45f178816> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c47814865be637d736b5ea45f178816> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#identifier> "nf%20706-2" .
-<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#description> "Groepsfoto, grote groep westerse en Indonesische mensen staan voor, en op de veranda van, een aan de binnenkant met slingers versierd gebouw, Pamekasan.\r\n\r\nrechtsonder staat in reliëf 'Fotax Soerabaia'\r\n\r\nOp de achterkant staat geschreven 'Pamekasan, 1934" .
-<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c30672ce2b192eab22853d75bb1b7dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c30217c47284c37b287ba6ce30ed317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c30217c47284c37b287ba6ce30ed317> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-2/58" .
 <https://n2t.net/ark:/27023/2c30217c47284c37b287ba6ce30ed317> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

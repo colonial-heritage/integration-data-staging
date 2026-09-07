@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-112" .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#name> "Carte de visite: W. Binnendijk" .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. W. Binnendijk" .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#inscription> "W. Binnendijk" .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#creator> "Petz & Co, Photografen, Batavia" .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <https://colonialcollections.nl/schema#identifier> "2001/00-1" .
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <https://colonialcollections.nl/schema#name> "De Javasche karbouw" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <https://colonialcollections.nl/schema#creator> "C.W. Mieling" .
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <https://colonialcollections.nl/schema#creator> "Frans Lebret" .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#identifier> "1997/00-1/268" .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#name> "Kaart van Poelautelo, Tanahmasa Island en Siberoet Island, Sumatra?" .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#description> "Kaart van Poelautelo, Tanahmasa Island en Siberoet Island, Sumatra? Uit de reeks Asia.\r\nSchaal 1: 500.000; Uitg. Base Survey Coy. E.A.E. sept.1944. Hind 5002, 1st edition 1944. Sheet SA-47/NW." .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#creator> "Base Survey Coy." .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/12f042e13757d933d284f5183f077394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/12f042e13757d933d284f5183f077394> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-13" .
 <https://n2t.net/ark:/27023/12f042e13757d933d284f5183f077394> <https://colonialcollections.nl/schema#name> "Tekening Straatje in Weert 30/9/'45" .
@@ -34,6 +50,20 @@
 <https://n2t.net/ark:/27023/12f8075963f2ca314b42032380d50c7a> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/12f8075963f2ca314b42032380d50c7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/12f8075963f2ca314b42032380d50c7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#identifier> "2018/06/11-4-6" .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#name> "Kaarten van Poeloe Brayan" .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#description> "Kaarten van Poeloe Brayan, 3 stuks, getekend in kleur. Gesigneerd M. van Ommen. Kookscene's, september 1944. Pulu Brayan, Medan, Noord-Sumatra.\r\n1. Het Dorado der Vrouwen. Interneringskamp P. Brayan, Naam: A. Domsdorf Bloknr.: B108\r\n2. Poeloe Brayan - Vac" .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#creator> "mevrouw M. van Ommen" .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#identifier> "nf%20802" .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#name> "Het Ravyn met Tangsileiding, Magelang" .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van een ravijn met Tangsileiding te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Het Ravyn met Tangsileiding, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67766'\r\n\r\nGedeelde achterkant met bovenaan (in h" .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/131f1a0da6159137ea999288b3cd56d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/131f1a0da6159137ea999288b3cd56d5> <https://colonialcollections.nl/schema#identifier> "2015/01/22-1-5/6" .
 <https://n2t.net/ark:/27023/131f1a0da6159137ea999288b3cd56d5> <https://colonialcollections.nl/schema#name> "Willemskerk Koningsplein" .
@@ -41,6 +71,13 @@
 <https://n2t.net/ark:/27023/131f1a0da6159137ea999288b3cd56d5> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/131f1a0da6159137ea999288b3cd56d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/131f1a0da6159137ea999288b3cd56d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#identifier> "1993/10/04-3-1" .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#name> "Voorstelling van een Balinees verhaal" .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#description> "Tekening van IDA Bagoes Poetoe Atik van Batoean (Bali)." .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#creator> "Ida Bagoes Poetoe Atik van Batoean" .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/132ca1ffa861f9257e285471b2e322f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/132ca1ffa861f9257e285471b2e322f8> <https://colonialcollections.nl/schema#identifier> "nf%20881-7" .
 <https://n2t.net/ark:/27023/132ca1ffa861f9257e285471b2e322f8> <https://colonialcollections.nl/schema#name> "M.S. Christiaan Huygens van Stoomvaart Maatschappij Nederland" .
@@ -134,13 +171,6 @@
 <https://n2t.net/ark:/27023/1336497e9ba521b44a2925f92634791a> <https://colonialcollections.nl/schema#inscription> "TUHAN BERSAMA KITA" .
 <https://n2t.net/ark:/27023/1336497e9ba521b44a2925f92634791a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1336497e9ba521b44a2925f92634791a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-112" .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#name> "Carte de visite: W. Binnendijk" .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. W. Binnendijk" .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#inscription> "W. Binnendijk" .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/12eb962063dee25426c1a9827d92e4b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/12f0f0a393eef10646615731d8ef5e6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/12f0f0a393eef10646615731d8ef5e6c> <https://colonialcollections.nl/schema#identifier> "2008/07/15-5-20" .
 <https://n2t.net/ark:/27023/12f0f0a393eef10646615731d8ef5e6c> <https://colonialcollections.nl/schema#name> "Koker met dop, versierd met geometrische motieven uit Nieuw Guinea (1960)" .
@@ -525,30 +555,6 @@
 <https://n2t.net/ark:/27023/133936355d1bb257eb7c04d23829c0de> <https://colonialcollections.nl/schema#description> "Kapmes." .
 <https://n2t.net/ark:/27023/133936355d1bb257eb7c04d23829c0de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/133936355d1bb257eb7c04d23829c0de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#identifier> "1997/00-1/268" .
-<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#name> "Kaart van Poelautelo, Tanahmasa Island en Siberoet Island, Sumatra?" .
-<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#description> "Kaart van Poelautelo, Tanahmasa Island en Siberoet Island, Sumatra? Uit de reeks Asia.\r\nSchaal 1: 500.000; Uitg. Base Survey Coy. E.A.E. sept.1944. Hind 5002, 1st edition 1944. Sheet SA-47/NW." .
-<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/12ec74cef397db2ef949a28993d0ac7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#identifier> "2018/06/11-4-6" .
-<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#name> "Kaarten van Poeloe Brayan" .
-<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#description> "Kaarten van Poeloe Brayan, 3 stuks, getekend in kleur. Gesigneerd M. van Ommen. Kookscene's, september 1944. Pulu Brayan, Medan, Noord-Sumatra.\r\n1. Het Dorado der Vrouwen. Interneringskamp P. Brayan, Naam: A. Domsdorf Bloknr.: B108\r\n2. Poeloe Brayan - Vac" .
-<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1313e3e268906bdc35499861eae99859> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#identifier> "nf%20802" .
-<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#name> "Het Ravyn met Tangsileiding, Magelang" .
-<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van een ravijn met Tangsileiding te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Het Ravyn met Tangsileiding, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67766'\r\n\r\nGedeelde achterkant met bovenaan (in h" .
-<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1315b6a3d562660dccd7ef3ac0a272b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#identifier> "1993/10/04-3-1" .
-<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#name> "Voorstelling van een Balinees verhaal" .
-<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#description> "Tekening van IDA Bagoes Poetoe Atik van Batoean (Bali)." .
-<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1327b9a443f45fd5958eb3f43ea6d355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/12f908409bfc5fb279eedfde403d764d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/12f908409bfc5fb279eedfde403d764d> <https://colonialcollections.nl/schema#identifier> "nf%20843-45" .
 <https://n2t.net/ark:/27023/12f908409bfc5fb279eedfde403d764d> <https://colonialcollections.nl/schema#description> "Foto van een heuvelachtig landschap bij avondlicht? of voor de storm?, te Borneo." .

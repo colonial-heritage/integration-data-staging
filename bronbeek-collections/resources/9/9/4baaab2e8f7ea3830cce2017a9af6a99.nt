@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/76" .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#name> "Plaat 76. Model van een Alasch Huis(achterzijde)." .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 76. Model van een Alasch Huis(achterzijde).\r\nFoto beschadigd met vlekken." .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#inscription> "Plaat 76. Model van een Alasch Huis(achterzijde)." .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#identifier> "2005/00-607/21" .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#name> "Foto van een bed van de sultan van Bedagei" .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Bed van de sultan van Bedagei met enkele [bedienden]\r\n\r\nrecto: in witte inkt \"Katil di astana Bedagai\"\r\nverso: in potlood \"photo genomen Augustus 1930 [.......] Astana Sulthan Badagei Tandjong Baingin Soengei Rampa[.] Sumatra oostkust\"" .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/448fba1222449fcea8b57ae907199c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/448fba1222449fcea8b57ae907199c3c> <https://colonialcollections.nl/schema#identifier> "2005/05/19-1" .
 <https://n2t.net/ark:/27023/448fba1222449fcea8b57ae907199c3c> <https://colonialcollections.nl/schema#name> "Fotoalbum van F.C. Mol met opnamen uit Ned. Indië van rond 1917" .
@@ -26,6 +41,13 @@
 <https://n2t.net/ark:/27023/44bab770d61fc9e24d729673374330ca> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/44bab770d61fc9e24d729673374330ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/44bab770d61fc9e24d729673374330ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#identifier> "1997/08/26-2-3" .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#name> "Foto's KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#description> "Foto's Bronbeek 1997/02/19, gemaakt door Ab Baak.\r\nGemaakt  t.g.v. de uitgave van het boek van W. Bevaart over Bronbeek" .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#creator> "Ab Baak" .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/447c0cda354526cfbc6c649c49e462d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/447c0cda354526cfbc6c649c49e462d0> <https://colonialcollections.nl/schema#identifier> "nf%2028" .
 <https://n2t.net/ark:/27023/447c0cda354526cfbc6c649c49e462d0> <https://colonialcollections.nl/schema#description> "Glasnegatief, zwart/wit\r\n\r\nGroepje van twee vrouwen en twee blote kinderen bij een pijp waar water uitkomt; een vrouw is aan het wassen." .
@@ -56,19 +78,24 @@
 <https://n2t.net/ark:/27023/449483d88f9ab039b442d7678517dd91> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/449483d88f9ab039b442d7678517dd91> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/449483d88f9ab039b442d7678517dd91> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#identifier> "EDO%20481-114" .
+<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nLandschapsopname van een meer met bergen op de achtergrond. Op de voorgrond is ook nog een afrastering van (prikkel)draad te zien.\r\nEer zijn wat flarden lage wolkjes te zien." .
+<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#identifier> "nf%20323-12-1" .
+<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#description> "bijschrift; 'Sitah'" .
+<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44bbd9cc61bd609fcab3461efd77dbaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44bbd9cc61bd609fcab3461efd77dbaf> <https://colonialcollections.nl/schema#identifier> "nf%201896-9" .
 <https://n2t.net/ark:/27023/44bbd9cc61bd609fcab3461efd77dbaf> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, met anderen los aangetroffen in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een smalspoor spoorlijn. \r\nSpoorlijnen als deze werden aangelegd op oliepalmondernemingen, voor het afvoeren van de afgehakte oliepalmtrossen.\r\n\r\nN.B.: Bij" .
 <https://n2t.net/ark:/27023/44bbd9cc61bd609fcab3461efd77dbaf> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/44bbd9cc61bd609fcab3461efd77dbaf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/44bbd9cc61bd609fcab3461efd77dbaf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/76" .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#name> "Plaat 76. Model van een Alasch Huis(achterzijde)." .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 76. Model van een Alasch Huis(achterzijde).\r\nFoto beschadigd met vlekken." .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#inscription> "Plaat 76. Model van een Alasch Huis(achterzijde)." .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/44b89f37a169a78170f1d268ddcda478> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/447b4f4f216e3bc7ec732b5c51d4c918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/447b4f4f216e3bc7ec732b5c51d4c918> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/26" .
 <https://n2t.net/ark:/27023/447b4f4f216e3bc7ec732b5c51d4c918> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
@@ -507,18 +534,6 @@
 <https://n2t.net/ark:/27023/44bf0a49bcbc2985fe621acf0d22ef41> <https://colonialcollections.nl/schema#description> "Foto van het kerkgebouw der Protestantsche Gemeente te Djember.\r\nOp achterzijde: \"Idem, onze nieuwe kerk Ingewijd 22/4 ´35\"" .
 <https://n2t.net/ark:/27023/44bf0a49bcbc2985fe621acf0d22ef41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/44bf0a49bcbc2985fe621acf0d22ef41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#identifier> "2005/00-607/21" .
-<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#name> "Foto van een bed van de sultan van Bedagei" .
-<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Bed van de sultan van Bedagei met enkele [bedienden]\r\n\r\nrecto: in witte inkt \"Katil di astana Bedagai\"\r\nverso: in potlood \"photo genomen Augustus 1930 [.......] Astana Sulthan Badagei Tandjong Baingin Soengei Rampa[.] Sumatra oostkust\"" .
-<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/448ee2cb8b126a45b32247f9aeab160f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#identifier> "1997/08/26-2-3" .
-<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#name> "Foto's KTOMM Bronbeek" .
-<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#description> "Foto's Bronbeek 1997/02/19, gemaakt door Ab Baak.\r\nGemaakt  t.g.v. de uitgave van het boek van W. Bevaart over Bronbeek" .
-<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/44bcc537a2f8fff82e9c9af1ca60cccd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44820465310e8a7bc6b532db6ec9432a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44820465310e8a7bc6b532db6ec9432a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41813" .
 <https://n2t.net/ark:/27023/44820465310e8a7bc6b532db6ec9432a> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tgendi\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgebakken\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2346\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2346] Depot, 40, L e [40 L e]\r\nh" .
@@ -569,16 +584,6 @@
 <https://n2t.net/ark:/27023/44bc11fa86a26db5190cc1a3f4adb001> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .
 <https://n2t.net/ark:/27023/44bc11fa86a26db5190cc1a3f4adb001> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/44bc11fa86a26db5190cc1a3f4adb001> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#identifier> "EDO%20481-114" .
-<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nLandschapsopname van een meer met bergen op de achtergrond. Op de voorgrond is ook nog een afrastering van (prikkel)draad te zien.\r\nEer zijn wat flarden lage wolkjes te zien." .
-<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/44a9043fdb9156b2a8d7fb9636b9b9bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#identifier> "nf%20323-12-1" .
-<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#description> "bijschrift; 'Sitah'" .
-<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/44ab6754942453c7f08e9073f2978c60> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/449d89b200588720d647d87a71ea07b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/449d89b200588720d647d87a71ea07b5> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/475" .
 <https://n2t.net/ark:/27023/449d89b200588720d647d87a71ea07b5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

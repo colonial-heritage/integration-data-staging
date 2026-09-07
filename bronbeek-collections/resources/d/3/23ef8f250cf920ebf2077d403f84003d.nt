@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/eb791388d09dc67f7744a41d6c19f630> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/eb791388d09dc67f7744a41d6c19f630> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb791388d09dc67f7744a41d6c19f630> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/138" .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#name> "Cremation Coffin, Bali" .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Cremation Coffin, Bali" .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb809cb7c92860e39d2cc4c02078f47d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb809cb7c92860e39d2cc4c02078f47d> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-5/7" .
 <https://n2t.net/ark:/27023/eb809cb7c92860e39d2cc4c02078f47d> <https://colonialcollections.nl/schema#name> "Kerkhof te Tavoy" .
@@ -26,6 +33,13 @@
 <https://n2t.net/ark:/27023/eb9ff24e1991224cf640def2da90a937> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/eb9ff24e1991224cf640def2da90a937> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb9ff24e1991224cf640def2da90a937> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#identifier> "nf%201440" .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#name> "Adonarese krijger" .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los, opgeborgen tussen zuurvrije schultbladen in envelop.\r\n\r\nOp achterkant meegedrukte tekst: 'FLORES - Adonareesche Krijger - Pater F. Kluiters S.V.D. - Missionaris - Larantoeka, Eil. Flores N.O.I. - Giro Uden N.B. 338461 '.\r\n\r\nOpnme too" .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#creator> "Pater F Kluiters S.V.D." .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <https://colonialcollections.nl/schema#identifier> "nf%20836-38-3" .
 <https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <https://colonialcollections.nl/schema#name> "Op weg naar de badkamer" .
@@ -33,6 +47,7 @@
 <https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ebb1dbd789ba1f63759f0eddc8aebbb0> <https://colonialcollections.nl/schema#creator> "Jeanne Hermine Knaap" .
 <https://n2t.net/ark:/27023/ebbca136436787d7e220db99ff5202fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ebbca136436787d7e220db99ff5202fb> <https://colonialcollections.nl/schema#identifier> "2003/03/01-1-10" .
 <https://n2t.net/ark:/27023/ebbca136436787d7e220db99ff5202fb> <https://colonialcollections.nl/schema#name> "Mouwembleem, metaal" .
@@ -64,6 +79,12 @@
 <https://n2t.net/ark:/27023/eba190aee5c1f3760ea7a36c631d9d74> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/eba190aee5c1f3760ea7a36c631d9d74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eba190aee5c1f3760ea7a36c631d9d74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#identifier> "EDO%20481-27" .
+<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van iets onduidelijks. Op de voorgrond twee evenwijdige lage muurtjes met op gelijke afstand daarop aangebrachte sokkels waarop weer in steen gebeeldhouwde figuren staan. Daarachter een hogere " .
+<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eba87061fea4a67b3520af02de4db74d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eba87061fea4a67b3520af02de4db74d> <https://colonialcollections.nl/schema#identifier> "nf%201592" .
 <https://n2t.net/ark:/27023/eba87061fea4a67b3520af02de4db74d> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst in potlood: 'Juni 1920 - ?Boerra doerra? (Soemedang) - aloon aloon voor de woning v/d wedana. De Tampomas op den achtergrond'.\r\n\r\nOpname toont een grasveld" .
@@ -506,18 +527,6 @@
 <https://n2t.net/ark:/27023/ebc43c0af9c61a8b8ec2960d3ceb54f4> <https://colonialcollections.nl/schema#description> "Medaille, aan lint. Ereteken voor Belangrijke Krijgsverrichtingen met twee gespen;  Atjeh 1896-1900 en Atjeh 1901-1905." .
 <https://n2t.net/ark:/27023/ebc43c0af9c61a8b8ec2960d3ceb54f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ebc43c0af9c61a8b8ec2960d3ceb54f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/138" .
-<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#name> "Cremation Coffin, Bali" .
-<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Cremation Coffin, Bali" .
-<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eb7920e8308784055a3a4136818494c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#identifier> "nf%201440" .
-<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#name> "Adonarese krijger" .
-<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los, opgeborgen tussen zuurvrije schultbladen in envelop.\r\n\r\nOp achterkant meegedrukte tekst: 'FLORES - Adonareesche Krijger - Pater F. Kluiters S.V.D. - Missionaris - Larantoeka, Eil. Flores N.O.I. - Giro Uden N.B. 338461 '.\r\n\r\nOpnme too" .
-<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ebb045b44bb3a64104cdecc9756b3409> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb7c6f8fdbf710049d7922b1915f51c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb7c6f8fdbf710049d7922b1915f51c9> <https://colonialcollections.nl/schema#identifier> "nf%201414-62" .
 <https://n2t.net/ark:/27023/eb7c6f8fdbf710049d7922b1915f51c9> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 62, staat vermeld: 1-37 Kalioerang\r\n\r\nOpname toont een zembad buiten. Links zijn kleedhokjes te zien. De achtergrond is een redelijk steile, begroeide h" .
@@ -583,11 +592,6 @@
 <https://n2t.net/ark:/27023/ebbbc9a1a3a3fa740922a3f67053fb8d> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, met bijschrift.\r\n\r\nDit bijschrift in inkt geschreven luidt: 'gefotografeerd voor vader's jaardag, April 1928'\r\n\r\nDe afbeelding toont een baby in een kinderwagen met open kap in een winterse setting.\r\n\r\nDit kind is " .
 <https://n2t.net/ark:/27023/ebbbc9a1a3a3fa740922a3f67053fb8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ebbbc9a1a3a3fa740922a3f67053fb8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#identifier> "EDO%20481-27" .
-<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van iets onduidelijks. Op de voorgrond twee evenwijdige lage muurtjes met op gelijke afstand daarop aangebrachte sokkels waarop weer in steen gebeeldhouwde figuren staan. Daarachter een hogere " .
-<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eba482f2bb5cb09510836818f3397063> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ebbad7d5a717cb709c4e23dbd09b64c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ebbad7d5a717cb709c4e23dbd09b64c1> <https://colonialcollections.nl/schema#identifier> "2016/01/06-1/186" .
 <https://n2t.net/ark:/27023/ebbad7d5a717cb709c4e23dbd09b64c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

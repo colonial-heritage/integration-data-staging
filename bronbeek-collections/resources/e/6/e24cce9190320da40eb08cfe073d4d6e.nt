@@ -26,6 +26,15 @@
 <https://n2t.net/ark:/27023/43258a82a512ee04fa4cf9d16b942c96> <https://colonialcollections.nl/schema#creator> "Majoor KNIL Justus Pieter de Veer" .
 <https://n2t.net/ark:/27023/43258a82a512ee04fa4cf9d16b942c96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43258a82a512ee04fa4cf9d16b942c96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43258a82a512ee04fa4cf9d16b942c96> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#identifier> "nf%20701-11" .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#name> "De Tjandi-Prambanan" .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#description> "De afbeelding toont de Prambanan tempel bij Yogyakarta\r\n\r\nbijschrift linksonder; 'De Tjandi-Prambanan. The Tjandi-Prambanan'\r\nbijschrift rechtsonder; 'Le Tjandi-Prambanan. Der Tjandi-Prambanan'" .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <https://colonialcollections.nl/schema#identifier> "nf%201408-101" .
 <https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <https://colonialcollections.nl/schema#name> "Medan - Hoofdstraat Kesawan (Noordwaarts)" .
@@ -33,13 +42,15 @@
 <https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4338451f4e050deb34171363cb9adbfc> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#identifier> "nf%201473-30" .
 <https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#name> "Het drogen van de Pajo Koemboeh tabak, Sumatra" .
 <https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 85. HET DROGEN DER PAJO KOEMBOEH TABAK. SUMATRA.\r\ngeschreven: 10 a 12 dagen lang wordt de tabak naar buit" .
-<https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/434b927b31e12cd3694399a58fdc103d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/434ba050690996d3c9783ef88181d476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/434ba050690996d3c9783ef88181d476> <https://colonialcollections.nl/schema#identifier> "nf%20476" .
 <https://n2t.net/ark:/27023/434ba050690996d3c9783ef88181d476> <https://colonialcollections.nl/schema#name> "Detail van de Borobudur" .
@@ -60,6 +71,18 @@
 <https://n2t.net/ark:/27023/43230949c757e203c792f0117ac50f87> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/43230949c757e203c792f0117ac50f87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43230949c757e203c792f0117ac50f87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#identifier> "EDO%20481-69" .
+<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nDe foto toont een ópen'verhoging van bamboe en hout, in etages, taps naar boven toelopend. Erop staat een dakje op 4 palen. Onder het afdak " .
+<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-11" .
+<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#description> "Carte de visite." .
+<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
+<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/432cbc877c49233ee0fe5bba5d86f904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/432cbc877c49233ee0fe5bba5d86f904> <https://colonialcollections.nl/schema#identifier> "nf%201918-148" .
 <https://n2t.net/ark:/27023/432cbc877c49233ee0fe5bba5d86f904> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Petamboeran 10 Juni 1931 Batavia'\r\n\r\nOpnames tonen een begraafplaats met ruimte, grafmonumenten, grafstenen en vegetatie." .
@@ -513,12 +536,6 @@
 <https://n2t.net/ark:/27023/435e74cd59a53cbcc8ba489420e80a81> <https://colonialcollections.nl/schema#description> "Ikiran keris yogya met 2 patra, bolle buik en rug en een koperen selut met geschubde rand.\r\nHerkomst: Java, Indonesië." .
 <https://n2t.net/ark:/27023/435e74cd59a53cbcc8ba489420e80a81> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/435e74cd59a53cbcc8ba489420e80a81> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#identifier> "nf%20701-11" .
-<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#name> "De Tjandi-Prambanan" .
-<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#description> "De afbeelding toont de Prambanan tempel bij Yogyakarta\r\n\r\nbijschrift linksonder; 'De Tjandi-Prambanan. The Tjandi-Prambanan'\r\nbijschrift rechtsonder; 'Le Tjandi-Prambanan. Der Tjandi-Prambanan'" .
-<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43371eecbb1d889e460e03d954fa825e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43189b9ab1fb6fd2cb01da4dbb424d29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43189b9ab1fb6fd2cb01da4dbb424d29> <https://colonialcollections.nl/schema#identifier> "nf%20841-85-1" .
 <https://n2t.net/ark:/27023/43189b9ab1fb6fd2cb01da4dbb424d29> <https://colonialcollections.nl/schema#description> "Ansichtkaart, rechthoekig, opgeplakt zonder fotohoekjes.\r\n\r\nOp de kaart, in de rechter benedenheok komt in witte letteers tekst voor:\r\n\"Paquebot \"PASTEUR\"\r\n\r\nDe opname toont een varend passagiersschip." .
@@ -579,16 +596,6 @@
 <https://n2t.net/ark:/27023/4350ad67d5c642c89a3514a0b38247bd> <https://colonialcollections.nl/schema#description> "Opname toont een 2-tal tabellen" .
 <https://n2t.net/ark:/27023/4350ad67d5c642c89a3514a0b38247bd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4350ad67d5c642c89a3514a0b38247bd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#identifier> "EDO%20481-69" .
-<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nDe foto toont een ópen'verhoging van bamboe en hout, in etages, taps naar boven toelopend. Erop staat een dakje op 4 palen. Onder het afdak " .
-<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/432afcc6c0f088d1ac01dd501aebe140> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-11" .
-<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#description> "Carte de visite." .
-<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/432b0dcf4b8b805cc4792d0d64630e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/435866b1478e433d4a0ad64fc3ffa333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/435866b1478e433d4a0ad64fc3ffa333> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-115" .
 <https://n2t.net/ark:/27023/435866b1478e433d4a0ad64fc3ffa333> <https://colonialcollections.nl/schema#name> "Lans" .

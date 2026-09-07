@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/19" .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#name> "Vogelkoopman (Sumatra)" .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Batakker (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#inscription> "Vogelkoopman (Sumatra)" .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
 <https://n2t.net/ark:/27023/2692dc6543bccabee9c9b5b123f459e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2692dc6543bccabee9c9b5b123f459e0> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-212/9" .
 <https://n2t.net/ark:/27023/2692dc6543bccabee9c9b5b123f459e0> <https://colonialcollections.nl/schema#name> "Stabelan map Manuscript 5: Lenz, J., Rapport Taco Maru en Rangoon-periode" .
@@ -5,6 +14,20 @@
 <https://n2t.net/ark:/27023/2692dc6543bccabee9c9b5b123f459e0> <https://colonialcollections.nl/schema#creator> "sergeant-majoor Joost Lenz" .
 <https://n2t.net/ark:/27023/2692dc6543bccabee9c9b5b123f459e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2692dc6543bccabee9c9b5b123f459e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-10" .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#name> "Slachtoffers gemaakt door de Nederlandse troepen op weg naar Jogyakarta" .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#description> "Slachtoffers gemaakt door de Nederlandse troepen op weg naar Jogyakarta. 19 december 1948" .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#identifier> "2007/09/13-7-4" .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#name> "Foto, portret van Dhr. Martens in uniform" .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#description> "Foto, portret van Dhr. Martens in uniform, op karton. Fotograaf: C. Reijers, Hoffotograaf Nijmegen.\r\nVerso: Martens" .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#creator> "C. Reijers" .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/26b542fa391bc7511aeee7aad53297ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/26b542fa391bc7511aeee7aad53297ce> <https://colonialcollections.nl/schema#identifier> "nf%201413-82" .
 <https://n2t.net/ark:/27023/26b542fa391bc7511aeee7aad53297ce> <https://colonialcollections.nl/schema#name> "Simpai" .
@@ -12,6 +35,20 @@
 <https://n2t.net/ark:/27023/26b542fa391bc7511aeee7aad53297ce> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/26b542fa391bc7511aeee7aad53297ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/26b542fa391bc7511aeee7aad53297ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#identifier> "nf%201792-1" .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#name> "Bruiden te Semendo" .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt: 'Bruiden te Semendo' en 'Foto Hr. Rootrhaan'\r\n\r\nOpname toont drie jonge meisjes in fraaie kledij. Volgens de meegekregen tekst zijn het bruidjes. Erg blij kijken zij niet.\r\nWat opvalt aan hen zi" .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#creator> "Roothaan" .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#identifier> "1981/05/18-1-2/5" .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#name> "Groepsfoto Ridders MWO met Koningin Juliana  & Prins Bernhard, 125-jarig bestaan RMWO" .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#description> "Foto: 23,9 x 18,2cm zwart-wit. Groepsfoto Ridders MWO met Koningin Juliana  & Prins Bernhard op bordes. 125-jarig jubileum MWO?. Fotobureau Stokvis, Den Haag." .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#creator> "Fotobureau Stokvis" .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/26b7c8775eb8b3116592cab0b190ccd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/26b7c8775eb8b3116592cab0b190ccd7> <https://colonialcollections.nl/schema#identifier> "nf%20998" .
 <https://n2t.net/ark:/27023/26b7c8775eb8b3116592cab0b190ccd7> <https://colonialcollections.nl/schema#description> "foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nOp achterkant een aantal getallen die niet zijn overgenomen.\r\n\r\nDe opname toont de ruimte, overdekt, waar men bezig is met het opbouwen van het podium voor een wajangvoorstelling." .
@@ -61,13 +98,6 @@
 <https://n2t.net/ark:/27023/26a3e965889a304768746acc302d5e4a> <https://colonialcollections.nl/schema#inscription> "3" .
 <https://n2t.net/ark:/27023/26a3e965889a304768746acc302d5e4a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/26a3e965889a304768746acc302d5e4a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/19" .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#name> "Vogelkoopman (Sumatra)" .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Batakker (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#inscription> "Vogelkoopman (Sumatra)" .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/269466f05d18182d24565f36f25ebef3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/269237206779872feddc83545a3db40c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/269237206779872feddc83545a3db40c> <https://colonialcollections.nl/schema#identifier> "1999/07/27-2-7" .
 <https://n2t.net/ark:/27023/269237206779872feddc83545a3db40c> <https://colonialcollections.nl/schema#name> "Vaantje op houten standaard \"Markas Cabang\"" .
@@ -518,30 +548,6 @@
 <https://n2t.net/ark:/27023/26e4bcd1aa3b4d45ab09ffeb6cd1692b> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit uit diensttijd dienstplichtig korporaal H. van Soest in Nederlands-Indië bij 3 afdeling 6de Regiment Veldartillerie (3-6 RVA) bij C-Divisie \"7 December\" West-Java." .
 <https://n2t.net/ark:/27023/26e4bcd1aa3b4d45ab09ffeb6cd1692b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/26e4bcd1aa3b4d45ab09ffeb6cd1692b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-10" .
-<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#name> "Slachtoffers gemaakt door de Nederlandse troepen op weg naar Jogyakarta" .
-<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#description> "Slachtoffers gemaakt door de Nederlandse troepen op weg naar Jogyakarta. 19 december 1948" .
-<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/269f9c5fb8c8e193e5e077eae27b161f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#identifier> "2007/09/13-7-4" .
-<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#name> "Foto, portret van Dhr. Martens in uniform" .
-<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#description> "Foto, portret van Dhr. Martens in uniform, op karton. Fotograaf: C. Reijers, Hoffotograaf Nijmegen.\r\nVerso: Martens" .
-<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/26ac49e9644f65bd04bffa3dbf1dc24e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#identifier> "nf%201792-1" .
-<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#name> "Bruiden te Semendo" .
-<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt: 'Bruiden te Semendo' en 'Foto Hr. Rootrhaan'\r\n\r\nOpname toont drie jonge meisjes in fraaie kledij. Volgens de meegekregen tekst zijn het bruidjes. Erg blij kijken zij niet.\r\nWat opvalt aan hen zi" .
-<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/26c4e33d89582439236b36bd772fa686> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#identifier> "1981/05/18-1-2/5" .
-<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#name> "Groepsfoto Ridders MWO met Koningin Juliana  & Prins Bernhard, 125-jarig bestaan RMWO" .
-<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#description> "Foto: 23,9 x 18,2cm zwart-wit. Groepsfoto Ridders MWO met Koningin Juliana  & Prins Bernhard op bordes. 125-jarig jubileum MWO?. Fotobureau Stokvis, Den Haag." .
-<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/26d5bf4e46c344e7fbf0977b38b04595> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/269e4480c7236e62a8470df4c3f6370c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/269e4480c7236e62a8470df4c3f6370c> <https://colonialcollections.nl/schema#identifier> "1996/05/02-1-5/198" .
 <https://n2t.net/ark:/27023/269e4480c7236e62a8470df4c3f6370c> <https://colonialcollections.nl/schema#description> "Foto." .

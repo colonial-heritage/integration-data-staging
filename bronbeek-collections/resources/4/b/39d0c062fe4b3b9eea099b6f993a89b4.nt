@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/7" .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#name> "Villaweg te Sabang." .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Villaweg te Sabang.'." .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#inscription> "'Villaweg te Sabang." .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2bcf9ce52f80927f2084635e95dc091d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2bcf9ce52f80927f2084635e95dc091d> <https://colonialcollections.nl/schema#identifier> "nf%201413-86" .
 <https://n2t.net/ark:/27023/2bcf9ce52f80927f2084635e95dc091d> <https://colonialcollections.nl/schema#name> "Simpai" .
@@ -12,6 +20,13 @@
 <https://n2t.net/ark:/27023/2bd16c1b87f3cafefdf1a5d1dcd111ce> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/2bd16c1b87f3cafefdf1a5d1dcd111ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2bd16c1b87f3cafefdf1a5d1dcd111ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#identifier> "2007/10/17-7-2/9" .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#name> "Oma bij de gevangenispoort te Den Haag" .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#description> "Foto. Foto van \"Oma\" voor de gevangenispoort Den Haag." .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#creator> "F.Valk Fotograaf" .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2be162904a0605c8437271df6670fe05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2be162904a0605c8437271df6670fe05> <https://colonialcollections.nl/schema#identifier> "2002/02/08-7-6/2" .
 <https://n2t.net/ark:/27023/2be162904a0605c8437271df6670fe05> <https://colonialcollections.nl/schema#name> "Bordes Boroboedoer" .
@@ -37,9 +52,11 @@
 <https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#identifier> "nf%20768" .
 <https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#name> "'Ma'bugi: Trance of the Toraja'" .
 <https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#description> "Film op metalen spoel in ronde metalen doos in rechthoekige kartonnen doos. Op de ronde doos de titel 'MA'BUGI: TRANCE OF THE TORAJA'" .
-<https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#creator> "E. Crystal" .
+<https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#creator> "Catherine Crystal" .
 <https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#creator> "Lee Rhoads" .
+<https://n2t.net/ark:/27023/2beaeef63150bf9768ef7e2b0b4b4011> <https://colonialcollections.nl/schema#creator> "E. Crystal" .
 <https://n2t.net/ark:/27023/2bf18088b2067b10cb3c97bdcaecd059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2bf18088b2067b10cb3c97bdcaecd059> <https://colonialcollections.nl/schema#identifier> "nf%20678-5-3" .
 <https://n2t.net/ark:/27023/2bf18088b2067b10cb3c97bdcaecd059> <https://colonialcollections.nl/schema#name> "Oude boortoren bij Nief" .
@@ -65,10 +82,17 @@
 <https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#identifier> "2018/02/18-8-4" .
 <https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#name> "Relatiegeschenk Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek" .
 <https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#description> "Relatiegeschenk Koninklijk Tehuis voor Oud-Militairen en Museum Bronbeek. Coin 3de serie goudkleurig metaal met indelingsembleem Nederlandse troepen Nieuw-Guinea. In rand de tekst in vlakreliëf Nederlandse Troepen Nieuw Guinea. Keerzijde embleem KTOMM Bro" .
-<https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
+<https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#creator> "Kapitein der Mariniers A.L.F. Broers" .
 <https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#creator> "Kapitein der Mariniers A.L.F. Broers" .
+<https://n2t.net/ark:/27023/2bf76edfd3c91a9fd1e6c474b5b32795> <https://colonialcollections.nl/schema#creator> "Delta International B.V." .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#identifier> "2005/00-607/12" .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#name> "Foto van theeonderneming Pematang-Siantar" .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Landschapsfoto, thee-onderneming Pematang-Siantar, de theevelden met bebouwing in de verte.\r\n\r\nverso: in potlood \" photo genomen Juli 1930 thee-onderneming Pematang-Siantar Sumatra-oostkust\"" .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2c0d038e79d16d5dc5cde7f9b081c1cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c0d038e79d16d5dc5cde7f9b081c1cd> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-73" .
 <https://n2t.net/ark:/27023/2c0d038e79d16d5dc5cde7f9b081c1cd> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -82,6 +106,9 @@
 <https://n2t.net/ark:/27023/2bd6afea35457c4116eebd55f9e7513f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2bd6afea35457c4116eebd55f9e7513f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2bd6afea35457c4116eebd55f9e7513f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2bd6afea35457c4116eebd55f9e7513f> <https://colonialcollections.nl/schema#creator> "Tellko" .
+<https://n2t.net/ark:/27023/2bd6afea35457c4116eebd55f9e7513f> <https://colonialcollections.nl/schema#creator> "J.H.Zindler - Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/2bd6afea35457c4116eebd55f9e7513f> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
 <https://n2t.net/ark:/27023/2bfd869467d91aad7a952e835f7f4d98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2bfd869467d91aad7a952e835f7f4d98> <https://colonialcollections.nl/schema#identifier> "EDO%20622-21-1" .
 <https://n2t.net/ark:/27023/2bfd869467d91aad7a952e835f7f4d98> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een blanke, gezette vrouw, gefotografeerd aan dek van vermoedelijk een passagiersschip. Zij is donker gekleed.\r\n\r\nEr is geen geografische herkomst aangegeven." .
@@ -128,13 +155,6 @@
 <https://n2t.net/ark:/27023/2c0dc0d2c37e64af799e300fe7765444> <https://colonialcollections.nl/schema#inscription> "Hollandsche Wap.Mag. Den Haag; TNI ster" .
 <https://n2t.net/ark:/27023/2c0dc0d2c37e64af799e300fe7765444> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c0dc0d2c37e64af799e300fe7765444> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/7" .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#name> "Villaweg te Sabang." .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Villaweg te Sabang.'." .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#inscription> "'Villaweg te Sabang." .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2bd45db90aaf36c1027c4feb4ee3af20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2bcfd71d6e10c48f1052bac81a46da4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2bcfd71d6e10c48f1052bac81a46da4d> <https://colonialcollections.nl/schema#identifier> "1995/04/12-2-4/2" .
 <https://n2t.net/ark:/27023/2bcfd71d6e10c48f1052bac81a46da4d> <https://colonialcollections.nl/schema#name> "Baretembleem 'leeuw' goudkleurig" .
@@ -531,18 +551,6 @@
 <https://n2t.net/ark:/27023/2c0eb321881a577e9758507580405a85> <https://colonialcollections.nl/schema#description> "Document: Bewijs van inbeslagname auto. Japans document: \"1069\", Bandoeng SI.\r\nVertaling luidt:\r\n\"Certification: name, H. Pund van Staveren. This is to certify the above person has declared to hold oil stated left. Note: Type of oil and the amount: oli ±2" .
 <https://n2t.net/ark:/27023/2c0eb321881a577e9758507580405a85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2c0eb321881a577e9758507580405a85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#identifier> "2007/10/17-7-2/9" .
-<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#name> "Oma bij de gevangenispoort te Den Haag" .
-<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#description> "Foto. Foto van \"Oma\" voor de gevangenispoort Den Haag." .
-<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2bd744744c0ec94a5af331becd3dbd16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#identifier> "2005/00-607/12" .
-<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#name> "Foto van theeonderneming Pematang-Siantar" .
-<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Landschapsfoto, thee-onderneming Pematang-Siantar, de theevelden met bebouwing in de verte.\r\n\r\nverso: in potlood \" photo genomen Juli 1930 thee-onderneming Pematang-Siantar Sumatra-oostkust\"" .
-<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2c09ad587f789b33892d2de574f2bdc4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2bd4f78c5e63bc7843827239aedd1f61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2bd4f78c5e63bc7843827239aedd1f61> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41506" .
 <https://n2t.net/ark:/27023/2bd4f78c5e63bc7843827239aedd1f61> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tbeeldengroep\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tspeksteen\r\n\r\nEmailadres: toelichting:\tVoetstuk gemaakt van bruin/zwarte speksteen. Op het voetstuk zijn 5 figuren geplaatst. Zij vormen samen een beeldengroep gemaakt van gro" .

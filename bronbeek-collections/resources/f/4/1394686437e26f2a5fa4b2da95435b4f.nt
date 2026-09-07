@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-9" .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#name> "Djember, Kali Bedadoeng" .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#inscription> "Djember Kali Bedadoeng" .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-18" .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#name> "Landkaart Ampang" .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#description> "Landkaart Malaya, Ampang. Hind 1035, Sheet 3 B/16, 4th Edition. Gepubliceerd door door Survey Production Centre, A.L.F.S.E.A. 1945; schaal 1 inch is 1 mile, of:\r\n1: 63.360." .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#creator> "Survey Production Centre, A.L.F.S.E.A." .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d783cf4566d2f92deca3a0a09ce0a8bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d783cf4566d2f92deca3a0a09ce0a8bd> <https://colonialcollections.nl/schema#identifier> "nf%20621-14" .
 <https://n2t.net/ark:/27023/d783cf4566d2f92deca3a0a09ce0a8bd> <https://colonialcollections.nl/schema#name> "Zanderig strand van Samosir bij Soei Soei. Tieus-bomen op stenen geworteld." .
@@ -5,6 +20,21 @@
 <https://n2t.net/ark:/27023/d783cf4566d2f92deca3a0a09ce0a8bd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d783cf4566d2f92deca3a0a09ce0a8bd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d783cf4566d2f92deca3a0a09ce0a8bd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#identifier> "nf%20701-10" .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#name> "De Tjandi-Sèwoe met Tempelwachters" .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#description> "De afbeelding toont het Candi-Sewu complex met de tempelwachters\r\n\r\nbijschrift linksonder; 'De Tjandi-Sèwoe met Tempelwachters. The Tjandi-Sèwoe with the Temple Guards'\r\nbijschrift rechtsonder; 'Le Tjandi-Sèwoe avec les gardeurs du temple. Der Tjandi-Sèwo" .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/14" .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#name> "Groep Nederlandse officieren te Colditz." .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#description> "Foto van een groep Nederlandse officieren te Colditz.\r\nGedateerd 1942/03/31\r\nGestempeld: Oflag IV C 6 Geprüft." .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/262" .
 <https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -12,6 +42,7 @@
 <https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d7a3c5a03755f2753ba06fd2f1d6ca2b> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/d76f46541bacca654a9111a7e8e430dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d76f46541bacca654a9111a7e8e430dd> <https://colonialcollections.nl/schema#identifier> "nf%201846-2" .
 <https://n2t.net/ark:/27023/d76f46541bacca654a9111a7e8e430dd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOpname toont een deel van een spoorbrug over een breed en diep dal. Er zijn in elk geval tien stalen pijlers te zien. Brug en pijleers zijn wit geverfd.\r\nAlternerend zijn langs de rails uitsparingen aangebracht. Evenee" .
@@ -54,6 +85,7 @@
 <https://n2t.net/ark:/27023/d79bf8f1db444b16396bd5af243b129a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d79bf8f1db444b16396bd5af243b129a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d79bf8f1db444b16396bd5af243b129a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d79bf8f1db444b16396bd5af243b129a> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/d79c3c8a151223ba0540a75ae8435a82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d79c3c8a151223ba0540a75ae8435a82> <https://colonialcollections.nl/schema#identifier> "nf%20924-28-2" .
 <https://n2t.net/ark:/27023/d79c3c8a151223ba0540a75ae8435a82> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname van een drietal blanke personen, twee mannen en een vrouw. Zij zijn in het wit gekleed en hebben alle drie een hoofddeksel op. De vrouw een hoed de heren een pet. Beide mannen hebben een golfclub in hun h" .
@@ -88,13 +120,6 @@
 <https://n2t.net/ark:/27023/d7b645c0a96d526c223327b38571d06f> <https://colonialcollections.nl/schema#inscription> "Nefis" .
 <https://n2t.net/ark:/27023/d7b645c0a96d526c223327b38571d06f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7b645c0a96d526c223327b38571d06f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-9" .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#name> "Djember, Kali Bedadoeng" .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#inscription> "Djember Kali Bedadoeng" .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d7b1b651134b64ece6afc1224f79c752> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d7682d0c2cde52bdb6af57a89eff3b0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d7682d0c2cde52bdb6af57a89eff3b0b> <https://colonialcollections.nl/schema#identifier> "2007/10/02-1-7" .
 <https://n2t.net/ark:/27023/d7682d0c2cde52bdb6af57a89eff3b0b> <https://colonialcollections.nl/schema#name> "Persoonsbewijzen, uitbetalingen en diverse lijsten" .
@@ -509,24 +534,6 @@
 <https://n2t.net/ark:/27023/d7b5daf1863fb0bb37616f724191aab5> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. (totaal 62 stuks). KNIL-militairen en Dayaks op Borneo." .
 <https://n2t.net/ark:/27023/d7b5daf1863fb0bb37616f724191aab5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d7b5daf1863fb0bb37616f724191aab5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-18" .
-<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#name> "Landkaart Ampang" .
-<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#description> "Landkaart Malaya, Ampang. Hind 1035, Sheet 3 B/16, 4th Edition. Gepubliceerd door door Survey Production Centre, A.L.F.S.E.A. 1945; schaal 1 inch is 1 mile, of:\r\n1: 63.360." .
-<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d768f84df02a63a6006b7680bade1c12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#identifier> "nf%20701-10" .
-<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#name> "De Tjandi-Sèwoe met Tempelwachters" .
-<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#description> "De afbeelding toont het Candi-Sewu complex met de tempelwachters\r\n\r\nbijschrift linksonder; 'De Tjandi-Sèwoe met Tempelwachters. The Tjandi-Sèwoe with the Temple Guards'\r\nbijschrift rechtsonder; 'Le Tjandi-Sèwoe avec les gardeurs du temple. Der Tjandi-Sèwo" .
-<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d788c1681e4b28c94813aa6980295a03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/14" .
-<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#name> "Groep Nederlandse officieren te Colditz." .
-<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#description> "Foto van een groep Nederlandse officieren te Colditz.\r\nGedateerd 1942/03/31\r\nGestempeld: Oflag IV C 6 Geprüft." .
-<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d792e94232462742e4c02eb9b7971c7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d77aae550b71e90cfa18730e09ad0dcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d77aae550b71e90cfa18730e09ad0dcf> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42743" .
 <https://n2t.net/ark:/27023/d77aae550b71e90cfa18730e09ad0dcf> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tvingerring\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tglas, zilver, suase\r\n\tgesmeed, filigrain, verzilverd\r\nEmailadres: toelichting:\tDe ring (binnenmaat: Diam 1,9) is gemaakt van koper. De a" .

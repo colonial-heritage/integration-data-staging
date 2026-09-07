@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/143" .
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Groet uit Batavia. Tjiliwoeng rivier - Weltevreden." .
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/56d711be3456c3937f172542ca408255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/56d711be3456c3937f172542ca408255> <https://colonialcollections.nl/schema#identifier> "nf%201524-2" .
 <https://n2t.net/ark:/27023/56d711be3456c3937f172542ca408255> <https://colonialcollections.nl/schema#name> "Hospitaal te Fort de Kock" .
@@ -550,12 +557,6 @@
 <https://n2t.net/ark:/27023/56fa52fa35e3321b542140833acaccd4> <https://colonialcollections.nl/schema#description> "Mouwembleem, metaal, messing, klaverblad, tekst : \"Sedia\"." .
 <https://n2t.net/ark:/27023/56fa52fa35e3321b542140833acaccd4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/56fa52fa35e3321b542140833acaccd4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/143" .
-<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Groet uit Batavia. Tjiliwoeng rivier - Weltevreden." .
-<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56c67cca0c8e16c81262720cc64e9ccd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/56be10b31afb41c5421166ec36740e44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/56be10b31afb41c5421166ec36740e44> <https://colonialcollections.nl/schema#identifier> "nf%201309-29-1" .
 <https://n2t.net/ark:/27023/56be10b31afb41c5421166ec36740e44> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ovaal geknipt, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een man in matrozenuniform, staand in de tuin, met een pijp in de mond.\r\n\r\nIn deze man is de heer L.H. Belle te herkennen." .

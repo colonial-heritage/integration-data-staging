@@ -5,6 +5,14 @@
 <https://n2t.net/ark:/27023/cc70fb0f63d8c4f78a46d3e6529290f5> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/cc70fb0f63d8c4f78a46d3e6529290f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cc70fb0f63d8c4f78a46d3e6529290f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#identifier> "nf%201334-3" .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#name> "Rijswijk - Batavia" .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Rijswijk - Batavia\r\n\r\nOpname toont een\"" .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#creator> "ROTOGRAVURE DE UNIE" .
 <https://n2t.net/ark:/27023/cc9f843bb078c96af91c6abfbde73f98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cc9f843bb078c96af91c6abfbde73f98> <https://colonialcollections.nl/schema#identifier> "nf%20836-41-4" .
 <https://n2t.net/ark:/27023/cc9f843bb078c96af91c6abfbde73f98> <https://colonialcollections.nl/schema#name> "Flores. Roeteng Uitzicht vanuit ons huis 1926" .
@@ -26,6 +34,7 @@
 <https://n2t.net/ark:/27023/ccb01ef6ee6766cd12e1dc7647ebc26d> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/ccb01ef6ee6766cd12e1dc7647ebc26d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ccb01ef6ee6766cd12e1dc7647ebc26d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ccb01ef6ee6766cd12e1dc7647ebc26d> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/cc7e19b33a86521b4b12ea24b78973fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cc7e19b33a86521b4b12ea24b78973fd> <https://colonialcollections.nl/schema#identifier> "nf%20678-7-8" .
 <https://n2t.net/ark:/27023/cc7e19b33a86521b4b12ea24b78973fd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '571'. Geen verdere data.\r\n\r\nOpname toont een groepje inheemse personen, mannen, vrouwen en kinderen, zittend, staand, bij 'geplukte' kokosnoten. De palmbomen staan achter he" .
@@ -526,12 +535,6 @@
 <https://n2t.net/ark:/27023/ccb4c0fb7a4b00c5626d1dc6139d8506> <https://colonialcollections.nl/schema#description> "Medaille, aan lint. Trouwe Dienst in zilver." .
 <https://n2t.net/ark:/27023/ccb4c0fb7a4b00c5626d1dc6139d8506> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ccb4c0fb7a4b00c5626d1dc6139d8506> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#identifier> "nf%201334-3" .
-<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#name> "Rijswijk - Batavia" .
-<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Rijswijk - Batavia\r\n\r\nOpname toont een\"" .
-<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cc8cd303e51ee6054ad1a8ceeb65fdae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cc6fe246d8269c4568458ca9cf5b000e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cc6fe246d8269c4568458ca9cf5b000e> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42524" .
 <https://n2t.net/ark:/27023/cc6fe246d8269c4568458ca9cf5b000e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 122,5 cm\r\nMedia:\t3057\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3057], Huidige locatie niet geregistreerd\r\nhoofdmateriaal:\thout" .

@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/fb12f0c15db6344f2e068962e729c206> <https://colonialcollections.nl/schema#creator> "Dhr. A.P. Bakker" .
 <https://n2t.net/ark:/27023/fb12f0c15db6344f2e068962e729c206> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb12f0c15db6344f2e068962e729c206> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#identifier> "2005/00-607/26" .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#name> "Foto van vrouw met donkere parasol op het pad dat voert naar het Siantar-Hotel in Pematang-Siantar" .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Vrouw met donkere parasol staand op het pad dat voert naar het Siantar-Hotel Pematang-Siantar, Oostkust Sumatra.\r\n\r\nverso: in potlood \"photo genomen Juli 1930 Sumatra-oostkust\"\r\nin groene inkt \"P.Siantar\"" .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb191b0ad90cf16a92b0bfa80cfdcb01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb191b0ad90cf16a92b0bfa80cfdcb01> <https://colonialcollections.nl/schema#identifier> "nf%201413-128" .
 <https://n2t.net/ark:/27023/fb191b0ad90cf16a92b0bfa80cfdcb01> <https://colonialcollections.nl/schema#name> "Weg door het moeras tussen Tandjoeng Kerang en K.P.V. Zuid. Met galar door het moeras" .
@@ -30,9 +37,10 @@
 <https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#identifier> "S%206245-57-2" .
 <https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#name> "Laan van Tamarindeboomen" .
 <https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Laan van Tamarindeboomen.\r\nRechts onder: Lichtdruk van H. Kleinmann & Co., te Haarlem\r\n\r\nDe opname toont een stra" .
-<https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb37351bdab1b262c1e3ed49bebe405c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fb37fe3cb7efbfae073bafeb11422470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb37fe3cb7efbfae073bafeb11422470> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-21" .
 <https://n2t.net/ark:/27023/fb37fe3cb7efbfae073bafeb11422470> <https://colonialcollections.nl/schema#name> "Passar Besar, Soerabaja." .
@@ -44,10 +52,10 @@
 <https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/57" .
 <https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#name> "Station te Soerabaja" .
 <https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Station te Soerabaja. Gestempeld en postzegel. 1910/05/29." .
-<https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
+<https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
+<https://n2t.net/ark:/27023/fb4318efefbf8acaf4b08cbd8510366a> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/fb44f34c548c030108650323b1e5a35e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb44f34c548c030108650323b1e5a35e> <https://colonialcollections.nl/schema#identifier> "2010/11/02-1-1" .
 <https://n2t.net/ark:/27023/fb44f34c548c030108650323b1e5a35e> <https://colonialcollections.nl/schema#name> "Legpenning in doos, brons \"Escomptobank N.V. 1857-1957\"" .
@@ -55,6 +63,20 @@
 <https://n2t.net/ark:/27023/fb44f34c548c030108650323b1e5a35e> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/fb44f34c548c030108650323b1e5a35e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb44f34c548c030108650323b1e5a35e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/9" .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#name> "Water (meertje?), in de verte een bootje" .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#description> "Water (meertje?), in de verte een bootje." .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#identifier> "2007/07/25-4-3" .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#name> "Foto op passepartout \"Detachement van Heutsz brigade in Overloon\"" .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#description> "Foto op passepartout \"Detachement van Heutsz brigade in Overloon\". Gestempeld: \"Copyright Foto Pers Bureau \"Hollandia Alkmaar telefoon 760\"." .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#creator> "Foto Pers Bureau Hollandia Alkmaar" .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb504f2b35802e514916e5b2eceb2d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb504f2b35802e514916e5b2eceb2d24> <https://colonialcollections.nl/schema#identifier> "1999/00-31" .
 <https://n2t.net/ark:/27023/fb504f2b35802e514916e5b2eceb2d24> <https://colonialcollections.nl/schema#name> "Voorstellende de Javaansche karbouw of kebo (Buffel) van den beroemden Javaanschen vee- en landschapsschilder Raden Saleh" .
@@ -62,12 +84,25 @@
 <https://n2t.net/ark:/27023/fb504f2b35802e514916e5b2eceb2d24> <https://colonialcollections.nl/schema#creator> "Raden Saleh Syarif Bustaman" .
 <https://n2t.net/ark:/27023/fb504f2b35802e514916e5b2eceb2d24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb504f2b35802e514916e5b2eceb2d24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#identifier> "2004/12/31-1-5" .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#name> "Sabel in schede tot Ceremonieel tenue Majoor Regiment Johan Willem Friso" .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#description> "Sabel in schede. Inclusief dragon & overtrek. Behorende bij ceremonieel tenue Majoor Regiment Johan Willem Friso. Jas + broek. Overtrek gemerkt: \"Louis Simon Jr. Dennenweg 75-77 Den Haag." .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#creator> "Louis Simons Jr. Den Haag" .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb141637cde9a082c8143062a9eb1229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb141637cde9a082c8143062a9eb1229> <https://colonialcollections.nl/schema#identifier> "nf%201521" .
 <https://n2t.net/ark:/27023/fb141637cde9a082c8143062a9eb1229> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nOp achterkant tekst in potlood: Bireun? - Atjeh - Sumatra?\r\n\r\nOpname toont op de achtergrond een groot, éénverdiepings huis, gebouwd op veel korte stevige neuten, zodat er een ruimte ontstaat onder het hu" .
 <https://n2t.net/ark:/27023/fb141637cde9a082c8143062a9eb1229> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fb141637cde9a082c8143062a9eb1229> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb141637cde9a082c8143062a9eb1229> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#identifier> "nf%201619-3" .
+<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, op licht beige karton geplakt, los aangetroffen.\r\n\r\nOp achterkant en voorkant gedrukt de naam van het fotoatelier.\r\nOp achterkant ook in inkt geschreeven de tekst: 'Modjokerto 24 nov. 1891'\r\n\r\nOpname toont een portret van een" .
+<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#creator> "H. Salzwedel, Soerabaya" .
+<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb2a1cbe1e474dff6a51a7e235c30ff0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb2a1cbe1e474dff6a51a7e235c30ff0> <https://colonialcollections.nl/schema#identifier> "nf%20833-68" .
 <https://n2t.net/ark:/27023/fb2a1cbe1e474dff6a51a7e235c30ff0> <https://colonialcollections.nl/schema#description> "Kleurenopname, buitenopname\r\n\r\nOp framerand is o.a. cijfer 30 te zien en de tekst: bua' feest batu kamban gorang Sesean 1970\r\n\r\nOp lijst bij foto 30 staat: Grote bua-feest, Batu kamban, 1970. Vrouwen worden in de bullean rond de gorang gedragen" .
@@ -80,6 +115,12 @@
 <https://n2t.net/ark:/27023/fb4b4bd6eeff70ba4dc052b336a14296> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fb4b4bd6eeff70ba4dc052b336a14296> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb4b4bd6eeff70ba4dc052b336a14296> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#identifier> "nf%201895-1" .
+<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, los aangetroffen in pergamijnzakje, met een in inkt geschreven nummer 6549.\r\n\r\nOpname toont een Dajak vrouw. Zij is bezig met het vlechten van een mand. Zij is in lichte tinten gekleed in een bijna 'westerse' mode. Opvallend aan h" .
+<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#creator> "H.F. Tillema" .
+<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb5803bd84cda9f557bbb66aab11821d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb5803bd84cda9f557bbb66aab11821d> <https://colonialcollections.nl/schema#identifier> "nf%20842-651" .
 <https://n2t.net/ark:/27023/fb5803bd84cda9f557bbb66aab11821d> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BH 01 t/m 36. Deze slede is opgeborgen in grijze doos met lichtgrijs deksel, gemerkt met BH, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BH 25, in potlood EO 09.\r\n\r\nOpnam" .
@@ -503,30 +544,6 @@
 <https://n2t.net/ark:/27023/fb5a87ed2edc1b2fe4cb4cd5b6d1e308> <https://colonialcollections.nl/schema#description> "Kopie van prent, Japan. Afbeelding : poort. Rijstpapier, inktdruk. Afm. 7,5 x 11,5 cm. Totaal 3 prenten (inv.nrs 1998/12/22-1-104/1 t/m 1998/12/22-1-104/3)." .
 <https://n2t.net/ark:/27023/fb5a87ed2edc1b2fe4cb4cd5b6d1e308> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb5a87ed2edc1b2fe4cb4cd5b6d1e308> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#identifier> "2005/00-607/26" .
-<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#name> "Foto van vrouw met donkere parasol op het pad dat voert naar het Siantar-Hotel in Pematang-Siantar" .
-<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Vrouw met donkere parasol staand op het pad dat voert naar het Siantar-Hotel Pematang-Siantar, Oostkust Sumatra.\r\n\r\nverso: in potlood \"photo genomen Juli 1930 Sumatra-oostkust\"\r\nin groene inkt \"P.Siantar\"" .
-<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb18ebdb717786f84f6339ee178aadd2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/9" .
-<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#name> "Water (meertje?), in de verte een bootje" .
-<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#description> "Water (meertje?), in de verte een bootje." .
-<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb4cddb117397169675f56619aa9cecb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#identifier> "2007/07/25-4-3" .
-<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#name> "Foto op passepartout \"Detachement van Heutsz brigade in Overloon\"" .
-<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#description> "Foto op passepartout \"Detachement van Heutsz brigade in Overloon\". Gestempeld: \"Copyright Foto Pers Bureau \"Hollandia Alkmaar telefoon 760\"." .
-<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb4daee56cab985d74e37034611e71d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#identifier> "2004/12/31-1-5" .
-<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#name> "Sabel in schede tot Ceremonieel tenue Majoor Regiment Johan Willem Friso" .
-<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#description> "Sabel in schede. Inclusief dragon & overtrek. Behorende bij ceremonieel tenue Majoor Regiment Johan Willem Friso. Jas + broek. Overtrek gemerkt: \"Louis Simon Jr. Dennenweg 75-77 Den Haag." .
-<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb52f1446470ee23bfca75aac142c1a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb153bcff61c0d17043a11ef8324d902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb153bcff61c0d17043a11ef8324d902> <https://colonialcollections.nl/schema#identifier> "nf%201354-12-2" .
 <https://n2t.net/ark:/27023/fb153bcff61c0d17043a11ef8324d902> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen.\r\n\r\nOpname toont een rivier, wild stromend langs grote rotsblokken. Links en rechts oerwoud.\r\n\r\nN.B.: Op achterkant foto nf 1354-12-4 staat verme" .
@@ -582,16 +599,6 @@
 <https://n2t.net/ark:/27023/fb5a8de4cce83f4cff58118d95ce3d4c> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 115,8 cm\r\nMedia:\t3096\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3096] Depot, K [K]\r\nhoofdmateriaal:\thout" .
 <https://n2t.net/ark:/27023/fb5a8de4cce83f4cff58118d95ce3d4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb5a8de4cce83f4cff58118d95ce3d4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#identifier> "nf%201619-3" .
-<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, op licht beige karton geplakt, los aangetroffen.\r\n\r\nOp achterkant en voorkant gedrukt de naam van het fotoatelier.\r\nOp achterkant ook in inkt geschreeven de tekst: 'Modjokerto 24 nov. 1891'\r\n\r\nOpname toont een portret van een" .
-<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb24e54ab9d17d9b508f6e736695d0ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#identifier> "nf%201895-1" .
-<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, los aangetroffen in pergamijnzakje, met een in inkt geschreven nummer 6549.\r\n\r\nOpname toont een Dajak vrouw. Zij is bezig met het vlechten van een mand. Zij is in lichte tinten gekleed in een bijna 'westerse' mode. Opvallend aan h" .
-<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb4e43b9b3e0d981284a965e0ce9ee36> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb3db00541d76252decfcc73b3ce6866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb3db00541d76252decfcc73b3ce6866> <https://colonialcollections.nl/schema#identifier> "1871/09-2" .
 <https://n2t.net/ark:/27023/fb3db00541d76252decfcc73b3ce6866> <https://colonialcollections.nl/schema#name> "Generaal-Majoor Engelvaart, Gouverneur der Militaire Academie" .

@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/d3bf6eac56f1e4ea78b744cc61ff171a> <https://colonialcollections.nl/schema#creator> "C.I. Scheerder" .
 <https://n2t.net/ark:/27023/d3bf6eac56f1e4ea78b744cc61ff171a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d3bf6eac56f1e4ea78b744cc61ff171a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/4" .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#name> "Fotokopie artikel 'Als maar Dezentjé' door dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#description> "Fotokopie artikel, 2 pagina's. Uit het tijdschrift Tong-Tong, 15 juni 1968. In goede staat." .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#creator> "Dr H.J. de Graaf" .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3c05d80567455c0e8b750956ecc4116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3c05d80567455c0e8b750956ecc4116> <https://colonialcollections.nl/schema#identifier> "1960/05/02-1/36" .
 <https://n2t.net/ark:/27023/d3c05d80567455c0e8b750956ecc4116> <https://colonialcollections.nl/schema#name> "Mouwembleem Troepencommando Bali en Lombok" .
@@ -17,10 +24,17 @@
 <https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#identifier> "2002/02/06-1-3" .
 <https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#name> "Medaille Oorlogsherinneringskruis met gesp Nederlandsch-Indië 1941-1942" .
 <https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#description> "Medaille Oorlogsherinneringskruis met gesp Nederlandsch-Indië 1941-1942 op lint.\r\n\"FA Tack Breda\"" .
-<https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
+<https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
+<https://n2t.net/ark:/27023/d3ca3bb7dbd19a33eae768be8094f4ce> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#identifier> "IB1877/09-1-1" .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#name> "De schipbreuk van het stoomschip Willem I op de Lucipara eilanden op 5 mei 1837 en het verblijf van de schipbreukelingen op de klip." .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#description> "Groot schilderij. De schipbreuk van het stoomschip Willem I op de Lucipara eilanden op 5 mei 1837 en het verblijf van de schipbreukelingen op de klip." .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#creator> "Dhr. L. Meijer" .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d3cf460e0a5a2d6127d2fd785614a219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d3cf460e0a5a2d6127d2fd785614a219> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/33" .
 <https://n2t.net/ark:/27023/d3cf460e0a5a2d6127d2fd785614a219> <https://colonialcollections.nl/schema#name> "De Chef der Genie generaal-majoor De Quant met drie mannen en een vrouw" .
@@ -530,18 +544,6 @@
 <https://n2t.net/ark:/27023/d3d8fdbb8b2e6afdaec37c631b6df792> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Groep van 11 militairen en 3 jongens (Indonesisch), op een weg. Periode 1945-1950, Nederlands Indië." .
 <https://n2t.net/ark:/27023/d3d8fdbb8b2e6afdaec37c631b6df792> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d3d8fdbb8b2e6afdaec37c631b6df792> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#identifier> "1996/07/15-2/4" .
-<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#name> "Fotokopie artikel 'Als maar Dezentjé' door dr H.J. de Graaf" .
-<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#description> "Fotokopie artikel, 2 pagina's. Uit het tijdschrift Tong-Tong, 15 juni 1968. In goede staat." .
-<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d3a5a9f5120867e7bfc715c510edd364> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#identifier> "IB1877/09-1-1" .
-<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#name> "De schipbreuk van het stoomschip Willem I op de Lucipara eilanden op 5 mei 1837 en het verblijf van de schipbreukelingen op de klip." .
-<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#description> "Groot schilderij. De schipbreuk van het stoomschip Willem I op de Lucipara eilanden op 5 mei 1837 en het verblijf van de schipbreukelingen op de klip." .
-<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d3cc154dd669f23600832fce6b26c1c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d398613d2362e76a83acb23969f35a42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d398613d2362e76a83acb23969f35a42> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43271" .
 <https://n2t.net/ark:/27023/d398613d2362e76a83acb23969f35a42> <https://colonialcollections.nl/schema#description> "Pijl met benen punt (beschadigd)" .

@@ -3,9 +3,10 @@
 <https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#name> "Prent met portret van Generaal Majoor Jonkhr. I.N.Everts." .
 <https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#description> "Prent. Lithografie.\r\nOpgeplakt op papier.\r\nTekst: Generaal Majoor Jonkhr. I.N.Everts.\r\nSignering: H.F.Sartor; Steendr. van E.Spanier 's Hage Gedeponeerd; L.I.Ledel pinx. de Cocq del.\r\nOp achterzijde: E.1.; Jhr. J.N. Everts MWO 3 in 1830, Gen.Maj. cat. nr." .
 <https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#inscription> "Generaal Majoor Jonkhr. I.N.Everts." .
-<https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#creator> "L.I. Ledel" .
 <https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1f511400e26ef9c5c2917faf46921325> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/1f3708fffc33028f6bcfb8011d936c89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1f3708fffc33028f6bcfb8011d936c89> <https://colonialcollections.nl/schema#identifier> "1954/03/30-3-3" .
 <https://n2t.net/ark:/27023/1f3708fffc33028f6bcfb8011d936c89> <https://colonialcollections.nl/schema#name> "Model van Gouverneur Generaal Luitenant-generaal J.B. van Heutsz" .
@@ -13,6 +14,13 @@
 <https://n2t.net/ark:/27023/1f3708fffc33028f6bcfb8011d936c89> <https://colonialcollections.nl/schema#creator> "H.A. van den Eynde" .
 <https://n2t.net/ark:/27023/1f3708fffc33028f6bcfb8011d936c89> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1f3708fffc33028f6bcfb8011d936c89> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#identifier> "1885/09-1-60" .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#name> "Man en zittende vrouw" .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#description> "Tekening, in kleur, aquarel. Opgeplakt op papier.\r\nMan met zittende vrouw.\r\nLinksonder gesigneerd: \"J.A. Langendijk, 1809.\"\r\nGestempeld op achterzijde: \"A. Ver Huell\".\r\nRechtsonder op passepartout: \"No.9.\", op achterzijde: \"V.14.; N.8.\"" .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#creator> "J.A. Langendijk" .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1f3ed109d46f6c237080ab77e966ff73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1f3ed109d46f6c237080ab77e966ff73> <https://colonialcollections.nl/schema#identifier> "2012/05/18-1/55" .
 <https://n2t.net/ark:/27023/1f3ed109d46f6c237080ab77e966ff73> <https://colonialcollections.nl/schema#name> "\"Waterval bij Pandang Sarie\"" .
@@ -27,6 +35,13 @@
 <https://n2t.net/ark:/27023/1f645313986dc154c4b852ce2c08742c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1f645313986dc154c4b852ce2c08742c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1f645313986dc154c4b852ce2c08742c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/48" .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#name> "Drie poserende militairen, op de achtergrond een meer" .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#description> "Drie poserende militairen, op de achtergrond een meer.\r\nAchter op de foto geschreven \"links. Gerrit Dominicus, Nw. Guinea ´50\"." .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1f734e22dd566ce9c8fdc4a76f4cbf48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1f734e22dd566ce9c8fdc4a76f4cbf48> <https://colonialcollections.nl/schema#identifier> "2001/00-53-31" .
 <https://n2t.net/ark:/27023/1f734e22dd566ce9c8fdc4a76f4cbf48> <https://colonialcollections.nl/schema#name> "Het einde nadert   Aek Pamienke" .
@@ -505,18 +520,6 @@
 <https://n2t.net/ark:/27023/1f739dc5be1a3b4824ec05a68a4ad7c9> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Zwaar beschadigd, foto intact. Man en vrouw met inlandse jongen.\r\n + 3 kleine ronde foto´s familie Pilon." .
 <https://n2t.net/ark:/27023/1f739dc5be1a3b4824ec05a68a4ad7c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1f739dc5be1a3b4824ec05a68a4ad7c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#identifier> "1885/09-1-60" .
-<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#name> "Man en zittende vrouw" .
-<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#description> "Tekening, in kleur, aquarel. Opgeplakt op papier.\r\nMan met zittende vrouw.\r\nLinksonder gesigneerd: \"J.A. Langendijk, 1809.\"\r\nGestempeld op achterzijde: \"A. Ver Huell\".\r\nRechtsonder op passepartout: \"No.9.\", op achterzijde: \"V.14.; N.8.\"" .
-<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1f388492425771b4fc2f8b4cb90bc2a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/48" .
-<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#name> "Drie poserende militairen, op de achtergrond een meer" .
-<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#description> "Drie poserende militairen, op de achtergrond een meer.\r\nAchter op de foto geschreven \"links. Gerrit Dominicus, Nw. Guinea ´50\"." .
-<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1f70830adf2c487dfa52e74f81e3632e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1f21619865bd686a4f82ba325a0c11cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1f21619865bd686a4f82ba325a0c11cf> <https://colonialcollections.nl/schema#identifier> "nf%201423-10" .
 <https://n2t.net/ark:/27023/1f21619865bd686a4f82ba325a0c11cf> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, formaat 9x13, los aangetroffen in pergamijnzakje, met een in inkt geschreven nummer 6549.\r\n\r\nOpname toont een moeilijk te beshcrijven beeld. De linkerkant van de foto lijkt een enorm mensengezicht te zijn. Een flinke neus, daarond" .

@@ -19,6 +19,21 @@
 <https://n2t.net/ark:/27023/73d3fa513d313a28e22720a4ed479cf8> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/73d3fa513d313a28e22720a4ed479cf8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/73d3fa513d313a28e22720a4ed479cf8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/73d3fa513d313a28e22720a4ed479cf8> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-435" .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#name> "Petembleem Commissaris van Politie (?) Polisi Indonesia" .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#description> "Petembleem geborduurd van gouddraad op zwarte katoen. Het motief bestaat uit de garuda op een banderol in een lauwerkrans. De keerzijde van het embleem is van zwarte katoen. Op de keerzijde een sticker van wit papier met in oranje letters hendrikx" .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#creator> "Hendrikx" .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/58" .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#name> "Man, poserend voor een gebouw" .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#description> "Man, poserend voor een gebouw.\r\nAchter op foto geschreven \"Lt. Kolonel L. Vriesman ± 1948/49\". Dubbel\"." .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/73e93910f30acc6f5f57e58ddb332310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/73e93910f30acc6f5f57e58ddb332310> <https://colonialcollections.nl/schema#identifier> "nf%20335-25-1" .
 <https://n2t.net/ark:/27023/73e93910f30acc6f5f57e58ddb332310> <https://colonialcollections.nl/schema#name> "Duinen Wassenaar" .
@@ -522,18 +537,6 @@
 <https://n2t.net/ark:/27023/73f702c4000b9580b38225a3d009cded> <https://colonialcollections.nl/schema#description> "Sabeldragon." .
 <https://n2t.net/ark:/27023/73f702c4000b9580b38225a3d009cded> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/73f702c4000b9580b38225a3d009cded> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-435" .
-<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#name> "Petembleem Commissaris van Politie (?) Polisi Indonesia" .
-<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#description> "Petembleem geborduurd van gouddraad op zwarte katoen. Het motief bestaat uit de garuda op een banderol in een lauwerkrans. De keerzijde van het embleem is van zwarte katoen. Op de keerzijde een sticker van wit papier met in oranje letters hendrikx" .
-<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/73d4ae0d0289e383c92736fa0eb7d3e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/58" .
-<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#name> "Man, poserend voor een gebouw" .
-<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#description> "Man, poserend voor een gebouw.\r\nAchter op foto geschreven \"Lt. Kolonel L. Vriesman ± 1948/49\". Dubbel\"." .
-<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/73df8ae06aa89ecefc860d6613fed355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/73b26ae3374aea1155192f775658d0c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/73b26ae3374aea1155192f775658d0c5> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42296" .
 <https://n2t.net/ark:/27023/73b26ae3374aea1155192f775658d0c5> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpatroontas\r\nRubriek:\t(niet ingevoerd)\r\nMedia:\t2829\r\nHuidige standplaats:\t[2829] Depot, 17, R a [17 R a]" .

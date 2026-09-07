@@ -12,6 +12,13 @@
 <https://n2t.net/ark:/27023/a9aa0842ac0545b357490dd5d9f9fed6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a9aa0842ac0545b357490dd5d9f9fed6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9aa0842ac0545b357490dd5d9f9fed6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#identifier> "nf%20860-2" .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#name> "Insulindepark, Bandoeng" .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van het Insulindepark te Bandung.\r\n\r\nMiddenonder vermeld; 'Insulindepark, Bandoeng'. \r\nGedeelde achterkant met overdwars vermeld; 'Uitgave: N.V. Mij. Vorkink," .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9c6ca9c1e83bb26cdbb93e803e54dee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9c6ca9c1e83bb26cdbb93e803e54dee> <https://colonialcollections.nl/schema#identifier> "1994/09/22-3-3/3" .
 <https://n2t.net/ark:/27023/a9c6ca9c1e83bb26cdbb93e803e54dee> <https://colonialcollections.nl/schema#name> "Document over D. Garritsen 'Onder Gouden Tropenzon'" .
@@ -20,6 +27,20 @@
 <https://n2t.net/ark:/27023/a9c6ca9c1e83bb26cdbb93e803e54dee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9c6ca9c1e83bb26cdbb93e803e54dee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9c6ca9c1e83bb26cdbb93e803e54dee> <https://colonialcollections.nl/schema#creator> "H. Meijer" .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-177" .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#name> "Uniformjas toetoep" .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#description> "Witte katoenen uniformjas toetoep, genummerd met zwarte viltstift in de kraag 023, behorende bij pantalon inv.nr. 1997/07/19-1-173.\r\nIn de kraag geborduurd in rood J.S. Met zwarte viltstift in de kraag vermeld: J. Streef.\r\nIn de kraag etiket van Stemmerik" .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#creator> "Stemmerik & Co, Den Haag-Soerabaja" .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-6" .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#name> "Portret van Léonard Vicomte du Bus de Gisignies" .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#description> "Prent, lithografie. Portret van Portret van Léonard Vicomte du Bus de Gisignies. In een passepartout in ovale vorm. Lijst ontbreekt.\r\n1828?" .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#creator> "J.B.A.M. Jobard" .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9dcd7a33f6fc4d56c0587be35a57ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9dcd7a33f6fc4d56c0587be35a57ac9> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/33" .
 <https://n2t.net/ark:/27023/a9dcd7a33f6fc4d56c0587be35a57ac9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart  Nederlands-Indië. Passar straat Malang" .
@@ -27,6 +48,13 @@
 <https://n2t.net/ark:/27023/a9dcd7a33f6fc4d56c0587be35a57ac9> <https://colonialcollections.nl/schema#creator> "Warenhuis Saeki Malang" .
 <https://n2t.net/ark:/27023/a9dcd7a33f6fc4d56c0587be35a57ac9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9dcd7a33f6fc4d56c0587be35a57ac9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#identifier> "2002/01/07-1-14" .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#name> "Digitale print van een carte-de-visite van C. Fanel of C. Fauël" .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#description> "Digitale print van een carte-de-visite met fotografisch portret van C. Fanel / C. Fauël.\r\n\r\nMet pen onder de afbeelding geschreven: C. Fauël." .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#creator> "H.I. van Dorp" .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9def696df57f8670daa2bac856bdfe0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9def696df57f8670daa2bac856bdfe0> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/36" .
 <https://n2t.net/ark:/27023/a9def696df57f8670daa2bac856bdfe0> <https://colonialcollections.nl/schema#name> "Twee bewoners Bronbeek, één zittend, de ander luid lachend" .
@@ -34,6 +62,13 @@
 <https://n2t.net/ark:/27023/a9def696df57f8670daa2bac856bdfe0> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/a9def696df57f8670daa2bac856bdfe0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9def696df57f8670daa2bac856bdfe0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#identifier> "1999/07/27-2-2" .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#name> "Langspeelplaat \"Mijn Iboe, Indische levensliedjes van Ben Snijders\"" .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#description> "Langspeelplaat \"Mijn Iboe, Indische levensliedjes van Ben Snijders\". RCA : LPM -9836-E." .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#creator> "Ben Snijders" .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9a780dcfe0b8102bae8c40a8b894eb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9a780dcfe0b8102bae8c40a8b894eb4> <https://colonialcollections.nl/schema#identifier> "nf%20202" .
 <https://n2t.net/ark:/27023/a9a780dcfe0b8102bae8c40a8b894eb4> <https://colonialcollections.nl/schema#description> "gezicht op twee quonsethutten, de deuren staan open en voor een barak staat een vrouw.\r\n\r\nAangenomen is dat deze foto uit Nieuw Guinea stamt." .
@@ -52,6 +87,12 @@
 <https://n2t.net/ark:/27023/a9abba857c1786959cdc5bc4cdc80324> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a9abba857c1786959cdc5bc4cdc80324> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9abba857c1786959cdc5bc4cdc80324> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#identifier> "nf%20323-31-1" .
+<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#description> "bijschrift; 'Doorbraan van den weg bij Ndetoesoko.'" .
+<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9ac8bed30bd7a2a86b5017ef88a9699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9ac8bed30bd7a2a86b5017ef88a9699> <https://colonialcollections.nl/schema#identifier> "nf%201918-172" .
 <https://n2t.net/ark:/27023/a9ac8bed30bd7a2a86b5017ef88a9699> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOpnames tonen een aantal gebouwen. Waarschijnlijk zijn dit woonhuizen op een cultuuronderneming. Op de voorgrond hoge bomen.\r\n\r\nN.B.: Het is niet gemeld, maar aangenomen wordt d" .
@@ -510,36 +551,6 @@
 <https://n2t.net/ark:/27023/a9eed91e8c7a816aaa6d00774b6879a5> <https://colonialcollections.nl/schema#description> "Bladzijde uit een album van 97 bladen waarin foto's van leden van Vereniging van Oud-Onderofficieren van het KNIL \"Madjoe\" zijn opgenomen.\r\nGroepsfoto van dames en heren bij het vaandel van Madjoe afdeling Den Haag. Met diverse bloemstukken. Mogelijk verj" .
 <https://n2t.net/ark:/27023/a9eed91e8c7a816aaa6d00774b6879a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9eed91e8c7a816aaa6d00774b6879a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#identifier> "nf%20860-2" .
-<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#name> "Insulindepark, Bandoeng" .
-<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van het Insulindepark te Bandung.\r\n\r\nMiddenonder vermeld; 'Insulindepark, Bandoeng'. \r\nGedeelde achterkant met overdwars vermeld; 'Uitgave: N.V. Mij. Vorkink," .
-<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9c0e894dca5319f37118ad89cd0d3b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-177" .
-<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#name> "Uniformjas toetoep" .
-<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#description> "Witte katoenen uniformjas toetoep, genummerd met zwarte viltstift in de kraag 023, behorende bij pantalon inv.nr. 1997/07/19-1-173.\r\nIn de kraag geborduurd in rood J.S. Met zwarte viltstift in de kraag vermeld: J. Streef.\r\nIn de kraag etiket van Stemmerik" .
-<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9c9be55f64c76c70c14a570995385ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-6" .
-<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#name> "Portret van Léonard Vicomte du Bus de Gisignies" .
-<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#description> "Prent, lithografie. Portret van Portret van Léonard Vicomte du Bus de Gisignies. In een passepartout in ovale vorm. Lijst ontbreekt.\r\n1828?" .
-<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9cf6f80f93f8d09f96c5f33460bbb72> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#identifier> "2002/01/07-1-14" .
-<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#name> "Digitale print van een carte-de-visite van C. Fanel of C. Fauël" .
-<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#description> "Digitale print van een carte-de-visite met fotografisch portret van C. Fanel / C. Fauël.\r\n\r\nMet pen onder de afbeelding geschreven: C. Fauël." .
-<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9dcfa8c90563209b1720b925554b380> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#identifier> "1999/07/27-2-2" .
-<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#name> "Langspeelplaat \"Mijn Iboe, Indische levensliedjes van Ben Snijders\"" .
-<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#description> "Langspeelplaat \"Mijn Iboe, Indische levensliedjes van Ben Snijders\". RCA : LPM -9836-E." .
-<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9e741bc8e686dcd0fd5c5e5a53170e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9c41469f1713f7470c5fde03994c6b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9c41469f1713f7470c5fde03994c6b6> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43272" .
 <https://n2t.net/ark:/27023/a9c41469f1713f7470c5fde03994c6b6> <https://colonialcollections.nl/schema#description> "Pijl met houten punt" .
@@ -575,11 +586,6 @@
 <https://n2t.net/ark:/27023/a9eb86ec7446615d65afeb69f042ef9a> <https://colonialcollections.nl/schema#description> "Houwwapen met schede en een glad lemmet. Greep van hoorn, glad, met zilveren steelring, schede van zwart hout met boven- en onderaan zilver beslag met plantmotieven.\r\nHerkomst: Java." .
 <https://n2t.net/ark:/27023/a9eb86ec7446615d65afeb69f042ef9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9eb86ec7446615d65afeb69f042ef9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#identifier> "nf%20323-31-1" .
-<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#description> "bijschrift; 'Doorbraan van den weg bij Ndetoesoko.'" .
-<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9abf222ac1a45791b4c801c1d2dd856> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9c57691c7ddcad82519b964bee71695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9c57691c7ddcad82519b964bee71695> <https://colonialcollections.nl/schema#identifier> "1921/04/01-3-75" .
 <https://n2t.net/ark:/27023/a9c57691c7ddcad82519b964bee71695> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

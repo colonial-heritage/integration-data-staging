@@ -3,9 +3,17 @@
 <https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#name> "Javaansche prins. Solo. Java." .
 <https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door G.C.T. van Dorp & Co, Semarang-Soerabaia. Voorstellende een Javaansche prins. Solo. Java. Naar een tekening van J. van der Heyden." .
 <https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#inscription> "Javaansche prins. Solo. Java." .
-<https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
 <https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5a469f447fbf8db4c921035a43e086a9> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#identifier> "2001/02/26-9-5" .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#name> "Invaliden - Bronbeek 1897" .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#description> "Kleurenreproductie:  Chromodruk. Invaliden - Bronbeek 1897\r\nRechtsonder initialen: J.H.v P." .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5a162c761467cf2d134a6004388c16ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5a162c761467cf2d134a6004388c16ab> <https://colonialcollections.nl/schema#identifier> "2016/12/28-6-1" .
 <https://n2t.net/ark:/27023/5a162c761467cf2d134a6004388c16ab> <https://colonialcollections.nl/schema#name> "Fotomozaiek landschap noordkust eiland Bangka Indonesië" .
@@ -20,6 +28,13 @@
 <https://n2t.net/ark:/27023/5a182ea2ebd9fdffb85093ce06e0af26> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
 <https://n2t.net/ark:/27023/5a182ea2ebd9fdffb85093ce06e0af26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5a182ea2ebd9fdffb85093ce06e0af26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/46" .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van L. Krijnen.\r\nVerso: \"1943. Het Arbeidsdienstkamp 132 N.A.D. Sellingen [kamp 132 Nederlandse Arbeidsdienst (N.A.D.) Sellingen]. De Slangenberg. genomen door Bertus v. As den 4de December 1943 gezicht op de 3de en 4de Groepsbarak" .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#creator> "Bertus van As" .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5a359489b7ffd708486c652964db0540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5a359489b7ffd708486c652964db0540> <https://colonialcollections.nl/schema#identifier> "1960/05/02-1/55" .
 <https://n2t.net/ark:/27023/5a359489b7ffd708486c652964db0540> <https://colonialcollections.nl/schema#name> "Mouwembleem Nationaliteitsembleem KNIL (\"mouw-leeuw\")" .
@@ -34,6 +49,13 @@
 <https://n2t.net/ark:/27023/5a3925bcdf4aa34b93232bde98148e50> <https://colonialcollections.nl/schema#creator> "Cordesius & Zonen" .
 <https://n2t.net/ark:/27023/5a3925bcdf4aa34b93232bde98148e50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5a3925bcdf4aa34b93232bde98148e50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/72" .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Swieten-v. Cammingha, geb. 19 oktober 1896.\r\n[N.B.! achternaam staat in verkeerde volgorde; meisjesnaam is Van Swieten].\r\nFo" .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#creator> "W. Koenecke" .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5a44c43ef952652151e4503dd35d5633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5a44c43ef952652151e4503dd35d5633> <https://colonialcollections.nl/schema#identifier> "2017/08/14-1-1" .
 <https://n2t.net/ark:/27023/5a44c43ef952652151e4503dd35d5633> <https://colonialcollections.nl/schema#name> "Foto kampement cavalerie - artillerie te Soerakarta" .
@@ -520,24 +542,6 @@
 <https://n2t.net/ark:/27023/5a5881221434a6b65bb7a032205534d7> <https://colonialcollections.nl/schema#description> "Medaille, aan lint. Ereteken voor Belangrijke Krijgsverrichtingen met gesp Atjeh 1873-1880" .
 <https://n2t.net/ark:/27023/5a5881221434a6b65bb7a032205534d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5a5881221434a6b65bb7a032205534d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#identifier> "2001/02/26-9-5" .
-<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#name> "Invaliden - Bronbeek 1897" .
-<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#description> "Kleurenreproductie:  Chromodruk. Invaliden - Bronbeek 1897\r\nRechtsonder initialen: J.H.v P." .
-<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5a15e95b1823aafe0fe8c47738490a7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/46" .
-<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
-<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van L. Krijnen.\r\nVerso: \"1943. Het Arbeidsdienstkamp 132 N.A.D. Sellingen [kamp 132 Nederlandse Arbeidsdienst (N.A.D.) Sellingen]. De Slangenberg. genomen door Bertus v. As den 4de December 1943 gezicht op de 3de en 4de Groepsbarak" .
-<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5a1cc12adb92dfa6b1fa26da08cc57ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/72" .
-<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Swieten-v. Cammingha, geb. 19 oktober 1896.\r\n[N.B.! achternaam staat in verkeerde volgorde; meisjesnaam is Van Swieten].\r\nFo" .
-<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5a3e1132d7fd4a3481160c39816dc36b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5a13d69782410b7e0e557ced4532bbcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5a13d69782410b7e0e557ced4532bbcd> <https://colonialcollections.nl/schema#identifier> "nf%20899-65" .
 <https://n2t.net/ark:/27023/5a13d69782410b7e0e557ced4532bbcd> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nOpname van een blanke vrouw met aan weerszijden een blank kind. Alle drie hebben een hoed op, waardoor zij minder makkelijk zijn te herkennen." .

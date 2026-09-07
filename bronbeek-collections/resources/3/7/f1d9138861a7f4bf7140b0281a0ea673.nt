@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-29" .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#name> "61. Bevloeiingswerken op Java" .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n61. Bevloeiingswerken op Java" .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#inscription> "61. Bevloeiingswerken op Java" .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1deded744be6776916920f26fab0dd4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1deded744be6776916920f26fab0dd4a> <https://colonialcollections.nl/schema#identifier> "1862/12-2-30" .
 <https://n2t.net/ark:/27023/1deded744be6776916920f26fab0dd4a> <https://colonialcollections.nl/schema#name> "Portret van Generaal L.P.J. Snabilié, RMWO-4" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/1deded744be6776916920f26fab0dd4a> <https://colonialcollections.nl/schema#creator> "J. Ephraim" .
 <https://n2t.net/ark:/27023/1deded744be6776916920f26fab0dd4a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1deded744be6776916920f26fab0dd4a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#identifier> "2016/02/28-5-1" .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#name> "Vaas als huldeblijk aan Luitenant-generaal J. van Swieten, 1875" .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#description> "Karton waarop een foto van de vaas, die als huldeblijk werd overhandigd aan luitenant-generaal J. van Swieten in het Parklokaal te Amsterdam, 13 januari 1875.\r\n\"Huldeblijk den Luitenant Generaal J. van Swieten: aangeboden in het Parklokaal te Amsterdam. 1" .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#creator> "Wegner & Mottu" .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1e08f670dc116185d68c67fd1bf0d011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1e08f670dc116185d68c67fd1bf0d011> <https://colonialcollections.nl/schema#identifier> "2018/03/20-2-2" .
 <https://n2t.net/ark:/27023/1e08f670dc116185d68c67fd1bf0d011> <https://colonialcollections.nl/schema#name> "Ons Toneel. Maandblad voor het amateur-toneel." .
@@ -80,13 +95,6 @@
 <https://n2t.net/ark:/27023/1e253651c93d6da8f8e6ad02b12e7bd7> <https://colonialcollections.nl/schema#inscription> "Post Card" .
 <https://n2t.net/ark:/27023/1e253651c93d6da8f8e6ad02b12e7bd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1e253651c93d6da8f8e6ad02b12e7bd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-29" .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#name> "61. Bevloeiingswerken op Java" .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n61. Bevloeiingswerken op Java" .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#inscription> "61. Bevloeiingswerken op Java" .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1e319e1df4677fbe8445e193489162d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1ded0a117eedfbc2ae924d10d2b74f1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1ded0a117eedfbc2ae924d10d2b74f1b> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-119" .
 <https://n2t.net/ark:/27023/1ded0a117eedfbc2ae924d10d2b74f1b> <https://colonialcollections.nl/schema#name> "Schouderbedekking wit ambtskostuum districtssekretaris Suriname" .
@@ -543,12 +551,6 @@
 <https://n2t.net/ark:/27023/1e3163bdcefaa8670662c89a7a21cb03> <https://colonialcollections.nl/schema#description> "Attila. Stamboeknummer: 370599" .
 <https://n2t.net/ark:/27023/1e3163bdcefaa8670662c89a7a21cb03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1e3163bdcefaa8670662c89a7a21cb03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#identifier> "2016/02/28-5-1" .
-<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#name> "Vaas als huldeblijk aan Luitenant-generaal J. van Swieten, 1875" .
-<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#description> "Karton waarop een foto van de vaas, die als huldeblijk werd overhandigd aan luitenant-generaal J. van Swieten in het Parklokaal te Amsterdam, 13 januari 1875.\r\n\"Huldeblijk den Luitenant Generaal J. van Swieten: aangeboden in het Parklokaal te Amsterdam. 1" .
-<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1e026b388bc210a9af24050382659c26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1def82326d553f23435932f3c45cc442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1def82326d553f23435932f3c45cc442> <https://colonialcollections.nl/schema#identifier> "nf%20840-40-2" .
 <https://n2t.net/ark:/27023/1def82326d553f23435932f3c45cc442> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Medan 16 Juni '37\"\r\n\r\nOpname toont mw Thies, temidden van vele andere blanke personen, op een vliegveld " .

@@ -14,6 +14,42 @@
 <https://n2t.net/ark:/27023/d229c1dae0c7daff40f6c2b7963d5eb7> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/d229c1dae0c7daff40f6c2b7963d5eb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d229c1dae0c7daff40f6c2b7963d5eb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-34" .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#name> "No.20 Zwem Bassin Malang (Java)" .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  \"No.20 Zwem Bassin Malang (Java)\"" .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#inscription> "No.20 Zwem Bassin Malang (Java)" .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#creator> "Kawai & Co. Bandoeng" .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/41" .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#name> "Kleine Vijver met fontein ´s Lands Plantentuin. Buitenzorg." .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Kleine Vijver met fontein ´s Lands Plantentuin. Buitenzorg." .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#creator> "Archipel Drukkerij en Boekhandel" .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-3" .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#creator> "Toko Bie Kong" .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#identifier> "2001/01/09-4-5/4" .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#name> "Kaart van Makassar en Omstreken\". Opgenomen en in kaart gebracht gedurende de maanden maart t/m juni 1892 en maart 1893. door den Kapitein der Infanterie H.F.W.B.E. von Seijdlitz Kurzbach. Schaal 1:20.000" .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#description> "Geografische kaart. \"Kaart van Makassar en Omstreken\". Opgenomen en in kaart gebracht gedurende de maanden maart t/m juni 1892 en maart 1893. door den Kapitein der Infanterie H.F.W.B.E. von Seijdlitz Kurzbach. Schaal 1:20.000. Op linnen geplakt, in delen." .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#creator> "Kapitein der Infanterie H.F.W.B.E. von Seijdlitz Kurzbach" .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#identifier> "1971/07/15-1-12" .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#name> "Bivak Tangsé, genomen vanaf het gebergte Singlle Mata op 25 juni 1915" .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#description> "Foto. Op karton. \"Bivak Tangsé, genomen vanaf het gebergte Singlle Mata op 25 juni 1915. F.W.E. Hess\"\r\n\"Mee Yong Photographer\"" .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#creator> "Yong Mee" .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d233832fa86fb568e1d185bd55eed85d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d233832fa86fb568e1d185bd55eed85d> <https://colonialcollections.nl/schema#identifier> "nf%20605-22" .
 <https://n2t.net/ark:/27023/d233832fa86fb568e1d185bd55eed85d> <https://colonialcollections.nl/schema#name> "steunmuur met trein bij Anei rivier" .
@@ -72,13 +108,6 @@
 <https://n2t.net/ark:/27023/d235cf295d376542038ac37acb362cb4> <https://colonialcollections.nl/schema#inscription> "88183; M. Bervoets" .
 <https://n2t.net/ark:/27023/d235cf295d376542038ac37acb362cb4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d235cf295d376542038ac37acb362cb4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-34" .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#name> "No.20 Zwem Bassin Malang (Java)" .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  \"No.20 Zwem Bassin Malang (Java)\"" .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#inscription> "No.20 Zwem Bassin Malang (Java)" .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d2336d012e4f8465bd0d0efe165d6b33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d1dde9ffd6056044c87874f60a572d0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d1dde9ffd6056044c87874f60a572d0f> <https://colonialcollections.nl/schema#identifier> "1990/08/20-8-3" .
 <https://n2t.net/ark:/27023/d1dde9ffd6056044c87874f60a572d0f> <https://colonialcollections.nl/schema#name> "Overlijdensbericht dd. 24 april 1947 betreffende A.J.P. v.d. Veen" .
@@ -487,30 +516,6 @@
 <https://n2t.net/ark:/27023/d2372d4a66a50e8b8f0ceb58a48d386c> <https://colonialcollections.nl/schema#description> "Krisgreep Madoera, gesneden ivoor, geheel bewerkt. Afm. 10 cm." .
 <https://n2t.net/ark:/27023/d2372d4a66a50e8b8f0ceb58a48d386c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d2372d4a66a50e8b8f0ceb58a48d386c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/41" .
-<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#name> "Kleine Vijver met fontein ´s Lands Plantentuin. Buitenzorg." .
-<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Kleine Vijver met fontein ´s Lands Plantentuin. Buitenzorg." .
-<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d21b0109f041fd2937ad097c764f528e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-3" .
-<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
-<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
-<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d22033a5ed4233b21b511b7dad053d52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#identifier> "2001/01/09-4-5/4" .
-<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#name> "Kaart van Makassar en Omstreken\". Opgenomen en in kaart gebracht gedurende de maanden maart t/m juni 1892 en maart 1893. door den Kapitein der Infanterie H.F.W.B.E. von Seijdlitz Kurzbach. Schaal 1:20.000" .
-<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#description> "Geografische kaart. \"Kaart van Makassar en Omstreken\". Opgenomen en in kaart gebracht gedurende de maanden maart t/m juni 1892 en maart 1893. door den Kapitein der Infanterie H.F.W.B.E. von Seijdlitz Kurzbach. Schaal 1:20.000. Op linnen geplakt, in delen." .
-<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d2235d81780273c5f5aa902a98f6c640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#identifier> "1971/07/15-1-12" .
-<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#name> "Bivak Tangsé, genomen vanaf het gebergte Singlle Mata op 25 juni 1915" .
-<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#description> "Foto. Op karton. \"Bivak Tangsé, genomen vanaf het gebergte Singlle Mata op 25 juni 1915. F.W.E. Hess\"\r\n\"Mee Yong Photographer\"" .
-<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d228d66f1f118459a5971257b5a12e34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d1e307dd73c24b1742799eecb3da30ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d1e307dd73c24b1742799eecb3da30ab> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44111" .
 <https://n2t.net/ark:/27023/d1e307dd73c24b1742799eecb3da30ab> <https://colonialcollections.nl/schema#description> "Pijl van sagobladnerf" .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-32" .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#name> "70. Kerk, School en Ziekenhuis der Christelijke zending te Pea-Radja. (Bataklanden Soematra)" .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n70. Kerk, School en Ziekenhuis der Christelijke zending te Pea-Radja. (Bataklanden Soematra)" .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#inscription> "70. Kerk, School en Ziekenhuis der Christelijke zending te Pea-Radja. (Bataklanden Soematra)" .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3a5a4c408b596bbd51ba2a5bab91f98f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a5a4c408b596bbd51ba2a5bab91f98f> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-20/2" .
 <https://n2t.net/ark:/27023/3a5a4c408b596bbd51ba2a5bab91f98f> <https://colonialcollections.nl/schema#name> "Pantalon Kolonel, KNIL" .
@@ -12,6 +20,8 @@
 <https://n2t.net/ark:/27023/3a655e5e95ae1981c9bf83438e454de2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3a655e5e95ae1981c9bf83438e454de2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3a655e5e95ae1981c9bf83438e454de2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3a655e5e95ae1981c9bf83438e454de2> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/3a655e5e95ae1981c9bf83438e454de2> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/3a6572d21e03cf5100bfe7571ccb0f61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a6572d21e03cf5100bfe7571ccb0f61> <https://colonialcollections.nl/schema#identifier> "nf%20842-118" .
 <https://n2t.net/ark:/27023/3a6572d21e03cf5100bfe7571ccb0f61> <https://colonialcollections.nl/schema#name> "Verkoper voor zijn toko" .
@@ -33,6 +43,20 @@
 <https://n2t.net/ark:/27023/3a680308785a0a22248c0d8105da81ec> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3a680308785a0a22248c0d8105da81ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3a680308785a0a22248c0d8105da81ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-4" .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#creator> "Toko Bie Kong" .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-28" .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#name> "Portret van kapitein der Marechaussee P.Th. de Groot in atilla" .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit (bruinig en mat). Portret van P.Th. de Groot, kapitein der Marechaussee. Hij draagt een atilla met ´bloedvingers´. Hij zit aan tafel, heeft een boek in zijn handen en kijkt naar de camera.\r\nDe foto is op dun bruin karton geplakt.\r\nOnder de " .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#creator> "Tim [?] Francken" .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3a6b49bde05a43cb663d977263cd9488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a6b49bde05a43cb663d977263cd9488> <https://colonialcollections.nl/schema#identifier> "nf%201628-1" .
 <https://n2t.net/ark:/27023/3a6b49bde05a43cb663d977263cd9488> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant in potlood: 'Gemaakt ter gelegenheid van de in gebruikneming van het nieuwe Hoofdpost- en Telegraafkantoor te Banddoeng in 1928'\r\nOok is er een lijst met namen van het europees personeel (hier niet in TMS" .
@@ -45,6 +69,12 @@
 <https://n2t.net/ark:/27023/3a743cd68fdc5b92213cd691b9a89eda> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3a743cd68fdc5b92213cd691b9a89eda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3a743cd68fdc5b92213cd691b9a89eda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-27" .
+<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#description> "Carte de visite." .
+<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#creator> "C.A. von Hedemann, Java" .
+<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3a969c8efc43d365a4bc8980f459fcc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a969c8efc43d365a4bc8980f459fcc9> <https://colonialcollections.nl/schema#identifier> "nf%20783-7" .
 <https://n2t.net/ark:/27023/3a969c8efc43d365a4bc8980f459fcc9> <https://colonialcollections.nl/schema#description> "Droge bedding van een kanaal met (vervallen) loopbrug" .
@@ -86,13 +116,6 @@
 <https://n2t.net/ark:/27023/3a9e2c53f906e5456eb71ac5987a3fd7> <https://colonialcollections.nl/schema#inscription> "Basmilah Kekatjauan; Aanplakbiljet october 1947" .
 <https://n2t.net/ark:/27023/3a9e2c53f906e5456eb71ac5987a3fd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3a9e2c53f906e5456eb71ac5987a3fd7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-32" .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#name> "70. Kerk, School en Ziekenhuis der Christelijke zending te Pea-Radja. (Bataklanden Soematra)" .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n70. Kerk, School en Ziekenhuis der Christelijke zending te Pea-Radja. (Bataklanden Soematra)" .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#inscription> "70. Kerk, School en Ziekenhuis der Christelijke zending te Pea-Radja. (Bataklanden Soematra)" .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3a88d20cce11dddae49b24871d5f63fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3a54bd068ad992a431005abd44422cc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a54bd068ad992a431005abd44422cc5> <https://colonialcollections.nl/schema#identifier> "IB2004/04/07-9" .
 <https://n2t.net/ark:/27023/3a54bd068ad992a431005abd44422cc5> <https://colonialcollections.nl/schema#name> "Indonesische sabel naar Japans model" .
@@ -507,18 +530,6 @@
 <https://n2t.net/ark:/27023/3aa3003b92adc3c923c1f2aea3e20e7b> <https://colonialcollections.nl/schema#description> "Medaille aan lint  \"Perang Kemerdekaan II\". S.Peristiwa. Onderscheiding voor acties tijdens de tweede Politionele Actie" .
 <https://n2t.net/ark:/27023/3aa3003b92adc3c923c1f2aea3e20e7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3aa3003b92adc3c923c1f2aea3e20e7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-4" .
-<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
-<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
-<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3a716dcf986cbc9015ef180c5e698aaf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-28" .
-<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#name> "Portret van kapitein der Marechaussee P.Th. de Groot in atilla" .
-<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit (bruinig en mat). Portret van P.Th. de Groot, kapitein der Marechaussee. Hij draagt een atilla met ´bloedvingers´. Hij zit aan tafel, heeft een boek in zijn handen en kijkt naar de camera.\r\nDe foto is op dun bruin karton geplakt.\r\nOnder de " .
-<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3a7fde3d104f1133cffaa91bc09c369c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3a587de5e15cc6f87ee10f4e1f1d804d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a587de5e15cc6f87ee10f4e1f1d804d> <https://colonialcollections.nl/schema#identifier> "ST%208-3" .
 <https://n2t.net/ark:/27023/3a587de5e15cc6f87ee10f4e1f1d804d> <https://colonialcollections.nl/schema#description> "Beeld van Vishnu op Garuda; Vishnu houdt in zijn rechterhand de pot met amrita (onsterfelijkheidsdrank), zijn linkerhand ligt op zijn knie. Zijn lichaamskleur is blauw en zijn kroon is rood en blauw; hij draagt de voeten van Visnu in zijn opgeheven handen" .
@@ -564,11 +575,6 @@
 <https://n2t.net/ark:/27023/3a9c9b85206d786caaa9da6f3f1d47a5> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/3a9c9b85206d786caaa9da6f3f1d47a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3a9c9b85206d786caaa9da6f3f1d47a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-27" .
-<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#description> "Carte de visite." .
-<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3a9563a07607209cabd9984eca01bebf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3a82bfda91f05c7209c06c5484c04512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3a82bfda91f05c7209c06c5484c04512> <https://colonialcollections.nl/schema#identifier> "E961" .
 <https://n2t.net/ark:/27023/3a82bfda91f05c7209c06c5484c04512> <https://colonialcollections.nl/schema#name> "Orde van de Afrikaanse Ster, België (Onafhankelijke Congostaat = Kongo Vrijstaat), Ordre de L'Etoile Africaine, grootofficier, borstster" .

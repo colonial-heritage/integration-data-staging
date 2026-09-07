@@ -6,6 +6,20 @@
 <https://n2t.net/ark:/27023/17333201e63ab65a56375afbd1588f45> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/17333201e63ab65a56375afbd1588f45> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/17333201e63ab65a56375afbd1588f45> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#identifier> "2006/10/04-1" .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#name> "Overall KNIL" .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#description> "Overall KNIL. Groen \"herringbone\". Gemerkt: N.V.H.Mij \"Oriental\" Afd. Confectie Ketapangweg No. 27A Bat.-C.\"" .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#creator> "N.V.H.Mij \"Oriental\" Afd. Confectie" .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-17" .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#name> "Landkaart Kuala Lumpur" .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#description> "Landkaart Malaya, Kuala Lumpur. Hind 1035, Sheet 3B/15, 4th edition. Herdruk door IIO Map Production Coy. R.E. june 1945.\r\nSchaal 1 inch is 1 mile, of: 1: 63,360 (?)." .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#creator> "IIO Map Production Coy R.E." .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/173271cb2daccfc86afc0458a8835545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/173271cb2daccfc86afc0458a8835545> <https://colonialcollections.nl/schema#identifier> "nf%201262" .
 <https://n2t.net/ark:/27023/173271cb2daccfc86afc0458a8835545> <https://colonialcollections.nl/schema#name> "Missigit van Demak" .
@@ -20,6 +34,13 @@
 <https://n2t.net/ark:/27023/17378e7850059d3a2e83965fdc891afd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/17378e7850059d3a2e83965fdc891afd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/17378e7850059d3a2e83965fdc891afd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-6" .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#name> "W-6. Residential Section Princess Place, Wilmington, North Carolina" .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W-6. Residential Section Princess Place, Wilmington, North Carolina. [in kleurendruk]" .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#creator> "Service News Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/173f68d05b55922a0536ef28a0c23fc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/173f68d05b55922a0536ef28a0c23fc0> <https://colonialcollections.nl/schema#identifier> "nf%20560-3" .
 <https://n2t.net/ark:/27023/173f68d05b55922a0536ef28a0c23fc0> <https://colonialcollections.nl/schema#name> "Spoorbrug" .
@@ -34,6 +55,20 @@
 <https://n2t.net/ark:/27023/17630ca2dcc77f1b3e6fcbcc95b5ebce> <https://colonialcollections.nl/schema#creator> "Johannes Uko Gorter" .
 <https://n2t.net/ark:/27023/17630ca2dcc77f1b3e6fcbcc95b5ebce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/17630ca2dcc77f1b3e6fcbcc95b5ebce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#identifier> "1997/10/25-1-2" .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#name> "Fotoafdruk van een gravure, nr. 15 'Tabak stapelen'" .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#description> "Fotoafdruk van een gravure, nr. 15 'Tabak stapelen' C.J. Kleingrothe, Medan, 1905. Gravure is van J.B. Obernetter, München." .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/1" .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#creator> "J.C. Reesinck Photograaf, Zutphen" .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/17359054f0f1af3bd3e665bfcf81aba0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/17359054f0f1af3bd3e665bfcf81aba0> <https://colonialcollections.nl/schema#identifier> "nf%201919-18" .
 <https://n2t.net/ark:/27023/17359054f0f1af3bd3e665bfcf81aba0> <https://colonialcollections.nl/schema#description> "Kleurennegatief, met 4 anderen geknipt tot strip van 5.\r\n\r\nNegatiefnummer 25\r\n\r\nOpname toont een flink aantal lokale mensen, op de rug gefotografeerd. Het lijkt of er een rode loper is uitgelegd die eindigt bij gebouwen in typisch Toraja stijl. Op de lope" .
@@ -52,6 +87,12 @@
 <https://n2t.net/ark:/27023/1747a562cd57a73961639ad087442a35> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1747a562cd57a73961639ad087442a35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1747a562cd57a73961639ad087442a35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#identifier> "nf%20919" .
+<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, opgeplakt op karton. \r\n\r\nDe opname toont tweetal pylonen, beide geplaatst op zo te zien gecementeerde fundamenten. Aan te nemen valt dat het hier de aanleg betreft van een spoorbrug, over een breed ravijn, waar een rivier doorheen stroomt." .
+<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M.Luites" .
+<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/17667af4f2e754a70e209ab885cddfbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/17667af4f2e754a70e209ab885cddfbe> <https://colonialcollections.nl/schema#identifier> "nf%20331-16" .
 <https://n2t.net/ark:/27023/17667af4f2e754a70e209ab885cddfbe> <https://colonialcollections.nl/schema#description> "onderschrift; 'Pop bij de hertjes'" .
@@ -475,36 +516,6 @@
 <https://n2t.net/ark:/27023/176e89afcaa446ac3ec00b43b14e4b1a> <https://colonialcollections.nl/schema#description> "Foto´s. 90 stuks. Diensttijd Nederlands Indië, 1948-1950. Legertransfusiedienst." .
 <https://n2t.net/ark:/27023/176e89afcaa446ac3ec00b43b14e4b1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/176e89afcaa446ac3ec00b43b14e4b1a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#identifier> "2006/10/04-1" .
-<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#name> "Overall KNIL" .
-<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#description> "Overall KNIL. Groen \"herringbone\". Gemerkt: N.V.H.Mij \"Oriental\" Afd. Confectie Ketapangweg No. 27A Bat.-C.\"" .
-<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/172f4a235c5230622768425f47ce726f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-17" .
-<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#name> "Landkaart Kuala Lumpur" .
-<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#description> "Landkaart Malaya, Kuala Lumpur. Hind 1035, Sheet 3B/15, 4th edition. Herdruk door IIO Map Production Coy. R.E. june 1945.\r\nSchaal 1 inch is 1 mile, of: 1: 63,360 (?)." .
-<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/173207f8ccafdecec5922ba4338edba0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-6" .
-<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#name> "W-6. Residential Section Princess Place, Wilmington, North Carolina" .
-<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W-6. Residential Section Princess Place, Wilmington, North Carolina. [in kleurendruk]" .
-<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/173ef449584a67e0cff307522bcb6ef4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#identifier> "1997/10/25-1-2" .
-<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#name> "Fotoafdruk van een gravure, nr. 15 'Tabak stapelen'" .
-<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#description> "Fotoafdruk van een gravure, nr. 15 'Tabak stapelen' C.J. Kleingrothe, Medan, 1905. Gravure is van J.B. Obernetter, München." .
-<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1765aeeaeea64bc72e0a99412604a5b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/1" .
-<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
-<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
-<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/17686937a00e8a17686eb10385d73987> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1730eeb79c3bd3b5d4b0de3ec1bdb78e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1730eeb79c3bd3b5d4b0de3ec1bdb78e> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-109" .
 <https://n2t.net/ark:/27023/1730eeb79c3bd3b5d4b0de3ec1bdb78e> <https://colonialcollections.nl/schema#description> "Foto op karton." .
@@ -555,11 +566,6 @@
 <https://n2t.net/ark:/27023/176558c76df0f577107c2304336af066> <https://colonialcollections.nl/schema#description> "Als lendengordel gebruikt, waarbij één der einden tussen benen van voren naar achteren wordt doorgehaald en aan achterzijde weer in gordel wordt gestoken.\r\nHerkomst: Z en O-Borneo." .
 <https://n2t.net/ark:/27023/176558c76df0f577107c2304336af066> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/176558c76df0f577107c2304336af066> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#identifier> "nf%20919" .
-<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, opgeplakt op karton. \r\n\r\nDe opname toont tweetal pylonen, beide geplaatst op zo te zien gecementeerde fundamenten. Aan te nemen valt dat het hier de aanleg betreft van een spoorbrug, over een breed ravijn, waar een rivier doorheen stroomt." .
-<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/174986524d7d6646faf3d2b4729721ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/17347158fb11a108b63a240b798147e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/17347158fb11a108b63a240b798147e9> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-232" .
 <https://n2t.net/ark:/27023/17347158fb11a108b63a240b798147e9> <https://colonialcollections.nl/schema#name> "Pijl" .

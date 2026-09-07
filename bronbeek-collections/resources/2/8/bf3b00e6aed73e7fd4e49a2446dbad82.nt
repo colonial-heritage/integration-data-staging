@@ -28,6 +28,7 @@
 <https://n2t.net/ark:/27023/7174d423fb857d4e2c702ef55ce76500> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/7174d423fb857d4e2c702ef55ce76500> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7174d423fb857d4e2c702ef55ce76500> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7174d423fb857d4e2c702ef55ce76500> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/71896b8e2d54437fb0ce6b2cb01429b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/71896b8e2d54437fb0ce6b2cb01429b1> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/8" .
 <https://n2t.net/ark:/27023/71896b8e2d54437fb0ce6b2cb01429b1> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -35,6 +36,13 @@
 <https://n2t.net/ark:/27023/71896b8e2d54437fb0ce6b2cb01429b1> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/71896b8e2d54437fb0ce6b2cb01429b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/71896b8e2d54437fb0ce6b2cb01429b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#identifier> "1997/00-1/161" .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Madioen in vier bladen" .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Madioen in vier bladen, in papieren kaft. Schaal 1: 100.000; Uitg.: Topografische Inrichting, ´s Gravenhage, 1904 (herziene druk)." .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/718aed7eae78ad149db07ecc4b718a2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/718aed7eae78ad149db07ecc4b718a2e> <https://colonialcollections.nl/schema#identifier> "1977/03-1-42" .
 <https://n2t.net/ark:/27023/718aed7eae78ad149db07ecc4b718a2e> <https://colonialcollections.nl/schema#name> "Plas in het gebergte" .
@@ -550,12 +558,6 @@
 <https://n2t.net/ark:/27023/71a67b7bd1a6419bc9bf23b1d4bc3cfc> <https://colonialcollections.nl/schema#description> "Foto's diensttijd." .
 <https://n2t.net/ark:/27023/71a67b7bd1a6419bc9bf23b1d4bc3cfc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/71a67b7bd1a6419bc9bf23b1d4bc3cfc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#identifier> "1997/00-1/161" .
-<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Madioen in vier bladen" .
-<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Madioen in vier bladen, in papieren kaft. Schaal 1: 100.000; Uitg.: Topografische Inrichting, ´s Gravenhage, 1904 (herziene druk)." .
-<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/718ad68b56da736d4d7d75320bafdb12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/71636461b4b4528cec0698a4bc1ac81d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/71636461b4b4528cec0698a4bc1ac81d> <https://colonialcollections.nl/schema#identifier> "S%20146-15" .
 <https://n2t.net/ark:/27023/71636461b4b4528cec0698a4bc1ac81d> <https://colonialcollections.nl/schema#description> "Van geklopte boomschors; rechthoekig stuk; op de ene zijde beschilderd; zwarte omtreklijnen en roodbruine inhoud; aan alle vier zijden gelijk; het middenveld: geel, me roodbruine kruisen.\r\nHerkomst: Halmahera." .

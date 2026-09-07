@@ -23,10 +23,10 @@
 <https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#identifier> "nf%201765-20" .
 <https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#name> "Frederik Hendrik eiland" .
 <https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOpname toont een braakliggend stuk land met op de achtergrond een gebouw op palen en rechts daarvan onbestemde voorwerpen." .
-<https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/4cff68cdd5bae5112bdcdbd7b1297d97> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4d036da12009945bb612de145bbf2fce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4d036da12009945bb612de145bbf2fce> <https://colonialcollections.nl/schema#identifier> "1997/00-1/233" .
 <https://n2t.net/ark:/27023/4d036da12009945bb612de145bbf2fce> <https://colonialcollections.nl/schema#name> "Landkaart Zuid Sumatra, Banka en Biliton" .
@@ -34,6 +34,13 @@
 <https://n2t.net/ark:/27023/4d036da12009945bb612de145bbf2fce> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
 <https://n2t.net/ark:/27023/4d036da12009945bb612de145bbf2fce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4d036da12009945bb612de145bbf2fce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/5-8" .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#name> "Bame Hotel and Filling Staton, Carolina Beach, North Carolina" .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Bame Hotel and Filling Staton, Carolina Beach, North Carolina. Tichnor Quality Views." .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#creator> "E.C.Moore & Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <https://colonialcollections.nl/schema#identifier> "nf%201304-6" .
 <https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <https://colonialcollections.nl/schema#name> "Dretarastra" .
@@ -41,6 +48,7 @@
 <https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4d18cb90b3fb7bc1fec8a21cbbb487cc> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/4d1a3d55372811fe66096ee4a05c4ca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4d1a3d55372811fe66096ee4a05c4ca1> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/33" .
 <https://n2t.net/ark:/27023/4d1a3d55372811fe66096ee4a05c4ca1> <https://colonialcollections.nl/schema#name> "Rietoogst" .
@@ -60,6 +68,7 @@
 <https://n2t.net/ark:/27023/4d246fb917302630674cc2b8693309e3> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4d246fb917302630674cc2b8693309e3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4d246fb917302630674cc2b8693309e3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4d246fb917302630674cc2b8693309e3> <https://colonialcollections.nl/schema#creator> "Foto-handel Meijsters, Medan Sumatra" .
 <https://n2t.net/ark:/27023/4ceb620b3cc142fe0ae6fd9583713316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ceb620b3cc142fe0ae6fd9583713316> <https://colonialcollections.nl/schema#identifier> "2006/12/19-6-1" .
 <https://n2t.net/ark:/27023/4ceb620b3cc142fe0ae6fd9583713316> <https://colonialcollections.nl/schema#name> "Muts van de Koninklijke Marine" .
@@ -517,12 +526,6 @@
 <https://n2t.net/ark:/27023/4d25819eb49d9c757ec457284eb17785> <https://colonialcollections.nl/schema#description> "Patroon .455 tot revolver Webley Mk 1. (scherp)\r\nOp holster zijn 5 (scherpe) patronen aangebracht." .
 <https://n2t.net/ark:/27023/4d25819eb49d9c757ec457284eb17785> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4d25819eb49d9c757ec457284eb17785> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/5-8" .
-<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#name> "Bame Hotel and Filling Staton, Carolina Beach, North Carolina" .
-<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Bame Hotel and Filling Staton, Carolina Beach, North Carolina. Tichnor Quality Views." .
-<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4d1489cd7afca52bde746ca95d51af49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4cde9dd0b92fc65c9a9d99b0ed4d5563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4cde9dd0b92fc65c9a9d99b0ed4d5563> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41976" .
 <https://n2t.net/ark:/27023/4cde9dd0b92fc65c9a9d99b0ed4d5563> <https://colonialcollections.nl/schema#description> "Afdeling:\tMidden en Zuid Amerika\r\nObjectnaam:\tarmband\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tmetaal\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2509\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2509] Depot, LB I, 5 [LB I 5] [1" .

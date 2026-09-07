@@ -11,10 +11,18 @@
 <https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#name> "In de Minahasa - Celebes" .
 <https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#description> "Schoolplaat, kleurendruk, karton. Getekend : \"In de Minahasa - Celebes\". Uit de serie Insulinde in Woord en Beeld, Wolters, Groningen / Batavia." .
 <https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#inscription> "In de Minahasa - Celebes" .
-<https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
+<https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/ac130aa4dff3cf4c02ebd05990855b16> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#identifier> "2002/00-33/36" .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#name> "128. Sultansrechtbank te Djokjakarta. Java." .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n128. Sultansrechtbank te Djokjakarta. Java." .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#inscription> "128. Sultansrechtbank te Djokjakarta. Java." .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <https://colonialcollections.nl/schema#identifier> "2002/11/13-1-18" .
 <https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <https://colonialcollections.nl/schema#name> "Uitzicht o/u naar Thamodjar" .
@@ -23,6 +31,14 @@
 <https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ac3a2fb443943fa7ac77f538a775cf54> <https://colonialcollections.nl/schema#creator> "Mevrouw Th. Weissenborn" .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-56" .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#name> "Foto van Luitenant-generaal J. van Swieten" .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#description> "Foto van Luitenant-generaal J. van Swieten. In klein tenue uniform van 1868. 14 x 10cm" .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/abfbb3b17e41c0e121ed015606939000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/abfbb3b17e41c0e121ed015606939000> <https://colonialcollections.nl/schema#identifier> "nf%20699-7-2" .
 <https://n2t.net/ark:/27023/abfbb3b17e41c0e121ed015606939000> <https://colonialcollections.nl/schema#name> "Bendoro Raden Ayu Ronodiningrat" .
@@ -41,9 +57,10 @@
 <https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#identifier> "nf%201430-8" .
 <https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#name> "Visserij nijverheid" .
 <https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 18.\r\n\r\nOpname toont een inheemse man, Papoea, zittend op een veranda één hoog, bezig met het vlechten van korven, bestemd voor de visserij." .
-<https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ac19f386a7219a6dac9070751ccf7572> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/ac236fb5a6d311e0987b5b7f2ca9a8c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ac236fb5a6d311e0987b5b7f2ca9a8c6> <https://colonialcollections.nl/schema#identifier> "1874/08-2/7" .
 <https://n2t.net/ark:/27023/ac236fb5a6d311e0987b5b7f2ca9a8c6> <https://colonialcollections.nl/schema#name> "Nr. 7: Gezigt op de Atjeh-rivier van de batterij 12 cm achterlaad, uit ´Vierendertig gezichten op Atjeh´" .
@@ -55,9 +72,10 @@
 <https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-90" .
 <https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#name> "Lans" .
 <https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#description> "Japanse lans \"Naginata nobuyoshi\"\r\nrestauratierapport Tammens: \r\nStok: Diverse scheuren gedicht, geplastificeerd oppervlakte geegaliseerd en zwart gelakt.\r\nBovenwinde uitgevoerd in \"tempelrood\"\r\nKoperen beslag gedeeltelijk gesoldeerd en passend gemaakt vo" .
-<https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#creator> "Ing. G.J.F.J. Tammens" .
+<https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#creator> "Nobuyoshi" .
 <https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ac2447435c086fd369a1408045f004ef> <https://colonialcollections.nl/schema#creator> "Ing. G.J.F.J. Tammens" .
 <https://n2t.net/ark:/27023/ac3973cab8b6e62fd0a265e903b3e250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ac3973cab8b6e62fd0a265e903b3e250> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-90" .
 <https://n2t.net/ark:/27023/ac3973cab8b6e62fd0a265e903b3e250> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -77,6 +95,19 @@
 <https://n2t.net/ark:/27023/ac015d76fc41fb1078237ddae97bd085> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/ac015d76fc41fb1078237ddae97bd085> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac015d76fc41fb1078237ddae97bd085> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#identifier> "nf%20681-17" .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#description> "Zwart/wit ansichtkaart.\r\n\r\nDe opname toont het gebeeldhouwde \"Zeemeerminnetje\" op een rots in Kopenhagens haven." .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#creator> "Edvard Eriksen" .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#creator> "Stenders Forlag Eneberettiget" .
+<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#identifier> "nf%20323-22-1" .
+<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#description> "bijschrift; 'Kampong in Ngada'" .
+<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ac1be0f92e36e0088d05783ee4e57d8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ac1be0f92e36e0088d05783ee4e57d8a> <https://colonialcollections.nl/schema#identifier> "nf%20262-1" .
 <https://n2t.net/ark:/27023/ac1be0f92e36e0088d05783ee4e57d8a> <https://colonialcollections.nl/schema#description> "Op de achterkant staat geschreven; \"Hoofdtempel Prambanan tempelgroep\"." .
@@ -97,13 +128,6 @@
 <https://n2t.net/ark:/27023/ac28e77b2a7934bc8848cc6b7b55cf26> <https://colonialcollections.nl/schema#inscription> "22" .
 <https://n2t.net/ark:/27023/ac28e77b2a7934bc8848cc6b7b55cf26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac28e77b2a7934bc8848cc6b7b55cf26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#identifier> "2002/00-33/36" .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#name> "128. Sultansrechtbank te Djokjakarta. Java." .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n128. Sultansrechtbank te Djokjakarta. Java." .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#inscription> "128. Sultansrechtbank te Djokjakarta. Java." .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ac388f4560721b6574b5bc4972fd392d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/abf3618dedfff2fb5f19979f517f2b31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/abf3618dedfff2fb5f19979f517f2b31> <https://colonialcollections.nl/schema#identifier> "2002/07/22-1-26" .
 <https://n2t.net/ark:/27023/abf3618dedfff2fb5f19979f517f2b31> <https://colonialcollections.nl/schema#name> "Bankbiljet 1, Satoe roepiah Dai Nippon Teikoku Seihu. SN" .
@@ -536,12 +560,6 @@
 <https://n2t.net/ark:/27023/ac3ae91f3e1e69b430d2569315e74cf1> <https://colonialcollections.nl/schema#description> "Helm \"Harley Davidson Motor Cycles\", \"LOMBOK\".; gelakt hout met uitgesneden bloemmotieven.\r\n\r\nDeel van tekst uit brief 11 febr. 2006: \"Tijdens mijn aanwezigheid in Indonesië in 2000 heb ik kennisgemaakt met de Generaal van de Sihwang Divisie (onze vroeger" .
 <https://n2t.net/ark:/27023/ac3ae91f3e1e69b430d2569315e74cf1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac3ae91f3e1e69b430d2569315e74cf1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-56" .
-<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#name> "Foto van Luitenant-generaal J. van Swieten" .
-<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#description> "Foto van Luitenant-generaal J. van Swieten. In klein tenue uniform van 1868. 14 x 10cm" .
-<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/abf9a70535234ff70db5e216a5b600ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/abfca304f982fbf182712b4b4471763a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/abfca304f982fbf182712b4b4471763a> <https://colonialcollections.nl/schema#identifier> "nf%20840-5-4" .
 <https://n2t.net/ark:/27023/abfca304f982fbf182712b4b4471763a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, met bijschrift, geldend voor de hele pagina, met tekst op achterkant.\r\n\r\nBijschrift in zilverkleurige inkt luidt: \"1930 Boroboedoer\"\r\n\r\nTekst in potlood op achterkant luidt: \"Boroboedoe" .
@@ -582,16 +600,6 @@
 <https://n2t.net/ark:/27023/ac384d7e99b196c7d61d581b670855f3> <https://colonialcollections.nl/schema#description> "pot gedecoreerd met gamelan muzikanten" .
 <https://n2t.net/ark:/27023/ac384d7e99b196c7d61d581b670855f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ac384d7e99b196c7d61d581b670855f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#identifier> "nf%20681-17" .
-<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#description> "Zwart/wit ansichtkaart.\r\n\r\nDe opname toont het gebeeldhouwde \"Zeemeerminnetje\" op een rots in Kopenhagens haven." .
-<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ac085f6a331611fbcfb1cbd8f7f58324> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#identifier> "nf%20323-22-1" .
-<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#description> "bijschrift; 'Kampong in Ngada'" .
-<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ac0f162e74b193cca03b10b89c7d9dcc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ac09a4970c2feeeaea055f9aabcf3939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ac09a4970c2feeeaea055f9aabcf3939> <https://colonialcollections.nl/schema#identifier> "S%20230-815" .
 <https://n2t.net/ark:/27023/ac09a4970c2feeeaea055f9aabcf3939> <https://colonialcollections.nl/schema#name> "Model van een Centraal-Javaans vissersvaartuig, perahu menteng of perahu kolek" .

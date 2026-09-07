@@ -22,6 +22,13 @@
 <https://n2t.net/ark:/27023/fa621c3efdb63378796558c0f8adb7a5> <https://colonialcollections.nl/schema#creator> "Hans Kautz" .
 <https://n2t.net/ark:/27023/fa621c3efdb63378796558c0f8adb7a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fa621c3efdb63378796558c0f8adb7a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#identifier> "nf%201897-5" .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#name> "Kerkje van de Rijnse zending bij Porsea, Tobameer, Tapanoeli" .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, aangetroffen  in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een gebouw dat het meest weg heeft van een kerk. In de bataklanden is de zending en de missie actief geweest.\r\nOp de voorgrond de voet en wortels van een hoge boom.\r\n\r\nN." .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#creator> "H.F. Tillema" .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fa2991765003d60120b4a0266a47122d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fa2991765003d60120b4a0266a47122d> <https://colonialcollections.nl/schema#identifier> "nf%20580-34" .
 <https://n2t.net/ark:/27023/fa2991765003d60120b4a0266a47122d> <https://colonialcollections.nl/schema#name> "Werklieden in opium fabriek te Weltevreden, Batavia" .
@@ -29,6 +36,21 @@
 <https://n2t.net/ark:/27023/fa2991765003d60120b4a0266a47122d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fa2991765003d60120b4a0266a47122d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fa2991765003d60120b4a0266a47122d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#identifier> "2005/00-314" .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#name> "Oorkonde regeringsjubileum Koningin Wilhlmina 1898-1938" .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#description> "Prent. Oorkonde ter herinnering aan het 40-jarig regeringsjubileum van Koningin Wilhelmina, aanvaard op 6 september 1898." .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#creator> "Uitgeverszaak Knottnerus-Kramer" .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#creator> "D. Vels Heijn" .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-4" .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#name> "Poort van het voormalige kasteel van Batavia" .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#description> "Litho van de poort van het voormalig kasteel van Batavia. Getekend door C. Dieleman" .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#creator> "C. Dieleman" .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fa4a1d10d3c132f9aa93301db011da26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fa4a1d10d3c132f9aa93301db011da26> <https://colonialcollections.nl/schema#identifier> "1997/00-1/384" .
 <https://n2t.net/ark:/27023/fa4a1d10d3c132f9aa93301db011da26> <https://colonialcollections.nl/schema#name> "Kaart van het gebied tussen Salido Ketjil en Bajang, Sumatra" .
@@ -83,6 +105,12 @@
 <https://n2t.net/ark:/27023/fa2c8faae56e908562ae54553983f3bd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fa2c8faae56e908562ae54553983f3bd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fa2c8faae56e908562ae54553983f3bd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#identifier> "X%205978" .
+<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#description> "Plaat uit boek B. van Helsdingen-Schoevers e.a. - De Srimpi- en Bedajadansen aan het Soerakartische hof - 1925" .
+<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#creator> "Tyra Kleen" .
+<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fa3104a2ede4401c45c1c466593ce232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fa3104a2ede4401c45c1c466593ce232> <https://colonialcollections.nl/schema#identifier> "nf%201911-37" .
 <https://n2t.net/ark:/27023/fa3104a2ede4401c45c1c466593ce232> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, met witte rand, opgeplakt in album, geen meegekomen tekst.\r\n\r\nOpname toont een inheems persoon, waarschijnlijk een man. De persoon draagt een lange broek en een jasje en andere kledingstukken daaroverheen. Het hoofddeksel verwijst naar da" .
@@ -95,6 +123,12 @@
 <https://n2t.net/ark:/27023/fa485604f852c78d25594295e5f62778> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fa485604f852c78d25594295e5f62778> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fa485604f852c78d25594295e5f62778> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#identifier> "nf%20896-38" .
+<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, ongekarteld, los aangetroffen achterin fotoalbum EDO 174, met tekst op achterkant.\r\n\r\nDeze gedrukte tekst luidt: \"POST CARD - CARTE POSTALE - Communication - Correspondance - Address - Adresse\" en de plaats waar een p" .
+<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#creator> "Foto's - M. Ohki - Solo" .
+<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fa631c1abf714206db75a9ad8b43c6eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fa631c1abf714206db75a9ad8b43c6eb> <https://colonialcollections.nl/schema#identifier> "nf%20842-711" .
 <https://n2t.net/ark:/27023/fa631c1abf714206db75a9ad8b43c6eb> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 37 t/m 72.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 43, in potloo" .
@@ -497,24 +531,6 @@
 <https://n2t.net/ark:/27023/fa6380c2b763650d9c6034ba9b2788cc> <https://colonialcollections.nl/schema#description> "Mouwembleem, textiel, grapje borduurinrichting, \"EM\", (goud of geel)." .
 <https://n2t.net/ark:/27023/fa6380c2b763650d9c6034ba9b2788cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fa6380c2b763650d9c6034ba9b2788cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#identifier> "nf%201897-5" .
-<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#name> "Kerkje van de Rijnse zending bij Porsea, Tobameer, Tapanoeli" .
-<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, aangetroffen  in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een gebouw dat het meest weg heeft van een kerk. In de bataklanden is de zending en de missie actief geweest.\r\nOp de voorgrond de voet en wortels van een hoge boom.\r\n\r\nN." .
-<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fa2445651cda40c9b192e3a4748cbcfb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#identifier> "2005/00-314" .
-<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#name> "Oorkonde regeringsjubileum Koningin Wilhlmina 1898-1938" .
-<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#description> "Prent. Oorkonde ter herinnering aan het 40-jarig regeringsjubileum van Koningin Wilhelmina, aanvaard op 6 september 1898." .
-<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fa2aeb1692755e4ed34b5e23e668ec44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-4" .
-<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#name> "Poort van het voormalige kasteel van Batavia" .
-<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#description> "Litho van de poort van het voormalig kasteel van Batavia. Getekend door C. Dieleman" .
-<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fa42b4a2a94db83b3cf78df4e786c681> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fa259ed8630d1cd0995c6dcf02212aa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fa259ed8630d1cd0995c6dcf02212aa8> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43957" .
 <https://n2t.net/ark:/27023/fa259ed8630d1cd0995c6dcf02212aa8> <https://colonialcollections.nl/schema#description> "Armband van metaal" .
@@ -580,16 +596,6 @@
 <https://n2t.net/ark:/27023/fa60c460e68b14c5513993fbc21a29aa> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nIn potlood tekst op achterkant: strand - Tjemir  (Serdang)\r\n\r\nOpname toont een blanke man in badpak, achterover liggend op het strand in het water van de zee." .
 <https://n2t.net/ark:/27023/fa60c460e68b14c5513993fbc21a29aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fa60c460e68b14c5513993fbc21a29aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#identifier> "X%205978" .
-<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#description> "Plaat uit boek B. van Helsdingen-Schoevers e.a. - De Srimpi- en Bedajadansen aan het Soerakartische hof - 1925" .
-<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fa2df69e2cfec844c1daa4d64e38a721> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#identifier> "nf%20896-38" .
-<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, ongekarteld, los aangetroffen achterin fotoalbum EDO 174, met tekst op achterkant.\r\n\r\nDeze gedrukte tekst luidt: \"POST CARD - CARTE POSTALE - Communication - Correspondance - Address - Adresse\" en de plaats waar een p" .
-<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fa4a206bd9608642de9b50638746c93e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fa3f8c4f8a30b06bedebe64944eda3fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fa3f8c4f8a30b06bedebe64944eda3fd> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-7" .
 <https://n2t.net/ark:/27023/fa3f8c4f8a30b06bedebe64944eda3fd> <https://colonialcollections.nl/schema#name> "Degen" .

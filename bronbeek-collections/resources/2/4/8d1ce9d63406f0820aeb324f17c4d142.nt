@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1" .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#name> "Briefkaart Tjipaganti, Bandoeng" .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Tjipaganti, Bandoeng (Java). Geadresseerd aan de heer M. Versluis, Stroodorp Kamperland. Afzender: M.N. de Visser Mil. L.A. Andir Bandoeng.\r\nPostzegel beschadigd." .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#inscription> "Tjipaganti, Bandoeng (Java)" .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#creator> "Kawai & Co. Bandoeng" .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/8" .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#name> "Tempel, gefotografeerd tijdens de Bali-expeditie 1906" .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nTempel, gefotografeerd tijdens de Bali-expeditie 1906." .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/90ff451772e3375508415c313e63ff24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/90ff451772e3375508415c313e63ff24> <https://colonialcollections.nl/schema#identifier> "2018/06/11-1-4/8" .
 <https://n2t.net/ark:/27023/90ff451772e3375508415c313e63ff24> <https://colonialcollections.nl/schema#name> "Foto familie Van Delden" .
@@ -8,9 +24,17 @@
 <https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#identifier> "nf%201430-20" .
 <https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#name> "Visser op het meer van Ajamoera" .
 <https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 35/35A.\r\n\r\nOpname toont een meer in het oerwoud. Op het meer een prauw of kano met een man erin. Blijkbaar aan het vissen.\r\n\r\nN.B.: Aangeno" .
-<https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/912865eba73b048f6131a0aa36b8b53b> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#identifier> "2015/07/26-1-7/5" .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#name> "[Militair, adjudant borststuk.]" .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#description> "Carte de visite: “W.Ivens, Nijmegen”. [Militair, adjudant borststuk.]" .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#creator> "Ivens & Co" .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/914c7e3f4180ccd8916a95b3ca51d1f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/914c7e3f4180ccd8916a95b3ca51d1f8> <https://colonialcollections.nl/schema#identifier> "2008/04/23-3-12" .
 <https://n2t.net/ark:/27023/914c7e3f4180ccd8916a95b3ca51d1f8> <https://colonialcollections.nl/schema#name> "Set illustraties \"Garoet en omstreken\"" .
@@ -42,6 +66,12 @@
 <https://n2t.net/ark:/27023/9138e1f2d81a9c986167b439b9d273d9> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9138e1f2d81a9c986167b439b9d273d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9138e1f2d81a9c986167b439b9d273d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#identifier> "EDO%20481-6" .
+<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een auto uit de eerste helft van de 20ste eeuw, hangend aan een takel, terwijl niet duidelijk is waarom." .
+<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/913a93ebc05f365948ae87e57c913fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/913a93ebc05f365948ae87e57c913fa1> <https://colonialcollections.nl/schema#identifier> "2000/11/27-1-1" .
 <https://n2t.net/ark:/27023/913a93ebc05f365948ae87e57c913fa1> <https://colonialcollections.nl/schema#name> "Vol portret van Onderluitenant K. Langenberg" .
@@ -49,20 +79,6 @@
 <https://n2t.net/ark:/27023/913a93ebc05f365948ae87e57c913fa1> <https://colonialcollections.nl/schema#inscription> "H.W. Verplanke Dominicanenstr. 33 Nijmegen" .
 <https://n2t.net/ark:/27023/913a93ebc05f365948ae87e57c913fa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/913a93ebc05f365948ae87e57c913fa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1" .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#name> "Briefkaart Tjipaganti, Bandoeng" .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Tjipaganti, Bandoeng (Java). Geadresseerd aan de heer M. Versluis, Stroodorp Kamperland. Afzender: M.N. de Visser Mil. L.A. Andir Bandoeng.\r\nPostzegel beschadigd." .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#inscription> "Tjipaganti, Bandoeng (Java)" .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9121fdcf02298a05377cc5741e69eb82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/8" .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#name> "Tempel, gefotografeerd tijdens de Bali-expeditie 1906" .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nTempel, gefotografeerd tijdens de Bali-expeditie 1906." .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/913484d4c889b52a3274358d90053b51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/90fc78059a9dec867e75fed43c2a45f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/90fc78059a9dec867e75fed43c2a45f5> <https://colonialcollections.nl/schema#identifier> "1996/11/06-3-1/14" .
 <https://n2t.net/ark:/27023/90fc78059a9dec867e75fed43c2a45f5> <https://colonialcollections.nl/schema#name> "Luchtfoto Malang \"EA/JA16 24-1-46 10.000' 20'' 681 SQDN\"" .
@@ -543,12 +559,6 @@
 <https://n2t.net/ark:/27023/9150f34c9b3dd7e0cb8c14689817819c> <https://colonialcollections.nl/schema#description> "Foto; totaal 336 stuks, divers: bootreis Middelandse zee, vakantie Zuidoost-Azië, begraafplaats, Nederlands-Indë (o.a. Buitenzorg) woonomstandigheden (foto's intereieur e.d.) en het militaire leven 1946-1949." .
 <https://n2t.net/ark:/27023/9150f34c9b3dd7e0cb8c14689817819c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9150f34c9b3dd7e0cb8c14689817819c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#identifier> "2015/07/26-1-7/5" .
-<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#name> "[Militair, adjudant borststuk.]" .
-<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#description> "Carte de visite: “W.Ivens, Nijmegen”. [Militair, adjudant borststuk.]" .
-<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/912afe7e47f65b4046cfb03dc59b1d32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/910ad581d89b6a3cc1d98754ad2b2a4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/910ad581d89b6a3cc1d98754ad2b2a4d> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-35" .
 <https://n2t.net/ark:/27023/910ad581d89b6a3cc1d98754ad2b2a4d> <https://colonialcollections.nl/schema#description> "Foto op karton." .
@@ -589,8 +599,3 @@
 <https://n2t.net/ark:/27023/9140407d0901d3cd7bb3bf43d04603df> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen achterin fotoalbum EDO 174, met tekst op achterkant.\r\n\r\nDeze in inkt geschreven tekst luidt:\"Dec. 1918   -   In 't H.O.   -  op weg naar de hut! \"\r\n\r\nDe opname toont een zestal vrouwen, gekleed i" .
 <https://n2t.net/ark:/27023/9140407d0901d3cd7bb3bf43d04603df> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9140407d0901d3cd7bb3bf43d04603df> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#identifier> "EDO%20481-6" .
-<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een auto uit de eerste helft van de 20ste eeuw, hangend aan een takel, terwijl niet duidelijk is waarom." .
-<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/91446f01a13b9b03aa5dee88411ab9c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

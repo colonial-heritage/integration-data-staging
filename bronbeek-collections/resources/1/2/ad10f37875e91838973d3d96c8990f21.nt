@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#identifier> "2002/00-33/14" .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#name> "22. Javaansch Dorp. (West-Java)" .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n22. Javaansch Dorp. (West-Java)" .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#inscription> "22. Javaansch Dorp. (West-Java)" .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/5" .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#name> "Plaat 5 Kampong en sawahvlakte van Kebajakan" .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#description> "Foto. Zwart Wit\r\nPlaat 5 Kampong en sawahvlakte van Kebajakan" .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#inscription> "Plaat 5 Kampong en sawahvlakte van Kebajakan" .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c29784f0ee50aaf7ae96ede960332c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c29784f0ee50aaf7ae96ede960332c5> <https://colonialcollections.nl/schema#identifier> "1910/10/01-2/29" .
 <https://n2t.net/ark:/27023/5c29784f0ee50aaf7ae96ede960332c5> <https://colonialcollections.nl/schema#name> "Nr. 29. Groep officieren van het linkerhalf 3e bat. aan de poort van den kraton, uit ´Vierendertig gezichten op Atjeh´" .
@@ -6,6 +22,13 @@
 <https://n2t.net/ark:/27023/5c29784f0ee50aaf7ae96ede960332c5> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/5c29784f0ee50aaf7ae96ede960332c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c29784f0ee50aaf7ae96ede960332c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#identifier> "nf%20953" .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#name> "Ceremoniëel ploegen op Bali" .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#description> "Reproductie, rechthoekig, zwart/wit, uit tijdschrift geknipt. Met tape aan één kant op karton opgeplakt.\r\n\r\nOnder foto tekst die luidt: CEREMONIEEL PLOEGEN OP BALI. (Photo van het  Kol.Inst.)\r\n\r\nDe afbeelding een open landschap met op de achtergrond karbo" .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#creator> "Koloniaal Instituut" .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c293eef87c71bc4433fbb702c095971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c293eef87c71bc4433fbb702c095971> <https://colonialcollections.nl/schema#identifier> "nf%20842-77" .
 <https://n2t.net/ark:/27023/5c293eef87c71bc4433fbb702c095971> <https://colonialcollections.nl/schema#name> "Vissersboot op het strand te Pangandaran, West-Java" .
@@ -13,6 +36,20 @@
 <https://n2t.net/ark:/27023/5c293eef87c71bc4433fbb702c095971> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/5c293eef87c71bc4433fbb702c095971> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c293eef87c71bc4433fbb702c095971> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#identifier> "2003/06/19-2-1" .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#name> "Uniform KNIL, garoet" .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#description> "Uniform. Garoet. Jas & Broek.\r\nJas voorzien van merkje: \"G.Kerner & Co. Den Haag - Batavia - Soerabaja.\"\r\nMet 4 zakken, platte knopen (compleet) Op mouw een oranje krul, linker krul zit los, lijm heeft losgelaten!.Staande kraag. Geen distinctieven aanwezi" .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#creator> "G.Kerner & Co. Den Haag - Batavia - Soerabaja" .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/19" .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#name> "Ereboog" .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#description> "Ereboog; tekst achter op foto \"leve de koningin Nieuw Guinea Hollandia ?\"." .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c415c205e25ead86e984539800d4e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c415c205e25ead86e984539800d4e5d> <https://colonialcollections.nl/schema#identifier> "2000/09/07-4-8" .
 <https://n2t.net/ark:/27023/5c415c205e25ead86e984539800d4e5d> <https://colonialcollections.nl/schema#name> "Soerabaja, Koepang boulevard" .
@@ -20,6 +57,13 @@
 <https://n2t.net/ark:/27023/5c415c205e25ead86e984539800d4e5d> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/5c415c205e25ead86e984539800d4e5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c415c205e25ead86e984539800d4e5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/83" .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#name> "Boekje DURBAN \"The garden by the sea''" .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#description> "Boekje DURBAN \"The garden by the sea'' met negen afbeeldingen z/w." .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#creator> "Durban Corporation Publicity Department" .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c1008ae9130b9c89cf35dc6c72e2d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c1008ae9130b9c89cf35dc6c72e2d37> <https://colonialcollections.nl/schema#identifier> "EDO%20622-28-4" .
 <https://n2t.net/ark:/27023/5c1008ae9130b9c89cf35dc6c72e2d37> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een vakantiekiekje van drie volwassen vrouwen. De dames hebben kleding aan die niet echt duidt op vakantie. Hoeden op en jassen aan.\r\n\r\nEr is gekozen als geografische herkomst" .
@@ -84,20 +128,6 @@
 <https://n2t.net/ark:/27023/5c53b9f70344d52c7a55201431de5c9d> <https://colonialcollections.nl/schema#inscription> "George Setèt" .
 <https://n2t.net/ark:/27023/5c53b9f70344d52c7a55201431de5c9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c53b9f70344d52c7a55201431de5c9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#identifier> "2002/00-33/14" .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#name> "22. Javaansch Dorp. (West-Java)" .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n22. Javaansch Dorp. (West-Java)" .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#inscription> "22. Javaansch Dorp. (West-Java)" .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c1b9e58cd2a2a256cb6429732c96b50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/5" .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#name> "Plaat 5 Kampong en sawahvlakte van Kebajakan" .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#description> "Foto. Zwart Wit\r\nPlaat 5 Kampong en sawahvlakte van Kebajakan" .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#inscription> "Plaat 5 Kampong en sawahvlakte van Kebajakan" .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c234519e29d2143dfc03ed964f0def6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c0f33d4617699bb22cae962ecbd1cc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c0f33d4617699bb22cae962ecbd1cc3> <https://colonialcollections.nl/schema#identifier> "2016/03/11-1-1/25" .
 <https://n2t.net/ark:/27023/5c0f33d4617699bb22cae962ecbd1cc3> <https://colonialcollections.nl/schema#name> "Foto" .
@@ -524,30 +554,6 @@
 <https://n2t.net/ark:/27023/5c5564b2874234d3cfeebe35352c31b5> <https://colonialcollections.nl/schema#description> "Foto, kleur. Toegangspoort Oorlogsbegraafplaats 'Kanchanaburi' in THailand" .
 <https://n2t.net/ark:/27023/5c5564b2874234d3cfeebe35352c31b5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c5564b2874234d3cfeebe35352c31b5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#identifier> "nf%20953" .
-<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#name> "Ceremoniëel ploegen op Bali" .
-<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#description> "Reproductie, rechthoekig, zwart/wit, uit tijdschrift geknipt. Met tape aan één kant op karton opgeplakt.\r\n\r\nOnder foto tekst die luidt: CEREMONIEEL PLOEGEN OP BALI. (Photo van het  Kol.Inst.)\r\n\r\nDe afbeelding een open landschap met op de achtergrond karbo" .
-<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c149dcb66761f25cf247f5a8d837749> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#identifier> "2003/06/19-2-1" .
-<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#name> "Uniform KNIL, garoet" .
-<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#description> "Uniform. Garoet. Jas & Broek.\r\nJas voorzien van merkje: \"G.Kerner & Co. Den Haag - Batavia - Soerabaja.\"\r\nMet 4 zakken, platte knopen (compleet) Op mouw een oranje krul, linker krul zit los, lijm heeft losgelaten!.Staande kraag. Geen distinctieven aanwezi" .
-<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c3669c8be1395e273755ce0c8e44b98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/19" .
-<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#name> "Ereboog" .
-<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#description> "Ereboog; tekst achter op foto \"leve de koningin Nieuw Guinea Hollandia ?\"." .
-<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c387b7786d626c7f84b250e31ed2b47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/83" .
-<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#name> "Boekje DURBAN \"The garden by the sea''" .
-<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#description> "Boekje DURBAN \"The garden by the sea'' met negen afbeeldingen z/w." .
-<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c486fa196834b0b81ae5505f66663ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5c11de220acacaadab62dd388ee5181d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c11de220acacaadab62dd388ee5181d> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41990" .
 <https://n2t.net/ark:/27023/5c11de220acacaadab62dd388ee5181d> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoed\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezels, gevlochten\r\nEmailadres: toelichting:\tDe rand is ingekerfd. De binnenzijde bestaat uit losse vezels. Het hoofdgedeelte bestaat uit 4 gelijke vlakken me" .

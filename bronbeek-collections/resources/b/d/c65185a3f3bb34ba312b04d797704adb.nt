@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#identifier> "2002/00-33/13" .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#name> "21. Woning van een Regent. (West-Java)" .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n21. Woning van een Regent. (West-Java)" .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#inscription> "21. Woning van een Regent. (West-Java)" .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/95fac594cbe499d2aa5c69dab565ec15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/95fac594cbe499d2aa5c69dab565ec15> <https://colonialcollections.nl/schema#identifier> "nf%201413-231" .
 <https://n2t.net/ark:/27023/95fac594cbe499d2aa5c69dab565ec15> <https://colonialcollections.nl/schema#name> "Meting met de verticaalvariometer" .
@@ -33,6 +41,13 @@
 <https://n2t.net/ark:/27023/96045f9ac0e4b8bb3d12decdefd8244c> <https://colonialcollections.nl/schema#creator> "Luitenant-generaal F.D. Cochius" .
 <https://n2t.net/ark:/27023/96045f9ac0e4b8bb3d12decdefd8244c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/96045f9ac0e4b8bb3d12decdefd8244c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#identifier> "2001/09/10-1-2" .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#name> "Schietprijs KNIL Revolver 1 maal" .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#description> "Medaille. Schietprijs KNIL Revolver 1 maal. Achterzijde 2 maal gestempeld." .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#creator> "van Arcken & Co, Batavia & Soerabaia" .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9607ada61e22937b421d8b9bf2424053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9607ada61e22937b421d8b9bf2424053> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/69" .
 <https://n2t.net/ark:/27023/9607ada61e22937b421d8b9bf2424053> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -40,13 +55,21 @@
 <https://n2t.net/ark:/27023/9607ada61e22937b421d8b9bf2424053> <https://colonialcollections.nl/schema#creator> "Hermann & Co. Photographen Rijswijk - Batavia" .
 <https://n2t.net/ark:/27023/9607ada61e22937b421d8b9bf2424053> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9607ada61e22937b421d8b9bf2424053> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/16" .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#name> "Portret van Non Denninghoff Stelling" .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: Kameke, peintre et phot: de la Cour, La Haye, Javastraat 20." .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#creator> "Kameke" .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#identifier> "2006/00-43/1" .
 <https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#name> "Kaart van Java en Madoera (westelijk deel)" .
 <https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#description> "Kaart van Java en Madoera aangevende de voornaamste ondernemingen en de voor auto´s berijdbare wegen. \r\nAfgebeeld is West-Java: Batavia, Banten, Buitenzorg en West-Priangan. Samengestaled door den Topografischen Dienst, uitgegeven door de Koninklijke Java" .
-<https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#creator> "Topografische Dienst, Batavia" .
+<https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#creator> "Koninklijke Vereeniging Java Motor Club" .
 <https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/961c1dce58f2865f8a39b903cc442f5f> <https://colonialcollections.nl/schema#creator> "Topografische Dienst, Batavia" .
 <https://n2t.net/ark:/27023/9625436904dd40a69fe613cddfe27f9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9625436904dd40a69fe613cddfe27f9f> <https://colonialcollections.nl/schema#identifier> "nf%20608-35" .
 <https://n2t.net/ark:/27023/9625436904dd40a69fe613cddfe27f9f> <https://colonialcollections.nl/schema#name> "kantoor V.C.S. Oranjeboulevard" .
@@ -61,6 +84,13 @@
 <https://n2t.net/ark:/27023/9629ea0c67c5e6758af605c152ed8b3d> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/9629ea0c67c5e6758af605c152ed8b3d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9629ea0c67c5e6758af605c152ed8b3d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/10" .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Luchtopname van de genodigden op het plein voor het podium.\r\n\r\nLokatie: plein voor Nederlands Congresgebouw (NCC), Churchillplein, Den Haag.\r\n\r\nVe" .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#creator> "Nationaal Foto Persbureau" .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/960106de04df0246b690b110f155a1a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/960106de04df0246b690b110f155a1a8> <https://colonialcollections.nl/schema#identifier> "nf%20842-436" .
 <https://n2t.net/ark:/27023/960106de04df0246b690b110f155a1a8> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 37 t/m 72. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 56, in pot" .
@@ -80,13 +110,6 @@
 <https://n2t.net/ark:/27023/961583a6ff08114de2c94acd4fc3a710> <https://colonialcollections.nl/schema#inscription> "10" .
 <https://n2t.net/ark:/27023/961583a6ff08114de2c94acd4fc3a710> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/961583a6ff08114de2c94acd4fc3a710> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#identifier> "2002/00-33/13" .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#name> "21. Woning van een Regent. (West-Java)" .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n21. Woning van een Regent. (West-Java)" .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#inscription> "21. Woning van een Regent. (West-Java)" .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/960901c19bf411ef8c7458e1cad51251> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/95f22eceec34a8f137a751d3bd043f4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/95f22eceec34a8f137a751d3bd043f4a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-530" .
 <https://n2t.net/ark:/27023/95f22eceec34a8f137a751d3bd043f4a> <https://colonialcollections.nl/schema#name> "Foto. Korps Militaire Politie 1945-1950. Periode Bersiap, Politionele Acties, souverreiniteitsoverdracht Nederland/Indonesië." .
@@ -507,24 +530,6 @@
 <https://n2t.net/ark:/27023/9633d702488b25b8dde236ecb8d8a415> <https://colonialcollections.nl/schema#description> "Foto van diensttijd Georg Dremmen in Nederlands-Indë (totaal 36 Foto's)." .
 <https://n2t.net/ark:/27023/9633d702488b25b8dde236ecb8d8a415> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9633d702488b25b8dde236ecb8d8a415> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#identifier> "2001/09/10-1-2" .
-<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#name> "Schietprijs KNIL Revolver 1 maal" .
-<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#description> "Medaille. Schietprijs KNIL Revolver 1 maal. Achterzijde 2 maal gestempeld." .
-<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/960767fe28268fb3af576f2baac5a350> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/16" .
-<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#name> "Portret van Non Denninghoff Stelling" .
-<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: Kameke, peintre et phot: de la Cour, La Haye, Javastraat 20." .
-<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/96082e797f338bb0f6f4bb3392f41396> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/10" .
-<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. Luchtopname van de genodigden op het plein voor het podium.\r\n\r\nLokatie: plein voor Nederlands Congresgebouw (NCC), Churchillplein, Den Haag.\r\n\r\nVe" .
-<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/962b4221e33da5863cdb49e6257c1554> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/95f1286ad88fcb9de3b1f9a2127c482a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/95f1286ad88fcb9de3b1f9a2127c482a> <https://colonialcollections.nl/schema#identifier> "S%209-3ab" .
 <https://n2t.net/ark:/27023/95f1286ad88fcb9de3b1f9a2127c482a> <https://colonialcollections.nl/schema#description> "Sabel met schede; lemmet: overal even breed, bij de punt smaller; rug smaller naar de punt toe, concaaf gebogen; snede convex afbuigend naar de punt, aan het eind van de rug gescherpt vanaf 11 cm van de greep; op het blad 3 bloedgroeven, de onderste 2 lan" .

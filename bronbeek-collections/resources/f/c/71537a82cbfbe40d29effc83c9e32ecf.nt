@@ -27,6 +27,13 @@
 <https://n2t.net/ark:/27023/191496d1fbb59453710515486132746e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/191496d1fbb59453710515486132746e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/191496d1fbb59453710515486132746e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-32" .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Malang?" .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  Familie voor huizen met angkloengs." .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#creator> "Kawai & Co. Bandoeng" .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/18d41c11a8d52addf10c43db3cf6c6d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/18d41c11a8d52addf10c43db3cf6c6d8> <https://colonialcollections.nl/schema#identifier> "nf%201535" .
 <https://n2t.net/ark:/27023/18d41c11a8d52addf10c43db3cf6c6d8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, op karton geplakt, los aangetroffen.\r\n\r\nOpname toont een bijna statiefoto van twee jonge mensen. Zij staan buiten, posereend voor de foto. Beide zijn in het wit gekleed. Zijn kostuum is waarschijnlijk geen militair uniform. H" .
@@ -535,12 +542,6 @@
 <https://n2t.net/ark:/27023/191a34b776d835019f8021428f6f245c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Militairen 1945-1950. Periode Bersiap, Politionele Acties, souverreiniteitsoverdracht Nederland/Indonesië.\r\n\r\nVerso stempel: Korps Militaire Politie, Fotografische Afd." .
 <https://n2t.net/ark:/27023/191a34b776d835019f8021428f6f245c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/191a34b776d835019f8021428f6f245c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-32" .
-<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Malang?" .
-<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  Familie voor huizen met angkloengs." .
-<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/19151ff7a7d72716f68e8685b7040621> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/18e12fd2e97115e15d5468e89a6f3711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/18e12fd2e97115e15d5468e89a6f3711> <https://colonialcollections.nl/schema#identifier> "nf%20843-79" .
 <https://n2t.net/ark:/27023/18e12fd2e97115e15d5468e89a6f3711> <https://colonialcollections.nl/schema#description> "Opname van een roestbruine modderige rivier in het oerwoud met zware vegetatie op de oever." .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/126" .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#name> "Plaat 126. Weg naar en gezicht op Taroetoeng." .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 126. Weg naar en gezicht op Taroetoeng.\r\nFoto linksboven gescheurd." .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#inscription> "Plaat 126. Weg naar en gezicht op Taroetoeng." .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a7a54752489a29b5a06f19968c6632f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7a54752489a29b5a06f19968c6632f1> <https://colonialcollections.nl/schema#identifier> "2012/05/09-1-3/2" .
 <https://n2t.net/ark:/27023/a7a54752489a29b5a06f19968c6632f1> <https://colonialcollections.nl/schema#name> "Expeditie op weg naar een vulkaanuitbarsting" .
@@ -13,6 +21,20 @@
 <https://n2t.net/ark:/27023/a76e5b612cb76ef4f92d972c66120972> <https://colonialcollections.nl/schema#creator> "Tan Tjie Lan" .
 <https://n2t.net/ark:/27023/a76e5b612cb76ef4f92d972c66120972> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a76e5b612cb76ef4f92d972c66120972> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#identifier> "nf%20860-4" .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#name> "Radiostation Malabar bij Bandoeng" .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van het Radiostation Malabar te Bandung.\r\n\r\nMiddenonder vermeld; 'Radiostation Malabar bij Bandoeng'. \r\nGedeelde achterkant met overdwars vermeld; 'Uitgave: N" .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#identifier> "2007/04/16-3-1" .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#name> "Kruis van Verdienste" .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#description> "Medaille in doos. Spang: Kruis van Verdienste. Doos gemerkt: Spink & Son. Inclusief baton." .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#creator> "Spin & Son Ltd." .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a77e83f2a5bf354960a035e31855b9eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a77e83f2a5bf354960a035e31855b9eb> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/43" .
 <https://n2t.net/ark:/27023/a77e83f2a5bf354960a035e31855b9eb> <https://colonialcollections.nl/schema#name> "Twee bewoner Bronbeek,  zittend" .
@@ -27,6 +49,13 @@
 <https://n2t.net/ark:/27023/a780359f32f6f5bd92f3ea9983dcc408> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/a780359f32f6f5bd92f3ea9983dcc408> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a780359f32f6f5bd92f3ea9983dcc408> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-209/5" .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#name> "Tjimahi 1936, de voetbalvereniging Depot Mobiele Artillerie houdt een fuifje" .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Groepsfoto in een gymzaal. Tjimahi 1936, de voetbalvereniging Depot Mobiele Artillerie houdt een fuifje. Gepubliceerd in Stabelan  1 maart 1990.\r\nOp de voorste rij met bril Luitenant-kolonel Von Seydlitz Kurzbach. Onderluitenants Let" .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#creator> "Studio Tjimahi" .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a798a551e191ceec4da652a48bece3da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a798a551e191ceec4da652a48bece3da> <https://colonialcollections.nl/schema#identifier> "nf%201791-8" .
 <https://n2t.net/ark:/27023/a798a551e191ceec4da652a48bece3da> <https://colonialcollections.nl/schema#name> "Terugweg van de Bromo" .
@@ -41,6 +70,7 @@
 <https://n2t.net/ark:/27023/a79967164df858674b33337dc71e4023> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/a79967164df858674b33337dc71e4023> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a79967164df858674b33337dc71e4023> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a79967164df858674b33337dc71e4023> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/a77b6dfd675b2d234299ff4106c9c034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a77b6dfd675b2d234299ff4106c9c034> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/50" .
 <https://n2t.net/ark:/27023/a77b6dfd675b2d234299ff4106c9c034> <https://colonialcollections.nl/schema#name> "SS \"Juliana\" A´dam 1/10 ´10" .
@@ -69,13 +99,6 @@
 <https://n2t.net/ark:/27023/a798290ede03da36a4cb341671859bc6> <https://colonialcollections.nl/schema#inscription> "BGC067821" .
 <https://n2t.net/ark:/27023/a798290ede03da36a4cb341671859bc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a798290ede03da36a4cb341671859bc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/126" .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#name> "Plaat 126. Weg naar en gezicht op Taroetoeng." .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 126. Weg naar en gezicht op Taroetoeng.\r\nFoto linksboven gescheurd." .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#inscription> "Plaat 126. Weg naar en gezicht op Taroetoeng." .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a78a406f419a92a83e9e4d02ab791181> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a76aea4e752c94c92c6b15ebf2bcb071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a76aea4e752c94c92c6b15ebf2bcb071> <https://colonialcollections.nl/schema#identifier> "1999/06/30-1-41/1" .
 <https://n2t.net/ark:/27023/a76aea4e752c94c92c6b15ebf2bcb071> <https://colonialcollections.nl/schema#name> "Knoop, koper met leeuwtjes" .
@@ -538,24 +561,6 @@
 <https://n2t.net/ark:/27023/a7ac7e871c95457e4fbd04c896ad72dd> <https://colonialcollections.nl/schema#description> "Mouwembleem, \"KL in Nieuw-Guinea 1960-1962\", plastic." .
 <https://n2t.net/ark:/27023/a7ac7e871c95457e4fbd04c896ad72dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a7ac7e871c95457e4fbd04c896ad72dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#identifier> "nf%20860-4" .
-<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#name> "Radiostation Malabar bij Bandoeng" .
-<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van het Radiostation Malabar te Bandung.\r\n\r\nMiddenonder vermeld; 'Radiostation Malabar bij Bandoeng'. \r\nGedeelde achterkant met overdwars vermeld; 'Uitgave: N" .
-<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7700319b40b4530a3d58a5605f6b842> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#identifier> "2007/04/16-3-1" .
-<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#name> "Kruis van Verdienste" .
-<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#description> "Medaille in doos. Spang: Kruis van Verdienste. Doos gemerkt: Spink & Son. Inclusief baton." .
-<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a77304bad272dd55e3931fff07a2a8ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-209/5" .
-<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#name> "Tjimahi 1936, de voetbalvereniging Depot Mobiele Artillerie houdt een fuifje" .
-<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Groepsfoto in een gymzaal. Tjimahi 1936, de voetbalvereniging Depot Mobiele Artillerie houdt een fuifje. Gepubliceerd in Stabelan  1 maart 1990.\r\nOp de voorste rij met bril Luitenant-kolonel Von Seydlitz Kurzbach. Onderluitenants Let" .
-<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a7940b3606f81313fa018ea66b9c0423> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a76aa4dafa1128a1f0532048fd5f655a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a76aa4dafa1128a1f0532048fd5f655a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43822" .
 <https://n2t.net/ark:/27023/a76aa4dafa1128a1f0532048fd5f655a> <https://colonialcollections.nl/schema#description> "Ceremoniële roeispaan" .

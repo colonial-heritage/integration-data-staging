@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#identifier> "1971/03/16-1" .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#description> "Schilderij op linnen, Indisch landschap, gesigneerd: \"A. Basjir\".\r\nSawah-landschap" .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#inscription> "\"A. Basjir\"" .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#creator> "A. Basjir" .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/30" .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#name> "De verbindingslaan tussen Den Pasar en het ten westen ervan gelegen Pametjoetan" .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nDe verbindingslaan tussen Den Pasar en het ten westen ervan gelegen Pametjoetan." .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/91a034d979c30e4305549f51d5b8d1d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/91a034d979c30e4305549f51d5b8d1d2> <https://colonialcollections.nl/schema#identifier> "nf%20925-23-4" .
 <https://n2t.net/ark:/27023/91a034d979c30e4305549f51d5b8d1d2> <https://colonialcollections.nl/schema#name> "hou me vast" .
@@ -62,20 +78,6 @@
 <https://n2t.net/ark:/27023/918ced97f2de00fdd505c7ae598754db> <https://colonialcollections.nl/schema#inscription> "Stichting Herdenking 15 aug. 1945 - Capitulatie Japan - Einde WOII ; Jhr.Mr.Dr. A.W.L. Tjarda van Starkenborgh Stachouwer - Laatste Gouverneur Generaal van Nederlands Indië 1936-1945" .
 <https://n2t.net/ark:/27023/918ced97f2de00fdd505c7ae598754db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/918ced97f2de00fdd505c7ae598754db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#identifier> "1971/03/16-1" .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#description> "Schilderij op linnen, Indisch landschap, gesigneerd: \"A. Basjir\".\r\nSawah-landschap" .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#inscription> "\"A. Basjir\"" .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/91a02fbf14bc04c88fa4c800b32e078f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/30" .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#name> "De verbindingslaan tussen Den Pasar en het ten westen ervan gelegen Pametjoetan" .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nDe verbindingslaan tussen Den Pasar en het ten westen ervan gelegen Pametjoetan." .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/918a34f42c5ca3354fd646913da9a701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/918a34f42c5ca3354fd646913da9a701> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-10/399" .
 <https://n2t.net/ark:/27023/918a34f42c5ca3354fd646913da9a701> <https://colonialcollections.nl/schema#name> "Foto z/w Nederlands-Indië circa 1930-1940, o.a. Manokwari, Magelang, Djokja, Priok, Bandoeng en Batavia" .
@@ -568,6 +570,11 @@
 <https://n2t.net/ark:/27023/91bb4d362d9c9f308a8ccc8cf260a054> <https://colonialcollections.nl/schema#description> "Topengmasker" .
 <https://n2t.net/ark:/27023/91bb4d362d9c9f308a8ccc8cf260a054> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/91bb4d362d9c9f308a8ccc8cf260a054> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#identifier> "nf%20323-32-3" .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/91a14c57c58a63b7c02e86c80f7c5774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/91a14c57c58a63b7c02e86c80f7c5774> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-210" .
 <https://n2t.net/ark:/27023/91a14c57c58a63b7c02e86c80f7c5774> <https://colonialcollections.nl/schema#name> "Harnas" .
@@ -585,7 +592,3 @@
 <https://n2t.net/ark:/27023/91ca1f2f50a272a807cc9736500c496a> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/10" .
 <https://n2t.net/ark:/27023/91ca1f2f50a272a807cc9736500c496a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/91ca1f2f50a272a807cc9736500c496a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#identifier> "nf%20323-32-3" .
-<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

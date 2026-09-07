@@ -1,11 +1,27 @@
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#identifier> "2005/09/28-2-4" .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#name> "Geknipt portret van G.C.W.C. van der Schoot, door Paul Krüger, 1928" .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#description> "Portret, geknipt in zwart papier.  Geknipt portret van overgrootvader G.C.W.C. van der Schoot, gemaakt door Paul Krüger op boot die hem ophaalde uit Kaap de Goede Hoop, \"Nenijto\" 1928, Rotterdam.\r\nPortret naar rechts gekeerd." .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#inscription> "Herinnering aan de \"Nenijto\" 1928 Rotterdam uitgevoerd oor Paul Krüger" .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#creator> "Paul Krüger" .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#identifier> "2005/07/04-2-4/8" .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#name> "9 prentbriefkaarten van NIWIN" .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, 9 stuks. NIWIN. Copyright N.V. Drukkerij de Spaarnestad, Haarlem.\r\nPasar Senen te Batavia\r\nVerkoper van mandwerk\r\nMoeilijkheden met de motor onderweg\r\nMariniers in Oost-Java\r\nVoedseluitreiking door het Rode Kruis op Madoera\r\nOssenspan i" .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#inscription> "Binnenlandsche Strijdkrachten 1944-1945; B" .
-<https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0a1a9c0b005c6a99d2e1b8ce2e1ce823> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-888" .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#name> "Uniform grijsgroen militair apotheker 2de klasse (eerste luitenant) KNIL Europees uniform" .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#description> "Uniform grijsgroen militair apotheker 2de klasse (eerste luitenant) KNIL Europees uniform KNIL\r\n\r\nZwart dofmetalen wapenembleem.\r\nIn taille metalen haken voor ondersteuning van het draagriemsteld (type Sam Brown).\r\nRijbroek\r\nIn binnenzijde geweven etiket " .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#creator> "Stemmerik & Co, Den Haag-Soerabaja" .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/09dfccc4b2ea6f889327d891e1c22abd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/09dfccc4b2ea6f889327d891e1c22abd> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-83-1" .
 <https://n2t.net/ark:/27023/09dfccc4b2ea6f889327d891e1c22abd> <https://colonialcollections.nl/schema#name> "Avondbaadje avondtenue Militaire Missie Suriname" .
@@ -48,6 +64,13 @@
 <https://n2t.net/ark:/27023/0a13e7641259da2103ad8c957cc8b877> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/0a13e7641259da2103ad8c957cc8b877> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0a13e7641259da2103ad8c957cc8b877> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#identifier> "1998/10/21-1-1" .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#name> "Man in opiumkit" .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#description> "Reproductie. Man in opiumkit. In lijst, zonder glas. Papier rechtsonder gescheurd. Gesigneerd : M. Bauer. Afm. 40 x 26 cm. Bruin verkleurd." .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#creator> "Marius Alexander Jacques Bauer" .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0a1c6bb33b8ec6a8c1a58904706f128d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0a1c6bb33b8ec6a8c1a58904706f128d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/96" .
 <https://n2t.net/ark:/27023/0a1c6bb33b8ec6a8c1a58904706f128d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -68,6 +91,13 @@
 <https://n2t.net/ark:/27023/09caadf39985af24beaafc3265700977> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/09caadf39985af24beaafc3265700977> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/09caadf39985af24beaafc3265700977> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#identifier> "nf%201865" .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant meegedrukte tekst: 'Logo van NIWIN - Uitgave DE BEZIGE BIJ Amsterdam - foto Cas Oorthuis'\r\n\r\nAfbeelding toont twee Indonesische vrouwen. Zij zitten buiten gehurkt bij gr" .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#creator> "Casparus Bernardus (Cas) Oorthuys" .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#creator> "De Bezige Bij" .
 <https://n2t.net/ark:/27023/09e626c4923f702f12085dd9995885d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/09e626c4923f702f12085dd9995885d1> <https://colonialcollections.nl/schema#identifier> "nf%201780" .
 <https://n2t.net/ark:/27023/09e626c4923f702f12085dd9995885d1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in potlood tekst: 'Elftal uit Biak' en foto via hr. Bijleveld.\r\n\r\nOpname toont een groep donkere mannen, Papoea's, gekleed in een sporttenue. Waarschijnlijk voetballers, al is het schoeisel gevarieerd to" .
@@ -80,6 +110,7 @@
 <https://n2t.net/ark:/27023/0a12f8eaaf8d9f7f8706076a135c0383> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0a12f8eaaf8d9f7f8706076a135c0383> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0a12f8eaaf8d9f7f8706076a135c0383> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0a12f8eaaf8d9f7f8706076a135c0383> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/0a132d16906428cf260465081dc20573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0a132d16906428cf260465081dc20573> <https://colonialcollections.nl/schema#identifier> "nf%20678-7-1" .
 <https://n2t.net/ark:/27023/0a132d16906428cf260465081dc20573> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '563'. Geen verdere data.\r\n\r\nOpname toont een inheemse jonge man. Hij draagt iets dat mogelijk een lendengordel is.\r\nHij staat ergens buiten op een weg bij kokospalmen, met e" .
@@ -112,13 +143,6 @@
 <https://n2t.net/ark:/27023/0a2087abd2338a1fe6a356f6bdd67e94> <https://colonialcollections.nl/schema#inscription> "Japansche Regeering" .
 <https://n2t.net/ark:/27023/0a2087abd2338a1fe6a356f6bdd67e94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0a2087abd2338a1fe6a356f6bdd67e94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#identifier> "2005/09/28-2-4" .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#name> "Geknipt portret van G.C.W.C. van der Schoot, door Paul Krüger, 1928" .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#description> "Portret, geknipt in zwart papier.  Geknipt portret van overgrootvader G.C.W.C. van der Schoot, gemaakt door Paul Krüger op boot die hem ophaalde uit Kaap de Goede Hoop, \"Nenijto\" 1928, Rotterdam.\r\nPortret naar rechts gekeerd." .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#inscription> "Herinnering aan de \"Nenijto\" 1928 Rotterdam uitgevoerd oor Paul Krüger" .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0a0d1c61349eddcf404a02142350ffd5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/09cb09aa0705da61225b7f1e1547093e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/09cb09aa0705da61225b7f1e1547093e> <https://colonialcollections.nl/schema#identifier> "2016/01/06-2-13/387" .
 <https://n2t.net/ark:/27023/09cb09aa0705da61225b7f1e1547093e> <https://colonialcollections.nl/schema#name> "Foto's diensttijd" .
@@ -515,18 +539,6 @@
 <https://n2t.net/ark:/27023/0a22f7d060f5041eca0bb358d81e8df0> <https://colonialcollections.nl/schema#description> "Medaille Korea." .
 <https://n2t.net/ark:/27023/0a22f7d060f5041eca0bb358d81e8df0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0a22f7d060f5041eca0bb358d81e8df0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-888" .
-<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#name> "Uniform grijsgroen militair apotheker 2de klasse (eerste luitenant) KNIL Europees uniform" .
-<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#description> "Uniform grijsgroen militair apotheker 2de klasse (eerste luitenant) KNIL Europees uniform KNIL\r\n\r\nZwart dofmetalen wapenembleem.\r\nIn taille metalen haken voor ondersteuning van het draagriemsteld (type Sam Brown).\r\nRijbroek\r\nIn binnenzijde geweven etiket " .
-<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/09c86c66927457918f0bb76f199ae1eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#identifier> "1998/10/21-1-1" .
-<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#name> "Man in opiumkit" .
-<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#description> "Reproductie. Man in opiumkit. In lijst, zonder glas. Papier rechtsonder gescheurd. Gesigneerd : M. Bauer. Afm. 40 x 26 cm. Bruin verkleurd." .
-<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0a157d14f11f76affd5a8d46a8690039> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/09de2ea451c1a5338bf6ce67c2f8cee7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/09de2ea451c1a5338bf6ce67c2f8cee7> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42283" .
 <https://n2t.net/ark:/27023/09de2ea451c1a5338bf6ce67c2f8cee7> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tpijl met houten punt\r\nAfmetingen:\tGeheel: 100,5 cm\r\nMedia:\t2816\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2816] Depot, K [K]\r\nhoofdmater" .
@@ -572,11 +584,6 @@
 <https://n2t.net/ark:/27023/0a1bca325bd3a4d32c7d7573e830c5af> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'aint she sweet'\r\n\r\nOmdat alle 5 foto's op dit fotoblad 14 verwantschap tonen met die op fotoblad 13, is aangenomen dat voor allemaal de datering november" .
 <https://n2t.net/ark:/27023/0a1bca325bd3a4d32c7d7573e830c5af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0a1bca325bd3a4d32c7d7573e830c5af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#identifier> "nf%201865" .
-<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant meegedrukte tekst: 'Logo van NIWIN - Uitgave DE BEZIGE BIJ Amsterdam - foto Cas Oorthuis'\r\n\r\nAfbeelding toont twee Indonesische vrouwen. Zij zitten buiten gehurkt bij gr" .
-<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/09d4b4ea2d64b82aa67419354ec838bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/09d3c0f6f234b75d39790c78834045cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/09d3c0f6f234b75d39790c78834045cb> <https://colonialcollections.nl/schema#identifier> "1871/09-1-1" .
 <https://n2t.net/ark:/27023/09d3c0f6f234b75d39790c78834045cb> <https://colonialcollections.nl/schema#name> "Generaal-Majoor Baron W. de Bosson" .

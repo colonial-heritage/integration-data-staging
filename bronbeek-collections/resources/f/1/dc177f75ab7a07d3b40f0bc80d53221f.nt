@@ -34,6 +34,13 @@
 <https://n2t.net/ark:/27023/92a2d3256726d4743b63d3d936109a92> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/92a2d3256726d4743b63d3d936109a92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/92a2d3256726d4743b63d3d936109a92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#identifier> "1996/10/11-1" .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#name> "Bronzen buste van eerste luitenant Marechaussee J.H.C. Vastenou (afb. van kerkhof te Makassar)" .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#description> "Bronzen borstbeeld, linkerzijkant handtekening \"Odé\". Achterkant onderaan naam van gieter : J.K.C. Sneltjes, Haarlem. Met knevel en sik, atilla, kraagembleem Marechaussee met twee sterren. Schouderpassanten. Twee onderscheidingen : MWO en EBK en kroon eer" .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#creator> "Arend W.M. Odé" .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/92b14dc3608d15194be7f66a8531ed77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/92b14dc3608d15194be7f66a8531ed77> <https://colonialcollections.nl/schema#identifier> "nf%20842-91" .
 <https://n2t.net/ark:/27023/92b14dc3608d15194be7f66a8531ed77> <https://colonialcollections.nl/schema#name> "Strand te Kuta, Bali" .
@@ -48,6 +55,13 @@
 <https://n2t.net/ark:/27023/92b3786129b586e2953691ebd104a706> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/92b3786129b586e2953691ebd104a706> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/92b3786129b586e2953691ebd104a706> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-2" .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#creator> "de heer C. Engelen" .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/92ba2b6a07f74545f4d74b235a8d81c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/92ba2b6a07f74545f4d74b235a8d81c1> <https://colonialcollections.nl/schema#identifier> "2018/10/02-1-1" .
 <https://n2t.net/ark:/27023/92ba2b6a07f74545f4d74b235a8d81c1> <https://colonialcollections.nl/schema#name> "Beschrijving wandeltocht Soembing 1930" .
@@ -62,6 +76,7 @@
 <https://n2t.net/ark:/27023/92e2ece3e273f87bfa15c6d924c0eafe> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/92e2ece3e273f87bfa15c6d924c0eafe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/92e2ece3e273f87bfa15c6d924c0eafe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/92e2ece3e273f87bfa15c6d924c0eafe> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/92a2f546e6b2642a42b40c0ccca598e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/92a2f546e6b2642a42b40c0ccca598e9> <https://colonialcollections.nl/schema#identifier> "nf%201805-2" .
 <https://n2t.net/ark:/27023/92a2f546e6b2642a42b40c0ccca598e9> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's naast elkaar opgeplakt op lichtbruin karton, los aangetroffen.\r\n\r\nOpnames tonen een meisje, gehurkt zittend naast een rieten stoel. De stoel staat buiten. Op de stoel een kussen met daarop twee katten.\r\n\r\nAangenomen is " .
@@ -533,18 +548,6 @@
 <https://n2t.net/ark:/27023/92e37b94f7ff6bd2cd32d0cf0e794f96> <https://colonialcollections.nl/schema#description> "Brief van J. Hollander aan mevrouw H.Hollander-Kamphuis. [moeder]" .
 <https://n2t.net/ark:/27023/92e37b94f7ff6bd2cd32d0cf0e794f96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/92e37b94f7ff6bd2cd32d0cf0e794f96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#identifier> "1996/10/11-1" .
-<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#name> "Bronzen buste van eerste luitenant Marechaussee J.H.C. Vastenou (afb. van kerkhof te Makassar)" .
-<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#description> "Bronzen borstbeeld, linkerzijkant handtekening \"Odé\". Achterkant onderaan naam van gieter : J.K.C. Sneltjes, Haarlem. Met knevel en sik, atilla, kraagembleem Marechaussee met twee sterren. Schouderpassanten. Twee onderscheidingen : MWO en EBK en kroon eer" .
-<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/92a8e852132016a4076c7a038b69dfe2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-2" .
-<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
-<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
-<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/92b4b9a18453490ca1b2c0c08f361e75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/92a8e0bc1aef3b1a8374c1bbf1f9dd04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/92a8e0bc1aef3b1a8374c1bbf1f9dd04> <https://colonialcollections.nl/schema#identifier> "S%206244-109" .
 <https://n2t.net/ark:/27023/92a8e0bc1aef3b1a8374c1bbf1f9dd04> <https://colonialcollections.nl/schema#description> "Schort, rok, van gras met bovenaan een ronde band." .

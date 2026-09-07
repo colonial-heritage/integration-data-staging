@@ -44,9 +44,10 @@
 <https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/2" .
 <https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#name> "Prent met voorstellingen uit Egypte" .
 <https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#description> "Prent met afbeeldingen uit Egypte en Palestina. Genummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 t/m 1997/10/09-1-3/28)." .
-<https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/97e7bcd587cb44f7615960084ce2e777> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/97ed4d4a806692faffc00137413e129c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/97ed4d4a806692faffc00137413e129c> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/25" .
 <https://n2t.net/ark:/27023/97ed4d4a806692faffc00137413e129c> <https://colonialcollections.nl/schema#name> "Generaal Spoor beluisterd in gezelschap van andere militaire autoriteiten  een concert ter gelegenheid van het afscheid van de Prins Bernhard Kapel, Batavia" .
@@ -54,6 +55,13 @@
 <https://n2t.net/ark:/27023/97ed4d4a806692faffc00137413e129c> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/97ed4d4a806692faffc00137413e129c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97ed4d4a806692faffc00137413e129c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#identifier> "1995/10/19-2" .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#name> "Geborduurde doek uit interneringskamp in lijst" .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#description> "Doek, periode 27-9-1943 tot 24-4-1945. Gemaakt door mevrouw Vermeer-Diederik. Poeloe Brayan I Medan." .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#creator> "Mw Vermeer-Diederik" .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/97fc24b6ba61f965de08cde3b612e126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/97fc24b6ba61f965de08cde3b612e126> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/66" .
 <https://n2t.net/ark:/27023/97fc24b6ba61f965de08cde3b612e126> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -61,6 +69,13 @@
 <https://n2t.net/ark:/27023/97fc24b6ba61f965de08cde3b612e126> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/97fc24b6ba61f965de08cde3b612e126> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97fc24b6ba61f965de08cde3b612e126> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/21" .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nSemarang. Kali-Bahroe. A. Bisschop, Semarang Cheribon" .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/97c7c4d01095bf996f47b6e2d37fb922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/97c7c4d01095bf996f47b6e2d37fb922> <https://colonialcollections.nl/schema#identifier> "EDO%20622-45-3" .
 <https://n2t.net/ark:/27023/97c7c4d01095bf996f47b6e2d37fb922> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nAfbeelding toont een blanke vrouw, ergens gefotografeerd op een terras. Zij draagt een donkere jas met opvallende misschien wel witte stola over de schouders. Ook draagt zij een grote hoed. Bij haar z" .
@@ -91,6 +106,7 @@
 <https://n2t.net/ark:/27023/97fe9829147fc28a7f43dd3f07b0a5d4> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/97fe9829147fc28a7f43dd3f07b0a5d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97fe9829147fc28a7f43dd3f07b0a5d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/97fe9829147fc28a7f43dd3f07b0a5d4> <https://colonialcollections.nl/schema#creator> "Museum für Völkerkunde (Hamburg)" .
 <https://n2t.net/ark:/27023/97bcdd6515ebb37ed96b61a828e380a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/97bcdd6515ebb37ed96b61a828e380a8> <https://colonialcollections.nl/schema#identifier> "1978/10/04-1-38" .
 <https://n2t.net/ark:/27023/97bcdd6515ebb37ed96b61a828e380a8> <https://colonialcollections.nl/schema#name> "Jungle karabijn .30 M1." .
@@ -557,18 +573,6 @@
 <https://n2t.net/ark:/27023/97ff8d6dc82ad2ca2762a2d8576854f1> <https://colonialcollections.nl/schema#description> "Foto. Ovaal. M.Th. Reiche, Kolonel, oud chef der geneesk. dienst O.I. leger." .
 <https://n2t.net/ark:/27023/97ff8d6dc82ad2ca2762a2d8576854f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/97ff8d6dc82ad2ca2762a2d8576854f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#identifier> "1995/10/19-2" .
-<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#name> "Geborduurde doek uit interneringskamp in lijst" .
-<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#description> "Doek, periode 27-9-1943 tot 24-4-1945. Gemaakt door mevrouw Vermeer-Diederik. Poeloe Brayan I Medan." .
-<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/97eefcf6da145864d00800136351ab9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/21" .
-<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
-<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nSemarang. Kali-Bahroe. A. Bisschop, Semarang Cheribon" .
-<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/97fe6048d47473b0283440429dbffca6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/97b94c68dfad9168a3521d150049c584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/97b94c68dfad9168a3521d150049c584> <https://colonialcollections.nl/schema#identifier> "S%203593" .
 <https://n2t.net/ark:/27023/97b94c68dfad9168a3521d150049c584> <https://colonialcollections.nl/schema#description> "KL: wit/beige; VO: T-vormig, met korte mouwen, langs onderkant en mouwen kantreep; koordje door halszoom als sluiting" .

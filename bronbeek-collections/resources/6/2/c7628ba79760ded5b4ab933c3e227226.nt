@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/12" .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#name> "Bataksch meisje (Sumatra)" .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bataksch meisje (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#inscription> "Bataksch meisje (Sumatra)" .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
 <https://n2t.net/ark:/27023/ca810f92abc60ddb87ca75f09f7ee3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ca810f92abc60ddb87ca75f09f7ee3d1> <https://colonialcollections.nl/schema#identifier> "1977/03-1-16" .
 <https://n2t.net/ark:/27023/ca810f92abc60ddb87ca75f09f7ee3d1> <https://colonialcollections.nl/schema#name> "Achterzijde van Paleis Buitenzorg" .
@@ -19,6 +28,14 @@
 <https://n2t.net/ark:/27023/ca931a53ed8a0dfb5c46a73721b8494f> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/ca931a53ed8a0dfb5c46a73721b8494f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ca931a53ed8a0dfb5c46a73721b8494f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#identifier> "2007/06/04-2-5/4" .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#name> "Maurits Goedhart" .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#description> "Foto; carte de visite; zwart/wit. Portret van Maurits Goedhart.\r\nFamiliefoto van de familie Goedhart-Brantigam. Maurits Goedhart was resident van Palembang en gouverneur van Atjeh. Foto´s beslaan periode 1890-1945." .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#creator> "Koene & Co, Batavia" .
 <https://n2t.net/ark:/27023/caa5079e093cbd700e6a2d52bf83604a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/caa5079e093cbd700e6a2d52bf83604a> <https://colonialcollections.nl/schema#identifier> "nf%201413-90" .
 <https://n2t.net/ark:/27023/caa5079e093cbd700e6a2d52bf83604a> <https://colonialcollections.nl/schema#name> "Jonge apen" .
@@ -26,6 +43,13 @@
 <https://n2t.net/ark:/27023/caa5079e093cbd700e6a2d52bf83604a> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/caa5079e093cbd700e6a2d52bf83604a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/caa5079e093cbd700e6a2d52bf83604a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/22" .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#creator> "Natalie Hoogmoed, KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ca835eb5b1d46e1e49ef80546883d3b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ca835eb5b1d46e1e49ef80546883d3b9> <https://colonialcollections.nl/schema#identifier> "nf%20929-43" .
 <https://n2t.net/ark:/27023/ca835eb5b1d46e1e49ef80546883d3b9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, geheel opgeplakt, zonder bijschrift.\r\n\r\nOpname van een grote groep mensen, blanken en niet-blanken, mannen en vrouwen.\r\nMisschien wel het voltallig personeel.\r\nZij staan voor de foto opgesteld, buiten, met achter" .
@@ -89,13 +113,6 @@
 <https://n2t.net/ark:/27023/cab14160828cc72a4acac3ef20516aaf> <https://colonialcollections.nl/schema#inscription> "29-9-64. Mil.Pers.Gouv.Huis" .
 <https://n2t.net/ark:/27023/cab14160828cc72a4acac3ef20516aaf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cab14160828cc72a4acac3ef20516aaf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/12" .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#name> "Bataksch meisje (Sumatra)" .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bataksch meisje (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#inscription> "Bataksch meisje (Sumatra)" .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ca9eb4d8b2192454c490513da38a66da> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ca71dff1bf4c5713bdbb2fefb6b9b1aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ca71dff1bf4c5713bdbb2fefb6b9b1aa> <https://colonialcollections.nl/schema#identifier> "2007/12/13-1-9" .
 <https://n2t.net/ark:/27023/ca71dff1bf4c5713bdbb2fefb6b9b1aa> <https://colonialcollections.nl/schema#name> "Internationaal bewijs van inenting van J.G. Kentrop" .
@@ -504,18 +521,6 @@
 <https://n2t.net/ark:/27023/cab68e3a008872798ce1514f01d21bde> <https://colonialcollections.nl/schema#description> "Dolk of rentjong met schede" .
 <https://n2t.net/ark:/27023/cab68e3a008872798ce1514f01d21bde> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cab68e3a008872798ce1514f01d21bde> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#identifier> "2007/06/04-2-5/4" .
-<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#name> "Maurits Goedhart" .
-<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#description> "Foto; carte de visite; zwart/wit. Portret van Maurits Goedhart.\r\nFamiliefoto van de familie Goedhart-Brantigam. Maurits Goedhart was resident van Palembang en gouverneur van Atjeh. Foto´s beslaan periode 1890-1945." .
-<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ca9fdb9616789081abd2405037f39a68> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/22" .
-<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
-<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
-<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cab3a49ecea193ddbad70e5a57a4756c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ca723f2f912d214f221c0bd966ad020c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ca723f2f912d214f221c0bd966ad020c> <https://colonialcollections.nl/schema#identifier> "1864/08/11-1-28" .
 <https://n2t.net/ark:/27023/ca723f2f912d214f221c0bd966ad020c> <https://colonialcollections.nl/schema#description> "Pijl van een set van 22 verschillende pijlen (Thieme inv.nr. 1208)." .

@@ -6,14 +6,37 @@
 <https://n2t.net/ark:/27023/df3372e42a5aa38f71446ddb5f36b580> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/df3372e42a5aa38f71446ddb5f36b580> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/df3372e42a5aa38f71446ddb5f36b580> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#identifier> "2002/00-33/1" .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#name> "2. Het Bergdorp Samboengan, op de Diëng. (Midden-Java)" .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n2. Het Bergdorp Samboengan, op de Diëng. (Midden-Java)" .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#inscription> "2. Het Bergdorp Samboengan, op de Diëng. (Midden-Java)" .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#identifier> "1988/01/01-14" .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#name> "137. Militair Karrentransport" .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#description> "Schoolplaat. 137. Militair Karrentransport. Drukkerij: Kleynenberg en Co. Haarlem. In goede staat." .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#inscription> "137. Militair Karrentransport." .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#identifier> "1997/11/21-1-2" .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#name> "Briefkaart 'Groet uit Buitenzorg, no. 76 By den waterbron'" .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#description> "Briefkaart 'Groet uit Buitenzorg, no. 76 By den waterbron'. Zonder postzegel, verstuurd aan H. Vreeswijk, Delft. Afm. 13,7 x 8,8 cm." .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#identifier> "nf%201368-1" .
 <https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#name> "Borneo expeditie in april" .
 <https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doos met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 2 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'BORNEO EXPEDITIE in APRIL en NOVEMBER 1936'\r\n\r\nOok is deze film genu" .
-<https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/df1bf5103171abb104f45040608f76b2> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/df1c64b0a581f517e7a882364c56cb2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/df1c64b0a581f517e7a882364c56cb2f> <https://colonialcollections.nl/schema#identifier> "nf%20842-12" .
 <https://n2t.net/ark:/27023/df1c64b0a581f517e7a882364c56cb2f> <https://colonialcollections.nl/schema#name> "Landschap met rijstvelden en rivier bij Loana, Midden-Java" .
@@ -21,6 +44,13 @@
 <https://n2t.net/ark:/27023/df1c64b0a581f517e7a882364c56cb2f> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/df1c64b0a581f517e7a882364c56cb2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/df1c64b0a581f517e7a882364c56cb2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-168" .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#name> "Europese man en Europese vrouw met een Indonesische bediende" .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#description> "Foto op groen karton met donker groene sierrand. Een Europese man in wit tropenpak op de bok van een rijtuig met paard. Naast de wagen staat een Europese vrouw met hoed en (reform)jurk. Achter de wagen staat een Indonesische bediende in wit pak. Een witte" .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/df32f27ea72a8c2e45d86b3625dd2254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/df32f27ea72a8c2e45d86b3625dd2254> <https://colonialcollections.nl/schema#identifier> "2001/00-53-32" .
 <https://n2t.net/ark:/27023/df32f27ea72a8c2e45d86b3625dd2254> <https://colonialcollections.nl/schema#name> "Een officier van het Britse leger kwam naar ons kijken" .
@@ -50,6 +80,20 @@
 <https://n2t.net/ark:/27023/df52bd544cb0ead2d50c37c70eb4c240> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/df52bd544cb0ead2d50c37c70eb4c240> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/df52bd544cb0ead2d50c37c70eb4c240> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/15" .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#description> "Foto z/w (totaal 97 stuks) diensttijd KNIL 1927-1949. KNIL-militairen met bamboehoeden, paard en wagen. Op de achtergrond een rivier met brug waarop militairen lopen." .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#creator> "Studio Tjimahi" .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/114" .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#name> "Sand Sea from Moengal Pass" .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Sand Sea from Moengal Pass" .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/df13b507d9f769d20b85f1ef52936649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/df13b507d9f769d20b85f1ef52936649> <https://colonialcollections.nl/schema#identifier> "nf%20721-11" .
 <https://n2t.net/ark:/27023/df13b507d9f769d20b85f1ef52936649> <https://colonialcollections.nl/schema#description> "Reliëf, vermoedelijk van de Borobudur" .
@@ -115,20 +159,6 @@
 <https://n2t.net/ark:/27023/df55d5070efda7cf205757672b5f18cc> <https://colonialcollections.nl/schema#inscription> "Rob" .
 <https://n2t.net/ark:/27023/df55d5070efda7cf205757672b5f18cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/df55d5070efda7cf205757672b5f18cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#identifier> "2002/00-33/1" .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#name> "2. Het Bergdorp Samboengan, op de Diëng. (Midden-Java)" .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n2. Het Bergdorp Samboengan, op de Diëng. (Midden-Java)" .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#inscription> "2. Het Bergdorp Samboengan, op de Diëng. (Midden-Java)" .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/df3a617de0947e2eb77b5ef20dfeedd8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#identifier> "1988/01/01-14" .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#name> "137. Militair Karrentransport" .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#description> "Schoolplaat. 137. Militair Karrentransport. Drukkerij: Kleynenberg en Co. Haarlem. In goede staat." .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#inscription> "137. Militair Karrentransport." .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/df4e2a640c66f1f1a16cf3e0c7269e7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/df0831fc3f9fca8e7aaedc859458417c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/df0831fc3f9fca8e7aaedc859458417c> <https://colonialcollections.nl/schema#identifier> "1995/04/12-2-2/2" .
 <https://n2t.net/ark:/27023/df0831fc3f9fca8e7aaedc859458417c> <https://colonialcollections.nl/schema#name> "Chevrons sergeant KL-militair in Nederlands Indië." .
@@ -555,30 +585,6 @@
 <https://n2t.net/ark:/27023/df55cf815d7f39e05b4e2b347224c69c> <https://colonialcollections.nl/schema#description> "Knoopje tot rokwit.\r\nTotaal 5 stuks (inv.nrs 1999/12/14-1-28/1 t/m 1999/12/14-1-28/5)." .
 <https://n2t.net/ark:/27023/df55cf815d7f39e05b4e2b347224c69c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/df55cf815d7f39e05b4e2b347224c69c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#identifier> "1997/11/21-1-2" .
-<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#name> "Briefkaart 'Groet uit Buitenzorg, no. 76 By den waterbron'" .
-<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#description> "Briefkaart 'Groet uit Buitenzorg, no. 76 By den waterbron'. Zonder postzegel, verstuurd aan H. Vreeswijk, Delft. Afm. 13,7 x 8,8 cm." .
-<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/df0acf8ee17f1f53ae31ba056e5d17f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-168" .
-<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#name> "Europese man en Europese vrouw met een Indonesische bediende" .
-<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#description> "Foto op groen karton met donker groene sierrand. Een Europese man in wit tropenpak op de bok van een rijtuig met paard. Naast de wagen staat een Europese vrouw met hoed en (reform)jurk. Achter de wagen staat een Indonesische bediende in wit pak. Een witte" .
-<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/df29025ceb37a8458fe76e60b5f49621> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/15" .
-<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
-<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#description> "Foto z/w (totaal 97 stuks) diensttijd KNIL 1927-1949. KNIL-militairen met bamboehoeden, paard en wagen. Op de achtergrond een rivier met brug waarop militairen lopen." .
-<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/df52c999abbaae87293a6582d5a33323> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/114" .
-<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#name> "Sand Sea from Moengal Pass" .
-<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Sand Sea from Moengal Pass" .
-<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/df52e9b9e1e23d36b813cac2cb6c7dc0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/df12dc0becba3e45bb4b5558e8948460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/df12dc0becba3e45bb4b5558e8948460> <https://colonialcollections.nl/schema#identifier> "nf%20898-13" .
 <https://n2t.net/ark:/27023/df12dc0becba3e45bb4b5558e8948460> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, geheel opgeplakt.\r\n\r\nDe opname toont een verzameling gebouwen/woningen met rieten of atap daken, maar ook met golfplaat daken. Het verkeer gaat lopend of te paard. Zo te zien is alles op een hoog gebouwd en helt alles er omhe" .

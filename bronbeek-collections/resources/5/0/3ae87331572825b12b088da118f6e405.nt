@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/10" .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#name> "Plaat 10 Hoofden van Isaq." .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit.\r\nPlaat 10 Hoofden van Isaq." .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#inscription> "Plaat 10 Hoofden van Isaq." .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb63885139b2bcb35f0be28066dae399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb63885139b2bcb35f0be28066dae399> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/031" .
 <https://n2t.net/ark:/27023/fb63885139b2bcb35f0be28066dae399> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -65,6 +73,12 @@
 <https://n2t.net/ark:/27023/fb7b05d7d500474402fd4aa3fcc07c2e> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/fb7b05d7d500474402fd4aa3fcc07c2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb7b05d7d500474402fd4aa3fcc07c2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#identifier> "nf%20706-3" .
+<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#description> "Groepsfoto, groep vrouwen en mannen zitten en staan in een met slingers versierd gebouw, met in het midden vooraan vermoedelijk de regent van West-Madura.\r\n\r\nrechtsonder staat in reliëf 'Fotax Soerabaia'\r\n\r\nOp de achterkant staat geschreven '\r\n'staand: 2e" .
+<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#creator> "Fotax Soerabaia" .
+<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb9582a9c92f5d392dda8afdb16bb068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb9582a9c92f5d392dda8afdb16bb068> <https://colonialcollections.nl/schema#identifier> "nf%20615" .
 <https://n2t.net/ark:/27023/fb9582a9c92f5d392dda8afdb16bb068> <https://colonialcollections.nl/schema#description> "Spoorbrug over snelstromend water\r\n\r\nop de achterkant staat geschreven: Tamtoe Toelang" .
@@ -78,13 +92,6 @@
 <https://n2t.net/ark:/27023/fb63377ab19c3c4797688def1a242d36> <https://colonialcollections.nl/schema#inscription> "Dwidya Sistha; Republik Indonesia" .
 <https://n2t.net/ark:/27023/fb63377ab19c3c4797688def1a242d36> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb63377ab19c3c4797688def1a242d36> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/10" .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#name> "Plaat 10 Hoofden van Isaq." .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit.\r\nPlaat 10 Hoofden van Isaq." .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#inscription> "Plaat 10 Hoofden van Isaq." .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb5cf170da6dce9068f193081e37b028> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb5d691a6c6abdba54fd08af00895681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb5d691a6c6abdba54fd08af00895681> <https://colonialcollections.nl/schema#identifier> "2012/07/09-2-1" .
 <https://n2t.net/ark:/27023/fb5d691a6c6abdba54fd08af00895681> <https://colonialcollections.nl/schema#name> "Fotoalbum van Adjudant onderofficier instructeur J. Dieleman" .
@@ -574,11 +581,6 @@
 <https://n2t.net/ark:/27023/fb9fbc146bd4f6587a38b65f23dee718> <https://colonialcollections.nl/schema#description> "Polijststenen of magische stenen" .
 <https://n2t.net/ark:/27023/fb9fbc146bd4f6587a38b65f23dee718> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fb9fbc146bd4f6587a38b65f23dee718> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#identifier> "nf%20706-3" .
-<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#description> "Groepsfoto, groep vrouwen en mannen zitten en staan in een met slingers versierd gebouw, met in het midden vooraan vermoedelijk de regent van West-Madura.\r\n\r\nrechtsonder staat in reliëf 'Fotax Soerabaia'\r\n\r\nOp de achterkant staat geschreven '\r\n'staand: 2e" .
-<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fb90dede8cf356f1481c93653315f8ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fb60555153a965a07a2afedbc3c55583> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fb60555153a965a07a2afedbc3c55583> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-26" .
 <https://n2t.net/ark:/27023/fb60555153a965a07a2afedbc3c55583> <https://colonialcollections.nl/schema#name> "Sabel, of klewang" .

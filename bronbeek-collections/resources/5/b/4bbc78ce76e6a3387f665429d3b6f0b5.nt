@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#identifier> "S%204277" .
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied ten zuiden van Garoet met o.a. de berg Tjoelabadak" .
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#description> "Topografische kaart van gebied ten zuiden van Garoet met o.a. de berg Tjoelabadak\r\n\r\nschaal 1 : 50.000" .
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#creator> "Topografische Dienst in Nederlandsch-Indië (Batavia)" .
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/028f8c2f7fd06297b528f9e0a70cabc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/028f8c2f7fd06297b528f9e0a70cabc5> <https://colonialcollections.nl/schema#identifier> "nf%20569" .
 <https://n2t.net/ark:/27023/028f8c2f7fd06297b528f9e0a70cabc5> <https://colonialcollections.nl/schema#name> "Bureau 2e Waterst. Afd." .
@@ -19,13 +26,22 @@
 <https://n2t.net/ark:/27023/029493e408a2cb2452918f6e308b4c70> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/029493e408a2cb2452918f6e308b4c70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/029493e408a2cb2452918f6e308b4c70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#identifier> "2006/00-41-77" .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met het St. Elizabeth Ziekenhuis te Medan, Indië" .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht van Medan, Indië.\r\nGedrukt op recto: Medan - St. Elizabeth Ziekenhuis\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, St. Elizabeth Zie" .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij , KNILM" .
 <https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#identifier> "nf%201304-1" .
 <https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#name> "Santanoe" .
 <https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nLinks onder gedrukte tekst: Lith. Topogr. Inr. Batavia\r\nRechts onder gedrukte tekst: Commissie voor de Volkslectuur\r\n\r\nDeze plaat behoort me" .
-<https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/02bd7845867edfd004a23569cb688bbc> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/02990558358b49bc3427bbca57b3b077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/02990558358b49bc3427bbca57b3b077> <https://colonialcollections.nl/schema#identifier> "EDO%20622-64" .
 <https://n2t.net/ark:/27023/02990558358b49bc3427bbca57b3b077> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los opgeborgen in zuurvrij kunststof mapje.\r\n\r\nEr is tekst op de achterkant geschreven, die luidt: 'Batavia 1928' en 'mijn plantenrek, ter vervanging van een tuin, met mijn 2e meisje - niet geflatteerd'.\r\n\r\nAfbeelding toont e" .
@@ -512,18 +528,6 @@
 <https://n2t.net/ark:/27023/02c812f10e01b0767e17469ce173a5e0> <https://colonialcollections.nl/schema#description> "Band MK II tot besa-tank mitrailleur. Met zes patronen (gecorrodeerd). Afm. 7,92 x 57 mm." .
 <https://n2t.net/ark:/27023/02c812f10e01b0767e17469ce173a5e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02c812f10e01b0767e17469ce173a5e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#identifier> "S%204277" .
-<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied ten zuiden van Garoet met o.a. de berg Tjoelabadak" .
-<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#description> "Topografische kaart van gebied ten zuiden van Garoet met o.a. de berg Tjoelabadak\r\n\r\nschaal 1 : 50.000" .
-<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/028e259fe775c041eca0b7cf132309b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#identifier> "2006/00-41-77" .
-<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met het St. Elizabeth Ziekenhuis te Medan, Indië" .
-<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht van Medan, Indië.\r\nGedrukt op recto: Medan - St. Elizabeth Ziekenhuis\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, St. Elizabeth Zie" .
-<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/02bc31a82e97117e8e59151e81e65833> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0288a099a89ef63358f3303841b6870c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0288a099a89ef63358f3303841b6870c> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42323" .
 <https://n2t.net/ark:/27023/0288a099a89ef63358f3303841b6870c> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\ttas\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezels, gevlochten\r\nEmailadres: toelichting:\tTasje van gevlochten, fijne vezels in de kleuren bruin en naturel. Het tasje is dubbelwandig. De binnenzijde is na" .
@@ -579,13 +583,15 @@
 <https://n2t.net/ark:/27023/02c440a61368eec91d8afde98246807a> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tfiguur\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, gesneden\r\nEmailadres: toelichting:\tEen figuur in de vorm van een vis.\r\nAfmetingen:\tL 23.7, Br 4.5\r\nMedia:\t3150\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\t" .
 <https://n2t.net/ark:/27023/02c440a61368eec91d8afde98246807a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02c440a61368eec91d8afde98246807a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#identifier> "2001/01/31-3-4/1" .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#name> "Vrouw in interieur" .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#creator> "Leop. Lowenstam" .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#creator> "Jozef Israels" .
 <https://n2t.net/ark:/27023/02c4b4ecd322d9a86dc89966fae7ba54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/02c4b4ecd322d9a86dc89966fae7ba54> <https://colonialcollections.nl/schema#identifier> "1964/09/17-1-4" .
 <https://n2t.net/ark:/27023/02c4b4ecd322d9a86dc89966fae7ba54> <https://colonialcollections.nl/schema#name> "9 foto's van diverse volksstammen" .
 <https://n2t.net/ark:/27023/02c4b4ecd322d9a86dc89966fae7ba54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02c4b4ecd322d9a86dc89966fae7ba54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#identifier> "2001/01/31-3-4/1" .
-<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#name> "Vrouw in interieur" .
-<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0290546ef91c1a1b08ee3d40e9013e98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

@@ -20,6 +20,14 @@
 <https://n2t.net/ark:/27023/fbf9e22556f3077c3ec13e16745aecce> <https://colonialcollections.nl/schema#creator> "N.V. Vereenigde Fotobureaux" .
 <https://n2t.net/ark:/27023/fbf9e22556f3077c3ec13e16745aecce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbf9e22556f3077c3ec13e16745aecce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/2" .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#name> "Padi planten" .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, ongebruikt. \"Padi planten.\"" .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#creator> "Masman & Stroink, Semarang" .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#creator> "G. Adolfs" .
 <https://n2t.net/ark:/27023/fc1aa27c626d8cb4c4de630d37ebc975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fc1aa27c626d8cb4c4de630d37ebc975> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-8" .
 <https://n2t.net/ark:/27023/fc1aa27c626d8cb4c4de630d37ebc975> <https://colonialcollections.nl/schema#name> "Landkaart Salatiga" .
@@ -77,6 +85,12 @@
 <https://n2t.net/ark:/27023/fc21d90c7420a9d8a787f27b320c4ed1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fc21d90c7420a9d8a787f27b320c4ed1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fc21d90c7420a9d8a787f27b320c4ed1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#identifier> "X%205936" .
+<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#description> "Platen uit boek B. van Helsdingen-Schoevers e.a. - De Srimpi- en Bedajadansen aan het Soerakartische hof - 1925" .
+<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#creator> "Tyra Kleen" .
+<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fbea2ebfeb161ccdafc6539a35312c8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbea2ebfeb161ccdafc6539a35312c8a> <https://colonialcollections.nl/schema#identifier> "1996/01/01-1-2" .
 <https://n2t.net/ark:/27023/fbea2ebfeb161ccdafc6539a35312c8a> <https://colonialcollections.nl/schema#name> "Bronbeek, hoe nu verder....., Concept beleidsplan Stichting Vrienden van Bronbeek" .
@@ -541,12 +555,6 @@
 <https://n2t.net/ark:/27023/fc27a9fa5bfe5b406bc43c31afb8041c> <https://colonialcollections.nl/schema#description> "Foto afkomstig uit plakboek onder nr 9 \"Hoogland \"9-11-'22\" (E.J. Feenstra).\r\nTotaal 51 stuks: Harderwijk 1963, Stoottroepen Ermelo 1969; Indië; jaren '40-50, e.a." .
 <https://n2t.net/ark:/27023/fc27a9fa5bfe5b406bc43c31afb8041c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fc27a9fa5bfe5b406bc43c31afb8041c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/2" .
-<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#name> "Padi planten" .
-<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, ongebruikt. \"Padi planten.\"" .
-<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc15c775f149cf841b71a97615394ada> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fbebe1daa7b94500025cf26198db914e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbebe1daa7b94500025cf26198db914e> <https://colonialcollections.nl/schema#identifier> "nf%20840-4-4" .
 <https://n2t.net/ark:/27023/fbebe1daa7b94500025cf26198db914e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nEr is geen bijschrift, ook niet voor de pagina, maar aangenomen wordt dat ook voor deze fotopagina geldt dat het opnames betreft van Java " .
@@ -572,11 +580,6 @@
 <https://n2t.net/ark:/27023/fc16425fd09f37d93744691a4a4d5408> <https://colonialcollections.nl/schema#description> "Kanonnetje" .
 <https://n2t.net/ark:/27023/fc16425fd09f37d93744691a4a4d5408> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fc16425fd09f37d93744691a4a4d5408> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#identifier> "X%205936" .
-<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#description> "Platen uit boek B. van Helsdingen-Schoevers e.a. - De Srimpi- en Bedajadansen aan het Soerakartische hof - 1925" .
-<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fc2229e29949c518b9a5e06f353b8b26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fc12f5b586a8cb79a22bfa137087534e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fc12f5b586a8cb79a22bfa137087534e> <https://colonialcollections.nl/schema#identifier> "E963" .
 <https://n2t.net/ark:/27023/fc12f5b586a8cb79a22bfa137087534e> <https://colonialcollections.nl/schema#name> "Orde van de Afrikaanse Ster, België (Onafhankelijke Congostaat = Kongo Vrijstaat), Ordre de L'Etoile Africaine, ridder, versiersel in kist" .

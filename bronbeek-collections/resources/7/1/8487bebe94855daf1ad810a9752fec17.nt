@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/13" .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#name> "Afd.4. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Afd.4.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nIdentiek aan 3/12" .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#inscription> "Afd.4." .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/1" .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#name> "Revier-gezicht Dinojo - Soerabaia" .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Revier-gezicht Dinojo - Soerabaia.\" \"Compania de Manila, Willemskade, Soerabaia.\"" .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#creator> "Compañia de Manilla, Willemskade, Soerabaia" .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <https://colonialcollections.nl/schema#identifier> "nf%201304-32" .
 <https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <https://colonialcollections.nl/schema#name> "Djajad-rata" .
@@ -5,6 +20,7 @@
 <https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f3392ab47a337265b03fa3f3886cbe60> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/f33a415aaf8f4976efc9de82f344a6b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f33a415aaf8f4976efc9de82f344a6b1> <https://colonialcollections.nl/schema#identifier> "nf%20769-2" .
 <https://n2t.net/ark:/27023/f33a415aaf8f4976efc9de82f344a6b1> <https://colonialcollections.nl/schema#name> "'nabij Sentani'" .
@@ -23,9 +39,31 @@
 <https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#identifier> "nf%201430-28" .
 <https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#name> "Meisje op Ajamoera" .
 <https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 25.\r\n\r\nOpname toont een jonge inheemse vrouw, zeer schaars gekleed, staand met kind op de oever van een meer. Zo te zien is het misschien w" .
-<https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f34459e5359b39faa0369e0e8537b4ad> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#identifier> "1994/04/01-1/4" .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#name> "Mouwembleem NICA" .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#description> "Mouwembleem NICA, bronskleurig metaal (LUKE). In goede staat." .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#creator> "K.C. Luke" .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/364" .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Menado. Laan voor het Wilhelmina-Hotel.\"\r\nGericht aan Mejuffrouw C. Renaud, Leiden, Holland. Beschreven: \"Menado, 1 Nov., Lieve Juffrouw Renaud, Onze beste wenschen voor 1917!...\".\r\nUitgave van Gebr. Que, M" .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-11" .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#name> "Foto Carte de Cabinet Gen.maj. Gerth van Wijk" .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#description> "Foto, zw/w. portret van Gen.maj. Gerth van Wijk.\r\nfoto geplakt op karton.\r\nCarte de Cabinet" .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#creator> "Corns Henning Middelburg-Vlissingen-Breda" .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f363479d6911f54d52ce53919de73897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f363479d6911f54d52ce53919de73897> <https://colonialcollections.nl/schema#identifier> "nf%20693-7" .
 <https://n2t.net/ark:/27023/f363479d6911f54d52ce53919de73897> <https://colonialcollections.nl/schema#name> "Pedatie (Batipoe)" .
@@ -53,6 +91,7 @@
 <https://n2t.net/ark:/27023/f33555d9ef5186809f529e2b19147047> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f33555d9ef5186809f529e2b19147047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f33555d9ef5186809f529e2b19147047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f33555d9ef5186809f529e2b19147047> <https://colonialcollections.nl/schema#creator> "R.B.Creak - Weltevreden" .
 <https://n2t.net/ark:/27023/f342e442a1c92835aa9c13ca9d93796b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f342e442a1c92835aa9c13ca9d93796b> <https://colonialcollections.nl/schema#identifier> "nf%20834-38-2" .
 <https://n2t.net/ark:/27023/f342e442a1c92835aa9c13ca9d93796b> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zonder onderschrift.\r\n\r\nOp achterkant foto is een beetje tekst te lezen: 'dokters ...? en ons ...?'\r\n\r\nOpname toont op de achtergrond twee huizen met op de voorgrond de tennisbaan." .
@@ -78,13 +117,6 @@
 <https://n2t.net/ark:/27023/f35ccb7ccf1d7ee45a9e15067387e695> <https://colonialcollections.nl/schema#inscription> "\"ANU 049725\"" .
 <https://n2t.net/ark:/27023/f35ccb7ccf1d7ee45a9e15067387e695> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f35ccb7ccf1d7ee45a9e15067387e695> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/13" .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#name> "Afd.4. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Afd.4.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nIdentiek aan 3/12" .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#inscription> "Afd.4." .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f36a4036bb2256b3b0162504cf893f0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f32f06ca9e04cbec46ccb192b7b0a2b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f32f06ca9e04cbec46ccb192b7b0a2b2> <https://colonialcollections.nl/schema#identifier> "2001/09/10-2-27" .
 <https://n2t.net/ark:/27023/f32f06ca9e04cbec46ccb192b7b0a2b2> <https://colonialcollections.nl/schema#name> "Extract uit het Register der Besluiten van den Chef Korps Gewapende Politie in Nederlandsch-Indië" .
@@ -535,30 +567,6 @@
 <https://n2t.net/ark:/27023/f37389c05f613349baf312f396e6f1d7> <https://colonialcollections.nl/schema#description> "Op glimmend glad papier (folio-formaat) eenvoudige tekeningen van verschillende objecten met Indonesische tekst" .
 <https://n2t.net/ark:/27023/f37389c05f613349baf312f396e6f1d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f37389c05f613349baf312f396e6f1d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#identifier> "2008/07/23-1-4/1" .
-<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#name> "Revier-gezicht Dinojo - Soerabaia" .
-<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Revier-gezicht Dinojo - Soerabaia.\" \"Compania de Manila, Willemskade, Soerabaia.\"" .
-<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f337880c450b32f1205ef3e8e6c6ac4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#identifier> "1994/04/01-1/4" .
-<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#name> "Mouwembleem NICA" .
-<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#description> "Mouwembleem NICA, bronskleurig metaal (LUKE). In goede staat." .
-<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f348489b3ac44c4f7c495f48f01ba676> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/364" .
-<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Menado. Laan voor het Wilhelmina-Hotel.\"\r\nGericht aan Mejuffrouw C. Renaud, Leiden, Holland. Beschreven: \"Menado, 1 Nov., Lieve Juffrouw Renaud, Onze beste wenschen voor 1917!...\".\r\nUitgave van Gebr. Que, M" .
-<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f34f90d0f4a968b6335c8dcc446c65fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-11" .
-<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#name> "Foto Carte de Cabinet Gen.maj. Gerth van Wijk" .
-<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#description> "Foto, zw/w. portret van Gen.maj. Gerth van Wijk.\r\nfoto geplakt op karton.\r\nCarte de Cabinet" .
-<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f35a62072074819f6b1262e23e90fe7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f3589bdc955e994713677656404639cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f3589bdc955e994713677656404639cf> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44142" .
 <https://n2t.net/ark:/27023/f3589bdc955e994713677656404639cf> <https://colonialcollections.nl/schema#description> "Boog met pees" .

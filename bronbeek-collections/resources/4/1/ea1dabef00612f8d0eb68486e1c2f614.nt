@@ -20,6 +20,20 @@
 <https://n2t.net/ark:/27023/a253977d13050244850d8252de3a7b30> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/a253977d13050244850d8252de3a7b30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a253977d13050244850d8252de3a7b30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#identifier> "nf%20677-1" .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#name> "De vijf Pandawas: Yudhistira, Bhima, Arjuna, Nakula en Sahadeva" .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: De vijf Pandawas: Yudhistira, Bhima, Arjuna, Nakula en Sahadeva\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                                 " .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#creator> "Maria Austria" .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#identifier> "1997/00-1/300" .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#name> "Palembang (West Sheet), Atjeh" .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#description> "Palembang (West Sheet), Atjeh, met de belangrijkste instellingen, tweetalig (Engels en Nederlands). Sept.1945; Schaal 1: 10.000. Op kaart: Key to numbered locations/de belangrijkste instellingen.\r\nHind 1051 - TOWN PLAN of PALEMBANG, 1e editie.\r\nAantekenin" .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#creator> "Survey Production Centre, A.L.F.S.E.A." .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a274a35d25100de3506fbb27159cc2f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a274a35d25100de3506fbb27159cc2f1> <https://colonialcollections.nl/schema#identifier> "nf%201413-211" .
 <https://n2t.net/ark:/27023/a274a35d25100de3506fbb27159cc2f1> <https://colonialcollections.nl/schema#name> "Gezicht op Indralaja" .
@@ -546,18 +560,6 @@
 <https://n2t.net/ark:/27023/a2985c91d229ed636c3aca3e8f095442> <https://colonialcollections.nl/schema#description> "Schouderschuifpassant brigadier infanterie KNIL. Zwarte driehoek op kakikleurige schuifpassant." .
 <https://n2t.net/ark:/27023/a2985c91d229ed636c3aca3e8f095442> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a2985c91d229ed636c3aca3e8f095442> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#identifier> "nf%20677-1" .
-<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#name> "De vijf Pandawas: Yudhistira, Bhima, Arjuna, Nakula en Sahadeva" .
-<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: De vijf Pandawas: Yudhistira, Bhima, Arjuna, Nakula en Sahadeva\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                                 " .
-<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a25e070df739430ad7ec3eaa113ef36a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#identifier> "1997/00-1/300" .
-<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#name> "Palembang (West Sheet), Atjeh" .
-<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#description> "Palembang (West Sheet), Atjeh, met de belangrijkste instellingen, tweetalig (Engels en Nederlands). Sept.1945; Schaal 1: 10.000. Op kaart: Key to numbered locations/de belangrijkste instellingen.\r\nHind 1051 - TOWN PLAN of PALEMBANG, 1e editie.\r\nAantekenin" .
-<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a26f8742608766a7b3a389ea7a6940ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a252ba34661afb9e13162f9dac245081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a252ba34661afb9e13162f9dac245081> <https://colonialcollections.nl/schema#identifier> "nf%201352-31-2" .
 <https://n2t.net/ark:/27023/a252ba34661afb9e13162f9dac245081> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met fotohoekjes in album geplakt.\r\nOp achterkant in inkt geschreven tekst, die luidt: 'voor het huis van Meihuizen. van l.n.r. Jo Meihuizen, Han, Heer M. en ik'\r\n\r\nOpname toont een viertal blanke personen, twee vrouwen, twee " .

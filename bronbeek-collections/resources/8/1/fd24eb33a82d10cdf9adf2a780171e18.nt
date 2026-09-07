@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#identifier> "1974/08/05-1-1" .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#name> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot" .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#description> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot tijdens Commando-overdracht op 26 juli 1939. Deel I.\r\nGouvernements Radio Telefoondienst.\r\nIn kartonnen houder (3 platen)" .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#inscription> "Gouvernements Radio Telefoondienst." .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#creator> "Gouvernements Radio Telefoondienst" .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#identifier> "nf%201314-13" .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#name> "Hotel der Nederlanden Weltevreden" .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, met in inkt geschreven tekst, datum, adres geadresseerde, postzegel van Nederlandsch-Indië van 7½ cent, poststempel Weltevreden.\r\n\r\nOp afbeelding tekst rechts bovenaan: 'HOTEL DER NEDERLANDEN WELTEVREDEN'\r\nOp ac" .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#creator> "Emmink  Weltevreden" .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e74d900abbace4a19916d6d7634138a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e74d900abbace4a19916d6d7634138a4> <https://colonialcollections.nl/schema#identifier> "nf%201314-2" .
 <https://n2t.net/ark:/27023/e74d900abbace4a19916d6d7634138a4> <https://colonialcollections.nl/schema#name> "H.V.A.-gebouw, Soerabaja" .
@@ -19,6 +34,13 @@
 <https://n2t.net/ark:/27023/e751a1d8207db741060c9159b47a54ce> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/e751a1d8207db741060c9159b47a54ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e751a1d8207db741060c9159b47a54ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#identifier> "nf%20563" .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#name> "Bouw van een spoorburg" .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug" .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M. Luijks, Bandoeng" .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e7790e4baa6f68121b162b9ec4232058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e7790e4baa6f68121b162b9ec4232058> <https://colonialcollections.nl/schema#identifier> "S%204253B" .
 <https://n2t.net/ark:/27023/e7790e4baa6f68121b162b9ec4232058> <https://colonialcollections.nl/schema#name> "Map of The Malay Archipelago (Netherlands East Indies)" .
@@ -26,6 +48,13 @@
 <https://n2t.net/ark:/27023/e7790e4baa6f68121b162b9ec4232058> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/e7790e4baa6f68121b162b9ec4232058> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e7790e4baa6f68121b162b9ec4232058> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#identifier> "1997/10/22-1-2" .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#name> "Rol tekeningen betreffende een kamp in de Minahassa" .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#description> "Rol met 20 aan elkaar geplakte tekeningen betreffende een kamp in de Minahassa, Celebes. De tekeningen zijn gemaakt door mevr. J.S. Kraat-Arnold, echtgenote van de adjudant apotheker KNIL J.J. Kraat.\r\n\r\n[met bijbehorende bamboekoker]" .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#creator> "Mw. J.S. Kraat-Arnold" .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e761d7153b3848764094a41677fe4d59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e761d7153b3848764094a41677fe4d59> <https://colonialcollections.nl/schema#identifier> "nf%20555" .
 <https://n2t.net/ark:/27023/e761d7153b3848764094a41677fe4d59> <https://colonialcollections.nl/schema#description> "Padang, Sumatra" .
@@ -86,13 +115,6 @@
 <https://n2t.net/ark:/27023/e783b239fcd1d4547e48453a7694214b> <https://colonialcollections.nl/schema#inscription> "Dr. Bolsius" .
 <https://n2t.net/ark:/27023/e783b239fcd1d4547e48453a7694214b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e783b239fcd1d4547e48453a7694214b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#identifier> "1974/08/05-1-1" .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#name> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot" .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#description> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot tijdens Commando-overdracht op 26 juli 1939. Deel I.\r\nGouvernements Radio Telefoondienst.\r\nIn kartonnen houder (3 platen)" .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#inscription> "Gouvernements Radio Telefoondienst." .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e75f9bcd620e6195c53c263b2e7e290e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e74b2119bbdcd471ab22041e89474164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e74b2119bbdcd471ab22041e89474164> <https://colonialcollections.nl/schema#identifier> "1883/11-1-14" .
 <https://n2t.net/ark:/27023/e74b2119bbdcd471ab22041e89474164> <https://colonialcollections.nl/schema#name> "Hartsvanger in schede, afkomstig van de Koloniale en Internationale Tentoonstelling te Amsterdam in 1883" .
@@ -561,24 +583,6 @@
 <https://n2t.net/ark:/27023/e78b6892f756501817763a0797245626> <https://colonialcollections.nl/schema#description> "Speld. Rood-witte vlag." .
 <https://n2t.net/ark:/27023/e78b6892f756501817763a0797245626> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e78b6892f756501817763a0797245626> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#identifier> "nf%201314-13" .
-<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#name> "Hotel der Nederlanden Weltevreden" .
-<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, met in inkt geschreven tekst, datum, adres geadresseerde, postzegel van Nederlandsch-Indië van 7½ cent, poststempel Weltevreden.\r\n\r\nOp afbeelding tekst rechts bovenaan: 'HOTEL DER NEDERLANDEN WELTEVREDEN'\r\nOp ac" .
-<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e74af254b7b79aef9b877c391c555952> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#identifier> "nf%20563" .
-<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#name> "Bouw van een spoorburg" .
-<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug" .
-<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e76d8d391483d15098291da833106e96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#identifier> "1997/10/22-1-2" .
-<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#name> "Rol tekeningen betreffende een kamp in de Minahassa" .
-<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#description> "Rol met 20 aan elkaar geplakte tekeningen betreffende een kamp in de Minahassa, Celebes. De tekeningen zijn gemaakt door mevr. J.S. Kraat-Arnold, echtgenote van de adjudant apotheker KNIL J.J. Kraat.\r\n\r\n[met bijbehorende bamboekoker]" .
-<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e78c075b94a58c90f8e7a43838838d82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e77226e84e91d6cd54ecfd489324522e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e77226e84e91d6cd54ecfd489324522e> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42385" .
 <https://n2t.net/ark:/27023/e77226e84e91d6cd54ecfd489324522e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tdolk & schede\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 39 x 10,5 cm\r\nMedia:\t2918\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2918] Depot, 24, R d [24 R d]" .

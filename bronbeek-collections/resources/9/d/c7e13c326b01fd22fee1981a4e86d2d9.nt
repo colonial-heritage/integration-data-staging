@@ -1,3 +1,25 @@
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-11" .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#name> "21. Woning van een Regent (West Java)" .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n21. Woning van een Regent (West Java)" .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#inscription> "21. Woning van een Regent (West Java)" .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/40" .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Diner met gedekte tafel en achttien heren in pak. Op de achtergrond hangt een lijst met veel kleine portretjes erin.\r\nVerso: Zittend, 5de van links: Generaal-Majoor b.d. Jhr. E.H.J. Storm van 's Gr" .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#creator> "A. Frequin" .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-3/7" .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#name> "Foto's afkomstig van een plantersfamilie (Richter?)" .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#description> "Carte de cabinet. portret van een kleine jongen in matrozenpakje met speelgoed treinbaan op de voorgrond.\r\nFoto's, zwartwit, 74 stuks. Uit albums gescheurd (door schenkster)\r\nBoroboedoer (1919)\r\nPrentbriefkaart met afbeelding van Shirley Temple, gericht a" .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#creator> "Che Lan & Co" .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/68042bd3844da750fd3bd31bbb447b7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/68042bd3844da750fd3bd31bbb447b7b> <https://colonialcollections.nl/schema#identifier> "2008/01/17-1-1/90" .
 <https://n2t.net/ark:/27023/68042bd3844da750fd3bd31bbb447b7b> <https://colonialcollections.nl/schema#name> "Portret van vice-president van de Republiek Indonesië, Mohammed Hatta" .
@@ -88,13 +110,6 @@
 <https://n2t.net/ark:/27023/680f908c0044cbf0034ea8c31e06c664> <https://colonialcollections.nl/schema#inscription> "Ex-krijgsgevangene Singapore ´45-´46 gedragen in Singapore en W-Java. Manilla-groep was blauw met wit. Uiteindelijke band werd blauw met gele letters" .
 <https://n2t.net/ark:/27023/680f908c0044cbf0034ea8c31e06c664> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/680f908c0044cbf0034ea8c31e06c664> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-11" .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#name> "21. Woning van een Regent (West Java)" .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n21. Woning van een Regent (West Java)" .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#inscription> "21. Woning van een Regent (West Java)" .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6803b8e8a849102820e2d90b04b6edee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/67e05dc3017c902a545d7bb4399cdf48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/67e05dc3017c902a545d7bb4399cdf48> <https://colonialcollections.nl/schema#identifier> "2017/03/21-2-2/47" .
 <https://n2t.net/ark:/27023/67e05dc3017c902a545d7bb4399cdf48> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal OVW A.C. van Eerd, Nederlands Indie 1945-1948" .
@@ -521,18 +536,6 @@
 <https://n2t.net/ark:/27023/68204655b525052ab6236e6c9c58c7a5> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van diensttijd korporaal L. Krijnen 1946-1949." .
 <https://n2t.net/ark:/27023/68204655b525052ab6236e6c9c58c7a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/68204655b525052ab6236e6c9c58c7a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/40" .
-<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Diner met gedekte tafel en achttien heren in pak. Op de achtergrond hangt een lijst met veel kleine portretjes erin.\r\nVerso: Zittend, 5de van links: Generaal-Majoor b.d. Jhr. E.H.J. Storm van 's Gr" .
-<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/67ec68af68e5d434b1f66131077de74c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-3/7" .
-<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#name> "Foto's afkomstig van een plantersfamilie (Richter?)" .
-<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#description> "Carte de cabinet. portret van een kleine jongen in matrozenpakje met speelgoed treinbaan op de voorgrond.\r\nFoto's, zwartwit, 74 stuks. Uit albums gescheurd (door schenkster)\r\nBoroboedoer (1919)\r\nPrentbriefkaart met afbeelding van Shirley Temple, gericht a" .
-<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/67f101d7ceffff34a1c95397e53081a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/67e097d811a5b285b3090a0195adcce3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/67e097d811a5b285b3090a0195adcce3> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/47" .
 <https://n2t.net/ark:/27023/67e097d811a5b285b3090a0195adcce3> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .

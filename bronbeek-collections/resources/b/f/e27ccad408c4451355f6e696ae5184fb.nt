@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-46" .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#name> "Carte de visite: Juffrouw van Bulderen" .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Juffrouw van Bulderen" .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#inscription> "Juffrouw van Bulderen" .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6d1309b1aa0146cc7c512fbee0655445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6d1309b1aa0146cc7c512fbee0655445> <https://colonialcollections.nl/schema#identifier> "1998/05/03-1-1" .
 <https://n2t.net/ark:/27023/6d1309b1aa0146cc7c512fbee0655445> <https://colonialcollections.nl/schema#name> "Schoolplaat uit de serie Insulinde in woord en beeld van Henri Zondervan getiteld \"Rijstbouw. Java\"" .
@@ -7,6 +15,22 @@
 <https://n2t.net/ark:/27023/6d1309b1aa0146cc7c512fbee0655445> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6d1309b1aa0146cc7c512fbee0655445> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6d1309b1aa0146cc7c512fbee0655445> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/48" .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#name> "Met een witte vredesvlag en kokosnoten ontvangen het hoofd en de inwoners van Kapal de KNIL-troepen op vreedzame wijze" .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nMet een witte vredesvlag en kokosnoten ontvangen het hoofd en de inwoners van Kapal de KNIL-troepen op vreedzame wijze." .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#identifier> "2000/10/30-1-3" .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#name> "Wandzak van katoen" .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#description> "Zak, wandzak. Wit katoen met borduursels. Gemaakt in Kamp Moentilan. Door mevrouw R.Stoetman-Orion voor haar oudste zoon Henk (toen 14 jaar) gemaakt, zoon Henk werd in 1943 als eerste zoon naar een jongenskamp gedeporteerd.\r\n\r\nThis machine-stitched, sturd" .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#inscription> "Moentilan; 7 Dec 1943; Denk er an; H.S." .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#creator> "Mw. R. Stoetman-Orion" .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6cdad522bedaa89eafbde194d8ac5e80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6cdad522bedaa89eafbde194d8ac5e80> <https://colonialcollections.nl/schema#identifier> "1874/10-1/21" .
 <https://n2t.net/ark:/27023/6cdad522bedaa89eafbde194d8ac5e80> <https://colonialcollections.nl/schema#name> "Nr. 21: Benteng Penajoeng (Wester-face), uit ´Dertig gezichten op Atjeh´" .
@@ -35,6 +59,14 @@
 <https://n2t.net/ark:/27023/6cf2df43257d1fd41f5421af74a1f450> <https://colonialcollections.nl/schema#creator> "Neville Keasberry" .
 <https://n2t.net/ark:/27023/6cf2df43257d1fd41f5421af74a1f450> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6cf2df43257d1fd41f5421af74a1f450> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6cf2df43257d1fd41f5421af74a1f450> <https://colonialcollections.nl/schema#creator> "Chemicaliën Handel Malang Mevr: C. Bocage" .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#identifier> "nf%20677-4" .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#name> "Het dobbelspel met Sakuni, Dussasana en drie Pandawas" .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: HET DOBBELSPEL. Links: Sakuni. Midden: Dussasana. Rechts: 3 Pandawas.\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                           " .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#creator> "Maria Austria" .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6d02b004c167abf4b06105050ea16600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6d02b004c167abf4b06105050ea16600> <https://colonialcollections.nl/schema#identifier> "2006/00-42-4/4" .
 <https://n2t.net/ark:/27023/6d02b004c167abf4b06105050ea16600> <https://colonialcollections.nl/schema#name> "Nr. 29: Groep officieren van het linkerhalf 3e bat. aan de poort van den kraton, uit ´Vierendertig gezichten op Atjeh´" .
@@ -46,9 +78,20 @@
 <https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#identifier> "nf%201003" .
 <https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#name> "Een groep djangers en kètjak, met den Dag (leider) in het midden" .
 <https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#description> "ansichtkaart, rechthoekig, kleur. Samen met nog een andere ansichtkaart met tape aan één kant op karton opgeplakt.\r\n\r\nDeze kaarten hebben de gebruikelijke belijning van ansichtkaarten. En er is tekst.\r\nTitels in drie talen, Nederlands, Indonesisch en Fran" .
-<https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
 <https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
+<https://n2t.net/ark:/27023/6d06431c12699eee9f1825e1159d0b57> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#identifier> "nf%20904" .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#name> "Rudolf Bonnet tekenaar en schilder (1895 - 1978)" .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#description> "Film 'Rudolf Bonnet tekenaar en schilder (1895 - 1978)'" .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#creator> "Suzanne Wieberdink" .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#creator> "Hugo van Zoest" .
+<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#creator> "Marianne Wieberdink" .
 <https://n2t.net/ark:/27023/6d17b241bd476ab33201e5d0811f50dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6d17b241bd476ab33201e5d0811f50dd> <https://colonialcollections.nl/schema#identifier> "nf%20836-5" .
 <https://n2t.net/ark:/27023/6d17b241bd476ab33201e5d0811f50dd> <https://colonialcollections.nl/schema#name> "Dezelfde weg ± 10 KM verder; steile bergwand en steile afgrond" .
@@ -72,30 +115,10 @@
 <https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#identifier> "nf%201878" .
 <https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant in inkt geschreven tekst: 'Sumatra's Westkust'\r\nIn potlood 'K.W.Jongbloed - Slauerhofflaan 177 - 2624 JZ Delft'\r\nEr is ook een lichtpaars stempel met de volgende tekst: 'UITGAVE PARKHOTEL - FORT DE KOCK -" .
-<https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
 <https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-46" .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#name> "Carte de visite: Juffrouw van Bulderen" .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Juffrouw van Bulderen" .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#inscription> "Juffrouw van Bulderen" .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6d0357ef46dd9983b57ba739618bdc94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/48" .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#name> "Met een witte vredesvlag en kokosnoten ontvangen het hoofd en de inwoners van Kapal de KNIL-troepen op vreedzame wijze" .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nMet een witte vredesvlag en kokosnoten ontvangen het hoofd en de inwoners van Kapal de KNIL-troepen op vreedzame wijze." .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6d189b6508279bc00e095b2b8958a246> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#identifier> "2000/10/30-1-3" .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#name> "Wandzak van katoen" .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#description> "Zak, wandzak. Wit katoen met borduursels. Gemaakt in Kamp Moentilan. Door mevrouw R.Stoetman-Orion voor haar oudste zoon Henk (toen 14 jaar) gemaakt, zoon Henk werd in 1943 als eerste zoon naar een jongenskamp gedeporteerd.\r\n\r\nThis machine-stitched, sturd" .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#inscription> "Moentilan; 7 Dec 1943; Denk er an; H.S." .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6d1ddf9707e1a2fc97054bac35096d0e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6d193135583c1320eb66d4f98ca189ec> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6cd44ce2e0e056446d61c3456744192b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6cd44ce2e0e056446d61c3456744192b> <https://colonialcollections.nl/schema#identifier> "2006/09/05-2-2/158" .
 <https://n2t.net/ark:/27023/6cd44ce2e0e056446d61c3456744192b> <https://colonialcollections.nl/schema#name> "Foto. Periode 1946-1949. Deel van een serie." .
@@ -534,18 +557,6 @@
 <https://n2t.net/ark:/27023/6d1ecb8ec5b86762b45ed804b830e27d> <https://colonialcollections.nl/schema#description> "Foto diensttijd Sergeant-majoor H.J. de Vos, 8e Bataljon Stoottroepen 1946-1948." .
 <https://n2t.net/ark:/27023/6d1ecb8ec5b86762b45ed804b830e27d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6d1ecb8ec5b86762b45ed804b830e27d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#identifier> "nf%20677-4" .
-<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#name> "Het dobbelspel met Sakuni, Dussasana en drie Pandawas" .
-<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: HET DOBBELSPEL. Links: Sakuni. Midden: Dussasana. Rechts: 3 Pandawas.\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                           " .
-<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6cfa3658cb8d81c688d6e458c2d35b04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#identifier> "nf%20904" .
-<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#name> "Rudolf Bonnet tekenaar en schilder (1895 - 1978)" .
-<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#description> "Film 'Rudolf Bonnet tekenaar en schilder (1895 - 1978)'" .
-<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6d0ee2764d47ba74fe9ac59d20d238ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6ce4265250bf1cd3a88b119129a9a0f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6ce4265250bf1cd3a88b119129a9a0f0> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42517" .
 <https://n2t.net/ark:/27023/6ce4265250bf1cd3a88b119129a9a0f0> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 155,8 cm\r\nMedia:\t3050\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3050], Huidige locatie niet geregistreerd\r\nhoofdmateriaal:\thout" .

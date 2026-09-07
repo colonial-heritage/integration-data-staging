@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#identifier> "1990/07/19-3-2" .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#name> "Poster Niwin" .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#description> "Poster. Geplastificeerd.\r\n\"Ons hart is bij hen\". Onderaan de tekst \" Steun het NIWIN werk !\".\r\n\"8.20.49.\" & \"Druk: \"Intenso\" A'dam\", gesigneerd: \"vM\"" .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#inscription> "Ons hart is bij hen; Steun het Niwin werk!" .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#creator> "Intenso Amsterdam" .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-31b" .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#name> "Broek behorend tot uniform KNIL" .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#description> "Broek behorend tot uniform KNIL. Rijbroek Officier, band: 90, lengte: 100." .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#inscription> "Palm" .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#creator> "Kleedingmagazijn E. Esders, Rotterdam" .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#identifier> "2002/00-33/43" .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#name> "136. Transport van Tabak." .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n136. Transport van Tabak." .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#inscription> "136. Transport van Tabak." .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d97fad156e912a5dc4e75277402f405c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d97fad156e912a5dc4e75277402f405c> <https://colonialcollections.nl/schema#identifier> "nf%201413-59" .
 <https://n2t.net/ark:/27023/d97fad156e912a5dc4e75277402f405c> <https://colonialcollections.nl/schema#name> "Rond het voetbalterrein te Bagoes Koening" .
@@ -56,27 +80,6 @@
 <https://n2t.net/ark:/27023/d98c1cab57bc2ebd64c6fa88d4a99c23> <https://colonialcollections.nl/schema#inscription> "2" .
 <https://n2t.net/ark:/27023/d98c1cab57bc2ebd64c6fa88d4a99c23> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d98c1cab57bc2ebd64c6fa88d4a99c23> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#identifier> "1990/07/19-3-2" .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#name> "Poster Niwin" .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#description> "Poster. Geplastificeerd.\r\n\"Ons hart is bij hen\". Onderaan de tekst \" Steun het NIWIN werk !\".\r\n\"8.20.49.\" & \"Druk: \"Intenso\" A'dam\", gesigneerd: \"vM\"" .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#inscription> "Ons hart is bij hen; Steun het Niwin werk!" .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d97e1ad5d38a20961507578fbfda3d26> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-31b" .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#name> "Broek behorend tot uniform KNIL" .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#description> "Broek behorend tot uniform KNIL. Rijbroek Officier, band: 90, lengte: 100." .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#inscription> "Palm" .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d99a1debd398a040abef9f06db51e74d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#identifier> "2002/00-33/43" .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#name> "136. Transport van Tabak." .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n136. Transport van Tabak." .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#inscription> "136. Transport van Tabak." .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d9a4fbe36955adb0acee4ab875eb2006> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d95d5684c9cae4a51ad45aeb94a21ff8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d95d5684c9cae4a51ad45aeb94a21ff8> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/18" .
 <https://n2t.net/ark:/27023/d95d5684c9cae4a51ad45aeb94a21ff8> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .

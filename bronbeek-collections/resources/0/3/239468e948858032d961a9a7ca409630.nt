@@ -1,17 +1,48 @@
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/33" .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Gezicht op de baai" .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In kleur. Balikpapan (Borneo) Gezicht op de baai." .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#inscription> "Dezelfde kiek als op de hoek van de Leidschestraat en Keizersgracht. Weetje nog wel. Doch het huis is van hout hoor! en ziet er mooier uit dan het is. J." .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#creator> "Rob. Hennemann & Co." .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/21" .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\nIn een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 18.\r\nAfgebeeld: 3/4 portret van een militair gezeten op stoel, naar rechts gekee" .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#inscription> "Zilveren Medaille eerste provinciale tentoonstelling van nijverheid shertogenbosch 1857" .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#creator> "L. Stollenwerk Spiegel en Lijstenfabriek 's Hertogenbosch" .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/459" .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 6.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#creator> "Uitgeverij Spanjersberg" .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#identifier> "nf%20813" .
 <https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#name> "31 Augustus Parade op het Tidarterrein. Magelang" .
 <https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de 31 Augustus Parade op het Tidarterrein te Magelang.\r\n\r\nOnderaan op de voorkant staat vermeld: '31 Augustus Parade op het Tidarterrein. Magelang.'\r\n\r\nGedeelde achterkant met links onderaan vermeld 'naam' en 'adres' me" .
-<https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
 <https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f99e951129db8c7ba1d5d2fec24203e2> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/16" .
 <https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#name> "1. Bulbeis. 2. Cheik Chadouf. 3. Cheik Nabour Rahouih." .
 <https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#description> "Prent. 1. Bulbeis. 2. Cheik Chadouf. 3. Cheik Nabour Rahouih.\r\nGenummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 t/m 1997/10/09-1-3/28)." .
-<https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f9a0a993a3fe0b6ba015afcbe57bc771> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#identifier> "2017/02/19-7" .
+<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#name> "Getekende landkaarten Veiligheids Dienst Mariniers Brigade" .
+<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#creator> "M.D.W. Bongers" .
+<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f9aa2f956325f955417d937151228caa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f9aa2f956325f955417d937151228caa> <https://colonialcollections.nl/schema#identifier> "2005/00-633/10" .
 <https://n2t.net/ark:/27023/f9aa2f956325f955417d937151228caa> <https://colonialcollections.nl/schema#name> "Foto van een gezicht op de rivier Soengei Djankok even voorbij Ampenan, Lombok" .
@@ -117,20 +148,6 @@
 <https://n2t.net/ark:/27023/f9d921e24d89c1b31ae0c93f960f23d2> <https://colonialcollections.nl/schema#inscription> "\"eindelijk weer eens de \"zitzaal\" vrij!\"" .
 <https://n2t.net/ark:/27023/f9d921e24d89c1b31ae0c93f960f23d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f9d921e24d89c1b31ae0c93f960f23d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/33" .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Gezicht op de baai" .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In kleur. Balikpapan (Borneo) Gezicht op de baai." .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#inscription> "Dezelfde kiek als op de hoek van de Leidschestraat en Keizersgracht. Weetje nog wel. Doch het huis is van hout hoor! en ziet er mooier uit dan het is. J." .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f99aa132705226f76d49c2d1ed321b90> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/21" .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\nIn een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 18.\r\nAfgebeeld: 3/4 portret van een militair gezeten op stoel, naar rechts gekee" .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#inscription> "Zilveren Medaille eerste provinciale tentoonstelling van nijverheid shertogenbosch 1857" .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f9c038dfa22d969e0e2185c37ee22549> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f999970b8a2ec275d42a772fbc9a9393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f999970b8a2ec275d42a772fbc9a9393> <https://colonialcollections.nl/schema#identifier> "2005/01/14-2-6/20" .
 <https://n2t.net/ark:/27023/f999970b8a2ec275d42a772fbc9a9393> <https://colonialcollections.nl/schema#name> "Waaier van gouddraaddecoratie" .
@@ -539,17 +556,6 @@
 <https://n2t.net/ark:/27023/f9e0b9371d88d3103eaab3307808694c> <https://colonialcollections.nl/schema#description> "Foto zwart/wit, 1946-1949 (totaal 109 stuks)." .
 <https://n2t.net/ark:/27023/f9e0b9371d88d3103eaab3307808694c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f9e0b9371d88d3103eaab3307808694c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/459" .
-<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
-<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 6.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
-<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f99d8f2585ec9a21f6940b93fee9175b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#identifier> "2017/02/19-7" .
-<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#name> "Getekende landkaarten Veiligheids Dienst Mariniers Brigade" .
-<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f9a1c3920d327d9c42bf105c05ecb187> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f99a6c3703c98ccb290adf6d49b38723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f99a6c3703c98ccb290adf6d49b38723> <https://colonialcollections.nl/schema#identifier> "nf%201414-83" .
 <https://n2t.net/ark:/27023/f99a6c3703c98ccb290adf6d49b38723> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 83, staat vermeld: 5-37 thuis Djokya\r\n\r\nOpname toont een tuin/gazon met daarin een rieten/rotan tuinameublement en een parasol. In een stoel zit een bla" .

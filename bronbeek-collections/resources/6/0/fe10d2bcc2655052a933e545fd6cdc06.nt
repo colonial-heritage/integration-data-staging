@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#identifier> "2002/00-33/17" .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#name> "29. 's Lands Plantentuin. Buitenzorg. Pandanen." .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n29. 's Lands Plantentuin. Buitenzorg. Pandanen." .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#inscription> "29. 's Lands Plantentuin. Buitenzorg. Pandanen." .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fd6d3d2bf321424a2e0aff904b935388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fd6d3d2bf321424a2e0aff904b935388> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/10" .
 <https://n2t.net/ark:/27023/fd6d3d2bf321424a2e0aff904b935388> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/fd6d3d2bf321424a2e0aff904b935388> <https://colonialcollections.nl/schema#creator> "C.J.L. Vermeulen" .
 <https://n2t.net/ark:/27023/fd6d3d2bf321424a2e0aff904b935388> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fd6d3d2bf321424a2e0aff904b935388> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-31" .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#name> "Nederlandse versterking arriveert vanuit Magelang" .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#description> "Nederlandse versterking arriveert vanuit Magelang. 19 december 1948" .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fd89206cf78cc096091f59873a22039f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fd89206cf78cc096091f59873a22039f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/114" .
 <https://n2t.net/ark:/27023/fd89206cf78cc096091f59873a22039f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -44,13 +59,6 @@
 <https://n2t.net/ark:/27023/fd72afe539691c85f7ecd2344abc654d> <https://colonialcollections.nl/schema#inscription> "Wisselmeren, 1937" .
 <https://n2t.net/ark:/27023/fd72afe539691c85f7ecd2344abc654d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fd72afe539691c85f7ecd2344abc654d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#identifier> "2002/00-33/17" .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#name> "29. 's Lands Plantentuin. Buitenzorg. Pandanen." .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n29. 's Lands Plantentuin. Buitenzorg. Pandanen." .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#inscription> "29. 's Lands Plantentuin. Buitenzorg. Pandanen." .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fd95037731d84ac153dc20a26b8bd8b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fd60c2394803c458471e82580150533d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fd60c2394803c458471e82580150533d> <https://colonialcollections.nl/schema#identifier> "1990/01/01-20/78" .
 <https://n2t.net/ark:/27023/fd60c2394803c458471e82580150533d> <https://colonialcollections.nl/schema#name> "Opleiding Militaire Politie en afvoering Japanse krijgsgevangenen" .
@@ -513,12 +521,6 @@
 <https://n2t.net/ark:/27023/fdafae49e7caeb3cd219797a2c7f1c46> <https://colonialcollections.nl/schema#description> "Bordje, porselein. \"Wayang Taiwin China\"." .
 <https://n2t.net/ark:/27023/fdafae49e7caeb3cd219797a2c7f1c46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fdafae49e7caeb3cd219797a2c7f1c46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-31" .
-<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#name> "Nederlandse versterking arriveert vanuit Magelang" .
-<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#description> "Nederlandse versterking arriveert vanuit Magelang. 19 december 1948" .
-<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fd86402e27338ca43c5d48898fa33f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fd648522a17edd2645816f15d31a0f73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fd648522a17edd2645816f15d31a0f73> <https://colonialcollections.nl/schema#identifier> "S%20814-18" .
 <https://n2t.net/ark:/27023/fd648522a17edd2645816f15d31a0f73> <https://colonialcollections.nl/schema#description> "Javaanse keris luk met schede; dapur cerita; pamor berasuritah; koperen mendak; ukiran solo met twee patra; wrangka ladrangan solo; pendok blewah van koper" .

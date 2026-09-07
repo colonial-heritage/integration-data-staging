@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#identifier> "2003/00-20-6" .
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van het vooraanzicht en de commandantswoning van Bronbeek" .
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Commandantswoning´ Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#creator> "drukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/25e2604bfe06d7c4e9eed9b8c60ed6b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25e2604bfe06d7c4e9eed9b8c60ed6b6> <https://colonialcollections.nl/schema#identifier> "2005/00-711" .
 <https://n2t.net/ark:/27023/25e2604bfe06d7c4e9eed9b8c60ed6b6> <https://colonialcollections.nl/schema#name> "Kepi KNIL met kokarde en stormband" .
@@ -16,10 +23,10 @@
 <https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#identifier> "nf%201364-4" .
 <https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#name> "Beide kinderen op het hobbelpaard" .
 <https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 5 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'WANDELING DOOR DEN DIERENTUIN, MIEP EN FRANS VOEREN HUN LIEVELINGS" .
-<https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/25e5b98ae83787270cf237cc5b8a307a> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/25f106c60b4246a22f01d733bbd480c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25f106c60b4246a22f01d733bbd480c4> <https://colonialcollections.nl/schema#identifier> "nf%20916" .
 <https://n2t.net/ark:/27023/25f106c60b4246a22f01d733bbd480c4> <https://colonialcollections.nl/schema#name> "Spoorwegbrug Tjikoebang" .
@@ -513,12 +520,6 @@
 <https://n2t.net/ark:/27023/25fe956c4afb7f0aab60d6c4e83fd1b7> <https://colonialcollections.nl/schema#description> "Foto´s & documenten in een modern album.\r\nRegentesselaan, Soerabaia.\r\nYoung & Gill\r\nPassagebiljetten NV StoomvaartMij, KPM\r\nToelatingskaart Batavia.\r\nNaoorlogse foto´s." .
 <https://n2t.net/ark:/27023/25fe956c4afb7f0aab60d6c4e83fd1b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/25fe956c4afb7f0aab60d6c4e83fd1b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#identifier> "2003/00-20-6" .
-<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van het vooraanzicht en de commandantswoning van Bronbeek" .
-<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Commandantswoning´ Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
-<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/25c46c170f49f3155502af69a60791ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/25bb09ce4bcb26bca98680f6511ca706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/25bb09ce4bcb26bca98680f6511ca706> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43465" .
 <https://n2t.net/ark:/27023/25bb09ce4bcb26bca98680f6511ca706> <https://colonialcollections.nl/schema#description> "Pijlkoker, zonder pijlen en deksel\r\n\r\nAfdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijlkoker\r\nRubriek:\t(niet ingevoerd)\r\nMedia:\t3998\r\nHuidige standplaats:\t[3998] Depot, LB VI, 6 [LB VI 6]" .

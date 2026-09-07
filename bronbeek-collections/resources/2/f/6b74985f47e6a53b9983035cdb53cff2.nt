@@ -1,10 +1,27 @@
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-17" .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#name> "56. Lavastroom van den Goentoer." .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#description> "Schoolplaat. 56. Lavastroom van den Goentoer." .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#inscription> "56. Lavastroom van den Goentoer." .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/15" .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#name> "Oude Kali met Spoorbrug te Batavia" .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Oude Kali met Spoorbrug te Batavia.'" .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#inscription> "Oude Kali met Spoorbrug te Batavia" .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/173" .
 <https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
 <https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Djati. Batavia." .
-<https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
+<https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf04425e7f29f7cf4ce0e722ec110290> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <https://colonialcollections.nl/schema#identifier> "S%206245-49" .
 <https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <https://colonialcollections.nl/schema#name> "groep van pandanen" .
@@ -12,6 +29,7 @@
 <https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf066bdec91704645bc0684669d9a8fc> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/bf1ab8adee976f6372336211272f8dc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf1ab8adee976f6372336211272f8dc2> <https://colonialcollections.nl/schema#identifier> "1977/03-1-29" .
 <https://n2t.net/ark:/27023/bf1ab8adee976f6372336211272f8dc2> <https://colonialcollections.nl/schema#name> "Ontmoeting van de koeienjongen" .
@@ -26,6 +44,13 @@
 <https://n2t.net/ark:/27023/bf1ef7fa284015b2f1f6981371dd57be> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/bf1ef7fa284015b2f1f6981371dd57be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf1ef7fa284015b2f1f6981371dd57be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/11" .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#name> "Valei met huizen en paard" .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Valei met huizen en paard.." .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#creator> "Sibayak Fotograaf, Brastagi" .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bf25b6ff1c84217cc568b41db49e1ca5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf25b6ff1c84217cc568b41db49e1ca5> <https://colonialcollections.nl/schema#identifier> "nf%20693-13" .
 <https://n2t.net/ark:/27023/bf25b6ff1c84217cc568b41db49e1ca5> <https://colonialcollections.nl/schema#name> "Huis Pad Bovent" .
@@ -97,20 +122,6 @@
 <https://n2t.net/ark:/27023/bf2229d3af21550312ec1cb0ddec94b2> <https://colonialcollections.nl/schema#inscription> "\"Welfare foto dienst Afdeeling Soerabaja no. 1969.\"" .
 <https://n2t.net/ark:/27023/bf2229d3af21550312ec1cb0ddec94b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf2229d3af21550312ec1cb0ddec94b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-17" .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#name> "56. Lavastroom van den Goentoer." .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#description> "Schoolplaat. 56. Lavastroom van den Goentoer." .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#inscription> "56. Lavastroom van den Goentoer." .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bf13f34e445062662eb91070b65510cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/15" .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#name> "Oude Kali met Spoorbrug te Batavia" .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Oude Kali met Spoorbrug te Batavia.'" .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#inscription> "Oude Kali met Spoorbrug te Batavia" .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bf2962e872823aaa57eb51ea81aa1e1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bef21f20e14a0b224dc19164c94627f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bef21f20e14a0b224dc19164c94627f6> <https://colonialcollections.nl/schema#identifier> "1938/02/21-1-6" .
 <https://n2t.net/ark:/27023/bef21f20e14a0b224dc19164c94627f6> <https://colonialcollections.nl/schema#name> "Portret van officier KNIL, c.a.1870-1900" .
@@ -537,12 +548,6 @@
 <https://n2t.net/ark:/27023/bf2bbf45b8596753ab3e543e4b9f6571> <https://colonialcollections.nl/schema#description> "Losse foto uit serie van totaal 206 (divers). Periode 1945-1948 in Nederland en nederlands-Indië. [waarschijnlijk dubbelen uit de (andere) albums van Van der Rijdt.]" .
 <https://n2t.net/ark:/27023/bf2bbf45b8596753ab3e543e4b9f6571> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bf2bbf45b8596753ab3e543e4b9f6571> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/11" .
-<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#name> "Valei met huizen en paard" .
-<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Valei met huizen en paard.." .
-<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bf22c40f05ae86e17c550373a1e382cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bef2b1bb5c526c9008e60da78b4b44dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bef2b1bb5c526c9008e60da78b4b44dc> <https://colonialcollections.nl/schema#identifier> "nf%201414-37" .
 <https://n2t.net/ark:/27023/bef2b1bb5c526c9008e60da78b4b44dc> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 37, staat vermeld: 8/8'35 Anneville\r\n\r\nOpname toont een parkachtig aandoend landschap, met gazons en bos met grote bomen, kastanje.\r\nEr staan mensen bij" .

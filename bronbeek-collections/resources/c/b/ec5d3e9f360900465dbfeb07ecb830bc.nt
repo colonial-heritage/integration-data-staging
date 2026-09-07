@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/1" .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja" .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja. 16 januari 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepartout m" .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#creator> "R.B. Prawiro Kaswardjo" .
 <https://n2t.net/ark:/27023/62cc1f9e8707bb9e300f7f3e712002bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62cc1f9e8707bb9e300f7f3e712002bd> <https://colonialcollections.nl/schema#identifier> "nf%20861-1-1" .
 <https://n2t.net/ark:/27023/62cc1f9e8707bb9e300f7f3e712002bd> <https://colonialcollections.nl/schema#name> "Kangeanreis 6-12 november 1933 - Inschepen aan de Noordkust" .
@@ -5,6 +14,13 @@
 <https://n2t.net/ark:/27023/62cc1f9e8707bb9e300f7f3e712002bd> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/62cc1f9e8707bb9e300f7f3e712002bd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/62cc1f9e8707bb9e300f7f3e712002bd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#identifier> "2006/00-42-750-3" .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#name> "Groepsportret van militairen in het Koloniaal Werfdepot te Harderwijk" .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#description> "Foto op karton. Groepsportret militairen, op de binnenplaats van het Koloniaal Werfdepot Harderwijk. Op achterzijde gestempeld: \"H.J. Blad photograaf Kampen\".\r\nOp achterzijde in potlood: O.H.K. Harderwijk Kol Werfdepot\" in blauwe pen: \"zie A'.\r\nWaarschijn" .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#creator> "H.J. Blad" .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6305dd9c44e6d98aa56a4a0ffdad964f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6305dd9c44e6d98aa56a4a0ffdad964f> <https://colonialcollections.nl/schema#identifier> "2003/04/07-3-4" .
 <https://n2t.net/ark:/27023/6305dd9c44e6d98aa56a4a0ffdad964f> <https://colonialcollections.nl/schema#name> "Foto, gemaakt ter gelegenheid van de herdenking d.d. 7-4-2003  op Bronbeek van de Slag in de Javazee" .
@@ -12,6 +28,20 @@
 <https://n2t.net/ark:/27023/6305dd9c44e6d98aa56a4a0ffdad964f> <https://colonialcollections.nl/schema#creator> "Dhr. A.P. Bakker" .
 <https://n2t.net/ark:/27023/6305dd9c44e6d98aa56a4a0ffdad964f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6305dd9c44e6d98aa56a4a0ffdad964f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#identifier> "2003/06/06-1-11" .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#name> "3 knopen , klimmende leeuw, glimmend" .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#description> "Knopen. 3 stuks. Glimmend. Leeuw. \"J.P.Mol, Breda\"." .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#creator> "J.P. Mol, Breda" .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#identifier> "2012/11/26-1-1/3" .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#name> "Staatsieportret van H.J.M. Baumann" .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#description> "Carte imperial (?). Staatsieportret van H.J. M. Baumann.\r\nFotograaf: Busenbender & Co, voorheen Woodbury & Page, Batavia.\r\n\r\nEen van drie (3) staatsieportretten van H.J. M. Baumann. Twee maal carte de cabinet, een maal carte imperial(?)." .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#creator> "Busenbender & Co Photographie (voorheen Woodbury & Page), Batavia" .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/62c8d8c9d5354e7ca21798fc691368cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62c8d8c9d5354e7ca21798fc691368cd> <https://colonialcollections.nl/schema#identifier> "nf%20926-25-2" .
 <https://n2t.net/ark:/27023/62c8d8c9d5354e7ca21798fc691368cd> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van een jongetje met blonde krulletjes, staand in een bedje met spijlen. Het bedje staat buiten en heeft een muskietennet (klamboe) erboven, die nu is opengeslagen.\r\n\r\nHet staande jochie is te herkennen als Jelle" .
@@ -24,6 +54,12 @@
 <https://n2t.net/ark:/27023/62cedb54959e03d3a6edf14bf690bc6b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/62cedb54959e03d3a6edf14bf690bc6b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/62cedb54959e03d3a6edf14bf690bc6b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#identifier> "nf%201621-37" .
+<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt met drie andere op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: Z. NIAS, 1930 - rechts FOTO'S M. FRANCKEN\r\n\r\nOpname toont op de voorgrond een volwasse" .
+<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#creator> "M. Francken" .
+<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/62d64bed590676f904eb45bd01f9ea0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62d64bed590676f904eb45bd01f9ea0e> <https://colonialcollections.nl/schema#identifier> "S%202274a" .
 <https://n2t.net/ark:/27023/62d64bed590676f904eb45bd01f9ea0e> <https://colonialcollections.nl/schema#description> "megaliet op Pasemah hoogvlakte" .
@@ -75,13 +111,6 @@
 <https://n2t.net/ark:/27023/62db4547333b9f8074d70373002a1b2e> <https://colonialcollections.nl/schema#inscription> "Voor Trouwe Dienst" .
 <https://n2t.net/ark:/27023/62db4547333b9f8074d70373002a1b2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/62db4547333b9f8074d70373002a1b2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/1" .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja" .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja. 16 januari 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepartout m" .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/62cad6def19bb974d0a1a3381d19d581> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/62c908adb8e2e52fe9d228011bc4a353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62c908adb8e2e52fe9d228011bc4a353> <https://colonialcollections.nl/schema#identifier> "1940/06-1-58" .
 <https://n2t.net/ark:/27023/62c908adb8e2e52fe9d228011bc4a353> <https://colonialcollections.nl/schema#name> "bajonet" .
@@ -508,24 +537,6 @@
 <https://n2t.net/ark:/27023/630c941b04c3fe6230e6dcb3c10bf047> <https://colonialcollections.nl/schema#description> "Foto. Oud inwoner Bronbeek." .
 <https://n2t.net/ark:/27023/630c941b04c3fe6230e6dcb3c10bf047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/630c941b04c3fe6230e6dcb3c10bf047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#identifier> "2006/00-42-750-3" .
-<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#name> "Groepsportret van militairen in het Koloniaal Werfdepot te Harderwijk" .
-<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#description> "Foto op karton. Groepsportret militairen, op de binnenplaats van het Koloniaal Werfdepot Harderwijk. Op achterzijde gestempeld: \"H.J. Blad photograaf Kampen\".\r\nOp achterzijde in potlood: O.H.K. Harderwijk Kol Werfdepot\" in blauwe pen: \"zie A'.\r\nWaarschijn" .
-<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/62f1d4cfa17128d4b7ad5347f7ce4345> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#identifier> "2003/06/06-1-11" .
-<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#name> "3 knopen , klimmende leeuw, glimmend" .
-<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#description> "Knopen. 3 stuks. Glimmend. Leeuw. \"J.P.Mol, Breda\"." .
-<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6306aa879e3d0c4fb4bc1474c66f5bc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#identifier> "2012/11/26-1-1/3" .
-<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#name> "Staatsieportret van H.J.M. Baumann" .
-<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#description> "Carte imperial (?). Staatsieportret van H.J. M. Baumann.\r\nFotograaf: Busenbender & Co, voorheen Woodbury & Page, Batavia.\r\n\r\nEen van drie (3) staatsieportretten van H.J. M. Baumann. Twee maal carte de cabinet, een maal carte imperial(?)." .
-<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/630bbefee801418ad045665f3eee8481> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/62cb20736e0da30dd0e94fab45e7a43f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62cb20736e0da30dd0e94fab45e7a43f> <https://colonialcollections.nl/schema#identifier> "2016/04/27-1-41/121" .
 <https://n2t.net/ark:/27023/62cb20736e0da30dd0e94fab45e7a43f> <https://colonialcollections.nl/schema#description> "Foto,z wart-wit. Diensttijd Nederlands-Indië 1946-1949." .
@@ -571,11 +582,6 @@
 <https://n2t.net/ark:/27023/630bbc2601cc0874c1099ab82746d538> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Ons nieuwe Home Gohor Lama 18 Juli '35\"\r\n\r\nOpname toont het echtpaar Thies staand voor hun huis." .
 <https://n2t.net/ark:/27023/630bbc2601cc0874c1099ab82746d538> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/630bbc2601cc0874c1099ab82746d538> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#identifier> "nf%201621-37" .
-<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt met drie andere op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: Z. NIAS, 1930 - rechts FOTO'S M. FRANCKEN\r\n\r\nOpname toont op de voorgrond een volwasse" .
-<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/62d0f1ed196c7e9fc3122aa56e069d4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/62e9af6d91c830f492b1f7718c1e34c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/62e9af6d91c830f492b1f7718c1e34c8> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/27" .
 <https://n2t.net/ark:/27023/62e9af6d91c830f492b1f7718c1e34c8> <https://colonialcollections.nl/schema#name> "Colditz" .

@@ -1,3 +1,25 @@
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-106" .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Wreesman (vrouw van D.Wreesman)" .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Wreesman (vrouw van D.Wreesman)" .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#inscription> "Mevr. Wreesman (vrouw van D.Wreesman)" .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#identifier> "2015/05/18-1-2/3" .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#name> "Demonstratie van het KNIL" .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#description> "Foto met betrekking tot Luitenant-kolonel van Nieuwenhuijzen. Demonstratie van het KNIL, opmars door struikgewas.\r\nOp achterzijde: \"a f.0,75.\"" .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#creator> "Hoo Giok Photograaf" .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#identifier> "1875/12-1-2" .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor KNIL J.L.J.H. Pel MWO" .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#description> "Foto. Portret van generaal-majoor KNIL J.L.J.H. Pel MWO" .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#creator> "W.J.Olland & Zoon Java" .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b7d636afdd8ed8e4ae48f2fb8ecfa4f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b7d636afdd8ed8e4ae48f2fb8ecfa4f6> <https://colonialcollections.nl/schema#identifier> "1997/00-1/372" .
 <https://n2t.net/ark:/27023/b7d636afdd8ed8e4ae48f2fb8ecfa4f6> <https://colonialcollections.nl/schema#name> "Kaart van de westkant van het meer van Singkarak, Sumatra" .
@@ -5,6 +27,13 @@
 <https://n2t.net/ark:/27023/b7d636afdd8ed8e4ae48f2fb8ecfa4f6> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/b7d636afdd8ed8e4ae48f2fb8ecfa4f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b7d636afdd8ed8e4ae48f2fb8ecfa4f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/48" .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#name> "Resident Henry van Swieten" .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#description> "Carte de Cabinet. Familiefoto uit de Collectie Van Swieten. Staand studioportret op kabinetformaat van Henry van Swieten. In ambtskostuum van bestuursambtenaar met de rang van resident (?). Binnenlands Bestuur.\r\nVerso: Oom Henry van Swieten; broer van moe" .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#creator> "H.W. Day" .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b7e6d4cf917bd4a31554aad5282ba1d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b7e6d4cf917bd4a31554aad5282ba1d1> <https://colonialcollections.nl/schema#identifier> "2015/01/22-1-5/11" .
 <https://n2t.net/ark:/27023/b7e6d4cf917bd4a31554aad5282ba1d1> <https://colonialcollections.nl/schema#name> "Kathedraal Waterlooplein" .
@@ -19,6 +48,14 @@
 <https://n2t.net/ark:/27023/b7f9a2fe793e0e2200f419fa96cf9ce7> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/b7f9a2fe793e0e2200f419fa96cf9ce7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b7f9a2fe793e0e2200f419fa96cf9ce7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#identifier> "nf%20701-20" .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#name> "Koperbewerking" .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#description> "De afbeelding toont een viertal mannen waarvan drie bezig zijn met het bewerken van koper.\r\n\r\nbijschrift linksonder; 'Koperbewerking. Copperengraving'\r\nbijschrift rechtsonder; 'Ciselure de cuivre. Kupferbearbeitung'" .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
 <https://n2t.net/ark:/27023/b80c12fe1038ffee57901a12ceee3bac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b80c12fe1038ffee57901a12ceee3bac> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-4/13" .
 <https://n2t.net/ark:/27023/b80c12fe1038ffee57901a12ceee3bac> <https://colonialcollections.nl/schema#name> "Overzichtskaart van Java en Madoera" .
@@ -30,10 +67,10 @@
 <https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#identifier> "2017/02/19-9-3" .
 <https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#name> "Ereteken voor Orde en Vrede met 2 gespen" .
 <https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#description> "Ereteken voor Orde en Vrede met de gespen 1946, 1947 opgemaakt op het lint met baton met twee zevenpuntige sterren." .
-<https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
+<https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
+<https://n2t.net/ark:/27023/b80d14a6a5690914b901edc8debe5890> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
 <https://n2t.net/ark:/27023/b7d2dddcfc28eafe05c507b8c81f1439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b7d2dddcfc28eafe05c507b8c81f1439> <https://colonialcollections.nl/schema#identifier> "nf%201374-72" .
 <https://n2t.net/ark:/27023/b7d2dddcfc28eafe05c507b8c81f1439> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nKleine afdruk en daardoor niet al te duidelijk. Opname toont een blanke man en vrouw, staand in de vrije natuur. Achter hen mogelijk oerwoud.\r\nHelemaal op de achtergrond is een bergrug te zien en ook een spleet " .
@@ -98,13 +135,6 @@
 <https://n2t.net/ark:/27023/b80d93e0d899ad2e32ab1ffc4eb0e4b5> <https://colonialcollections.nl/schema#inscription> "Zijkant Pan: \". van Wijlen; 25-8 trein - Chungpong - Bankrut Prachuab Kirikhan 29-8 Petchabury 3-9 v.l. Katchu 19-10 Peteh bury 21-10 Tamuan. 29-1-48 Batavia - 5-2 Semarang 20-2-48 Demob. 8-12 Melchoir Treub 14-12-46 Palembang; 8-2 46 Bangkok 13-2 A?B Soinfoind 16-2 S'pore RB 20-2- A/B 3010 25-2 Soerabaia 2-3 Denpasar 27-3 Mataram 25-5 Denpasar. 20-10-44 Tamuang 7-2-45 Nakonpatom 1-4 Tungsong 11-4 Chawang 10-5 Tungsong 175 Suradane 20-8. \r\nOnderzijde Pan: 8-3-42 Soreang, 20-12-43 N-pl II, 20-11 Nongpladuk I, 1-7 Chungkay, 26-6 Kimsajok, 7-5 Quiman, voet, 2-5 Hindat, te,  27-4 Kimsajok, km, 20-4 Cambury, 175, 8-4 Banpong, 14-4 Spoortrein, 2-2 Singapore, 29-1 a/boord, 17-1-43 Mr Cls, 12-4 Tjimahi, 15-3 Bt-djdjar.\"" .
 <https://n2t.net/ark:/27023/b80d93e0d899ad2e32ab1ffc4eb0e4b5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b80d93e0d899ad2e32ab1ffc4eb0e4b5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-106" .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Wreesman (vrouw van D.Wreesman)" .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Wreesman (vrouw van D.Wreesman)" .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#inscription> "Mevr. Wreesman (vrouw van D.Wreesman)" .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b804eb7f9fc65e8030a69630b79bf9a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b7cb545730efb0b244631ad63e563ffc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b7cb545730efb0b244631ad63e563ffc> <https://colonialcollections.nl/schema#identifier> "1997/06/25-1-11" .
 <https://n2t.net/ark:/27023/b7cb545730efb0b244631ad63e563ffc> <https://colonialcollections.nl/schema#name> "Stencil met twee KNIL-liederen" .
@@ -513,30 +543,6 @@
 <https://n2t.net/ark:/27023/b814787934a20cb97a2ded7eddd56c8d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto´s Indië, tempelgebouwen, potrettten militair, etcetera." .
 <https://n2t.net/ark:/27023/b814787934a20cb97a2ded7eddd56c8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b814787934a20cb97a2ded7eddd56c8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#identifier> "2015/05/18-1-2/3" .
-<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#name> "Demonstratie van het KNIL" .
-<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#description> "Foto met betrekking tot Luitenant-kolonel van Nieuwenhuijzen. Demonstratie van het KNIL, opmars door struikgewas.\r\nOp achterzijde: \"a f.0,75.\"" .
-<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b7d012e32f4b23842bead7d15cb0b8f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#identifier> "1875/12-1-2" .
-<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor KNIL J.L.J.H. Pel MWO" .
-<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#description> "Foto. Portret van generaal-majoor KNIL J.L.J.H. Pel MWO" .
-<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b7d176ff10a1ca26cab2de0881ecdd76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/48" .
-<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#name> "Resident Henry van Swieten" .
-<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#description> "Carte de Cabinet. Familiefoto uit de Collectie Van Swieten. Staand studioportret op kabinetformaat van Henry van Swieten. In ambtskostuum van bestuursambtenaar met de rang van resident (?). Binnenlands Bestuur.\r\nVerso: Oom Henry van Swieten; broer van moe" .
-<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b7de1420fb414fa92b006517543c3b78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#identifier> "nf%20701-20" .
-<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#name> "Koperbewerking" .
-<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#description> "De afbeelding toont een viertal mannen waarvan drie bezig zijn met het bewerken van koper.\r\n\r\nbijschrift linksonder; 'Koperbewerking. Copperengraving'\r\nbijschrift rechtsonder; 'Ciselure de cuivre. Kupferbearbeitung'" .
-<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b80683bb2fb0a3e89d9c03601f55592a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b7cec9e943670539dd22bb0f76da0c40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b7cec9e943670539dd22bb0f76da0c40> <https://colonialcollections.nl/schema#identifier> "S%20410-9" .
 <https://n2t.net/ark:/27023/b7cec9e943670539dd22bb0f76da0c40> <https://colonialcollections.nl/schema#description> "houwwapen met schede; houwwapen met zilveren banden; lemmet; glad; lg 48,5 cm; greep; van zwart hoorn; fraai besneden, welke versieringen oorspronkelijk verguld zijn; daarna tussen 2 zilveren bandjes en 1 band van 3,7 van goud; schede; van bruin hout; de " .

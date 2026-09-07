@@ -12,6 +12,13 @@
 <https://n2t.net/ark:/27023/3ceb285e3565486367de5378f9b13180> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/3ceb285e3565486367de5378f9b13180> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3ceb285e3565486367de5378f9b13180> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#identifier> "nf%201314-20" .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#name> "S.S. \"Patria\" te Sabang" .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, met in inkt geschreven tekst, datum, adres geadresseerde, postzegel van Nederl.-Indië van 12½ cent, poststempel Sabang.\r\n\r\nOp afbeelding tekst links bovenaan: 'S.S. \"Patria\" te Sabang'\r\n\r\nOp achterkant de naam v" .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <https://colonialcollections.nl/schema#identifier> "nf%201408-87" .
 <https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <https://colonialcollections.nl/schema#name> "Verbranden der aardgassen" .
@@ -19,6 +26,7 @@
 <https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3cef2b0744292cee95aaf45f96909320> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/3cf31f60556d66e9efc26525a1793d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3cf31f60556d66e9efc26525a1793d9a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/133" .
 <https://n2t.net/ark:/27023/3cf31f60556d66e9efc26525a1793d9a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -33,6 +41,20 @@
 <https://n2t.net/ark:/27023/3cf8452ece44052346439119d193bd69> <https://colonialcollections.nl/schema#creator> "Drs. D.W. Staat" .
 <https://n2t.net/ark:/27023/3cf8452ece44052346439119d193bd69> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3cf8452ece44052346439119d193bd69> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#identifier> "nf%20792" .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#name> "Mesdjid, Magelang" .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Mesdjid (moskee) te Magelang.\r\n\r\nLinks onderaan op de voorkant staat vermeld: 'Mesdjid, Magelang.'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië / (Carte p" .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#creator> "J.M.J. van Eijck, Magelang" .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/369" .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Nagetekende foto in kleur van: \"Natuurtafereel op groot Sangir.\"" .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#creator> "N.V. van de Rhee's Drukkerij" .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3d1119969fc5e2e9b32d51a78c7ae643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3d1119969fc5e2e9b32d51a78c7ae643> <https://colonialcollections.nl/schema#identifier> "nf%20925-14-1" .
 <https://n2t.net/ark:/27023/3d1119969fc5e2e9b32d51a78c7ae643> <https://colonialcollections.nl/schema#name> "Salatiga - Bertus - Beppie - Nannie Schroots" .
@@ -61,6 +83,13 @@
 <https://n2t.net/ark:/27023/3d19788414fde8e7b4ce7d01107a0aab> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3d19788414fde8e7b4ce7d01107a0aab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d19788414fde8e7b4ce7d01107a0aab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#identifier> "nf%201777-2" .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'Genietend van het uitzicht' en de naam van de fotograaf.\r\n\r\nOpname toont, zo te zien, een voorgalerij van een kamer in een ziekenhuis. In een wit metalen be" .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#creator> "H.ANDERSON - FOTO - MANOKWARI" .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/3cf67a30e86f71cd3ad3e9878134e2cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3cf67a30e86f71cd3ad3e9878134e2cc> <https://colonialcollections.nl/schema#identifier> "nf%20842-448" .
 <https://n2t.net/ark:/27023/3cf67a30e86f71cd3ad3e9878134e2cc> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 73 t/m 100. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 77, in po" .
@@ -501,24 +530,6 @@
 <https://n2t.net/ark:/27023/3d2bf80b5145e1baf8b734e0ecc36c55> <https://colonialcollections.nl/schema#description> "Pijl, bamboe, behorende bij een boog en vijf pijlen (inv.nrs 1993/09/27-7-1/1 en 1993/09/27-7-1/2, 1993/09/27-7-1/4  t/m 1993/09/27-6-1/7). Afm. ca. 160 cm. In goede staat." .
 <https://n2t.net/ark:/27023/3d2bf80b5145e1baf8b734e0ecc36c55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d2bf80b5145e1baf8b734e0ecc36c55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#identifier> "nf%201314-20" .
-<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#name> "S.S. \"Patria\" te Sabang" .
-<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#description> "Gelopen briefkaart met gedeelde achterkant, met in inkt geschreven tekst, datum, adres geadresseerde, postzegel van Nederl.-Indië van 12½ cent, poststempel Sabang.\r\n\r\nOp afbeelding tekst links bovenaan: 'S.S. \"Patria\" te Sabang'\r\n\r\nOp achterkant de naam v" .
-<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3ceb3cea22593d70c032d38ac35269e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#identifier> "nf%20792" .
-<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#name> "Mesdjid, Magelang" .
-<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Mesdjid (moskee) te Magelang.\r\n\r\nLinks onderaan op de voorkant staat vermeld: 'Mesdjid, Magelang.'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië / (Carte p" .
-<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3d0b0683f362f67a6aa8a473abe8b5a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/369" .
-<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Nagetekende foto in kleur van: \"Natuurtafereel op groot Sangir.\"" .
-<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3d1042cc8c115955538e41c793822904> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3cfb9ed7bd2d2826f501c7b5cb7771f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3cfb9ed7bd2d2826f501c7b5cb7771f9> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41789" .
 <https://n2t.net/ark:/27023/3cfb9ed7bd2d2826f501c7b5cb7771f9> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thalsketting\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2322\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2322] Depot, LB I, 51 [LB I 51]" .
@@ -579,11 +590,6 @@
 <https://n2t.net/ark:/27023/3d2c2c7e885268cb4a9acdb0cb4404ef> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen\r\n\r\nAchter op foto staat in inkt geschreven:\r\n'Kerstmis '26 - Lebaksari bij Malang - Sawah landschap'\r\n\r\nOpname toont een landschap met uitzicht op veel natte rijstvelden, zgn. sawa's. \r\n\r\nN.B.: Aangenomen is " .
 <https://n2t.net/ark:/27023/3d2c2c7e885268cb4a9acdb0cb4404ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3d2c2c7e885268cb4a9acdb0cb4404ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#identifier> "nf%201777-2" .
-<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'Genietend van het uitzicht' en de naam van de fotograaf.\r\n\r\nOpname toont, zo te zien, een voorgalerij van een kamer in een ziekenhuis. In een wit metalen be" .
-<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3cf210a712ca32a4a837cefa05e702ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3cf404ea82ea0524a9b395ec19daec1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3cf404ea82ea0524a9b395ec19daec1a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44234" .
 <https://n2t.net/ark:/27023/3cf404ea82ea0524a9b395ec19daec1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

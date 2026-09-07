@@ -44,9 +44,17 @@
 <https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#identifier> "nf%201408-83" .
 <https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#name> "Weg door het oerwoud" .
 <https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#description> "afbeelding toont een door het oerwoud aangelegde, onverharde weg.\r\n\r\nDeze afbeelding komt voor op plaat 19.\r\n\r\nAangenomen is dat deze foto ergens op Noord Sumatra is genomen.\r\n                                                                               " .
-<https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/19f6575ae3a95a6d3f69d31c69e11a16> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#identifier> "2003/10/10-1-7" .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#name> "Uniformjas. DT KL. Sergeant 1 AAT." .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#description> "Uniformjas. DT KL. Sergeant 1 AAT. Inclusief ceintuur. Geborduurde rangonderscheidingstekens." .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#creator> "mr. kleermaker Th.F. Fransen" .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1a0961ae0a15327b822211065a0362cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1a0961ae0a15327b822211065a0362cd> <https://colonialcollections.nl/schema#identifier> "nf%201178" .
 <https://n2t.net/ark:/27023/1a0961ae0a15327b822211065a0362cd> <https://colonialcollections.nl/schema#name> "Zendelingswoning Minahassa" .
@@ -72,6 +80,12 @@
 <https://n2t.net/ark:/27023/19cd5b1de1be6ca16cad515db5fb4610> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/19cd5b1de1be6ca16cad515db5fb4610> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/19cd5b1de1be6ca16cad515db5fb4610> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#identifier> "nf%20323-4-1" .
+<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het reisgezelschap in Gapong'\r\n\r\nlinksboven op het bord staat; 'Deze weg opent een nieuwe toekomst voor Flores - geopend 6 ooctober 1926'" .
+<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/19ef14eebaf5dc6dfb34d4736adb27ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/19ef14eebaf5dc6dfb34d4736adb27ed> <https://colonialcollections.nl/schema#identifier> "nf%20680-47" .
 <https://n2t.net/ark:/27023/19ef14eebaf5dc6dfb34d4736adb27ed> <https://colonialcollections.nl/schema#description> "Candi Bentar\r\n\r\nDe vrouw links voor is 'Dina Johanna Maria Kluit (geboren 22-09-1891 te Scheveningen en overleden op 26-11-1963 te Voorburg)\r\nDe jongen boven aan de trap is Pieter Gestman (geboren op 02-09-1916 te Soerabaya en overleden op 20-03-2002 te V" .
@@ -519,12 +533,6 @@
 <https://n2t.net/ark:/27023/1a0bd8b57b195a3cfd354e93234b9277> <https://colonialcollections.nl/schema#description> "Foto, totaal 145 stuks, van Doris Land, geboren te Poerworedjo, en diens familie. Land was Reserve Kapitein KNIL der infanterie." .
 <https://n2t.net/ark:/27023/1a0bd8b57b195a3cfd354e93234b9277> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1a0bd8b57b195a3cfd354e93234b9277> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#identifier> "2003/10/10-1-7" .
-<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#name> "Uniformjas. DT KL. Sergeant 1 AAT." .
-<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#description> "Uniformjas. DT KL. Sergeant 1 AAT. Inclusief ceintuur. Geborduurde rangonderscheidingstekens." .
-<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/19fc5899cd7da546c1c0c10a75fdc5f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/19bfea2262990836e4a5a0c5407c0e47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/19bfea2262990836e4a5a0c5407c0e47> <https://colonialcollections.nl/schema#identifier> "nf%201308-33-4" .
 <https://n2t.net/ark:/27023/19bfea2262990836e4a5a0c5407c0e47> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, met fotohoekjes opgeplakt, zonder echt bijschrift.\r\n\r\nLinks op fotoblad 33 staat in inkt geschreven een tekst die geldt voor 3 van de 5 foto's, n.l : 'Bezoek aan den Dierentuin Juli 1929 Den Haag'\r\n\r\nDe afbeelding toont een k" .
@@ -580,11 +588,6 @@
 <https://n2t.net/ark:/27023/1a06fc897cf2ff2110c0d72c76e12dd3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een viertal blanke mannen, in het wit met tropenhelmen op, twee ervan met een geweer in de hand.\r\nVoor hen vier Indonesische manne" .
 <https://n2t.net/ark:/27023/1a06fc897cf2ff2110c0d72c76e12dd3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1a06fc897cf2ff2110c0d72c76e12dd3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#identifier> "nf%20323-4-1" .
-<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het reisgezelschap in Gapong'\r\n\r\nlinksboven op het bord staat; 'Deze weg opent een nieuwe toekomst voor Flores - geopend 6 ooctober 1926'" .
-<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/19d3ba41cb3184a86be0d158b7aedbab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/19bf6979725cc45633261289f1d65cd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/19bf6979725cc45633261289f1d65cd7> <https://colonialcollections.nl/schema#identifier> "S%205121-277" .
 <https://n2t.net/ark:/27023/19bf6979725cc45633261289f1d65cd7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

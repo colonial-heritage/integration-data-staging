@@ -5,6 +5,20 @@
 <https://n2t.net/ark:/27023/a6925f0f8b73d8f8206d28f2935dcad0> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/a6925f0f8b73d8f8206d28f2935dcad0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a6925f0f8b73d8f8206d28f2935dcad0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#identifier> "2018/02/19-3-1" .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#name> "Hohei Soten [the Infantry Drill Book ]" .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#description> "Title:  歩兵操典 (Hohei Soten/ the Infantry Drill Book )\r\nSecond Title: 陸軍省検閲済み (Rikugunsho Ken’etsu Zumi/ Censored by Ministry of Army)\r\nDate of Publication: 昭和19年6月26日 (Showa19 (1944), 26 June)\r\nAuthor (Reprint): 小林又吉 (Matakichi KOBAYASHI) \r\nPublisher:  川流堂" .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#creator> "Matakichi KOBAYASHI" .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/7" .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#name> "Rijswijk- Batavia" .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met een zwart-wit afbeelding van een straatbeeld in Rijswijk - Batavia." .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#creator> "Vesta - Rotogravure De Unie" .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a6b9313e51e677259bfa3fef32ccee1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a6b9313e51e677259bfa3fef32ccee1a> <https://colonialcollections.nl/schema#identifier> "1874/10-1/29" .
 <https://n2t.net/ark:/27023/a6b9313e51e677259bfa3fef32ccee1a> <https://colonialcollections.nl/schema#name> "Nr. 29: Versierde Muziektent (19 februarie 1874), uit ´Dertig gezichten op Atjeh´" .
@@ -23,9 +37,18 @@
 <https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#identifier> "S%206245-45" .
 <https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#name> "Het ontbolsteren van rijst [padi]" .
 <https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Het ontbolsteren van rijst [padi].\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt" .
-<https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/a6bf035e4434f145b76beb30e8273262> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#identifier> "IB1970/05/07-1-4" .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#name> "Sjako, model Infanterie KNIL 1868-1894" .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#description> "Sjako, model Infanterie KNIL 1868-1894, incompleet. Met blauw laken bekleed castoor; blauwe biezen; weerszijden glad bol knoopje voor stormriempje; een glad bol knoopje aan achterzijde.\r\nRiempje ontbreekt." .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#creator> "Gebroeders van Leer, Utrecht" .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a6c5165213e14fa6d9c31355a37192d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a6c5165213e14fa6d9c31355a37192d1> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/58" .
 <https://n2t.net/ark:/27023/a6c5165213e14fa6d9c31355a37192d1> <https://colonialcollections.nl/schema#name> "Meisje trekt aan capuchon van klein jongetje, beide Indisch, in de gang beneden van Bronbeek" .
@@ -40,6 +63,13 @@
 <https://n2t.net/ark:/27023/a6d83a38725a2b54c8374238bdd92046> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/a6d83a38725a2b54c8374238bdd92046> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a6d83a38725a2b54c8374238bdd92046> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#identifier> "1990/01/22-1-4" .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#name> "Tekening: 'De Badkamer'" .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#description> "Foto. Reproductie van een tekening. De Badkamer.\r\nGetekend en uitgegeven door vrouwelijke gevangene voor en aan medegevangenen.\r\nTekening gesigneerd: ELH. = mw. E. van de Linde. Vrouwenkamp Bangkinang (Sumatra), 1944." .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#creator> "mw. E. van de Linde" .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a6dbd62ca4b81a105f82a204f82e4279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a6dbd62ca4b81a105f82a204f82e4279> <https://colonialcollections.nl/schema#identifier> "nf%20834-43-2" .
 <https://n2t.net/ark:/27023/a6dbd62ca4b81a105f82a204f82e4279> <https://colonialcollections.nl/schema#name> "Morgenthee in de serre" .
@@ -498,30 +528,6 @@
 <https://n2t.net/ark:/27023/a6e02906965a525f7d2818136dd8b104> <https://colonialcollections.nl/schema#description> "Foto, periode 1945-1950. Totaal 155 stuks." .
 <https://n2t.net/ark:/27023/a6e02906965a525f7d2818136dd8b104> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a6e02906965a525f7d2818136dd8b104> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#identifier> "2018/02/19-3-1" .
-<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#name> "Hohei Soten [the Infantry Drill Book ]" .
-<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#description> "Title:  歩兵操典 (Hohei Soten/ the Infantry Drill Book )\r\nSecond Title: 陸軍省検閲済み (Rikugunsho Ken’etsu Zumi/ Censored by Ministry of Army)\r\nDate of Publication: 昭和19年6月26日 (Showa19 (1944), 26 June)\r\nAuthor (Reprint): 小林又吉 (Matakichi KOBAYASHI) \r\nPublisher:  川流堂" .
-<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a69cf4be8dea5cc66d80392e61e0f3d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/7" .
-<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#name> "Rijswijk- Batavia" .
-<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met een zwart-wit afbeelding van een straatbeeld in Rijswijk - Batavia." .
-<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a6a8f9bd242383e82d9ffa7e87296bba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#identifier> "IB1970/05/07-1-4" .
-<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#name> "Sjako, model Infanterie KNIL 1868-1894" .
-<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#description> "Sjako, model Infanterie KNIL 1868-1894, incompleet. Met blauw laken bekleed castoor; blauwe biezen; weerszijden glad bol knoopje voor stormriempje; een glad bol knoopje aan achterzijde.\r\nRiempje ontbreekt." .
-<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a6c2e818c9430212e4bd5e84c869968e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#identifier> "1990/01/22-1-4" .
-<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#name> "Tekening: 'De Badkamer'" .
-<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#description> "Foto. Reproductie van een tekening. De Badkamer.\r\nGetekend en uitgegeven door vrouwelijke gevangene voor en aan medegevangenen.\r\nTekening gesigneerd: ELH. = mw. E. van de Linde. Vrouwenkamp Bangkinang (Sumatra), 1944." .
-<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a6db0cdb29b4b4c0968b9f3ffecf5c7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a693547d236e22cbd7df1ecb64096dbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a693547d236e22cbd7df1ecb64096dbe> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42929" .
 <https://n2t.net/ark:/27023/a693547d236e22cbd7df1ecb64096dbe> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tzwaard\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tIjzer, hout\r\nEmailadres: toelichting:\tZwaard met een recht lemmet met 3 groeven. Greep van donkerbruin hout gemaakt van 2 losse delen die bij elkaar worden gehoude" .

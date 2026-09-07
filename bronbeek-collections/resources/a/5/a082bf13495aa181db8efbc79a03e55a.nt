@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/14" .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#name> "Bromo. Active time" .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bromo. Active time" .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#inscription> "Hierop ziet men weer de Batok, toen die in werking was. Heel op de achtergrond, die hooge berg, is de Smeroe." .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c34f355fe821ff201bd3ccdbd99cb5fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c34f355fe821ff201bd3ccdbd99cb5fb> <https://colonialcollections.nl/schema#identifier> "1960/05/02-1/40" .
 <https://n2t.net/ark:/27023/c34f355fe821ff201bd3ccdbd99cb5fb> <https://colonialcollections.nl/schema#name> "Mouwembleem T-brigade" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/c34f355fe821ff201bd3ccdbd99cb5fb> <https://colonialcollections.nl/schema#creator> "Cordesius & Zonen" .
 <https://n2t.net/ark:/27023/c34f355fe821ff201bd3ccdbd99cb5fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c34f355fe821ff201bd3ccdbd99cb5fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-8" .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#name> "Plaat H uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#description> "Tekening \"H\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1. Indonesian seaman, Militarized Govt Navy, 1940\r\n1a Badg" .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#creator> "Adam Hook" .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c356baebbece6183e6ed8355ae3fd17f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c356baebbece6183e6ed8355ae3fd17f> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/24" .
 <https://n2t.net/ark:/27023/c356baebbece6183e6ed8355ae3fd17f> <https://colonialcollections.nl/schema#name> "Twee bewoners Bronbeek met vrouw op achtergrond" .
@@ -64,13 +79,6 @@
 <https://n2t.net/ark:/27023/c36e0e0f465f6f5ed51d3a05637624c9> <https://colonialcollections.nl/schema#inscription> "Voor 2 daagsche marsch in 1939 Batavia" .
 <https://n2t.net/ark:/27023/c36e0e0f465f6f5ed51d3a05637624c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c36e0e0f465f6f5ed51d3a05637624c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/14" .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#name> "Bromo. Active time" .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bromo. Active time" .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#inscription> "Hierop ziet men weer de Batok, toen die in werking was. Heel op de achtergrond, die hooge berg, is de Smeroe." .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c37ae0a8e2d2cf235a04686926a73224> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c342be06d42dd5fcbd1db17be55a68ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c342be06d42dd5fcbd1db17be55a68ab> <https://colonialcollections.nl/schema#identifier> "2010/12/29-2/112" .
 <https://n2t.net/ark:/27023/c342be06d42dd5fcbd1db17be55a68ab> <https://colonialcollections.nl/schema#name> "Foto´s Marine Luchtvaart in Indië, periode 1944-1948" .
@@ -508,12 +516,6 @@
 <https://n2t.net/ark:/27023/c385c467b138635df17d90a04d9bf1ab> <https://colonialcollections.nl/schema#description> "Foto´s Nederlands-Indië, periode 1946-1948. Ondermeer Eerste Politionele Actie. Zwartwit. 128 stuks.\r\nFoto's zijn afkomstig van militair arts Cornelis Boot. Op bijgevoegd papier en op verso van een deel van de foto's staan aantekeningen." .
 <https://n2t.net/ark:/27023/c385c467b138635df17d90a04d9bf1ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c385c467b138635df17d90a04d9bf1ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-8" .
-<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#name> "Plaat H uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
-<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#description> "Tekening \"H\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1. Indonesian seaman, Militarized Govt Navy, 1940\r\n1a Badg" .
-<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c352c5c832f174775988cf5912e929ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c346b2e5de710fb97b7472e03d41bad0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c346b2e5de710fb97b7472e03d41bad0> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-19/43" .
 <https://n2t.net/ark:/27023/c346b2e5de710fb97b7472e03d41bad0> <https://colonialcollections.nl/schema#description> "Foto.\r\nNetherlands Indies Government Information Service (NIGIS) Film and Photo Unit. Melbourne. File: 26. 1945/10/02.\r\n\"Netherlanders who had evaded German conscription or were released when Holland was liberated volunteered for service in the Netherland" .

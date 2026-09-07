@@ -26,6 +26,13 @@
 <https://n2t.net/ark:/27023/586a88db010f7d6192e98bd37fed03e1> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/586a88db010f7d6192e98bd37fed03e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/586a88db010f7d6192e98bd37fed03e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#identifier> "nf%201315-2" .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#name> "Bandoeng - Oud Merdika" .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5851cac7e458d227706590d7a68aa798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5851cac7e458d227706590d7a68aa798> <https://colonialcollections.nl/schema#identifier> "nf%20680-32" .
 <https://n2t.net/ark:/27023/5851cac7e458d227706590d7a68aa798> <https://colonialcollections.nl/schema#description> "Meisje op het strand, te Makassar\r\n\r\nHet meisje is Rita (Mieke) Gestman (geboren op 18-05-1927 te Soerabaya en overleden op 02-11-1999 te Zoetermeer)\r\n\r\nOpmerking van eigenaar, mw. Brouwer-Gestman, bij foto: 'mijn zusje op het strand bij Makassar'" .
@@ -578,12 +585,6 @@
 <https://n2t.net/ark:/27023/587de6002bfbc72328e69c9257bf5b95> <https://colonialcollections.nl/schema#description> "Rangonderscheidingsteken, textiel, rood met gele streep en drie zilverkleurige sterren. Sergeant ? Totaal 23 stuks." .
 <https://n2t.net/ark:/27023/587de6002bfbc72328e69c9257bf5b95> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/587de6002bfbc72328e69c9257bf5b95> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#identifier> "nf%201315-2" .
-<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#name> "Bandoeng - Oud Merdika" .
-<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/58732a34bd14e17604dd0e69ee2005ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/58485b3474c9f06a4b75aa46f25ab82c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58485b3474c9f06a4b75aa46f25ab82c> <https://colonialcollections.nl/schema#identifier> "2015/11/02-1-7/6" .
 <https://n2t.net/ark:/27023/58485b3474c9f06a4b75aa46f25ab82c> <https://colonialcollections.nl/schema#description> "Foto" .

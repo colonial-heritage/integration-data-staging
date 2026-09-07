@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/41378d9c27cd4ec7972ec8d349a2ebc2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/41378d9c27cd4ec7972ec8d349a2ebc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/41378d9c27cd4ec7972ec8d349a2ebc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#identifier> "2001/09/10-2-24" .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#name> "Oorkonde Mobilisatie Herinneringskruis 1914-1918" .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#description> "Document, oorkonde Mobilisatie Herinneringskruis 1914-1918. \r\nWillem van Alem, 1924." .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#creator> "André Vlaanderen" .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/413bf1f2851d372feba81b52a0d33d99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/413bf1f2851d372feba81b52a0d33d99> <https://colonialcollections.nl/schema#identifier> "1874/08-2/1" .
 <https://n2t.net/ark:/27023/413bf1f2851d372feba81b52a0d33d99> <https://colonialcollections.nl/schema#name> "Nr.1: Algemeene staf aan boord van de ´Prins Alexander´uit ´Vierendertig gezichten op Atjeh´" .
@@ -20,6 +27,28 @@
 <https://n2t.net/ark:/27023/414174b3f5768aa55bb5495065c3a2f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/414174b3f5768aa55bb5495065c3a2f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/414174b3f5768aa55bb5495065c3a2f4> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#identifier> "1995/06/29-1-2/3" .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#name> "Kamp Kedong Badak/Buitenzorg/Tjimahi kamp 1942-'45" .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, met [pen]tekening door J.H. Otto. Interieur met bamboe stapelbed en stoeltje\r\n\r\nBehorende bij vier prentbriefkaarten (inv.nrs. 1995/06/29-1-2/1, 1995/06/29-1-2/2, 1995/06/29-1-2/4 en 1995/06/29-1-2/5)." .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#creator> "J.H. Otto" .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-52" .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#name> "Attila Majoor Officier van Gezondheid KNIL" .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#description> "Attila. Majoor Officier van Gezondheid. Met witte boord bijgevoegd." .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#creator> "W. Savelkoul, Djocjakarta" .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#identifier> "2005/00-635/10" .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#name> "Sawah's (bevloeide rijstvelden) in de omgeving van Garoet, Priangan" .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#description> "Kalenderblad met linksboven een afbeelding van \"sawah's (bevloeide rijstvelden) in de omgeving van Garoet, Priangan. Op de achtergrond de Goenoeng (berg) Papandajan in nevelen gehuld\"\r\n\r\nRechts van het midden een afbeelding van een \"Caneçabeeld van Blitar" .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#creator> "Indisch Instituut" .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#creator> "Dorco uitgave" .
 <https://n2t.net/ark:/27023/41603244c6af25b97bf1e8a31c467b26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/41603244c6af25b97bf1e8a31c467b26> <https://colonialcollections.nl/schema#identifier> "nf%20546" .
 <https://n2t.net/ark:/27023/41603244c6af25b97bf1e8a31c467b26> <https://colonialcollections.nl/schema#name> "Familie Poser" .
@@ -31,9 +60,17 @@
 <https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#identifier> "nf%201304-4" .
 <https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#name> "Satyawati" .
 <https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nDeze plaat behoort met anderen, allemaal losse platen, tot een boekwerk met het inventarisnummer N7221.\r\nNaast de platen bestaat dit boekwer" .
-<https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4160b9160ba139fa95954f55d63dea54> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#identifier> "nf%201559-7" .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#name> "Hotel te Nongkodjadjar" .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#description> "Reproductie, zwart/wit, afbeelding geplakt op karton, met anderen los aangetroffen.\r\n\r\nOnder de afbeelding de titel 'HOTEL TE NÅNGKÅDJADJAR' en de naam van de fotograaf.\r\nLinks boven in inkt een code: J IIIc-1\r\n\r\nOp achterkant een rood ovalen stempel met " .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#creator> "Mevrouw Th. Weissenborn" .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/413213a66805d902df233c952abd395f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/413213a66805d902df233c952abd395f> <https://colonialcollections.nl/schema#identifier> "nf%201891-31" .
 <https://n2t.net/ark:/27023/413213a66805d902df233c952abd395f> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, in kleur, voorkomend in strips van 4, gezamelijk opgeborgen in kunststof bewaarstrips, los aangetroffen\r\n\r\nOpname toont onderwater staande sawa's, met nog maar net geplante jonge rijst. Centraal te zien is het kanaaltje tussen dij" .
@@ -52,6 +89,18 @@
 <https://n2t.net/ark:/27023/414598ff7c910a78e168b0055af6b528> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/414598ff7c910a78e168b0055af6b528> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/414598ff7c910a78e168b0055af6b528> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#identifier> "nf%201305-28-2" .
+<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#description> "Portretfoto, zwart/wit, rechthoekig, ongekarteld (lelijk bijgeknipt), opgeplakt.\r\n\r\nAfbeelding toont een portret van Madelon Belle en haar moeder Ita Paats.\r\n\r\nDeze foto is waarschijnlijk van 1937 of 1938 en mogelijk in Surabaya genomen." .
+<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#creator> "Tom Koopmans" .
+<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#identifier> "nf%201374-94" .
+<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname toont een aantal blanke personen, zowel mannen als vrouwen, poserend voor de foto.\r\nZij zitten en/of staan onder/bij een eenvoudig optrekje van palen en atapdak.\r\nLinks mannen in badpakken, r" .
+<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#creator> "K. Shiraishi, Japansche Photograaf" .
+<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/416cc1efbbe465de3b1e42e7112f8411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/416cc1efbbe465de3b1e42e7112f8411> <https://colonialcollections.nl/schema#identifier> "nf%201435-4" .
 <https://n2t.net/ark:/27023/416cc1efbbe465de3b1e42e7112f8411> <https://colonialcollections.nl/schema#description> "Stereofoto, beide foto's opgeplakt op lichtgrijs karton. Alle hoeken van het karton zijn afgerond.\r\n\r\nOnder rechter foto een geschreven jaartal: '1909'\r\nOp achterkant geschreven tekst in inkt: 'Loeng Do's huis - Meester Cornelis 1909'\r\n\r\nDe opnamen tonen " .
@@ -491,36 +540,6 @@
 <https://n2t.net/ark:/27023/416eb91840a169dd667d6f97703aa928> <https://colonialcollections.nl/schema#description> "Foto. Totaal 36 stuks (inv.nrs 1999/02/10-1-1/1 t/m 1999/02/10-1-1/36). Netherlands Indies Government Information Service Film and Photo Unit." .
 <https://n2t.net/ark:/27023/416eb91840a169dd667d6f97703aa928> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/416eb91840a169dd667d6f97703aa928> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#identifier> "2001/09/10-2-24" .
-<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#name> "Oorkonde Mobilisatie Herinneringskruis 1914-1918" .
-<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#description> "Document, oorkonde Mobilisatie Herinneringskruis 1914-1918. \r\nWillem van Alem, 1924." .
-<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/41392a9f69d94959cc4d203fd60bc041> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#identifier> "1995/06/29-1-2/3" .
-<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#name> "Kamp Kedong Badak/Buitenzorg/Tjimahi kamp 1942-'45" .
-<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, met [pen]tekening door J.H. Otto. Interieur met bamboe stapelbed en stoeltje\r\n\r\nBehorende bij vier prentbriefkaarten (inv.nrs. 1995/06/29-1-2/1, 1995/06/29-1-2/2, 1995/06/29-1-2/4 en 1995/06/29-1-2/5)." .
-<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4141bbd6cefe9e7acd9c7f381b1f4ae1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-52" .
-<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#name> "Attila Majoor Officier van Gezondheid KNIL" .
-<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#description> "Attila. Majoor Officier van Gezondheid. Met witte boord bijgevoegd." .
-<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/41565a2e70619f2fd31e91b55a7fd59c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#identifier> "2005/00-635/10" .
-<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#name> "Sawah's (bevloeide rijstvelden) in de omgeving van Garoet, Priangan" .
-<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#description> "Kalenderblad met linksboven een afbeelding van \"sawah's (bevloeide rijstvelden) in de omgeving van Garoet, Priangan. Op de achtergrond de Goenoeng (berg) Papandajan in nevelen gehuld\"\r\n\r\nRechts van het midden een afbeelding van een \"Caneçabeeld van Blitar" .
-<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4159a587be110f253efcbe05227b3ef5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#identifier> "nf%201559-7" .
-<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#name> "Hotel te Nongkodjadjar" .
-<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#description> "Reproductie, zwart/wit, afbeelding geplakt op karton, met anderen los aangetroffen.\r\n\r\nOnder de afbeelding de titel 'HOTEL TE NÅNGKÅDJADJAR' en de naam van de fotograaf.\r\nLinks boven in inkt een code: J IIIc-1\r\n\r\nOp achterkant een rood ovalen stempel met " .
-<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/41707169caafc194c2b513080548368e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/41322ed0255c8462dcda249c7125b3cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/41322ed0255c8462dcda249c7125b3cd> <https://colonialcollections.nl/schema#identifier> "nf%201308-11-3" .
 <https://n2t.net/ark:/27023/41322ed0255c8462dcda249c7125b3cd> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'een uur voor den doop'\r\n\r\nTussen de twee linker foto's op dit fotoblad 11 staat in inkt geschreven tekst, aangenomen geldend voor alle 6 foto's op dit fo" .
@@ -561,16 +580,6 @@
 <https://n2t.net/ark:/27023/416e569d41870be89062a5e4d57889cc> <https://colonialcollections.nl/schema#description> "Kris met schede" .
 <https://n2t.net/ark:/27023/416e569d41870be89062a5e4d57889cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/416e569d41870be89062a5e4d57889cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#identifier> "nf%201305-28-2" .
-<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#description> "Portretfoto, zwart/wit, rechthoekig, ongekarteld (lelijk bijgeknipt), opgeplakt.\r\n\r\nAfbeelding toont een portret van Madelon Belle en haar moeder Ita Paats.\r\n\r\nDeze foto is waarschijnlijk van 1937 of 1938 en mogelijk in Surabaya genomen." .
-<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4153597cb11e18fd9f6739351ab25152> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#identifier> "nf%201374-94" .
-<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname toont een aantal blanke personen, zowel mannen als vrouwen, poserend voor de foto.\r\nZij zitten en/of staan onder/bij een eenvoudig optrekje van palen en atapdak.\r\nLinks mannen in badpakken, r" .
-<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/415b37eff70034585c13cdead8d41946> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/416bf36aef38fda5c444eff2ae7a5ea9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/416bf36aef38fda5c444eff2ae7a5ea9> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-186" .
 <https://n2t.net/ark:/27023/416bf36aef38fda5c444eff2ae7a5ea9> <https://colonialcollections.nl/schema#name> "Sticker Corps Brigade Mobil Indonesische politie" .

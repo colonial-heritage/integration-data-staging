@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/78" .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#name> "Plaat 78. Mesigit Batoe Mboelan." .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 78. Mesigit Batoe Mboelan." .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#inscription> "Plaat 78. Mesigit Batoe Mboelan." .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/54472257928b55e6469f3de387dac8cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54472257928b55e6469f3de387dac8cf> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/39" .
 <https://n2t.net/ark:/27023/54472257928b55e6469f3de387dac8cf> <https://colonialcollections.nl/schema#name> "Weg naar Tosari" .
@@ -44,19 +52,18 @@
 <https://n2t.net/ark:/27023/5451096cb105e8c25117a4be4c13af96> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5451096cb105e8c25117a4be4c13af96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5451096cb105e8c25117a4be4c13af96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#identifier> "nf%201424-11" .
+<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont twee Papoea mannen bezig met het decoreren van een prauwsteven. Deze fraaie met metalen gereedschap uitgesneden rondlopende " .
+<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#creator> "Jac. Hoogerbrugge" .
+<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/545cb56e84ca43e36977ed1eb50e6ffc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/545cb56e84ca43e36977ed1eb50e6ffc> <https://colonialcollections.nl/schema#identifier> "S%204007" .
 <https://n2t.net/ark:/27023/545cb56e84ca43e36977ed1eb50e6ffc> <https://colonialcollections.nl/schema#description> "Indonesische man met rieten hoed\r\nop de achterkant etiket van Atmodihardjo, Boekbinderij en Lijstenmakerij Tembok doekoeh No. 170 A., Soerabaia" .
 <https://n2t.net/ark:/27023/545cb56e84ca43e36977ed1eb50e6ffc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/545cb56e84ca43e36977ed1eb50e6ffc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/545cb56e84ca43e36977ed1eb50e6ffc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/78" .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#name> "Plaat 78. Mesigit Batoe Mboelan." .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 78. Mesigit Batoe Mboelan." .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#inscription> "Plaat 78. Mesigit Batoe Mboelan." .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5438e5154851177af602e6c0bbd753a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5428ec34ad1080ae78f5452b3338fc28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5428ec34ad1080ae78f5452b3338fc28> <https://colonialcollections.nl/schema#identifier> "2003/00-10/2" .
 <https://n2t.net/ark:/27023/5428ec34ad1080ae78f5452b3338fc28> <https://colonialcollections.nl/schema#name> "Nieuwe Testament van Adjudant Onderofficier Jan Zweers" .
@@ -555,11 +562,6 @@
 <https://n2t.net/ark:/27023/54681647ad7f95e8f7ae571aef3cf01e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\trijstkoker\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezel, gevlochten\r\nEmailadres: toelichting:\tKoker met een ronde rand en spits toelopend. Gemaakt van bruine en zwartgeverfde gevlochten repen plantenvez" .
 <https://n2t.net/ark:/27023/54681647ad7f95e8f7ae571aef3cf01e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54681647ad7f95e8f7ae571aef3cf01e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#identifier> "nf%201424-11" .
-<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont twee Papoea mannen bezig met het decoreren van een prauwsteven. Deze fraaie met metalen gereedschap uitgesneden rondlopende " .
-<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/545a79bf7f5f726ad29ec6650f4594eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5444252185f9c059c2bb21c1760f7a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5444252185f9c059c2bb21c1760f7a53> <https://colonialcollections.nl/schema#identifier> "1968/11/25-1-30" .
 <https://n2t.net/ark:/27023/5444252185f9c059c2bb21c1760f7a53> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Karel Doorman in de Baai van Hollandia in 1963" .

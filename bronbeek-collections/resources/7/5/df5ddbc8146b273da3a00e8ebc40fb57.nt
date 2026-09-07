@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#identifier> "1885/09-1-52" .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#name> "Cortheyligers" .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#description> "Prent. \"Cortheyligers.\"\r\n\"Publié par Soetens & Fils a la Haye.\", gesigneerd: \"C.L.\"\r\nOp achterzijde gestempeld: \"A. Ver Huell\", genummerd: \"1149\"" .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#inscription> "Cortheyligers" .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#creator> "Soetens & Fils, la Haye" .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-104" .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#name> "Carte de visite:  Boogardt" .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Boogardt" .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#inscription> "Boogardt" .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#creator> "C.Janssens & E. Radermacher" .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/320c9ea137f828ab8d484bc1d222d718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/320c9ea137f828ab8d484bc1d222d718> <https://colonialcollections.nl/schema#identifier> "2016/08/16-4-1/15" .
 <https://n2t.net/ark:/27023/320c9ea137f828ab8d484bc1d222d718> <https://colonialcollections.nl/schema#name> "\"Nummer 27, Verwoeste koffietuinen v/d onderneming Redjisari.\"" .
@@ -33,6 +49,14 @@
 <https://n2t.net/ark:/27023/323590a22f4d5ad2c0d1813f28f19809> <https://colonialcollections.nl/schema#creator> "Fa. A. Tack" .
 <https://n2t.net/ark:/27023/323590a22f4d5ad2c0d1813f28f19809> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/323590a22f4d5ad2c0d1813f28f19809> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#identifier> "2006/00-41-73" .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met de Sultan Maämoen Alrasjidweg te Medan, Indië" .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht van Medan, Indië.\r\nGedrukt op recto: Medan - Sultan Maämoen Alrasjidweg\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Sultan Maämoen " .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij , KNILM" .
 <https://n2t.net/ark:/27023/324b9f69364c005c961af75fcffc7c01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/324b9f69364c005c961af75fcffc7c01> <https://colonialcollections.nl/schema#identifier> "nf%201740" .
 <https://n2t.net/ark:/27023/324b9f69364c005c961af75fcffc7c01> <https://colonialcollections.nl/schema#name> "Papoea vrouwen en kinderen" .
@@ -67,9 +91,10 @@
 <https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#identifier> "nf%201734-1" .
 <https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant meegedrukte tekst: 'R.B.CREAK - NOORDWIJK 1 - WELTEVREDEN, BATAVIA'\r\nOok staat er in inkt: 'Pt Moresby N.Guinea'\r\n\r\nOpname toont twee Papoea vrouwen. Zij dragen strooien rokjes en lange halskettingen. Oo" .
-<https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#creator> "R.B.Creak - Weltevreden" .
 <https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/32396f6d9366de01962d6215182ecf81> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/324079d043fd58ebd104a288cecc8173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/324079d043fd58ebd104a288cecc8173> <https://colonialcollections.nl/schema#identifier> "nf%20678-10-1" .
 <https://n2t.net/ark:/27023/324079d043fd58ebd104a288cecc8173> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '591'. Geen verdere data.\r\n\r\nOpname toont een strand met de zee links en verder naar achter vegetatie reikend tot in zee.\r\nOpmerkelijk is de boom, waarschijnlijk kokospalm, d" .
@@ -124,20 +149,6 @@
 <https://n2t.net/ark:/27023/3247efb5a0fcb3c5b7d97ec20ed5284f> <https://colonialcollections.nl/schema#inscription> "\"P.v.d.Brul\" & \"E.G. Mooijen\"" .
 <https://n2t.net/ark:/27023/3247efb5a0fcb3c5b7d97ec20ed5284f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3247efb5a0fcb3c5b7d97ec20ed5284f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#identifier> "1885/09-1-52" .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#name> "Cortheyligers" .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#description> "Prent. \"Cortheyligers.\"\r\n\"Publié par Soetens & Fils a la Haye.\", gesigneerd: \"C.L.\"\r\nOp achterzijde gestempeld: \"A. Ver Huell\", genummerd: \"1149\"" .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#inscription> "Cortheyligers" .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/321a4540bf6c44ca0b7acf1c12441a0c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-104" .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#name> "Carte de visite:  Boogardt" .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Boogardt" .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#inscription> "Boogardt" .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/324a6d52113cb829821bd295feb8958c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3209766b227e6254813d585acf4ad545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3209766b227e6254813d585acf4ad545> <https://colonialcollections.nl/schema#identifier> "1997/09/01-2-1/2" .
 <https://n2t.net/ark:/27023/3209766b227e6254813d585acf4ad545> <https://colonialcollections.nl/schema#name> "Pantalon met ceintuur" .
@@ -527,12 +538,6 @@
 <https://n2t.net/ark:/27023/324d5807b1f1e61f654ab4ff95caa496> <https://colonialcollections.nl/schema#description> "Envelop POW-post Japanse bezetting. Gericht aan: Mrs. R. Bijleveld-Visser Dennenlust 8, Bandoeng, Java (Riouwstr 30); afkomstig van: Dr. J.W. Bijleveld Colonel medical service. Met Japanse controle-stempels." .
 <https://n2t.net/ark:/27023/324d5807b1f1e61f654ab4ff95caa496> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/324d5807b1f1e61f654ab4ff95caa496> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#identifier> "2006/00-41-73" .
-<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met de Sultan Maämoen Alrasjidweg te Medan, Indië" .
-<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht van Medan, Indië.\r\nGedrukt op recto: Medan - Sultan Maämoen Alrasjidweg\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Sultan Maämoen " .
-<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/323d9b96f43f462271c48d3a62e2bcbd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/320a133fdfa2ed71d0b876fe2661d9b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/320a133fdfa2ed71d0b876fe2661d9b3> <https://colonialcollections.nl/schema#identifier> "nf%20682-18-1" .
 <https://n2t.net/ark:/27023/320a133fdfa2ed71d0b876fe2661d9b3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, (zo goed als) vierkant, opgeplakt.\r\n\r\nOnder foto een getypt nummer: '69'\r\n\r\nOpname toont een (zo goed als) vierkante batikdoek, bevestigd/gelegd op een witte ondergrond.\r\nHet betreft hier een batikpatroon." .

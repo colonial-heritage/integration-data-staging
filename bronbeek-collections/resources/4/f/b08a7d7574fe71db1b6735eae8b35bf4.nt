@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#identifier> "1880/07-1-1" .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#name> "Sabel met schede, geschonken na de 3e Bali-expeditie 1849" .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#description> "Sabel met schede.\r\nSabel (type Arabel)\r\nKromme sabel, l: 98cm, kling: 83cm.\r\nStalen kling met gegraveerde ornamenten, geen rugscherpte behalve c.a. 20cm van de punt af. Stalen schede met 2 draagringen en sleepplaat. Ivoren halve grepen, kop van greep mess" .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#inscription> "B.Busch, Amsterdam" .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#creator> "Fabrikant B. Busch" .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#identifier> "1989/01/01-1-4" .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#name> "167. Suriname. Gezicht op Bergendal" .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#description> "Schoolplaat. \r\n167. Suriname. Gezicht op Bergendal. Zwart-wit. Gereproduceerd Kleynenberg en Co, Haarlem, nr.167  . In redelijke staat,twee scheuren, 1 midden onder en 1 midden boven." .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#inscription> "167. Suriname. Gezicht op Bergendal" .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-22" .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Amat\"" .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#creator> "Amat" .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3270b851dde1d6b916bd800956623bad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3270b851dde1d6b916bd800956623bad> <https://colonialcollections.nl/schema#identifier> "1994/04/11-5-2" .
 <https://n2t.net/ark:/27023/3270b851dde1d6b916bd800956623bad> <https://colonialcollections.nl/schema#name> "Fotocopieën documentatie m.b.t. KST" .
@@ -12,6 +35,14 @@
 <https://n2t.net/ark:/27023/327b7e191d907ca0e7b552b8826d5d95> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/327b7e191d907ca0e7b552b8826d5d95> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/327b7e191d907ca0e7b552b8826d5d95> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#identifier> "2006/00-41-74" .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met het Sultans Paleis te Medan, Indië" .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht van Medan, Indië.\r\nGedrukt op recto: Medan - Sultan's Paleis\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Sultan's Paleis.\r\nHandgesc" .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij , KNILM" .
 <https://n2t.net/ark:/27023/32827b568885032e7e68350050dff61b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32827b568885032e7e68350050dff61b> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/67" .
 <https://n2t.net/ark:/27023/32827b568885032e7e68350050dff61b> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -19,12 +50,25 @@
 <https://n2t.net/ark:/27023/32827b568885032e7e68350050dff61b> <https://colonialcollections.nl/schema#creator> "Ebner" .
 <https://n2t.net/ark:/27023/32827b568885032e7e68350050dff61b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/32827b568885032e7e68350050dff61b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#identifier> "nf%20816" .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#name> "Officierskampement, Magelang" .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van het officierskampement te Magelang.\r\n\r\nMiddenonder op de voorkant staat vermeld: 'Officierskampement, Magelang.'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië" .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#creator> "J.M.J. van Eijck, Magelang" .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/325b2649254d62ea6459da8114874a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/325b2649254d62ea6459da8114874a28> <https://colonialcollections.nl/schema#identifier> "nf%201374-93" .
 <https://n2t.net/ark:/27023/325b2649254d62ea6459da8114874a28> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname toont een (woon)huis. Het is gebouwd op een ruim stuk grond. In deze tuin opzij van het huis staat een blanke vrouw\r\n\r\nN.B.: Het type huis en de beplanting doen niet tropisch aan en daarom is voor de geog" .
 <https://n2t.net/ark:/27023/325b2649254d62ea6459da8114874a28> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/325b2649254d62ea6459da8114874a28> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/325b2649254d62ea6459da8114874a28> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#identifier> "nf%20840-41-2" .
+<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Hier zullen wij ???? Oma op plaatje O.Ke.\"\r\nVerder is er een stempel met licht paarse inkt met de volgen" .
+<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#creator> "POLONIA Fotograaf" .
+<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/327509ca73957d0d11aaf3300e2ab8a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/327509ca73957d0d11aaf3300e2ab8a4> <https://colonialcollections.nl/schema#identifier> "2002/07/31-1-5" .
 <https://n2t.net/ark:/27023/327509ca73957d0d11aaf3300e2ab8a4> <https://colonialcollections.nl/schema#name> "Sepoeloeh roepiah, Dai Nippon teikoku seihu" .
@@ -39,20 +83,6 @@
 <https://n2t.net/ark:/27023/3296bc78db94488edfaf399c43734573> <https://colonialcollections.nl/schema#inscription> "Staf van de Lombok-Expeditie op 30 juni 1894. Op eerste rij: 2e en 3e van links resp. de 2e bevelhebber Generaal-Majoor P.P.C. van Ham en de Opperbevelhebber Luit.Generaal J.A. Vetter; Auf dem Tigeran[strand] [Imeres] von Sumatra; A vd Meijden Slotstraat 63" .
 <https://n2t.net/ark:/27023/3296bc78db94488edfaf399c43734573> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3296bc78db94488edfaf399c43734573> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#identifier> "1880/07-1-1" .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#name> "Sabel met schede, geschonken na de 3e Bali-expeditie 1849" .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#description> "Sabel met schede.\r\nSabel (type Arabel)\r\nKromme sabel, l: 98cm, kling: 83cm.\r\nStalen kling met gegraveerde ornamenten, geen rugscherpte behalve c.a. 20cm van de punt af. Stalen schede met 2 draagringen en sleepplaat. Ivoren halve grepen, kop van greep mess" .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#inscription> "B.Busch, Amsterdam" .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/327277b1793e120f883f3e6e96b37e31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#identifier> "1989/01/01-1-4" .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#name> "167. Suriname. Gezicht op Bergendal" .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#description> "Schoolplaat. \r\n167. Suriname. Gezicht op Bergendal. Zwart-wit. Gereproduceerd Kleynenberg en Co, Haarlem, nr.167  . In redelijke staat,twee scheuren, 1 midden onder en 1 midden boven." .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#inscription> "167. Suriname. Gezicht op Bergendal" .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/32976eab6fc3a05f0040fb13571776a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/324dd012acdaff90135275d437775bad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/324dd012acdaff90135275d437775bad> <https://colonialcollections.nl/schema#identifier> "2004/08/29-6-2/37" .
 <https://n2t.net/ark:/27023/324dd012acdaff90135275d437775bad> <https://colonialcollections.nl/schema#name> "Foto Vliegschool Jackson, Mississippi United States of America, 1943-1944" .
@@ -521,24 +551,6 @@
 <https://n2t.net/ark:/27023/3296c4cdc218bc06509f03b8cda33b0d> <https://colonialcollections.nl/schema#description> "Zitmat. De bovenkant van de mat is gemaakt van fijne, gevlochten naturelkleurige en bruine plantenvezels. De rand is gemaakt van een donkerbruine vezel die is vastgemaakt aan de mat met een borduursteek. De onderkant is gemaakt van naturelkleurige en paar" .
 <https://n2t.net/ark:/27023/3296c4cdc218bc06509f03b8cda33b0d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3296c4cdc218bc06509f03b8cda33b0d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-22" .
-<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Amat\"" .
-<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/326dce8424037465926478604ce436f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#identifier> "2006/00-41-74" .
-<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van stadsgezicht met het Sultans Paleis te Medan, Indië" .
-<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van foto, zwartwit. Stadsgezicht van Medan, Indië.\r\nGedrukt op recto: Medan - Sultan's Paleis\r\nCopyright Deli Courant, Luchtfoto K.N.I.L.M.\r\nGedrukt op verso: Copyright DELI COURANT ; Luchtfoto K.N.I.L.M.\r\nMedan, Sultan's Paleis.\r\nHandgesc" .
-<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/327e0d4253df84f54f647ca47192905f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#identifier> "nf%20816" .
-<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#name> "Officierskampement, Magelang" .
-<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van het officierskampement te Magelang.\r\n\r\nMiddenonder op de voorkant staat vermeld: 'Officierskampement, Magelang.'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië" .
-<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/32884edcf0e9b21fe9762ed23b9a0bb1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/324dabe90e7fb00bc35ff70a0b55f5de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/324dabe90e7fb00bc35ff70a0b55f5de> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42067" .
 <https://n2t.net/ark:/27023/324dabe90e7fb00bc35ff70a0b55f5de> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tzwaard & schede\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\thout, metaal\r\n\tgesmeed\r\nEmailadres: toelichting:\tZwaard in schede. Greep, van zwart hout? knievormig gebogen met an weerszijden een" .
@@ -569,11 +581,6 @@
 <https://n2t.net/ark:/27023/328a776dc96b67ca1ca70efbd92a5a30> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoofddeksel\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tbladwerk, huid\r\nEmailadres: toelichting:\tBreed blad, gevouwen tot een ovale vorm. Aan elkaar vastgemaakt met dun touw. Aan de bovenzijde zit rondom een stuk h" .
 <https://n2t.net/ark:/27023/328a776dc96b67ca1ca70efbd92a5a30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/328a776dc96b67ca1ca70efbd92a5a30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#identifier> "nf%20840-41-2" .
-<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Hier zullen wij ???? Oma op plaatje O.Ke.\"\r\nVerder is er een stempel met licht paarse inkt met de volgen" .
-<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/328a499ca3c989ce2608dd02deb23576> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/32569bb9f6c550c396b3baa7165e812c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/32569bb9f6c550c396b3baa7165e812c> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-55" .
 <https://n2t.net/ark:/27023/32569bb9f6c550c396b3baa7165e812c> <https://colonialcollections.nl/schema#name> "Sabel, of klewang" .

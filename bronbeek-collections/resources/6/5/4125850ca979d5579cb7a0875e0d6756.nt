@@ -1,10 +1,35 @@
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#identifier> "1974/08/05-1-2" .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#name> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot" .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#description> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot tijdens Commando-overdracht op 26 juli 1939.\r\nDeel II\r\nGouvernements Radio Telefoondienst.\r\nIn kartonnen houder (3 platen)" .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#inscription> "Gouvernements Radio Telefoondienst." .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#creator> "Gouvernements Radio Telefoondienst" .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#identifier> "1998/06/01-3-5/2" .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#name> "Zonder titel" .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In 2 kleuren: groen + zwart. drie mannen, twee liggend en zittend onder hun klamboe, op jacht naar muggen.\r\nVerzonden door vader H.W. Keller, Laan Tegallan No.8, Batavia. Aan broer Fred Keller:  Den Hr. F. Keller, Graaf Florislaan 52, Bus" .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#inscription> "handschrift verso: Fred, Last van njamoek Piet die verd. rotbeesten zuigen me harstikke leeg. Stuur me dan maar de ploppers nu tabee hoor. P." .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#creator> "I.A.G., Bandoeng" .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#creator> "S. van Basel" .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#identifier> "nf%201920-2" .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#name> "Tatoeëren van de zijlijn" .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#description> "Fotonegatief, kleur, los aangetroffen\r\n\r\nOpname toont een op zijn zij liggende inheemse man, bij wie een tatoeage wordt aangebracht." .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#creator> "Dr. R. (Reimar) Schefold" .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#identifier> "nf%20677-14" .
 <https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#name> "Chinese schaduwfiguur. Vlinder" .
 <https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#description> "Ansichtkaart, in kleur, rechthoekig, aan bovenkant opgeplakt.\r\n\r\nOnder de kaart (kaarten) is tekst getypt: CHINESE SCHADUWFIGUREN. Szetschuan. Puppentheatersammlung der Stadt München. 1968\r\n\r\nAchterop de kaart staat gedrukt: Nachdruck nicht gestattet / Co" .
-<https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#creator> "Stadtmuseum (München)" .
 <https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/567b22c355da385a3b660f655a87598a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/56874e5b819889e2545f3923f515c837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/56874e5b819889e2545f3923f515c837> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/33" .
 <https://n2t.net/ark:/27023/56874e5b819889e2545f3923f515c837> <https://colonialcollections.nl/schema#name> "Drie bewoners Bronbeek, zittend aan tafel" .
@@ -23,9 +48,44 @@
 <https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/26" .
 <https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
 <https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart kleuren druk. Briefkaart. Onbeschreven. Java. Bruidegom uit de Vorstenlanden.  G.C.T. van Dorp & Co., Semarang-Cheribon." .
-<https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#creator> "J. van der Heijden" .
 <https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5698596d826c09e7f5a10d4104163fa7> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#identifier> "S%204287" .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied direct ten noorden en oosten van de Goenoeng Lawoe" .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#description> "Topografische kaart van gebied direct ten noorden en oosten van de Goenoeng Lawoe\r\n\r\nschaal 1 : 50.000" .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#creator> "Topografische Dienst in Nederlandsch-Indië (Batavia)" .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-13/2" .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#name> "Vermoedelijk luitenant-kolonel C.M. Donck te paard tijdens een reünie van het voormalige instructie-bataljon" .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#description> "Liggende zwartwit foto van waarschijnlijk luitenant-kolonel C.M. Donck  te paard (links).\r\n\r\nEen van vier persfoto's van activiteiten in het kader van de reünie van het vm. instructie-bataljon. Lnt. Kol. C.M. Donck b.d. leidde het programma in en rond Kam" .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#creator> "Fotopersbureau J. Voeten" .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/9" .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met Koningin Juliana en de organisator van de" .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#creator> "Nationaal Foto Persbureau" .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/45" .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#name> "Militair leunend tegen jeep" .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#description> "Militair leunend tegen jeep. Achter op de foto geschreven  \"Nw Guinea\"." .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#identifier> "nf%201312-3" .
+<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#description> "negatief, kleinbeeld, kleur, los, opgeborgen in zuurvrij mapje.\r\nfoto, rechthoekig, kleur, los, opgeborgen in zelfde mapje als negatief.\r\n\r\nAfbeelding toont een schoollokaal. In het lokaal schoolbanken, waar per bank twee jongens plaats hebben. Vooraan re" .
+<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#creator> "Ab Uijthoven" .
+<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5698c07e8e305ae5810a0ca6d79118cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5698c07e8e305ae5810a0ca6d79118cb> <https://colonialcollections.nl/schema#identifier> "nf%201537-2" .
 <https://n2t.net/ark:/27023/5698c07e8e305ae5810a0ca6d79118cb> <https://colonialcollections.nl/schema#description> "Stereofoto, twee zo goed als identieke zwart/wit foto's naast elkaar op een stukje roodbruin karton geplakt, met anderen los aangetroffen.\r\n\r\nOp voor- en achterkant van een nummer voorzien.\r\n\r\nOpnames tonen een open ruimte buiten. Het lijkt een schoolplei" .
@@ -38,6 +98,12 @@
 <https://n2t.net/ark:/27023/5698d6ea86a47dc25f8aba915849cee9> <https://colonialcollections.nl/schema#creator> "Neville Keasberry" .
 <https://n2t.net/ark:/27023/5698d6ea86a47dc25f8aba915849cee9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5698d6ea86a47dc25f8aba915849cee9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#identifier> "EDO%20481-113" .
+<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nLandschapsopname van een meer omzoomd door lage vegetatie. Op de voorgrond is ook nog een afrastering van (prikkel)draad te zien.\r\n\r\nDit is meer een kiekje, het verschil tussen licht en donker te groo" .
+<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/566e47ed88d7116800c9685979b5c050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/566e47ed88d7116800c9685979b5c050> <https://colonialcollections.nl/schema#identifier> "2000/03/30-1-1" .
 <https://n2t.net/ark:/27023/566e47ed88d7116800c9685979b5c050> <https://colonialcollections.nl/schema#name> "Pistoolholster M11" .
@@ -52,20 +118,6 @@
 <https://n2t.net/ark:/27023/56a99e4f760af4904b1abf1d3335d1e4> <https://colonialcollections.nl/schema#inscription> "Aquaduct over kali Toentang" .
 <https://n2t.net/ark:/27023/56a99e4f760af4904b1abf1d3335d1e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/56a99e4f760af4904b1abf1d3335d1e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#identifier> "1974/08/05-1-2" .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#name> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot" .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#description> "Grammofoonplaat met toespraak van Luitenant-generaal M. Boerstra en Generaal-majoor Berenschot tijdens Commando-overdracht op 26 juli 1939.\r\nDeel II\r\nGouvernements Radio Telefoondienst.\r\nIn kartonnen houder (3 platen)" .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#inscription> "Gouvernements Radio Telefoondienst." .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/569db98a78858ee2e8cf77ca0ba20b3d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#identifier> "1998/06/01-3-5/2" .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#name> "Zonder titel" .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In 2 kleuren: groen + zwart. drie mannen, twee liggend en zittend onder hun klamboe, op jacht naar muggen.\r\nVerzonden door vader H.W. Keller, Laan Tegallan No.8, Batavia. Aan broer Fred Keller:  Den Hr. F. Keller, Graaf Florislaan 52, Bus" .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#inscription> "handschrift verso: Fred, Last van njamoek Piet die verd. rotbeesten zuigen me harstikke leeg. Stuur me dan maar de ploppers nu tabee hoor. P." .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56a0639ad18c3d27faf96ecf18abca19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/566ddc368706a074a3310e9431a4b1be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/566ddc368706a074a3310e9431a4b1be> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-53" .
 <https://n2t.net/ark:/27023/566ddc368706a074a3310e9431a4b1be> <https://colonialcollections.nl/schema#name> "Beenwindsels, set van katoen" .
@@ -492,36 +544,6 @@
 <https://n2t.net/ark:/27023/56b9cf13b30f77def8c060ef6f0f0a66> <https://colonialcollections.nl/schema#description> "Metalen mouwembleem Voortrekkers KNIL." .
 <https://n2t.net/ark:/27023/56b9cf13b30f77def8c060ef6f0f0a66> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/56b9cf13b30f77def8c060ef6f0f0a66> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#identifier> "nf%201920-2" .
-<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#name> "Tatoeëren van de zijlijn" .
-<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#description> "Fotonegatief, kleur, los aangetroffen\r\n\r\nOpname toont een op zijn zij liggende inheemse man, bij wie een tatoeage wordt aangebracht." .
-<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5674fd76bd7063fca9cf530f07ff51ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#identifier> "S%204287" .
-<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied direct ten noorden en oosten van de Goenoeng Lawoe" .
-<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#description> "Topografische kaart van gebied direct ten noorden en oosten van de Goenoeng Lawoe\r\n\r\nschaal 1 : 50.000" .
-<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56991b225fb8431083a7d066d26f32db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-13/2" .
-<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#name> "Vermoedelijk luitenant-kolonel C.M. Donck te paard tijdens een reünie van het voormalige instructie-bataljon" .
-<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#description> "Liggende zwartwit foto van waarschijnlijk luitenant-kolonel C.M. Donck  te paard (links).\r\n\r\nEen van vier persfoto's van activiteiten in het kader van de reünie van het vm. instructie-bataljon. Lnt. Kol. C.M. Donck b.d. leidde het programma in en rond Kam" .
-<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56a20371625bb9692b1f8892eaf7ba93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/9" .
-<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met Koningin Juliana en de organisator van de" .
-<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56a801154ae6e40b17cf16f294f1354c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/45" .
-<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#name> "Militair leunend tegen jeep" .
-<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#description> "Militair leunend tegen jeep. Achter op de foto geschreven  \"Nw Guinea\"." .
-<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56b5428d8c8f51cadb2d46c6f77c9fc0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5675342646fa59a639f47cab5e73b8ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5675342646fa59a639f47cab5e73b8ff> <https://colonialcollections.nl/schema#identifier> "S%206244-27" .
 <https://n2t.net/ark:/27023/5675342646fa59a639f47cab5e73b8ff> <https://colonialcollections.nl/schema#description> "Bamboe kalkkoker" .
@@ -562,16 +584,6 @@
 <https://n2t.net/ark:/27023/56b504837c5d4e05e10b2ee9e08e8b98> <https://colonialcollections.nl/schema#description> "Pijl met houten punt" .
 <https://n2t.net/ark:/27023/56b504837c5d4e05e10b2ee9e08e8b98> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/56b504837c5d4e05e10b2ee9e08e8b98> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#identifier> "nf%201312-3" .
-<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#description> "negatief, kleinbeeld, kleur, los, opgeborgen in zuurvrij mapje.\r\nfoto, rechthoekig, kleur, los, opgeborgen in zelfde mapje als negatief.\r\n\r\nAfbeelding toont een schoollokaal. In het lokaal schoolbanken, waar per bank twee jongens plaats hebben. Vooraan re" .
-<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/566df2cc68109eadadb8b16e931f7db7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#identifier> "EDO%20481-113" .
-<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nLandschapsopname van een meer omzoomd door lage vegetatie. Op de voorgrond is ook nog een afrastering van (prikkel)draad te zien.\r\n\r\nDit is meer een kiekje, het verschil tussen licht en donker te groo" .
-<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/56a03e0f8bc213dfe8d94f9053d928bc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/569d901e9e868b08a5297c6ec2a5d80d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/569d901e9e868b08a5297c6ec2a5d80d> <https://colonialcollections.nl/schema#identifier> "S%206244-91" .
 <https://n2t.net/ark:/27023/569d901e9e868b08a5297c6ec2a5d80d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

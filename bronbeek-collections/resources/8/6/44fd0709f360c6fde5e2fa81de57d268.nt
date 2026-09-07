@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/8" .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"Onderzeeër K XVIII\"" .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart \"Onderzeeër K XVIII\"" .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#inscription> "Onderzeeër K XVIII" .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#creator> "Ch. Kellerman" .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/507a74e5469694699d306badd238e5c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/507a74e5469694699d306badd238e5c9> <https://colonialcollections.nl/schema#identifier> "nf%201413-66" .
 <https://n2t.net/ark:/27023/507a74e5469694699d306badd238e5c9> <https://colonialcollections.nl/schema#name> "Erf Bagoes Koening 23" .
@@ -26,6 +34,8 @@
 <https://n2t.net/ark:/27023/508e769094879ab4bf1a520a83e67b5a> <https://colonialcollections.nl/schema#creator> "L. Blok" .
 <https://n2t.net/ark:/27023/508e769094879ab4bf1a520a83e67b5a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/508e769094879ab4bf1a520a83e67b5a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/508e769094879ab4bf1a520a83e67b5a> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
+<https://n2t.net/ark:/27023/508e769094879ab4bf1a520a83e67b5a> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
 <https://n2t.net/ark:/27023/509ccc7605007e1c535c7f5d15637643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/509ccc7605007e1c535c7f5d15637643> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-359/105" .
 <https://n2t.net/ark:/27023/509ccc7605007e1c535c7f5d15637643> <https://colonialcollections.nl/schema#name> "5 KNIL militairen aan een tafel, Atjeh" .
@@ -106,13 +116,6 @@
 <https://n2t.net/ark:/27023/50ad9474b5a8a54172350abef6bcdd6e> <https://colonialcollections.nl/schema#inscription> "4. Gen.Tanabe beantwoordt de 'direct questions" .
 <https://n2t.net/ark:/27023/50ad9474b5a8a54172350abef6bcdd6e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/50ad9474b5a8a54172350abef6bcdd6e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/8" .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"Onderzeeër K XVIII\"" .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart \"Onderzeeër K XVIII\"" .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#inscription> "Onderzeeër K XVIII" .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/50af99cf47e0104329c68258173d18c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/507950e687a1bfbc10eed202b862d1be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/507950e687a1bfbc10eed202b862d1be> <https://colonialcollections.nl/schema#identifier> "2007/11/01-3/2" .
 <https://n2t.net/ark:/27023/507950e687a1bfbc10eed202b862d1be> <https://colonialcollections.nl/schema#name> "Korea, 1953(?) Geïmproviseerde krachttraining" .

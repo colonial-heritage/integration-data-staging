@@ -6,6 +6,21 @@
 <https://n2t.net/ark:/27023/9bc6f64b71275057e4f79b5d33d431e5> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/9bc6f64b71275057e4f79b5d33d431e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9bc6f64b71275057e4f79b5d33d431e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#identifier> "2005/00-206/3" .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#name> "Uniformjas toetoep" .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#description> "Uniformjas toetoep van witte katoen en met rode letters ingenaaid etiket: Zeevaartuitrustingen H. Hettinga Levantkade G, Geb. K.N.S.M. bedrijfskleding en met in rood ingenaaide initialen: MP" .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#inscription> "MP." .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#creator> "H. Hettinga" .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#identifier> "nf%201316-5" .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#name> "Interieur hoofdgebouw" .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#creator> "N.V. Johan Mulder's Uitgevers Mij. Gouda (Holland)" .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9bb951ebdd74854a7ab03e440fbd8d80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9bb951ebdd74854a7ab03e440fbd8d80> <https://colonialcollections.nl/schema#identifier> "nf%20580-37" .
 <https://n2t.net/ark:/27023/9bb951ebdd74854a7ab03e440fbd8d80> <https://colonialcollections.nl/schema#name> "Waterlooplein, Batavia" .
@@ -20,6 +35,14 @@
 <https://n2t.net/ark:/27023/9bbce91b26d4ad82fc8f08a54adc8820> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/9bbce91b26d4ad82fc8f08a54adc8820> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9bbce91b26d4ad82fc8f08a54adc8820> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#identifier> "2004/06/13-1" .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#name> "Het dagelijksch leven van Bulletje Stengun in de Tropen" .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten. Set van 8 prentbriefkaarten in een omslag van papier. Het dagelijksch leven van Bulletje Stengun in de Tropen.\r\n1. \"Sate Kambing\"\r\n2. \"Atoomijs\"\r\n3. Banaanverkoper\r\n4. Muggen\r\n5. Riksja-jeep\r\n6. Paardenkar\r\n7. Restaurant\r\n8. Slangenbewa" .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#creator> "I.A.G., Bandoeng" .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#creator> "S. van Basel" .
 <https://n2t.net/ark:/27023/9bd104939600d4db7813c2ac674471f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9bd104939600d4db7813c2ac674471f6> <https://colonialcollections.nl/schema#identifier> "nf%201357-3" .
 <https://n2t.net/ark:/27023/9bd104939600d4db7813c2ac674471f6> <https://colonialcollections.nl/schema#name> "Schietoefening" .
@@ -34,6 +57,13 @@
 <https://n2t.net/ark:/27023/9be2307ea51a707dcddc089c28ccadef> <https://colonialcollections.nl/schema#creator> "Tresling & Co" .
 <https://n2t.net/ark:/27023/9be2307ea51a707dcddc089c28ccadef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9be2307ea51a707dcddc089c28ccadef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#identifier> "nf%201579-4" .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: 'Foto D.A.van Veen - Belangstelling in de dokterswoning Enarotali Wisselmeren - Episode Centrale bergland'.\r\n\r\nOpname toont twee schaars gekl" .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#creator> "D.A. van Veen" .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/9be4bc5bfcba4678f052926b76b83ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9be4bc5bfcba4678f052926b76b83ba3> <https://colonialcollections.nl/schema#identifier> "nf%20929-14-3" .
 <https://n2t.net/ark:/27023/9be4bc5bfcba4678f052926b76b83ba3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, half opgeplakt, zonder bijschrift\r\n\r\nOpname van een drietal blanke kinderen, twee jongens en een meisje. Zij zijn op het strand aan het graven naar iets.\r\n\r\nHet meisje vermoedelijk Pop Knaap. De jongens staan ook o" .
@@ -52,6 +82,12 @@
 <https://n2t.net/ark:/27023/9be82a84ffa340f180609f0a59fd5efe> <https://colonialcollections.nl/schema#creator> "Ed van Straten, Leidschendam" .
 <https://n2t.net/ark:/27023/9be82a84ffa340f180609f0a59fd5efe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9be82a84ffa340f180609f0a59fd5efe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#identifier> "nf%20355" .
+<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#description> "Uitbeelding van de Kelana, een solodans door Pak Sudjaja, tijdens zijn optreden in Rotterdam." .
+<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#creator> "René Sylvester Wassing" .
+<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9bb793e40a46555fdb5492820463c35b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9bb793e40a46555fdb5492820463c35b> <https://colonialcollections.nl/schema#identifier> "2002/02/08-7-4/20" .
 <https://n2t.net/ark:/27023/9bb793e40a46555fdb5492820463c35b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart kano op oever" .
@@ -108,13 +144,6 @@
 <https://n2t.net/ark:/27023/9bf3d9d786aee49b564570927dd4978c> <https://colonialcollections.nl/schema#inscription> "27" .
 <https://n2t.net/ark:/27023/9bf3d9d786aee49b564570927dd4978c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9bf3d9d786aee49b564570927dd4978c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#identifier> "2005/00-206/3" .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#name> "Uniformjas toetoep" .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#description> "Uniformjas toetoep van witte katoen en met rode letters ingenaaid etiket: Zeevaartuitrustingen H. Hettinga Levantkade G, Geb. K.N.S.M. bedrijfskleding en met in rood ingenaaide initialen: MP" .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#inscription> "MP." .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9beac6866c4521c32042c597fae2eb78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9bb1cb796fa5665dc4c1c04af7b494ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9bb1cb796fa5665dc4c1c04af7b494ea> <https://colonialcollections.nl/schema#identifier> "2011/10/25-1-3" .
 <https://n2t.net/ark:/27023/9bb1cb796fa5665dc4c1c04af7b494ea> <https://colonialcollections.nl/schema#name> "Mouwembleem, OVW Koninklijke Landmacht, in Indië gedragen" .
@@ -517,18 +546,6 @@
 <https://n2t.net/ark:/27023/9bf84538f5cba7874b307f1f314a333e> <https://colonialcollections.nl/schema#description> "Embleem, voortrekkersembleem KNIL.\r\nZwart met metaaldraad en rode kroon" .
 <https://n2t.net/ark:/27023/9bf84538f5cba7874b307f1f314a333e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9bf84538f5cba7874b307f1f314a333e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#identifier> "nf%201316-5" .
-<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#name> "Interieur hoofdgebouw" .
-<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
-<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9bafd22098e89ff53b9e13297b7ebb34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#identifier> "2004/06/13-1" .
-<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#name> "Het dagelijksch leven van Bulletje Stengun in de Tropen" .
-<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten. Set van 8 prentbriefkaarten in een omslag van papier. Het dagelijksch leven van Bulletje Stengun in de Tropen.\r\n1. \"Sate Kambing\"\r\n2. \"Atoomijs\"\r\n3. Banaanverkoper\r\n4. Muggen\r\n5. Riksja-jeep\r\n6. Paardenkar\r\n7. Restaurant\r\n8. Slangenbewa" .
-<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9bc6f3673031ef63334847672924e4cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9bb149bf39a54bf3fd3f9876e1859977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9bb149bf39a54bf3fd3f9876e1859977> <https://colonialcollections.nl/schema#identifier> "nf%201352-32-2" .
 <https://n2t.net/ark:/27023/9bb149bf39a54bf3fd3f9876e1859977> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met fotohoekjes in album geplakt.\r\nOp achterkant in inkt geschreven tekst, die luidt: 'v.l.n.r. Gorter, Niegelman, Han, de Serrière en ik'\r\n\r\nOpname toont een vijftal blanke personen, een vrouw en vier mannen, allen min of me" .
@@ -579,16 +596,6 @@
 <https://n2t.net/ark:/27023/9bf41b35f2ac89069dc97491f008d91c> <https://colonialcollections.nl/schema#description> "Mondstuk van een waterpijp" .
 <https://n2t.net/ark:/27023/9bf41b35f2ac89069dc97491f008d91c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9bf41b35f2ac89069dc97491f008d91c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#identifier> "nf%201579-4" .
-<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: 'Foto D.A.van Veen - Belangstelling in de dokterswoning Enarotali Wisselmeren - Episode Centrale bergland'.\r\n\r\nOpname toont twee schaars gekl" .
-<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9bc95a036a1019c7cb2947c991436a2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#identifier> "nf%20355" .
-<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#description> "Uitbeelding van de Kelana, een solodans door Pak Sudjaja, tijdens zijn optreden in Rotterdam." .
-<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9beaaba3932aaa668a801d58d9508078> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9bd66fb33890fc42621fafd5a14cf5f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9bd66fb33890fc42621fafd5a14cf5f0> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/483" .
 <https://n2t.net/ark:/27023/9bd66fb33890fc42621fafd5a14cf5f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

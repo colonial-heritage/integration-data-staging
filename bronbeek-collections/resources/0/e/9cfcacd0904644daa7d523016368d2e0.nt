@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/15" .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#name> "Batak (Sumatra)" .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Batak (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#inscription> "Batakker (Sumatra)" .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
 <https://n2t.net/ark:/27023/adbaffe2ee67dd62fc252abed6e7f95d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/adbaffe2ee67dd62fc252abed6e7f95d> <https://colonialcollections.nl/schema#identifier> "2004/05/24-7-2/1" .
 <https://n2t.net/ark:/27023/adbaffe2ee67dd62fc252abed6e7f95d> <https://colonialcollections.nl/schema#name> "Uniformjas: DT Geneeskundige Dienst, naoorlogs" .
@@ -24,9 +33,10 @@
 <https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-1/6" .
 <https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. Onze scherpschutters maken 'n dankbaar gebruik van een vijandelijke versperring" .
 <https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto: Voorlichtingsdienst 1e Mariniers Brigade, Luitenant H. Wilmar. \" Mariniers in Indië. Onze scherpschutters maken 'n dankbaar gebruik van een vijandelijke versperring\". Gedrukt door \"Kolff SB\"." .
-<https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ada00e020deb8369f018a1af8a9001fb> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/ada18dbab68247acfb891828db2e6953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ada18dbab68247acfb891828db2e6953> <https://colonialcollections.nl/schema#identifier> "1996/11/27-1-1" .
 <https://n2t.net/ark:/27023/ada18dbab68247acfb891828db2e6953> <https://colonialcollections.nl/schema#name> "Foto militair apotheker E. Polak" .
@@ -55,6 +65,13 @@
 <https://n2t.net/ark:/27023/adb8cb9eacba95359ef6bccf70b418b6> <https://colonialcollections.nl/schema#creator> "Warenhuis Saeki Malang" .
 <https://n2t.net/ark:/27023/adb8cb9eacba95359ef6bccf70b418b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/adb8cb9eacba95359ef6bccf70b418b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/4-6" .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#name> "Prentbriefkaart cartoon van de Mariniersbrigade" .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#description> "Prentbriefkaart cartoon van de Mariniersbrigade. \"de fabriek is er, nu de Paaseieren nog ... \"." .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#creator> "André Tigchelaar" .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/adc4178f1e24a193254e9ad7cb33fd5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/adc4178f1e24a193254e9ad7cb33fd5b> <https://colonialcollections.nl/schema#identifier> "1996/07/04-5-1/1" .
 <https://n2t.net/ark:/27023/adc4178f1e24a193254e9ad7cb33fd5b> <https://colonialcollections.nl/schema#name> "Bloemenkalender Bronbeek 1993" .
@@ -87,13 +104,6 @@
 <https://n2t.net/ark:/27023/ad9ee6c446baed9700f2f87543fa3b52> <https://colonialcollections.nl/schema#inscription> "I.P. Schouberg  F. [na \"Schou\" niet meer leesbaar]" .
 <https://n2t.net/ark:/27023/ad9ee6c446baed9700f2f87543fa3b52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ad9ee6c446baed9700f2f87543fa3b52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/15" .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#name> "Batak (Sumatra)" .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Batak (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#inscription> "Batakker (Sumatra)" .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/adb7b1b2790561fe88010d72b53fd198> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ad76ad8a40d6f3e13b5a510500c704d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ad76ad8a40d6f3e13b5a510500c704d5> <https://colonialcollections.nl/schema#identifier> "1998/12/22-1-63" .
 <https://n2t.net/ark:/27023/ad76ad8a40d6f3e13b5a510500c704d5> <https://colonialcollections.nl/schema#name> "Doek" .
@@ -574,12 +584,6 @@
 <https://n2t.net/ark:/27023/adc5796f2f81b4458f58b8d7a2aa6bbc> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nVerso: \"2 Oct 1946. \"Pèrak\" De 3e compagnie heeft exercitie\". Mannen in uniform op de rug gezien." .
 <https://n2t.net/ark:/27023/adc5796f2f81b4458f58b8d7a2aa6bbc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/adc5796f2f81b4458f58b8d7a2aa6bbc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/4-6" .
-<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#name> "Prentbriefkaart cartoon van de Mariniersbrigade" .
-<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#description> "Prentbriefkaart cartoon van de Mariniersbrigade. \"de fabriek is er, nu de Paaseieren nog ... \"." .
-<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/adbd221fdb08765ddb64cc8044402f82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ad833d02b599baaa5a6262b07696e96b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ad833d02b599baaa5a6262b07696e96b> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44417" .
 <https://n2t.net/ark:/27023/ad833d02b599baaa5a6262b07696e96b> <https://colonialcollections.nl/schema#description> "Haloc kokosdop met gezichtsmotief" .

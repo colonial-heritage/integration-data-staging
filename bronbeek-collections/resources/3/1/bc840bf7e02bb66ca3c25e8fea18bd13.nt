@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/38" .
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#name> "Militair, leunend tegen achterkant van jeep. Jeep staat geparkeerd voor rij huizen" .
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#description> "Militair, leunend tegen achterkant van jeep. Jeep staat geparkeerd voor rij huizen.\r\nAchter op foto geschreven \"Soerabaja ´50\"." .
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c8fede743649e154937dcbd1e34eb27a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c8fede743649e154937dcbd1e34eb27a> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-11/11" .
 <https://n2t.net/ark:/27023/c8fede743649e154937dcbd1e34eb27a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart, 'Mariniers brengen hun vacantie op Bali door'" .
@@ -9,9 +16,10 @@
 <https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#identifier> "nf%201430-9" .
 <https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#name> "Ladang familie" .
 <https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 19.\r\n\r\nOpname toont papoea's, zowel mannen als vrouwen, op een stuk landbouwgrond (ladang). Men gaat schaars gekleed. Twee van de vrouwen b" .
-<https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c90ee0488590e50b14b579ce9e89254e> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/c918214820db175a3f67df874a9812a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c918214820db175a3f67df874a9812a9> <https://colonialcollections.nl/schema#identifier> "S%206245-62-2" .
 <https://n2t.net/ark:/27023/c918214820db175a3f67df874a9812a9> <https://colonialcollections.nl/schema#name> "kapok-boom  -  Eriodendron Anfractuosum" .
@@ -544,12 +552,6 @@
 <https://n2t.net/ark:/27023/c91aff0165d73bc81e3e0fd440f2e857> <https://colonialcollections.nl/schema#description> "Foto. Chineesche begrafenis." .
 <https://n2t.net/ark:/27023/c91aff0165d73bc81e3e0fd440f2e857> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c91aff0165d73bc81e3e0fd440f2e857> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/38" .
-<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#name> "Militair, leunend tegen achterkant van jeep. Jeep staat geparkeerd voor rij huizen" .
-<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#description> "Militair, leunend tegen achterkant van jeep. Jeep staat geparkeerd voor rij huizen.\r\nAchter op foto geschreven \"Soerabaja ´50\"." .
-<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c8e5644d41fd2e18040b17c30f4c683b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c8ddd7ad2abe908bffad62a7b319b9be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c8ddd7ad2abe908bffad62a7b319b9be> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-27/61" .
 <https://n2t.net/ark:/27023/c8ddd7ad2abe908bffad62a7b319b9be> <https://colonialcollections.nl/schema#description> "Foto." .

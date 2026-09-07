@@ -1,3 +1,17 @@
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#identifier> "2006/00-24-38-1/5" .
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#name> "Bibliotheek museum Bronbeek op 21 februari 1998, entree" .
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#description> "Foto in zwart/wit. Bibliotheek museum Bronbeek op 21 februari 1998 3e openingsdag voor grote publiek.\r\nEen van een serie van vijf. Openingsfestiviteiten op 1998/02/21. Gefotografeerd door A.E. Wijers." .
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#creator> "A.E. Wijers" .
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/5" .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/259" .
 <https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -5,14 +19,15 @@
 <https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6aeb70ee7fe4aeb5bfe12c356f29c3f8> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#identifier> "nf%20677-32" .
 <https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#name> "Gunungan" .
 <https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#description> "Ansichtkaart, kleur, rechthoekig, los. Dus niet opgeplakt aangetroffen.\r\n\r\nKaart met 'gedeelde' achterkant en de erbij horende belijning. \r\nDeze kaart is in echt verstuurd. Er is een poststempel van 'S-GRAVENHAGE 24 XII 1964\r\nDe geschreven tekst (een Kers" .
-<https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#creator> "Koninklijk Instituut voor de Tropen (KIT)" .
+<https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/6b00cafab1c56040850a5f7a3a65b5b4> <https://colonialcollections.nl/schema#creator> "Koninklijk Instituut voor de Tropen (KIT)" .
 <https://n2t.net/ark:/27023/6b03ff60b37bb870d76c59721a14ab4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b03ff60b37bb870d76c59721a14ab4c> <https://colonialcollections.nl/schema#identifier> "1874/10-1" .
 <https://n2t.net/ark:/27023/6b03ff60b37bb870d76c59721a14ab4c> <https://colonialcollections.nl/schema#name> "Een dertigtal photographische platen betreffende Atjeh" .
@@ -503,18 +518,6 @@
 <https://n2t.net/ark:/27023/6b1fdbae0bf3d77736f8126250955671> <https://colonialcollections.nl/schema#description> "Document Departement van Oorlog, toekenning gesp Atjeh 1896-1900 bij al eerder verkregen EBK, gedateerd 1 mei 1901. In redelijke staat." .
 <https://n2t.net/ark:/27023/6b1fdbae0bf3d77736f8126250955671> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6b1fdbae0bf3d77736f8126250955671> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#identifier> "2006/00-24-38-1/5" .
-<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#name> "Bibliotheek museum Bronbeek op 21 februari 1998, entree" .
-<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#description> "Foto in zwart/wit. Bibliotheek museum Bronbeek op 21 februari 1998 3e openingsdag voor grote publiek.\r\nEen van een serie van vijf. Openingsfestiviteiten op 1998/02/21. Gefotografeerd door A.E. Wijers." .
-<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6ade1d865f68199a8a6e8a3aa5640874> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/5" .
-<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
-<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
-<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6ae5383b9e4cdebfc244c107f0218b2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6ada91ee01435e8a9c798b0fe7782015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6ada91ee01435e8a9c798b0fe7782015> <https://colonialcollections.nl/schema#identifier> "S%20814-17" .
 <https://n2t.net/ark:/27023/6ada91ee01435e8a9c798b0fe7782015> <https://colonialcollections.nl/schema#description> "keris bener met schede; dapur: lange gandik; pejetan; wideng; twee sogokan; srawejan; tikel alis; pamor beras uritah; geelkoperen mendak; ukiran solo twee patra; wrangka ladrangan solo; geelkoperen pendok blewah; de randen langs de spleet geciseleerd met " .

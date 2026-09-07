@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/420b1bf98784b68db5abec34e0f07b62> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/420b1bf98784b68db5abec34e0f07b62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/420b1bf98784b68db5abec34e0f07b62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#identifier> "nf%201621-16" .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#name> "Siuluzoon van Hilliganowe, Zuid Nias" .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SIULUZOON VAN HILLIGANOWE, Z.NIAS, 1930 - rechts FOTO R.BONNET" .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/421033dac47a48eeaab7a952c9e1eb16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/421033dac47a48eeaab7a952c9e1eb16> <https://colonialcollections.nl/schema#identifier> "nf%201413-7" .
 <https://n2t.net/ark:/27023/421033dac47a48eeaab7a952c9e1eb16> <https://colonialcollections.nl/schema#name> "Transport met dromedarissen, Suezkanaal" .
@@ -26,6 +33,13 @@
 <https://n2t.net/ark:/27023/421785eee9dc1780d99c60a8314b36ef> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/421785eee9dc1780d99c60a8314b36ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/421785eee9dc1780d99c60a8314b36ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/2" .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met echtgenote Ch. Marburg in riksja tussen " .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#creator> "Fotopersbureau \"Hendriksen-Valk\"" .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/421ab8d1c529225a0a8c1b3b04b46147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/421ab8d1c529225a0a8c1b3b04b46147> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-1/10" .
 <https://n2t.net/ark:/27023/421ab8d1c529225a0a8c1b3b04b46147> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"Katholiek Thuisfront\"" .
@@ -33,6 +47,20 @@
 <https://n2t.net/ark:/27023/421ab8d1c529225a0a8c1b3b04b46147> <https://colonialcollections.nl/schema#creator> "Katholiek Thuisfront" .
 <https://n2t.net/ark:/27023/421ab8d1c529225a0a8c1b3b04b46147> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/421ab8d1c529225a0a8c1b3b04b46147> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#identifier> "nf%201333-3" .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#name> "Glodok Batavia" .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in drie talen, Nederlands, Frans en Indonesisch.\r\nLinks een kartelrand.\r\n\r\nOok is er waar de postzegel geplakt moet worden de naam van de uitgever: 'JAPANSCHE TOKO K.SHIMANE'\r\n\r\nOp de a" .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#creator> "Japansche Toko K. Shimane" .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/13" .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4226ffb6c7c5bcd156038296d280136f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4226ffb6c7c5bcd156038296d280136f> <https://colonialcollections.nl/schema#identifier> "1999/03/01-2-60/5" .
 <https://n2t.net/ark:/27023/4226ffb6c7c5bcd156038296d280136f> <https://colonialcollections.nl/schema#name> "Prent \"De Kolonialen\"" .
@@ -523,30 +551,6 @@
 <https://n2t.net/ark:/27023/424fd4f49996d08f2f99c2924f173bfc> <https://colonialcollections.nl/schema#description> "Overblijfsel van het gedeeltelijk vernieuwde vaandeldoek met bijbehorende oorkonde van het 9e bataljon der Infanterie van het KNIL. Maakt deel uit van een serie overblijfselen van vaandeldoeken met bijbehorende oorkonden." .
 <https://n2t.net/ark:/27023/424fd4f49996d08f2f99c2924f173bfc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/424fd4f49996d08f2f99c2924f173bfc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#identifier> "nf%201621-16" .
-<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#name> "Siuluzoon van Hilliganowe, Zuid Nias" .
-<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SIULUZOON VAN HILLIGANOWE, Z.NIAS, 1930 - rechts FOTO R.BONNET" .
-<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/420dd2d91e91c364a979feeb2e7513ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/2" .
-<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met echtgenote Ch. Marburg in riksja tussen " .
-<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/421922b6f2417eec9f4c6c55fee4da45> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#identifier> "nf%201333-3" .
-<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#name> "Glodok Batavia" .
-<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in drie talen, Nederlands, Frans en Indonesisch.\r\nLinks een kartelrand.\r\n\r\nOok is er waar de postzegel geplakt moet worden de naam van de uitgever: 'JAPANSCHE TOKO K.SHIMANE'\r\n\r\nOp de a" .
-<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/421ad00356732e6b5b3c93e010e4ff79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/13" .
-<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/42208fbb6e04f94901149b1c7ea73878> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/420db1bae0d12a04ff0aa4e9919beb18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/420db1bae0d12a04ff0aa4e9919beb18> <https://colonialcollections.nl/schema#identifier> "nf%201355-19-4" .
 <https://n2t.net/ark:/27023/420db1bae0d12a04ff0aa4e9919beb18> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont drie blanke personen, een man en twee vrouwen, in het wit gekleed, zittend in het gras tegen een talud aan. Er lopen ook twee hond" .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/11" .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Batavia-Serie." .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java, Batavia-Serie.\r\nBevat 10 prentbriefkaarten, los in een groene kaft/omslag. Op kaft in blauw potlood: \"17\".\r\n\r\nNrs.: 11" .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Batavia-Serie." .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#creator> "N.V. Handel Maatschappij Appel & Duveen" .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/197717bf45a4d6c9b3d82377eba81700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/197717bf45a4d6c9b3d82377eba81700> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/051" .
 <https://n2t.net/ark:/27023/197717bf45a4d6c9b3d82377eba81700> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/197717bf45a4d6c9b3d82377eba81700> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/197717bf45a4d6c9b3d82377eba81700> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/197717bf45a4d6c9b3d82377eba81700> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1-5" .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#name> "Foto van familie Van Meerten" .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#description> "Foto op karton: portret familie Van Meerten\r\n\r\nportret familie Van Meerten: Mr. Henri Charles van Meerten, Marie van Meerten-Bik en hun zoons Henri Charles van Meerten en Cornelis Willem Julius van Meerten.\r\n\r\nverso: in pen : 1905 \r\nOvergrootvader Henri C" .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#inscription> "recto: Adolphe Zimmermans, de Riemerstraat 21, La Haye\r\n\r\nAnsvers 1885\r\nParis 1886\r\nPhotographe S.M. la Reine Régente (onderschrift wapen)\r\nLa Haye 1882\r\nScheveningen 1892" .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/19b23ab9bcd56fc0df53d6f1ed8e1921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/19b23ab9bcd56fc0df53d6f1ed8e1921> <https://colonialcollections.nl/schema#identifier> "1937/12/22-1" .
 <https://n2t.net/ark:/27023/19b23ab9bcd56fc0df53d6f1ed8e1921> <https://colonialcollections.nl/schema#name> "Gedenkplaat Nationaal Jongeren Verbond" .
@@ -14,14 +30,29 @@
 <https://n2t.net/ark:/27023/19b23ab9bcd56fc0df53d6f1ed8e1921> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/19b23ab9bcd56fc0df53d6f1ed8e1921> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/19b23ab9bcd56fc0df53d6f1ed8e1921> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/17" .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#name> "Afd. 5.2. Gefotografeerd October 1920. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Afd. 5.2. Gefotografeerd October 1920.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nIdentiek aan 3/18" .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#inscription> "Afd. 5.2. Gefotografeerd October 1920." .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#creator> "S.Ogawa, Photographer." .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#identifier> "2003/00-20-3" .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van het standbeeld van Koning Willem II op Bronbeek" .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Standbeeld Koning Willem II met parkgezicht´ Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#creator> "drukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#identifier> "nf%201363" .
 <https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#name> "Het bouwen van de mensapen verblijven" .
 <https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de titel, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'HET BOUWEN DER MENSCHAPEN VERBLYVEN'\r\n\r\nOok is deze film genummerd in" .
-<https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/1976eb885c1768f8c6708d5a8d6e93b1> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/198ac442a5c024b3c699665c70fd55f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/198ac442a5c024b3c699665c70fd55f1> <https://colonialcollections.nl/schema#identifier> "nf%20694-9" .
 <https://n2t.net/ark:/27023/198ac442a5c024b3c699665c70fd55f1> <https://colonialcollections.nl/schema#name> "Kampong Kapau bij Fort de Kock" .
@@ -121,27 +152,6 @@
 <https://n2t.net/ark:/27023/19ae2c7316c333ecd16c921d434e5287> <https://colonialcollections.nl/schema#inscription> "Koninklijk eereblijk voor betoonde dapperheid" .
 <https://n2t.net/ark:/27023/19ae2c7316c333ecd16c921d434e5287> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/19ae2c7316c333ecd16c921d434e5287> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/11" .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Batavia-Serie." .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java, Batavia-Serie.\r\nBevat 10 prentbriefkaarten, los in een groene kaft/omslag. Op kaft in blauw potlood: \"17\".\r\n\r\nNrs.: 11" .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Batavia-Serie." .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/197329e0ac0fa7e9f00a24798f5ed0f5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#identifier> "1997/05/06-1-5" .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#name> "Foto van familie Van Meerten" .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#description> "Foto op karton: portret familie Van Meerten\r\n\r\nportret familie Van Meerten: Mr. Henri Charles van Meerten, Marie van Meerten-Bik en hun zoons Henri Charles van Meerten en Cornelis Willem Julius van Meerten.\r\n\r\nverso: in pen : 1905 \r\nOvergrootvader Henri C" .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#inscription> "recto: Adolphe Zimmermans, de Riemerstraat 21, La Haye\r\n\r\nAnsvers 1885\r\nParis 1886\r\nPhotographe S.M. la Reine Régente (onderschrift wapen)\r\nLa Haye 1882\r\nScheveningen 1892" .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1981083db2be2f290ce61d52e0065c8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-3/17" .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#name> "Afd. 5.2. Gefotografeerd October 1920. Rubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust." .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Afd. 5.2. Gefotografeerd October 1920.\r\nRubberonderneming Goenoeng Pamela Cultuurmaatschappij De Oostkust. ± 1920. Sumatra´s Oostkust.\r\nIdentiek aan 3/18" .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#inscription> "Afd. 5.2. Gefotografeerd October 1920." .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/19b9721483e0ef6a4ae607c3febb2ba3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/196c0ce1b345a07e0606a4dfad45876f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/196c0ce1b345a07e0606a4dfad45876f> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-170/5" .
 <https://n2t.net/ark:/27023/196c0ce1b345a07e0606a4dfad45876f> <https://colonialcollections.nl/schema#name> "Foto Sumatra" .
@@ -556,12 +566,6 @@
 <https://n2t.net/ark:/27023/19ba433cebedcd0770cb0b9b06b670a2> <https://colonialcollections.nl/schema#description> "zw/w. foto. versierde overkapping met tafels en rieten stoelen langs randen.\r\n\r\nfoto is opgeplakt met aantal andere foto's in album of een katern van een album.   \r\n\r\nFoto afkomstig uit de collectie van M.Th. Slagter, vader van schenker. Op verlof in Nede" .
 <https://n2t.net/ark:/27023/19ba433cebedcd0770cb0b9b06b670a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/19ba433cebedcd0770cb0b9b06b670a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#identifier> "2003/00-20-3" .
-<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van het standbeeld van Koning Willem II op Bronbeek" .
-<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Standbeeld Koning Willem II met parkgezicht´ Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
-<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1973109c3f1455752f3d8b49e034e382> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1976353f22f5bea41daf77bd99eaeeb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1976353f22f5bea41daf77bd99eaeeb9> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42005" .
 <https://n2t.net/ark:/27023/1976353f22f5bea41daf77bd99eaeeb9> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkoker\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesneden\r\nEmailadres: toelichting:\tbamboekoker met snijwerk voorzien\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2538\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Bei" .

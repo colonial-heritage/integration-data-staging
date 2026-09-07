@@ -5,6 +5,20 @@
 <https://n2t.net/ark:/27023/f9505360d5ce039eb2782ed5b137f110> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f9505360d5ce039eb2782ed5b137f110> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f9505360d5ce039eb2782ed5b137f110> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#identifier> "1986/11/26-1-2" .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#name> "Luchtfoto Anak Krakatau" .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#description> "Luchtfoto: Anak Kraktau.  Zwart-wit." .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#creator> "Photo Verkennings Afdeling Militaire Luchtvaart" .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-156/2" .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#name> "Carte-de-visite van een Indonesische man en vrouw" .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#description> "Foto. Studioportret van een Indonesische man en vrouw. De vrouw zit op een stoel. De man staat er naast en draagt in zijn linker hand een hoofddeksel.\r\nCarte-de-visite van fotograaf J.B. Jasper uit Soerabaya.\r\nTekst verso: ´J.B. Jasper Photograaf, Soeraba" .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#creator> "J.B. Jasper Photograaf Soerabaija" .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f98b8a50f492cd72a74d7c8704099fd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f98b8a50f492cd72a74d7c8704099fd3> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-14" .
 <https://n2t.net/ark:/27023/f98b8a50f492cd72a74d7c8704099fd3> <https://colonialcollections.nl/schema#name> "Landkaart Sragen" .
@@ -559,18 +573,6 @@
 <https://n2t.net/ark:/27023/f999113d1c30201d3107e840b3a57c20> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, geheel opgeplakt.\r\n\r\nIn potlood is bijgeschreven een nummer 493/17\r\n\r\nEveneens in potlood is er onder bijgeshcreven: Bromo en zandzee.\r\n\r\nDe opname toont een kale vlakte op de voorgrond en een rokende vulkaan in de achtergron" .
 <https://n2t.net/ark:/27023/f999113d1c30201d3107e840b3a57c20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f999113d1c30201d3107e840b3a57c20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#identifier> "1986/11/26-1-2" .
-<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#name> "Luchtfoto Anak Krakatau" .
-<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#description> "Luchtfoto: Anak Kraktau.  Zwart-wit." .
-<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f955e39b98f9270eb233b29e0225e620> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-156/2" .
-<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#name> "Carte-de-visite van een Indonesische man en vrouw" .
-<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#description> "Foto. Studioportret van een Indonesische man en vrouw. De vrouw zit op een stoel. De man staat er naast en draagt in zijn linker hand een hoofddeksel.\r\nCarte-de-visite van fotograaf J.B. Jasper uit Soerabaya.\r\nTekst verso: ´J.B. Jasper Photograaf, Soeraba" .
-<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f973982d060ba66c7848599285468c77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f95dc2edf980d00a2956d033a6dd9a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f95dc2edf980d00a2956d033a6dd9a2a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41784" .
 <https://n2t.net/ark:/27023/f95dc2edf980d00a2956d033a6dd9a2a> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tarmband\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tschelpen\r\n\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2317\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2317] Depot, LB I, 51 [LB I " .

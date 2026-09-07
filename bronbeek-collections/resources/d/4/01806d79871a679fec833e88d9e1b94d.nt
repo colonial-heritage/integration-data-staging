@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-73" .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#name> "In de Dessa" .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In de Dessa." .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#inscription> "In de Dessa" .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#creator> "G. Adolfs" .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#creator> "Masman & Stroink, Semarang" .
 <https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#identifier> "2004/01/13-1-6/2" .
 <https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#name> "Kopie van een oorspronkelijke bouwtekening van het Hotel voor Invaliden op het landgoed Bronbeek" .
@@ -6,6 +15,16 @@
 <https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#creator> "Luitenant-ingenieur Willem Nicolaas Rose (MWO4)" .
 <https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#creator> "H.J. Geerts" .
+<https://n2t.net/ark:/27023/644a2d59f6220b15a4091b67e86c32be> <https://colonialcollections.nl/schema#creator> "Koninklijke Steendrukkerij v. C.W. Mieling" .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#identifier> "2001/00-55" .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#name> "Wervingsposter KNIL" .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#description> "Poster. \"Versterkt onze gelederen. Koninklijk Nederlandsch-Indisch Leger\". \"Waterlow & Sons Ltd. London England\". \"Oepts\"." .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#inscription> "Versterkt onze gelederen. Koninklijk Nederlandsch-Indisch Leger" .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#creator> "Waterlow & Sons Ltd, London England" .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/646d99375113c9cf2b49ba8d7e8e2fd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/646d99375113c9cf2b49ba8d7e8e2fd6> <https://colonialcollections.nl/schema#identifier> "1990/08/20-15-19" .
 <https://n2t.net/ark:/27023/646d99375113c9cf2b49ba8d7e8e2fd6> <https://colonialcollections.nl/schema#name> "De Algemeene trein op den weg Ampenas-Mataram met het gezicht op kampoeng Kapitan, 11 juni 1894" .
@@ -22,6 +41,44 @@
 <https://n2t.net/ark:/27023/646ed10d28bf09de7c09cd824d6da359> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/646ed10d28bf09de7c09cd824d6da359> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/646ed10d28bf09de7c09cd824d6da359> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/21" .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#name> "Serie I 1-6 Indische dansen en voorstellingen, Wajang Wong" .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Serie I 1-6 Indische dansen en voorstellingen;  Wajang Wong-danser in Prinselijk gewaad.\r\nNaar aquarel van G.J.F. Tjarsens Keiser. Medewerking Koloniaal Instituut Amsterdam. (Tekst overgedrukt met decoratieband)" .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#inscription> "Serie I 1-6 Indische dansen en voorstellingen" .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#creator> "G.J.F. Tjessens Kesen" .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-366" .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#name> "Knopen veldtenue Algemene Politie Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#description> "Knopen (drie grote en drie kleine knopen) van bronskleurig metaal plat met opstaande rand met klimmende leeuw in een schild met daarboven een kroon. \r\nDe grote knopen hebben aan de keerzijde de tekst:\r\n\r\nPARREE\r\nHORST (L)" .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#inscription> "PARREE\r\nHORST (L)" .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#creator> "Parree" .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/86" .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: C.L. v. Swieten-Straeter.\r\nFotograaf: Adolphe Zimmermans, Den Haag." .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/11" .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#identifier> "1974/01/01-10" .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#name> "Anna Paulowna, Koningin der Nederlanden, Grootvorstin van Rusland etc.etc." .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#description> "Gravure: Anna Paulowna, Koningin der Nederlanden, Grootvorstin van Rusland etc.etc.. Gravure van B. Taurel naar schilderij van F.B. van der Halst. 39 x 24,5cm. Alle randen afgesneden, op karton geplakt [  ] van plakbanden." .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#creator> "F.B. van der Halst" .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#creator> "B. Taurel" .
 <https://n2t.net/ark:/27023/6460ee00b34ff4235dafe27362f6cc1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6460ee00b34ff4235dafe27362f6cc1b> <https://colonialcollections.nl/schema#identifier> "nf%20842-245" .
 <https://n2t.net/ark:/27023/6460ee00b34ff4235dafe27362f6cc1b> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BA, 38 t/m 100. Deze slede is opgeborgen in doos met afneembare roodbruine rug, gemerkt met\r\nBA, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BA 80, in potlood DW 21\r\n\r\nOp" .
@@ -54,34 +111,6 @@
 <https://n2t.net/ark:/27023/646688d48f71b9652e76d89f68ba42c1> <https://colonialcollections.nl/schema#inscription> "40" .
 <https://n2t.net/ark:/27023/646688d48f71b9652e76d89f68ba42c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/646688d48f71b9652e76d89f68ba42c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-73" .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#name> "In de Dessa" .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. In de Dessa." .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#inscription> "In de Dessa" .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6441246cc9488a1fd1c313a8643948ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#identifier> "2001/00-55" .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#name> "Wervingsposter KNIL" .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#description> "Poster. \"Versterkt onze gelederen. Koninklijk Nederlandsch-Indisch Leger\". \"Waterlow & Sons Ltd. London England\". \"Oepts\"." .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#inscription> "Versterkt onze gelederen. Koninklijk Nederlandsch-Indisch Leger" .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6462a23e5f4d2c6ced5bea82b4c4b8fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/21" .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#name> "Serie I 1-6 Indische dansen en voorstellingen, Wajang Wong" .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Serie I 1-6 Indische dansen en voorstellingen;  Wajang Wong-danser in Prinselijk gewaad.\r\nNaar aquarel van G.J.F. Tjarsens Keiser. Medewerking Koloniaal Instituut Amsterdam. (Tekst overgedrukt met decoratieband)" .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#inscription> "Serie I 1-6 Indische dansen en voorstellingen" .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6474ea4763f9b0c8886aa4d8d5b073e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-366" .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#name> "Knopen veldtenue Algemene Politie Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#description> "Knopen (drie grote en drie kleine knopen) van bronskleurig metaal plat met opstaande rand met klimmende leeuw in een schild met daarboven een kroon. \r\nDe grote knopen hebben aan de keerzijde de tekst:\r\n\r\nPARREE\r\nHORST (L)" .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#inscription> "PARREE\r\nHORST (L)" .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6481cb4ca1b8042b3cb1da41c609b1eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/643e2b3225515f9f09ae5f2cd4b28547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/643e2b3225515f9f09ae5f2cd4b28547> <https://colonialcollections.nl/schema#identifier> "2006/00-13/7-18" .
 <https://n2t.net/ark:/27023/643e2b3225515f9f09ae5f2cd4b28547> <https://colonialcollections.nl/schema#name> "Brief van kapitein M. Egé aan de Minister van Marine en Koloniën, dd 5 december 1828" .
@@ -538,24 +567,6 @@
 <https://n2t.net/ark:/27023/64840410b190f610f0328332fa2c8193> <https://colonialcollections.nl/schema#description> "Kampkaarten, 4 stuks, briefkaarten Japanse internering gericht aan A. Ligtermoet. Briefwisseling aan het einde van de Japanse bezetting. De goedkeuring door toenmalige controlediensten staat op de kaarten aangegeven. Afzender (ouders van schenker) woonden" .
 <https://n2t.net/ark:/27023/64840410b190f610f0328332fa2c8193> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/64840410b190f610f0328332fa2c8193> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/86" .
-<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: C.L. v. Swieten-Straeter.\r\nFotograaf: Adolphe Zimmermans, Den Haag." .
-<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6443ee971f8164cc03a88de8e2acd363> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/11" .
-<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/644949a720144fbdf1852fbd1cf58174> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#identifier> "1974/01/01-10" .
-<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#name> "Anna Paulowna, Koningin der Nederlanden, Grootvorstin van Rusland etc.etc." .
-<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#description> "Gravure: Anna Paulowna, Koningin der Nederlanden, Grootvorstin van Rusland etc.etc.. Gravure van B. Taurel naar schilderij van F.B. van der Halst. 39 x 24,5cm. Alle randen afgesneden, op karton geplakt [  ] van plakbanden." .
-<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/645985c50930a859fc404a18240318fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6447d45a51c44c8c35270e76ff984242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6447d45a51c44c8c35270e76ff984242> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42739" .
 <https://n2t.net/ark:/27023/6447d45a51c44c8c35270e76ff984242> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tvingerring\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tgesmeed, gegranuleerd, filigrain, verguld\r\nEmailadres: toelichting:\tDe gladde, donkergekleurde koperen ring (binnenmaat: Diam 1,7) heeft" .

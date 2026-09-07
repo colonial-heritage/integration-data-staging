@@ -1,3 +1,24 @@
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/14" .
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#name> "Portret van Non Denninghoff Stelling" .
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met ballpoint) Non Denninghoff Stelling\r\nVerso: Kameke, peintre et phot: de la Cour, La Haye, Javastraat 20." .
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#creator> "Kameke" .
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/15" .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#name> "Bergachtig landschap" .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#description> "Bergachtig landschap." .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#identifier> "nf%201091" .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#name> "Centrale Burgerlijke Ziekeninrichting Salemba (Batavia)" .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los. In rechter benedenhoek een doordruk stempel met \"HISGEN JAVA\" \r\n\r\nOp de achterkant is in potlood tekst gegeven: 'links de centrale burgerlijke ziekeninrichting Salemba (Batavia).\r\n\r\n\r\nAfbeelding toont pleintje met wat bo" .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#creator> "Hisgen" .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fd3eb5057511c4a6b0eddf0375216309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fd3eb5057511c4a6b0eddf0375216309> <https://colonialcollections.nl/schema#identifier> "2002/10/17-1-4" .
 <https://n2t.net/ark:/27023/fd3eb5057511c4a6b0eddf0375216309> <https://colonialcollections.nl/schema#name> "Foto, carte de visite Henri Marie Vis" .
@@ -521,24 +542,6 @@
 <https://n2t.net/ark:/27023/fd5faa504d169b7f40f3e308d415ee55> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit periode 1947-1949. 137 stuks." .
 <https://n2t.net/ark:/27023/fd5faa504d169b7f40f3e308d415ee55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fd5faa504d169b7f40f3e308d415ee55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/14" .
-<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#name> "Portret van Non Denninghoff Stelling" .
-<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met ballpoint) Non Denninghoff Stelling\r\nVerso: Kameke, peintre et phot: de la Cour, La Haye, Javastraat 20." .
-<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fd22a8e3f9e057a7c04ea3f26dfde46c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/15" .
-<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#name> "Bergachtig landschap" .
-<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#description> "Bergachtig landschap." .
-<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fd31c07448d3072102d4546ebc61d5e9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#identifier> "nf%201091" .
-<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#name> "Centrale Burgerlijke Ziekeninrichting Salemba (Batavia)" .
-<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los. In rechter benedenhoek een doordruk stempel met \"HISGEN JAVA\" \r\n\r\nOp de achterkant is in potlood tekst gegeven: 'links de centrale burgerlijke ziekeninrichting Salemba (Batavia).\r\n\r\n\r\nAfbeelding toont pleintje met wat bo" .
-<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fd37e66b11db1a119ea33d94feb697c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fd1ec48f287dc522ad841bd0e154a4dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fd1ec48f287dc522ad841bd0e154a4dc> <https://colonialcollections.nl/schema#identifier> "nf%201352-30-3" .
 <https://n2t.net/ark:/27023/fd1ec48f287dc522ad841bd0e154a4dc> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met fotohoekjes in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een gezelschap blanke personen, meer mannen dan vrouwen, zittend aan dek. Het schip ligt nog aan de kade, er staan mensen die naar benede" .

@@ -14,6 +14,31 @@
 <https://n2t.net/ark:/27023/5bbd18b345a1e8795ab17118930aba73> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/5bbd18b345a1e8795ab17118930aba73> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bbd18b345a1e8795ab17118930aba73> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/2" .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#name> "Stafkaart Nederlands Indië, Meester Cornelis" .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#description> "Stafkaart Nederlands Indië; Java & Madura, Meester Cornelis. schaal 1 : 50.000\r\nMiddenboven: ´Meester Cornelis´\r\nSheet 37/XXXVII-C\r\nKaart is gereproduceerd door IIO Map Production Coy R.E. en gedrukt in Oktober 1945 door Survey Production Centre, South Ea" .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#inscription> "Meester Cornelis" .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#creator> "IIO Map Production Coy R.E." .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#identifier> "1885/09-1-38" .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#name> "Prent vaneen buste van waarschijnlijk Anna Paulowna, echtgenote van koning Willem II, koningin der Nederlanden (1840-1849) ?" .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#description> "Prent. Buste in steen, van een vrouw: Anna Paulowna, echtgenote van koning Willem II, koningin der Nederlanden (1840-1849)?.\r\n\"Gegr. door H.W.Couwenberg,\" & \"naar de buste van L.Roijer.\" & \"Gedrukt door J.F. Brugman.\" & reliefstempel: \"Maatsch. tot bev. v" .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#inscription> "naar de buste van L.Roijer; Maatsch. tot bev. van beeldkunsten" .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#creator> "J.F. Brugman" .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#creator> "H.G. Couwenberg" .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#identifier> "1998/11/27-2" .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#name> "Manuscript getiteld \"Oom Piet zijn militaire levensloop\"" .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#description> "Manuscript getiteld \"Oom Piet zijn militaire levensloop\".\r\nOp rijm gezet verhaal van Oom Piets (korporaal P.G.M. Vorster) militaire loopbaan (2e helft 19e eeuw).\r\nVermoedelijk geschreven voor kind (Antjo?).\r\n\r\nBetreffende de inhoud van deze rijmelarij:\r\nG" .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#inscription> "Oom Piet zijn Militaire Levensloop" .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#creator> "Piet G.M. Vorster" .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5bb6c803b5122e6b4972a93ecab98e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5bb6c803b5122e6b4972a93ecab98e2d> <https://colonialcollections.nl/schema#identifier> "IB2017/05-3" .
 <https://n2t.net/ark:/27023/5bb6c803b5122e6b4972a93ecab98e2d> <https://colonialcollections.nl/schema#name> "Steile Zuidkust" .
@@ -21,6 +46,13 @@
 <https://n2t.net/ark:/27023/5bb6c803b5122e6b4972a93ecab98e2d> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/5bb6c803b5122e6b4972a93ecab98e2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bb6c803b5122e6b4972a93ecab98e2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#identifier> "nf%20744b" .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#name> "'Bali'" .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#description> "Film op kunststof spoel in rechthoekige kunststof doos met opschrift 'Bali, een film opgenomen door Dr. H.R. Sinia'" .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#creator> "H.(Hiddo) R. Sinia" .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5bbdde4a51a3979c4866077788fc6d49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5bbdde4a51a3979c4866077788fc6d49> <https://colonialcollections.nl/schema#identifier> "nf%20842-24" .
 <https://n2t.net/ark:/27023/5bbdde4a51a3979c4866077788fc6d49> <https://colonialcollections.nl/schema#name> "Groep Javanen, (vermoedelijk) omgeving Yogyakarta" .
@@ -42,6 +74,13 @@
 <https://n2t.net/ark:/27023/5bd02041cb41438fbd02f466917f972a> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/5bd02041cb41438fbd02f466917f972a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bd02041cb41438fbd02f466917f972a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#identifier> "1983/07/18-1-1" .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue winter (Australische aanmaak) Korporaal VK-KNIL" .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#description> "Uniformjas winter van wollen stof korporaal VK-KNIL met op de kraagpunten een geel gekleuurde langwerpige metalen zeshoek (rangonderscheidingsteken van korporaal). Op beide schoudernaden een geweven schouderlint van gele zijde op kaki met in een rand de t" .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#creator> "Wardrop of Melbourne" .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5bd60b211f4a8cac0a740337bfbbda8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5bd60b211f4a8cac0a740337bfbbda8e> <https://colonialcollections.nl/schema#identifier> "1997/02/05-1-1/3" .
 <https://n2t.net/ark:/27023/5bd60b211f4a8cac0a740337bfbbda8e> <https://colonialcollections.nl/schema#name> "Foto / familiefoto" .
@@ -63,6 +102,13 @@
 <https://n2t.net/ark:/27023/5bf2bf273ae7242f062483498c6c6767> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5bf2bf273ae7242f062483498c6c6767> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5bf2bf273ae7242f062483498c6c6767> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/142" .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#name> "Wonosobo (Java) Kali Serajoe" .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Wonosobo (Java) Kali Serajoe" .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#creator> "P. Izeboud" .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5beecb77337025e0917106f41a028f5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5beecb77337025e0917106f41a028f5e> <https://colonialcollections.nl/schema#identifier> "nf%201918-36" .
 <https://n2t.net/ark:/27023/5beecb77337025e0917106f41a028f5e> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Batavia - Noordwijk '30' - H. ten Hoo???\r\n\r\nOpnames tonen een weg, een wandelpad langs een kanaal. Op die weg ín de verte  voetgangers. Vooraan," .
@@ -89,27 +135,6 @@
 <https://n2t.net/ark:/27023/5be4f85815f479f47bb1049e3d6ee677> <https://colonialcollections.nl/schema#inscription> "YZENHOUWER" .
 <https://n2t.net/ark:/27023/5be4f85815f479f47bb1049e3d6ee677> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5be4f85815f479f47bb1049e3d6ee677> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/2" .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#name> "Stafkaart Nederlands Indië, Meester Cornelis" .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#description> "Stafkaart Nederlands Indië; Java & Madura, Meester Cornelis. schaal 1 : 50.000\r\nMiddenboven: ´Meester Cornelis´\r\nSheet 37/XXXVII-C\r\nKaart is gereproduceerd door IIO Map Production Coy R.E. en gedrukt in Oktober 1945 door Survey Production Centre, South Ea" .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#inscription> "Meester Cornelis" .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5bd9584f9f5cb767536fd81cb9c86398> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#identifier> "1885/09-1-38" .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#name> "Prent vaneen buste van waarschijnlijk Anna Paulowna, echtgenote van koning Willem II, koningin der Nederlanden (1840-1849) ?" .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#description> "Prent. Buste in steen, van een vrouw: Anna Paulowna, echtgenote van koning Willem II, koningin der Nederlanden (1840-1849)?.\r\n\"Gegr. door H.W.Couwenberg,\" & \"naar de buste van L.Roijer.\" & \"Gedrukt door J.F. Brugman.\" & reliefstempel: \"Maatsch. tot bev. v" .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#inscription> "naar de buste van L.Roijer; Maatsch. tot bev. van beeldkunsten" .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5bfddf8e5e2510328da17ee40cf1e8b9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#identifier> "1998/11/27-2" .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#name> "Manuscript getiteld \"Oom Piet zijn militaire levensloop\"" .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#description> "Manuscript getiteld \"Oom Piet zijn militaire levensloop\".\r\nOp rijm gezet verhaal van Oom Piets (korporaal P.G.M. Vorster) militaire loopbaan (2e helft 19e eeuw).\r\nVermoedelijk geschreven voor kind (Antjo?).\r\n\r\nBetreffende de inhoud van deze rijmelarij:\r\nG" .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#inscription> "Oom Piet zijn Militaire Levensloop" .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c0dd35c97667376d05e0a28756fa18e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5bb5dda247d3d170f7b566c62d800ebd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5bb5dda247d3d170f7b566c62d800ebd> <https://colonialcollections.nl/schema#identifier> "2016/03/21-1-9" .
 <https://n2t.net/ark:/27023/5bb5dda247d3d170f7b566c62d800ebd> <https://colonialcollections.nl/schema#name> "‘Op reis met Oom Nippon’" .
@@ -511,24 +536,6 @@
 <https://n2t.net/ark:/27023/5c0e4abd486b24106b9c61cad978a50f> <https://colonialcollections.nl/schema#description> "Fotoalbumblad, met foto's, zwart-wit. Totaal 13 albumbladen m.b.t. KNIL-west, Suriname, jaren ´30 twintigste eeuw. (inv.nrs 1999/03/29-2-4/1 t/m 1999/03/29-2-4/13)." .
 <https://n2t.net/ark:/27023/5c0e4abd486b24106b9c61cad978a50f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5c0e4abd486b24106b9c61cad978a50f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#identifier> "nf%20744b" .
-<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#name> "'Bali'" .
-<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#description> "Film op kunststof spoel in rechthoekige kunststof doos met opschrift 'Bali, een film opgenomen door Dr. H.R. Sinia'" .
-<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5bba099ef4afe4a34f7f1b1d6276f810> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#identifier> "1983/07/18-1-1" .
-<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue winter (Australische aanmaak) Korporaal VK-KNIL" .
-<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#description> "Uniformjas winter van wollen stof korporaal VK-KNIL met op de kraagpunten een geel gekleuurde langwerpige metalen zeshoek (rangonderscheidingsteken van korporaal). Op beide schoudernaden een geweven schouderlint van gele zijde op kaki met in een rand de t" .
-<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5bd56d10a092639c6bcd9fbadb99a5b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/142" .
-<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#name> "Wonosobo (Java) Kali Serajoe" .
-<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Wonosobo (Java) Kali Serajoe" .
-<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5c0082d4f2144a52b839052cbe7baecc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5bb5a3f7be2602f67a9715bbeb38db76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5bb5a3f7be2602f67a9715bbeb38db76> <https://colonialcollections.nl/schema#identifier> "S%20230-169" .
 <https://n2t.net/ark:/27023/5bb5a3f7be2602f67a9715bbeb38db76> <https://colonialcollections.nl/schema#description> "Bruingele waterkruik van aardewerk.\r\nHerkomst: Pasoeroean." .

@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-8" .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#name> "12. Maleiers uit Midden Sumatra" .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n12. Maleiers uit Midden Sumatra" .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#inscription> "12. Maleiers uit Midden Sumatra" .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#identifier> "1998/00-547" .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#name> "Wakizashi, Japan" .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#description> "land en volkenkunde:\"lemmet draak figuur ingegraveerd\r\nstootplaat met goud verfraait\r\nhandvat stenen ingelegd met paars draad samengebonden schede zwart gelakt met insecten motieven van verguld materiaal beugel aan de schede met goud versierd.\"\r\n\r\n2000/01" .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#inscription> "\"Aoki Terunoshin Motonaga Bunsei Kunen Aki Kichi Jitsu\"\r\nop kojiri: \"Ikkosai Atsuoki\"" .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#creator> "Aoki Terunoshin Motonaga" .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <https://colonialcollections.nl/schema#identifier> "nf%201763-3" .
 <https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <https://colonialcollections.nl/schema#name> "Manokwari - Papoea huis" .
@@ -5,6 +21,7 @@
 <https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/54d015d9ceb8c4cb9205e94a52d12b1d> <https://colonialcollections.nl/schema#creator> "Handel Maatschappij Ledderhof, Manokwari, Nieuw Guinea" .
 <https://n2t.net/ark:/27023/54dde9c5722f1089fca152aca29b0d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54dde9c5722f1089fca152aca29b0d2d> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-2" .
 <https://n2t.net/ark:/27023/54dde9c5722f1089fca152aca29b0d2d> <https://colonialcollections.nl/schema#name> "In het ruim van de Tacoma Maru oktober 1942" .
@@ -12,6 +29,13 @@
 <https://n2t.net/ark:/27023/54dde9c5722f1089fca152aca29b0d2d> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/54dde9c5722f1089fca152aca29b0d2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54dde9c5722f1089fca152aca29b0d2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/123" .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#name> "Poera Sangsit, Bali" .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Poera Sangsit, Bali" .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/54f9216075102c42e3f0263dc7706817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54f9216075102c42e3f0263dc7706817> <https://colonialcollections.nl/schema#identifier> "nf%20446" .
 <https://n2t.net/ark:/27023/54f9216075102c42e3f0263dc7706817> <https://colonialcollections.nl/schema#name> "'Inlandsch groepje'" .
@@ -33,6 +57,13 @@
 <https://n2t.net/ark:/27023/54ffceabeb1f715f71db06bd373691eb> <https://colonialcollections.nl/schema#creator> "M.F.C. Seiker" .
 <https://n2t.net/ark:/27023/54ffceabeb1f715f71db06bd373691eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54ffceabeb1f715f71db06bd373691eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#identifier> "2011/05/19-5-1" .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#name> "Veldbureau, Verenigde Staten 1942" .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#description> "Veldbureau. Gemaakt in de Verenigde Staten in 1942, door United States Trunk Co.Inc. Gebruikt door Tjibbe Albert Haasdijk, 4e compagnie AAT in de periode 1945-1949.\r\nGemaakt van metaal, met houten binnenzijde. Buitenzijde is zwart geverfd. \"Stock No. 26.0" .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#creator> "United States Trunk  Company Incorporation" .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/54cae05976edf9eb74b1f362fbd8c0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54cae05976edf9eb74b1f362fbd8c0b4> <https://colonialcollections.nl/schema#identifier> "nf%201431-27" .
 <https://n2t.net/ark:/27023/54cae05976edf9eb74b1f362fbd8c0b4> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOpname toont een brug, volgens de literatuur geheel uit bamboe vervaardigd, door Javanen bij Tjimahi (Cimahi).\r\n\r\nN.B.: Waar mogelijk is de exacte geografische herk" .
@@ -57,20 +88,6 @@
 <https://n2t.net/ark:/27023/54f1074bd451402cf2d7d41607139ee5> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/54f1074bd451402cf2d7d41607139ee5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54f1074bd451402cf2d7d41607139ee5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-8" .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#name> "12. Maleiers uit Midden Sumatra" .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n12. Maleiers uit Midden Sumatra" .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#inscription> "12. Maleiers uit Midden Sumatra" .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/54e4d0f8557f0f0e39b9356a407e911f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#identifier> "1998/00-547" .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#name> "Wakizashi, Japan" .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#description> "land en volkenkunde:\"lemmet draak figuur ingegraveerd\r\nstootplaat met goud verfraait\r\nhandvat stenen ingelegd met paars draad samengebonden schede zwart gelakt met insecten motieven van verguld materiaal beugel aan de schede met goud versierd.\"\r\n\r\n2000/01" .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#inscription> "\"Aoki Terunoshin Motonaga Bunsei Kunen Aki Kichi Jitsu\"\r\nop kojiri: \"Ikkosai Atsuoki\"" .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/54f09b7434e59abe66f5dec617c6dfe3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/54c3d1d1876ad495ff6245a1551975d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54c3d1d1876ad495ff6245a1551975d8> <https://colonialcollections.nl/schema#identifier> "1872/07-1-2" .
 <https://n2t.net/ark:/27023/54c3d1d1876ad495ff6245a1551975d8> <https://colonialcollections.nl/schema#name> "Mandau met schede/kapmes" .
@@ -526,18 +543,6 @@
 <https://n2t.net/ark:/27023/55092a983d8beb56d1e795e10b716797> <https://colonialcollections.nl/schema#description> "Voorschrift voor het dragen van het Ereteken voor Orde en Vrede en voor het dragen van de baton.\r\nKopie" .
 <https://n2t.net/ark:/27023/55092a983d8beb56d1e795e10b716797> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/55092a983d8beb56d1e795e10b716797> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/123" .
-<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#name> "Poera Sangsit, Bali" .
-<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Poera Sangsit, Bali" .
-<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/54f7bf00e8b0de7cf1cb6f6a20357d37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#identifier> "2011/05/19-5-1" .
-<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#name> "Veldbureau, Verenigde Staten 1942" .
-<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#description> "Veldbureau. Gemaakt in de Verenigde Staten in 1942, door United States Trunk Co.Inc. Gebruikt door Tjibbe Albert Haasdijk, 4e compagnie AAT in de periode 1945-1949.\r\nGemaakt van metaal, met houten binnenzijde. Buitenzijde is zwart geverfd. \"Stock No. 26.0" .
-<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5505b408aad25366a04b3001c30316b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/54c36a461b0a6f05f9a6bfb2ad278f18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/54c36a461b0a6f05f9a6bfb2ad278f18> <https://colonialcollections.nl/schema#identifier> "nf%20896-29" .
 <https://n2t.net/ark:/27023/54c36a461b0a6f05f9a6bfb2ad278f18> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen achterin fotoalbum EDO 174, zonder tekst op achterkant.\r\n\r\nDe opname toont een blanke vrouw, poserend met een aapje op haar arm.\r\nZij staat voor een gebouw waarvan de wanden gemaakt zijn van plat" .

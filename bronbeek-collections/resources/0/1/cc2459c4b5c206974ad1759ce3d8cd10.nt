@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/30" .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Fabrieken B.P.M." .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balikpapan (Borneo) Fabrieken B.P.M." .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#inscription> "De parafine fabriek, waar ik ben, doch deze is nu geheel en veel meer uitgebreidt. Deze kiek is genomen vanaf die zigzag weg, dus je kan je nu voorstellen dat de fabriek dichtbij is. Nu nogmaals aan alle de hartelijke groeten en zelf ook mijn hartelijke groeten en wel te ruste Daag Jan" .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#creator> "Rob. Hennemann & Co." .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b31006003e2f855e8282d495b867ead3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b31006003e2f855e8282d495b867ead3> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-137" .
 <https://n2t.net/ark:/27023/b31006003e2f855e8282d495b867ead3> <https://colonialcollections.nl/schema#name> "Platte pet dagelijks diensttenue agent Korps Gewapende Politie/Korps Politie Suriname" .
@@ -9,9 +17,17 @@
 <https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#identifier> "nf%201408-81" .
 <https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#name> "Tandjong-Morawa; Koeliehuizen" .
 <https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#description> "afbeelding toont een lange rechte onverharde weg, omzoomd door hoge kokospalmen. Duidelijk zichtbaar zijn links gebouwen die blijkbaar woningen zijn voor koelies, in dit geval huizen voor de contractarbeiders.\r\n\r\nDeze afbeelding komt voor op plaat 20.\r\n\r\n" .
-<https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b3120b3cc34ca84b1623f356d20fe534> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-33" .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#name> "Meer Nederlandse versterkingen arriveren" .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#description> "Meer Nederlandse versterkingen arriveren. 1 maart 1949." .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b31fce9092cc87996d72b57f725b3fe5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b31fce9092cc87996d72b57f725b3fe5> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-29" .
 <https://n2t.net/ark:/27023/b31fce9092cc87996d72b57f725b3fe5> <https://colonialcollections.nl/schema#name> "Het uithakken van het talud" .
@@ -37,10 +53,11 @@
 <https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#identifier> "IB2005/01-1" .
 <https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#name> "Één doel - één wil!  De bevrijding van onze Rijksgenooten in Indie  Meldt u als Oorlogsvrijwilliger" .
 <https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#description> "Affiche. Één doel - één wil!  De bevrijding van onze Rijksgenooten in Indie  Meldt u als Oorlogsvrijwilliger" .
-<https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#creator> "Rijksvoorlichtingsdienst" .
+<https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#creator> "James Haworth & Brother Ltd." .
 <https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#creator> "James Haworth & Brother Ltd." .
+<https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#creator> "Henrion" .
+<https://n2t.net/ark:/27023/b3443f2381a05547604a08d4690d0669> <https://colonialcollections.nl/schema#creator> "Rijksvoorlichtingsdienst" .
 <https://n2t.net/ark:/27023/b30f7ac1383db9eb22559805123623be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b30f7ac1383db9eb22559805123623be> <https://colonialcollections.nl/schema#identifier> "nf%20926-28-3" .
 <https://n2t.net/ark:/27023/b30f7ac1383db9eb22559805123623be> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname, buiten in de tuin, van mevrouw D.J.J. van den Berg- Ronnenbergh en haar zoontje Jelle, bij een oude motorfiets van het merk Douglas, met nummerbord AD-151. Deze motorfiets staat op een standaard.\r\n\r\nVergelijk me" .
@@ -90,13 +107,6 @@
 <https://n2t.net/ark:/27023/b31b489de4e0a37cd8295a477ee1539c> <https://colonialcollections.nl/schema#inscription> "25 jarig regeeringsjubileum van Koningin Wilhelmina; Revue van pleiziervaartuigen op het u den 7 september 1923 bij gelegenheid van het 75-jarig bestaan der Koninkl. Nederlandsche Zeil en Roeivereniging" .
 <https://n2t.net/ark:/27023/b31b489de4e0a37cd8295a477ee1539c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b31b489de4e0a37cd8295a477ee1539c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/30" .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Fabrieken B.P.M." .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balikpapan (Borneo) Fabrieken B.P.M." .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#inscription> "De parafine fabriek, waar ik ben, doch deze is nu geheel en veel meer uitgebreidt. Deze kiek is genomen vanaf die zigzag weg, dus je kan je nu voorstellen dat de fabriek dichtbij is. Nu nogmaals aan alle de hartelijke groeten en zelf ook mijn hartelijke groeten en wel te ruste Daag Jan" .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b314d3a0a6d0bc415682ed889f8da635> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b30519b8bd0a98735d7a6a514fa0b35b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b30519b8bd0a98735d7a6a514fa0b35b> <https://colonialcollections.nl/schema#identifier> "2015/09/03-3-16" .
 <https://n2t.net/ark:/27023/b30519b8bd0a98735d7a6a514fa0b35b> <https://colonialcollections.nl/schema#name> "Correspondentie NIOD" .
@@ -541,12 +551,6 @@
 <https://n2t.net/ark:/27023/b349df03e4b6877faa668d0ddd6ad973> <https://colonialcollections.nl/schema#description> "Foto. 35 jaar ML-KNIL (1949) sportwedstrijden op Andir en in de stad Bandoeng.\r\n5.9.1. Sport/ML-KNIL.\r\n\"Van mevrouw Welter-Piso.\"" .
 <https://n2t.net/ark:/27023/b349df03e4b6877faa668d0ddd6ad973> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b349df03e4b6877faa668d0ddd6ad973> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-33" .
-<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#name> "Meer Nederlandse versterkingen arriveren" .
-<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#description> "Meer Nederlandse versterkingen arriveren. 1 maart 1949." .
-<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b31cde289eba7ea37617776bfd4be705> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b30cd439eec5312898b423c58f35d2fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b30cd439eec5312898b423c58f35d2fe> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42007" .
 <https://n2t.net/ark:/27023/b30cd439eec5312898b423c58f35d2fe> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tharnas\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thuid\r\nEmailadres: toelichting:\tHarnas ter bescherming van het bovenlichaam, gemaakt van dierenhuid. Onder aan de rand zit een band van kanvas met darop kaurischelp" .

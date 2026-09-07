@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-4" .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#name> "Djember, Gladag Gembar" .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#inscription> "Djember Gladag Gembar" .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/44" .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#name> "Gevolg van de vorsten van Kloenkoeng en Bangli in de pasanggrahan te Gianjar voor het ondertekenen van een overeenkomst met het Nederlandse gouvernement" .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nGevolg van de vorsten van Kloenkoeng en Bangli in de pasanggrahan te Gianjar voor het ondertekenen van een overeenkomst met het Nederlandse gouvernement." .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0b0b4591f3fab544a253bcc399ca4cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0b0b4591f3fab544a253bcc399ca4cb2> <https://colonialcollections.nl/schema#identifier> "2002/07/29-4-1" .
 <https://n2t.net/ark:/27023/0b0b4591f3fab544a253bcc399ca4cb2> <https://colonialcollections.nl/schema#name> "Ereteken voor Orde & Vrede met de jaargespen 1948 & 1949" .
@@ -13,6 +29,27 @@
 <https://n2t.net/ark:/27023/0b2066b4cec40d5a4daed09d07f03609> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/0b2066b4cec40d5a4daed09d07f03609> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0b2066b4cec40d5a4daed09d07f03609> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#identifier> "1971/08/17-1-3" .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#name> "Atjeh-officieren" .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit. Carte de Cabinet. \"A.Helm, Atjeh\"\r\nGroepje Atjeh-officieren, links 1e Lt. Kerkkamp.\r\nPortret van 4 officieren: 3 x 1e Luitenants en 1 x Kapitein zittend aan een tafel." .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#creator> "A. Helm Photograaf Atjeh" .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/37" .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#name> "Combé bei Paramaribo, Suriname" .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, ongebruikt. \"Combé bei Paramaribo, Suriname\"." .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#creator> "Missionsbuchhandlung Herrnhut" .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#identifier> "2006/00-42-739/10" .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#name> "De 1e Luitanant-adjudant C.F. Hazenberg ontplooit het vaandel. Viering 40 jarig bestaan \"Korps Koloniale Reserve\", 15 april 1931." .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#description> "Foto op karton, deel van een serie van 39 foto's. Viering 40 jarig bestaan \"Korps Koloniale Reserve\". 15 april 1931.\r\nDe 1e Luitanant-adjudant C.F. Hazenberg ontplooit het vaandel." .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#creator> "N.V. \"Foto-, Projectie- en Kino-handel CAPI\"" .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0b097cfc8e6a7631f2804b212fe3bc84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0b097cfc8e6a7631f2804b212fe3bc84> <https://colonialcollections.nl/schema#identifier> "nf%20929-39-1" .
 <https://n2t.net/ark:/27023/0b097cfc8e6a7631f2804b212fe3bc84> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, half opgeplakt, zonder bijschrift.\r\n\r\nBuitenopname, een zgn. kiekje, van een groep mensen. Erg kleine foto die weinig details toont.\r\n\r\nGezien de andere foto's op dit fotoblad en vergeleken met foto's op fotoblad 3" .
@@ -87,20 +124,6 @@
 <https://n2t.net/ark:/27023/0b16c486b1be5fb0d8e10380d6b16608> <https://colonialcollections.nl/schema#inscription> "Het welkom op Tangerang 19 maart 1943, 11. 30 's avonds; Tangerang bewoond; Schetsje van onze zaal te Tangerang voor paps van Hans 18 x 6 (85 personen)" .
 <https://n2t.net/ark:/27023/0b16c486b1be5fb0d8e10380d6b16608> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0b16c486b1be5fb0d8e10380d6b16608> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-4" .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#name> "Djember, Gladag Gembar" .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Iin zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#inscription> "Djember Gladag Gembar" .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0b43a7d2e7ec6a1cd5334f9ba5092bb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/44" .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#name> "Gevolg van de vorsten van Kloenkoeng en Bangli in de pasanggrahan te Gianjar voor het ondertekenen van een overeenkomst met het Nederlandse gouvernement" .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nGevolg van de vorsten van Kloenkoeng en Bangli in de pasanggrahan te Gianjar voor het ondertekenen van een overeenkomst met het Nederlandse gouvernement." .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0b4e0e120358c189b27444eed774700b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0b09fddb9c8aff5f4c3ccf99fe60402e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0b09fddb9c8aff5f4c3ccf99fe60402e> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/151" .
 <https://n2t.net/ark:/27023/0b09fddb9c8aff5f4c3ccf99fe60402e> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -533,24 +556,6 @@
 <https://n2t.net/ark:/27023/0b55f7f32fb33d83c764d592f816c705> <https://colonialcollections.nl/schema#description> "uniformjas, groen , tropen van korps mariniers" .
 <https://n2t.net/ark:/27023/0b55f7f32fb33d83c764d592f816c705> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0b55f7f32fb33d83c764d592f816c705> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#identifier> "1971/08/17-1-3" .
-<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#name> "Atjeh-officieren" .
-<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit. Carte de Cabinet. \"A.Helm, Atjeh\"\r\nGroepje Atjeh-officieren, links 1e Lt. Kerkkamp.\r\nPortret van 4 officieren: 3 x 1e Luitenants en 1 x Kapitein zittend aan een tafel." .
-<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0b21004d3a580e8a768add14386acd46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/37" .
-<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#name> "Combé bei Paramaribo, Suriname" .
-<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, ongebruikt. \"Combé bei Paramaribo, Suriname\"." .
-<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0b4aab1f2e73bf06297f2a625382d225> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#identifier> "2006/00-42-739/10" .
-<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#name> "De 1e Luitanant-adjudant C.F. Hazenberg ontplooit het vaandel. Viering 40 jarig bestaan \"Korps Koloniale Reserve\", 15 april 1931." .
-<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#description> "Foto op karton, deel van een serie van 39 foto's. Viering 40 jarig bestaan \"Korps Koloniale Reserve\". 15 april 1931.\r\nDe 1e Luitanant-adjudant C.F. Hazenberg ontplooit het vaandel." .
-<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0b51183eb88958e1e42c69ea0e841823> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0b1041c1d19f537de1a4f917011e9c32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0b1041c1d19f537de1a4f917011e9c32> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42626" .
 <https://n2t.net/ark:/27023/0b1041c1d19f537de1a4f917011e9c32> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tknots\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout\r\n\tgesneden\r\nAfmetingen:\tL 62.5, Diam 12\r\nMedia:\tR.2002-154\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[3159] Depot, 37," .

@@ -20,6 +20,13 @@
 <https://n2t.net/ark:/27023/8f58d6482186c56954932265addcff27> <https://colonialcollections.nl/schema#creator> "J.B. Bieshaar & Zoon, Den Haag" .
 <https://n2t.net/ark:/27023/8f58d6482186c56954932265addcff27> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f58d6482186c56954932265addcff27> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/9" .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f672a3866a40126c1a24f6972c12033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f672a3866a40126c1a24f6972c12033> <https://colonialcollections.nl/schema#identifier> "2014/01/23-6-1" .
 <https://n2t.net/ark:/27023/8f672a3866a40126c1a24f6972c12033> <https://colonialcollections.nl/schema#name> "Commandant landingstroepen op Bali" .
@@ -27,6 +34,13 @@
 <https://n2t.net/ark:/27023/8f672a3866a40126c1a24f6972c12033> <https://colonialcollections.nl/schema#creator> "Foto-Persbureau Stevens" .
 <https://n2t.net/ark:/27023/8f672a3866a40126c1a24f6972c12033> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f672a3866a40126c1a24f6972c12033> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/4" .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek:  Vijver voor de Commandantswoning met de leeuwtjes naast de waterstort" .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Vijver voor de Commandantswoning met de leeuwtjes naast de waterstort." .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f74e9ae0eca76153290497725cde7f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f74e9ae0eca76153290497725cde7f3> <https://colonialcollections.nl/schema#identifier> "2010/10/06-3/2" .
 <https://n2t.net/ark:/27023/8f74e9ae0eca76153290497725cde7f3> <https://colonialcollections.nl/schema#name> "Foto, een van 22 stuks, carte de visite, interieurs en groepsfoto's" .
@@ -34,13 +48,28 @@
 <https://n2t.net/ark:/27023/8f74e9ae0eca76153290497725cde7f3> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/8f74e9ae0eca76153290497725cde7f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f74e9ae0eca76153290497725cde7f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#identifier> "2017/10/25-1/1" .
+<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië" .
+<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#creator> "S. Kanner & Co." .
+<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/7" .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#creator> "Saffie-Tjokrobasworo & Co." .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#identifier> "S%206245-40" .
 <https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#name> "Het maken van perijoeks [potten, om in te koken]" .
 <https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Het maken van perijoeks [potten, om in te koken].\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks" .
-<https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/8f7dafda3bbaf1ef8953479be198fc70> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8f531af8b94687ee8afeb510b9ebe8bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f531af8b94687ee8afeb510b9ebe8bb> <https://colonialcollections.nl/schema#identifier> "nf%20111" .
 <https://n2t.net/ark:/27023/8f531af8b94687ee8afeb510b9ebe8bb> <https://colonialcollections.nl/schema#description> "Opname toont een inheemse man, vermoedelijk papoea met kettingen om zijn nek en versieringen in het haar.\r\nDe halsketting bestaat voornamelijk uit klauwen en/of tanden van dieren." .
@@ -534,29 +563,6 @@
 <https://n2t.net/ark:/27023/8f92795cd1b340ca4f34488bc143ba50> <https://colonialcollections.nl/schema#description> "Foto Nederlands Nieuw-Guinea (totaal 89)." .
 <https://n2t.net/ark:/27023/8f92795cd1b340ca4f34488bc143ba50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f92795cd1b340ca4f34488bc143ba50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/9" .
-<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f62e9ae8c34b2e1335731bb958209a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/4" .
-<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek:  Vijver voor de Commandantswoning met de leeuwtjes naast de waterstort" .
-<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Vijver voor de Commandantswoning met de leeuwtjes naast de waterstort." .
-<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f67e8f0d2c1dff9b3fbfd5113878b99> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#identifier> "2017/10/25-1/1" .
-<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië" .
-<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f771c8ad0de27deac4bf47210e23507> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/7" .
-<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
-<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
-<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f77d1f4e912ec1b6e22126870df74d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f65a7943fc80d21de328394275e4ad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f65a7943fc80d21de328394275e4ad5> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41525" .
 <https://n2t.net/ark:/27023/8f65a7943fc80d21de328394275e4ad5> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tarmband\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tglas\r\n\r\nEmailadres: toelichting:\tGeel, wit, groen glazen armband.\r\nAfmetingen:\tGeheel: 8,2 x 0,9 cm\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2059\r\nBruikleen van:\tGemeente Nijmegen\r\ncolle" .

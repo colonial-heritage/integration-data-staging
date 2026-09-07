@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#identifier> "2000/07/10-2-7" .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#name> "Groepsportret militairen" .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#description> "Fotocopie in kleur op A4 formaat.\r\nGroepsportret, zittende soldaat in het midden." .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#inscription> "Gah Hien, photograaf Semarang" .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28f0621019b428471333f73a952201cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28f0621019b428471333f73a952201cb> <https://colonialcollections.nl/schema#identifier> "2018/06/11-1-4/3" .
 <https://n2t.net/ark:/27023/28f0621019b428471333f73a952201cb> <https://colonialcollections.nl/schema#name> "Foto familie Van Delden" .
@@ -12,6 +20,14 @@
 <https://n2t.net/ark:/27023/28f2fc1e696ac360f414425a4faca631> <https://colonialcollections.nl/schema#creator> "Luitenant B.J. Claasen" .
 <https://n2t.net/ark:/27023/28f2fc1e696ac360f414425a4faca631> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28f2fc1e696ac360f414425a4faca631> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#identifier> "nf%20937-12" .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#name> "De Kloof van Harau" .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#creator> "Winkel Mij. v/hn P. Baumer & Co. (Padang)" .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
 <https://n2t.net/ark:/27023/28f65506aed318d7342e07b9764c3e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28f65506aed318d7342e07b9764c3e72> <https://colonialcollections.nl/schema#identifier> "nf%20619-29" .
 <https://n2t.net/ark:/27023/28f65506aed318d7342e07b9764c3e72> <https://colonialcollections.nl/schema#name> "Het paleis van de Gouverneur Generaal te Buitenzorg, gezien uit de Plantentuin" .
@@ -33,6 +49,27 @@
 <https://n2t.net/ark:/27023/290b247fe095b3b304c3008691fbbd9f> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/290b247fe095b3b304c3008691fbbd9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/290b247fe095b3b304c3008691fbbd9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/337" .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Landschap Karo - Hoogvlakte.\"\r\nUitgave van Deli Courant." .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-209/1" .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#name> "Detachement Maros, Celebes, 1933" .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#description> "Foto op passepartout. In blauwe pen: \"Detachement \"Maros\", Celebes. Sterkte 3 Brigades, 1933.\r\nVan linksaf: Sergeant Pais, Sergeant Menick, Sergeant Vernooijs, Luitenant van Mastricht, Fourier Rus, Sergeant Stagril, Sergeant Makno. In het midden schuin bo" .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#creator> "Yau Sie Heng Makassar" .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/16" .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#name> "Colditz, groep Nederlandse  officieren" .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#description> "Foto. Op achterzijde in potlood: \"Groep Nederlandse officieren te Colditz.\" \"31/3/42\".\r\nGestempeld: \"Moritz und Johannes Lange, Photographenmeister\".\r\nGestempeld: \"Oflag IV C 6 geprüft.\"" .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/292c9ec6bb75420ec7db33f137d59a21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/292c9ec6bb75420ec7db33f137d59a21> <https://colonialcollections.nl/schema#identifier> "2006/08/13-2-1" .
 <https://n2t.net/ark:/27023/292c9ec6bb75420ec7db33f137d59a21> <https://colonialcollections.nl/schema#name> "Map, cadeau in Kamp Struijswijk, 1944" .
@@ -47,6 +84,13 @@
 <https://n2t.net/ark:/27023/2934f3a3f815d7da363d4c03114c1274> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
 <https://n2t.net/ark:/27023/2934f3a3f815d7da363d4c03114c1274> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2934f3a3f815d7da363d4c03114c1274> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#identifier> "1975/09/20-1-2" .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#name> "Gedrukte plaat van \"W\"-Brigade met emblemen van onderdelen, door W.Westernis" .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#description> "Gedrukte, gekleurde plaat van de \"W\"-brigade, waarop de emblemen van alle onderdelen. Ongedateerd, door W. Westernis. 24 x 31 cm, dunzacht karton. Enige scheurtjes en ezelsoren. Ingelijst door kunsthandel J.Jolink te Arnhem op 22 september 1975." .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#creator> "W. Westernis" .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/29004761527d0fab99a7b7a5e957501e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/29004761527d0fab99a7b7a5e957501e> <https://colonialcollections.nl/schema#identifier> "nf%20842-611" .
 <https://n2t.net/ark:/27023/29004761527d0fab99a7b7a5e957501e> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BE 01 t/m 36. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BE, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BE 36, in potlood EG 18.\r" .
@@ -79,13 +123,6 @@
 <https://n2t.net/ark:/27023/29378b0abc8dbf695c18149ccd0702ad> <https://colonialcollections.nl/schema#inscription> "British made" .
 <https://n2t.net/ark:/27023/29378b0abc8dbf695c18149ccd0702ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/29378b0abc8dbf695c18149ccd0702ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#identifier> "2000/07/10-2-7" .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#name> "Groepsportret militairen" .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#description> "Fotocopie in kleur op A4 formaat.\r\nGroepsportret, zittende soldaat in het midden." .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#inscription> "Gah Hien, photograaf Semarang" .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28f3907605268028749eeb9cc31a189f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28ebda73d8a0c6020412e2ed181591aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28ebda73d8a0c6020412e2ed181591aa> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-74" .
 <https://n2t.net/ark:/27023/28ebda73d8a0c6020412e2ed181591aa> <https://colonialcollections.nl/schema#name> "Foto haven (b-pier)" .
@@ -529,36 +566,6 @@
 <https://n2t.net/ark:/27023/293bacdb2ab40b1af66e5242f4fa778f> <https://colonialcollections.nl/schema#description> "Bankbiljet met nominale waarde van tweëenhalf/dua setengah (2,5) rupiah, uitgegeven op 1 januari 1948 door Gubernur Sumatera van de Republik Indonesia, propinsi Sumatera. Het biljet is gemerkt 146970 + AE Lp." .
 <https://n2t.net/ark:/27023/293bacdb2ab40b1af66e5242f4fa778f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/293bacdb2ab40b1af66e5242f4fa778f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#identifier> "nf%20937-12" .
-<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#name> "De Kloof van Harau" .
-<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, met opgedrukte tekst.\r\n\r\nTitel/beschrijving van de foto midden onder aangegeven. \r\nGegevens over de uitgever links onder als: 'Uitgave: Winkel Mij. v/hn P.Baumer & Co., Padang'.\r\nGegevens over de fotograaf rechts, direct onde" .
-<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28f393b9a8d5041550fd2fb2769c662f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/337" .
-<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Landschap Karo - Hoogvlakte.\"\r\nUitgave van Deli Courant." .
-<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2915be667026513eea16d8b845f1674d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-209/1" .
-<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#name> "Detachement Maros, Celebes, 1933" .
-<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#description> "Foto op passepartout. In blauwe pen: \"Detachement \"Maros\", Celebes. Sterkte 3 Brigades, 1933.\r\nVan linksaf: Sergeant Pais, Sergeant Menick, Sergeant Vernooijs, Luitenant van Mastricht, Fourier Rus, Sergeant Stagril, Sergeant Makno. In het midden schuin bo" .
-<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/291e01ff6a255ee545b5d2c739c53fda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/16" .
-<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#name> "Colditz, groep Nederlandse  officieren" .
-<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#description> "Foto. Op achterzijde in potlood: \"Groep Nederlandse officieren te Colditz.\" \"31/3/42\".\r\nGestempeld: \"Moritz und Johannes Lange, Photographenmeister\".\r\nGestempeld: \"Oflag IV C 6 geprüft.\"" .
-<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/291eedecc45a1df9c9f021907e4cb6ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#identifier> "1975/09/20-1-2" .
-<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#name> "Gedrukte plaat van \"W\"-Brigade met emblemen van onderdelen, door W.Westernis" .
-<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#description> "Gedrukte, gekleurde plaat van de \"W\"-brigade, waarop de emblemen van alle onderdelen. Ongedateerd, door W. Westernis. 24 x 31 cm, dunzacht karton. Enige scheurtjes en ezelsoren. Ingelijst door kunsthandel J.Jolink te Arnhem op 22 september 1975." .
-<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/29375b538694074de686e85cbcd55ce0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28f52e711d82eee633a12b901f97a5f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28f52e711d82eee633a12b901f97a5f7> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43692" .
 <https://n2t.net/ark:/27023/28f52e711d82eee633a12b901f97a5f7> <https://colonialcollections.nl/schema#description> "Kanonnetje met houten wagentje" .

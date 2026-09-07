@@ -2,9 +2,17 @@
 <https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/24" .
 <https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
 <https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart kleuren druk. Briefkaart. Onbeschreven. Java. Javaansche prins. Solo.  G.C.T. van Dorp & Co., Semarang-Cheribon." .
-<https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#creator> "J. van der Heijden" .
 <https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e5a76501c6fd1ddf129b01585c15427f> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#identifier> "1986/01/21-5" .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#name> "Buitenzorg botanische tuin III" .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten. Buitenzorg botanische tuin III.\r\nUitgave van Tio Tek Hong, Weltevreden (Batavia)." .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e5a95dd991b9719cb88ad821a615c6a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e5a95dd991b9719cb88ad821a615c6a0> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/31" .
 <https://n2t.net/ark:/27023/e5a95dd991b9719cb88ad821a615c6a0> <https://colonialcollections.nl/schema#name> "NIWIN-kerstpaketten op weg naar de posten" .
@@ -26,6 +34,7 @@
 <https://n2t.net/ark:/27023/e5bb0c0edb2bb95055a0cf4751fabdcb> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/e5bb0c0edb2bb95055a0cf4751fabdcb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e5bb0c0edb2bb95055a0cf4751fabdcb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e5bb0c0edb2bb95055a0cf4751fabdcb> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/e5bb4104cebf872bf3f29b161f40e9a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e5bb4104cebf872bf3f29b161f40e9a1> <https://colonialcollections.nl/schema#identifier> "2003/02/12-1/5" .
 <https://n2t.net/ark:/27023/e5bb4104cebf872bf3f29b161f40e9a1> <https://colonialcollections.nl/schema#name> "Nr. 7 \"Officieren 1e Brigade\", uit ´Dertig gezichten op Atjeh´" .
@@ -540,12 +549,6 @@
 <https://n2t.net/ark:/27023/e5e0ba92a0d2e4a26a2819b71ac2b8f3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, totaal 348 stuks, van diensttijd van R.J. Mulder bij 43 Zelfstandige Mitrailleur Compagnie (43 ZMC)  in Nederlands-Indië 1949-1950:\r\nnatuurfoto's, foto's van voornamelijk Nederlandse militairen, foto's van havens, sportdagen etc. in de pe" .
 <https://n2t.net/ark:/27023/e5e0ba92a0d2e4a26a2819b71ac2b8f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e5e0ba92a0d2e4a26a2819b71ac2b8f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#identifier> "1986/01/21-5" .
-<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#name> "Buitenzorg botanische tuin III" .
-<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten. Buitenzorg botanische tuin III.\r\nUitgave van Tio Tek Hong, Weltevreden (Batavia)." .
-<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e5a8300fc852e7cf68a064be0c2380b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e5a0c1e7d67144ef8278c30216a4574b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e5a0c1e7d67144ef8278c30216a4574b> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41897" .
 <https://n2t.net/ark:/27023/e5a0c1e7d67144ef8278c30216a4574b> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\twerplans\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tijzer\r\ntoelichting:\tWerplans met ijzeren punt.\r\nAfmetingen:\tGeheel: 162,1 cm\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2430\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:" .

@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/a32d5c2ee5670f36f148b97e13eceea2> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/a32d5c2ee5670f36f148b97e13eceea2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a32d5c2ee5670f36f148b97e13eceea2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#identifier> "1996/03/22-1/14" .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#name> "88. Soerabaia. Instituut Zusters Ursulinnen." .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. '88. Soerabaia. Instituut Zusters Ursulinnen.'\r\nOp achterzijde gedrukt: \"Briefkaart uit Nederlandsch-Indië. [  ] Algemeene Postvereeniging [  ]\"" .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#inscription> "Soerabaia. Instituut Zusters Ursulinnen." .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#creator> "E. Fuhri & Co." .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a32bba0388a1152bc8dec155204fcc2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a32bba0388a1152bc8dec155204fcc2b> <https://colonialcollections.nl/schema#identifier> "IB2017/06-1" .
 <https://n2t.net/ark:/27023/a32bba0388a1152bc8dec155204fcc2b> <https://colonialcollections.nl/schema#name> "Portret van gouverneur-generaal Frederik s'Jacob (1822-1901)" .
@@ -13,6 +21,13 @@
 <https://n2t.net/ark:/27023/a32bba0388a1152bc8dec155204fcc2b> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/a32bba0388a1152bc8dec155204fcc2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a32bba0388a1152bc8dec155204fcc2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/1" .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met Koningin Juliana en de organisator van de" .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#creator> "Nationaal Foto Persbureau" .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a35939d41316ac911f2523a1cacbbc9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a35939d41316ac911f2523a1cacbbc9c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/17" .
 <https://n2t.net/ark:/27023/a35939d41316ac911f2523a1cacbbc9c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -20,6 +35,20 @@
 <https://n2t.net/ark:/27023/a35939d41316ac911f2523a1cacbbc9c> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/a35939d41316ac911f2523a1cacbbc9c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a35939d41316ac911f2523a1cacbbc9c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#identifier> "1991/08/01-2-6" .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#name> "Groepsfoto militairen" .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#description> "Foto, zw./w. Op passepartout (20,9 x 26,7). 10 (jonge) Europese militaren met helmhoeden en 1 (oudere) onderofficier. \r\nRechter zittende militair met blauwe balpen aangekruist op foto." .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#creator> "Malangs Fotografisch Atelier" .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#identifier> "1997/00-1/159" .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Batavia in vier bladen" .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Batavia in vier bladen, in papieren kaft. Schaal 1: 100.000; Uitg.: Topografische Inrichting, ´s Gravenhage, 1882-1883, herziene druk 1897; opgenomen in de jaren 1869-1879." .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a3652ddc0a1ce737ce737bd043727003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a3652ddc0a1ce737ce737bd043727003> <https://colonialcollections.nl/schema#identifier> "1977/03-1-54" .
 <https://n2t.net/ark:/27023/a3652ddc0a1ce737ce737bd043727003> <https://colonialcollections.nl/schema#name> "De Mega Mendoeng" .
@@ -27,6 +56,13 @@
 <https://n2t.net/ark:/27023/a3652ddc0a1ce737ce737bd043727003> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/a3652ddc0a1ce737ce737bd043727003> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a3652ddc0a1ce737ce737bd043727003> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/154" .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Kranslegging bij monument." .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a368a7855a15dd5e7574aea632f34d6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a368a7855a15dd5e7574aea632f34d6d> <https://colonialcollections.nl/schema#identifier> "1874/08-2/22" .
 <https://n2t.net/ark:/27023/a368a7855a15dd5e7574aea632f34d6d> <https://colonialcollections.nl/schema#name> "Nr. 22: Groep van officieren van gezondheid in de ambulance, uit ´Vierendertig gezichten op Atjeh´" .
@@ -34,6 +70,13 @@
 <https://n2t.net/ark:/27023/a368a7855a15dd5e7574aea632f34d6d> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/a368a7855a15dd5e7574aea632f34d6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a368a7855a15dd5e7574aea632f34d6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#identifier> "IB1998/10/22-1" .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#name> "Twee Bronbekers, geschilderd door Jans Koster (1895-1944)" .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#description> "Schilderij in lijst. Olieverf op doek. Afgebeeld zijn 2 Bronbekers, Een zittend in groen werkpak en kwartiermuts, naast hem een Bronbeker in tenue met kepie en 4 medailles gebogen over een kaart van Rusland.\r\nIn lijst heeft de afmetingen  van 63 x 84 cm, " .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#creator> "Jans Koster" .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a3238103a6800b0b10b0278ad97e2ccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a3238103a6800b0b10b0278ad97e2ccc> <https://colonialcollections.nl/schema#identifier> "nf%201573-1" .
 <https://n2t.net/ark:/27023/a3238103a6800b0b10b0278ad97e2ccc> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt een titel 'Gedenkteken dr. Plesman'.\r\n\r\nOpname toont een monument, hoog, slank, hoekig, met bovenin een drietal vogels, waarschijnlijk verwijzend naar de " .
@@ -94,13 +137,6 @@
 <https://n2t.net/ark:/27023/a35762792e10d990cb196feea2d7a047> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a35762792e10d990cb196feea2d7a047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a35762792e10d990cb196feea2d7a047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#identifier> "1996/03/22-1/14" .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#name> "88. Soerabaia. Instituut Zusters Ursulinnen." .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. '88. Soerabaia. Instituut Zusters Ursulinnen.'\r\nOp achterzijde gedrukt: \"Briefkaart uit Nederlandsch-Indië. [  ] Algemeene Postvereeniging [  ]\"" .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#inscription> "Soerabaia. Instituut Zusters Ursulinnen." .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a34e129679613ceb6fdee3d978ff444b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a323c9e2440d043970b935582c7c7c74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a323c9e2440d043970b935582c7c7c74> <https://colonialcollections.nl/schema#identifier> "2013/02/22-1/61" .
 <https://n2t.net/ark:/27023/a323c9e2440d043970b935582c7c7c74> <https://colonialcollections.nl/schema#name> "Doos met 80 diapositieven Nederlands Nieuw Guinea, 1950-1960" .
@@ -479,36 +515,6 @@
 <https://n2t.net/ark:/27023/a36dc82bfabe412f34df11dded23ea1a> <https://colonialcollections.nl/schema#description> "Blik met glazen stopfles Spiritus Dilutus (leeg)" .
 <https://n2t.net/ark:/27023/a36dc82bfabe412f34df11dded23ea1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a36dc82bfabe412f34df11dded23ea1a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/1" .
-<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met Koningin Juliana en de organisator van de" .
-<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a34651b46ae5991cc324aacbf38a040c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#identifier> "1991/08/01-2-6" .
-<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#name> "Groepsfoto militairen" .
-<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#description> "Foto, zw./w. Op passepartout (20,9 x 26,7). 10 (jonge) Europese militaren met helmhoeden en 1 (oudere) onderofficier. \r\nRechter zittende militair met blauwe balpen aangekruist op foto." .
-<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a35fca45bdd190da32dd02b70765beb6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#identifier> "1997/00-1/159" .
-<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Batavia in vier bladen" .
-<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Batavia in vier bladen, in papieren kaft. Schaal 1: 100.000; Uitg.: Topografische Inrichting, ´s Gravenhage, 1882-1883, herziene druk 1897; opgenomen in de jaren 1869-1879." .
-<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a3601e1b55e52adc7ce7b4eecc5a97d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/154" .
-<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Kranslegging bij monument." .
-<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a3662f2a8436a2411b28da77358b6f0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#identifier> "IB1998/10/22-1" .
-<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#name> "Twee Bronbekers, geschilderd door Jans Koster (1895-1944)" .
-<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#description> "Schilderij in lijst. Olieverf op doek. Afgebeeld zijn 2 Bronbekers, Een zittend in groen werkpak en kwartiermuts, naast hem een Bronbeker in tenue met kepie en 4 medailles gebogen over een kaart van Rusland.\r\nIn lijst heeft de afmetingen  van 63 x 84 cm, " .
-<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a36ec065f2a1f95caf924cde64f0f9c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a32502b9e554b920a16c0c7ab190b77c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a32502b9e554b920a16c0c7ab190b77c> <https://colonialcollections.nl/schema#identifier> "S%20230-1252" .
 <https://n2t.net/ark:/27023/a32502b9e554b920a16c0c7ab190b77c> <https://colonialcollections.nl/schema#description> "Herkomst: Bankalan, eiland Madoera." .

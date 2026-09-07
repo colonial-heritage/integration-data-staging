@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/5" .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja, dansvoorstelling" .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja, Dans. 8 april 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepartou" .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#creator> "R.B. Prawiro Kaswardjo" .
 <https://n2t.net/ark:/27023/cb8c4e859a490ba689ebd01d2680a371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb8c4e859a490ba689ebd01d2680a371> <https://colonialcollections.nl/schema#identifier> "nf%20619-28" .
 <https://n2t.net/ark:/27023/cb8c4e859a490ba689ebd01d2680a371> <https://colonialcollections.nl/schema#name> "Controleurs woning te Long Iram" .
@@ -5,6 +14,13 @@
 <https://n2t.net/ark:/27023/cb8c4e859a490ba689ebd01d2680a371> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cb8c4e859a490ba689ebd01d2680a371> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cb8c4e859a490ba689ebd01d2680a371> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#identifier> "1998/04/22-1-8/2" .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#name> "Foto \"portret van inlandse vrouw\"" .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#description> "Fotoportret van inlandse vrouw. Foto gemaakt door Cephas Photo." .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#creator> "Cephas Photo" .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb990fba481574d351e2483ceeb9f173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb990fba481574d351e2483ceeb9f173> <https://colonialcollections.nl/schema#identifier> "nf%20254" .
 <https://n2t.net/ark:/27023/cb990fba481574d351e2483ceeb9f173> <https://colonialcollections.nl/schema#name> "Soerabaja, de Roode Brug" .
@@ -19,6 +35,27 @@
 <https://n2t.net/ark:/27023/cb9a2b13da62ff0d7d89b96259879a8f> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/cb9a2b13da62ff0d7d89b96259879a8f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cb9a2b13da62ff0d7d89b96259879a8f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-12" .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#name> "Boek \"Josephine Siebe, Het Teddy-boek\"" .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#description> "Boek \"Josephine Siebe, Het Teddy-boek\"." .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#creator> "Mw. Josephine Siebe" .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#identifier> "235542" .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#name> "Viool zelfgemaakt in Japanse krijgsgevangenschap" .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#description> "Viool zelfgemaakt in Japanse krijgsgevangenschap. Gemaakt door kapitein L.H. Reinders. Kapitein Reinders maakte de viool in Changi uit een medicijnkist, een tafelpoot, een plank hardhout, stukjes van een doedelzak, gesloopt lichtdraad. lijnolie en schoens" .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#creator> "reserve kapitein KNIL Leonard Hermannes Reinders" .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-85-4" .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#name> "Platte pet wit ambtskostuum districtscommissaris Suriname" .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#description> "Platte pet gemaakt door Bancroft. Kunststof binnenwerk en kunststof staande rand in model vlechtwerk riet. Vallende klep met zwart laken bekleed en langs de rand een in gouddraad geborduurde kartelrand. Een zwarte plastic stormriem met twee goudkleurige b" .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#creator> "Bancroft" .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cbc5866ab4f976a913d183e3ecdaf0d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cbc5866ab4f976a913d183e3ecdaf0d6> <https://colonialcollections.nl/schema#identifier> "nf%201366-2" .
 <https://n2t.net/ark:/27023/cbc5866ab4f976a913d183e3ecdaf0d6> <https://colonialcollections.nl/schema#name> "Speeluurtje van Miep en Frans" .
@@ -27,6 +64,13 @@
 <https://n2t.net/ark:/27023/cbc5866ab4f976a913d183e3ecdaf0d6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cbc5866ab4f976a913d183e3ecdaf0d6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cbc5866ab4f976a913d183e3ecdaf0d6> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#identifier> "2014/12/07-4-3" .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#name> "Kwartiermuts voor een  Korporaal Netherlands Marines" .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#description> "Kwartiermuts, Amerikaanse aanmaak(?) in kaki. Het embleem ontbreekt. Hoort bij uitrusting van Korporaal der Mariniers Eelke Visser." .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#creator> "College Hall fashions" .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cbcf332eb29845ccb8175a0a26b7d862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cbcf332eb29845ccb8175a0a26b7d862> <https://colonialcollections.nl/schema#identifier> "1874/08-2/12" .
 <https://n2t.net/ark:/27023/cbcf332eb29845ccb8175a0a26b7d862> <https://colonialcollections.nl/schema#name> "Nr. 12: Sawah-vlakte. Gevechtsterrein van 12 Januarij 1874, uit ´Vierendertig gezichten op Atjeh´" .
@@ -88,13 +132,6 @@
 <https://n2t.net/ark:/27023/cbbd40567ab4e1b6872733faa7a3b4c1> <https://colonialcollections.nl/schema#inscription> "st-inf XIII/19" .
 <https://n2t.net/ark:/27023/cbbd40567ab4e1b6872733faa7a3b4c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cbbd40567ab4e1b6872733faa7a3b4c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/5" .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja, dansvoorstelling" .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja, Dans. 8 april 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepartou" .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cb97da8af867ec389d52b9be169bdbc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb8d1e1c945b0725c889295e358abd0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb8d1e1c945b0725c889295e358abd0c> <https://colonialcollections.nl/schema#identifier> "1998/04/28-1-7" .
 <https://n2t.net/ark:/27023/cb8d1e1c945b0725c889295e358abd0c> <https://colonialcollections.nl/schema#name> "Gauze, plain, Bauer & Black USA" .
@@ -515,36 +552,6 @@
 <https://n2t.net/ark:/27023/cbd22fe54b928fefc667a0211643cb86> <https://colonialcollections.nl/schema#description> "Medaille, aan lint. Ereteken voor Belangrijke Krijgsverrichtingen met gesp Atjeh 1873-1880" .
 <https://n2t.net/ark:/27023/cbd22fe54b928fefc667a0211643cb86> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cbd22fe54b928fefc667a0211643cb86> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#identifier> "1998/04/22-1-8/2" .
-<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#name> "Foto \"portret van inlandse vrouw\"" .
-<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#description> "Fotoportret van inlandse vrouw. Foto gemaakt door Cephas Photo." .
-<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cb91e0c95148ccc8f90dbb3b86d5a14a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-12" .
-<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#name> "Boek \"Josephine Siebe, Het Teddy-boek\"" .
-<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#description> "Boek \"Josephine Siebe, Het Teddy-boek\"." .
-<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cba242f520047253dab3e41954ac8b12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#identifier> "235542" .
-<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#name> "Viool zelfgemaakt in Japanse krijgsgevangenschap" .
-<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#description> "Viool zelfgemaakt in Japanse krijgsgevangenschap. Gemaakt door kapitein L.H. Reinders. Kapitein Reinders maakte de viool in Changi uit een medicijnkist, een tafelpoot, een plank hardhout, stukjes van een doedelzak, gesloopt lichtdraad. lijnolie en schoens" .
-<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cba7d30a641a33fd4bf53ed96f1e6242> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-85-4" .
-<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#name> "Platte pet wit ambtskostuum districtscommissaris Suriname" .
-<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#description> "Platte pet gemaakt door Bancroft. Kunststof binnenwerk en kunststof staande rand in model vlechtwerk riet. Vallende klep met zwart laken bekleed en langs de rand een in gouddraad geborduurde kartelrand. Een zwarte plastic stormriem met twee goudkleurige b" .
-<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cbb6987b32e8c180eb473c1c4e1e97b0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#identifier> "2014/12/07-4-3" .
-<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#name> "Kwartiermuts voor een  Korporaal Netherlands Marines" .
-<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#description> "Kwartiermuts, Amerikaanse aanmaak(?) in kaki. Het embleem ontbreekt. Hoort bij uitrusting van Korporaal der Mariniers Eelke Visser." .
-<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cbc90052884c1a1088831ac782a06a15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cb8eba6b98c62a3853e2a8675c31ed48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cb8eba6b98c62a3853e2a8675c31ed48> <https://colonialcollections.nl/schema#identifier> "nf%201353-24-3" .
 <https://n2t.net/ark:/27023/cb8eba6b98c62a3853e2a8675c31ed48> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nDeze bijna portretopname toont een oudere Batak vrouw, met typisch gevouwen hoofddoek en erbij horende sieraden." .

@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/140" .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#name> "Huis der Teba Bataks." .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#description> "Foto. Ongetoonde druk.\r\nIdentiek aan plaat 111. Huis der Teba Bataks." .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#inscription> "Huis der Teba Bataks." .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#identifier> "1964/03/07-1-2/2" .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#name> "portret van kapitein der infanterie G.G.J.Notten, oud commandant Koloniale Reserve, eerste commandant van het Korps Marechaussee van Atjeh en Onderhorigheden" .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#description> "Foto. Carte de visite. Portret in borststuk, G.G.J. Notten als kapitein, met EBK en ?[kraton-medaille]." .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#inscription> "H.W. Wollrabe, hofphotograaf van Z.M. den Koning en van H.M. de Koningin der Nederlanden en Z.K.H. Alexander Prins v. Oranje 96 Noordeinde 96 's Gravenhage. Portretten tot in levensgrootte. Photographiën van Gebouwen en Schilderijen. Onvergankelijke vergrootingen naar elk Portret. Voor nabestellingen wordt de origineel plaat bewaard. [  ] & Münch Berlin.\"" .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4150bd855a38a18a10164290bd5873f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4150bd855a38a18a10164290bd5873f> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/135" .
 <https://n2t.net/ark:/27023/c4150bd855a38a18a10164290bd5873f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -19,14 +35,28 @@
 <https://n2t.net/ark:/27023/c418926b316a367a29b7b7e0b450d87c> <https://colonialcollections.nl/schema#creator> "A. Voordouw" .
 <https://n2t.net/ark:/27023/c418926b316a367a29b7b7e0b450d87c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c418926b316a367a29b7b7e0b450d87c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#identifier> "2010/07/16-1-6" .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#name> "Groepsportret van Officieren KNIL met echtgenotes en kinderen" .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#description> "Foto op karton. Passepartout is bijgeknipt. Op achterzijde gestempeld: \"Thio [  ] photographer\".\r\nGroepsportret van officieren KNIL met echtgenotes en kinderen. Voor een veranda." .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#creator> "Fotografisch Atelier \"Thio Piek\", Buitenzorg." .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#identifier> "nf%201522-9" .
 <https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#name> "Groet uit Sabang" .
 <https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nOp achterkant geen gescheiden belijning, dus van vóór 1906. Verder de gebruikelijke tekst voor briefkaart gedrukt, zoals Briefkaart en carte postale, etc.\r\n\r\nOp voorkant onder de afbeelding tekst:" .
-<https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
+<https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/c4574ebc0cc09ba9e36c053a8496c72e> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-7" .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#name> "Foto aanleg werkelozendorp te Bandoeng voor Nederlandse werkelozen" .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#description> "Foto, zw./w.  Afm. 22,5 x 15,5 cm. In goede staat." .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#creator> "Platé Ltd" .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c45950db557e71951de247125a90ccd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c45950db557e71951de247125a90ccd5> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/34" .
 <https://n2t.net/ark:/27023/c45950db557e71951de247125a90ccd5> <https://colonialcollections.nl/schema#name> "Twee bewoners Bronbeek, zittend aan tafel en piano op de achtergrond" .
@@ -47,6 +77,12 @@
 <https://n2t.net/ark:/27023/c42111fd58cc37ee243e807a1a8ab94a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c42111fd58cc37ee243e807a1a8ab94a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c42111fd58cc37ee243e807a1a8ab94a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#identifier> "nf%20323-6-1" .
+<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het hooggebergte van Roeteng op een afstand van 20 K. M. Opgenomen van de hoogte van Tjobal, uitzicht naar het Zuiden. Tele-opname. Op den voorgrond de weg die zigzag loopt.'" .
+<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c450a52294bc7359a3fb69f09c47a53a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c450a52294bc7359a3fb69f09c47a53a> <https://colonialcollections.nl/schema#identifier> "nf%20646-2" .
 <https://n2t.net/ark:/27023/c450a52294bc7359a3fb69f09c47a53a> <https://colonialcollections.nl/schema#description> "Groep Indonesische vrouwen in traditionele kleding en met bloemen in hun haar" .
@@ -109,20 +145,6 @@
 <https://n2t.net/ark:/27023/c456ee1e39932cda3bbaf85d82c9a0c9> <https://colonialcollections.nl/schema#inscription> "Voor Trouwe Dienst" .
 <https://n2t.net/ark:/27023/c456ee1e39932cda3bbaf85d82c9a0c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c456ee1e39932cda3bbaf85d82c9a0c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/140" .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#name> "Huis der Teba Bataks." .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#description> "Foto. Ongetoonde druk.\r\nIdentiek aan plaat 111. Huis der Teba Bataks." .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#inscription> "Huis der Teba Bataks." .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4185097e601b29200da1092245dc7a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#identifier> "1964/03/07-1-2/2" .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#name> "portret van kapitein der infanterie G.G.J.Notten, oud commandant Koloniale Reserve, eerste commandant van het Korps Marechaussee van Atjeh en Onderhorigheden" .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#description> "Foto. Carte de visite. Portret in borststuk, G.G.J. Notten als kapitein, met EBK en ?[kraton-medaille]." .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#inscription> "H.W. Wollrabe, hofphotograaf van Z.M. den Koning en van H.M. de Koningin der Nederlanden en Z.K.H. Alexander Prins v. Oranje 96 Noordeinde 96 's Gravenhage. Portretten tot in levensgrootte. Photographiën van Gebouwen en Schilderijen. Onvergankelijke vergrootingen naar elk Portret. Voor nabestellingen wordt de origineel plaat bewaard. [  ] & Münch Berlin.\"" .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c443fb64ee61410b63f526c644276b8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c413a5642de3ba42225725969ffc9a26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c413a5642de3ba42225725969ffc9a26> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-10/53" .
 <https://n2t.net/ark:/27023/c413a5642de3ba42225725969ffc9a26> <https://colonialcollections.nl/schema#name> "Foto z/w Nederlands-Indië circa 1930-1940, o.a. Manokwari, Magelang, Djokja, Priok, Bandoeng en Batavia" .
@@ -579,18 +601,6 @@
 <https://n2t.net/ark:/27023/c45d5e98b2ae0eed72d4736c9b1e182a> <https://colonialcollections.nl/schema#description> "Foto zwart-wit uit diensttijd korporaal OVW A.C. van Eerd, Nederlands-Indië bij 3de Compagnie 1ste Bataljon 8ste Regiment Infanterie (3-1-8 RI)." .
 <https://n2t.net/ark:/27023/c45d5e98b2ae0eed72d4736c9b1e182a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c45d5e98b2ae0eed72d4736c9b1e182a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#identifier> "2010/07/16-1-6" .
-<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#name> "Groepsportret van Officieren KNIL met echtgenotes en kinderen" .
-<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#description> "Foto op karton. Passepartout is bijgeknipt. Op achterzijde gestempeld: \"Thio [  ] photographer\".\r\nGroepsportret van officieren KNIL met echtgenotes en kinderen. Voor een veranda." .
-<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c43fb5ddb72e12eba3e03448607aa049> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-7" .
-<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#name> "Foto aanleg werkelozendorp te Bandoeng voor Nederlandse werkelozen" .
-<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#description> "Foto, zw./w.  Afm. 22,5 x 15,5 cm. In goede staat." .
-<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4587daa87a5dfdf83bc76fe32e18e9b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4215108e4c7580c26dea2c3f1bd4930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4215108e4c7580c26dea2c3f1bd4930> <https://colonialcollections.nl/schema#identifier> "nf%20682-24-2" .
 <https://n2t.net/ark:/27023/c4215108e4c7580c26dea2c3f1bd4930> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, (zo goed als) vierkant, opgeplakt.\r\n\r\nOnder foto een getypt nummer: '94'\r\n\r\nOpname toont een (zo goed als) vierkante batikdoek, bevestigd/gelegd op een witte ondergrond.\r\nHet betreft hier een batikpatroon." .
@@ -606,8 +616,3 @@
 <https://n2t.net/ark:/27023/c4577e6d8c1590286a0726829e60f683> <https://colonialcollections.nl/schema#description> "Foto van het landschap bij Bandoeng.\r\n\r\nOp de achterkant staat in potlood geschreven; 'Bij Bandoeng'" .
 <https://n2t.net/ark:/27023/c4577e6d8c1590286a0726829e60f683> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c4577e6d8c1590286a0726829e60f683> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#identifier> "nf%20323-6-1" .
-<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het hooggebergte van Roeteng op een afstand van 20 K. M. Opgenomen van de hoogte van Tjobal, uitzicht naar het Zuiden. Tele-opname. Op den voorgrond de weg die zigzag loopt.'" .
-<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c43f68649870fd4dac8c25ac9e192994> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/80" .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#name> "Plaat 80. Veldhospitaal te Lawé Sagoe" .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 80. Veldhospitaal te Lawé Sagoe. (plaat 18 in publicatie Kempees)" .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#inscription> "Plaat 80. Veldhospitaal te Lawé Sagoe" .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#identifier> "1997/00-1/273" .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#name> "Plattegrond kampement Lahat, Sumatra" .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#description> "Manuscript, Plattegrond kampement Lahat, Sumatra.\r\nSchaal 1: 500, datum 6-2-1950; Uitg. Plaatselijke Geniedienst Lahat, nr. 40.02.199; waterleiding. Getekend door J. Vermazeren. Collectie A.J.N. Horstmeier." .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#creator> "J. Vermazeren" .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#identifier> "nf%20701-9" .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#name> "Het Waterkasteel te Djocjakarta" .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#description> "De afbeelding toont het Waterkasteel, behorend bij de kraton van Yogyakarta\r\n\r\nbijschrift linksonder; 'Het Waterkasteel te Djocjakarta. the Waterpalace at Djocjakarta'\r\nbijschrift rechtsonder; 'Le Chateau d'eau à Djocjakarta. Das Wasserschloss zu Djocjaka" .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
 <https://n2t.net/ark:/27023/b8d41f447c7dcea70aca17d45c89cf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b8d41f447c7dcea70aca17d45c89cf3e> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-110" .
 <https://n2t.net/ark:/27023/b8d41f447c7dcea70aca17d45c89cf3e> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -12,6 +35,13 @@
 <https://n2t.net/ark:/27023/b8d9b6dcce900f856ca67c7af632edd6> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/b8d9b6dcce900f856ca67c7af632edd6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b8d9b6dcce900f856ca67c7af632edd6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#identifier> "1880/06-1" .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#name> "Portret van Hertog Karel van Saksen Weimar" .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#description> "Groot Hertog van Saxen-Weimar.\r\nHerkomst en beschrijving: Luitenant-Generaal, destijds geschilderd door Generaal-Majoor M.A. Kuitenbrouwer.\r\nDoor wien geschonken: In Juni 1880 door den heer M.A.A.J. van Neck kapitein 8e regt Infie te Doesburgh.\r\nAanmerkin" .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#creator> "Generaal-majoor M.A. Kuitenbrouwer" .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b8ee46c33f8783a22784d382864b2a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b8ee46c33f8783a22784d382864b2a98> <https://colonialcollections.nl/schema#identifier> "nf%201358-21-2" .
 <https://n2t.net/ark:/27023/b8ee46c33f8783a22784d382864b2a98> <https://colonialcollections.nl/schema#name> "De waterval" .
@@ -77,13 +107,6 @@
 <https://n2t.net/ark:/27023/b8e8762ac54b8de3d048d6ca31df765a> <https://colonialcollections.nl/schema#inscription> "Amerikaans courant vijf cents" .
 <https://n2t.net/ark:/27023/b8e8762ac54b8de3d048d6ca31df765a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b8e8762ac54b8de3d048d6ca31df765a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/80" .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#name> "Plaat 80. Veldhospitaal te Lawé Sagoe" .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 80. Veldhospitaal te Lawé Sagoe. (plaat 18 in publicatie Kempees)" .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#inscription> "Plaat 80. Veldhospitaal te Lawé Sagoe" .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b8e55c7118c3a80276cf818c7f1c46b5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b8a99adf85083fbe3f888d8a9afcce3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b8a99adf85083fbe3f888d8a9afcce3e> <https://colonialcollections.nl/schema#identifier> "2013/05/30-1-10/322" .
 <https://n2t.net/ark:/27023/b8a99adf85083fbe3f888d8a9afcce3e> <https://colonialcollections.nl/schema#name> "Foto z/w Nederlands-Indië circa 1930-1940, o.a. Manokwari, Magelang, Djokja, Priok, Bandoeng en Batavia" .
@@ -552,24 +575,6 @@
 <https://n2t.net/ark:/27023/b8f45ce50a9ef4ffb5094b1f55f7907f> <https://colonialcollections.nl/schema#description> "Boord, onderdeel van Gala-ambtskostuum Gouverneur Generaal J.B. van Heutsz. Voeringen versleten verder goede staat." .
 <https://n2t.net/ark:/27023/b8f45ce50a9ef4ffb5094b1f55f7907f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b8f45ce50a9ef4ffb5094b1f55f7907f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#identifier> "1997/00-1/273" .
-<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#name> "Plattegrond kampement Lahat, Sumatra" .
-<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#description> "Manuscript, Plattegrond kampement Lahat, Sumatra.\r\nSchaal 1: 500, datum 6-2-1950; Uitg. Plaatselijke Geniedienst Lahat, nr. 40.02.199; waterleiding. Getekend door J. Vermazeren. Collectie A.J.N. Horstmeier." .
-<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b8bdb04c350a84691f4642635917e965> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#identifier> "nf%20701-9" .
-<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#name> "Het Waterkasteel te Djocjakarta" .
-<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#description> "De afbeelding toont het Waterkasteel, behorend bij de kraton van Yogyakarta\r\n\r\nbijschrift linksonder; 'Het Waterkasteel te Djocjakarta. the Waterpalace at Djocjakarta'\r\nbijschrift rechtsonder; 'Le Chateau d'eau à Djocjakarta. Das Wasserschloss zu Djocjaka" .
-<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b8c52b47fe970153ca8de8cbbb642267> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#identifier> "1880/06-1" .
-<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#name> "Portret van Hertog Karel van Saksen Weimar" .
-<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#description> "Groot Hertog van Saxen-Weimar.\r\nHerkomst en beschrijving: Luitenant-Generaal, destijds geschilderd door Generaal-Majoor M.A. Kuitenbrouwer.\r\nDoor wien geschonken: In Juni 1880 door den heer M.A.A.J. van Neck kapitein 8e regt Infie te Doesburgh.\r\nAanmerkin" .
-<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b8dc84ee637a18e1ebe839dc92889ce1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b8b23d1ce7eb8f8dc891294bd3af997a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b8b23d1ce7eb8f8dc891294bd3af997a> <https://colonialcollections.nl/schema#identifier> "nf%201354-32-4" .
 <https://n2t.net/ark:/27023/b8b23d1ce7eb8f8dc891294bd3af997a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant in inkt geschreven tekst:'Ra-ra, waar is de pot-de-chambre!'\r\n\r\nOpname toont een zestal blanke personen, drie mannen en drie vrouwen, allen in lichte kleuren gekleed, op" .
@@ -585,16 +590,18 @@
 <https://n2t.net/ark:/27023/b8e51ef984e69405eafbbabe1f3a8813> <https://colonialcollections.nl/schema#description> "(sier)kris met schede" .
 <https://n2t.net/ark:/27023/b8e51ef984e69405eafbbabe1f3a8813> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b8e51ef984e69405eafbbabe1f3a8813> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#identifier> "1885/09-1-9/1" .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#name> "Portret van Prins Willem van Oranje" .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#creator> "P. Blommers" .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#creator> "C.C.A. Last" .
 <https://n2t.net/ark:/27023/b8ecc9618630e21d7107b249ba563a84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b8ecc9618630e21d7107b249ba563a84> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-167" .
 <https://n2t.net/ark:/27023/b8ecc9618630e21d7107b249ba563a84> <https://colonialcollections.nl/schema#name> "Kris" .
 <https://n2t.net/ark:/27023/b8ecc9618630e21d7107b249ba563a84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b8ecc9618630e21d7107b249ba563a84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#identifier> "1885/09-1-9/1" .
-<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#name> "Portret van Prins Willem van Oranje" .
-<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b8d1f8b452ef687bb4c404e9659758f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b8b8d1e1ea2acf212243be021dcec711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b8b8d1e1ea2acf212243be021dcec711> <https://colonialcollections.nl/schema#identifier> "X%205918" .
 <https://n2t.net/ark:/27023/b8b8d1e1ea2acf212243be021dcec711> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#identifier> "2006/00-52-6" .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#name> "Badende javaansche vrouwen. Orang mandi." .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Badende javaansche vrouwen. Orang mandi. Met Nederlandse vlag." .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#inscription> "Badende javaansche vrouwen. Orang mandi." .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#creator> "F.J.Rauch" .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#creator> "G. Degert" .
 <https://n2t.net/ark:/27023/3786161e8cb6fbce6889a304a97894c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3786161e8cb6fbce6889a304a97894c1> <https://colonialcollections.nl/schema#identifier> "nf%20789-41" .
 <https://n2t.net/ark:/27023/3786161e8cb6fbce6889a304a97894c1> <https://colonialcollections.nl/schema#name> "'s Lands Plantentuin, Buitenzorg" .
@@ -12,6 +21,7 @@
 <https://n2t.net/ark:/27023/37893421e1654774b304ebe7f2eb98c2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/37893421e1654774b304ebe7f2eb98c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37893421e1654774b304ebe7f2eb98c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37893421e1654774b304ebe7f2eb98c2> <https://colonialcollections.nl/schema#creator> "Stadtmuseum (München)" .
 <https://n2t.net/ark:/27023/379216d7cebff83f972056128cfb4837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/379216d7cebff83f972056128cfb4837> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/39" .
 <https://n2t.net/ark:/27023/379216d7cebff83f972056128cfb4837> <https://colonialcollections.nl/schema#name> "Bewoner Bronbeek zittend aan tafel" .
@@ -19,6 +29,20 @@
 <https://n2t.net/ark:/27023/379216d7cebff83f972056128cfb4837> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/379216d7cebff83f972056128cfb4837> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/379216d7cebff83f972056128cfb4837> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#identifier> "2006/00-42-67" .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#name> "Etenswaren op de Pasar baroe te Bandoeng" .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Etenswaren op de Pasar baroe te Bandoeng.\r\nRecto gedrukt: 187 Pasar baroe Bandoeng.\r\nVerso: stikker van fotograaf Kaldenbach." .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#creator> "Kaldenbach" .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/9" .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#name> "A.M.V.J. - Noordwijk - Batavia" .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met zwart-wit afbeelding van het gebouw van de A.M.V.J. in  Noordwijk - Batavia." .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#creator> "Vesta - Rotogravure De Unie" .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37b204080d773911cc0bf20ff1c31799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/37b204080d773911cc0bf20ff1c31799> <https://colonialcollections.nl/schema#identifier> "nf%20693-14" .
 <https://n2t.net/ark:/27023/37b204080d773911cc0bf20ff1c31799> <https://colonialcollections.nl/schema#name> "Vischvangst op het meer van Menidjan" .
@@ -109,13 +133,6 @@
 <https://n2t.net/ark:/27023/37b1197d7853fa609a23d849aafa8a49> <https://colonialcollections.nl/schema#inscription> "5. Gen. Tanabe. 'Confirming in writing the several statements he made.'Kamer: secretaris." .
 <https://n2t.net/ark:/27023/37b1197d7853fa609a23d849aafa8a49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37b1197d7853fa609a23d849aafa8a49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#identifier> "2006/00-52-6" .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#name> "Badende javaansche vrouwen. Orang mandi." .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Badende javaansche vrouwen. Orang mandi. Met Nederlandse vlag." .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#inscription> "Badende javaansche vrouwen. Orang mandi." .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37b1b2ef9e2c1122d76c392c86731f54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/376e872613c7f9852751edec80136fc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/376e872613c7f9852751edec80136fc4> <https://colonialcollections.nl/schema#identifier> "2003/09/15-1-17" .
 <https://n2t.net/ark:/27023/376e872613c7f9852751edec80136fc4> <https://colonialcollections.nl/schema#name> "Eervol ontslag KNIL: F.W.J.H. van Crasbeek, 8.9.1950" .
@@ -506,18 +523,6 @@
 <https://n2t.net/ark:/27023/37b377bdfa4389cc5ec96d38099e2a16> <https://colonialcollections.nl/schema#description> "Fotoalbum, groen. \"Indië I\", \"Vertrokken uit Den Haag 19/2/'40\". Over periode 1940-1949, van Gerrit Hendrik Schuppers (oud-inwoner Bronbeek)" .
 <https://n2t.net/ark:/27023/37b377bdfa4389cc5ec96d38099e2a16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37b377bdfa4389cc5ec96d38099e2a16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#identifier> "2006/00-42-67" .
-<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#name> "Etenswaren op de Pasar baroe te Bandoeng" .
-<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Etenswaren op de Pasar baroe te Bandoeng.\r\nRecto gedrukt: 187 Pasar baroe Bandoeng.\r\nVerso: stikker van fotograaf Kaldenbach." .
-<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/379a9886e1d76360bad587495f7a27ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#identifier> "1994/12/07-2-1/9" .
-<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#name> "A.M.V.J. - Noordwijk - Batavia" .
-<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met zwart-wit afbeelding van het gebouw van de A.M.V.J. in  Noordwijk - Batavia." .
-<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/37a0fef3c07085a15b6f74931a54eeef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/377d54e57daf383db707800be2890213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/377d54e57daf383db707800be2890213> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-93" .
 <https://n2t.net/ark:/27023/377d54e57daf383db707800be2890213> <https://colonialcollections.nl/schema#description> "Foto op karton." .

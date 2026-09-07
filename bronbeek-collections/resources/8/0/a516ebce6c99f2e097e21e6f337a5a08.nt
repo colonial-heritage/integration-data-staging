@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/8" .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#name> "Plaat 8 Gezicht op de vallei van Isaq" .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit.\r\nPlaat 8 Gezicht op de vallei van Isaq (plaat 4 in publicatie Kempees)" .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#inscription> "Plaat 8 Gezicht op de vallei van Isaq" .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/452886f8a8c45c6c9dadcad737249717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/452886f8a8c45c6c9dadcad737249717> <https://colonialcollections.nl/schema#identifier> "1983/06/16-1" .
 <https://n2t.net/ark:/27023/452886f8a8c45c6c9dadcad737249717> <https://colonialcollections.nl/schema#name> "Legpenning 9e Wapenfeest N.I.O.S. \"Ereprijs geweer\"" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/452886f8a8c45c6c9dadcad737249717> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/452886f8a8c45c6c9dadcad737249717> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/452886f8a8c45c6c9dadcad737249717> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-56" .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#name> "Carte de visite: Juffr. Tobias" .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Juffr. Tobias\"" .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#inscription> "Juffr. Tobias" .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#creator> "Firma S.Sallinger & Cie F.Raps" .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/45130826ca08455d6f2098523ee39391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/45130826ca08455d6f2098523ee39391> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/383" .
 <https://n2t.net/ark:/27023/45130826ca08455d6f2098523ee39391> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -20,6 +36,7 @@
 <https://n2t.net/ark:/27023/451fb2593ee2396ef10e127b5aa8fb60> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/451fb2593ee2396ef10e127b5aa8fb60> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/451fb2593ee2396ef10e127b5aa8fb60> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/451fb2593ee2396ef10e127b5aa8fb60> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/452bee61d35b081e8b99bc66fe3b73a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/452bee61d35b081e8b99bc66fe3b73a0> <https://colonialcollections.nl/schema#identifier> "1997/09/05-1-7" .
 <https://n2t.net/ark:/27023/452bee61d35b081e8b99bc66fe3b73a0> <https://colonialcollections.nl/schema#name> "Losse dia´s, zeven stuks, allerlei (Bronbeek-Indië)" .
@@ -27,6 +44,21 @@
 <https://n2t.net/ark:/27023/452bee61d35b081e8b99bc66fe3b73a0> <https://colonialcollections.nl/schema#creator> "Drs. D.W. Staat" .
 <https://n2t.net/ark:/27023/452bee61d35b081e8b99bc66fe3b73a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/452bee61d35b081e8b99bc66fe3b73a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/45" .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#creator> "P. Vlaanderen" .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#creator> "C. van der Aa" .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#identifier> "2015/12/03-1-1" .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#name> "Fotocamera, tropenuitvoering" .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#description> "Fotocamera, balg-type voor gebruik in de tropen. Gekocht van Ivens & Co, Nijmegen, Amsterdam. Groningen, Den Haag\" door Sergeant KNIL Gijsbert Beker. Met losse lens van de firma \"C.P.Goerz, Berlin D.R.P.\" In een koffer van blauw webbing, waarin ook 3 dubb" .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#creator> "Ivens & Co" .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/45127e73af15fe653937539dd9e2880e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/45127e73af15fe653937539dd9e2880e> <https://colonialcollections.nl/schema#identifier> "nf%201374-109" .
 <https://n2t.net/ark:/27023/45127e73af15fe653937539dd9e2880e> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname toont een klein gezelschap blanke personen, zittend in rieten stoelen buiten op een terras. Het zijn twee mannen, twee vrouwen en drie kinderen.\r\nOp het terras staat ook een tafeltje met een tafelkleedje " .
@@ -47,20 +79,6 @@
 <https://n2t.net/ark:/27023/453672c2661ad72343251546bd6f1893> <https://colonialcollections.nl/schema#inscription> "16" .
 <https://n2t.net/ark:/27023/453672c2661ad72343251546bd6f1893> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/453672c2661ad72343251546bd6f1893> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/8" .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#name> "Plaat 8 Gezicht op de vallei van Isaq" .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#description> "Foto. Zwart wit.\r\nPlaat 8 Gezicht op de vallei van Isaq (plaat 4 in publicatie Kempees)" .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#inscription> "Plaat 8 Gezicht op de vallei van Isaq" .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4510204ad084fad906e28f4367af2e4a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-56" .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#name> "Carte de visite: Juffr. Tobias" .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Juffr. Tobias\"" .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#inscription> "Juffr. Tobias" .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/45390ad06db265f6bda97e6b30cc03fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/450f85492b9b655960e6a2b9d47b480a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/450f85492b9b655960e6a2b9d47b480a> <https://colonialcollections.nl/schema#identifier> "2004/04/15-1-19" .
 <https://n2t.net/ark:/27023/450f85492b9b655960e6a2b9d47b480a> <https://colonialcollections.nl/schema#name> "Dolk zonder schede" .
@@ -541,18 +559,6 @@
 <https://n2t.net/ark:/27023/454f937c0c8d5217ccd88602bdd2e1e1> <https://colonialcollections.nl/schema#description> "Sloop, wit. Aan twee zijden open, afsluitbaar met rijgkoord. Sloop voor guling. Afm. 36 x 92 cm." .
 <https://n2t.net/ark:/27023/454f937c0c8d5217ccd88602bdd2e1e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/454f937c0c8d5217ccd88602bdd2e1e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/45" .
-<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/454d4504e5c9b25d581d9481c252ef84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#identifier> "2015/12/03-1-1" .
-<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#name> "Fotocamera, tropenuitvoering" .
-<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#description> "Fotocamera, balg-type voor gebruik in de tropen. Gekocht van Ivens & Co, Nijmegen, Amsterdam. Groningen, Den Haag\" door Sergeant KNIL Gijsbert Beker. Met losse lens van de firma \"C.P.Goerz, Berlin D.R.P.\" In een koffer van blauw webbing, waarin ook 3 dubb" .
-<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/454dca8c1f86909543a5f064c3352d34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/450d7a0707c11dd43e538efb1c2decef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/450d7a0707c11dd43e538efb1c2decef> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42634" .
 <https://n2t.net/ark:/27023/450d7a0707c11dd43e538efb1c2decef> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\twandelstok\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tbamboe\r\n\r\nEmailadres: toelichting:\twandelstok gemaakt uit een bamboestok met daaraan de wortel, deze wortel vormt het handvat.De hoofdwortel is naar beneden ge" .

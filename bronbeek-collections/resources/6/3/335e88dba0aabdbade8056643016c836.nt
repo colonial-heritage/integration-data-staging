@@ -6,6 +6,21 @@
 <https://n2t.net/ark:/27023/53175a19ba29372c0b7b2dc6089d817d> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/53175a19ba29372c0b7b2dc6089d817d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/53175a19ba29372c0b7b2dc6089d817d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/14" .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 14.\r\nAfgebeeld: Kapitein F.C.H. Gorissen 18 16/12 63\r\nZittend aan tafel. 3/4. e" .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#inscription> "Kapitein F.C.H. Gorissen 18 16/12 63" .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#creator> "Atelier de Photographie Schorteldoek Gorinchem" .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-22/10" .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#name> "Hotel Huize Hansje Sarangan" .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#description> "Foto. Hotel Huize Hansje Sarangan." .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#creator> "Photo \"Azia\", Madioen" .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5323f048d7e5a3375716aff8978c3194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5323f048d7e5a3375716aff8978c3194> <https://colonialcollections.nl/schema#identifier> "nf%201273" .
 <https://n2t.net/ark:/27023/5323f048d7e5a3375716aff8978c3194> <https://colonialcollections.nl/schema#name> "Een Minangkabause familie voor hun woning" .
@@ -13,6 +28,13 @@
 <https://n2t.net/ark:/27023/5323f048d7e5a3375716aff8978c3194> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5323f048d7e5a3375716aff8978c3194> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5323f048d7e5a3375716aff8978c3194> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#identifier> "1983/09/19-1-1" .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#name> "Rok grootkostuum assistent-resident Binnenlands Bestuur Nederlands-Indië M1919" .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#description> "Jas bestuursambtenaar Nederlands Indië. Zwart, gouddraad in de kraag en manchetten, verder alleen gouden knopen. In goede staat." .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#creator> "C.H. Ernens" .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5333abb61975e67cdee4f49cb624aa3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5333abb61975e67cdee4f49cb624aa3f> <https://colonialcollections.nl/schema#identifier> "1997/00-1/348" .
 <https://n2t.net/ark:/27023/5333abb61975e67cdee4f49cb624aa3f> <https://colonialcollections.nl/schema#name> "Kaart van Aïr Bangis, Sumatra" .
@@ -48,6 +70,7 @@
 <https://n2t.net/ark:/27023/5351edd4aec228f1afbe6fa39ee12adb> <https://colonialcollections.nl/schema#creator> "Luchtkuuroord Tengger" .
 <https://n2t.net/ark:/27023/5351edd4aec228f1afbe6fa39ee12adb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5351edd4aec228f1afbe6fa39ee12adb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5351edd4aec228f1afbe6fa39ee12adb> <https://colonialcollections.nl/schema#creator> "S. Bakker Jz., Koog-Zaandijk" .
 <https://n2t.net/ark:/27023/5319c605ba3dfd5acdfce27faa890c04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5319c605ba3dfd5acdfce27faa890c04> <https://colonialcollections.nl/schema#identifier> "nf%201897-3" .
 <https://n2t.net/ark:/27023/5319c605ba3dfd5acdfce27faa890c04> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, aangetroffen in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een groep mannen en jongens, poserend voor de foto. De locatie is buiten, tussen twee huizen in. Opvallend zijn de omslagdoeken.\r\n\r\nN.B.: Vermoedelijk zijn hier vier versc" .
@@ -88,13 +111,6 @@
 <https://n2t.net/ark:/27023/534618a266ed0a48b24178b688857ad4> <https://colonialcollections.nl/schema#inscription> "EAG - aanzichtskaarten \"Mooi Bali\" bestaande uit 16 seriën van 10 stuks Serie III. Kloengkoeng en Karangasem. ; Engros verkrijgbaar bij W.Gertis Soerabaya Baritostraat N.6" .
 <https://n2t.net/ark:/27023/534618a266ed0a48b24178b688857ad4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/534618a266ed0a48b24178b688857ad4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/14" .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 14.\r\nAfgebeeld: Kapitein F.C.H. Gorissen 18 16/12 63\r\nZittend aan tafel. 3/4. e" .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#inscription> "Kapitein F.C.H. Gorissen 18 16/12 63" .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5337875ca89bc99bf7c3a6dc97f7d337> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5310f36a8afa0e9c8a465ad16ffc3694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5310f36a8afa0e9c8a465ad16ffc3694> <https://colonialcollections.nl/schema#identifier> "1871/10-3-6" .
 <https://n2t.net/ark:/27023/5310f36a8afa0e9c8a465ad16ffc3694> <https://colonialcollections.nl/schema#name> "Het veroveren der batterijen bij Palembang op den 24sten Juni 1821" .
@@ -545,18 +561,6 @@
 <https://n2t.net/ark:/27023/5354a4bac0f38ef48e7ef932ce4185cc> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, totaal 348 stuks, van diensttijd van R.J. Mulder bij 43 Zelfstandige Mitrailleur Compagnie (43 ZMC)  in Nederlands-Indië 1949-1950:\r\nnatuurfoto's, foto's van voornamelijk Nederlandse militairen, foto's van havens, sportdagen etc. in de pe" .
 <https://n2t.net/ark:/27023/5354a4bac0f38ef48e7ef932ce4185cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5354a4bac0f38ef48e7ef932ce4185cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-22/10" .
-<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#name> "Hotel Huize Hansje Sarangan" .
-<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#description> "Foto. Hotel Huize Hansje Sarangan." .
-<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/531d15ec72e9bb14f1bf4109f090a13d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#identifier> "1983/09/19-1-1" .
-<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#name> "Rok grootkostuum assistent-resident Binnenlands Bestuur Nederlands-Indië M1919" .
-<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#description> "Jas bestuursambtenaar Nederlands Indië. Zwart, gouddraad in de kraag en manchetten, verder alleen gouden knopen. In goede staat." .
-<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/53256341fcb33c464c365b364c64e92b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5316302a817487ba74a7a1f71e4c9e55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5316302a817487ba74a7a1f71e4c9e55> <https://colonialcollections.nl/schema#identifier> "S%206244-26" .
 <https://n2t.net/ark:/27023/5316302a817487ba74a7a1f71e4c9e55> <https://colonialcollections.nl/schema#description> "kalkkoker in losse stukken" .

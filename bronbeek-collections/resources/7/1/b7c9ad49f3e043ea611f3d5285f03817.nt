@@ -6,14 +6,25 @@
 <https://n2t.net/ark:/27023/db6a49d6c306320f74e3391ea3d1e7f7> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/db6a49d6c306320f74e3391ea3d1e7f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db6a49d6c306320f74e3391ea3d1e7f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db6a49d6c306320f74e3391ea3d1e7f7> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#identifier> "2000/03/21-3" .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#name> "Lithografisch portret van Gouverneur Generaal J.J. Rochussen" .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#description> "Prent, lithografie: portret van Gouverneur Generaal J.J. Rochussen.\r\n\"F.Waanders, del.\" & \"Gedrukt bij H.J. Backer\" & \"N.Pieneman\".\r\nTekst: \"J.J.Rochussen, Gouverneur Generaal van Neerlands Oost Indië\"." .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#inscription> "J.J.Rochussen, Gouverneur Generaal van Neerlands Oost Indië" .
-<https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#creator> "Nicolaas Pieneman" .
+<https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#creator> "H.J. Backer" .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#creator> "Nicolaas Pieneman" .
+<https://n2t.net/ark:/27023/db87d188fe28ef6342d6664a1e2cc442> <https://colonialcollections.nl/schema#creator> "F. B. Waanders" .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#identifier> "nf%201334-5" .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#name> "Passar Glodok - Batavia" .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Passar Glodok - Batavia'\r\n\r\nOpname toon" .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#creator> "ROTOGRAVURE DE UNIE" .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
 <https://n2t.net/ark:/27023/db77df73789b87f653fa29d0ffa18702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db77df73789b87f653fa29d0ffa18702> <https://colonialcollections.nl/schema#identifier> "nf%201173" .
 <https://n2t.net/ark:/27023/db77df73789b87f653fa29d0ffa18702> <https://colonialcollections.nl/schema#name> "Batak kampong tussen Kaban Djahé en Tiga Bianga" .
@@ -35,6 +46,13 @@
 <https://n2t.net/ark:/27023/db83e30df474f49602c11beab19fedab> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/db83e30df474f49602c11beab19fedab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db83e30df474f49602c11beab19fedab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#identifier> "2014/12/08-7-3" .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#name> "Menukaarten (21 stuks) Rotterdamsche Lloyd & N.V. Stoomvaartmaatschappij uit periode 1948-1951" .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#description> "Menukaarten (21 stuks) Rotterdamsche Lloyd & N.V. Stoomvaartmaatschappij. Periode 1948-1951.\r\nT.M.S. Willem Ruijs.\r\nM.S. Oranje." .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#creator> "Anton Pieck" .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db69a50dc56129bf6cf6c5063f24b501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db69a50dc56129bf6cf6c5063f24b501> <https://colonialcollections.nl/schema#identifier> "nf%201537-48" .
 <https://n2t.net/ark:/27023/db69a50dc56129bf6cf6c5063f24b501> <https://colonialcollections.nl/schema#description> "Stereofoto, twee zo goed als identieke zwart/wit foto's naast elkaar op een stukje donkergrijs karton geplakt, met anderen los aangetroffen.\r\n\r\nOp voor- en achterkant van een nummer voorzien.\r\n\r\nOpnames tonen een sterk geaccidenteerd gebied, mogelijk in e" .
@@ -525,18 +543,6 @@
 <https://n2t.net/ark:/27023/db9a83527b3ffc5a38be995531f82ea0> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van diensttijd korporaal L. Krijnen 1946-1949." .
 <https://n2t.net/ark:/27023/db9a83527b3ffc5a38be995531f82ea0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db9a83527b3ffc5a38be995531f82ea0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#identifier> "nf%201334-5" .
-<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#name> "Passar Glodok - Batavia" .
-<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'Passar Glodok - Batavia'\r\n\r\nOpname toon" .
-<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db6f63fca5e2875f09731c39fe3b0690> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#identifier> "2014/12/08-7-3" .
-<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#name> "Menukaarten (21 stuks) Rotterdamsche Lloyd & N.V. Stoomvaartmaatschappij uit periode 1948-1951" .
-<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#description> "Menukaarten (21 stuks) Rotterdamsche Lloyd & N.V. Stoomvaartmaatschappij. Periode 1948-1951.\r\nT.M.S. Willem Ruijs.\r\nM.S. Oranje." .
-<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db912d75261ac29e24a17b51b7d799ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db69c15be880762b39030d909638b7e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db69c15be880762b39030d909638b7e8> <https://colonialcollections.nl/schema#identifier> "nf%20841-79-4" .
 <https://n2t.net/ark:/27023/db69c15be880762b39030d909638b7e8> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, rechthoekig, opgeplakt zonder fotohoekjes, zonder in inkt geschreven bij- onderschrift.\r\n\r\nOp fotopagina 79 is geen tekst bijgeschreven.\r\n\r\nVoor de foto's op deze pagina geldt dat het opnames zijn gemaakt in en van een glooiend terrein. Er" .

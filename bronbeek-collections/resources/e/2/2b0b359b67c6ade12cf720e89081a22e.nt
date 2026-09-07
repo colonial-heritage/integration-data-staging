@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-8" .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#name> "Portret van Josephine Haak Bastiaanse-van Zeeland" .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#description> "Prent, lithografie. Portret van Josephine Haak Bastiaanse-van Zeeland. In ovale vorm geknipt. De prent is op verschillende plaatsen aangetast/beschadigd." .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#creator> "P. Blommers" .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#creator> "N.J.W. de Roode" .
 <https://n2t.net/ark:/27023/e4058cf1bfca60887f19756dec3af240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e4058cf1bfca60887f19756dec3af240> <https://colonialcollections.nl/schema#identifier> "nf%201559-3" .
 <https://n2t.net/ark:/27023/e4058cf1bfca60887f19756dec3af240> <https://colonialcollections.nl/schema#name> "Jonge suikeraanplant" .
@@ -495,12 +503,6 @@
 <https://n2t.net/ark:/27023/e42e0f7deaf8f998855071ea7c940b9f> <https://colonialcollections.nl/schema#description> "Kris. Zonder schede.Houten greep. 13 bochten. Lengte:44,5cm. Punt kling beschadigd.\r\nKris cadeau gekregen van zwager, die retour kwam uit Nederlands indië, periode 1945-1950." .
 <https://n2t.net/ark:/27023/e42e0f7deaf8f998855071ea7c940b9f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e42e0f7deaf8f998855071ea7c940b9f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-8" .
-<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#name> "Portret van Josephine Haak Bastiaanse-van Zeeland" .
-<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#description> "Prent, lithografie. Portret van Josephine Haak Bastiaanse-van Zeeland. In ovale vorm geknipt. De prent is op verschillende plaatsen aangetast/beschadigd." .
-<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e3e02489c8d3a8fc999e9edd616b1640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e3df9693456d39ce981b00cab2303271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e3df9693456d39ce981b00cab2303271> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43064" .
 <https://n2t.net/ark:/27023/e3df9693456d39ce981b00cab2303271> <https://colonialcollections.nl/schema#description> "Zwaardmes" .

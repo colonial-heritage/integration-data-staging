@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#identifier> "2005/00-206/4" .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#name> "Uniformjas toetoep" .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#description> "Uniformjas toetoep van witte katoen en met rode letters ingenaaid etiket: Zeevaartuitrustingen H. Hettinga Levantkade G, Geb. K.N.S.M. bedrijfskleding en met in rood ingenaaide initialen: MP" .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#inscription> "MP." .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#creator> "H. Hettinga" .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d10f3addf2272c800af1ef03f1c557a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d10f3addf2272c800af1ef03f1c557a> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-24" .
 <https://n2t.net/ark:/27023/1d10f3addf2272c800af1ef03f1c557a> <https://colonialcollections.nl/schema#name> "Simpang, Soerabaja." .
@@ -12,6 +20,13 @@
 <https://n2t.net/ark:/27023/1d1732dae5895a7d3257dcf8c6b9257f> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/1d1732dae5895a7d3257dcf8c6b9257f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d1732dae5895a7d3257dcf8c6b9257f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-34" .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#name> "Republikeinse troepen keren terug om meer munitie te halen" .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#description> "Republikeinse troepen keren terug om meer munitie te halen. 1 maart 1949." .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d295255e7e9004e155482b56815e15d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d295255e7e9004e155482b56815e15d> <https://colonialcollections.nl/schema#identifier> "nf%201765-4" .
 <https://n2t.net/ark:/27023/1d295255e7e9004e155482b56815e15d> <https://colonialcollections.nl/schema#name> "Moderne woning" .
@@ -26,12 +41,32 @@
 <https://n2t.net/ark:/27023/1d297d32c9564322c9e7f5dcc713e032> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/1d297d32c9564322c9e7f5dcc713e032> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d297d32c9564322c9e7f5dcc713e032> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/90" .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van mevrouw Van Swieten-Steinmetz, echtgenote van generaal Jan van Swieten.\r\nVerso: v. Swiet-Steinmetz ; J.M.W. van Swieten-Steinmetz.\r\nFotograaf: Gebr. Delboy, 's Gravenhage." .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#creator> "Photographie van L.M. Delboy te 's Hage." .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#identifier> "2017/01/20-1-2/3" .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#name> "Aunt Heskes, 1890" .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#description> "Carte de Cabinet van “Tante van Jop”. Aunt Heskes, 1890.\r\nVerso: \"Met de hartelijke groeten van Go. Jobo beloved Aunt. Aunt Heskes. 1890.\"" .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#creator> "G.A. Mögle" .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d120cbba9173383da1c8d2ab00cd8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d120cbba9173383da1c8d2ab00cd8d9> <https://colonialcollections.nl/schema#identifier> "nf%201629-22" .
 <https://n2t.net/ark:/27023/1d120cbba9173383da1c8d2ab00cd8d9> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, twee foto's naast elkaar geplakt op grijs karton, hoeken afgerond, los aangetroffen met anderen.\r\n\r\nOpnames tonen landbouwers aan het werk met zo te zien karbouwen. In een perceel dat onder water staat wordt geploegd, alles wordt in" .
 <https://n2t.net/ark:/27023/1d120cbba9173383da1c8d2ab00cd8d9> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1d120cbba9173383da1c8d2ab00cd8d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d120cbba9173383da1c8d2ab00cd8d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#identifier> "nf%20681-1" .
+<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#description> "Zwart/wit foto van een vrij groot gezelschap dames en heren rond een gedekte eettafel. Achter de zittenden staan naast een aantal blanken ook lokale personen, duidelijk bedienden van het restaurant." .
+<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#creator> "K. Shiraishi, Japansche Photograaf" .
+<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d175ec56cf779ad99154b0e4c935a0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d175ec56cf779ad99154b0e4c935a0c> <https://colonialcollections.nl/schema#identifier> "nf%201918-235" .
 <https://n2t.net/ark:/27023/1d175ec56cf779ad99154b0e4c935a0c> <https://colonialcollections.nl/schema#description> "Stereoglaspositief, zwart/wit, 2 heel dunne glasplaatjes op elkaar, samen gehouden en afgewerkt met zwarte tape.\r\n\r\nOpnames tonen een rechte weg met bebouwing aan beide zijden. Op de weg een fietser en voetgangers.\r\nGesproken wordt over een fabriek. Dat z" .
@@ -44,6 +79,12 @@
 <https://n2t.net/ark:/27023/1d176d0c877c74ff5c22b0fb5e17f079> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/1d176d0c877c74ff5c22b0fb5e17f079> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d176d0c877c74ff5c22b0fb5e17f079> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#identifier> "nf%20323-7-1" .
+<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#description> "bijschrift; 'Gezichten op Roeteng (uitzicht naar het Zuiden) met de daar achter gelegen Potjo Mandasswae : ervoor de groote weg'" .
+<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d434e6caacf1435872f64f2b486b49c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d434e6caacf1435872f64f2b486b49c> <https://colonialcollections.nl/schema#identifier> "nf%202" .
 <https://n2t.net/ark:/27023/1d434e6caacf1435872f64f2b486b49c> <https://colonialcollections.nl/schema#description> "Heuvellandschap vanaf landweg gezien" .
@@ -70,13 +111,6 @@
 <https://n2t.net/ark:/27023/1d3532f4797ff1d5bce3a2cda7cfd1d2> <https://colonialcollections.nl/schema#inscription> "9" .
 <https://n2t.net/ark:/27023/1d3532f4797ff1d5bce3a2cda7cfd1d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d3532f4797ff1d5bce3a2cda7cfd1d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#identifier> "2005/00-206/4" .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#name> "Uniformjas toetoep" .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#description> "Uniformjas toetoep van witte katoen en met rode letters ingenaaid etiket: Zeevaartuitrustingen H. Hettinga Levantkade G, Geb. K.N.S.M. bedrijfskleding en met in rood ingenaaide initialen: MP" .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#inscription> "MP." .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d33fb5a62b2d167f1b62d8cdbc50a75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d073d0e9c26de0051bde64c7184d173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d073d0e9c26de0051bde64c7184d173> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-72" .
 <https://n2t.net/ark:/27023/1d073d0e9c26de0051bde64c7184d173> <https://colonialcollections.nl/schema#name> "Schouderschuifpassant dagelijkse tenue sergeant eerste klasse Koninklijke Luchtmacht Nederlands Nieuw-Guinea" .
@@ -491,24 +525,6 @@
 <https://n2t.net/ark:/27023/1d4ac4ed0828efe8f789ddb466d1d1f3> <https://colonialcollections.nl/schema#description> "Vlag van Nieuw Guinea, Papoea. Gemaakt door Papoeavrouwen" .
 <https://n2t.net/ark:/27023/1d4ac4ed0828efe8f789ddb466d1d1f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d4ac4ed0828efe8f789ddb466d1d1f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-34" .
-<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#name> "Republikeinse troepen keren terug om meer munitie te halen" .
-<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#description> "Republikeinse troepen keren terug om meer munitie te halen. 1 maart 1949." .
-<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d210e25b32dc88a188fbd7b24106cd1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/90" .
-<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van mevrouw Van Swieten-Steinmetz, echtgenote van generaal Jan van Swieten.\r\nVerso: v. Swiet-Steinmetz ; J.M.W. van Swieten-Steinmetz.\r\nFotograaf: Gebr. Delboy, 's Gravenhage." .
-<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d3c222804f3057dbf4ca54234230aba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#identifier> "2017/01/20-1-2/3" .
-<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#name> "Aunt Heskes, 1890" .
-<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#description> "Carte de Cabinet van “Tante van Jop”. Aunt Heskes, 1890.\r\nVerso: \"Met de hartelijke groeten van Go. Jobo beloved Aunt. Aunt Heskes. 1890.\"" .
-<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d4831e23900545b174ca14739bb1203> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d0ad7fe54fb3c72255876f7a9a4e4aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d0ad7fe54fb3c72255876f7a9a4e4aa> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42252" .
 <https://n2t.net/ark:/27023/1d0ad7fe54fb3c72255876f7a9a4e4aa> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 100,4 cm\r\nMedia:\t2785\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2785] Depot, K [K]\r\nhoofdmateriaal:\thout" .
@@ -559,16 +575,6 @@
 <https://n2t.net/ark:/27023/1d4be3ca36fccecf50fcee76ae4a590e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een blanke vrouw zittend op de bovenste tree van een stenen trap, behorend bij een huis. \r\nZij heeft twee poesjes bij zich op schoot.\r" .
 <https://n2t.net/ark:/27023/1d4be3ca36fccecf50fcee76ae4a590e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d4be3ca36fccecf50fcee76ae4a590e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#identifier> "nf%20681-1" .
-<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#description> "Zwart/wit foto van een vrij groot gezelschap dames en heren rond een gedekte eettafel. Achter de zittenden staan naast een aantal blanken ook lokale personen, duidelijk bedienden van het restaurant." .
-<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d16c12d72ab8f0b269410123100b24b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#identifier> "nf%20323-7-1" .
-<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#description> "bijschrift; 'Gezichten op Roeteng (uitzicht naar het Zuiden) met de daar achter gelegen Potjo Mandasswae : ervoor de groote weg'" .
-<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1d26eed432fd668bc7da19289405d81b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d13da1f704d00878ff9cca3ce91061a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1d13da1f704d00878ff9cca3ce91061a> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-33" .
 <https://n2t.net/ark:/27023/1d13da1f704d00878ff9cca3ce91061a> <https://colonialcollections.nl/schema#name> "Sabel, of klewang" .

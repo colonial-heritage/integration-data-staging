@@ -1,3 +1,24 @@
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#identifier> "1984/02/10-1-5" .
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#name> "Havengezicht van boven" .
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Havengezicht van boven, Jean Alberti, Sabang en Olehleh. Gestempeld 10-11-1912." .
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-26" .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#name> "Rice fields on and on Preanger" .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart. Rice fields on and on Preanger. Gedateerd: 28 januari 1933. Gericht aan van Mourik, Rotterdam" .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-2/3" .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#name> "Crater. Aden. The \"Al Khoja\" mosque." .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#description> "Foto als prentbriefkaart met afbeelding van de Al Khoja moskee in Aden, Egypte" .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#creator> "A. Abassi" .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b53571140687aefc60d17f4f1ebf2362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b53571140687aefc60d17f4f1ebf2362> <https://colonialcollections.nl/schema#identifier> "nf%20620-5" .
 <https://n2t.net/ark:/27023/b53571140687aefc60d17f4f1ebf2362> <https://colonialcollections.nl/schema#name> "Onder den Assemboom" .
@@ -540,24 +561,6 @@
 <https://n2t.net/ark:/27023/b550c60462b217c3a682eb9a6e279daa> <https://colonialcollections.nl/schema#description> "Onderdeelsembleem KNIL infanterie Gadja Merah" .
 <https://n2t.net/ark:/27023/b550c60462b217c3a682eb9a6e279daa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b550c60462b217c3a682eb9a6e279daa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#identifier> "1984/02/10-1-5" .
-<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#name> "Havengezicht van boven" .
-<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Havengezicht van boven, Jean Alberti, Sabang en Olehleh. Gestempeld 10-11-1912." .
-<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b50ec792da7e1b5e164c669175eef108> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-26" .
-<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#name> "Rice fields on and on Preanger" .
-<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart. Rice fields on and on Preanger. Gedateerd: 28 januari 1933. Gericht aan van Mourik, Rotterdam" .
-<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b50fd886e5566d6071949d3eb1367d31> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-2/3" .
-<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#name> "Crater. Aden. The \"Al Khoja\" mosque." .
-<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#description> "Foto als prentbriefkaart met afbeelding van de Al Khoja moskee in Aden, Egypte" .
-<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b5350c2cf7e991d652ca71844ab3ede1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b51d0024473026e2482a1e5284e44b96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b51d0024473026e2482a1e5284e44b96> <https://colonialcollections.nl/schema#identifier> "S%20546-90" .
 <https://n2t.net/ark:/27023/b51d0024473026e2482a1e5284e44b96> <https://colonialcollections.nl/schema#description> "goudkleurig motieven door extra toegevoegde inslagdraden afgewisseld met blauw, groen en naturel" .

@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#identifier> "2006/00-52-7" .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#name> "Chinese spekslager. Toekang babi." .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Chin-spekslager. Toekang babi. Met Nederlandse vlag." .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#inscription> "Chin-spekslager. Toekang babi." .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#creator> "G. Degert" .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#creator> "F.J.Rauch" .
 <https://n2t.net/ark:/27023/8ed3bee87ecfecfbc8100c1e77aa0c46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ed3bee87ecfecfbc8100c1e77aa0c46> <https://colonialcollections.nl/schema#identifier> "2005/00-238" .
 <https://n2t.net/ark:/27023/8ed3bee87ecfecfbc8100c1e77aa0c46> <https://colonialcollections.nl/schema#name> "Drie portretkoppen van een korporaal" .
@@ -12,6 +21,7 @@
 <https://n2t.net/ark:/27023/8edeac6f5946ca4959ceff25a4dfc192> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8edeac6f5946ca4959ceff25a4dfc192> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8edeac6f5946ca4959ceff25a4dfc192> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8edeac6f5946ca4959ceff25a4dfc192> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/8eebe35bf8ca948eb2c23730f4df9e90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8eebe35bf8ca948eb2c23730f4df9e90> <https://colonialcollections.nl/schema#identifier> "1977/03-1-38" .
 <https://n2t.net/ark:/27023/8eebe35bf8ca948eb2c23730f4df9e90> <https://colonialcollections.nl/schema#name> "Warong" .
@@ -31,6 +41,12 @@
 <https://n2t.net/ark:/27023/8ef066bd5e141304229d94be2bf1fe2d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8ef066bd5e141304229d94be2bf1fe2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ef066bd5e141304229d94be2bf1fe2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-26" .
+<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een poort, waarschijnlijk een ingang naar een tempelcomplex. Jammer is dat linker deel van de foto onscherp is. Bij de ingang zit een vrouw aan een tafel met daarop schalen met inhoud, moge" .
+<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8f01c596ba9f4a4d546fe03c2b0f48ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8f01c596ba9f4a4d546fe03c2b0f48ba> <https://colonialcollections.nl/schema#identifier> "nf%20107" .
 <https://n2t.net/ark:/27023/8f01c596ba9f4a4d546fe03c2b0f48ba> <https://colonialcollections.nl/schema#description> "Opname toont een lachende inheemse man, vermoedelijk een papoea, tot zijn middel in het water staand. In zijn rechterhand een fraai vorm gegeven houten speer. Met links geeft of krijgt hij iets van een ander. Recht vegetatie die op riet lijkt." .
@@ -58,13 +74,6 @@
 <https://n2t.net/ark:/27023/8f07e3e38ffafc32a100466ee1deea80> <https://colonialcollections.nl/schema#inscription> "Spandau 1917" .
 <https://n2t.net/ark:/27023/8f07e3e38ffafc32a100466ee1deea80> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f07e3e38ffafc32a100466ee1deea80> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#identifier> "2006/00-52-7" .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#name> "Chinese spekslager. Toekang babi." .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Chin-spekslager. Toekang babi. Met Nederlandse vlag." .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#inscription> "Chin-spekslager. Toekang babi." .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8ed75ada24da3104230ecfd5547b04a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8ec32fe3304a9cc5449838e0af36609f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ec32fe3304a9cc5449838e0af36609f> <https://colonialcollections.nl/schema#identifier> "2006/09/05-2-2/107" .
 <https://n2t.net/ark:/27023/8ec32fe3304a9cc5449838e0af36609f> <https://colonialcollections.nl/schema#name> "Foto. Periode 1946-1949. Deel van een serie." .
@@ -573,11 +582,6 @@
 <https://n2t.net/ark:/27023/8f0c50a4a390c2443e5b55d5ff867d32> <https://colonialcollections.nl/schema#description> "Houten beeld\r\n\r\nAfdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tbeeld\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, gesneden\r\nEmailadres: toelichting:\tStaande figuur op een voetstuk gemaakt van blank hout. De rechterhand houdt een deel van de sarong vast en " .
 <https://n2t.net/ark:/27023/8f0c50a4a390c2443e5b55d5ff867d32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8f0c50a4a390c2443e5b55d5ff867d32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-26" .
-<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een poort, waarschijnlijk een ingang naar een tempelcomplex. Jammer is dat linker deel van de foto onscherp is. Bij de ingang zit een vrouw aan een tafel met daarop schalen met inhoud, moge" .
-<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8f00833c6cdd25cc53f669fdab7425b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8ee92dc2e530d33042f5cc12ff265b80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ee92dc2e530d33042f5cc12ff265b80> <https://colonialcollections.nl/schema#identifier> "2012/05/18-1/12" .
 <https://n2t.net/ark:/27023/8ee92dc2e530d33042f5cc12ff265b80> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

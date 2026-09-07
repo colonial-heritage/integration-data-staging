@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-55" .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#name> "Fantasia dún mariage." .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Fantasia dún mariage." .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#inscription> "Fantasia dún mariage." .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#creator> "Arougheti Bros Suez" .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/170" .
 <https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -5,6 +13,7 @@
 <https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dc251350d09dd0331dbc3399b6bacb9e> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/dc3c65f62a65687758df277111dbbed2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dc3c65f62a65687758df277111dbbed2> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-9/12" .
 <https://n2t.net/ark:/27023/dc3c65f62a65687758df277111dbbed2> <https://colonialcollections.nl/schema#name> "Stafkaart Laboehan, Madura & Bali, Nederlands Indië" .
@@ -19,6 +28,20 @@
 <https://n2t.net/ark:/27023/dc4028ac678677c91c2c87a232e1b7e6> <https://colonialcollections.nl/schema#creator> "Adma" .
 <https://n2t.net/ark:/27023/dc4028ac678677c91c2c87a232e1b7e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dc4028ac678677c91c2c87a232e1b7e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/96" .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: generaal Jan van Swieten ; J. van Swieten 1864.\r\nFotograaf: Gebr. Becher, Arnhem - Utrecht." .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#creator> "Becher, Gebr." .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-1" .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#name> "Foto van Dhr. Brekveld" .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#description> "Foto van Dhr. Z. Brekveld die de kippen voert, gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#creator> "René van Bakel" .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dc4d69424d23b7b149c09f56c010a1a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dc4d69424d23b7b149c09f56c010a1a1> <https://colonialcollections.nl/schema#identifier> "nf%20705-9" .
 <https://n2t.net/ark:/27023/dc4d69424d23b7b149c09f56c010a1a1> <https://colonialcollections.nl/schema#name> "'Dal Ombilin rivier SWK'" .
@@ -26,6 +49,13 @@
 <https://n2t.net/ark:/27023/dc4d69424d23b7b149c09f56c010a1a1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/dc4d69424d23b7b149c09f56c010a1a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dc4d69424d23b7b149c09f56c010a1a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#identifier> "nf%201621-4" .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#name> "Sifalago, Nias" .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SIFALAGO, NIAS 1930 - rechts FOTO R.BONNET\r\n\r\nOpname toont een blik " .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dc2ec8eb0e60bc336f756d21676504a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dc2ec8eb0e60bc336f756d21676504a1> <https://colonialcollections.nl/schema#identifier> "nf%20879-35-3" .
 <https://n2t.net/ark:/27023/dc2ec8eb0e60bc336f756d21676504a1> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, met lijm opgeplakt, zonder bijschrift, met in inkt bijgeschreven dubbele nummering.\r\n\r\nDeze nummering is: XXV 13A\r\n\r\nDeze opname toont een omgang van de Borobudur." .
@@ -69,13 +99,6 @@
 <https://n2t.net/ark:/27023/dc432ff3a1afd8fdc3b0abec1107292d> <https://colonialcollections.nl/schema#inscription> "‘In Recognition of Your Valuable Services on the R. & T. Lands'" .
 <https://n2t.net/ark:/27023/dc432ff3a1afd8fdc3b0abec1107292d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dc432ff3a1afd8fdc3b0abec1107292d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-55" .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#name> "Fantasia dún mariage." .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Fantasia dún mariage." .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#inscription> "Fantasia dún mariage." .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dc5498eda4c9ecfa5a6dafb8b28e4832> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dc2101e202e21f120b73312491f1cf14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dc2101e202e21f120b73312491f1cf14> <https://colonialcollections.nl/schema#identifier> "1995/05/15-6-2/1" .
 <https://n2t.net/ark:/27023/dc2101e202e21f120b73312491f1cf14> <https://colonialcollections.nl/schema#name> "Rangdistinctieven kolonel t.b.v. groene/witte uniform" .
@@ -502,24 +525,6 @@
 <https://n2t.net/ark:/27023/dc612fe6f005bd236f9a07c2a3349db7> <https://colonialcollections.nl/schema#description> "Tekening op papier. Tekening van boerderij. De tekening is gesigneerd door P. v. [ ]. Afm. 30 x 43 cm." .
 <https://n2t.net/ark:/27023/dc612fe6f005bd236f9a07c2a3349db7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dc612fe6f005bd236f9a07c2a3349db7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/96" .
-<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: generaal Jan van Swieten ; J. van Swieten 1864.\r\nFotograaf: Gebr. Becher, Arnhem - Utrecht." .
-<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dc44b8b3459cb71d0f027fe8d8bfd3ca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-1" .
-<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#name> "Foto van Dhr. Brekveld" .
-<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#description> "Foto van Dhr. Z. Brekveld die de kippen voert, gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
-<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dc4501af90dba4ee4cbd49e677da7286> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#identifier> "nf%201621-4" .
-<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#name> "Sifalago, Nias" .
-<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SIFALAGO, NIAS 1930 - rechts FOTO R.BONNET\r\n\r\nOpname toont een blik " .
-<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dc5a10b70855dfb64c7c96f8aca95c4c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dc25342a5f67f48f0396bc153fb9cf93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dc25342a5f67f48f0396bc153fb9cf93> <https://colonialcollections.nl/schema#identifier> "nf%20843-122" .
 <https://n2t.net/ark:/27023/dc25342a5f67f48f0396bc153fb9cf93> <https://colonialcollections.nl/schema#description> "Opname van een dansende Dajak man op de veranda van zijn longhouse.\r\nHij is traditioneel gekleed." .

@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#identifier> "2005/00-206/1" .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#name> "Pantalon" .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#description> "Pantalon van witte katoen en met rode letters ingenaaid etiket: Zeevaartuitrustingen H. Hettinga Levantkade G, Geb. K.N.S.M. bedrijfskleding en met in rood ingenaaide initialen: MP" .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#inscription> "MP." .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#creator> "H. Hettinga" .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/7" .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
 <https://n2t.net/ark:/27023/eeef728901b0ccbfedfe0a848f442dad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eeef728901b0ccbfedfe0a848f442dad> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/13" .
 <https://n2t.net/ark:/27023/eeef728901b0ccbfedfe0a848f442dad> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -12,6 +28,20 @@
 <https://n2t.net/ark:/27023/ef11120d1fa6d09ea26b55a03db987b3> <https://colonialcollections.nl/schema#creator> "Willem Hofker" .
 <https://n2t.net/ark:/27023/ef11120d1fa6d09ea26b55a03db987b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef11120d1fa6d09ea26b55a03db987b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-8" .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#name> "Foto opening werkelozendorp te Bandoeng" .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#description> "Foto, zw./w.  Afm. 22,5 x 15,5 cm. In goede staat." .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#creator> "Platé Ltd" .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#identifier> "2002/00-133" .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#name> "Wandelmedaille \"Wandelmarsen Jogjakarta Neutrale Jeugdbond 1940\"" .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#description> "Wandelmedaille \"Wandelmarsen Jogjakarta Neutrale Jeugdbond 1940\" aan blauw/wit lint." .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#creator> "Neutrale Jeugd Bond" .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eee4a4fadfd73235d9008871743c62c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eee4a4fadfd73235d9008871743c62c1> <https://colonialcollections.nl/schema#identifier> "nf%20623" .
 <https://n2t.net/ark:/27023/eee4a4fadfd73235d9008871743c62c1> <https://colonialcollections.nl/schema#description> "Groep Nederlandse soldaten en twee vrouwen. De 1ste man van links is Henrik Mispelblom v. Altena." .
@@ -24,6 +54,12 @@
 <https://n2t.net/ark:/27023/eef5262cd99b3fc733f71e07fb88f995> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/eef5262cd99b3fc733f71e07fb88f995> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eef5262cd99b3fc733f71e07fb88f995> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#identifier> "EDO%20481-112" .
+<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een zeer steile kust waar de branding tegen aan slaat." .
+<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eef6e0364efe1d7a077bf3d9010de397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eef6e0364efe1d7a077bf3d9010de397> <https://colonialcollections.nl/schema#identifier> "nf%201672" .
 <https://n2t.net/ark:/27023/eef6e0364efe1d7a077bf3d9010de397> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, geplakt op karton met afgeronde hoeken, los aangetroffen.\r\n\r\nOpname toont een water en rotsen. Het kan de zee zijn, maar ook een rivier. Het lijkt zelfs dat het water uit een grot stroomt. Op wat een samenvloeiingsplaats lijk" .
@@ -87,13 +123,6 @@
 <https://n2t.net/ark:/27023/ef0dad9380551a891d51b5fa17b5578b> <https://colonialcollections.nl/schema#inscription> "Hollandia/IFAR Ned.Nieuw-Guinea" .
 <https://n2t.net/ark:/27023/ef0dad9380551a891d51b5fa17b5578b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef0dad9380551a891d51b5fa17b5578b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#identifier> "2005/00-206/1" .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#name> "Pantalon" .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#description> "Pantalon van witte katoen en met rode letters ingenaaid etiket: Zeevaartuitrustingen H. Hettinga Levantkade G, Geb. K.N.S.M. bedrijfskleding en met in rood ingenaaide initialen: MP" .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#inscription> "MP." .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ef0b97c54844971483530c6af4c55c29> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eeda129fc99f073c6154c3a07f0d3003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eeda129fc99f073c6154c3a07f0d3003> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/233" .
 <https://n2t.net/ark:/27023/eeda129fc99f073c6154c3a07f0d3003> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
@@ -520,24 +549,6 @@
 <https://n2t.net/ark:/27023/ef22af8811a0dcfd668ad5410216369f> <https://colonialcollections.nl/schema#description> "Kris met ukiran solo. Volgens schenker uit Kraton van Midden Java afkomstig met de naam Raden Ayoe Joyoe Rongeng uit 1620. Als eigenschappen zou de kris gunstig gezind zijn bij eerbiedige en behoorlijke behandeling, doch bij niet nakomen zou hij dit wreke" .
 <https://n2t.net/ark:/27023/ef22af8811a0dcfd668ad5410216369f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef22af8811a0dcfd668ad5410216369f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/7" .
-<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
-<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, " .
-<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eee2d0d57aa66047c25ae65e87d10a53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-8" .
-<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#name> "Foto opening werkelozendorp te Bandoeng" .
-<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#description> "Foto, zw./w.  Afm. 22,5 x 15,5 cm. In goede staat." .
-<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ef1431987b8cc7a1370e649a8c9ad3d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#identifier> "2002/00-133" .
-<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#name> "Wandelmedaille \"Wandelmarsen Jogjakarta Neutrale Jeugdbond 1940\"" .
-<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#description> "Wandelmedaille \"Wandelmarsen Jogjakarta Neutrale Jeugdbond 1940\" aan blauw/wit lint." .
-<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ef1f8e5063e77f18c4337cd47fe14690> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eeedc8a90e16ec954fb76b6253cbd4ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eeedc8a90e16ec954fb76b6253cbd4ba> <https://colonialcollections.nl/schema#identifier> "S%20231-55" .
 <https://n2t.net/ark:/27023/eeedc8a90e16ec954fb76b6253cbd4ba> <https://colonialcollections.nl/schema#description> "Staatsielans, kalakala, met koperen punt aan beide zijden scherp. Voorzien van een bewerkte koperen hals en een arènhouten schacht de schacht is omwonden met een koperen plaat in spiraalrichting en is voorzien van bosjes paardenhaar onder de hals.\r\nHerkom" .
@@ -573,11 +584,6 @@
 <https://n2t.net/ark:/27023/ef080dcd4f8708b956b0192ecf6d2524> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tnest v. 2 mandjes\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2386\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2386] Depot, 15, R b [15 R b]" .
 <https://n2t.net/ark:/27023/ef080dcd4f8708b956b0192ecf6d2524> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef080dcd4f8708b956b0192ecf6d2524> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#identifier> "EDO%20481-112" .
-<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een zeer steile kust waar de branding tegen aan slaat." .
-<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eef61b7e173800c0f6640b1092ce87ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eede03c969f25c73058855689a6e817e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eede03c969f25c73058855689a6e817e> <https://colonialcollections.nl/schema#identifier> "1997/07/19-1-191" .
 <https://n2t.net/ark:/27023/eede03c969f25c73058855689a6e817e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

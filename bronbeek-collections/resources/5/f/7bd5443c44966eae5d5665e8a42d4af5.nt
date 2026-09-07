@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/18" .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#name> "Balinezen wachten na de puputan op het plein bij de hoofdpoort van de poeri van Den Pasar, in afwachting van de crematie, bij het stoffelijk overschot van de vorst van Badoeng" .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBalinezen wachten na de puputan op het plein bij de hoofdpoort van de poeri van Den Pasar, in afwachting van de crematie, bij het stoffelijk overschot van de vorst van Badoeng." .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-11" .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#name> "Batavia (Tandjong Priok) 1209. Station Tandjong Priok" .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Afkomstig uit een prentbriefkaarten-boekje." .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#inscription> "Batavia (Tandjong Priok) 1209. Station Tandjong Priok" .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/38cb79dbd236621310c9054f11fbb7a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38cb79dbd236621310c9054f11fbb7a0> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-88" .
 <https://n2t.net/ark:/27023/38cb79dbd236621310c9054f11fbb7a0> <https://colonialcollections.nl/schema#name> "Carte de visite: Van Mussenbroek, assistent resident Buitenzorg" .
@@ -36,9 +52,10 @@
 <https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#identifier> "nf%201882" .
 <https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant in inkt geschreven tekst: 'De Djaihoetan.O.ONOOOO.NO.\r\nIn potlood 'Jongbloed'\r\nEr is ook een lichtpaars stempel met de volgende tekst: 'UITGAVE PARKHOTEL - FORT DE KOCK - NADRUK VERBODEN'\r\n\r\nOpname toont " .
-<https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
 <https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/38a6da3430f606ecd464ead4fee9daf0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/38b508f584f6b7d26b4f3cd6fcb50dca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38b508f584f6b7d26b4f3cd6fcb50dca> <https://colonialcollections.nl/schema#identifier> "nf%201374-77" .
 <https://n2t.net/ark:/27023/38b508f584f6b7d26b4f3cd6fcb50dca> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, gedeeltelijk opgeplakt.\r\n\r\nOpname toont een vierwielig voertuig, met aan de voorkant twee bomen waar tussen een paard. Op/in het voertuig een blanke man en vrouw, beide in het wit, de vrouw met een witte hoed op. Het voertuig" .
@@ -72,20 +89,6 @@
 <https://n2t.net/ark:/27023/38d0c6353e68fe928a7189868ca45a10> <https://colonialcollections.nl/schema#inscription> "Het Vaderland Getrouw" .
 <https://n2t.net/ark:/27023/38d0c6353e68fe928a7189868ca45a10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/38d0c6353e68fe928a7189868ca45a10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/18" .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#name> "Balinezen wachten na de puputan op het plein bij de hoofdpoort van de poeri van Den Pasar, in afwachting van de crematie, bij het stoffelijk overschot van de vorst van Badoeng" .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nBalinezen wachten na de puputan op het plein bij de hoofdpoort van de poeri van Den Pasar, in afwachting van de crematie, bij het stoffelijk overschot van de vorst van Badoeng." .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/38a6f7544bcb43206c89078fda691d37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#identifier> "1996/12/11-2-11" .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#name> "Batavia (Tandjong Priok) 1209. Station Tandjong Priok" .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Afkomstig uit een prentbriefkaarten-boekje." .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#inscription> "Batavia (Tandjong Priok) 1209. Station Tandjong Priok" .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/38c6ddeae49fd05321c39830ed14534f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3898f72e95f0a7fca94e8342fe161f4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3898f72e95f0a7fca94e8342fe161f4a> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-181/5" .
 <https://n2t.net/ark:/27023/3898f72e95f0a7fca94e8342fe161f4a> <https://colonialcollections.nl/schema#name> "Foto's diensttijd KNIL voor 1942" .

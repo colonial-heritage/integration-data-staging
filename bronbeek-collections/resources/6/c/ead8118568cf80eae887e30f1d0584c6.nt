@@ -6,6 +6,23 @@
 <https://n2t.net/ark:/27023/503fa45d6894b89c5909e00ffeddd308> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/503fa45d6894b89c5909e00ffeddd308> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/503fa45d6894b89c5909e00ffeddd308> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#identifier> "2002/00-33/22" .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#name> "35. Thee Pluksters." .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n35. Thee Pluksters." .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#inscription> "35. Thee Pluksters." .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-3" .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#name> "Schoolplaat 16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 16 \"Javanen, Regent en zijn Hoofden (Oost-Java)\", Drukkerij: Kle" .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#inscription> "16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#creator> "de heer J. Demmeni" .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
 <https://n2t.net/ark:/27023/5072ebb07f69214384b2f96d04145538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5072ebb07f69214384b2f96d04145538> <https://colonialcollections.nl/schema#identifier> "2000/09/04-5-4" .
 <https://n2t.net/ark:/27023/5072ebb07f69214384b2f96d04145538> <https://colonialcollections.nl/schema#name> "OHK" .
@@ -21,6 +38,13 @@
 <https://n2t.net/ark:/27023/5041164f3b3c3eec17ae5677038a363d> <https://colonialcollections.nl/schema#creator> "Dhr. A.P. Bakker" .
 <https://n2t.net/ark:/27023/5041164f3b3c3eec17ae5677038a363d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5041164f3b3c3eec17ae5677038a363d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-2" .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#name> "Interview met Sitor Situmorang" .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#description> "Master tape van Interview met Sitor Situmorang. Gemaakt door Oogland Fimproducties, directie John Albert jansen. Op een digibetacam 32, palplus 16:9. Totale duur 25:23:14." .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#creator> "John Albert Jansen" .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/504ac91a21badff6e86d4dce004fc9c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/504ac91a21badff6e86d4dce004fc9c0> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-99" .
 <https://n2t.net/ark:/27023/504ac91a21badff6e86d4dce004fc9c0> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -42,6 +66,13 @@
 <https://n2t.net/ark:/27023/50631996f8def36091ef6ab8b68c9a2d> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/50631996f8def36091ef6ab8b68c9a2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/50631996f8def36091ef6ab8b68c9a2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#identifier> "1997/00-1/247" .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#name> "Werkkaart van den Nederlandsch Indische archipel" .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#description> "Werkkaart van den Nederlandsch Indische archipel. Topografische Dienst, Batavia 1947.\r\nSchaal 1: 5.000.000" .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#creator> "Reproductiebedrijf Topografische Dienst , Weltevreden" .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/507389fd70f9e07ea7455523ae8b5831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/507389fd70f9e07ea7455523ae8b5831> <https://colonialcollections.nl/schema#identifier> "1999/03/01-2-60/6" .
 <https://n2t.net/ark:/27023/507389fd70f9e07ea7455523ae8b5831> <https://colonialcollections.nl/schema#name> "Prent \"Het schip van Staat\"" .
@@ -99,20 +130,6 @@
 <https://n2t.net/ark:/27023/504cf4a27973c0184e040732c06f5a2f> <https://colonialcollections.nl/schema#inscription> "Broeder Constantinus, Bandoeng" .
 <https://n2t.net/ark:/27023/504cf4a27973c0184e040732c06f5a2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/504cf4a27973c0184e040732c06f5a2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#identifier> "2002/00-33/22" .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#name> "35. Thee Pluksters." .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n35. Thee Pluksters." .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#inscription> "35. Thee Pluksters." .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/504ec27830acb2996c264d792ea3620d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#identifier> "1988/01/01-15-3" .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#name> "Schoolplaat 16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#description> "Schoolplaat uit de serie Platen van Nederlandsch Oost- en West-Indië in 1911-1913 uitgegeven door Kleynenberg & Co, Haarlem. Serie van 170 platen in twee mappen met handleiding. Plaat nummer 16 \"Javanen, Regent en zijn Hoofden (Oost-Java)\", Drukkerij: Kle" .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#inscription> "16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/506b04e1d95ddbeaa63242f3a9c7593f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/503db797bd2cfe428debc6ba81726d54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/503db797bd2cfe428debc6ba81726d54> <https://colonialcollections.nl/schema#identifier> "2008/11/06-3-9/173" .
 <https://n2t.net/ark:/27023/503db797bd2cfe428debc6ba81726d54> <https://colonialcollections.nl/schema#name> "Foto, familiefoto´s, gebouwen etcetera" .
@@ -539,18 +556,6 @@
 <https://n2t.net/ark:/27023/50794ac8f47ffdf2ac8fd43ba091e0c8> <https://colonialcollections.nl/schema#description> "Foto. Nederlands Indië." .
 <https://n2t.net/ark:/27023/50794ac8f47ffdf2ac8fd43ba091e0c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/50794ac8f47ffdf2ac8fd43ba091e0c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-2" .
-<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#name> "Interview met Sitor Situmorang" .
-<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#description> "Master tape van Interview met Sitor Situmorang. Gemaakt door Oogland Fimproducties, directie John Albert jansen. Op een digibetacam 32, palplus 16:9. Totale duur 25:23:14." .
-<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/50497525b7fd7d8efbbf00b5f1b73c52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#identifier> "1997/00-1/247" .
-<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#name> "Werkkaart van den Nederlandsch Indische archipel" .
-<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#description> "Werkkaart van den Nederlandsch Indische archipel. Topografische Dienst, Batavia 1947.\r\nSchaal 1: 5.000.000" .
-<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/50632dfb6183126c1c5b8ef97f950ab8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5041b858bd69bc025da89a94f0a4e531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5041b858bd69bc025da89a94f0a4e531> <https://colonialcollections.nl/schema#identifier> "nf%201423-3" .
 <https://n2t.net/ark:/27023/5041b858bd69bc025da89a94f0a4e531> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, formaat 9x13, los aangetroffen in pergamijnzakje, met een in inkt geschreven nummer 6549.\r\n\r\nOpname toont een aantal schedels, bij elkaar geplaatst met nog andere voorwerpen, die mogelijk ook iets te maken hebben met het snellen v" .

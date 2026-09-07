@@ -19,13 +19,29 @@
 <https://n2t.net/ark:/27023/bd8f09439a48925b5426d61369eb09cf> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/bd8f09439a48925b5426d61369eb09cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bd8f09439a48925b5426d61369eb09cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#identifier> "1870/04-1" .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor C.A. de Brauw uit 1870" .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#description> "olieverf op doek, 17.5 x 21cm, met zwart houten lijst breed 3cm, links onder gesigneerd \"P.A. Balmakers, Breda 1870\"" .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#creator> "P.A. Balmakers" .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#identifier> "S%206245-28" .
 <https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#name> "Huis te Dinging [Residentie Tapanoeli - Sumatra's Westkust)" .
 <https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Huis te Dinging [Residentie Tapanoeli - Sumatra's Westkust]\r\nDaaronder: Uitgave van het Koloniaal Museum te Haarl" .
-<https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
 <https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/bd9929578c597ffc8ee7b4acde0e41d8> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-13" .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#description> "Attila." .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#creator> "Maison van Hal, Breda" .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bdaad9e42ef906c0940e09a01f0a0707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bdaad9e42ef906c0940e09a01f0a0707> <https://colonialcollections.nl/schema#identifier> "1990/08/20-15-11" .
 <https://n2t.net/ark:/27023/bdaad9e42ef906c0940e09a01f0a0707> <https://colonialcollections.nl/schema#name> "Legerplaats bij Oldebroek" .
@@ -33,6 +49,13 @@
 <https://n2t.net/ark:/27023/bdaad9e42ef906c0940e09a01f0a0707> <https://colonialcollections.nl/schema#creator> "A.J. Bogaerts" .
 <https://n2t.net/ark:/27023/bdaad9e42ef906c0940e09a01f0a0707> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bdaad9e42ef906c0940e09a01f0a0707> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#identifier> "nf%201704-1" .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#name> "Uitbarsting Merapi" .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, geplakt op groter stuk karton, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'Gesch. Mevr. H.J.Kreft- de Rake, Rotterdam - Gefotografeerd door Dhr.K.A.Gall - hoofdmachinist K.P.M. ± 1920 - Uitbarsting Merapi.\r\n\r\nOpname toont een kraterra" .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#creator> "K.A. Gall" .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <https://colonialcollections.nl/schema#identifier> "S%206245-77" .
 <https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <https://colonialcollections.nl/schema#name> "notemuscaat-tuin" .
@@ -40,6 +63,7 @@
 <https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bdb220e5f609325640987ff0c8478c54> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/bdbf4b0e96161ef8cce85be9dfe6d713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bdbf4b0e96161ef8cce85be9dfe6d713> <https://colonialcollections.nl/schema#identifier> "nf%201264" .
 <https://n2t.net/ark:/27023/bdbf4b0e96161ef8cce85be9dfe6d713> <https://colonialcollections.nl/schema#name> "Maleis huis" .
@@ -549,24 +573,6 @@
 <https://n2t.net/ark:/27023/bdc34d9fbf09608b100973e36319707a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nMilitairen lopend onder een afdak uit. Burger kijkt toe." .
 <https://n2t.net/ark:/27023/bdc34d9fbf09608b100973e36319707a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bdc34d9fbf09608b100973e36319707a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#identifier> "1870/04-1" .
-<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#name> "Portret van generaal-majoor C.A. de Brauw uit 1870" .
-<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#description> "olieverf op doek, 17.5 x 21cm, met zwart houten lijst breed 3cm, links onder gesigneerd \"P.A. Balmakers, Breda 1870\"" .
-<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bd91a0829f63d9521458aef00609562a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#identifier> "2004/02/26-1-13" .
-<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#name> "Attila KNIL" .
-<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#description> "Attila." .
-<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bda72a148016439880496510a3721507> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#identifier> "nf%201704-1" .
-<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#name> "Uitbarsting Merapi" .
-<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, geplakt op groter stuk karton, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'Gesch. Mevr. H.J.Kreft- de Rake, Rotterdam - Gefotografeerd door Dhr.K.A.Gall - hoofdmachinist K.P.M. ± 1920 - Uitbarsting Merapi.\r\n\r\nOpname toont een kraterra" .
-<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bdaee2889202d074d21ee8f7154443f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bda44b059b2a474220a3db9c5fac74c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bda44b059b2a474220a3db9c5fac74c7> <https://colonialcollections.nl/schema#identifier> "nf%20840-20-4" .
 <https://n2t.net/ark:/27023/bda44b059b2a474220a3db9c5fac74c7> <https://colonialcollections.nl/schema#description> "Foto, uitgevoerd als ansichtkaart met opgedrukte lijnen en tekst, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nDe gedrukte tekst luidt: \"POST CARD - CARTE POSTALE - Communication-Correspond" .

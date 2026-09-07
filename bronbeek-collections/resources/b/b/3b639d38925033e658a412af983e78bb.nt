@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-55" .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#name> "Carte de visite: Bertha Blankenburg" .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Bertha Blankenburg\"; \"Carlo Dietrich\"" .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#inscription> "Bertha Blankenburg; Carlo Dietrich" .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#creator> "Carlo Dietrich" .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be5a9a901b4b1d78cdb39bf9715165fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be5a9a901b4b1d78cdb39bf9715165fb> <https://colonialcollections.nl/schema#identifier> "nf%201413-131" .
 <https://n2t.net/ark:/27023/be5a9a901b4b1d78cdb39bf9715165fb> <https://colonialcollections.nl/schema#name> "Weg door het moeras tussen Tandjoeng Kerang en K.P.V. Zuid. Bamboestoel" .
@@ -19,6 +27,13 @@
 <https://n2t.net/ark:/27023/be6cc1fc939134341814b9414bfd711f> <https://colonialcollections.nl/schema#creator> "Mw. van Beeck Kalkoen" .
 <https://n2t.net/ark:/27023/be6cc1fc939134341814b9414bfd711f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be6cc1fc939134341814b9414bfd711f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-13" .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#name> "Boek, \"Josephine Siebe, Boem en zijn broertjes\"" .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#description> "Boek, \"Josephine Siebe, Boem en zijn broertjes\"" .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#creator> "Mw. Josephine Siebe" .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be88553385854d5d9fa610b632734a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be88553385854d5d9fa610b632734a53> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/320" .
 <https://n2t.net/ark:/27023/be88553385854d5d9fa610b632734a53> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -26,6 +41,20 @@
 <https://n2t.net/ark:/27023/be88553385854d5d9fa610b632734a53> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/be88553385854d5d9fa610b632734a53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be88553385854d5d9fa610b632734a53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-15" .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#name> "Foto portret van General-maj. Gerth van Wijk, staand tot kniehoogte" .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#description> "Foto, zw/w.  portret van Generaal-majoor Gerth van Wijk, staand tot kniehoogte driekwartaanzicht.\r\nfoto geplakt op karton.\r\n\r\nrecto: singering fotograaf.\r\nverso: gedrukt in inkt signatuur fotograaf  + in potlood \" Nr. 21227\"." .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#creator> "Firma P. Stutz Hoffotograaf ´sBosch Breda" .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/127" .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Amsterdamsche Poort te Batavia. De beelden stellen gewapende inlanders voor. De Poort is gebouwd door en en op kosten van een Chinees in den tijd van Gouverneur-Generaal Daendels." .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#creator> "La Rivière & Voorhoeve" .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be97c37894f8d17c411c3d89cc63e290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be97c37894f8d17c411c3d89cc63e290> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-4/3" .
 <https://n2t.net/ark:/27023/be97c37894f8d17c411c3d89cc63e290> <https://colonialcollections.nl/schema#name> "Aitape, East Indies" .
@@ -46,6 +75,7 @@
 <https://n2t.net/ark:/27023/be75b4984863828a288d07db3fe6be74> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/be75b4984863828a288d07db3fe6be74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be75b4984863828a288d07db3fe6be74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be75b4984863828a288d07db3fe6be74> <https://colonialcollections.nl/schema#creator> "N.V. ALBERT RUSCHE & Co. SOLO" .
 <https://n2t.net/ark:/27023/be75ec6580ad092631eb373cbcd3d22e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be75ec6580ad092631eb373cbcd3d22e> <https://colonialcollections.nl/schema#identifier> "nf%201523-13" .
 <https://n2t.net/ark:/27023/be75ec6580ad092631eb373cbcd3d22e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nOp achterkant is onder een sticker het jaartal ± 1901 te zien.\r\n\r\nOpname toont een jonge blanke vrouw, gekleed in witte blouse en donkere heel lange rok. Zij zit in een stoel, met een bijzettafektje naast" .
@@ -90,13 +120,6 @@
 <https://n2t.net/ark:/27023/be7d158a611a2c4b5cf784ffaca08f1c> <https://colonialcollections.nl/schema#inscription> "Gedeelte van een tekening gemaakt in \"Changi\" (origineel)" .
 <https://n2t.net/ark:/27023/be7d158a611a2c4b5cf784ffaca08f1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be7d158a611a2c4b5cf784ffaca08f1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-55" .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#name> "Carte de visite: Bertha Blankenburg" .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Bertha Blankenburg\"; \"Carlo Dietrich\"" .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#inscription> "Bertha Blankenburg; Carlo Dietrich" .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be6b2eb7aa92d0c915b7a4cf05fdffff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be589e739fb7bdb49ad6ec08834d8a26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be589e739fb7bdb49ad6ec08834d8a26> <https://colonialcollections.nl/schema#identifier> "2013/10/31-1-1/369" .
 <https://n2t.net/ark:/27023/be589e739fb7bdb49ad6ec08834d8a26> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal J. Krijnen" .
@@ -523,24 +546,6 @@
 <https://n2t.net/ark:/27023/bea4d94ed63633b04fe6b749c7cd7008> <https://colonialcollections.nl/schema#description> "Dolk in schede. Sewar. Buitgemaakt tijdens actie 2e Politionele actie op Selatpandjang, Sumatra." .
 <https://n2t.net/ark:/27023/bea4d94ed63633b04fe6b749c7cd7008> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bea4d94ed63633b04fe6b749c7cd7008> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#identifier> "2012/10/03-2-13" .
-<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#name> "Boek, \"Josephine Siebe, Boem en zijn broertjes\"" .
-<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#description> "Boek, \"Josephine Siebe, Boem en zijn broertjes\"" .
-<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be7b91aea0d1c997afdc49fd84d384ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-15" .
-<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#name> "Foto portret van General-maj. Gerth van Wijk, staand tot kniehoogte" .
-<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#description> "Foto, zw/w.  portret van Generaal-majoor Gerth van Wijk, staand tot kniehoogte driekwartaanzicht.\r\nfoto geplakt op karton.\r\n\r\nrecto: singering fotograaf.\r\nverso: gedrukt in inkt signatuur fotograaf  + in potlood \" Nr. 21227\"." .
-<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be92c6ad3ea3d9b272d71c4872244efd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/127" .
-<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Amsterdamsche Poort te Batavia. De beelden stellen gewapende inlanders voor. De Poort is gebouwd door en en op kosten van een Chinees in den tijd van Gouverneur-Generaal Daendels." .
-<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be957c99129bcc63d567d66cad773a12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be5e4d5c32100783d98bfe58bc3d1ebb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be5e4d5c32100783d98bfe58bc3d1ebb> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41657" .
 <https://n2t.net/ark:/27023/be5e4d5c32100783d98bfe58bc3d1ebb> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tbeeld\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, gesneden\r\nEmailadres: toelichting:\tBeeld van een zittende figuur, de knieën opgetrokken. De armen over elkaar geslagen, rustend op de knieën. Draagt een hoofd" .
@@ -586,11 +591,12 @@
 <https://n2t.net/ark:/27023/bea3415692d90ad7dd5950363ce2b629> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont bijna een pasfoto van een jonge vrouw.\r\n\r\nZeker is het niet, maar het vermoeden bestaat dat deze vrouw Madelon Belle is." .
 <https://n2t.net/ark:/27023/bea3415692d90ad7dd5950363ce2b629> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bea3415692d90ad7dd5950363ce2b629> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#identifier> "nf%20323-31-2" .
+<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/be995d5b9c5fd3d8287fb3f078efb320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be995d5b9c5fd3d8287fb3f078efb320> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/628" .
 <https://n2t.net/ark:/27023/be995d5b9c5fd3d8287fb3f078efb320> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/be995d5b9c5fd3d8287fb3f078efb320> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#identifier> "nf%20323-31-2" .
-<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/be92360f19528e4bff8159385f12d3b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

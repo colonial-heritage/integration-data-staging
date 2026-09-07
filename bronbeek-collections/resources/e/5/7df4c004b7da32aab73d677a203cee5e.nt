@@ -6,6 +6,21 @@
 <https://n2t.net/ark:/27023/77c0c54ee784f3aa3e7be20bad261f5a> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/77c0c54ee784f3aa3e7be20bad261f5a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/77c0c54ee784f3aa3e7be20bad261f5a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/62" .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#name> "Plaat 62. 23/5 Hoofden van Rema en onderhorige kampongs." .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 62. 23/5 Hoofden van Rema en onderhorig kampongs. (plaat 14 in publicatie Kempees)." .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#inscription> "Plaat 62. 23/5 Hoofden van Rema en onderhorig kampongs." .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-18" .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali, Banjoewangi" .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Banjoewangi; restricted, second edition, sheet 18, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#creator> "653rd ENGR.BN U.S.A.F." .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/77aac79ab878e7deee00ca51ab3ce778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/77aac79ab878e7deee00ca51ab3ce778> <https://colonialcollections.nl/schema#identifier> "2016/08/23-1/23" .
 <https://n2t.net/ark:/27023/77aac79ab878e7deee00ca51ab3ce778> <https://colonialcollections.nl/schema#name> "Twee bewoners Bronbeek, met vrouw en links van haar man in burgerkleding, luid zingend en man met uniformjas" .
@@ -17,9 +32,10 @@
 <https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#identifier> "nf%201430-10" .
 <https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#name> "Het speelhuis" .
 <https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 20.\r\n\r\nOpname toont een redelijk aantal inheemse mannen en vrouwen (zie nf 1430-12), Papoea's, in twee rijen geknield zittend tegenover elk" .
-<https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/77c1e39f5f2c70abea68d0c9a29ac18e> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/77cc037dc865aef7955db5341a5a6c04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/77cc037dc865aef7955db5341a5a6c04> <https://colonialcollections.nl/schema#identifier> "nf%20678-15-2" .
 <https://n2t.net/ark:/27023/77cc037dc865aef7955db5341a5a6c04> <https://colonialcollections.nl/schema#name> "Het uitkrabben van sagomerg" .
@@ -27,6 +43,20 @@
 <https://n2t.net/ark:/27023/77cc037dc865aef7955db5341a5a6c04> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/77cc037dc865aef7955db5341a5a6c04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/77cc037dc865aef7955db5341a5a6c04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-2/5" .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#name> "Foto´s, prentbriefkaarten Nederlandsche Stoomvaart Maatschappij, 5 stuks" .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#description> "Foto´s, prentbriefkaarten (vermoedelijk vooroorlogs) Nederlandsche Stoomvaart Maatschappij, 5 stuks:\r\nSuez, Egypte\r\nBatavia Kongi besar (Chinatown)\r\nSolo Pasar\r\nBuitenzorg Paleis GG\r\nSchip Stoomvaartmaatschappij\r\n\r\nFoto´s gemaakt door fotograaf/journalist" .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#creator> "Dhr. Bartel Hartwiesen" .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-4/1" .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#name> "Merauke, Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#description> "Navigatiekaart Aroeda Eilanden en Arafurazee.\r\nMerauke, Nederlands Nieuw-Guinea ; op kaart staat afgebeeld de Arafoera zee en Zuid-west Nieuw-Guinea tot aan de grens met Australisch Nieuw-Guinea. Schaal 1:1000.000 ; linksonder staat bladwijzer met verduid" .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#creator> "Topografische dienst Delft" .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/77dd82af8f68a54d7ebc460a1dfdf75f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/77dd82af8f68a54d7ebc460a1dfdf75f> <https://colonialcollections.nl/schema#identifier> "1874/10-1/13" .
 <https://n2t.net/ark:/27023/77dd82af8f68a54d7ebc460a1dfdf75f> <https://colonialcollections.nl/schema#name> "Nr. 13: Kotta Radja (Zuidzijde met Buskruidmagazijn), uit ´Dertig gezichten op Atjeh´" .
@@ -53,6 +83,12 @@
 <https://n2t.net/ark:/27023/779a1fd4a9b71cffe73cc25089c9167f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/779a1fd4a9b71cffe73cc25089c9167f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/779a1fd4a9b71cffe73cc25089c9167f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-28" .
+<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een (tempel)poort. Een hoge trap leidt naar de ingang. Het vele beeldhouwwerk is moeilijk te zien door het tegenlicht.\r\nFletse foto." .
+<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/77ab5ffdbbcbde6c614a888884c33987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/77ab5ffdbbcbde6c614a888884c33987> <https://colonialcollections.nl/schema#identifier> "nf%201898-5" .
 <https://n2t.net/ark:/27023/77ab5ffdbbcbde6c614a888884c33987> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, aangetroffen  in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een open ruimte tussen de Batak woonhuizen. Mannen kijken toe.\r\nOp de voorgrond een man, die duidelijk anders is dan de andere mannen. Waarschijnlijk is hij een soort pri" .
@@ -104,13 +140,6 @@
 <https://n2t.net/ark:/27023/77d209751e8555184dc6f3c629f38fda> <https://colonialcollections.nl/schema#inscription> "Z830548" .
 <https://n2t.net/ark:/27023/77d209751e8555184dc6f3c629f38fda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/77d209751e8555184dc6f3c629f38fda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/62" .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#name> "Plaat 62. 23/5 Hoofden van Rema en onderhorige kampongs." .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 62. 23/5 Hoofden van Rema en onderhorig kampongs. (plaat 14 in publicatie Kempees)." .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#inscription> "Plaat 62. 23/5 Hoofden van Rema en onderhorig kampongs." .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/77c13b7a803faeb2179f0093877b1d92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/779841bf2cb3a65d3c91f60bae969f33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/779841bf2cb3a65d3c91f60bae969f33> <https://colonialcollections.nl/schema#identifier> "2009/04/30-5-2/16" .
 <https://n2t.net/ark:/27023/779841bf2cb3a65d3c91f60bae969f33> <https://colonialcollections.nl/schema#name> "Foto´s Nederlands indië, periode 1946-1948" .
@@ -525,24 +554,6 @@
 <https://n2t.net/ark:/27023/77e5309f61c4875f8675a0d41e4b1e58> <https://colonialcollections.nl/schema#description> "Wapenembleem Infanterie Koninklijke Landmacht, twee stuks, metaal \"nulli cedo\" (ik wijk voor niets), met sluitspelden. Draagwijze: schouder battledress. In overgangsperiode in 1963 op kraag battledress." .
 <https://n2t.net/ark:/27023/77e5309f61c4875f8675a0d41e4b1e58> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/77e5309f61c4875f8675a0d41e4b1e58> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-18" .
-<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali, Banjoewangi" .
-<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#description> "Stafkaart Java, Madura & Bali, Banjoewangi; restricted, second edition, sheet 18, reproduced by 653rd ENGR.BN U.S.A.F. 1945; 1 ed.1943, 2e ed.1944.\r\nSchaal 1: 250.000." .
-<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/779bd8138d463426abd9b643d91f5c20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-2/5" .
-<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#name> "Foto´s, prentbriefkaarten Nederlandsche Stoomvaart Maatschappij, 5 stuks" .
-<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#description> "Foto´s, prentbriefkaarten (vermoedelijk vooroorlogs) Nederlandsche Stoomvaart Maatschappij, 5 stuks:\r\nSuez, Egypte\r\nBatavia Kongi besar (Chinatown)\r\nSolo Pasar\r\nBuitenzorg Paleis GG\r\nSchip Stoomvaartmaatschappij\r\n\r\nFoto´s gemaakt door fotograaf/journalist" .
-<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/77cfc9921e16ed41bdc7211f9925e781> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-4/1" .
-<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#name> "Merauke, Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#description> "Navigatiekaart Aroeda Eilanden en Arafurazee.\r\nMerauke, Nederlands Nieuw-Guinea ; op kaart staat afgebeeld de Arafoera zee en Zuid-west Nieuw-Guinea tot aan de grens met Australisch Nieuw-Guinea. Schaal 1:1000.000 ; linksonder staat bladwijzer met verduid" .
-<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/77d269474ff976029cd240a42a29869c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/77a2645b1d8d2fc850430b1d3c718daa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/77a2645b1d8d2fc850430b1d3c718daa> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42686" .
 <https://n2t.net/ark:/27023/77a2645b1d8d2fc850430b1d3c718daa> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tarmband\r\nTitel:\tglang penjangkoet\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tkoper, zilver, suase\r\n\tgebogen, gekerfd, verzilverd\r\nEmailadres: toelichting:\tHet armsieraad bestaat uit een armb" .
@@ -583,11 +594,6 @@
 <https://n2t.net/ark:/27023/77d9000a35c2fca1a93ec83498ee0ea9> <https://colonialcollections.nl/schema#description> "bestemd voor kinderen; KL: blauw, paars, natrurel; PA: pseudo-parang rusak" .
 <https://n2t.net/ark:/27023/77d9000a35c2fca1a93ec83498ee0ea9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/77d9000a35c2fca1a93ec83498ee0ea9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-28" .
-<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een (tempel)poort. Een hoge trap leidt naar de ingang. Het vele beeldhouwwerk is moeilijk te zien door het tegenlicht.\r\nFletse foto." .
-<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/77aaa9fa4f72969a316832284923a8b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/779ad24c013f76fa28b8a87dba5c6d69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/779ad24c013f76fa28b8a87dba5c6d69> <https://colonialcollections.nl/schema#identifier> "X%205749" .
 <https://n2t.net/ark:/27023/779ad24c013f76fa28b8a87dba5c6d69> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

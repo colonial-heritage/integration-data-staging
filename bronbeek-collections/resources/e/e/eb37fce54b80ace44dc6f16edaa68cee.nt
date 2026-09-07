@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/69" .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#name> "\"Ama-n-Si Pi Ih, waarnemend Kedjoeron in Gajo Loeös met zoon (l.) en neef (r.)\"" .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#description> "Foto.\r\nOp achterzijde in potlood: \"Ama-n-Si Pi Ih, waarnemend Kedjoeron in Gajo Loeös met zoon (l.) en neef (r.)\" & \"69\"" .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#inscription> "\"Ama-n-Si Pi Ih, waarnemend Kedjoeron in Gajo Loeös met zoon (l.) en neef (r.)\"" .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#identifier> "2002/00-33/8" .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#name> "16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#inscription> "16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#identifier> "1997/12/11-1-2" .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#name> "Foto portret Raden Demang Majang Koro met eresabel 2e model" .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit . Carte de Visite. Vol portret Raden Demang Majang Koro als Luitenant-kolonel (Cmdt Barisan van Bangkelang).  Raden Demang afgebeeld met eresabel 2e model. MWO4, medaille moed en trouw, Oranje Nassau met zwaarden, EBK met eervolle vermeldi" .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#creator> "H. Salzwedel, Soerabaya" .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0653dae651533b0769ac2c8e96f08024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0653dae651533b0769ac2c8e96f08024> <https://colonialcollections.nl/schema#identifier> "nf%20842-61" .
 <https://n2t.net/ark:/27023/0653dae651533b0769ac2c8e96f08024> <https://colonialcollections.nl/schema#name> "Theeplukkers te Puncak, West Java" .
@@ -5,6 +28,13 @@
 <https://n2t.net/ark:/27023/0653dae651533b0769ac2c8e96f08024> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/0653dae651533b0769ac2c8e96f08024> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0653dae651533b0769ac2c8e96f08024> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-181/2" .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#name> "Portret van militair arts J. Luining, zijn echtgenote, en vier kinderen" .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Kabinetkaart met groen/grijs kader. Portret van militair arts J. Luining met zijn echtgenote en hun vier kinderen. De jongste is een baby en ligt bij mevrouw Luining in haar armen. Ze zijn buiten in de tuin. Mevrouw Luining draagt sarong e" .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#creator> "Keng Fong" .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0667be5e5edafacf46f8bb9ad6c21c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0667be5e5edafacf46f8bb9ad6c21c87> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-121" .
 <https://n2t.net/ark:/27023/0667be5e5edafacf46f8bb9ad6c21c87> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -12,6 +42,13 @@
 <https://n2t.net/ark:/27023/0667be5e5edafacf46f8bb9ad6c21c87> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/0667be5e5edafacf46f8bb9ad6c21c87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0667be5e5edafacf46f8bb9ad6c21c87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/76" .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Staand portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Cammingha- van Swieten.\r\nFotograaf: G.A. Mögle, 10 Bazarstraat La Haye. [op enveloppe staat Bazarstraat 18]." .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#creator> "G.A. Mögle" .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/066ef057ea37fcff847c6ce22421dded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/066ef057ea37fcff847c6ce22421dded> <https://colonialcollections.nl/schema#identifier> "1997/00-1/140" .
 <https://n2t.net/ark:/27023/066ef057ea37fcff847c6ce22421dded> <https://colonialcollections.nl/schema#name> "Landkaart Midden Java met inzetkaart Karimoendjawa Eilanden en inzetkaart Semarang en Omstreken" .
@@ -31,6 +68,12 @@
 <https://n2t.net/ark:/27023/065ef523a00fd97a4d9973588fb81729> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/065ef523a00fd97a4d9973588fb81729> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/065ef523a00fd97a4d9973588fb81729> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#identifier> "nf%20988" .
+<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst, op verschillende plaatsen: \r\n'foto Dr. P. Voorhoeve - VII 91 Parholians op Samosir'\r\n\r\nDe opname toont een uit steen gebeeldhouwd beeld, e" .
+<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#creator> "P. Voorhoeve" .
+<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0673970c9fd71d43e351a7573b162543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0673970c9fd71d43e351a7573b162543> <https://colonialcollections.nl/schema#identifier> "nf%201813-1" .
 <https://n2t.net/ark:/27023/0673970c9fd71d43e351a7573b162543> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, opgeplakt op strokleurig karton, los aangetroffen.\r\n\r\nOp voorkant linksonder in inkt: 'Siboga - Hillfoot drains'\r\n\r\nOpname toont een panorama van een plaats gelegen aan een baai. Het land is bergachtig, er zijn schiereilanden en eilanden." .
@@ -65,20 +108,6 @@
 <https://n2t.net/ark:/27023/0666231ab68a44a5eaa585c7ae263046> <https://colonialcollections.nl/schema#inscription> "Deo et Patric" .
 <https://n2t.net/ark:/27023/0666231ab68a44a5eaa585c7ae263046> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0666231ab68a44a5eaa585c7ae263046> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/69" .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#name> "\"Ama-n-Si Pi Ih, waarnemend Kedjoeron in Gajo Loeös met zoon (l.) en neef (r.)\"" .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#description> "Foto.\r\nOp achterzijde in potlood: \"Ama-n-Si Pi Ih, waarnemend Kedjoeron in Gajo Loeös met zoon (l.) en neef (r.)\" & \"69\"" .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#inscription> "\"Ama-n-Si Pi Ih, waarnemend Kedjoeron in Gajo Loeös met zoon (l.) en neef (r.)\"" .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0659634793b99a8578ac3a3bdd5a708b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#identifier> "2002/00-33/8" .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#name> "16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#inscription> "16. Javanen. Regent met zijn Hoofden. (Oost-Java)" .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/066887e1cee3a3452f352ba03eae5a8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/062c7744dae8b1cadb5b72f03f184802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/062c7744dae8b1cadb5b72f03f184802> <https://colonialcollections.nl/schema#identifier> "2003/00-18-418/2" .
 <https://n2t.net/ark:/27023/062c7744dae8b1cadb5b72f03f184802> <https://colonialcollections.nl/schema#name> "Trouwe Dienst in brons" .
@@ -493,24 +522,6 @@
 <https://n2t.net/ark:/27023/0673b83b9c41d59e590d2737ad1f3ea9> <https://colonialcollections.nl/schema#description> "Foto´s, z/w, periode 1946-1949. 230 stuks." .
 <https://n2t.net/ark:/27023/0673b83b9c41d59e590d2737ad1f3ea9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0673b83b9c41d59e590d2737ad1f3ea9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#identifier> "1997/12/11-1-2" .
-<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#name> "Foto portret Raden Demang Majang Koro met eresabel 2e model" .
-<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit . Carte de Visite. Vol portret Raden Demang Majang Koro als Luitenant-kolonel (Cmdt Barisan van Bangkelang).  Raden Demang afgebeeld met eresabel 2e model. MWO4, medaille moed en trouw, Oranje Nassau met zwaarden, EBK met eervolle vermeldi" .
-<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0629ca2efb0122d3b8442041939d6e62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-181/2" .
-<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#name> "Portret van militair arts J. Luining, zijn echtgenote, en vier kinderen" .
-<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Kabinetkaart met groen/grijs kader. Portret van militair arts J. Luining met zijn echtgenote en hun vier kinderen. De jongste is een baby en ligt bij mevrouw Luining in haar armen. Ze zijn buiten in de tuin. Mevrouw Luining draagt sarong e" .
-<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0664517979ed88fe64eebc29a466b36c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/76" .
-<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Staand portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Cammingha- van Swieten.\r\nFotograaf: G.A. Mögle, 10 Bazarstraat La Haye. [op enveloppe staat Bazarstraat 18]." .
-<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/066b65ef3eeec04fc3f440bbb2e87f17> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/062d111f68f7af2cc1dee4c5a6f05863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/062d111f68f7af2cc1dee4c5a6f05863> <https://colonialcollections.nl/schema#identifier> "S%20166-111" .
 <https://n2t.net/ark:/27023/062d111f68f7af2cc1dee4c5a6f05863> <https://colonialcollections.nl/schema#description> "Voor het bewaren van zelfgemaakte opium uit de bladeren van de junkasplant. Bamboekoker met langs de boven- en benedenrand een smalle rotan vlechtband. Ronde enigszins bolle houten stop. In de koker zijn banden met geometrische motieven en bladrankmotieve" .
@@ -566,11 +577,6 @@
 <https://n2t.net/ark:/27023/066d05c90a2b9193cd100b97ad226cfc> <https://colonialcollections.nl/schema#description> "Glasnegatief, rechthoekig, zwart/wit tinten.\r\n\r\nOpname toont een blanke vrouw met een blank kindje aan de hand, lopend op de weg voor een huis." .
 <https://n2t.net/ark:/27023/066d05c90a2b9193cd100b97ad226cfc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/066d05c90a2b9193cd100b97ad226cfc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#identifier> "nf%20988" .
-<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst, op verschillende plaatsen: \r\n'foto Dr. P. Voorhoeve - VII 91 Parholians op Samosir'\r\n\r\nDe opname toont een uit steen gebeeldhouwd beeld, e" .
-<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/066d31d7f33861ff09c42d7ea2439a0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/062bd0a215ce5371044840baa25f820e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/062bd0a215ce5371044840baa25f820e> <https://colonialcollections.nl/schema#identifier> "S%20230-191" .
 <https://n2t.net/ark:/27023/062bd0a215ce5371044840baa25f820e> <https://colonialcollections.nl/schema#name> "Model van een stoel, kadera, omgeving Ternate" .

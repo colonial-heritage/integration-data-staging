@@ -35,6 +35,7 @@
 <https://n2t.net/ark:/27023/c50f10deb29ff7ac14aaed9077a07f77> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c50f10deb29ff7ac14aaed9077a07f77> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c50f10deb29ff7ac14aaed9077a07f77> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c50f10deb29ff7ac14aaed9077a07f77> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/c51946c28cb9320675d3d152faaa5eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c51946c28cb9320675d3d152faaa5eae> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/73" .
 <https://n2t.net/ark:/27023/c51946c28cb9320675d3d152faaa5eae> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -42,6 +43,13 @@
 <https://n2t.net/ark:/27023/c51946c28cb9320675d3d152faaa5eae> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/c51946c28cb9320675d3d152faaa5eae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c51946c28cb9320675d3d152faaa5eae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/11" .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#name> "Portret van" .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met inktpen) 3 Sept Wag 1886\r\nVerso: Photografische inrichtingen van W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast het station. Negativen worden voor nabestelling bewaar" .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#creator> "Photografische inrichtingen van W. Oldenkamp" .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c53a9fa48511ea6799188e562232aa06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c53a9fa48511ea6799188e562232aa06> <https://colonialcollections.nl/schema#identifier> "nf%20925-11-2" .
 <https://n2t.net/ark:/27023/c53a9fa48511ea6799188e562232aa06> <https://colonialcollections.nl/schema#name> "minaret van de missigit" .
@@ -49,6 +57,19 @@
 <https://n2t.net/ark:/27023/c53a9fa48511ea6799188e562232aa06> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c53a9fa48511ea6799188e562232aa06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c53a9fa48511ea6799188e562232aa06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#identifier> "1999/12/14-1-23" .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#name> "Witte platte pet 'Fa. A. Hassing december 1962 maat 57'" .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#description> "Platte pet, wit. 'Fa. A. Hassing, december 1962 maat 57'. Met twee lossen, witte overtrekken en twee losse blauwe overtrekken." .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#creator> "N.V. Uniformpettenfabriek v/h Fa. A. Hassing Amersfoort" .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#identifier> "nf%20323-12-2" .
+<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#description> "bijschrift; 'Een jonge man uit Sitah'" .
+<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4f54e35d99ec18e96c50e876c94464b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4f54e35d99ec18e96c50e876c94464b> <https://colonialcollections.nl/schema#identifier> "nf%20842-459" .
 <https://n2t.net/ark:/27023/c4f54e35d99ec18e96c50e876c94464b> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 73 t/m 100. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 93, in po" .
@@ -532,18 +553,6 @@
 <https://n2t.net/ark:/27023/c53fac2eff05f523a966f4ef49ad9ca0> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië 1946-1950 van Sergeant majoor P.D.Rh. Geerlings.\r\nUit een serie van 263 stuks:\r\n\"uitreis\"\r\n\"thuisreis\"\r\n\"auto-volk Batavia\"\r\n\"Batavia en omgeving\"" .
 <https://n2t.net/ark:/27023/c53fac2eff05f523a966f4ef49ad9ca0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c53fac2eff05f523a966f4ef49ad9ca0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/11" .
-<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#name> "Portret van" .
-<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met inktpen) 3 Sept Wag 1886\r\nVerso: Photografische inrichtingen van W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast het station. Negativen worden voor nabestelling bewaar" .
-<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c52d60d3e123fd417285ef619cfa4b3c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#identifier> "1999/12/14-1-23" .
-<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#name> "Witte platte pet 'Fa. A. Hassing december 1962 maat 57'" .
-<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#description> "Platte pet, wit. 'Fa. A. Hassing, december 1962 maat 57'. Met twee lossen, witte overtrekken en twee losse blauwe overtrekken." .
-<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c53aa92f64ed8a5a5c0fab3b9cd657a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c4ecbd9c21a7a7bc5172cf47679b2bec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c4ecbd9c21a7a7bc5172cf47679b2bec> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44054" .
 <https://n2t.net/ark:/27023/c4ecbd9c21a7a7bc5172cf47679b2bec> <https://colonialcollections.nl/schema#description> "Pijl met houten punt" .
@@ -584,11 +593,6 @@
 <https://n2t.net/ark:/27023/c539fbacef10dba69c2a5be7c08013f8> <https://colonialcollections.nl/schema#description> "Foto." .
 <https://n2t.net/ark:/27023/c539fbacef10dba69c2a5be7c08013f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c539fbacef10dba69c2a5be7c08013f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#identifier> "nf%20323-12-2" .
-<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#description> "bijschrift; 'Een jonge man uit Sitah'" .
-<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c4eaf805ae2697b23dd4ab1303f1c5b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c528bb8046d5e36bc3dfb3f5696ff2dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c528bb8046d5e36bc3dfb3f5696ff2dd> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/19" .
 <https://n2t.net/ark:/27023/c528bb8046d5e36bc3dfb3f5696ff2dd> <https://colonialcollections.nl/schema#name> "Colditz" .

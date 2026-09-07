@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#identifier> "1885/09-1-43" .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#name> "I. Hobein, oud 21 jaar, Matroos der 2e klasse, Ridder MWO4" .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#description> "Prent. \"I. Hobein, oud 21 jaren, Matroos der 2e klasse, Ridder van de Militaire Willems-orde, 4e Klasse\"\r\n\"Naar het leven en op steen geteekend door C.Kimmel.\" & \"Steendrij van Steuerwald & Co te Dordt.\"\r\n\"Uitgegeven te Middelburg, bij C.E. Schutters, 183" .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#creator> "C.E. Schutters" .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#creator> "I.D. Steuerwald" .
+<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#creator> "C. Kimmel" .
 <https://n2t.net/ark:/27023/7e6386993fd243f3e78cb3f4f6ee0ac1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e6386993fd243f3e78cb3f4f6ee0ac1> <https://colonialcollections.nl/schema#identifier> "nf%201357-20" .
 <https://n2t.net/ark:/27023/7e6386993fd243f3e78cb3f4f6ee0ac1> <https://colonialcollections.nl/schema#name> "Colombo" .
@@ -5,6 +14,20 @@
 <https://n2t.net/ark:/27023/7e6386993fd243f3e78cb3f4f6ee0ac1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7e6386993fd243f3e78cb3f4f6ee0ac1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7e6386993fd243f3e78cb3f4f6ee0ac1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#identifier> "1997/08/26-2-1" .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#name> "Foto's KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#description> "Foto's Bronbeek 1997/02/19, gemaakt door Ab Baak.\r\nGemaakt  t.g.v. de uitgave van het boek van W. Bevaart over Bronbeek" .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#creator> "Ab Baak" .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/18" .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Portret van Louise van Swieten als bruid, zittend met bruidsbouquet en een ingelijst portret van haar echtgenoot Jhr. van Cammingha tussen bloemen. Opgeplakt op bruin karton. Preegstempel van fotog" .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#creator> "Henri Berssenbrugge" .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7e86590bbf492f2333e967a5baddac66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e86590bbf492f2333e967a5baddac66> <https://colonialcollections.nl/schema#identifier> "nf%201758-2" .
 <https://n2t.net/ark:/27023/7e86590bbf492f2333e967a5baddac66> <https://colonialcollections.nl/schema#name> "Koningsgraven, Tampaksiring" .
@@ -19,18 +42,27 @@
 <https://n2t.net/ark:/27023/7e8c8820ae3161c43fd1c25afd6291a1> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/7e8c8820ae3161c43fd1c25afd6291a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7e8c8820ae3161c43fd1c25afd6291a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7e8c8820ae3161c43fd1c25afd6291a1> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
+<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#identifier> "nf%201424-8" .
+<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een Papoea man. Heel erg 'westers' gekleed, lange witte broek en wit overhemd met korte mouwen. Hij draagt een hoed. Bij hem" .
+<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#creator> "Jac. Hoogerbrugge" .
+<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <https://colonialcollections.nl/schema#identifier> "nf%20681-14-1" .
 <https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <https://colonialcollections.nl/schema#description> "Zwart/wit ansichtkaart.\r\n\r\nDe opname toont het \" Frederiksborg Slot\" in Denemarken. \r\n\r\nFoto toont het slot op de achtergrond met ervoor een waterpartij." .
 <https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7e6b5605d7e25083389d9b0b9290a1ab> <https://colonialcollections.nl/schema#creator> "Frederiksborg Museet" .
 <https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#identifier> "nf%201873-13" .
 <https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met anderen.\r\n\r\nOp achterkant in inkt en potlood: 'J VI.13 - Siak R; Sumatra - afk: Hr.H.Voorrips, oudgezagvoerder KPM' \r\n\r\nOpname toont een brede rivier met o.a. een schip daarop. Dit schip heeft een nummer als naam PPd4" .
-<https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#creator> "H. Voorrips" .
+<https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7e89ffe7e1a3f4441958e4119a7cfa80> <https://colonialcollections.nl/schema#creator> "H. Voorrips" .
 <https://n2t.net/ark:/27023/7e8d816d64c329b8c933da1b1ffff677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e8d816d64c329b8c933da1b1ffff677> <https://colonialcollections.nl/schema#identifier> "nf%20678-10-5" .
 <https://n2t.net/ark:/27023/7e8d816d64c329b8c933da1b1ffff677> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '595'. Geen verdere data.\r\n\r\nOpname toont een viertal (jonge) Indonesische mannen. Zij staan buiten naast een mogelijke woning. De middelste jongeman heeft, zo te zien, een m" .
@@ -508,24 +540,6 @@
 <https://n2t.net/ark:/27023/7e921cfd59c912dada6b0b9cd99894ed> <https://colonialcollections.nl/schema#description> "Slobkousen, garoetstof met katoenen voering, met leren biezen afgezet en verstelbare leren sluitriempjes. [In onbekende staat]." .
 <https://n2t.net/ark:/27023/7e921cfd59c912dada6b0b9cd99894ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7e921cfd59c912dada6b0b9cd99894ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#identifier> "1885/09-1-43" .
-<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#name> "I. Hobein, oud 21 jaar, Matroos der 2e klasse, Ridder MWO4" .
-<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#description> "Prent. \"I. Hobein, oud 21 jaren, Matroos der 2e klasse, Ridder van de Militaire Willems-orde, 4e Klasse\"\r\n\"Naar het leven en op steen geteekend door C.Kimmel.\" & \"Steendrij van Steuerwald & Co te Dordt.\"\r\n\"Uitgegeven te Middelburg, bij C.E. Schutters, 183" .
-<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7e4f6b6d40c23e434c7e9b378c64c408> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#identifier> "1997/08/26-2-1" .
-<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#name> "Foto's KTOMM Bronbeek" .
-<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#description> "Foto's Bronbeek 1997/02/19, gemaakt door Ab Baak.\r\nGemaakt  t.g.v. de uitgave van het boek van W. Bevaart over Bronbeek" .
-<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7e79d97cb91af6adeef43e5deafd373d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/18" .
-<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Portret van Louise van Swieten als bruid, zittend met bruidsbouquet en een ingelijst portret van haar echtgenoot Jhr. van Cammingha tussen bloemen. Opgeplakt op bruin karton. Preegstempel van fotog" .
-<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7e85485881f1c6805eaeffb65b5b0a7e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7e57f0ec55390fa6e9b1f5bcd483e325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e57f0ec55390fa6e9b1f5bcd483e325> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42074" .
 <https://n2t.net/ark:/27023/7e57f0ec55390fa6e9b1f5bcd483e325> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tfluit\r\nTitel:\tsoeling\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesneden\r\nEmailadres: toelichting:\tZie klapper muziekinstrumenten.\r\nAfmetingen:\tGeheel: 1,2 x 31 cm\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2607\r\nBruiklee" .
@@ -571,11 +585,6 @@
 <https://n2t.net/ark:/27023/7e8d7e7e9713768acacfaaeeb41c16cf> <https://colonialcollections.nl/schema#description> "Gevlochten tasje, Zuid Oost kust Borneo" .
 <https://n2t.net/ark:/27023/7e8d7e7e9713768acacfaaeeb41c16cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7e8d7e7e9713768acacfaaeeb41c16cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#identifier> "nf%201424-8" .
-<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een Papoea man. Heel erg 'westers' gekleed, lange witte broek en wit overhemd met korte mouwen. Hij draagt een hoed. Bij hem" .
-<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7e6211db43bb62b76a9969a2006c6dac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7e66462fbc553589ff94e13e0c3148dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7e66462fbc553589ff94e13e0c3148dc> <https://colonialcollections.nl/schema#identifier> "nf%20348" .
 <https://n2t.net/ark:/27023/7e66462fbc553589ff94e13e0c3148dc> <https://colonialcollections.nl/schema#creator> "onbekend" .

@@ -20,6 +20,20 @@
 <https://n2t.net/ark:/27023/9dcf3c1bbf1f6e21840b6f19d4f63d4d> <https://colonialcollections.nl/schema#creator> "Neville Keasberry" .
 <https://n2t.net/ark:/27023/9dcf3c1bbf1f6e21840b6f19d4f63d4d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9dcf3c1bbf1f6e21840b6f19d4f63d4d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/213" .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van C.L. van Swieten-Straeter.\r\nVerso: C.L. van Swieten-Straeter." .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#creator> "Kameke" .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#identifier> "2005/00-18/4" .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#name> "Invaliden-Bronbeek. 1897." .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#description> "Kleurenreproductie, rechtsonder initialen: J.H.v.P\r\n\r\nVoorheen ingelijst: glas + withouten lijst" .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#creator> "P.W. van de Weijer, Utrecht" .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9dd2ffce1187ac3e1ece187f94ca79b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9dd2ffce1187ac3e1ece187f94ca79b1> <https://colonialcollections.nl/schema#identifier> "nf%20842-121" .
 <https://n2t.net/ark:/27023/9dd2ffce1187ac3e1ece187f94ca79b1> <https://colonialcollections.nl/schema#name> "Javaanse boerin plant jonge rijst, West-Java" .
@@ -31,9 +45,10 @@
 <https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#identifier> "1885/09-1-39" .
 <https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#name> "Baron de Constant Rebeque" .
 <https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#description> "Prent.  Baron de Constant Rebeque.\r\n\"'s Hage, E. Spanier, lith v. Z.M.den Koning.\" & \"I.H. Hoffmeister del.\"\r\nAchterzide gestempeld: \"A. Ver Huell.\"" .
-<https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#creator> "J.H. Hoffmeister" .
 <https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9ddc0489b6e7536c0da78793814dbbab> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/9de0741373ba6a9bfe0501a230b78829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9de0741373ba6a9bfe0501a230b78829> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/204" .
 <https://n2t.net/ark:/27023/9de0741373ba6a9bfe0501a230b78829> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -48,6 +63,13 @@
 <https://n2t.net/ark:/27023/9de90e77507f68b874ae2e142341e98d> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/9de90e77507f68b874ae2e142341e98d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9de90e77507f68b874ae2e142341e98d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#identifier> "nf%20822" .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#name> "Militaire Societeit, Magelang" .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Militaire Societeit te Magelang.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Militaire Societeit, Magelang.'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië /" .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#creator> "J.M.J. van Eijck, Magelang" .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9dac431eef421fd449b86000bed278af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9dac431eef421fd449b86000bed278af> <https://colonialcollections.nl/schema#identifier> "nf%20879-35-6" .
 <https://n2t.net/ark:/27023/9dac431eef421fd449b86000bed278af> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, met lijm opgeplakt, zonder bijschrift, met in inkt bijgeschreven dubbele nummering.\r\n\r\nDeze nummering is: XXV 18A\r\n\r\nDeze opname toont fraai uitgewerkte gebeeldhouwde taferelen uit de Hindoe geschiedenis." .
@@ -511,24 +533,6 @@
 <https://n2t.net/ark:/27023/9df81325dbb1ac5afcead6a09c685372> <https://colonialcollections.nl/schema#description> "Eén paar epaulletten, model voor 1894; officieren. Metaaldraad." .
 <https://n2t.net/ark:/27023/9df81325dbb1ac5afcead6a09c685372> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9df81325dbb1ac5afcead6a09c685372> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/213" .
-<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van C.L. van Swieten-Straeter.\r\nVerso: C.L. van Swieten-Straeter." .
-<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9dcfe889f646f3f053b63999cdad060a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#identifier> "2005/00-18/4" .
-<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#name> "Invaliden-Bronbeek. 1897." .
-<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#description> "Kleurenreproductie, rechtsonder initialen: J.H.v.P\r\n\r\nVoorheen ingelijst: glas + withouten lijst" .
-<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9dd00d4e810b18c053bcf0daa352acad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#identifier> "nf%20822" .
-<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#name> "Militaire Societeit, Magelang" .
-<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de Militaire Societeit te Magelang.\r\n\r\nOnderaan op de voorkant staat vermeld: 'Militaire Societeit, Magelang.'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) onder elkaar vermeld 'BRIEFKAART uit Nederlandsch-Indië /" .
-<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9deb8d14ef6acf2128ed9676958707a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9db43e8cf2b215c59a87280d1507f545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9db43e8cf2b215c59a87280d1507f545> <https://colonialcollections.nl/schema#identifier> "S%20230-237" .
 <https://n2t.net/ark:/27023/9db43e8cf2b215c59a87280d1507f545> <https://colonialcollections.nl/schema#description> "Heupdoek (cap met handinvullingen?) met een rij langwerpige driehoeken (pucuk rebung=bamboescheuten) en in de rand daar om heen duizendpoten die de drager van de heupdoek bescherming tegen kwade invloeden geven." .

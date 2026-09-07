@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/8ca6d6b543275984adc2ee65f9601bf0> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
 <https://n2t.net/ark:/27023/8ca6d6b543275984adc2ee65f9601bf0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ca6d6b543275984adc2ee65f9601bf0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#identifier> "2001/00-54" .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#name> "132. Onderwijzers, kweekelingen en leerlingen te Buitenzorg, Java" .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#description> "Schoolplaat. 132. Onderwijzers, kweekelingen en leerlingen te Buitenzorg, Java." .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#inscription> "132. Onderwijzers, kweekelingen en leerlingen te Buitenzorg, Java" .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <https://colonialcollections.nl/schema#identifier> "nf%201408-14" .
 <https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <https://colonialcollections.nl/schema#name> "Harang Gaul - Rijstveldwachter" .
@@ -13,6 +21,7 @@
 <https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c8bca8db13e97fdd5e5f888e6d28c32> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/8c9f1a7061fdbe35db4f50fec166b6ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c9f1a7061fdbe35db4f50fec166b6ad> <https://colonialcollections.nl/schema#identifier> "nf%20842-28" .
 <https://n2t.net/ark:/27023/8c9f1a7061fdbe35db4f50fec166b6ad> <https://colonialcollections.nl/schema#name> "Zee bij Ketapang (O.Java) de oversteek van Java naar Bali" .
@@ -27,6 +36,15 @@
 <https://n2t.net/ark:/27023/8ca70b006c8568e38e2b59e5ea4544f7> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/8ca70b006c8568e38e2b59e5ea4544f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ca70b006c8568e38e2b59e5ea4544f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#identifier> "nf%20902" .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#name> "Palembang beelden van een koloniaal verleden 1914 - 1928" .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#description> "Film 'Palembang beelden van een koloniaal verleden 1914 - 1928'" .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#creator> "Museum Nusantara, 2000 - 2013" .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#creator> "drs. Pim Westerkamp MA" .
+<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#creator> "Paula Gomes" .
 <https://n2t.net/ark:/27023/8cc6023760d5e5618fb7682e2315783b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8cc6023760d5e5618fb7682e2315783b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-739/32" .
 <https://n2t.net/ark:/27023/8cc6023760d5e5618fb7682e2315783b> <https://colonialcollections.nl/schema#name> "De Korps-Commandant spreekt  de feestrede uit. Viering 40 jarig bestaan \"Korps Koloniale Reserve\", 15 april 1931." .
@@ -152,13 +170,6 @@
 <https://n2t.net/ark:/27023/8ccbfd6bd4aea34cd3ad105060b2850d> <https://colonialcollections.nl/schema#inscription> "I Shall Return, General Douglas MacArthur. Commander in Chief, South west Pacific Theater" .
 <https://n2t.net/ark:/27023/8ccbfd6bd4aea34cd3ad105060b2850d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ccbfd6bd4aea34cd3ad105060b2850d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#identifier> "2001/00-54" .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#name> "132. Onderwijzers, kweekelingen en leerlingen te Buitenzorg, Java" .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#description> "Schoolplaat. 132. Onderwijzers, kweekelingen en leerlingen te Buitenzorg, Java." .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#inscription> "132. Onderwijzers, kweekelingen en leerlingen te Buitenzorg, Java" .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8cc5d040cc666c605fdd5c089194e58f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c8be5ad3ecd659501b554116ddfad26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c8be5ad3ecd659501b554116ddfad26> <https://colonialcollections.nl/schema#identifier> "2016/10/18-1-2/81" .
 <https://n2t.net/ark:/27023/8c8be5ad3ecd659501b554116ddfad26> <https://colonialcollections.nl/schema#name> "Foto diensttijd in Indië" .
@@ -537,12 +548,6 @@
 <https://n2t.net/ark:/27023/8ce5850f8fba6ddd594a486517187e1c> <https://colonialcollections.nl/schema#description> "Een militair en kinderen in padvindersuniform op straat." .
 <https://n2t.net/ark:/27023/8ce5850f8fba6ddd594a486517187e1c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8ce5850f8fba6ddd594a486517187e1c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#identifier> "nf%20902" .
-<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#name> "Palembang beelden van een koloniaal verleden 1914 - 1928" .
-<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#description> "Film 'Palembang beelden van een koloniaal verleden 1914 - 1928'" .
-<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8cc0a72e7b352c57c80b65410891aedf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c9c7876f51038e99290bb9093ff65cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c9c7876f51038e99290bb9093ff65cb> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-68" .
 <https://n2t.net/ark:/27023/8c9c7876f51038e99290bb9093ff65cb> <https://colonialcollections.nl/schema#description> "Foto op karton." .

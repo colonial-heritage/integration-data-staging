@@ -20,6 +20,13 @@
 <https://n2t.net/ark:/27023/02f3f71fee23651cfba27f9eb3f6a308> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/02f3f71fee23651cfba27f9eb3f6a308> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02f3f71fee23651cfba27f9eb3f6a308> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#identifier> "nf%201333-7" .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#name> "Ophaalbrug Batavia" .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in drie talen, Nederlands, Frans en Indonesisch.\r\nLinks een kartelrand.\r\n\r\nOok is er waar de postzegel geplakt moet worden de naam van de uitgever: 'JAPANSCHE TOKO K.SHIMANE'\r\n\r\nOp de a" .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#creator> "Japansche Toko K. Shimane" .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/02fd21a8f96122648b9395c2fd3abebd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/02fd21a8f96122648b9395c2fd3abebd> <https://colonialcollections.nl/schema#identifier> "1997/01/06-2-1" .
 <https://n2t.net/ark:/27023/02fd21a8f96122648b9395c2fd3abebd> <https://colonialcollections.nl/schema#name> "16 dia's \"Bronbeek in de Sneeuw\"" .
@@ -34,6 +41,13 @@
 <https://n2t.net/ark:/27023/02fe55c1eb1b4255f6f82eae52c2c864> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/02fe55c1eb1b4255f6f82eae52c2c864> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/02fe55c1eb1b4255f6f82eae52c2c864> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/17" .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#name> "Groepsportret  diner ter afscheid van H.W. van der Voort, Makassar 1926" .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"Afscheid H.W. v/d Voort Makassar 1926. 1e van rechts A.J.A. Verwey.\"" .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#creator> "Yau Sie Heng Makassar" .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/03028563ecbb4e6a35e7da2df789141e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03028563ecbb4e6a35e7da2df789141e> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/36" .
 <https://n2t.net/ark:/27023/03028563ecbb4e6a35e7da2df789141e> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -542,18 +556,6 @@
 <https://n2t.net/ark:/27023/0306b0f659d3aca30ae2ed31430d8c2d> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, totaal 348 stuks, van diensttijd van R.J. Mulder bij 43 Zelfstandige Mitrailleur Compagnie (43 ZMC)  in Nederlands-Indië 1949-1950:\r\nnatuurfoto's, foto's van voornamelijk Nederlandse militairen, foto's van havens, sportdagen etc. in de pe" .
 <https://n2t.net/ark:/27023/0306b0f659d3aca30ae2ed31430d8c2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0306b0f659d3aca30ae2ed31430d8c2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#identifier> "nf%201333-7" .
-<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#name> "Ophaalbrug Batavia" .
-<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in drie talen, Nederlands, Frans en Indonesisch.\r\nLinks een kartelrand.\r\n\r\nOok is er waar de postzegel geplakt moet worden de naam van de uitgever: 'JAPANSCHE TOKO K.SHIMANE'\r\n\r\nOp de a" .
-<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/02f6b5d1ec9b84b2db0e917436d18e6a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/17" .
-<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#name> "Groepsportret  diner ter afscheid van H.W. van der Voort, Makassar 1926" .
-<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"Afscheid H.W. v/d Voort Makassar 1926. 1e van rechts A.J.A. Verwey.\"" .
-<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/03008aeeeec8f2bb8bf564a8bebe606c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/02ccbf6bd9be292fa7033b5d83f910e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/02ccbf6bd9be292fa7033b5d83f910e2> <https://colonialcollections.nl/schema#identifier> "nf%20840-13-8" .
 <https://n2t.net/ark:/27023/02ccbf6bd9be292fa7033b5d83f910e2> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant. \r\n\r\nDe enige tekst op deze fotopagina in beeld is de in zilverkleurige inkt geschreven naam \"Kaban Djahé\".\r\n\r\nTekst op achterkant in potlood " .

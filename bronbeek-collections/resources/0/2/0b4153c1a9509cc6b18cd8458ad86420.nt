@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/65" .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#name> "Plaat 65. Radja Indra Kaloei, hoofd uit Temiang" .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 65. Radja Indra Kaloei, hoofd uit Temiang" .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#inscription> "Plaat 65. Radja Indra Kaloei, hoofd uit Temiang" .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/615058a96ec5978be6e70c39e3c5f069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/615058a96ec5978be6e70c39e3c5f069> <https://colonialcollections.nl/schema#identifier> "2005/00-691" .
 <https://n2t.net/ark:/27023/615058a96ec5978be6e70c39e3c5f069> <https://colonialcollections.nl/schema#name> "Portret van Carel Hartsinck, eerste Raad en Directeur-Generaal van Neërlands Indiën" .
@@ -6,6 +14,13 @@
 <https://n2t.net/ark:/27023/615058a96ec5978be6e70c39e3c5f069> <https://colonialcollections.nl/schema#creator> "J. Houbraken" .
 <https://n2t.net/ark:/27023/615058a96ec5978be6e70c39e3c5f069> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/615058a96ec5978be6e70c39e3c5f069> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-1" .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#name> "Midden Java, 6 prentbriefkaarten" .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten gebonden in een boekje. \"Midden-Java\", Uitgave N.V. \"Uitgevers My H.Buning\".\r\nProgodal bij Magelang met op achtergrond de Soembing\r\nBij Badplaats Blabak\r\nOvergang Kali Opak naar Zuiderstrand\r\nWaterval bij den Vulkaan Merapi\r\nTandradbaan " .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/612cd4187feefcde16d0e9bb0e259e55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/612cd4187feefcde16d0e9bb0e259e55> <https://colonialcollections.nl/schema#identifier> "1988/07/27-1-1" .
 <https://n2t.net/ark:/27023/612cd4187feefcde16d0e9bb0e259e55> <https://colonialcollections.nl/schema#name> "Jongenskamp Bankong te Semarang" .
@@ -20,14 +35,42 @@
 <https://n2t.net/ark:/27023/6132e83b669590a2d6bb5cb94dbf6bff> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/6132e83b669590a2d6bb5cb94dbf6bff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6132e83b669590a2d6bb5cb94dbf6bff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-7/1" .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van Bali en Lombok" .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Gekleurd. Bali en Lombok. In goede staat.\r\nTekst verso luidt:\r\n\"Bali en Lombok.\r\nBali is het westelijke eiland der kleine Soenda eilanden met een opp. van 5808 km2 en 0,8 mill. inwoners.\r\nEr is een overvloed aan klappers en vruchtbomen.\r\n" .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#creator> "\"Emdeeha\" , de Hond, Oosterbeek" .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#identifier> "2004/03/10-1-3/2" .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#name> "Pantalon van Generaal S.H. Spoor" .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#description> "Uniform. Jas en broek. Groen, winter Australië. Alle sterren ontbreken.\r\nVoor schenking naar stomerij gestuurd." .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#creator> "Wilkes Todhunter civil & military tailors" .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#identifier> "S%204288" .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied direct ten zuidoosten van de Goenoeng Lawoe" .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#description> "Topografische kaart van gebied direct ten zuidoosten van de Goenoeng Lawoe\r\n\r\nschaal 1 : 50.000" .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#creator> "Topografische Dienst in Nederlandsch-Indië (Batavia)" .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#identifier> "2010/09/29-2-2/1" .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#name> "Foto van een relief met agrarische scenes, \"W.O.J.N. 1925\"" .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#description> "Foto van een relief met agrarische scenes, \"W.O.J.N. 1925\", \"Copyright Nauta & Haagen, Amsterdam\"." .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#creator> "Nauta&Haagen, Amsterdam" .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#identifier> "nf%20620-1" .
 <https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#name> "Riviergezicht (Kali Opak, Zuid- Midden-Java)" .
 <https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#description> "Ansichtkaart uit mapje Javasche Landschappen (views of Java)\r\nonderschrift: 'riviergezicht (Kali Opak, Zuid- Midden-Java)' \"View on the Opak-river (South-Middle Java)'\r\nmet gedeelde achterkant, (serie)nr. 7377\r\n\r\nOp de binnenkant van het mapje is een stic" .
-<https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#creator> "Tassilo Adam" .
+<https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/6147c60e9d71885f4e120f0be6e001b8> <https://colonialcollections.nl/schema#creator> "Tassilo Adam" .
 <https://n2t.net/ark:/27023/611dace454460264ba0014843bf7dca5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/611dace454460264ba0014843bf7dca5> <https://colonialcollections.nl/schema#identifier> "nf%201742-3" .
 <https://n2t.net/ark:/27023/611dace454460264ba0014843bf7dca5> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gedrukt te gebruikelijke data zoals CARTE POSTALE etc.\r\n\r\nOpname toont een groep Papoea's, meest mannen, maar ook enkele vrouwen en kinderen. Men gaat schaars gekleed, w" .
@@ -72,13 +115,6 @@
 <https://n2t.net/ark:/27023/6156c5fc9d3c8b700c7c30c604f997dd> <https://colonialcollections.nl/schema#inscription> "KNIL beroofd van 3½ jaar soldij mrt 1942-aug 1945" .
 <https://n2t.net/ark:/27023/6156c5fc9d3c8b700c7c30c604f997dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6156c5fc9d3c8b700c7c30c604f997dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/65" .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#name> "Plaat 65. Radja Indra Kaloei, hoofd uit Temiang" .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 65. Radja Indra Kaloei, hoofd uit Temiang" .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#inscription> "Plaat 65. Radja Indra Kaloei, hoofd uit Temiang" .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/613b85f56db4a4e8cd5bbb291211b543> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/611c5533904f2b9488dcdd38d181f88a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/611c5533904f2b9488dcdd38d181f88a> <https://colonialcollections.nl/schema#identifier> "IB1984/04/04-1-1" .
 <https://n2t.net/ark:/27023/611c5533904f2b9488dcdd38d181f88a> <https://colonialcollections.nl/schema#name> "Percussie jachtgeweer, 1818" .
@@ -481,36 +517,6 @@
 <https://n2t.net/ark:/27023/6156daf99b4cf74b48b1390e3b3c9b83> <https://colonialcollections.nl/schema#description> "Foto´s.  23 stuks. \r\nSuriname, TRIS." .
 <https://n2t.net/ark:/27023/6156daf99b4cf74b48b1390e3b3c9b83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6156daf99b4cf74b48b1390e3b3c9b83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-1" .
-<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#name> "Midden Java, 6 prentbriefkaarten" .
-<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten gebonden in een boekje. \"Midden-Java\", Uitgave N.V. \"Uitgevers My H.Buning\".\r\nProgodal bij Magelang met op achtergrond de Soembing\r\nBij Badplaats Blabak\r\nOvergang Kali Opak naar Zuiderstrand\r\nWaterval bij den Vulkaan Merapi\r\nTandradbaan " .
-<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6124df5e6a9cdb1bc1a769c93b186c38> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-7/1" .
-<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van Bali en Lombok" .
-<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Gekleurd. Bali en Lombok. In goede staat.\r\nTekst verso luidt:\r\n\"Bali en Lombok.\r\nBali is het westelijke eiland der kleine Soenda eilanden met een opp. van 5808 km2 en 0,8 mill. inwoners.\r\nEr is een overvloed aan klappers en vruchtbomen.\r\n" .
-<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6134603c1f61103725d68e4ff5d84653> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#identifier> "2004/03/10-1-3/2" .
-<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#name> "Pantalon van Generaal S.H. Spoor" .
-<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#description> "Uniform. Jas en broek. Groen, winter Australië. Alle sterren ontbreken.\r\nVoor schenking naar stomerij gestuurd." .
-<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/613a85b610b4298907be036cd71532fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#identifier> "S%204288" .
-<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied direct ten zuidoosten van de Goenoeng Lawoe" .
-<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#description> "Topografische kaart van gebied direct ten zuidoosten van de Goenoeng Lawoe\r\n\r\nschaal 1 : 50.000" .
-<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/613c58c33f93a855f0b81ae9a7eb2e3d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#identifier> "2010/09/29-2-2/1" .
-<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#name> "Foto van een relief met agrarische scenes, \"W.O.J.N. 1925\"" .
-<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#description> "Foto van een relief met agrarische scenes, \"W.O.J.N. 1925\", \"Copyright Nauta & Haagen, Amsterdam\"." .
-<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6141e43709371b2bb262ea94df0db35e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/611badbd062266a5c05ad579ebcc392c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/611badbd062266a5c05ad579ebcc392c> <https://colonialcollections.nl/schema#identifier> "nf%201414-64" .
 <https://n2t.net/ark:/27023/611badbd062266a5c05ad579ebcc392c> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 64, staat vermeld: 1-37 Kalioerang\r\n\r\nOpname toont, mogelijk, een terras met een tegelvloer, begrensd door een muurtje.\r\nOp dat muurtje een blanke man e" .

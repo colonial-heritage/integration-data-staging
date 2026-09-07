@@ -14,6 +14,21 @@
 <https://n2t.net/ark:/27023/4449beb575c9df315235531a18378de2> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/4449beb575c9df315235531a18378de2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4449beb575c9df315235531a18378de2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-18" .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#name> "Vuur Plan van de Batterijen der Rebellen der negerijen Saparoea en Tiauw op het Eiland Saparoea" .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#description> "Pentekening, Vuurplan van de batterijen der Rebellen der Negorijen Saparoea Tiauw op eiland Saparoea, getekend door Luitenant ter Zee H.P.N. 't Hooft\r\n\r\n\"Vuur Plan van de Batterijen der Rebellen der negerijen Saparoea en Tiauw op het Eiland Saparoea\"\r\n\"Li" .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#inscription> "Vuur Plan van de Batterijen der Rebellen der negerijen Saparoea en Tiauw op het Eiland Saparoea" .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#creator> "Luitenant-ter-zee H.P.N. 't Hooft" .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#identifier> "nf%20860-5" .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#name> "Gezicht op het Radiostation Malabar met Kloof bij Bandoeng" .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van het Radiostation Malabar bij Bandoeng.\r\n\r\nMiddenonder vermeld; 'Gezicht op het Radiostation Malabar met Kloof bij Bandoeng'. Gedeelde achterkant met overd" .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/443bf07e7502a0fb280a9835559622cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/443bf07e7502a0fb280a9835559622cf> <https://colonialcollections.nl/schema#identifier> "nf%20882-6" .
 <https://n2t.net/ark:/27023/443bf07e7502a0fb280a9835559622cf> <https://colonialcollections.nl/schema#name> "Karbauwengat" .
@@ -21,6 +36,13 @@
 <https://n2t.net/ark:/27023/443bf07e7502a0fb280a9835559622cf> <https://colonialcollections.nl/schema#creator> "Luchtvaart-Afdeling van het Nederlands Indisch Leger [Bandoeng]" .
 <https://n2t.net/ark:/27023/443bf07e7502a0fb280a9835559622cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/443bf07e7502a0fb280a9835559622cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/112" .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Tante Lien ; of is dit Constance? ; Lien van Swieten, dochter v. generaal v. Swieten.\r\nFotograaf: De Lavieter, Den Haag." .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#creator> "De Lavieter & Co, Photographes" .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44497c93fb03fae6bd9e997b0e2f39af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44497c93fb03fae6bd9e997b0e2f39af> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-557" .
 <https://n2t.net/ark:/27023/44497c93fb03fae6bd9e997b0e2f39af> <https://colonialcollections.nl/schema#name> "Korte broek ceremonieel, uitgaans- en werktenue Papoea Vrijwilligers Korps (PVK) Nederlands Nieuw-Guinea" .
@@ -42,6 +64,13 @@
 <https://n2t.net/ark:/27023/44737295bea96548bb8b07308664f860> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/44737295bea96548bb8b07308664f860> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/44737295bea96548bb8b07308664f860> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-95" .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#name> "Carte de visite:?" .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite." .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#creator> "Photographisch Atelier G.L.Mulder, Utrecht" .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/447a22aa69af034c7c1a1a0b6ed600ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/447a22aa69af034c7c1a1a0b6ed600ef> <https://colonialcollections.nl/schema#identifier> "1999/01/05-11-3" .
 <https://n2t.net/ark:/27023/447a22aa69af034c7c1a1a0b6ed600ef> <https://colonialcollections.nl/schema#name> "Indië bevrijden. Een nieuwe taak voor den Vliegenden Hollander" .
@@ -68,6 +97,12 @@
 <https://n2t.net/ark:/27023/4441de00ffa8cb3a4571ecc519dfb72b> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/4441de00ffa8cb3a4571ecc519dfb72b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4441de00ffa8cb3a4571ecc519dfb72b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#identifier> "EDO%20481-64" .
+<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nVeel mensen op de been. \r\nCentraal een (verbrandings)toren, met onderaan een heel grote ?Garudakop, gedragen door heel veel mannen." .
+<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/44678daf63f18724b8a7da1de7e552ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/44678daf63f18724b8a7da1de7e552ce> <https://colonialcollections.nl/schema#identifier> "nf%201584-1" .
 <https://n2t.net/ark:/27023/44678daf63f18724b8a7da1de7e552ce> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt de volgende tekst: 'Montage brug. Bat. waterleidding. over de Tji Sedane. bij Buitenzorg'.\r\n\r\nOpname toont een in aanbouw zijn de brug" .
@@ -115,13 +150,6 @@
 <https://n2t.net/ark:/27023/4478dfdbe72caabc847497c186fb0bab> <https://colonialcollections.nl/schema#inscription> "aan mijn vriend van der Weide Meulaboh, 12 jan ´14" .
 <https://n2t.net/ark:/27023/4478dfdbe72caabc847497c186fb0bab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4478dfdbe72caabc847497c186fb0bab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#identifier> "1969/06/25-1-18" .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#name> "Vuur Plan van de Batterijen der Rebellen der negerijen Saparoea en Tiauw op het Eiland Saparoea" .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#description> "Pentekening, Vuurplan van de batterijen der Rebellen der Negorijen Saparoea Tiauw op eiland Saparoea, getekend door Luitenant ter Zee H.P.N. 't Hooft\r\n\r\n\"Vuur Plan van de Batterijen der Rebellen der negerijen Saparoea en Tiauw op het Eiland Saparoea\"\r\n\"Li" .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#inscription> "Vuur Plan van de Batterijen der Rebellen der negerijen Saparoea en Tiauw op het Eiland Saparoea" .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/446449d9d93aac21e84291175372d0b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/442e6bcf892b94109d761067c3980454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/442e6bcf892b94109d761067c3980454> <https://colonialcollections.nl/schema#identifier> "2006/12/20-4-2/298" .
 <https://n2t.net/ark:/27023/442e6bcf892b94109d761067c3980454> <https://colonialcollections.nl/schema#name> "Foto Nederlands Indië" .
@@ -542,24 +570,6 @@
 <https://n2t.net/ark:/27023/447ae6f77b05b40ee306e847446251dc> <https://colonialcollections.nl/schema#description> "Foto´s. Zwart-wit. Totaal 157 stuks uit de periode 1946-1948 met betrekking tot de militaire aanwezigheid in Nederlands Indië.\r\nDeels voorzien van geschreven documentatie op achterzijde foto´s." .
 <https://n2t.net/ark:/27023/447ae6f77b05b40ee306e847446251dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/447ae6f77b05b40ee306e847446251dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#identifier> "nf%20860-5" .
-<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#name> "Gezicht op het Radiostation Malabar met Kloof bij Bandoeng" .
-<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van het Radiostation Malabar bij Bandoeng.\r\n\r\nMiddenonder vermeld; 'Gezicht op het Radiostation Malabar met Kloof bij Bandoeng'. Gedeelde achterkant met overd" .
-<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4438170c0457e9f4491d6ea9d16f3f8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/112" .
-<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Tante Lien ; of is dit Constance? ; Lien van Swieten, dochter v. generaal v. Swieten.\r\nFotograaf: De Lavieter, Den Haag." .
-<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/443ff96d552d085e94e42de6b4fba81d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-95" .
-<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#name> "Carte de visite:?" .
-<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite." .
-<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/44755ba0d4b8e10eae29244b036545b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4436107f0e71db9568ca6c312eeea00f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4436107f0e71db9568ca6c312eeea00f> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41879" .
 <https://n2t.net/ark:/27023/4436107f0e71db9568ca6c312eeea00f> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tharnas\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thuid\r\nEmailadres: toelichting:\tHarnas ter bescherming van het bovenlichaam gemaakt van dierenhuid.\r\nAfmetingen:\tH 63, Diam 30\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t241" .
@@ -580,11 +590,6 @@
 <https://n2t.net/ark:/27023/446ce5fb9f5176146c21c57276287b54> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tbeeld\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, gesneden\r\nEmailadres: toelichting:\tBeeld, korwar genaamd, stelt een herinnering aan een overledene voor. Zittende vrouwenfiguur met de armen rond een voorwerp" .
 <https://n2t.net/ark:/27023/446ce5fb9f5176146c21c57276287b54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/446ce5fb9f5176146c21c57276287b54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#identifier> "EDO%20481-64" .
-<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nVeel mensen op de been. \r\nCentraal een (verbrandings)toren, met onderaan een heel grote ?Garudakop, gedragen door heel veel mannen." .
-<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/445715d4f2bd3b2b6bba6406807efd85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/444ee1d0973504bdf0429852ef51bb1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/444ee1d0973504bdf0429852ef51bb1c> <https://colonialcollections.nl/schema#identifier> "1868/10-1-1" .
 <https://n2t.net/ark:/27023/444ee1d0973504bdf0429852ef51bb1c> <https://colonialcollections.nl/schema#name> "Salonorgel met speelklok" .

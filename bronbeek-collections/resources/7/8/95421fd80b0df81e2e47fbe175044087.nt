@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-3" .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#name> "Kali te Soerabaia" .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Kali te Soerabaia." .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#inscription> "Kali te Soerabaia" .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#creator> "Firma Mw. Riemens, Soerabaia" .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/18" .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#name> "Klein dier zittend op achterpoten" .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#description> "Klein dier [onduidelijk wat het is] zittend op achterpoten." .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/10" .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#name> "Portret van Albertine Alexandrine Holle Denninghoff Stelling" .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met ballpoint) Albertine Alexandrine Holle Denninghoff Stelling, moeder van Lizzy\r\nVerso: Photografische inrichtingen van W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast h" .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#creator> "Photografische inrichtingen van W. Oldenkamp" .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d257de9004499ac12f4f51823b751635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d257de9004499ac12f4f51823b751635> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-39" .
 <https://n2t.net/ark:/27023/d257de9004499ac12f4f51823b751635> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -5,6 +28,13 @@
 <https://n2t.net/ark:/27023/d257de9004499ac12f4f51823b751635> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/d257de9004499ac12f4f51823b751635> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d257de9004499ac12f4f51823b751635> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-32" .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#name> "Nederlandse versterking arriveert vanuit Semarang" .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#description> "Nederlandse versterking arriveert vanuit Semarang. 1 maart 1949." .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d2611b1934477ecb76381772ad2876ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d2611b1934477ecb76381772ad2876ac> <https://colonialcollections.nl/schema#identifier> "2003/02/12-1/1" .
 <https://n2t.net/ark:/27023/d2611b1934477ecb76381772ad2876ac> <https://colonialcollections.nl/schema#name> "Nr. 1: Tent 2e bevelhebber, uit ´Dertig gezichten op Atjeh´" .
@@ -37,6 +67,12 @@
 <https://n2t.net/ark:/27023/d24a20b81d9224677ddbd60d59063544> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/d24a20b81d9224677ddbd60d59063544> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d24a20b81d9224677ddbd60d59063544> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-13" .
+<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#description> "Carte de visite." .
+<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#creator> "Woodbury Java" .
+<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d258821a1b3840be9c35c9b5daca1bbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d258821a1b3840be9c35c9b5daca1bbb> <https://colonialcollections.nl/schema#identifier> "nf%201898-1" .
 <https://n2t.net/ark:/27023/d258821a1b3840be9c35c9b5daca1bbb> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, aangetroffen in mogelijk pergamijnenvelop.\r\n\r\nOpname toont een Batak dorp, zoals het in het landschap stond.\r\n\r\nN.B.: Vermoedelijk zijn hier twee verschillende foto's bij elkaar gelegd en nogmaals gefotografeerd, om zo één negatie" .
@@ -58,17 +94,11 @@
 <https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#identifier> "nf%20677-26" .
 <https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los. Dus niet opgeplakt aangetroffen.\r\n\r\nKaart met 'gedeelde' achterkant en de erbij horende belijning. \r\nEr is gedrukte tekst, die luidt: 'Deutsches Ledermuseum Offenbach/M. Chinesisches Schattenspielbild aus farbige" .
-<https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#creator> "Deutsches Ledermuseum Offenbach/M." .
 <https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/d27588529224eafbec3391fc2c2bb4a6> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#identifier> "1998/07/15-2-3" .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#name> "Kali te Soerabaia" .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Kali te Soerabaia." .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#inscription> "Kali te Soerabaia" .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d23be25d75127c70bed7c1f7ee1689d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d237749391b9d3802d2970334c461643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d237749391b9d3802d2970334c461643> <https://colonialcollections.nl/schema#identifier> "2000/02/21-4/14" .
 <https://n2t.net/ark:/27023/d237749391b9d3802d2970334c461643> <https://colonialcollections.nl/schema#name> "Foto Militaire Luchtvaart/ KST-RST, periode 1945-1950" .
@@ -489,24 +519,6 @@
 <https://n2t.net/ark:/27023/d27ea859acdaa6bab93a078114b69e0b> <https://colonialcollections.nl/schema#description> "Fotokopie van uittreksel, gedateerd 1902. Bestaat uit drie pagina's. In goede staat." .
 <https://n2t.net/ark:/27023/d27ea859acdaa6bab93a078114b69e0b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d27ea859acdaa6bab93a078114b69e0b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/18" .
-<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#name> "Klein dier zittend op achterpoten" .
-<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#description> "Klein dier [onduidelijk wat het is] zittend op achterpoten." .
-<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d23ea2ba72829975b547b8d10dbcae92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/10" .
-<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#name> "Portret van Albertine Alexandrine Holle Denninghoff Stelling" .
-<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met ballpoint) Albertine Alexandrine Holle Denninghoff Stelling, moeder van Lizzy\r\nVerso: Photografische inrichtingen van W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast h" .
-<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d255e96579d880d56f0749e608e47c01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-32" .
-<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#name> "Nederlandse versterking arriveert vanuit Semarang" .
-<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#description> "Nederlandse versterking arriveert vanuit Semarang. 1 maart 1949." .
-<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d25de09a360736e61bee4742b05a8c6b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d238095d7920a4ea15ccab53176c7ac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d238095d7920a4ea15ccab53176c7ac6> <https://colonialcollections.nl/schema#identifier> "1996/05/02-1-5/124" .
 <https://n2t.net/ark:/27023/d238095d7920a4ea15ccab53176c7ac6> <https://colonialcollections.nl/schema#description> "Foto." .
@@ -562,11 +574,6 @@
 <https://n2t.net/ark:/27023/d27cba7a7c00fa7df9f75afc7e7eb66d> <https://colonialcollections.nl/schema#description> "Pijl van sagobladnerf" .
 <https://n2t.net/ark:/27023/d27cba7a7c00fa7df9f75afc7e7eb66d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d27cba7a7c00fa7df9f75afc7e7eb66d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-13" .
-<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#description> "Carte de visite." .
-<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d24a4e0fb75167b6691529d819c89623> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d23a843218512e63b2a55f1b0c639f84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d23a843218512e63b2a55f1b0c639f84> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/478" .
 <https://n2t.net/ark:/27023/d23a843218512e63b2a55f1b0c639f84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

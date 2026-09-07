@@ -1,10 +1,19 @@
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#identifier> "2001/00-2" .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#name> "Generaal Daendels" .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#description> "Prent. Ets?\r\n\"Generaal Daendels\"; \"E.Josi, delin. et Sculp.1798.\"" .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#inscription> "Generaal Daendels" .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#creator> "E. Josi" .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#identifier> "nf%201304-7" .
 <https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#name> "Pandoe" .
 <https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nDeze plaat behoort met anderen, allemaal losse platen, tot een boekwerk met het inventarisnummer N7221.\r\nNaast de platen bestaat dit boekwer" .
-<https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efa912e982d408ff7fed4a6aabdce53f> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/efaae373706d3d228f08620997184479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efaae373706d3d228f08620997184479> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/20" .
 <https://n2t.net/ark:/27023/efaae373706d3d228f08620997184479> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -12,6 +21,13 @@
 <https://n2t.net/ark:/27023/efaae373706d3d228f08620997184479> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/efaae373706d3d228f08620997184479> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efaae373706d3d228f08620997184479> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/5" .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#name> "Roomsch Katholieke kerk te Weltevreden, Waterlooplein." .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Rooms Katholieke kerk te Weltevreden. Waterlooplein'." .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efca5bc9916986a19b478cd3412265a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efca5bc9916986a19b478cd3412265a9> <https://colonialcollections.nl/schema#identifier> "2000/12/11-2-3" .
 <https://n2t.net/ark:/27023/efca5bc9916986a19b478cd3412265a9> <https://colonialcollections.nl/schema#name> "Foto van het landgoed van Bronbeek april 2000" .
@@ -30,9 +46,10 @@
 <https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/5" .
 <https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
 <https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door de NIWIN voor de troepen in Nederlands-Indië / Indonesië.\r\nFoto J.A. Stevens Klappermelk lest de dorst ! (Hr Ms v. Kinsbergen te Sabang)" .
-<https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
+<https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
 <https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efda19b611fe68f255b38216d0e33f49> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/efee96357ef6e881f257e6e5c565c51a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efee96357ef6e881f257e6e5c565c51a> <https://colonialcollections.nl/schema#identifier> "IB1967/08/24-1-5" .
 <https://n2t.net/ark:/27023/efee96357ef6e881f257e6e5c565c51a> <https://colonialcollections.nl/schema#name> "Gipsen paneel, studie voor het van Heutszmonument te Weltevreden, van H. van den Eynde" .
@@ -40,6 +57,13 @@
 <https://n2t.net/ark:/27023/efee96357ef6e881f257e6e5c565c51a> <https://colonialcollections.nl/schema#creator> "H.A. van den Eynde" .
 <https://n2t.net/ark:/27023/efee96357ef6e881f257e6e5c565c51a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efee96357ef6e881f257e6e5c565c51a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/57" .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#name> "\"Prapat aan het Toba Meer\"" .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Prapat aan het Toba Meer\"." .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#creator> "W.T. Uhlenhuth" .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efb029b222fe1145d93bc35c37cafe4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efb029b222fe1145d93bc35c37cafe4e> <https://colonialcollections.nl/schema#identifier> "nf%201311-28" .
 <https://n2t.net/ark:/27023/efb029b222fe1145d93bc35c37cafe4e> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, los, met tekst achterop.\r\n\r\nDeze in inkt geschreven tekst luidt: ' 22 Oct. 28 - Wat gezellig, hè ? - Jellie en Bettie'.\r\n\r\nOpname van twee kleine kinderen, met krulletjes, zittend op houten stoelen, buiten is de tuin. Op de achtergrond st" .
@@ -52,12 +76,19 @@
 <https://n2t.net/ark:/27023/efb3557069562ae34c953a4622a985f1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/efb3557069562ae34c953a4622a985f1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efb3557069562ae34c953a4622a985f1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#identifier> "nf%20984" .
+<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst.\r\n'foto pater H.J.A. Promes'\r\n\r\nEveneens op achterkant is een papiertje geplakt met getypte tekst, die luidt:\r\n1903+1904 - Sarkophaag in Lu" .
+<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#creator> "H.J.A. Promes" .
+<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#identifier> "nf%201474" .
 <https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#description> "Ansichtkaartr, zwart/wit, met gescheiden belijning, los aangetroffen\r\n\r\nOpname toont een vermoedelijk Balinese danseres. Zij is niet ten voeten uit afgebeeld." .
-<https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efc0ac741cd743e6a537dbfb4ca6ed9c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/efdc8489048fbff4e49e022b297e262c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efdc8489048fbff4e49e022b297e262c> <https://colonialcollections.nl/schema#identifier> "nf%20330-3" .
 <https://n2t.net/ark:/27023/efdc8489048fbff4e49e022b297e262c> <https://colonialcollections.nl/schema#description> "woonhuis" .
@@ -91,13 +122,6 @@
 <https://n2t.net/ark:/27023/efed9da0a4defc03f1d6b7cb2709c224> <https://colonialcollections.nl/schema#inscription> "84229" .
 <https://n2t.net/ark:/27023/efed9da0a4defc03f1d6b7cb2709c224> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efed9da0a4defc03f1d6b7cb2709c224> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#identifier> "2001/00-2" .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#name> "Generaal Daendels" .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#description> "Prent. Ets?\r\n\"Generaal Daendels\"; \"E.Josi, delin. et Sculp.1798.\"" .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#inscription> "Generaal Daendels" .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/efd64ee6bad3c08fa2d1e7c6c7b3f541> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efa6f8d31ca12237b77f02dc23457b92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efa6f8d31ca12237b77f02dc23457b92> <https://colonialcollections.nl/schema#identifier> "1998/09/07-1-50/21" .
 <https://n2t.net/ark:/27023/efa6f8d31ca12237b77f02dc23457b92> <https://colonialcollections.nl/schema#name> "Rangonderscheidingsteken, textiel" .
@@ -524,18 +548,6 @@
 <https://n2t.net/ark:/27023/efeeabf32d166de7498f71fb75ad8634> <https://colonialcollections.nl/schema#description> "Foto zwart/wit, totaal 243 stuks(incl. 2 negatieven + 1 kleur), diensttijd J.A. Sluimer bij 1ste Divisie '7 December' /C-Divisie '7 December'.\r\nVrouweneenheid militairen, marcheren, op de rug gezien." .
 <https://n2t.net/ark:/27023/efeeabf32d166de7498f71fb75ad8634> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efeeabf32d166de7498f71fb75ad8634> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/5" .
-<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#name> "Roomsch Katholieke kerk te Weltevreden, Waterlooplein." .
-<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Rooms Katholieke kerk te Weltevreden. Waterlooplein'." .
-<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/efada2dc703d9fa458c9c2513ae89c5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/57" .
-<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#name> "\"Prapat aan het Toba Meer\"" .
-<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Prapat aan het Toba Meer\"." .
-<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/efeeac5b9e9217d70c3ab8d58e96593f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efaeb165f7ce541923fdc04bfd8a4077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efaeb165f7ce541923fdc04bfd8a4077> <https://colonialcollections.nl/schema#identifier> "S%2024-9" .
 <https://n2t.net/ark:/27023/efaeb165f7ce541923fdc04bfd8a4077> <https://colonialcollections.nl/schema#description> "Jak, rechthoekig; aan rechter- en linkerkant onderaan een split; aan de achterkant van de hals een driehoekig verlengstuk; alle randen voorzien van rode biesband; horizontaal op voor- en achterpanden een met rode draad aangebrachte versiering in driehoeks" .
@@ -576,11 +588,6 @@
 <https://n2t.net/ark:/27023/efeaf370f25deaa94046453b5c64c0ab> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Mentaweiers bij het eten." .
 <https://n2t.net/ark:/27023/efeaf370f25deaa94046453b5c64c0ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efeaf370f25deaa94046453b5c64c0ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#identifier> "nf%20984" .
-<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst.\r\n'foto pater H.J.A. Promes'\r\n\r\nEveneens op achterkant is een papiertje geplakt met getypte tekst, die luidt:\r\n1903+1904 - Sarkophaag in Lu" .
-<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/efbd7bb5072361027561397c20d1ea33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efd8a5795479e6a8051ace1cc013e39c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efd8a5795479e6a8051ace1cc013e39c> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-221" .
 <https://n2t.net/ark:/27023/efd8a5795479e6a8051ace1cc013e39c> <https://colonialcollections.nl/schema#name> "Kruithoorn" .

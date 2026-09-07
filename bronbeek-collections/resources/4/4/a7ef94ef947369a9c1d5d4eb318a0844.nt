@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#identifier> "IB1987/11/02-1-2" .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#name> "Portret van de eerste echtgenote van de Soesoehoenan Pakoe Boewono X" .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#description> "Schilderij. Portret van de eerste echtgenote van de Soesoehoenan Pakoe Boewono X. Geschilderd door Wignjo Soewarno. Op Gesneden Japara ezel.\r\nGesigneerd \"Wignjo Soewarno, 1923\"." .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#inscription> "Wignjo Soewarno, 1923" .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#creator> "Wignosoewarno" .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/12" .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#name> "KNIL-militairen leveren strijd bij Kesiman wanneer zij Den Pasar naderen" .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nKNIL-militairen leveren strijd bij Kesiman wanneer zij Den Pasar naderen." .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#identifier> "2003/03/12-5-3" .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#name> "Foto van een Inlandse geneesheer?, in een lijst" .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#description> "Foto. In lijst. Inlandse geneesheer?. \"Foto van Oeveren\", als reliefstempel." .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#creator> "Foto van Oeveren" .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ceb5dc9eddaf0db521f244657d59c493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ceb5dc9eddaf0db521f244657d59c493> <https://colonialcollections.nl/schema#identifier> "nf%20496" .
 <https://n2t.net/ark:/27023/ceb5dc9eddaf0db521f244657d59c493> <https://colonialcollections.nl/schema#name> "slaapkamerinterieur" .
@@ -9,9 +32,10 @@
 <https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#identifier> "nf%201408-108" .
 <https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#name> "Laboean - Soengei Deli" .
 <https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#description> "afbeelding toont een rivier, met op beide oevers bebouwing. Op palen staande eenvoudige uit hout opgetrokken woningen. Alles dicht en bijna op elkaar gebouwd.\r\nDe zichtbare vegetatie bestaat bij uitsluitend uit kokospalmen.\r\nOp de rivier een groot zeegaan" .
-<https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ceb99f51c599b878856cd157a6fdb640> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/ceca5320cc44eca2a3cee0e65519fabc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ceca5320cc44eca2a3cee0e65519fabc> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/28" .
 <https://n2t.net/ark:/27023/ceca5320cc44eca2a3cee0e65519fabc> <https://colonialcollections.nl/schema#name> "Inspectie van de troepen door landvoogd van Mook, generaal-majoor De Quant, generaal-majoor Buurman van Vreeden en vice-admiraal Pinke,  tijdens de viering van het 200-jarige bestaan van het Korps Mineurs en Sappeurs, Batavia" .
@@ -26,6 +50,13 @@
 <https://n2t.net/ark:/27023/cecbcb4f9c6775b13f3679ca22294b03> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cecbcb4f9c6775b13f3679ca22294b03> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cecbcb4f9c6775b13f3679ca22294b03> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/7" .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. Publiek kijkt naar Indonesische dansvoorstelling door danser in traditionele kledij op podium.\r\n\r\nVerso: stempel:\r\n\r\ncopyright reserved by:\r\nfoto" .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#creator> "Fotopersbureau \"Hendriksen-Valk\"" .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cee0236961f3d052585e4958ba08135c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cee0236961f3d052585e4958ba08135c> <https://colonialcollections.nl/schema#identifier> "2010/10/06-3/5" .
 <https://n2t.net/ark:/27023/cee0236961f3d052585e4958ba08135c> <https://colonialcollections.nl/schema#name> "Foto, een van 22 stuks, carte de visite, interieurs en groepsfoto's" .
@@ -33,6 +64,13 @@
 <https://n2t.net/ark:/27023/cee0236961f3d052585e4958ba08135c> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/cee0236961f3d052585e4958ba08135c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cee0236961f3d052585e4958ba08135c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/2" .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#name> "Serie foto's betreffende diensttijd in Grave en verblijf in Nieuw-Guinea van G.J. Dominicus" .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#description> "Foto's van G.J. Dominicus' diensttijd in Grave en verblijf in Soerabaia en Nieuw-Guinea.\r\n\r\n- 5 foto's opleiding Grave o.m. (Gabous [?] kazerne op Ridax-papier (6 x      8,9 cm)\r\n- 3 foto's op ongemerkt papier o.a. Jo Hoekman en Ben Peters te Angeren   en" .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cee2f6868b55eb050138fa76afb83059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cee2f6868b55eb050138fa76afb83059> <https://colonialcollections.nl/schema#identifier> "nf%20925-18-2" .
 <https://n2t.net/ark:/27023/cee2f6868b55eb050138fa76afb83059> <https://colonialcollections.nl/schema#name> "aan tafel in Benderedjo" .
@@ -40,6 +78,13 @@
 <https://n2t.net/ark:/27023/cee2f6868b55eb050138fa76afb83059> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cee2f6868b55eb050138fa76afb83059> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cee2f6868b55eb050138fa76afb83059> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/2" .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De genodigden zittend op de eerste rij. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer, Koni" .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#creator> "Nationaal Foto Persbureau" .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cebb0bb8342824ed2c281bfe4ef93db8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cebb0bb8342824ed2c281bfe4ef93db8> <https://colonialcollections.nl/schema#identifier> "nf%201445" .
 <https://n2t.net/ark:/27023/cebb0bb8342824ed2c281bfe4ef93db8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOpname lijkt bijna een statiefoto. Gefotografeerd zijn een Dajak hoofdman, geflankeerd door twee vrouwen. Alle drie vermoedelijk in ceremoniële kleding." .
@@ -92,20 +137,6 @@
 <https://n2t.net/ark:/27023/cef2dce208faba8805ceaba3b25bb465> <https://colonialcollections.nl/schema#inscription> "Liège XIII" .
 <https://n2t.net/ark:/27023/cef2dce208faba8805ceaba3b25bb465> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cef2dce208faba8805ceaba3b25bb465> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#identifier> "IB1987/11/02-1-2" .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#name> "Portret van de eerste echtgenote van de Soesoehoenan Pakoe Boewono X" .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#description> "Schilderij. Portret van de eerste echtgenote van de Soesoehoenan Pakoe Boewono X. Geschilderd door Wignjo Soewarno. Op Gesneden Japara ezel.\r\nGesigneerd \"Wignjo Soewarno, 1923\"." .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#inscription> "Wignjo Soewarno, 1923" .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ceada8b49a5e4ee21cb2e46866243f94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/12" .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#name> "KNIL-militairen leveren strijd bij Kesiman wanneer zij Den Pasar naderen" .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nKNIL-militairen leveren strijd bij Kesiman wanneer zij Den Pasar naderen." .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cec21b9f01e6fd69ba541391479d18f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ceab49467aa37f079392988313f27240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ceab49467aa37f079392988313f27240> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43232" .
 <https://n2t.net/ark:/27023/ceab49467aa37f079392988313f27240> <https://colonialcollections.nl/schema#name> "Houten beeld" .
@@ -520,30 +551,6 @@
 <https://n2t.net/ark:/27023/cef2aaebffb23bb5cf2218adefdef11a> <https://colonialcollections.nl/schema#description> "Onderbroek groen." .
 <https://n2t.net/ark:/27023/cef2aaebffb23bb5cf2218adefdef11a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cef2aaebffb23bb5cf2218adefdef11a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#identifier> "2003/03/12-5-3" .
-<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#name> "Foto van een Inlandse geneesheer?, in een lijst" .
-<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#description> "Foto. In lijst. Inlandse geneesheer?. \"Foto van Oeveren\", als reliefstempel." .
-<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ceaee45e878d2943f64ac7a5618122d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/7" .
-<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. Publiek kijkt naar Indonesische dansvoorstelling door danser in traditionele kledij op podium.\r\n\r\nVerso: stempel:\r\n\r\ncopyright reserved by:\r\nfoto" .
-<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cedd4ab0358fe660d323fd9038a8d2ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/2" .
-<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#name> "Serie foto's betreffende diensttijd in Grave en verblijf in Nieuw-Guinea van G.J. Dominicus" .
-<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#description> "Foto's van G.J. Dominicus' diensttijd in Grave en verblijf in Soerabaia en Nieuw-Guinea.\r\n\r\n- 5 foto's opleiding Grave o.m. (Gabous [?] kazerne op Ridax-papier (6 x      8,9 cm)\r\n- 3 foto's op ongemerkt papier o.a. Jo Hoekman en Ben Peters te Angeren   en" .
-<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cee1e5c8a44e9ca1fd8384172328ac89> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-135/2" .
-<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De genodigden zittend op de eerste rij. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer, Koni" .
-<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ceee0b393dbe4edcc984815a4b21375f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ceae3c6d7d9cb5b6f9a73c2a8b79ed1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ceae3c6d7d9cb5b6f9a73c2a8b79ed1c> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-27/40" .
 <https://n2t.net/ark:/27023/ceae3c6d7d9cb5b6f9a73c2a8b79ed1c> <https://colonialcollections.nl/schema#description> "Foto." .

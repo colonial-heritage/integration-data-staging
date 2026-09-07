@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-70" .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#name> "Carte de visite: Ds. Scheuer" .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Ds. Scheuer\"" .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#inscription> "Ds. Scheuer" .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#creator> "Etablissement Photographique de Maes & Michaux" .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/857c0efa56f46e6eea50d05fa558c14d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/857c0efa56f46e6eea50d05fa558c14d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/078" .
 <https://n2t.net/ark:/27023/857c0efa56f46e6eea50d05fa558c14d> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -27,6 +35,7 @@
 <https://n2t.net/ark:/27023/8569fcb76c23cbc5e135278cb78bd1c6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8569fcb76c23cbc5e135278cb78bd1c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8569fcb76c23cbc5e135278cb78bd1c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8569fcb76c23cbc5e135278cb78bd1c6> <https://colonialcollections.nl/schema#creator> "J.H.Zindler, Nieuw Guinea" .
 <https://n2t.net/ark:/27023/85718e046d0381d5478fcbba8de0b3f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/85718e046d0381d5478fcbba8de0b3f4> <https://colonialcollections.nl/schema#identifier> "nf%20490-2" .
 <https://n2t.net/ark:/27023/85718e046d0381d5478fcbba8de0b3f4> <https://colonialcollections.nl/schema#name> "brug over de Tjitaroem voorbij Tjimahi" .
@@ -41,6 +50,34 @@
 <https://n2t.net/ark:/27023/85739a11c12ac3d9fb8c62e2b2f5074a> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/85739a11c12ac3d9fb8c62e2b2f5074a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/85739a11c12ac3d9fb8c62e2b2f5074a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/120" .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#name> "Poera Singaradja, Bali." .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Poera Singaradja, Bali." .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#identifier> "nf%20901" .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#name> "The dancer and the dance" .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#description> "Film 'The dancer and the dance'" .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#creator> "Felicia Hughes-Freeland" .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#identifier> "2017/04/03-3-1/2" .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#name> "Carte de Cabinet van George Philip Berkes met zijn vrouw Saminah" .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#description> "Foto. Carte de Cabinet. George Philip Berkes met zijn vrouw Saminah met kind en broer/neef van Saminah." .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#creator> "Tantingtjhiang Photografie" .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#identifier> "2010/06/14-2-1" .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#name> "Kamponggezicht van Frederik Kasenda, 1930" .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#description> "Schilderij. Olieverf op doek. Ingelijst. Linksonder gesigneerd \"Frederik Kasenda 1930\"- Gezicht op een Kampong." .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#creator> "Frederik Kasènda" .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/859800ca8b2fb07735fe0551f3c169bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/859800ca8b2fb07735fe0551f3c169bd> <https://colonialcollections.nl/schema#identifier> "1997/00-1/345" .
 <https://n2t.net/ark:/27023/859800ca8b2fb07735fe0551f3c169bd> <https://colonialcollections.nl/schema#name> "Kaart van de monding van de B. Batahau, Sumatra" .
@@ -101,6 +138,12 @@
 <https://n2t.net/ark:/27023/858ce268843e700ca33b05b187dafbe2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/858ce268843e700ca33b05b187dafbe2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/858ce268843e700ca33b05b187dafbe2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#identifier> "EDO%20481-20" .
+<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nEen naar boven genomen opname van waarschijnlijk een deel van een (tempel)poort. Groot gebeeldhouwde figuren in steen, met centraal een heel fraai gebeeldhouwde kop." .
+<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/85658c231edd8eeab437c1704215374a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/85658c231edd8eeab437c1704215374a> <https://colonialcollections.nl/schema#identifier> "2000/09/22-1-15" .
 <https://n2t.net/ark:/27023/85658c231edd8eeab437c1704215374a> <https://colonialcollections.nl/schema#name> "Janet Gaynor and Charles Farrell.in The First Year, Fox Picture, made in U.S.A." .
@@ -108,13 +151,6 @@
 <https://n2t.net/ark:/27023/85658c231edd8eeab437c1704215374a> <https://colonialcollections.nl/schema#inscription> "Janet Gaynor and Charles Farrell.in The First Year, Fox Picture, made in U.S.A." .
 <https://n2t.net/ark:/27023/85658c231edd8eeab437c1704215374a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/85658c231edd8eeab437c1704215374a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-70" .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#name> "Carte de visite: Ds. Scheuer" .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. \"Ds. Scheuer\"" .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#inscription> "Ds. Scheuer" .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/85640987c5165b7c8f2738407da43e83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8560013c1887b5c1373d278c876b8b41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8560013c1887b5c1373d278c876b8b41> <https://colonialcollections.nl/schema#identifier> "2015/06/19-4/89" .
 <https://n2t.net/ark:/27023/8560013c1887b5c1373d278c876b8b41> <https://colonialcollections.nl/schema#name> "Foto vooroorlogs Nederlands-Indië" .
@@ -541,30 +577,6 @@
 <https://n2t.net/ark:/27023/85a3b6e25d71e62af3aa7dc35ac98fa1> <https://colonialcollections.nl/schema#description> "Spel.(?) Houten bak met 42 houten blokken, veelhoeken, 4 houten balkjes (groot), en 4 houten balkjes (klein) + 4 houten \"knijpers\". Waarschijnlijk soort bouwspel. Oorspronkelijk eigendom van de heer Kiel, gerepatrieerd voor WOII." .
 <https://n2t.net/ark:/27023/85a3b6e25d71e62af3aa7dc35ac98fa1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/85a3b6e25d71e62af3aa7dc35ac98fa1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/120" .
-<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#name> "Poera Singaradja, Bali." .
-<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Poera Singaradja, Bali." .
-<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/857ba36e64339a70726b95443adf18d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#identifier> "nf%20901" .
-<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#name> "The dancer and the dance" .
-<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#description> "Film 'The dancer and the dance'" .
-<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/857d29412cc7afac80ab4aae29084219> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#identifier> "2017/04/03-3-1/2" .
-<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#name> "Carte de Cabinet van George Philip Berkes met zijn vrouw Saminah" .
-<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#description> "Foto. Carte de Cabinet. George Philip Berkes met zijn vrouw Saminah met kind en broer/neef van Saminah." .
-<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/857dc7892ff09da2d841d9b9582aea8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#identifier> "2010/06/14-2-1" .
-<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#name> "Kamponggezicht van Frederik Kasenda, 1930" .
-<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#description> "Schilderij. Olieverf op doek. Ingelijst. Linksonder gesigneerd \"Frederik Kasenda 1930\"- Gezicht op een Kampong." .
-<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8596f64a156c6a10673e2e6f04f6364b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/856335cb513cf1faed98589314781805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/856335cb513cf1faed98589314781805> <https://colonialcollections.nl/schema#identifier> "nf%20899-118" .
 <https://n2t.net/ark:/27023/856335cb513cf1faed98589314781805> <https://colonialcollections.nl/schema#description> "Fotonegatief, rechthoekig, zwart/wit.\r\n\r\nOpname van een tweespan ossen/stieren/koeien, heel fraai versierd voor een speciale gelegenheid. Bij de dierenbegeleiders. Achter deze dieren veel mannelijke toeschouwers.\r\n\r\nDeze opname is vrijwel identiek aan nf " .
@@ -595,11 +607,6 @@
 <https://n2t.net/ark:/27023/859f5106913520bd46c1d149cdb8422b> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit. Diensttijd Nederlands-Indië 1946-1949." .
 <https://n2t.net/ark:/27023/859f5106913520bd46c1d149cdb8422b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/859f5106913520bd46c1d149cdb8422b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#identifier> "EDO%20481-20" .
-<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nEen naar boven genomen opname van waarschijnlijk een deel van een (tempel)poort. Groot gebeeldhouwde figuren in steen, met centraal een heel fraai gebeeldhouwde kop." .
-<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/858eae8d9e5bbd137e8e93b318c2baff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/857912a89710bff066fca0eb8ef058a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/857912a89710bff066fca0eb8ef058a4> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/458" .
 <https://n2t.net/ark:/27023/857912a89710bff066fca0eb8ef058a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

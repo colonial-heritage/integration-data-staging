@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/81" .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#name> "Plaat 81. Priesterschool in Kampong Zelögö Makar." .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 81. Priesterschool in Kampong Zelögö Makar." .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#inscription> "Plaat 81. Priesterschool in Kampong Zelögö Makar." .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2edbe5d6c90eba23562b2a81e5101203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2edbe5d6c90eba23562b2a81e5101203> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-62" .
 <https://n2t.net/ark:/27023/2edbe5d6c90eba23562b2a81e5101203> <https://colonialcollections.nl/schema#name> "Foto van Atjehse Hoofden" .
@@ -6,6 +14,16 @@
 <https://n2t.net/ark:/27023/2edbe5d6c90eba23562b2a81e5101203> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/2edbe5d6c90eba23562b2a81e5101203> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2edbe5d6c90eba23562b2a81e5101203> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#identifier> "1885/09-1-31" .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#name> "Alexandre, 1ier Empereur de Russie" .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#description> "Prent: Alexandre, 1ier Empereur de Russie.\r\n\"Geuzendam fecit\" \"Gravé par W.Nieuwhoff\" \"Alexandre 1ier Empereur de Russie, Né, le 24 Decembre 1777. Décédé, le 1. Decembre 1825 a Taganrok.\" \r\n\"W.Esser, Marchand de Tableaux de desseins et de Gravures & Amste" .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#inscription> "\"Alexandre 1ier Empereur de Russie, Né, le 24 Decembre 1777. Décédé, le 1. Decembre 1825 a Taganrok.\" ; \"W.Esser, Marchand de Tableaux de desseins et de Gravures & Amsterdam Warmoesstraat No.201\"" .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#creator> "W. Nieuwhoff" .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#creator> "W. Esser" .
+<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#creator> "Geuzendam" .
 <https://n2t.net/ark:/27023/2efa687112ed116876bf5d323e764dde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2efa687112ed116876bf5d323e764dde> <https://colonialcollections.nl/schema#identifier> "2003/10/08-5-1" .
 <https://n2t.net/ark:/27023/2efa687112ed116876bf5d323e764dde> <https://colonialcollections.nl/schema#name> "Tijgerclub" .
@@ -14,6 +32,28 @@
 <https://n2t.net/ark:/27023/2efa687112ed116876bf5d323e764dde> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/2efa687112ed116876bf5d323e764dde> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2efa687112ed116876bf5d323e764dde> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-2" .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#name> "Batavia (Weltevreden) I." .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten-boekje: Batavia (Weltevreden) I. Uitgave Tio Tek Hong, Weltevreden (Batavia). 10 Prentbriefkaarten.\r\n1011. Paleis van de Gouverneur Generaal, Batavia (Weltevreden)\r\n1012. Gebouw NILLMY te Noordwijk. Batavia (Weltevreden)\r\n1013. Gebouw Ne" .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#inscription> "Batavia (Weltevreden) I" .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#identifier> "nf%201316-3" .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#name> "Hoofdingang" .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#creator> "N.V. Johan Mulder's Uitgevers Mij. Gouda (Holland)" .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#identifier> "2005/00-721" .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#name> "Kwartiermuts dirigerend officier van gezondheid Indisch Leger model 1896" .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#description> "Kwartiermuts dirigerend officier van gezondheid Indisch Leger model 1896\r\nKepi Officier KNIL (model sjako/oud model)met kokarde en stormband, Geneeskundige Dienst; ± 1868-1894." .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#creator> "Gebroeders van Leer, Utrecht" .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2eddf67ffe7df5a7827121c5d0ecc799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2eddf67ffe7df5a7827121c5d0ecc799> <https://colonialcollections.nl/schema#identifier> "nf%201855-14" .
 <https://n2t.net/ark:/27023/2eddf67ffe7df5a7827121c5d0ecc799> <https://colonialcollections.nl/schema#name> "wegbrengers" .
@@ -49,6 +89,13 @@
 <https://n2t.net/ark:/27023/2efc30b04442055a14b48cb8618b21b7> <https://colonialcollections.nl/schema#creator> "Vaandrig H.J. van Krieken" .
 <https://n2t.net/ark:/27023/2efc30b04442055a14b48cb8618b21b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2efc30b04442055a14b48cb8618b21b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/11" .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 11.\r\nAfgebeeld: Dame in 3/4 portret." .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#creator> "Atelier de photographie de J.Géruzet, editeur d'Estampes" .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2efefe77b6f23895ca04170d0e6c7a37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2efefe77b6f23895ca04170d0e6c7a37> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-12" .
 <https://n2t.net/ark:/27023/2efefe77b6f23895ca04170d0e6c7a37> <https://colonialcollections.nl/schema#name> "Landkaart Kartosoero" .
@@ -127,27 +174,6 @@
 <https://n2t.net/ark:/27023/2ef722df41cacca973740afcfccf64ae> <https://colonialcollections.nl/schema#inscription> "8" .
 <https://n2t.net/ark:/27023/2ef722df41cacca973740afcfccf64ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ef722df41cacca973740afcfccf64ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/81" .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#name> "Plaat 81. Priesterschool in Kampong Zelögö Makar." .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 81. Priesterschool in Kampong Zelögö Makar." .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#inscription> "Plaat 81. Priesterschool in Kampong Zelögö Makar." .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ed0a0876b91194d59c5c994ea935add> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#identifier> "1885/09-1-31" .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#name> "Alexandre, 1ier Empereur de Russie" .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#description> "Prent: Alexandre, 1ier Empereur de Russie.\r\n\"Geuzendam fecit\" \"Gravé par W.Nieuwhoff\" \"Alexandre 1ier Empereur de Russie, Né, le 24 Decembre 1777. Décédé, le 1. Decembre 1825 a Taganrok.\" \r\n\"W.Esser, Marchand de Tableaux de desseins et de Gravures & Amste" .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#inscription> "\"Alexandre 1ier Empereur de Russie, Né, le 24 Decembre 1777. Décédé, le 1. Decembre 1825 a Taganrok.\" ; \"W.Esser, Marchand de Tableaux de desseins et de Gravures & Amsterdam Warmoesstraat No.201\"" .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2edd7121ac8c2443eb7042860a0b1047> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-2" .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#name> "Batavia (Weltevreden) I." .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten-boekje: Batavia (Weltevreden) I. Uitgave Tio Tek Hong, Weltevreden (Batavia). 10 Prentbriefkaarten.\r\n1011. Paleis van de Gouverneur Generaal, Batavia (Weltevreden)\r\n1012. Gebouw NILLMY te Noordwijk. Batavia (Weltevreden)\r\n1013. Gebouw Ne" .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#inscription> "Batavia (Weltevreden) I" .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2f0a0f6ca8eef8522f8fddf757472e01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ec50c0bb920bcc137e03f5c94ca8b23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ec50c0bb920bcc137e03f5c94ca8b23> <https://colonialcollections.nl/schema#identifier> "2014/11/06-1-1/35" .
 <https://n2t.net/ark:/27023/2ec50c0bb920bcc137e03f5c94ca8b23> <https://colonialcollections.nl/schema#name> "foto" .
@@ -574,24 +600,6 @@
 <https://n2t.net/ark:/27023/2f19be1abd121c0dd9286f4f719aaac6> <https://colonialcollections.nl/schema#description> "Doek, batik. Slendang. Blauw met 4 wajang-figuren.\r\n\r\nS. Niessen 2002-04-08\r\n\r\nWall hanging or table runner.\r\nDark indigo-blue ground; simple, coarse batik\r\nPatterning in batik technique consisting of wayang characters alternated with stylized geometric a" .
 <https://n2t.net/ark:/27023/2f19be1abd121c0dd9286f4f719aaac6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2f19be1abd121c0dd9286f4f719aaac6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#identifier> "nf%201316-3" .
-<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#name> "Hoofdingang" .
-<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nOp achterkant:\r\nLinksboven in zwart gedrukt: Exposition Coloniale La Haye\r\n                                               Kolonial Ausstellung Haag\r\n                                               Colonial Ex" .
-<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ec4328bbab25cda620a7716c98c8014> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#identifier> "2005/00-721" .
-<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#name> "Kwartiermuts dirigerend officier van gezondheid Indisch Leger model 1896" .
-<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#description> "Kwartiermuts dirigerend officier van gezondheid Indisch Leger model 1896\r\nKepi Officier KNIL (model sjako/oud model)met kokarde en stormband, Geneeskundige Dienst; ± 1868-1894." .
-<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ed3b56626f6b6037cc6577417c998e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/11" .
-<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 11.\r\nAfgebeeld: Dame in 3/4 portret." .
-<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2efe9d989717a117387b129344dd5208> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ed83c07386f74cc328cee723025e796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ed83c07386f74cc328cee723025e796> <https://colonialcollections.nl/schema#identifier> "nf%201353-20-2" .
 <https://n2t.net/ark:/27023/2ed83c07386f74cc328cee723025e796> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een vijftal blanke personen, een vrouw en vier mannen, allen in het wit gekleed, dicht opeen vanwege de foto.\r\n\r\nN.B.: Deze foto i" .

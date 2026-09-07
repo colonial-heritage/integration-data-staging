@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#identifier> "2002/00-33/20" .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#name> "32. De Solo-Rivier bij Tjepoe. (Midden-Java)" .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n32. De Solo-Rivier bij Tjepoe. (Midden-Java)" .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#inscription> "32. De Solo-Rivier bij Tjepoe. (Midden-Java)" .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#identifier> "2006/00-42-750-1" .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#name> "Binnenplaats Koloniaal Werfdepot Harderwijk, beëediging op 1 september 1904" .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#description> "Foto op karton, aan linkerzijde beschadigd. Binnenplaats Koloniaal Werfdepot Harderwijk met opstelling van KNIL bij beëediging op 1904/09/01. [in ceremonieel tenue met helmhoed]. Waarschijnlijk gefotografeerd door R. Ziegler.\r\nDe foto zat waarschijnlijk o" .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#creator> "R. Ziegler" .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0094442b7377d506aba528b65bdd7af0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0094442b7377d506aba528b65bdd7af0> <https://colonialcollections.nl/schema#identifier> "2006/00-43/56-5" .
 <https://n2t.net/ark:/27023/0094442b7377d506aba528b65bdd7af0> <https://colonialcollections.nl/schema#name> "Stafkaart Java, Madura & Bali, Soekaboemi" .
@@ -84,13 +99,6 @@
 <https://n2t.net/ark:/27023/00d00f11d7a0ba15891ad23256298f16> <https://colonialcollections.nl/schema#inscription> "Kapitein der Infanterie G.J. Verstege - Djambi Juli - December 1904; Koningin Wilhelmina voor betoonde dapperheid; Je Maintiendrai" .
 <https://n2t.net/ark:/27023/00d00f11d7a0ba15891ad23256298f16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/00d00f11d7a0ba15891ad23256298f16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#identifier> "2002/00-33/20" .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#name> "32. De Solo-Rivier bij Tjepoe. (Midden-Java)" .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n32. De Solo-Rivier bij Tjepoe. (Midden-Java)" .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#inscription> "32. De Solo-Rivier bij Tjepoe. (Midden-Java)" .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/008e483ad94ca6d0d3698885bd7cd21c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0089b45bee4ccafc4a7b5d19299759be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0089b45bee4ccafc4a7b5d19299759be> <https://colonialcollections.nl/schema#identifier> "1997/12/01-3-27" .
 <https://n2t.net/ark:/27023/0089b45bee4ccafc4a7b5d19299759be> <https://colonialcollections.nl/schema#name> "Kam van bamboe" .
@@ -529,12 +537,6 @@
 <https://n2t.net/ark:/27023/00d463e9d7948e69a50c92b4f7567686> <https://colonialcollections.nl/schema#description> "Portret. Ingelijste foto, 26 x 21 cm." .
 <https://n2t.net/ark:/27023/00d463e9d7948e69a50c92b4f7567686> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/00d463e9d7948e69a50c92b4f7567686> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#identifier> "2006/00-42-750-1" .
-<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#name> "Binnenplaats Koloniaal Werfdepot Harderwijk, beëediging op 1 september 1904" .
-<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#description> "Foto op karton, aan linkerzijde beschadigd. Binnenplaats Koloniaal Werfdepot Harderwijk met opstelling van KNIL bij beëediging op 1904/09/01. [in ceremonieel tenue met helmhoed]. Waarschijnlijk gefotografeerd door R. Ziegler.\r\nDe foto zat waarschijnlijk o" .
-<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0092d5ff9b52f76a2d70115397f0c16e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/008baed45666fbc1f5338649710b207d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/008baed45666fbc1f5338649710b207d> <https://colonialcollections.nl/schema#identifier> "S%20230-915" .
 <https://n2t.net/ark:/27023/008baed45666fbc1f5338649710b207d> <https://colonialcollections.nl/schema#description> "Herkomst: Pasoeroean, oost-Java." .

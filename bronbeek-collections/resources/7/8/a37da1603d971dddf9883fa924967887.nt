@@ -12,13 +12,21 @@
 <https://n2t.net/ark:/27023/a3c6fe1e4321498a8d45360fcca215f7> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/a3c6fe1e4321498a8d45360fcca215f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a3c6fe1e4321498a8d45360fcca215f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#identifier> "1981/11/01-1-1" .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#name> "Prent Hussaar no. 7" .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#description> "Prent Hussaar no. 7, afkomstig uit Teupken deel 2. Zeer zeldzaam.\r\n\r\nOnderaan aantekeningen in bruine inkt" .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#creator> "Houtman" .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#identifier> "nf%201408-73" .
 <https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#name> "Tobacco crop tree" .
 <https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#description> "afbeelding toont een plant, slechts bovenste deel, met vrij grote bladeren en bloemen bovenin.\r\n\r\nDeze afbeelding komt voor op plaat 26.\r\n\r\nDeze foto is waarschijnlijk ergens op Noord Sumatra genomen.\r\n                                                     " .
-<https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
+<https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a3ef310cd3bf44638a755adb2d600b3e> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/a3f88194404bbe12b9b8124d2d46392e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a3f88194404bbe12b9b8124d2d46392e> <https://colonialcollections.nl/schema#identifier> "1997/00-1/322" .
 <https://n2t.net/ark:/27023/a3f88194404bbe12b9b8124d2d46392e> <https://colonialcollections.nl/schema#name> "Kaart van de omgeving van Alahanpandjang, Sumatra" .
@@ -492,12 +500,6 @@
 <https://n2t.net/ark:/27023/a400ac39bf2c73ab3b503b9690efabaf> <https://colonialcollections.nl/schema#description> "Foto, totaal 49 stuks, vooroorlogse familiefoto's in Nederlands-Indië." .
 <https://n2t.net/ark:/27023/a400ac39bf2c73ab3b503b9690efabaf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a400ac39bf2c73ab3b503b9690efabaf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#identifier> "1981/11/01-1-1" .
-<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#name> "Prent Hussaar no. 7" .
-<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#description> "Prent Hussaar no. 7, afkomstig uit Teupken deel 2. Zeer zeldzaam.\r\n\r\nOnderaan aantekeningen in bruine inkt" .
-<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a3c794b3be61c615a3b93b82dc92c8cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a3bab12d01f1593470b5efe720e5a9fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a3bab12d01f1593470b5efe720e5a9fb> <https://colonialcollections.nl/schema#identifier> "nf%20840-9-4" .
 <https://n2t.net/ark:/27023/a3bab12d01f1593470b5efe720e5a9fb> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant. \r\n\r\nTekst op achterkant in inkt luidt: \"Op weg naar Harangaol Juni 1936\"\r\n\r\nOpname toont mw. Thies, in het wit gekleed, inclusief hoedje, staan" .

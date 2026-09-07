@@ -13,6 +13,21 @@
 <https://n2t.net/ark:/27023/3e1569ee044b0089d228cfa6a831b17d> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/3e1569ee044b0089d228cfa6a831b17d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e1569ee044b0089d228cfa6a831b17d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-7" .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#name> "W-10. Greetings from Wilmington, North Carolina" .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W-10. Greetings from Wilmington, North Carolina. [in kleurendruk]" .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#creator> "Service News Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#creator> "Curt Teich & Co., Inc." .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#identifier> "2007/09/19-1-4/5" .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#name> "Portret van Jan Troostwijk in attila" .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit op karton. Portret van Jan Troostwijk in attila KNIL.\r\nFoto´s afkomstig van Jan Troostwijk (opa van Dhr. Arnold), 8 stuks en groepsfoto militairen 1x.\r\nTroostwijk, 1903-±1930 KNIL officier, Celebes, Zuid-Makasser\r\nErfenis Jan Troostwijk ges" .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#creator> "Firma P. Stutz Hoffotograaf ´sBosch Breda" .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3e2c99996f51a61ed072c52571f84c38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e2c99996f51a61ed072c52571f84c38> <https://colonialcollections.nl/schema#identifier> "2006/00-42-739/23" .
 <https://n2t.net/ark:/27023/3e2c99996f51a61ed072c52571f84c38> <https://colonialcollections.nl/schema#name> "Zijne Koninklijke Hoogheid slaat de spelen gade. Viering 40 jarig bestaan \"Korps Koloniale Reserve\", 15 april 1931." .
@@ -27,12 +42,19 @@
 <https://n2t.net/ark:/27023/3e34984d8f624366b4e539e24e5ab370> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/3e34984d8f624366b4e539e24e5ab370> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e34984d8f624366b4e539e24e5ab370> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e34984d8f624366b4e539e24e5ab370> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/3e13ffb726e8d8f9d639c681ee725ca7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e13ffb726e8d8f9d639c681ee725ca7> <https://colonialcollections.nl/schema#identifier> "nf%20678-8-8" .
 <https://n2t.net/ark:/27023/3e13ffb726e8d8f9d639c681ee725ca7> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een nummer '580'. Geen verdere data.\r\n\r\nOpname toont een woning van de lokale bevolking.Het staat bij en onder kokospalmen. Het is een houten woning opkorte palen, met een palmblad (ata" .
 <https://n2t.net/ark:/27023/3e13ffb726e8d8f9d639c681ee725ca7> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/3e13ffb726e8d8f9d639c681ee725ca7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e13ffb726e8d8f9d639c681ee725ca7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#identifier> "nf%20323-6-2" .
+<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het hooggebergte van Roeteng op een afstand van 20 K. M. Opgenomen van de hoogte van Tjobal, uitzicht naar het Zuiden. Tele-opname. Op den voorgrond de weg die zigzag loopt.'" .
+<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3e40e7a3c69907babfbf81f016514528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e40e7a3c69907babfbf81f016514528> <https://colonialcollections.nl/schema#identifier> "nf%20842-218" .
 <https://n2t.net/ark:/27023/3e40e7a3c69907babfbf81f016514528> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BA, 37 t/m 72.\r\nDeze slede is opgeborgen in doos met afneembare roodbruine rug, gemerkt met\r\nBA, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BA 51, in potlood DV 27\r\n\r\nOp" .
@@ -521,18 +543,6 @@
 <https://n2t.net/ark:/27023/3e473efc7f3a09a559e2a72fc6538834> <https://colonialcollections.nl/schema#description> "Schilderij in gebronsde lijst met een golfpatroon aan binnenzijde. Landschap met dorokijk naar vulkanen. Schildeij heeft in het kantoor van Luitenant-kolonel L.C.G.F.Onvlee gehangen." .
 <https://n2t.net/ark:/27023/3e473efc7f3a09a559e2a72fc6538834> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e473efc7f3a09a559e2a72fc6538834> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-7" .
-<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#name> "W-10. Greetings from Wilmington, North Carolina" .
-<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W-10. Greetings from Wilmington, North Carolina. [in kleurendruk]" .
-<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e265f156d917ae7c2c6f79ab08a1d21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#identifier> "2007/09/19-1-4/5" .
-<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#name> "Portret van Jan Troostwijk in attila" .
-<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit op karton. Portret van Jan Troostwijk in attila KNIL.\r\nFoto´s afkomstig van Jan Troostwijk (opa van Dhr. Arnold), 8 stuks en groepsfoto militairen 1x.\r\nTroostwijk, 1903-±1930 KNIL officier, Celebes, Zuid-Makasser\r\nErfenis Jan Troostwijk ges" .
-<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e29905872fde03da7719f14b1cde9e2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3e05905fe67e9cda2571973ca6a70663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e05905fe67e9cda2571973ca6a70663> <https://colonialcollections.nl/schema#identifier> "nf%201306-38-2" .
 <https://n2t.net/ark:/27023/3e05905fe67e9cda2571973ca6a70663> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift, geldend voor de drie bovenste foto's op dit fotoblad 38, luidt: 'Seaforth Highlanders'\r\n\r\nIn de linker bovenhoek staat in inkt geschreven: 'Geallie" .
@@ -588,8 +598,3 @@
 <https://n2t.net/ark:/27023/3e4601ff7884236597a7659253664d74> <https://colonialcollections.nl/schema#description> "Bamboe fluit" .
 <https://n2t.net/ark:/27023/3e4601ff7884236597a7659253664d74> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3e4601ff7884236597a7659253664d74> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#identifier> "nf%20323-6-2" .
-<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het hooggebergte van Roeteng op een afstand van 20 K. M. Opgenomen van de hoogte van Tjobal, uitzicht naar het Zuiden. Tele-opname. Op den voorgrond de weg die zigzag loopt.'" .
-<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3e2d8d919f25a85d566ca4aa0363f257> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

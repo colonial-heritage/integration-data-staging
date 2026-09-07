@@ -24,9 +24,10 @@
 <https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#identifier> "nf%20812" .
 <https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#name> "31 Augustus Parade op het Tidarterrein, Magelang" .
 <https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de 31 Augustus Parade op het Tidarterrein te Magelang.\r\n\r\nOnderaan op de voorkant staat vermeld: '31 Augustus Parade op het Tidarterrein. Magelang.'\r\n\r\nGedeelde achterkant met links onderaan vermeld 'naam' en 'adres' me" .
-<https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
 <https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/03e7239f9d905e0bdb5be1db553fbd65> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/03fa081c34e1d8120493a694516b414f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03fa081c34e1d8120493a694516b414f> <https://colonialcollections.nl/schema#identifier> "1997/11/06-1-1/22" .
 <https://n2t.net/ark:/27023/03fa081c34e1d8120493a694516b414f> <https://colonialcollections.nl/schema#name> "Foto Koloniale Reserve bij Kurhaus te Scheveningen" .
@@ -41,6 +42,13 @@
 <https://n2t.net/ark:/27023/040177ca7db9deb20c84eddf6b901fee> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/040177ca7db9deb20c84eddf6b901fee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/040177ca7db9deb20c84eddf6b901fee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-7" .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#name> "Nederlandse paratroepen worden gedropt boven vliegveld Maguwo" .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#description> "Nederlandse paratroepen worden gedropt boven vliegveld Maguwo. 19 december 1948" .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/041262a8603e7b678d6262169d60818f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/041262a8603e7b678d6262169d60818f> <https://colonialcollections.nl/schema#identifier> "1874/08-2/8" .
 <https://n2t.net/ark:/27023/041262a8603e7b678d6262169d60818f> <https://colonialcollections.nl/schema#name> "Nr. 8: Mortier-batterij in de loopgraven, uit ´Vierendertig gezichten op Atjeh´" .
@@ -48,6 +56,20 @@
 <https://n2t.net/ark:/27023/041262a8603e7b678d6262169d60818f> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/041262a8603e7b678d6262169d60818f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/041262a8603e7b678d6262169d60818f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#identifier> "2000/08/30-1-3/4" .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#name> "Carte de visite, man in uniform met snor" .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#description> "Zwartwitfoto van man in uniform met snor\r\nR. Schütz Photograph Java\r\nOnder op foto (klein): J.F. Schippang & Co. Berlin" .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#identifier> "1905/04/01-1" .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#name> "Voorstellende Benting Lambaroe" .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#description> "Model van een benting" .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#creator> "Majoor H.F. Schenck" .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/03ec19794cf2a59385af9b04c9e96e80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03ec19794cf2a59385af9b04c9e96e80> <https://colonialcollections.nl/schema#identifier> "nf%201537-27" .
 <https://n2t.net/ark:/27023/03ec19794cf2a59385af9b04c9e96e80> <https://colonialcollections.nl/schema#description> "Stereofoto, twee zo goed als identieke zwart/wit foto's naast elkaar op een stukje donkergrijs karton geplakt, met anderen los aangetroffen.\r\n\r\nOp voor- en achterkant van een nummer voorzien.\r\n\r\nOpnames tonen een strand, een kalme zee en meer naar achter " .
@@ -506,24 +528,6 @@
 <https://n2t.net/ark:/27023/04263e422eb3a927fcede54fd39e14ba> <https://colonialcollections.nl/schema#description> "Indonesische klewang zonder schede" .
 <https://n2t.net/ark:/27023/04263e422eb3a927fcede54fd39e14ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/04263e422eb3a927fcede54fd39e14ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-7" .
-<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#name> "Nederlandse paratroepen worden gedropt boven vliegveld Maguwo" .
-<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#description> "Nederlandse paratroepen worden gedropt boven vliegveld Maguwo. 19 december 1948" .
-<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0411852084b9cfc03b5afd7bb6692106> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#identifier> "2000/08/30-1-3/4" .
-<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#name> "Carte de visite, man in uniform met snor" .
-<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#description> "Zwartwitfoto van man in uniform met snor\r\nR. Schütz Photograph Java\r\nOnder op foto (klein): J.F. Schippang & Co. Berlin" .
-<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/041c121be9fa5334b83c4244be6d7476> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#identifier> "1905/04/01-1" .
-<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#name> "Voorstellende Benting Lambaroe" .
-<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#description> "Model van een benting" .
-<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0424fa50fd5aeaf45e67334ce5c3f833> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/03e12db9c82267edfa1de051c755f136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03e12db9c82267edfa1de051c755f136> <https://colonialcollections.nl/schema#identifier> "nf%201353-20-3" .
 <https://n2t.net/ark:/27023/03e12db9c82267edfa1de051c755f136> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een vijftal blanke personen, een vrouw en vier mannen, allen min of meer in het wit gekleed. Voor de foto hebben zij zich opgestel" .

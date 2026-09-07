@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/e517cd5dbbc231b9aef9c3b7b08445de> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/e517cd5dbbc231b9aef9c3b7b08445de> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e517cd5dbbc231b9aef9c3b7b08445de> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-36" .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#name> "85. Inlandsch Kustvaartuig. Midden-Java." .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n85. Inlandsch Kustvaartuig. Midden-Java." .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#inscription> "85. Inlandsch Kustvaartuig. Midden-Java." .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e5057303097b5b311a0a3a02f72a7b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e5057303097b5b311a0a3a02f72a7b15> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/180" .
 <https://n2t.net/ark:/27023/e5057303097b5b311a0a3a02f72a7b15> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -13,6 +21,20 @@
 <https://n2t.net/ark:/27023/e5057303097b5b311a0a3a02f72a7b15> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/e5057303097b5b311a0a3a02f72a7b15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e5057303097b5b311a0a3a02f72a7b15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#identifier> "2006/09/26-4-18" .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#name> "Portret van echtpaar de Jager tijdens een Feestavond in Indië (Tarakan)" .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#description> "Foto in passepartout. \"Feestavond in Indië\", echtpaar de Jager." .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#creator> "Mei Kuang Co, Tarakan" .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-2/2" .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#name> "Foto van de Sultan Sambas (c.a. 1916)" .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#description> "Foto. Portret van de Sultan Sambas in Staatsiekleed (westers model), Borneo(c.a. 1916). Geplakt op passepartout.\r\nRecto: \"J. Yamasaki, Photographer Pamangkat, W. Borneo.\". Ook een handtekening van de sultan en onderschrift:\r\n'Ini portret di boeat pada tan" .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#creator> "J. Yamasaki, Photographer Pamangkat, W. Borneo" .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e512b6b3a06e0914a4a7998c554ed2ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e512b6b3a06e0914a4a7998c554ed2ac> <https://colonialcollections.nl/schema#identifier> "2006/00-42-357/1" .
 <https://n2t.net/ark:/27023/e512b6b3a06e0914a4a7998c554ed2ac> <https://colonialcollections.nl/schema#name> "Indonesische jonge vrouw met kind" .
@@ -49,6 +71,13 @@
 <https://n2t.net/ark:/27023/e53140e9e936d81a5c1b4e65cf896b76> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/e53140e9e936d81a5c1b4e65cf896b76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e53140e9e936d81a5c1b4e65cf896b76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#identifier> "nf%20614-1" .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#name> "Spoorbrug bij Sidhoardjo" .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#description> "Spoorbrug bij Sidhoardjo?" .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#creator> "H. Salzwedel, Soerabaya" .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e5375c4b22f767a7afa272313ec82022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e5375c4b22f767a7afa272313ec82022> <https://colonialcollections.nl/schema#identifier> "2002/00-103" .
 <https://n2t.net/ark:/27023/e5375c4b22f767a7afa272313ec82022> <https://colonialcollections.nl/schema#name> "Medaille Mobilisatiekruis 1914-1918, zonder lint" .
@@ -63,6 +92,13 @@
 <https://n2t.net/ark:/27023/e538edde7539b48470d0d580c8550699> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/e538edde7539b48470d0d580c8550699> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e538edde7539b48470d0d580c8550699> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#identifier> "IB1986/12/16-1-2" .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#name> "Portret van KNIL militair van Leersen, 22 spetember 1942" .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#description> "Tekening. Portret van krijgsgevangene van Leersen, 22 september 1942, door D.H. Volz. Tekening op papier in potlood en kleurpotlood. Borststuk gekeerd naar links. KNIL militair met baard.\r\nOp achterzijde in potlood: \"L.Volz. Mevrouw L. Volz Multatuli Bvr." .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#creator> "2e Luitenant D.H. Volz" .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e54269330921863a6057363f99be5cb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e54269330921863a6057363f99be5cb7> <https://colonialcollections.nl/schema#identifier> "nf%20882-4" .
 <https://n2t.net/ark:/27023/e54269330921863a6057363f99be5cb7> <https://colonialcollections.nl/schema#name> "Exercitie op het Tidar terrein in de omgeving van Magelang" .
@@ -70,6 +106,12 @@
 <https://n2t.net/ark:/27023/e54269330921863a6057363f99be5cb7> <https://colonialcollections.nl/schema#creator> "Luchtvaart-Afdeling van het Nederlands Indisch Leger [Bandoeng]" .
 <https://n2t.net/ark:/27023/e54269330921863a6057363f99be5cb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e54269330921863a6057363f99be5cb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#identifier> "nf%20983" .
+<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst.\r\n'foto Dr. P. Voorhoeve - Parholians op Samosir - VII 88'\r\n\r\nDe opname toont een uit steen gebeeldhouwd beeld, een menselijke gestalte/vro" .
+<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#creator> "P. Voorhoeve" .
+<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e51a321f7b70aacf9194ec405b35c53e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e51a321f7b70aacf9194ec405b35c53e> <https://colonialcollections.nl/schema#identifier> "nf%20836-32-3" .
 <https://n2t.net/ark:/27023/e51a321f7b70aacf9194ec405b35c53e> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zwart/wit, slechts gedeeltelijk vastgeplakt.\r\nGeen tekst op achterkant foto.\r\n\r\nZonder onderschrift.\r\n\r\nDeze opname toont een klein gezelschap, 4 volwassenen, zittend aan een tafel, en een meisje staande daarbij.\r\n\r\nDrie van hen zijn he" .
@@ -114,13 +156,6 @@
 <https://n2t.net/ark:/27023/e5297629503d06a5cc17459629f7d74e> <https://colonialcollections.nl/schema#inscription> "Beatrix Koningin der Nederlanden. Grootmeester der MWO" .
 <https://n2t.net/ark:/27023/e5297629503d06a5cc17459629f7d74e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e5297629503d06a5cc17459629f7d74e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-36" .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#name> "85. Inlandsch Kustvaartuig. Midden-Java." .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n85. Inlandsch Kustvaartuig. Midden-Java." .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#inscription> "85. Inlandsch Kustvaartuig. Midden-Java." .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e5327d422c9617a24b4ed46326580402> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e501f809efa94a7cc6e85e1f97d5a7e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e501f809efa94a7cc6e85e1f97d5a7e9> <https://colonialcollections.nl/schema#identifier> "2015/11/02-3-1/137" .
 <https://n2t.net/ark:/27023/e501f809efa94a7cc6e85e1f97d5a7e9> <https://colonialcollections.nl/schema#name> "Foto diensttijd Nederlands-Indië" .
@@ -517,30 +552,6 @@
 <https://n2t.net/ark:/27023/e5494ab8f19c74ca6539f14b63853b9c> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname van twee blanke mannen, naast elkaar zittend, met gekruiste benen, op de grond. Beide hebben op hun witte overhemd een geborduurd embleem dat hetzelfde is. Zij dragen hoge schoenen en kniekousen.\r\n\r\nOnder" .
 <https://n2t.net/ark:/27023/e5494ab8f19c74ca6539f14b63853b9c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e5494ab8f19c74ca6539f14b63853b9c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#identifier> "2006/09/26-4-18" .
-<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#name> "Portret van echtpaar de Jager tijdens een Feestavond in Indië (Tarakan)" .
-<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#description> "Foto in passepartout. \"Feestavond in Indië\", echtpaar de Jager." .
-<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e5072afe6f593f2be96a39e3502ee1eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#identifier> "2011/02/22-1-2/2" .
-<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#name> "Foto van de Sultan Sambas (c.a. 1916)" .
-<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#description> "Foto. Portret van de Sultan Sambas in Staatsiekleed (westers model), Borneo(c.a. 1916). Geplakt op passepartout.\r\nRecto: \"J. Yamasaki, Photographer Pamangkat, W. Borneo.\". Ook een handtekening van de sultan en onderschrift:\r\n'Ini portret di boeat pada tan" .
-<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e5094718edad082edb712f6c6562f48c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#identifier> "nf%20614-1" .
-<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#name> "Spoorbrug bij Sidhoardjo" .
-<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#description> "Spoorbrug bij Sidhoardjo?" .
-<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e5350b762e3fdfbe5712e6c728be734e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#identifier> "IB1986/12/16-1-2" .
-<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#name> "Portret van KNIL militair van Leersen, 22 spetember 1942" .
-<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#description> "Tekening. Portret van krijgsgevangene van Leersen, 22 september 1942, door D.H. Volz. Tekening op papier in potlood en kleurpotlood. Borststuk gekeerd naar links. KNIL militair met baard.\r\nOp achterzijde in potlood: \"L.Volz. Mevrouw L. Volz Multatuli Bvr." .
-<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e539e1408f9a75a90a9a2924859777b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e50406073fd4357dbc4b13377cd45567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e50406073fd4357dbc4b13377cd45567> <https://colonialcollections.nl/schema#identifier> "nf%20840-52-8" .
 <https://n2t.net/ark:/27023/e50406073fd4357dbc4b13377cd45567> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, met bijschrift, met tekst op achterkant.\r\n\r\nBijschrift in zilverkleurige inkt luidt: \"1936\"\r\n\r\nTekst op achterkant in inkt luidt: \"poes op de kippenjacht\"\r\n\r\nOpname toont een poes en ee" .
@@ -571,11 +582,6 @@
 <https://n2t.net/ark:/27023/e54992077e147d9d1e1ae3dd89c9528d> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tviool\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, slangenhuid\r\n\r\nEmailadres: toelichting:\tTweesnarige viool. Snaren gespannen over een houten koker bekleed met slangenhuid. De koker en arm zijn gemaakt van teakhout.\r\nAfmeting" .
 <https://n2t.net/ark:/27023/e54992077e147d9d1e1ae3dd89c9528d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e54992077e147d9d1e1ae3dd89c9528d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#identifier> "nf%20983" .
-<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven tekst.\r\n'foto Dr. P. Voorhoeve - Parholians op Samosir - VII 88'\r\n\r\nDe opname toont een uit steen gebeeldhouwd beeld, een menselijke gestalte/vro" .
-<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e507ce403649cb9afb01c54df695cc8a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e50f7adc7967c586f3facdebe4f5faf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e50f7adc7967c586f3facdebe4f5faf0> <https://colonialcollections.nl/schema#identifier> "X%206254" .
 <https://n2t.net/ark:/27023/e50f7adc7967c586f3facdebe4f5faf0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

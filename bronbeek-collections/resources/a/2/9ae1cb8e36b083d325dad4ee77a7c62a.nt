@@ -1,10 +1,26 @@
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/1" .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Inlandsche Typen Serie II." .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Inlandsche Typen Serie II.\r\nBevat 9 prentbriefkaarten, los in een groene kaft.. Op kaft een \"3\" in blauw potlood.\r\n\r\nNr" .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Inlandsche Typen Serie II." .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#creator> "N.V. Handel Maatschappij Appel & Duveen" .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#identifier> "nf%20419-91" .
 <https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#name> "Boroboedoer" .
 <https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#description> "Boroboedoer" .
-<https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#creator> "H. Buning" .
 <https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b4c3270ca6ca81973bd530e96500d324> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#identifier> "1998/08/06-2-2" .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#name> "\"Landschap van bos met bergen\", gesigneerd door \"Damadi\"" .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#description> "Schilderij \"Landschap van bos met bergen\". Gesigneerd door \"Damadi\"." .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#creator> "Damadi" .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b4e5d9d344744f2e93ed87d2bf562b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b4e5d9d344744f2e93ed87d2bf562b12> <https://colonialcollections.nl/schema#identifier> "nf%201325-35" .
 <https://n2t.net/ark:/27023/b4e5d9d344744f2e93ed87d2bf562b12> <https://colonialcollections.nl/schema#name> "Willemskerk, Weltevreden" .
@@ -12,6 +28,13 @@
 <https://n2t.net/ark:/27023/b4e5d9d344744f2e93ed87d2bf562b12> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/b4e5d9d344744f2e93ed87d2bf562b12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b4e5d9d344744f2e93ed87d2bf562b12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/355" .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Handelsweg met het kantoor der M.H.V., Menado\".\r\nUitgave van Gebr. Que, Menado." .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b4f49ab28b8c292979ed32871ceb6378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b4f49ab28b8c292979ed32871ceb6378> <https://colonialcollections.nl/schema#identifier> "2010/10/12-1-1" .
 <https://n2t.net/ark:/27023/b4f49ab28b8c292979ed32871ceb6378> <https://colonialcollections.nl/schema#name> "Grootkostuum resident Europees bestuur (1909-1942)" .
@@ -26,6 +49,20 @@
 <https://n2t.net/ark:/27023/b4f9c65acc789543620c214b481ca95c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b4f9c65acc789543620c214b481ca95c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b4f9c65acc789543620c214b481ca95c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-17/7" .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#name> "Landdag Hilversum" .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#description> "Foto op passe-partout met saluerende officieren ter gelegenheid van de Landdag te Hilversum, links C.M. Donck\r\n\r\nB.V.L. Korps\r\nStelling van Amsterdam\r\nN. Hoet. Waterlinie\r\nKennemerland\r\n(verg. aantekeningen met potlood verso)" .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#creator> "Fotopersbureau Gompers" .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#identifier> "1997/00-1/369" .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#name> "Kaart van Midden-Sumatra" .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#description> "Kaart van Midden Sumatra.\r\nSchaal 1: 900.000; legenda; Uitg. Topografische Inrichting, 1903." .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b501b8792760d8ab1627ad8729b5762e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b501b8792760d8ab1627ad8729b5762e> <https://colonialcollections.nl/schema#identifier> "1874/10-1/5" .
 <https://n2t.net/ark:/27023/b501b8792760d8ab1627ad8729b5762e> <https://colonialcollections.nl/schema#name> "Nr. 5: Officieren Militaire Administratie, uit ´Dertig gezichten op Atjeh´" .
@@ -65,13 +102,6 @@
 <https://n2t.net/ark:/27023/b4f8dc14d9d80cc1f77ed0dd09e9cf34> <https://colonialcollections.nl/schema#inscription> "Parree Horst" .
 <https://n2t.net/ark:/27023/b4f8dc14d9d80cc1f77ed0dd09e9cf34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b4f8dc14d9d80cc1f77ed0dd09e9cf34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#identifier> "1994/08/16-2-4/1" .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#name> "Souvenir van Java. Inlandsche Typen Serie II." .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten, set.\r\n'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Inlandsche Typen Serie II.\r\nBevat 9 prentbriefkaarten, los in een groene kaft.. Op kaft een \"3\" in blauw potlood.\r\n\r\nNr" .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#inscription> "'Prentbriefkaarten. Arw-Kiekjes van Java's Land en Volk. Meer dan 1000 verschillende opnamen Souvenir van Java Inlandsche Typen Serie II." .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b4d6687ff0724e5a9ab600e4e50cdb41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b4bbe195416b626435565328b351c013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b4bbe195416b626435565328b351c013> <https://colonialcollections.nl/schema#identifier> "2015/05/29-3-16/204" .
 <https://n2t.net/ark:/27023/b4bbe195416b626435565328b351c013> <https://colonialcollections.nl/schema#name> "Foto diensttijd Sergeant-majoor H.J. de Vos, 8e Bataljon Stoottroepen" .
@@ -498,30 +528,6 @@
 <https://n2t.net/ark:/27023/b507964ad1135b6b446140566e06b576> <https://colonialcollections.nl/schema#description> "Foto. Portret van 2e Luitenant KNIL C. van Altena. Borststuk naar links gekeerd." .
 <https://n2t.net/ark:/27023/b507964ad1135b6b446140566e06b576> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b507964ad1135b6b446140566e06b576> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#identifier> "1998/08/06-2-2" .
-<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#name> "\"Landschap van bos met bergen\", gesigneerd door \"Damadi\"" .
-<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#description> "Schilderij \"Landschap van bos met bergen\". Gesigneerd door \"Damadi\"." .
-<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b4dcd21493c9270541a51e8ddf2f81c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/355" .
-<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Handelsweg met het kantoor der M.H.V., Menado\".\r\nUitgave van Gebr. Que, Menado." .
-<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b4f214175c59cd20e6b6b2ac87c0393c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#identifier> "2005/04/19-1-17/7" .
-<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#name> "Landdag Hilversum" .
-<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#description> "Foto op passe-partout met saluerende officieren ter gelegenheid van de Landdag te Hilversum, links C.M. Donck\r\n\r\nB.V.L. Korps\r\nStelling van Amsterdam\r\nN. Hoet. Waterlinie\r\nKennemerland\r\n(verg. aantekeningen met potlood verso)" .
-<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b4fb69bf7daafcfbd443274b3631e2e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#identifier> "1997/00-1/369" .
-<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#name> "Kaart van Midden-Sumatra" .
-<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#description> "Kaart van Midden Sumatra.\r\nSchaal 1: 900.000; legenda; Uitg. Topografische Inrichting, 1903." .
-<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b50119288ff2fec8c7d85d7a5d130e79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b4bcbb4686132f413cadc553fe9675d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b4bcbb4686132f413cadc553fe9675d1> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42268" .
 <https://n2t.net/ark:/27023/b4bcbb4686132f413cadc553fe9675d1> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl & houten punt\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 99,8 cm\r\nMedia:\t2801\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2801] Depot, K [K]\r\nhoofdmateriaal:\thout" .

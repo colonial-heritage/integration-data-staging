@@ -19,6 +19,13 @@
 <https://n2t.net/ark:/27023/cf01aaaa9358b933f4d61df325948155> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/cf01aaaa9358b933f4d61df325948155> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cf01aaaa9358b933f4d61df325948155> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/77" .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#name> "Zeestrand te Sabang. (Een boom op Corallen)" .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zeestrand te Sabang. (Een boom op Corallen)" .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#creator> "Köhler & Co. v/h Sabang Drukkerij, Sabang" .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cf2923d70c339afa31959b4633a5e7f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cf2923d70c339afa31959b4633a5e7f4> <https://colonialcollections.nl/schema#identifier> "nf%201413-225" .
 <https://n2t.net/ark:/27023/cf2923d70c339afa31959b4633a5e7f4> <https://colonialcollections.nl/schema#name> "De pondok bij Tandjoeng Laoet. Moerod, Saleh en Oemar" .
@@ -33,6 +40,13 @@
 <https://n2t.net/ark:/27023/cf308d126fca67edb45dacffc795cf08> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/cf308d126fca67edb45dacffc795cf08> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cf308d126fca67edb45dacffc795cf08> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#identifier> "nf%20705-38" .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#name> "'Papang boom Sarawak 1913'" .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is een wit etiket geplakt met een geschreven tekst 'Papang boom Sarawak 1913' en de getallen 17, 38 en 107\r\n\r\nOp binnenkant deksel staat voor deze opname geschreven; 'Papang boom Ser" .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#creator> "Harrison W. Smith" .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cf3200aeeac12589182f47f41768d2b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cf3200aeeac12589182f47f41768d2b6> <https://colonialcollections.nl/schema#identifier> "nf%201357-27" .
 <https://n2t.net/ark:/27023/cf3200aeeac12589182f47f41768d2b6> <https://colonialcollections.nl/schema#name> "Kandy - Botanische tuin" .
@@ -497,18 +511,6 @@
 <https://n2t.net/ark:/27023/cf3edd86b50fae4cfadca6f00e043f00> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. \r\nMiddenbovenaan meegedrukt: 'BRIEFKAART' \r\n\r\nLinksonder de afbeelding, in zwart gedrukt: 'Park  Assistent-Residents-woning, Bandoeng'\r\n\r\nOpname toont iets dat op een park lijkt. In het midden een door een lag" .
 <https://n2t.net/ark:/27023/cf3edd86b50fae4cfadca6f00e043f00> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cf3edd86b50fae4cfadca6f00e043f00> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/77" .
-<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#name> "Zeestrand te Sabang. (Een boom op Corallen)" .
-<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zeestrand te Sabang. (Een boom op Corallen)" .
-<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cf0a703e4f02429a8f171fc5f5874059> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#identifier> "nf%20705-38" .
-<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#name> "'Papang boom Sarawak 1913'" .
-<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is een wit etiket geplakt met een geschreven tekst 'Papang boom Sarawak 1913' en de getallen 17, 38 en 107\r\n\r\nOp binnenkant deksel staat voor deze opname geschreven; 'Papang boom Ser" .
-<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cf317f252c9e7af15eae9e6ff56be7b6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cef64ad46df6dd7fd98af9c93f96cb3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cef64ad46df6dd7fd98af9c93f96cb3b> <https://colonialcollections.nl/schema#identifier> "nf%201305-12-3" .
 <https://n2t.net/ark:/27023/cef64ad46df6dd7fd98af9c93f96cb3b> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een blanke man en een dito meisje. Zij staan ergens in de vrije natuur met bergen in de verte.\r\n\r\nIn deze man en meisje zijn de heer Belle en zijn d" .

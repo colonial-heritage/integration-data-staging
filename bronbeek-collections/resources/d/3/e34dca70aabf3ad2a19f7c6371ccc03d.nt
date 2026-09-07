@@ -3,10 +3,18 @@
 <https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#name> "Passer te Kaban Djahé. - Sumatra." .
 <https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#description> "Schoolplaat Passer te Kaban Djahé. - Sumatra, voorzien van houten lijst naar schilderij van Gabrielse uit de serie van Henri Zondervan ; Insulinde in woord en beeld. Afm. 93,5 x 76,5 cm." .
 <https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#inscription> "Passer te Kaban Djahé. - Sumatra." .
-<https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
 <https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
+<https://n2t.net/ark:/27023/5893ddc5179fb548a6433061561664c4> <https://colonialcollections.nl/schema#creator> "J.B. Wolters Uitgevers-Maatschappij N.V." .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/9" .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#name> "Onderzeeboot O.23" .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart, Onderzeeboot O.23." .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#inscription> "Onderzeeboot O.23" .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#creator> "Ch. Kellerman" .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5897919e90a9f61e6be99d207a6055e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5897919e90a9f61e6be99d207a6055e4> <https://colonialcollections.nl/schema#identifier> "2006/00-56-4" .
 <https://n2t.net/ark:/27023/5897919e90a9f61e6be99d207a6055e4> <https://colonialcollections.nl/schema#name> "Batikkerij. Java." .
@@ -57,6 +65,14 @@
 <https://n2t.net/ark:/27023/58b4192643ec51d82836298055ebf039> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/58b4192643ec51d82836298055ebf039> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/58b4192643ec51d82836298055ebf039> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/58b4192643ec51d82836298055ebf039> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/187" .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nVerso: \"In hinderlaag langs de lorry op de achtergrond de berg Dec 1947\". Spoor in een landschap. Rechts d" .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/587e476f46d16885ecbcb74fe34653d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/587e476f46d16885ecbcb74fe34653d5> <https://colonialcollections.nl/schema#identifier> "nf%20335-53-4" .
 <https://n2t.net/ark:/27023/587e476f46d16885ecbcb74fe34653d5> <https://colonialcollections.nl/schema#description> "Geen onderschrift.\r\n\r\nZwart/wit opname van een groep mannen en vrouwen in het gras." .
@@ -115,13 +131,6 @@
 <https://n2t.net/ark:/27023/58c2d44f8beb6f0bd6f2e600bfe660f3> <https://colonialcollections.nl/schema#inscription> "20" .
 <https://n2t.net/ark:/27023/58c2d44f8beb6f0bd6f2e600bfe660f3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/58c2d44f8beb6f0bd6f2e600bfe660f3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#identifier> "2003/11/09-5-8/9" .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#name> "Onderzeeboot O.23" .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart, Onderzeeboot O.23." .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#inscription> "Onderzeeboot O.23" .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/58965692d63d74ce9d798cb1dc1b8500> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/587f55e803e69d745de6bda36284cab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/587f55e803e69d745de6bda36284cab5> <https://colonialcollections.nl/schema#identifier> "2006/02/09-1-5/2" .
 <https://n2t.net/ark:/27023/587f55e803e69d745de6bda36284cab5> <https://colonialcollections.nl/schema#name> "De Klewang. Weekblad voor de troepen op Sumatra. 4e jaargang, no.27. Zaterdag, 9 juli 1949" .
@@ -530,12 +539,6 @@
 <https://n2t.net/ark:/27023/58c414bea670076ab9157c3d77dc3b56> <https://colonialcollections.nl/schema#description> "Foto, zw/w.  Een kantil en een kip samen scharrelend in een hok\r\n\r\nverso: \" kantjil & kip  2-10-'32\"\r\nDe foto maakt deel uit van de uit 241 foto's bestaande collectie Japing, periode 1918-1938." .
 <https://n2t.net/ark:/27023/58c414bea670076ab9157c3d77dc3b56> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/58c414bea670076ab9157c3d77dc3b56> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/187" .
-<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nVerso: \"In hinderlaag langs de lorry op de achtergrond de berg Dec 1947\". Spoor in een landschap. Rechts d" .
-<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/58bba749ca397e4808d5b5c1e38dc857> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5884c048441dd5190479856ca59cc12a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5884c048441dd5190479856ca59cc12a> <https://colonialcollections.nl/schema#identifier> "S%20230-126" .
 <https://n2t.net/ark:/27023/5884c048441dd5190479856ca59cc12a> <https://colonialcollections.nl/schema#description> "Trechtervormige mand, model." .

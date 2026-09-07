@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/d08d2b08f5a8588125d4d7cc773f14f9> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/d08d2b08f5a8588125d4d7cc773f14f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d08d2b08f5a8588125d4d7cc773f14f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/51" .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#name> "Pasar (markt) te Gianjar" .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nPasar (markt) te Gianjar." .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d0a8c56de9c9e5bf6e1b8b6db14f7061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d0a8c56de9c9e5bf6e1b8b6db14f7061> <https://colonialcollections.nl/schema#identifier> "1990/08/20-12-3" .
 <https://n2t.net/ark:/27023/d0a8c56de9c9e5bf6e1b8b6db14f7061> <https://colonialcollections.nl/schema#name> "Schoolplaat \"Rijstbouw, Java\"" .
@@ -15,6 +23,20 @@
 <https://n2t.net/ark:/27023/d0a8c56de9c9e5bf6e1b8b6db14f7061> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d0a8c56de9c9e5bf6e1b8b6db14f7061> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d0a8c56de9c9e5bf6e1b8b6db14f7061> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/36" .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Portret in huis met drie mannen in een koloniaal interieur.\r\nVerso: Oom Eddy van Swieten (links) met 2 vrienden.\r\nStempel: Fotograaf \"Yayoi\", Prabansajan-gan, Soerabaja. Tel.No. 2323 Z." .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#creator> "Yayoi" .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-29" .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#name> "\"Huis Batavia/Menteng\"" .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Huis Batavia, Menteng." .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#creator> "C.A. von Hedemann, Java" .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d0877dc0c43119e271ce23ecabf464d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d0877dc0c43119e271ce23ecabf464d0> <https://colonialcollections.nl/schema#identifier> "2005/00-296" .
 <https://n2t.net/ark:/27023/d0877dc0c43119e271ce23ecabf464d0> <https://colonialcollections.nl/schema#name> "Smokingjasje" .
@@ -22,13 +44,22 @@
 <https://n2t.net/ark:/27023/d0877dc0c43119e271ce23ecabf464d0> <https://colonialcollections.nl/schema#creator> "Aug. Savelkoul" .
 <https://n2t.net/ark:/27023/d0877dc0c43119e271ce23ecabf464d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d0877dc0c43119e271ce23ecabf464d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#identifier> "nf%20677-6" .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#name> "Duryodhana en Sakuni, met op de achtergrond de vijf Pandawas" .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: DURYODHANA en SAKUNI (rechts). Op de achtergrond de 5 Pandawas.\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                                 " .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#creator> "Maria Austria" .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#identifier> "nf%20709-6" .
 <https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#name> "Barong kétét.- Een legendarisch dier" .
 <https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#description> "Ansichtkaart  met een voorstelling van een Barong ketet.\r\nOpname, vermoedelijk, gemaakt op de wereldtentoonstelling te Parijs in 1931.\r\n\r\nOp de achterzijde vermeld;\r\n'Barong kétét.- Een legendarisch dier. Barong kétét. Barong kétét. Une bête légendaire.'\r" .
-<https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
 <https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
+<https://n2t.net/ark:/27023/d08e7827bdc274d324c38283afa588cc> <https://colonialcollections.nl/schema#creator> "L. Blok" .
 <https://n2t.net/ark:/27023/d0b370d10be5e1e51564255293d5d179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d0b370d10be5e1e51564255293d5d179> <https://colonialcollections.nl/schema#identifier> "2001/00-53-41" .
 <https://n2t.net/ark:/27023/d0b370d10be5e1e51564255293d5d179> <https://colonialcollections.nl/schema#name> "Japanse wacht" .
@@ -88,13 +119,6 @@
 <https://n2t.net/ark:/27023/d09bf70dd2a30a8bd85c543d6ac90dac> <https://colonialcollections.nl/schema#inscription> "Aardrijkskundige kaart Nederlandsch Indië" .
 <https://n2t.net/ark:/27023/d09bf70dd2a30a8bd85c543d6ac90dac> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d09bf70dd2a30a8bd85c543d6ac90dac> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/51" .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#name> "Pasar (markt) te Gianjar" .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nPasar (markt) te Gianjar." .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d08d54afb3c17f2713ef8d041dda3dc2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d06708a9b0863d67350521cb864a5210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d06708a9b0863d67350521cb864a5210> <https://colonialcollections.nl/schema#identifier> "2004/08/29-9-5/226" .
 <https://n2t.net/ark:/27023/d06708a9b0863d67350521cb864a5210> <https://colonialcollections.nl/schema#name> "299 foto´s uit de periode Nederlands Indië 1947-1949" .
@@ -521,24 +545,6 @@
 <https://n2t.net/ark:/27023/d0b5decda421686319cf149090a54444> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Periode 1947. Totaal 117." .
 <https://n2t.net/ark:/27023/d0b5decda421686319cf149090a54444> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d0b5decda421686319cf149090a54444> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/36" .
-<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Familiefoto uit de Collectie Van Swieten. Portret in huis met drie mannen in een koloniaal interieur.\r\nVerso: Oom Eddy van Swieten (links) met 2 vrienden.\r\nStempel: Fotograaf \"Yayoi\", Prabansajan-gan, Soerabaja. Tel.No. 2323 Z." .
-<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d076aa974d693e932014b37cc2cda4be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-29" .
-<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#name> "\"Huis Batavia/Menteng\"" .
-<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#description> "Carte de visite. Op achterzijde in potlood: \"Huis Batavia, Menteng." .
-<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d0837d473c72ea8ac930e2573ba747b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#identifier> "nf%20677-6" .
-<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#name> "Duryodhana en Sakuni, met op de achtergrond de vijf Pandawas" .
-<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenzijde opgeplakt.\r\n\r\nOnder foto getypte tekst: DURYODHANA en SAKUNI (rechts). Op de achtergrond de 5 Pandawas.\r\n\r\nAchterop foto een blauw stempel:copyright 'particam'\r\n                                                 " .
-<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d08e3bd4c51b09a871d2dc6834279195> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d06ba2e4a230531b915f3a9443fb4bd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d06ba2e4a230531b915f3a9443fb4bd9> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42100" .
 <https://n2t.net/ark:/27023/d06ba2e4a230531b915f3a9443fb4bd9> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkorf\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezels, lak, gevlochten\r\nEmailadres: toelichting:\tMand met een deksel van gevlochten plantenvezels, bruin gelakt. De rand is beschilderd met bruine blad- en b" .

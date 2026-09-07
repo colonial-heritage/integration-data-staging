@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#identifier> "2000/10/12-3-9" .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#name> "Onderdeel kraagpat Korporaal" .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#description> "Onderdeel kraagpat Korporaal. Metaal, geel, KNIL, na-oorlogs, gestempeld : \"Luke Melb\"." .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#inscription> "Luke Melb" .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#creator> "K.C. Luke" .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#identifier> "1996/11/19-1-1" .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#name> "Meesterdegen, gebroeders van Leer, Utrecht" .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#description> "Meesterdegen. Geelkoperen montering embleem op de stootplaat van zilver, tweesnijdende, geëtste kling.\r\n\r\nM.van Laar (29-03-2001):\r\nGevest\r\n-Materiaal: messing\r\n-Greep: hoorn, 9 ribben met draad omwonden\r\n-Stootplaat: afhangende stootplaat met vaste voorb" .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#inscription> "Op gevest: onderzijde stootplaat cijfer \"1\"\r\nOp kling:  WK&C = Wijersberg, Kirschbaum und Co; Gebr. van Leer, Utrecht; logo WKC" .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#creator> "Gebroeders van Leer, Utrecht" .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#identifier> "1996/10/03-2-1" .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#name> "73. Bouwval van den Hindoetempel Mendoet. Java" .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#description> "Schoolplaat. \r\n73. Bouwval van den Hindoetempel Mendoet. Java" .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#inscription> "73. Bouwval van den Hindoetempel Mendoet. Java" .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1cfcbdfee8006598e3a8fb432c64962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1cfcbdfee8006598e3a8fb432c64962> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/048" .
 <https://n2t.net/ark:/27023/e1cfcbdfee8006598e3a8fb432c64962> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -6,6 +30,14 @@
 <https://n2t.net/ark:/27023/e1cfcbdfee8006598e3a8fb432c64962> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/e1cfcbdfee8006598e3a8fb432c64962> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1cfcbdfee8006598e3a8fb432c64962> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/27" .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#name> "Opmars over de laan van Den Pasar naar Pametjoetan" .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nOpmars over de laan van Den Pasar naar Pametjoetan." .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e19ebdefa5b0b12b15dbd2d8728b31f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e19ebdefa5b0b12b15dbd2d8728b31f8> <https://colonialcollections.nl/schema#identifier> "2015/01/22-1-5/1" .
 <https://n2t.net/ark:/27023/e19ebdefa5b0b12b15dbd2d8728b31f8> <https://colonialcollections.nl/schema#name> "KPM gebouw Koningsplein" .
@@ -27,6 +59,13 @@
 <https://n2t.net/ark:/27023/e1c9146765e27b466c159b4f91712533> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/e1c9146765e27b466c159b4f91712533> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1c9146765e27b466c159b4f91712533> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#identifier> "1989/01/01-36-1" .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#name> "Allegorie van de strijd tussen goede en slechte krachten" .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#description> "Prent: Houtsnede, Japan. Allegorie van de strijd tussen goede en slechte krachten. Waarschijnlijk een deel van een triptiek. Utagawa Shigemitsu, leerling van Hiroshige. Datering 1848-1850. Uitgever?. In redelijke staat." .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#creator> "Utagawa Shigemitsu" .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1cd52de3054ebc34da0dca5457365d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1cd52de3054ebc34da0dca5457365d7> <https://colonialcollections.nl/schema#identifier> "nf%20681-26-4" .
 <https://n2t.net/ark:/27023/e1cd52de3054ebc34da0dca5457365d7> <https://colonialcollections.nl/schema#name> "Groep mensen voor Batoe Gingging estate" .
@@ -34,6 +73,13 @@
 <https://n2t.net/ark:/27023/e1cd52de3054ebc34da0dca5457365d7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e1cd52de3054ebc34da0dca5457365d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1cd52de3054ebc34da0dca5457365d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-1/1" .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#name> "Foto´s Dienst leger Contacten, 25 stuks" .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#description> "Foto´s Dienst legercontacten, 25 stuks (meest genummerd), enkele voorzien van commentaar in pen. \r\n\r\nFoto´s gemaakt door fotograaf/journalist Bartel Hartwiesen (Ministerie van Oorlog, dienst legercontacten), 1946-1947. De foto´s handelen over het militair" .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#creator> "Dhr. Bartel Hartwiesen" .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1a42d06d69915e31c1f8b44e76ec0cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1a42d06d69915e31c1f8b44e76ec0cc> <https://colonialcollections.nl/schema#identifier> "nf%2070" .
 <https://n2t.net/ark:/27023/e1a42d06d69915e31c1f8b44e76ec0cc> <https://colonialcollections.nl/schema#description> "glasnegatief, zwart/wit\r\n\r\nDrie poserende mensen, twee vrouwen, waarvan een staande vrouw en een zittende oudere vrouw, en een staand meisje met een mutsje op.\r\nMogelijk een familieportret van drie generaties" .
@@ -89,34 +135,6 @@
 <https://n2t.net/ark:/27023/e1dcae26f7c62e38ef1e9da7ab89b46c> <https://colonialcollections.nl/schema#inscription> "J. Zweers" .
 <https://n2t.net/ark:/27023/e1dcae26f7c62e38ef1e9da7ab89b46c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1dcae26f7c62e38ef1e9da7ab89b46c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#identifier> "2000/10/12-3-9" .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#name> "Onderdeel kraagpat Korporaal" .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#description> "Onderdeel kraagpat Korporaal. Metaal, geel, KNIL, na-oorlogs, gestempeld : \"Luke Melb\"." .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#inscription> "Luke Melb" .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1a2f152970858f5ee4df4fc88f4c325> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#identifier> "1996/11/19-1-1" .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#name> "Meesterdegen, gebroeders van Leer, Utrecht" .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#description> "Meesterdegen. Geelkoperen montering embleem op de stootplaat van zilver, tweesnijdende, geëtste kling.\r\n\r\nM.van Laar (29-03-2001):\r\nGevest\r\n-Materiaal: messing\r\n-Greep: hoorn, 9 ribben met draad omwonden\r\n-Stootplaat: afhangende stootplaat met vaste voorb" .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#inscription> "Op gevest: onderzijde stootplaat cijfer \"1\"\r\nOp kling:  WK&C = Wijersberg, Kirschbaum und Co; Gebr. van Leer, Utrecht; logo WKC" .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1b5282e26f36c82d18be3726d830caf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#identifier> "1996/10/03-2-1" .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#name> "73. Bouwval van den Hindoetempel Mendoet. Java" .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#description> "Schoolplaat. \r\n73. Bouwval van den Hindoetempel Mendoet. Java" .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#inscription> "73. Bouwval van den Hindoetempel Mendoet. Java" .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1cc20e5dfdf17b1f50e7d2b1516b3e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/27" .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#name> "Opmars over de laan van Den Pasar naar Pametjoetan" .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nOpmars over de laan van Den Pasar naar Pametjoetan." .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1d723f6f6420cfb1abe8b329cbb0f3b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e1a085ab710edd9349cf5c7b64f32315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e1a085ab710edd9349cf5c7b64f32315> <https://colonialcollections.nl/schema#identifier> "2014/07/08-1-7" .
 <https://n2t.net/ark:/27023/e1a085ab710edd9349cf5c7b64f32315> <https://colonialcollections.nl/schema#name> "Mouwembleem 8e Afdeling Veldartillerie Koninklijke Landmacht (8 AVA)" .
@@ -495,18 +513,6 @@
 <https://n2t.net/ark:/27023/e1e301470aa2887ecb89a524a5ff855d> <https://colonialcollections.nl/schema#description> "Petembleem (klein model) van goudkleurig metaal bestaat uit een toorts met in een boog het woord ´POLISI´ rustend op twee pilaren. het geheel omgeven door een lauwerkrans. Waar de lauwerkrans samenkomt een ovaal met kleine ster. Aan de keerzijde een speld" .
 <https://n2t.net/ark:/27023/e1e301470aa2887ecb89a524a5ff855d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e1e301470aa2887ecb89a524a5ff855d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#identifier> "1989/01/01-36-1" .
-<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#name> "Allegorie van de strijd tussen goede en slechte krachten" .
-<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#description> "Prent: Houtsnede, Japan. Allegorie van de strijd tussen goede en slechte krachten. Waarschijnlijk een deel van een triptiek. Utagawa Shigemitsu, leerling van Hiroshige. Datering 1848-1850. Uitgever?. In redelijke staat." .
-<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1cb4fbb41c768af2ac48ee8c96a624c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#identifier> "2008/12/16-6-1/1" .
-<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#name> "Foto´s Dienst leger Contacten, 25 stuks" .
-<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#description> "Foto´s Dienst legercontacten, 25 stuks (meest genummerd), enkele voorzien van commentaar in pen. \r\n\r\nFoto´s gemaakt door fotograaf/journalist Bartel Hartwiesen (Ministerie van Oorlog, dienst legercontacten), 1946-1947. De foto´s handelen over het militair" .
-<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e1df7f24203f409fe8835802b68b270b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e19f0d2ba5ac0bf9665d5df041e0b803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e19f0d2ba5ac0bf9665d5df041e0b803> <https://colonialcollections.nl/schema#identifier> "S%20166-117" .
 <https://n2t.net/ark:/27023/e19f0d2ba5ac0bf9665d5df041e0b803> <https://colonialcollections.nl/schema#description> "zwaard met schede; piso rempu pirak (betekent zilveren banden)\r\nIJzeren lemmet met rechte rug; snede in het midden concaaf, daarna convex.\r\nGreep van bruingrijs hoorn.\r\nSchede van bruin hout zwart gemaakt; dicht onder de mond een band (15 cm) van zilver.\r" .

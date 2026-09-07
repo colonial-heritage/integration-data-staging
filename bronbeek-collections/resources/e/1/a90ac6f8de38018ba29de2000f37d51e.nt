@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/39" .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#name> "Plaat 39. Mesigit van Gegarang." .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 39. Mesigit van Gegarang." .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#inscription> "Plaat 39. Mesigit van Gegarang." .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fba6cd61331f8ac7adccd128e31fd84f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fba6cd61331f8ac7adccd128e31fd84f> <https://colonialcollections.nl/schema#identifier> "nf%20789-19-2" .
 <https://n2t.net/ark:/27023/fba6cd61331f8ac7adccd128e31fd84f> <https://colonialcollections.nl/schema#name> "Tjipanas" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/fba6cd61331f8ac7adccd128e31fd84f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fba6cd61331f8ac7adccd128e31fd84f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fba6cd61331f8ac7adccd128e31fd84f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#identifier> "nf%201398-10" .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#name> "Groot dorpsfeest" .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart, in kleur, rechthoekig, met gedeelde achterkant.\r\nOp achterkant gedrukt: 'Aus dem Kalender \"Junge Kunst aus Bali\" en \r\n'Copyright 1970 by Pandion Verlag, 655 Bad Kreuznach, W.-Germany'\r\n\r\nVoorkant toont een voorstelling in kleur, me" .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#creator> "Pandion Verlag" .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fbb4440626856ec62533a8a286071edf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbb4440626856ec62533a8a286071edf> <https://colonialcollections.nl/schema#identifier> "nf%201413-15" .
 <https://n2t.net/ark:/27023/fbb4440626856ec62533a8a286071edf> <https://colonialcollections.nl/schema#name> "Stoepa te Colombo" .
@@ -23,9 +38,10 @@
 <https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#identifier> "nf%201473-25" .
 <https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#name> "Zwembad te Soengei Tanang, Sumatra" .
 <https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 72. ZWEMBAD TE SOENGEI TANAG. SUMATRA.\r\ngeschreven: bij Fort de Kock - Hier is gebruikt gemaakt v.d. wate" .
-<https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fbcddb8b2afcec6c0f7ab41c73e5c6c7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fbd4883d05ef57ab2b9a0b98a3d2a675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbd4883d05ef57ab2b9a0b98a3d2a675> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/59" .
 <https://n2t.net/ark:/27023/fbd4883d05ef57ab2b9a0b98a3d2a675> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -33,6 +49,20 @@
 <https://n2t.net/ark:/27023/fbd4883d05ef57ab2b9a0b98a3d2a675> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/fbd4883d05ef57ab2b9a0b98a3d2a675> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbd4883d05ef57ab2b9a0b98a3d2a675> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#identifier> "2005/07/18-1" .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart uit Suriname, 1911" .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uit Suriname, 1911. Gericht aan mej. A.C. Kiers-Spirlet, Gasthuisstraat 1, Kampen. Gedateerd, Paramaribo, 1911/12/01.\r\nAfzender Firts Spirlet. Kaart voorzien van postzegel Suriname, 5 cent, gestempeld te Paramaribo.\r\nOp voorzijde afgebeeld" .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#creator> "Eugen Klein, Paramaribo" .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#identifier> "2011/10/01-4-16/4" .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#name> "Foto op passepartout" .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#description> "Foto op passepartout, totaal 4 stuks; ruiters voor veranda en op plein.\r\nDeze foto: Detailopname van meisje te paard voor een huis in Nederlands-Indië.\r\nFoto en karton beschadigd." .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#creator> "F.van Felder,  Weltevreden" .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fbe39ba85e0728baa16eac9284b30a91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbe39ba85e0728baa16eac9284b30a91> <https://colonialcollections.nl/schema#identifier> "nf%20842-27" .
 <https://n2t.net/ark:/27023/fbe39ba85e0728baa16eac9284b30a91> <https://colonialcollections.nl/schema#name> "Strand en vissersboten Pasir Putih" .
@@ -58,6 +88,7 @@
 <https://n2t.net/ark:/27023/fbbeaaea817ce410847e7bf5f19af9a3> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fbbeaaea817ce410847e7bf5f19af9a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbbeaaea817ce410847e7bf5f19af9a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fbbeaaea817ce410847e7bf5f19af9a3> <https://colonialcollections.nl/schema#creator> "R.B.Creak - Weltevreden" .
 <https://n2t.net/ark:/27023/fbc9ad734e24a5232d883a30d52039cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbc9ad734e24a5232d883a30d52039cc> <https://colonialcollections.nl/schema#identifier> "nf%201518" .
 <https://n2t.net/ark:/27023/fbc9ad734e24a5232d883a30d52039cc> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, maar in slechte staat, los aangetroffen.\r\n\r\nOp achterkant in potlood geschreven de volgende tekst: 'militaire post Rengat, Midden Sumatra'.\r\n\r\nOpname toont, opgesteld op een gazon, een grote groep militairen. Ze zijn in unifo" .
@@ -76,6 +107,12 @@
 <https://n2t.net/ark:/27023/fbe515e832acf46be1cce0f30014525b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fbe515e832acf46be1cce0f30014525b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbe515e832acf46be1cce0f30014525b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-2" .
+<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt.\r\n\r\nOpname van een jonge vrouw met ontbloot bovenlijf. Zij draagt een sarong om haar middel geknoopt en heeft een emaille bak in haar linker hand die zij op haar linker heup houdt.\r\nIn haar haar zit een witte doek." .
+<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fbe6fbf8f1e82c440e88826a28988b25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbe6fbf8f1e82c440e88826a28988b25> <https://colonialcollections.nl/schema#identifier> "2009/04/08-1-22/21" .
 <https://n2t.net/ark:/27023/fbe6fbf8f1e82c440e88826a28988b25> <https://colonialcollections.nl/schema#name> "Nipius 15-41 Native women, Prigen, East Java" .
@@ -83,13 +120,6 @@
 <https://n2t.net/ark:/27023/fbe6fbf8f1e82c440e88826a28988b25> <https://colonialcollections.nl/schema#inscription> "Nefis" .
 <https://n2t.net/ark:/27023/fbe6fbf8f1e82c440e88826a28988b25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbe6fbf8f1e82c440e88826a28988b25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/39" .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#name> "Plaat 39. Mesigit van Gegarang." .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 39. Mesigit van Gegarang." .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#inscription> "Plaat 39. Mesigit van Gegarang." .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fbc4e0e2dd5d1b1bfac8364479fc2605> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fba3ac5cac66a2d2e9f0e40958697fa6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fba3ac5cac66a2d2e9f0e40958697fa6> <https://colonialcollections.nl/schema#identifier> "1989/01/01-4-40" .
 <https://n2t.net/ark:/27023/fba3ac5cac66a2d2e9f0e40958697fa6> <https://colonialcollections.nl/schema#name> "Badik" .
@@ -540,24 +570,6 @@
 <https://n2t.net/ark:/27023/fbe6e0be79541c195347be1572eac912> <https://colonialcollections.nl/schema#description> "Foto's Nederlands-Indië, periode 1947-1948. Totaal 233 stuks met een aantal duplicaten." .
 <https://n2t.net/ark:/27023/fbe6e0be79541c195347be1572eac912> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbe6e0be79541c195347be1572eac912> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#identifier> "nf%201398-10" .
-<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#name> "Groot dorpsfeest" .
-<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart, in kleur, rechthoekig, met gedeelde achterkant.\r\nOp achterkant gedrukt: 'Aus dem Kalender \"Junge Kunst aus Bali\" en \r\n'Copyright 1970 by Pandion Verlag, 655 Bad Kreuznach, W.-Germany'\r\n\r\nVoorkant toont een voorstelling in kleur, me" .
-<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fba9030aee4fe20305dd65b816e7c834> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#identifier> "2005/07/18-1" .
-<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart uit Suriname, 1911" .
-<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uit Suriname, 1911. Gericht aan mej. A.C. Kiers-Spirlet, Gasthuisstraat 1, Kampen. Gedateerd, Paramaribo, 1911/12/01.\r\nAfzender Firts Spirlet. Kaart voorzien van postzegel Suriname, 5 cent, gestempeld te Paramaribo.\r\nOp voorzijde afgebeeld" .
-<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fbd6f93ee411386a9d2e6390f51f8cf8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#identifier> "2011/10/01-4-16/4" .
-<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#name> "Foto op passepartout" .
-<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#description> "Foto op passepartout, totaal 4 stuks; ruiters voor veranda en op plein.\r\nDeze foto: Detailopname van meisje te paard voor een huis in Nederlands-Indië.\r\nFoto en karton beschadigd." .
-<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fbd8dae9c56762668d3bd22342535933> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fbc19280ec59d01e3bb2e1fd4d49a909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fbc19280ec59d01e3bb2e1fd4d49a909> <https://colonialcollections.nl/schema#identifier> "nf%201355-10-2" .
 <https://n2t.net/ark:/27023/fbc19280ec59d01e3bb2e1fd4d49a909> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen. \r\n\r\nOpname toont een blanke vrouw en drie heren, allen in het wit gekleed. Zij zitten buiten, in de tuin, nogal nauw opeen, op een hekwerk rond " .
@@ -573,11 +585,6 @@
 <https://n2t.net/ark:/27023/fbd8f2604b79f6935bbca8a0950bd05e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl met houten punt\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout\r\n\r\nAfmetingen:\tGeheel: 93 cm\r\nMedia:\t2996\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2996] Depot, K [K]" .
 <https://n2t.net/ark:/27023/fbd8f2604b79f6935bbca8a0950bd05e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fbd8f2604b79f6935bbca8a0950bd05e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#identifier> "EDO%20481-2" .
-<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt.\r\n\r\nOpname van een jonge vrouw met ontbloot bovenlijf. Zij draagt een sarong om haar middel geknoopt en heeft een emaille bak in haar linker hand die zij op haar linker heup houdt.\r\nIn haar haar zit een witte doek." .
-<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fbe6adf5eed16c265ab6e056bb01c8d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fba39a7f66361286e07018ce0966a68d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fba39a7f66361286e07018ce0966a68d> <https://colonialcollections.nl/schema#identifier> "2016/04/20-1-1/4" .
 <https://n2t.net/ark:/27023/fba39a7f66361286e07018ce0966a68d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/28" .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\nIn een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 18.\r\nAfgebeeld: Staande man leunend op ee stoel met linkerarm. Op stoel een hoge" .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#inscription> "[H.Reijen] 2e Lt. 5e Reg.; Jules Géruzet, Phot." .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#creator> "Atelier de photographie de J.Géruzet, editeur d'Estampes" .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#identifier> "2001/06/07-1-12" .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#name> "Revolver (merkloos)" .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#description> "Revolver, merkloos, inscripties: 'A', 'gekroonde R', 'AC' en 'HDH'.\r\n\r\nOnderzoek Martens&De Vries:\r\n\r\nOMSCHRIJVING\r\n- Wapensoort\t\t\t: Revolver, centraalvuur, vijfschots?\r\n- Benaming, type & fabrikant\t                : HDH (Henrion Dassy Heuschen) België\r\n-" .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#inscription> "A ; gekroonde R ; AC ; HDH" .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#creator> "Henrion, Dassy & Heuschen" .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/896a0628c43d6b9122b0b6f85797f5ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/896a0628c43d6b9122b0b6f85797f5ab> <https://colonialcollections.nl/schema#identifier> "nf%20619-56" .
 <https://n2t.net/ark:/27023/896a0628c43d6b9122b0b6f85797f5ab> <https://colonialcollections.nl/schema#name> "Mijn jongen \"Badjo\" in veldtenue" .
@@ -5,13 +21,35 @@
 <https://n2t.net/ark:/27023/896a0628c43d6b9122b0b6f85797f5ab> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/896a0628c43d6b9122b0b6f85797f5ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/896a0628c43d6b9122b0b6f85797f5ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/16" .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#identifier> "S%206245-52" .
 <https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#name> "Lontar-Palm. - Borassus Flabelliformis." .
 <https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Lontar-Palm. - Borassus Flabelliformis.\r\nRechts onder: Lichtdruk van H. Kleinmann & Co., te Haarlem\r\n\r\nDe opname " .
-<https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8971ab8a5066f60be270b00656f8479c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#identifier> "1916/03/30-1-1" .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal Th.J.A. van Zijll de Jong, RMWO 4, Legercommandant 1889-1893, door P de Josselin de Jong." .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#description> "olieverf op paneel, 66 x 79cm, zwart houten geprofileerde lijst, breed 14cm, met goudkleurige metalen sierstrip aan binnenzijde, breed 1 cm. Rechtsboven familiewapen van van Zijll de Jong, linksboven gesigneerd: \"d.J.d.J.\".Gedateerd \"1901\".\r\nZittend, kwar" .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#creator> "P. de Josselin de Jong" .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/7-1" .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#name> "155 mm. Tractor-Drawn Gun, Camp Davis, North Carolina" .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 155 mm. Tractor-Drawn Gun, Camp Davis, North Carolina. [Kleurendruk]" .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#creator> "E.C.Moore & Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/898bae4dcea549ee23c0071b722c851b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/898bae4dcea549ee23c0071b722c851b> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-63" .
 <https://n2t.net/ark:/27023/898bae4dcea549ee23c0071b722c851b> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -19,6 +57,14 @@
 <https://n2t.net/ark:/27023/898bae4dcea549ee23c0071b722c851b> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/898bae4dcea549ee23c0071b722c851b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/898bae4dcea549ee23c0071b722c851b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#identifier> "2005/00-635/2" .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#name> "Badende karbouwen op Sumatra" .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#description> "Kalenderblad met rechtsboven \"badende karbouwen op Sumatra\" en midden links \"een der vele fraaie orchideeën van Insulinde (Dendrobium phaaenopsis Fitz.)\"" .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#creator> "Dorco uitgave" .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#creator> "Indisch Instituut" .
 <https://n2t.net/ark:/27023/8996789460747199aec77877ee60b7bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8996789460747199aec77877ee60b7bf> <https://colonialcollections.nl/schema#identifier> "nf%20678-5-2" .
 <https://n2t.net/ark:/27023/8996789460747199aec77877ee60b7bf> <https://colonialcollections.nl/schema#name> "Gekken en dwazen ..." .
@@ -48,9 +94,10 @@
 <https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#identifier> "nf%20681-16" .
 <https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#description> "Zwart/wit ansichtkaart.\r\n\r\nDe opname toont het \" Frederiksborg Slot\" in Denemarken.\r\n\r\nHet betreft  een interieurffoto van de slotkerk." .
-<https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#creator> "Frederiksborg Museet" .
 <https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/898151b6e5b8c38430954c0227d70904> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/89894dbe8388c2806cf15a43c29e8e55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/89894dbe8388c2806cf15a43c29e8e55> <https://colonialcollections.nl/schema#identifier> "nf%20926-35-1" .
 <https://n2t.net/ark:/27023/89894dbe8388c2806cf15a43c29e8e55> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van kinderen bij een boom. Naast de boom een meisje, in de boom geklommen onderaan een jongetje en boven hem nog iemand.\r\n\r\nIn het meisje en het jongetje onderaan  zijn Beppie en Jelle van den Berg te herkennen." .
@@ -83,20 +130,6 @@
 <https://n2t.net/ark:/27023/896f16b3bf59bc6b47a035a001a3e319> <https://colonialcollections.nl/schema#inscription> "E.M." .
 <https://n2t.net/ark:/27023/896f16b3bf59bc6b47a035a001a3e319> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/896f16b3bf59bc6b47a035a001a3e319> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/28" .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\nIn een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 18.\r\nAfgebeeld: Staande man leunend op ee stoel met linkerarm. Op stoel een hoge" .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#inscription> "[H.Reijen] 2e Lt. 5e Reg.; Jules Géruzet, Phot." .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/897e1af9856cc437ccd126de3548f310> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#identifier> "2001/06/07-1-12" .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#name> "Revolver (merkloos)" .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#description> "Revolver, merkloos, inscripties: 'A', 'gekroonde R', 'AC' en 'HDH'.\r\n\r\nOnderzoek Martens&De Vries:\r\n\r\nOMSCHRIJVING\r\n- Wapensoort\t\t\t: Revolver, centraalvuur, vijfschots?\r\n- Benaming, type & fabrikant\t                : HDH (Henrion Dassy Heuschen) België\r\n-" .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#inscription> "A ; gekroonde R ; AC ; HDH" .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/898d626f294a56ca2d244abd17555e85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/895dc9859c316643e2596712c4e660b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/895dc9859c316643e2596712c4e660b6> <https://colonialcollections.nl/schema#identifier> "1998/05/11-1-6/5" .
 <https://n2t.net/ark:/27023/895dc9859c316643e2596712c4e660b6> <https://colonialcollections.nl/schema#name> "Kommetje; onderdeel van sirihstel" .
@@ -553,30 +586,6 @@
 <https://n2t.net/ark:/27023/89a1862a554bc5a501dfe93b335e1e94> <https://colonialcollections.nl/schema#description> "Foto, onderdeel van het archief van de familie Van Zwieten de Blom-Haasdijk." .
 <https://n2t.net/ark:/27023/89a1862a554bc5a501dfe93b335e1e94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/89a1862a554bc5a501dfe93b335e1e94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/16" .
-<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/896a7c16762b6c55fcb90e614b1e102d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#identifier> "1916/03/30-1-1" .
-<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal Th.J.A. van Zijll de Jong, RMWO 4, Legercommandant 1889-1893, door P de Josselin de Jong." .
-<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#description> "olieverf op paneel, 66 x 79cm, zwart houten geprofileerde lijst, breed 14cm, met goudkleurige metalen sierstrip aan binnenzijde, breed 1 cm. Rechtsboven familiewapen van van Zijll de Jong, linksboven gesigneerd: \"d.J.d.J.\".Gedateerd \"1901\".\r\nZittend, kwar" .
-<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8981721dac215ddb92fa2cd46d06d24e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/7-1" .
-<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#name> "155 mm. Tractor-Drawn Gun, Camp Davis, North Carolina" .
-<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 155 mm. Tractor-Drawn Gun, Camp Davis, North Carolina. [Kleurendruk]" .
-<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8984cb3ca4ebaf81b38ecbfc38191177> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#identifier> "2005/00-635/2" .
-<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#name> "Badende karbouwen op Sumatra" .
-<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#description> "Kalenderblad met rechtsboven \"badende karbouwen op Sumatra\" en midden links \"een der vele fraaie orchideeën van Insulinde (Dendrobium phaaenopsis Fitz.)\"" .
-<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/898dd14ce5b6d50d1febf95d9f143198> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8981cd755a7348b56204e46aaf5663c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8981cd755a7348b56204e46aaf5663c0> <https://colonialcollections.nl/schema#identifier> "2015/07/20-1-5/65" .
 <https://n2t.net/ark:/27023/8981cd755a7348b56204e46aaf5663c0> <https://colonialcollections.nl/schema#description> "Foto" .

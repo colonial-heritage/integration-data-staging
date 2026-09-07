@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/60" .
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#name> "Serie foto's betreffende diensttijd in Grave en verblijf in Nieuw-Guinea van G.J. Dominicus" .
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#description> "Foto's van G.J. Dominicus' diensttijd in Grave en verblijf in Soerabaia en Nieuw-Guinea.\r\n\r\n- 5 foto's opleiding Grave o.m. (Gabous [?] kazerne op Ridax-papier (6 x      8,9 cm)\r\n- 3 foto's op ongemerkt papier o.a. Jo Hoekman en Ben Peters te Angeren   en" .
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ef83fa15c058e28a71731de2a080686c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ef83fa15c058e28a71731de2a080686c> <https://colonialcollections.nl/schema#identifier> "nf%201413-49" .
 <https://n2t.net/ark:/27023/ef83fa15c058e28a71731de2a080686c> <https://colonialcollections.nl/schema#name> "Kreek met prauwen te Palembang" .
@@ -9,10 +16,10 @@
 <https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#identifier> "nf%201359-2" .
 <https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#name> "Bij de orang hutan kooi" .
 <https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 3 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: BALSPEL VAN FRANSJE IN ZYN BAD / BY DE ORANG OETANKOOI EN OP DE DIV" .
-<https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ef8c4d1a6836d51fd3d947aa812275a1> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/ef9f8d311315ac9c0ae8a34567f5ea62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ef9f8d311315ac9c0ae8a34567f5ea62> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/273" .
 <https://n2t.net/ark:/27023/ef9f8d311315ac9c0ae8a34567f5ea62> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -20,14 +27,21 @@
 <https://n2t.net/ark:/27023/ef9f8d311315ac9c0ae8a34567f5ea62> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/ef9f8d311315ac9c0ae8a34567f5ea62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef9f8d311315ac9c0ae8a34567f5ea62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/31" .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Klandasan, in den voorgrond tennisbaan" .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balikpapan (Borneo) Klandasan, in den voorgrond tennisbaan" .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#creator> "Rob. Hennemann & Co." .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#identifier> "nf%201360-2" .
 <https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#name> "Planten en dierentuin" .
 <https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 2 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'DIVERSE OPNAMEN IN DEN SOER / PLANTEN EN DIERENTUIN 1934'\r\n\r\nOok i" .
-<https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/efa458104c64c24bcc5aa8189552645d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ef6f25da49c7e66f7da259e15b83922d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ef6f25da49c7e66f7da259e15b83922d> <https://colonialcollections.nl/schema#identifier> "nf%20689" .
 <https://n2t.net/ark:/27023/ef6f25da49c7e66f7da259e15b83922d> <https://colonialcollections.nl/schema#description> "Man en jongen van het eiland Nias zitten in een gebouw, de man met traditionele kleding en waard in de hand. Tegen de muur staat een schild." .
@@ -70,6 +84,12 @@
 <https://n2t.net/ark:/27023/ef8efcd6673265d35e99327bd349335b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ef8efcd6673265d35e99327bd349335b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef8efcd6673265d35e99327bd349335b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#identifier> "nf%20323-18-2" .
+<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#description> "bijschrift; 'Man uit Badjawa voor zijn woning. Alle karbouwenhorens en varkens-kaken van dieren, die hij gedurende zjin leven geslacht heeft, zijn ter versiering aan den voorkant van zijn huis vastgenageld.'" .
+<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ef9f0934ce2febbf40cd1590644468d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ef9f0934ce2febbf40cd1590644468d5> <https://colonialcollections.nl/schema#identifier> "nf%201431-30" .
 <https://n2t.net/ark:/27023/ef9f0934ce2febbf40cd1590644468d5> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOpname toont de fraaie, in grote verscheidenheid, decoratie aan de buitenkant van een grote woning. \r\n\r\nN.B.: Waar mogelijk is de exacte geografische herkomst aange" .
@@ -534,18 +554,6 @@
 <https://n2t.net/ark:/27023/efa6d01bcdee455e2045cc7d58a2f155> <https://colonialcollections.nl/schema#description> "Foto´s, z/w, periode 1945-1952" .
 <https://n2t.net/ark:/27023/efa6d01bcdee455e2045cc7d58a2f155> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/efa6d01bcdee455e2045cc7d58a2f155> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/60" .
-<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#name> "Serie foto's betreffende diensttijd in Grave en verblijf in Nieuw-Guinea van G.J. Dominicus" .
-<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#description> "Foto's van G.J. Dominicus' diensttijd in Grave en verblijf in Soerabaia en Nieuw-Guinea.\r\n\r\n- 5 foto's opleiding Grave o.m. (Gabous [?] kazerne op Ridax-papier (6 x      8,9 cm)\r\n- 3 foto's op ongemerkt papier o.a. Jo Hoekman en Ben Peters te Angeren   en" .
-<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ef734507cc680839cfd3db0d26e2f04c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/31" .
-<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#name> "Balikpapan (Borneo) Klandasan, in den voorgrond tennisbaan" .
-<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balikpapan (Borneo) Klandasan, in den voorgrond tennisbaan" .
-<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/efa1c1d3c1a59b6453b53624c8094c9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ef6a2e695e96bb9b8a51c37377668962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ef6a2e695e96bb9b8a51c37377668962> <https://colonialcollections.nl/schema#identifier> "nf%20899-58" .
 <https://n2t.net/ark:/27023/ef6a2e695e96bb9b8a51c37377668962> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nOpname van een blanke vrouw die een eenvoudig wagentje met vier houten wielen voorttrekt. In dat wagentje een balnk meisje.\r\n\r\nIn de twee personen zijn  mevrouw Knaap en dochter Pop te herkennen." .
@@ -576,11 +584,6 @@
 <https://n2t.net/ark:/27023/ef9411ba27fc3a50a0b1182f13dd0342> <https://colonialcollections.nl/schema#description> "Pijl van sagobladnerf" .
 <https://n2t.net/ark:/27023/ef9411ba27fc3a50a0b1182f13dd0342> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ef9411ba27fc3a50a0b1182f13dd0342> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#identifier> "nf%20323-18-2" .
-<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#description> "bijschrift; 'Man uit Badjawa voor zijn woning. Alle karbouwenhorens en varkens-kaken van dieren, die hij gedurende zjin leven geslacht heeft, zijn ter versiering aan den voorkant van zijn huis vastgenageld.'" .
-<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ef9ae5f6b711032e84c94523468746e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ef689bcbf712a7e732bca3e0e4725299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ef689bcbf712a7e732bca3e0e4725299> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/602" .
 <https://n2t.net/ark:/27023/ef689bcbf712a7e732bca3e0e4725299> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

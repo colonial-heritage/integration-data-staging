@@ -1,3 +1,24 @@
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#identifier> "1996/05/03-2-8" .
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#name> "Noordkust Java, blad III, Cheribon tot Semarang" .
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#description> "Hydrografische kaart de Noordkust van Java, blad III, Cheribon tot Semarang.\r\nSchaal 1:200.000\r\n´s-Gravanhage, uitgegeven in mei 1910 door het Ministerie van Marine, Afdeeling Hydrographie" .
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#creator> "Ministerie van Marine" .
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-22/9" .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#name> "Hotel Huize Hansje Sarangan" .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#description> "Foto. Hotel Huize Hansje Sarangan. Photo: \"Azia\", Madioen.\r\nGestuurd aan: \"F. Voordouw, Koeteistraat 13, Soerabaia.\"Gedateerd 1935/06/17." .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#creator> "Photo \"Azia\", Madioen" .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#identifier> "nf%20881-6" .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#name> "S.S. Goentoer van  Rotterdamsche Lloyd" .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#description> "Gelopen ansichtkaart met een afbeelding van S.S. (stoomschip) Goentoer van de Rotterdamsche Lloyd. Bovenaan op de voorkant staat de tekst 'Souvenir' en S.S. - \"Goentoer\" -  Rotterdamsche Lloyd (Télégraphie sans fil)\r\nLinksonder staat 'H. Grimaud & Cie - M" .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#creator> "H. Grimaud & Cie [Marseille]" .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cfee272f1c77e54349557c0ea6e0fa1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cfee272f1c77e54349557c0ea6e0fa1e> <https://colonialcollections.nl/schema#identifier> "2017/07/31-6-2" .
 <https://n2t.net/ark:/27023/cfee272f1c77e54349557c0ea6e0fa1e> <https://colonialcollections.nl/schema#name> "Fotocamera in leren tas" .
@@ -12,6 +33,13 @@
 <https://n2t.net/ark:/27023/cff2873e26642cc7c3386bf7cd2b515d> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/cff2873e26642cc7c3386bf7cd2b515d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cff2873e26642cc7c3386bf7cd2b515d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#identifier> "1991/08/24-1-19" .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#name> "Schoonhoven, Veerpoort" .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, foto. \"Schoonhoven, Veerpoort\"" .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#creator> "Uitg. W.Timmer, Boekhandel, Schoonhoven" .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cfff9a8cc5f21cee8f3baf050e5daf04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cfff9a8cc5f21cee8f3baf050e5daf04> <https://colonialcollections.nl/schema#identifier> "nf%20705-5" .
 <https://n2t.net/ark:/27023/cfff9a8cc5f21cee8f3baf050e5daf04> <https://colonialcollections.nl/schema#name> "'bamboe brug over Ombilin Rivier SWK'" .
@@ -26,6 +54,21 @@
 <https://n2t.net/ark:/27023/d00864343872581403beaa64088a436b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d00864343872581403beaa64088a436b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d00864343872581403beaa64088a436b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#identifier> "2005/00-607/35" .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#name> "Foto van stoomschip op water in Sabang, Sumatra-oostkust" .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Stoomschip op water in Sabang.\r\n\r\nverso: in potlood \" [.riplese] Afdeling Sabang 11/8.29\"" .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#identifier> "nf%20701-6" .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#name> "Batikken" .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#description> "De afbeelding toont een drietal jonge vrouwen die aan het batikken zijn.\r\n\r\nbijschrift linksonder; 'Batikken. Batikmaking'\r\nbijschrift rechtsonder; 'Fabrication de Batik. Batik-Arbeit'" .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/d018537b46f187b7c54ad1e0f7bdc934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d018537b46f187b7c54ad1e0f7bdc934> <https://colonialcollections.nl/schema#identifier> "nf%201325-9" .
 <https://n2t.net/ark:/27023/d018537b46f187b7c54ad1e0f7bdc934> <https://colonialcollections.nl/schema#name> "Stadhuis, Batavia" .
@@ -39,6 +82,12 @@
 <https://n2t.net/ark:/27023/cffdfb363e2ee08a89f4362971a3382c> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/cffdfb363e2ee08a89f4362971a3382c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/cffdfb363e2ee08a89f4362971a3382c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#identifier> "nf%20970" .
+<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Gedeeltelijk geplakt op een tussenvel dat op zijn beurt met tape aan één kant op karton is geplakt.\r\n\r\nDe opname toont een groep mannen en vrouwen, beter nog jongens en meisjes, zittend in verschillende wijze op de grond, in " .
+<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#creator> "Kino-Foto-Huis Würffel" .
+<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d00dd6018e203fc39880d84e9326f0aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d00dd6018e203fc39880d84e9326f0aa> <https://colonialcollections.nl/schema#identifier> "nf%20677-37" .
 <https://n2t.net/ark:/27023/d00dd6018e203fc39880d84e9326f0aa> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los. Dus niet geplakt aangetroffen.\r\n\r\nAchter op foto staat in potlood vermeld, niet even duidelijk geschreven:\r\nSang Hyang Brama rood gezicht\r\nSang Hyang Basoeki rose gezicht\r\ndoos Ply 1-3\r\n\r\nin ballpoint het getal 490\r\n\r\nDe" .
@@ -468,42 +517,6 @@
 <https://n2t.net/ark:/27023/d0250fe3c0adc204be8cca3789669379> <https://colonialcollections.nl/schema#description> "Fotoalbum dienstijd korporaal OVW P. de Jonge bij 4de Compagnie 2de Bataljon 14de Regiment Infanterie (4-2-14 RI) (Bataljon Zeeland). 16 pagina's. Geen bijschriften." .
 <https://n2t.net/ark:/27023/d0250fe3c0adc204be8cca3789669379> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d0250fe3c0adc204be8cca3789669379> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#identifier> "1996/05/03-2-8" .
-<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#name> "Noordkust Java, blad III, Cheribon tot Semarang" .
-<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#description> "Hydrografische kaart de Noordkust van Java, blad III, Cheribon tot Semarang.\r\nSchaal 1:200.000\r\n´s-Gravanhage, uitgegeven in mei 1910 door het Ministerie van Marine, Afdeeling Hydrographie" .
-<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cfd2f03f2dd1cc9acc88227acc363094> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-22/9" .
-<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#name> "Hotel Huize Hansje Sarangan" .
-<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#description> "Foto. Hotel Huize Hansje Sarangan. Photo: \"Azia\", Madioen.\r\nGestuurd aan: \"F. Voordouw, Koeteistraat 13, Soerabaia.\"Gedateerd 1935/06/17." .
-<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cfd7d0bc1b760cdfae5ef819e93e0241> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#identifier> "nf%20881-6" .
-<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#name> "S.S. Goentoer van  Rotterdamsche Lloyd" .
-<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#description> "Gelopen ansichtkaart met een afbeelding van S.S. (stoomschip) Goentoer van de Rotterdamsche Lloyd. Bovenaan op de voorkant staat de tekst 'Souvenir' en S.S. - \"Goentoer\" -  Rotterdamsche Lloyd (Télégraphie sans fil)\r\nLinksonder staat 'H. Grimaud & Cie - M" .
-<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cfe4ed2d347aa47252c37b733d4e8c42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#identifier> "1991/08/24-1-19" .
-<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#name> "Schoonhoven, Veerpoort" .
-<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#description> "Prentbriefkaart, foto. \"Schoonhoven, Veerpoort\"" .
-<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/cff861c0615446da15c073bf3b8549a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#identifier> "2005/00-607/35" .
-<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#name> "Foto van stoomschip op water in Sabang, Sumatra-oostkust" .
-<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Stoomschip op water in Sabang.\r\n\r\nverso: in potlood \" [.riplese] Afdeling Sabang 11/8.29\"" .
-<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d00cb46249afb50d82d845c2a645b359> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#identifier> "nf%20701-6" .
-<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#name> "Batikken" .
-<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#description> "De afbeelding toont een drietal jonge vrouwen die aan het batikken zijn.\r\n\r\nbijschrift linksonder; 'Batikken. Batikmaking'\r\nbijschrift rechtsonder; 'Fabrication de Batik. Batik-Arbeit'" .
-<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d011ebf401e162b442c539807863ba44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cfd8b430971b0b0864bf253d277c10aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cfd8b430971b0b0864bf253d277c10aa> <https://colonialcollections.nl/schema#identifier> "nf%201308-4-2" .
 <https://n2t.net/ark:/27023/cfd8b430971b0b0864bf253d277c10aa> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig (maar op de hoeken rond geknipt), opgeplakt, met bijschrift.\r\n\r\nGeldend voor beide foto's op dit fotoblad 4 is er in inkt geschreven tekst die luidt: 'Dames-afdeeling --- Met z'n drieën vertegenwoordigen ze een respectabele le" .
@@ -554,11 +567,6 @@
 <https://n2t.net/ark:/27023/d019b88eadbee8049d9ea6fb2a371bce> <https://colonialcollections.nl/schema#description> "Heupdoek met een semèn patroon, bloem- en bladmotieven, gecombineerd met dierfiguren waar onder schorpioenen en duizendpoten.\r\nHerkomst: Semarang, Java." .
 <https://n2t.net/ark:/27023/d019b88eadbee8049d9ea6fb2a371bce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d019b88eadbee8049d9ea6fb2a371bce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#identifier> "nf%20970" .
-<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Gedeeltelijk geplakt op een tussenvel dat op zijn beurt met tape aan één kant op karton is geplakt.\r\n\r\nDe opname toont een groep mannen en vrouwen, beter nog jongens en meisjes, zittend in verschillende wijze op de grond, in " .
-<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d00a0f402886c398842bdeccadbb0ba4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/cfd03fc24cd4529b1c9ffbcc22c8bf11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/cfd03fc24cd4529b1c9ffbcc22c8bf11> <https://colonialcollections.nl/schema#identifier> "1999/00-405" .
 <https://n2t.net/ark:/27023/cfd03fc24cd4529b1c9ffbcc22c8bf11> <https://colonialcollections.nl/schema#name> "Voorstellende Chinese huisgoden" .

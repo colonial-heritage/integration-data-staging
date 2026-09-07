@@ -1,3 +1,17 @@
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-137" .
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#name> "Foto herdenking omgekomenen op de Noordzee" .
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Ter nagedachtenis van de velen die in de strijd om de bevrijding zijn omgekomen op de Noordzee.Twee hoofdofficieren van de Koninklijke Marine en een burger met een bloemenkrans op zee.\r\n\r\nVerso: stempel en beschrijving foto:\r\n\r\ncopyright \r" .
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#creator> "Haagsche Courant" .
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#identifier> "nf%20838-13" .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#name> "pater Herman Sombroek M.S.F." .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#description> "Portretfoto van pater Herman Sombroek M.S.F." .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#creator> "Em. Muns" .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/340068c9e968f8a1e20741c7978a9471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/340068c9e968f8a1e20741c7978a9471> <https://colonialcollections.nl/schema#identifier> "2015/06/11-1/15" .
 <https://n2t.net/ark:/27023/340068c9e968f8a1e20741c7978a9471> <https://colonialcollections.nl/schema#name> "Generaal van Heutsz met Staf bij Baté Ilië" .
@@ -5,6 +19,27 @@
 <https://n2t.net/ark:/27023/340068c9e968f8a1e20741c7978a9471> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/340068c9e968f8a1e20741c7978a9471> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/340068c9e968f8a1e20741c7978a9471> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-6" .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#creator> "Toko Bie Kong" .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/2" .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#creator> "Natalie Hoogmoed, KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#identifier> "1969/03/03-1-3a" .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#name> "Foto van de onthulling Monument Generaal K. van der Heijden te Arnhem" .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#description> "Foto. Monument ter ere van Karel van der Heijden, destijds staande langs de Karel van der Heijdeweg te Arnhem. Voor het monument staat een groep leden (allen met hoed) van \"Madjoe, afd. Arnhem\". \r\n\r\nTekst op bijbehorende inventariskaart: Monument Karel va" .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#creator> "Dhr. W. Moonen" .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/340c40d5a510b237fa29de44cf742048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/340c40d5a510b237fa29de44cf742048> <https://colonialcollections.nl/schema#identifier> "nf%201431-19" .
 <https://n2t.net/ark:/27023/340c40d5a510b237fa29de44cf742048> <https://colonialcollections.nl/schema#name> "Papua , bezig met het bewerken van een prauw aan het strand van Manokwari." .
@@ -12,6 +47,13 @@
 <https://n2t.net/ark:/27023/340c40d5a510b237fa29de44cf742048> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/340c40d5a510b237fa29de44cf742048> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/340c40d5a510b237fa29de44cf742048> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#identifier> "nf%201315-16" .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#name> "Bandoeng - overweg nabij 't station" .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/340b1c33a94404dbe5028e70858df4e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/340b1c33a94404dbe5028e70858df4e8> <https://colonialcollections.nl/schema#identifier> "nf%201814-10" .
 <https://n2t.net/ark:/27023/340b1c33a94404dbe5028e70858df4e8> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's naast elkaar opgeplakt op groengrijs karton, los aangetroffen.\r\n\r\nOpnames tonen bos in een heuvelachtig terrein. Tussen hoge bomen met dunne stammen staan boomvarens.\r\nDe bomen zijn vermoedelijk tjemara's (cemara's) of " .
@@ -30,6 +72,12 @@
 <https://n2t.net/ark:/27023/341bc94f446bfd01fae4647c441ab66e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/341bc94f446bfd01fae4647c441ab66e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/341bc94f446bfd01fae4647c441ab66e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#identifier> "EDO%20481-47" .
+<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van ergens bovenaf genomen. Te zien zijn een paar Balinese vrouwen met waren op hun hoofd, in één richting lopend. \r\nWaarschijnlijk gaat het hier om het vervoer van offers." .
+<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/342d1274c211a1ce9dcb1ad0eff385d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/342d1274c211a1ce9dcb1ad0eff385d1> <https://colonialcollections.nl/schema#identifier> "nf%20929-39-3" .
 <https://n2t.net/ark:/27023/342d1274c211a1ce9dcb1ad0eff385d1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, half opgeplakt, zonder bijschrift.\r\n\r\nBuitenopname, een zgn. kiekje, van een paar mannen en vrouwen, zowel blanke als  inheemse. Zij staan naast elkaar in een brede opening van een afrastering (zie ook \r\nnf 929-39-" .
@@ -471,42 +519,6 @@
 <https://n2t.net/ark:/27023/34399544c8ac8a279f4b45fc823fe4b7> <https://colonialcollections.nl/schema#description> "Overzichtskaart van den Nederlandsch Oost Indischen Archipel. \r\nTopographische inrichting, Uitg. 1901\r\nHerdruk 1996;Topografische Dienst Emmen" .
 <https://n2t.net/ark:/27023/34399544c8ac8a279f4b45fc823fe4b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/34399544c8ac8a279f4b45fc823fe4b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-137" .
-<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#name> "Foto herdenking omgekomenen op de Noordzee" .
-<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Ter nagedachtenis van de velen die in de strijd om de bevrijding zijn omgekomen op de Noordzee.Twee hoofdofficieren van de Koninklijke Marine en een burger met een bloemenkrans op zee.\r\n\r\nVerso: stempel en beschrijving foto:\r\n\r\ncopyright \r" .
-<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/33f2805d87388c2c3b6fe83ceee41596> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#identifier> "nf%20838-13" .
-<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#name> "pater Herman Sombroek M.S.F." .
-<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#description> "Portretfoto van pater Herman Sombroek M.S.F." .
-<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/33ffdfe727ac2eb6f6426119f1ba39e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-6" .
-<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
-<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
-<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3401dddcb257545c3e2b8e1110101d5f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/2" .
-<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
-<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
-<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3405f384ef3dde4f987c0ef979dd4297> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#identifier> "1969/03/03-1-3a" .
-<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#name> "Foto van de onthulling Monument Generaal K. van der Heijden te Arnhem" .
-<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#description> "Foto. Monument ter ere van Karel van der Heijden, destijds staande langs de Karel van der Heijdeweg te Arnhem. Voor het monument staat een groep leden (allen met hoed) van \"Madjoe, afd. Arnhem\". \r\n\r\nTekst op bijbehorende inventariskaart: Monument Karel va" .
-<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/340b85b30cb2d62741f73fe2ba61e748> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#identifier> "nf%201315-16" .
-<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#name> "Bandoeng - overweg nabij 't station" .
-<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3417c77b6325015ab6036f27605f6900> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3405b31b04f2328b8099d37767bc9b0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3405b31b04f2328b8099d37767bc9b0f> <https://colonialcollections.nl/schema#identifier> "2013/05/27-1-3/81" .
 <https://n2t.net/ark:/27023/3405b31b04f2328b8099d37767bc9b0f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
@@ -572,11 +584,6 @@
 <https://n2t.net/ark:/27023/343aa3df661592cd1ef6d46b4f35489f> <https://colonialcollections.nl/schema#description> "Pijl met houten punt" .
 <https://n2t.net/ark:/27023/343aa3df661592cd1ef6d46b4f35489f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/343aa3df661592cd1ef6d46b4f35489f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#identifier> "EDO%20481-47" .
-<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van ergens bovenaf genomen. Te zien zijn een paar Balinese vrouwen met waren op hun hoofd, in één richting lopend. \r\nWaarschijnlijk gaat het hier om het vervoer van offers." .
-<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/34262e07030e695b122f56fb9fcda569> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3419da283dbd98d8794722b5d68417c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3419da283dbd98d8794722b5d68417c5> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/273" .
 <https://n2t.net/ark:/27023/3419da283dbd98d8794722b5d68417c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

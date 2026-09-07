@@ -14,6 +14,14 @@
 <https://n2t.net/ark:/27023/65d6fde5376c3eaa1f876f18ea4754c1> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/65d6fde5376c3eaa1f876f18ea4754c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65d6fde5376c3eaa1f876f18ea4754c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/65d6fde5376c3eaa1f876f18ea4754c1> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/10" .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 10.\r\nAfgebeeld:Vol portret van een Generaal? met MWO en Eresabel. epauletten me" .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#creator> "F.W. Deutmann" .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/659dbc88b3c7f08c137e3820f8c686cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/659dbc88b3c7f08c137e3820f8c686cc> <https://colonialcollections.nl/schema#identifier> "nf%20526" .
 <https://n2t.net/ark:/27023/659dbc88b3c7f08c137e3820f8c686cc> <https://colonialcollections.nl/schema#name> "bouw van een spoorburg" .
@@ -28,6 +36,13 @@
 <https://n2t.net/ark:/27023/65a45704b30cf315e81362e4a9fbabfc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/65a45704b30cf315e81362e4a9fbabfc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65a45704b30cf315e81362e4a9fbabfc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#identifier> "2002/08/02-1-2" .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#name> "Partituur \"Ik kom uit dat groote Soerabaja\"" .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#description> "Partituur van lied getiteld \"Ik kom uit dat grote Soerabaja\". Muziek van Siegwart Ehrlich en Lotte Hané. \"Succeslied van den heer Joh. Boskamp in Rido's Revue: Bezuinigen asjeblieft!!\" (edition Karl Bühl, Berlin., s.a.)\r\nCopyright 1921 by Berliner Boheme " .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#creator> "Siegwart Ehrlich" .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/65b83cb0c27a0fa3df532a43bfb5afdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/65b83cb0c27a0fa3df532a43bfb5afdd> <https://colonialcollections.nl/schema#identifier> "nf%20925-4-3" .
 <https://n2t.net/ark:/27023/65b83cb0c27a0fa3df532a43bfb5afdd> <https://colonialcollections.nl/schema#name> "kantoor met voorgalerij" .
@@ -42,6 +57,13 @@
 <https://n2t.net/ark:/27023/65bf11db4ac21ecb38c50695ae88e72f> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/65bf11db4ac21ecb38c50695ae88e72f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65bf11db4ac21ecb38c50695ae88e72f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/7" .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#name> "Platte pet geklede tenue hoofdofficier tropen model 1950" .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#description> "Platte pet witte staande rand en vallende zwart leren klep met een wit katoenen overtrek. Om de staande rand een zwarte état-major band. Op de band aan de onderzijde een smalle gouden bies (soutache) en aan de voorzijde een petembleem van goudborduursel.\r" .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#creator> "Stemmerik & Co, Den Haag-Soerabaja" .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/65df3c63d4a3037ff2cdb3851fe2f96b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/65df3c63d4a3037ff2cdb3851fe2f96b> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-85" .
 <https://n2t.net/ark:/27023/65df3c63d4a3037ff2cdb3851fe2f96b> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -49,6 +71,12 @@
 <https://n2t.net/ark:/27023/65df3c63d4a3037ff2cdb3851fe2f96b> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/65df3c63d4a3037ff2cdb3851fe2f96b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65df3c63d4a3037ff2cdb3851fe2f96b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#identifier> "nf%20323-14-1" .
+<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#description> "bijschrift; 'De Inerie van Manggarai van uit de baai van Aimere. Uitzicht naar het Noorden.'" .
+<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/65afbbaf4c9803bdbcf547026d7e9ed4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/65afbbaf4c9803bdbcf547026d7e9ed4> <https://colonialcollections.nl/schema#identifier> "nf%20703-43" .
 <https://n2t.net/ark:/27023/65afbbaf4c9803bdbcf547026d7e9ed4> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met zwart tape afgeplakt\r\n\r\nOp de rand staat een geschreven tekst \"Roemah Pandjang. Huis te Singkarak tegenover controleurs woning. Rijstschuur (?Loembangs?)\" en de getallen 12 en 43.\r\nOp 2de sticker staat \" Maleische woni" .
@@ -91,6 +119,12 @@
 <https://n2t.net/ark:/27023/65d7cf526e0ddd4265d0f8c41592d133> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/65d7cf526e0ddd4265d0f8c41592d133> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65d7cf526e0ddd4265d0f8c41592d133> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#identifier> "EDO%20481-24" .
+<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een prachtige poort. Een steile trap van ongeveer 10 treden leidt naar de ingang, maar er zijn ook twee rechthoekige openingen links en rechts van die trap. De poort is voorzien van schitte" .
+<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/65e06c5bdc8fd8ed7454fbfb029cdf55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/65e06c5bdc8fd8ed7454fbfb029cdf55> <https://colonialcollections.nl/schema#identifier> "nf%201629-1" .
 <https://n2t.net/ark:/27023/65e06c5bdc8fd8ed7454fbfb029cdf55> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, twee foto's naast elkaar geplakt op grijs karton, hoeken afgerond, los aangetroffen met anderen.\r\n\r\nOp achterkant tekst in inkt en potlood: 'Op 't achtererf genomen bij de fam. ?Lando? K.R.'\r\nN.B.: K.R. staat zeer waarschijnlijk voo" .
@@ -494,24 +528,6 @@
 <https://n2t.net/ark:/27023/65e1ed56e7b943c0dfa6f14c7f1cd1dd> <https://colonialcollections.nl/schema#description> "Document. Briefje aan mevr. J.K.J. S. Apell afkomstig van de gemeente-secretarie van Haarlemmermeer betr. A.C. Huizinga en H. Huizinga" .
 <https://n2t.net/ark:/27023/65e1ed56e7b943c0dfa6f14c7f1cd1dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65e1ed56e7b943c0dfa6f14c7f1cd1dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#identifier> "2000/11/06-1-1/10" .
-<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#description> "Foto, carte de visite. Albumine.\r\n In een album voor carte de visite (12 x 15,5cm, 15 bladen; 32 carte de visite + 2 losse foto's). Album achterin gedateerd: \"Dec.'60\". Pagina 10.\r\nAfgebeeld:Vol portret van een Generaal? met MWO en Eresabel. epauletten me" .
-<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/659c467edf5544b0d7df52ddebfcc3d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#identifier> "2002/08/02-1-2" .
-<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#name> "Partituur \"Ik kom uit dat groote Soerabaja\"" .
-<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#description> "Partituur van lied getiteld \"Ik kom uit dat grote Soerabaja\". Muziek van Siegwart Ehrlich en Lotte Hané. \"Succeslied van den heer Joh. Boskamp in Rido's Revue: Bezuinigen asjeblieft!!\" (edition Karl Bühl, Berlin., s.a.)\r\nCopyright 1921 by Berliner Boheme " .
-<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/65ad3b9f959f6dfc96d9f6b4575dae1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/7" .
-<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#name> "Platte pet geklede tenue hoofdofficier tropen model 1950" .
-<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#description> "Platte pet witte staande rand en vallende zwart leren klep met een wit katoenen overtrek. Om de staande rand een zwarte état-major band. Op de band aan de onderzijde een smalle gouden bies (soutache) en aan de voorzijde een petembleem van goudborduursel.\r" .
-<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/65cbdab4a3e2e02645038097a1dd2d97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/659bb6b23e0dedacfc0202e23601ca37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/659bb6b23e0dedacfc0202e23601ca37> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-56" .
 <https://n2t.net/ark:/27023/659bb6b23e0dedacfc0202e23601ca37> <https://colonialcollections.nl/schema#description> "Foto op karton." .
@@ -567,16 +583,6 @@
 <https://n2t.net/ark:/27023/65e1667630d3867430442f58469a9d4f> <https://colonialcollections.nl/schema#description> "Foto." .
 <https://n2t.net/ark:/27023/65e1667630d3867430442f58469a9d4f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/65e1667630d3867430442f58469a9d4f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#identifier> "nf%20323-14-1" .
-<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#description> "bijschrift; 'De Inerie van Manggarai van uit de baai van Aimere. Uitzicht naar het Noorden.'" .
-<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/65a993c64d84e7a93303ee5f2da9581f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#identifier> "EDO%20481-24" .
-<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een prachtige poort. Een steile trap van ongeveer 10 treden leidt naar de ingang, maar er zijn ook twee rechthoekige openingen links en rechts van die trap. De poort is voorzien van schitte" .
-<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/65dac0c9eee86d7cf6a6a79e5be61478> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/65c463e24d1f94d061300fdd0ab811ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/65c463e24d1f94d061300fdd0ab811ce> <https://colonialcollections.nl/schema#identifier> "E849" .
 <https://n2t.net/ark:/27023/65c463e24d1f94d061300fdd0ab811ce> <https://colonialcollections.nl/schema#name> "Miltaire Maria-Theresia Orde, Oostenrijk (Keizerrijk) Militärischer Maria Theresien-Orden, grootkruis, borstster" .

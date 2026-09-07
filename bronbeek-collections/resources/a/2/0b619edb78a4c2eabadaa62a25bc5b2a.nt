@@ -13,6 +13,13 @@
 <https://n2t.net/ark:/27023/655747ca5b0f239a43fc134da2e795d9> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/655747ca5b0f239a43fc134da2e795d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/655747ca5b0f239a43fc134da2e795d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#identifier> "2017/01/05-1-3/3" .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#name> "Foto's diensttijd E. Schuiteman" .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#description> "Foto's en prentbriefkaarten: 7 foto's en 4 prentbriefkaarten:\r\nPrentbriefkaart in kleurendruk. 84 Midtown New York City \"The Great White Way\". As seen from the Empire State Building Observatory at Night, New York City. SA-H654, \"Curteich-Chicago, C.T. Art" .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#creator> "Curt Teich and Company" .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6561b780ede1438d614fa328623d0279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6561b780ede1438d614fa328623d0279> <https://colonialcollections.nl/schema#identifier> "nf%20487-4" .
 <https://n2t.net/ark:/27023/6561b780ede1438d614fa328623d0279> <https://colonialcollections.nl/schema#name> "toegang tot tempelcomplex" .
@@ -34,6 +41,13 @@
 <https://n2t.net/ark:/27023/656574386878f22e6412182247f81b30> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/656574386878f22e6412182247f81b30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/656574386878f22e6412182247f81b30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/28" .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#name> "Groet uit Java - \"Smeroe\" gebergte" .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Java - \"Smeroe\" gebergte." .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/657431222def40ef6d731047e38406a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/657431222def40ef6d731047e38406a8> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/225" .
 <https://n2t.net/ark:/27023/657431222def40ef6d731047e38406a8> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -41,6 +55,20 @@
 <https://n2t.net/ark:/27023/657431222def40ef6d731047e38406a8> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/657431222def40ef6d731047e38406a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/657431222def40ef6d731047e38406a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#identifier> "2005/00-607/23" .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#name> "Foto van meer met aangrenzende woningen" .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Meer met aangrenzende woningnen.\r\n\r\nrecto: in witte inkt \"Soengei Tanj:Baringin Bedagai\"\r\nverso: inpotlood \"photo genomen Augustus 1930\"" .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-152" .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#name> "Foto herdenking Verzetsmonument Rotterdam" .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Kranslegging bij het Verzetsmonument Rotterdam door twee vrouwen. Op de achtergrond twee mannen met een krans en enig publiek, waaronder een trompetter van de Gemeentepolitie.\r\n\r\nVerso\r\nstempel\r\n\r\ncopyright\r\nOary Groeneveld\r\nfotografie voo" .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#creator> "Oary Groeneveld" .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6580af83ab376c7ce9b8453118824fc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6580af83ab376c7ce9b8453118824fc5> <https://colonialcollections.nl/schema#identifier> "nf%20694-18" .
 <https://n2t.net/ark:/27023/6580af83ab376c7ce9b8453118824fc5> <https://colonialcollections.nl/schema#name> "Bruidsmeisjes (Pajakombo)" .
@@ -536,30 +564,6 @@
 <https://n2t.net/ark:/27023/658fd0b6ce2d090232d736b431bda6e0> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië, periode 1945-1950." .
 <https://n2t.net/ark:/27023/658fd0b6ce2d090232d736b431bda6e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/658fd0b6ce2d090232d736b431bda6e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#identifier> "2017/01/05-1-3/3" .
-<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#name> "Foto's diensttijd E. Schuiteman" .
-<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#description> "Foto's en prentbriefkaarten: 7 foto's en 4 prentbriefkaarten:\r\nPrentbriefkaart in kleurendruk. 84 Midtown New York City \"The Great White Way\". As seen from the Empire State Building Observatory at Night, New York City. SA-H654, \"Curteich-Chicago, C.T. Art" .
-<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6557bdce8df1d55a840fd779b53ae718> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#identifier> "2004/03/14-2-2/28" .
-<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#name> "Groet uit Java - \"Smeroe\" gebergte" .
-<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Groet uit Java - \"Smeroe\" gebergte." .
-<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6570797a0386739a6df89a44236d5d9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#identifier> "2005/00-607/23" .
-<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#name> "Foto van meer met aangrenzende woningen" .
-<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Meer met aangrenzende woningnen.\r\n\r\nrecto: in witte inkt \"Soengei Tanj:Baringin Bedagai\"\r\nverso: inpotlood \"photo genomen Augustus 1930\"" .
-<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6577f05b7b846f3f303d703c63347268> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-152" .
-<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#name> "Foto herdenking Verzetsmonument Rotterdam" .
-<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Kranslegging bij het Verzetsmonument Rotterdam door twee vrouwen. Op de achtergrond twee mannen met een krans en enig publiek, waaronder een trompetter van de Gemeentepolitie.\r\n\r\nVerso\r\nstempel\r\n\r\ncopyright\r\nOary Groeneveld\r\nfotografie voo" .
-<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/65801dba837e757ddecc331bff3af9b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/65609ac2480818e06d1d6ea3a349449a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/65609ac2480818e06d1d6ea3a349449a> <https://colonialcollections.nl/schema#identifier> "nf%20899-32" .
 <https://n2t.net/ark:/27023/65609ac2480818e06d1d6ea3a349449a> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nBuitenopname van een groepje blanke kinderen, de jongens vooraan zittend op de grond. De meisjes daarachter staand. Bij hen ook twee Indonesische vrouwen, waarvan één een blank meisje draagt." .

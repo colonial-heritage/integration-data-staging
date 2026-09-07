@@ -5,6 +5,13 @@
 <https://n2t.net/ark:/27023/217ee5d8b258b17423816a08174b4379> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/217ee5d8b258b17423816a08174b4379> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/217ee5d8b258b17423816a08174b4379> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#identifier> "2017/07/28-6" .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#name> "Attila eerste-luitenant Genie KNIL" .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#description> "Attila eerste-luitenant Genie KNIL model 1909. [zonder boord en manchetten]" .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#creator> "H.F.L. Uhde, Breda" .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/21a584fe0b475e29d6e6a90e053d6226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21a584fe0b475e29d6e6a90e053d6226> <https://colonialcollections.nl/schema#identifier> "nf%20842-115" .
 <https://n2t.net/ark:/27023/21a584fe0b475e29d6e6a90e053d6226> <https://colonialcollections.nl/schema#name> "De Kebun Raya (vroeger 's-Lands Plantentuin), Bogor" .
@@ -44,6 +51,12 @@
 <https://n2t.net/ark:/27023/21871f11b2427ae1270df6d38997acc6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/21871f11b2427ae1270df6d38997acc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/21871f11b2427ae1270df6d38997acc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#identifier> "S%204483" .
+<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#description> "Steendruk met een afbeelding van een rivier met brug en huizen, in zwarte (beschadigde) lijst. Op de achterkant is een (blauwe beschadigde) sticker geplakt met daarop de tekst 'Japansche kunst [....] M. OHRI tel no. 93 Solo'" .
+<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#creator> "J. Bolland" .
+<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/21bbaa3f0a2ca6afeff9a197405d9b42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21bbaa3f0a2ca6afeff9a197405d9b42> <https://colonialcollections.nl/schema#identifier> "nf%201427-3" .
 <https://n2t.net/ark:/27023/21bbaa3f0a2ca6afeff9a197405d9b42> <https://colonialcollections.nl/schema#description> "glasnegatief, zwart/wit, rechthoekig, los opgeborgen in zuurvrije envelop.\r\n\r\nOpname toont een blanke man, zittend in een stoel, ergens buiten in de tuin. Hij draagt een donkere broek (mogelijk pyamabroek) en een wit jasje met hoog gesloten boord.\r\nHij ho" .
@@ -520,12 +533,6 @@
 <https://n2t.net/ark:/27023/21c4d8066569ddadf35f825ba9262e65> <https://colonialcollections.nl/schema#description> "Registratie formulier. Ten name van Etje, Soendanees Fuselier, stamboeknummer 162/A.\r\nPas uitgegeven in Australia, genummerd: 723. KNIL." .
 <https://n2t.net/ark:/27023/21c4d8066569ddadf35f825ba9262e65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/21c4d8066569ddadf35f825ba9262e65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#identifier> "2017/07/28-6" .
-<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#name> "Attila eerste-luitenant Genie KNIL" .
-<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#description> "Attila eerste-luitenant Genie KNIL model 1909. [zonder boord en manchetten]" .
-<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/21a0f6326afd5a8f21921387cd05a57b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/21819b63fe768baa5f76f9ff1debb6d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21819b63fe768baa5f76f9ff1debb6d5> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41841" .
 <https://n2t.net/ark:/27023/21819b63fe768baa5f76f9ff1debb6d5> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoed\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tbladwerk\r\n\r\nEmailadres: toelichting:\tHoed van bladwerk.\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2374\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige " .
@@ -566,11 +573,6 @@
 <https://n2t.net/ark:/27023/21bee06808c46ec18fc21a3928dc7789> <https://colonialcollections.nl/schema#description> "Prentbriefkaart" .
 <https://n2t.net/ark:/27023/21bee06808c46ec18fc21a3928dc7789> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/21bee06808c46ec18fc21a3928dc7789> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#identifier> "S%204483" .
-<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#description> "Steendruk met een afbeelding van een rivier met brug en huizen, in zwarte (beschadigde) lijst. Op de achterkant is een (blauwe beschadigde) sticker geplakt met daarop de tekst 'Japansche kunst [....] M. OHRI tel no. 93 Solo'" .
-<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/219e24ba945be9777f440bd638914e32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/218b9c5d2559402d455fd2c34d339784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/218b9c5d2559402d455fd2c34d339784> <https://colonialcollections.nl/schema#identifier> "E128" .
 <https://n2t.net/ark:/27023/218b9c5d2559402d455fd2c34d339784> <https://colonialcollections.nl/schema#name> "Orde van de Heilige Olav, Noorwegen, grootkruis, keten" .

@@ -12,6 +12,27 @@
 <https://n2t.net/ark:/27023/8c51eda4cb99125cc47c88c72530f954> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/8c51eda4cb99125cc47c88c72530f954> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c51eda4cb99125cc47c88c72530f954> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#identifier> "S%206245-3" .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#name> "Bårå Boedoer" .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los in map.\r\n\r\nOp de voorkant staat ergens in zwarte letters ' Bårå Boedoer '\r\n\r\nDe achterkant toont een ansichtkaart met horizontale belijning, nog zonder vertikale middenlijn. Hetgeen inhoudt dat de kaart van vóór 1" .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#creator> "J. Olbertz" .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#identifier> "nf%20860-9" .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#name> "Een kijkje op den groenten-Pasar, Bandoeng" .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van de groentenpasar te Bandung.\r\n\r\nMiddenonder vermeld; 'Een kijkje op den groenten-Pasar, Bandoeng'. \r\nGedeelde achterkant met overdwars vermeld; 'Uitgave: " .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-743/2" .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#name> "Enkele inwoners Bronbeek op de oprijlaan van Bronbeek" .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit op passepartout. Enkele inwoners Bronbeek op de oprijlaan van Bronbeek.\r\nOp achterzijde in rode viltstift: \"2\"" .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#creator> "Jac. de Vries Gzn." .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c7d4a16a271525ce47f0cae71191eb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c7d4a16a271525ce47f0cae71191eb3> <https://colonialcollections.nl/schema#identifier> "nf%201185" .
 <https://n2t.net/ark:/27023/8c7d4a16a271525ce47f0cae71191eb3> <https://colonialcollections.nl/schema#name> "Makassaarse prauwen te Palembang" .
@@ -46,6 +67,12 @@
 <https://n2t.net/ark:/27023/8c7a661472c243b25fcc2ec6edc8c261> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8c7a661472c243b25fcc2ec6edc8c261> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c7a661472c243b25fcc2ec6edc8c261> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#identifier> "EDO%20481-103" .
+<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een jong Balinees danseresje, zittend op de grond. Zij voert haar dans alleen op, op een grote open ruimte.\r\n\r\n De foto is van te veraf genomen om duidelijk te zijn." .
+<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c8b299da7b2e46885627a5e7ec04ef9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c8b299da7b2e46885627a5e7ec04ef9> <https://colonialcollections.nl/schema#identifier> "nf%201730-40" .
 <https://n2t.net/ark:/27023/8c8b299da7b2e46885627a5e7ec04ef9> <https://colonialcollections.nl/schema#description> "Foto, stereofoto, zwart/wit, twee foto's naast elkaar geplakt op groen karton, los aangetroffen. \r\n\r\nOp achterkant in potlood: 'Borneo'\r\n\r\nOpnames tonen een rivier. Op de rivier een boot, prauw, met overkapping. Daarachter, op de oevers, dicht op elkaar, " .
@@ -516,24 +543,6 @@
 <https://n2t.net/ark:/27023/8c8bc53b7f7ade08fd1767c1327adb04> <https://colonialcollections.nl/schema#description> "Foto. Naoorlogs. Dinerend gezelschap. Rechts op de voorgrond is een man in wit pak op de rug te zien. Links van hem zit een vrouw met blond, opgestoken haar. Daarnaast een man met bril met donker montuur. In totaal zitten er 14 mensen aan de tafel. De sto" .
 <https://n2t.net/ark:/27023/8c8bc53b7f7ade08fd1767c1327adb04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c8bc53b7f7ade08fd1767c1327adb04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#identifier> "S%206245-3" .
-<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#name> "Bårå Boedoer" .
-<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, los in map.\r\n\r\nOp de voorkant staat ergens in zwarte letters ' Bårå Boedoer '\r\n\r\nDe achterkant toont een ansichtkaart met horizontale belijning, nog zonder vertikale middenlijn. Hetgeen inhoudt dat de kaart van vóór 1" .
-<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c662ba2c1930028374797bee48e6ec0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#identifier> "nf%20860-9" .
-<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#name> "Een kijkje op den groenten-Pasar, Bandoeng" .
-<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van de groentenpasar te Bandung.\r\n\r\nMiddenonder vermeld; 'Een kijkje op den groenten-Pasar, Bandoeng'. \r\nGedeelde achterkant met overdwars vermeld; 'Uitgave: " .
-<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c6860b49f6cbd412390817093828327> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#identifier> "2006/00-42-743/2" .
-<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#name> "Enkele inwoners Bronbeek op de oprijlaan van Bronbeek" .
-<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit op passepartout. Enkele inwoners Bronbeek op de oprijlaan van Bronbeek.\r\nOp achterzijde in rode viltstift: \"2\"" .
-<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c701c29420506e4336ca0b6a440c2fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c47254ccf5d1a7e542286d274083bcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c47254ccf5d1a7e542286d274083bcc> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41911" .
 <https://n2t.net/ark:/27023/8c47254ccf5d1a7e542286d274083bcc> <https://colonialcollections.nl/schema#description> "Afdeling:\tMidden en Zuid Amerika\r\nObjectnaam:\tkruik\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\taardewerk\r\n\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2444\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2444] Depot, 1, M b [1 M b]" .
@@ -559,11 +568,6 @@
 <https://n2t.net/ark:/27023/8c77a71a0e905e80d6e0bbd447e82bc8> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/8c77a71a0e905e80d6e0bbd447e82bc8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c77a71a0e905e80d6e0bbd447e82bc8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#identifier> "EDO%20481-103" .
-<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een jong Balinees danseresje, zittend op de grond. Zij voert haar dans alleen op, op een grote open ruimte.\r\n\r\n De foto is van te veraf genomen om duidelijk te zijn." .
-<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c7d7ffabd1693bc9f8821720f7093b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c45560794b251ceabc85a51f41db263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c45560794b251ceabc85a51f41db263> <https://colonialcollections.nl/schema#identifier> "1863/01-1-2" .
 <https://n2t.net/ark:/27023/8c45560794b251ceabc85a51f41db263> <https://colonialcollections.nl/schema#name> "Altaargordijn" .

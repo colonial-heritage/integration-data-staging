@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/58" .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#name> "Plaat 58. Versterking van Tampéng a.d. buitenzijde." .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 58. Versterking van Tampéng a.d. buitenzijde." .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#inscription> "Plaat 58. Versterking van Tampéng a.d. buitenzijde." .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#identifier> "2002/00-33/40" .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#name> "133. Menangkabausche School in Midden -Soematra." .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n133. Menangkabausche School in Midden -Soematra." .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#inscription> "133. Menangkabausche School in Midden -Soematra." .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/38fa85f87f7264fede946b5b2bcfd26c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38fa85f87f7264fede946b5b2bcfd26c> <https://colonialcollections.nl/schema#identifier> "1999/03/01-2-51" .
 <https://n2t.net/ark:/27023/38fa85f87f7264fede946b5b2bcfd26c> <https://colonialcollections.nl/schema#name> "Penning in doos \"Jhr Mr Bonifacius Cornelius de Jonge, Aetatis LX II\"" .
@@ -6,14 +22,24 @@
 <https://n2t.net/ark:/27023/38fa85f87f7264fede946b5b2bcfd26c> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/38fa85f87f7264fede946b5b2bcfd26c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/38fa85f87f7264fede946b5b2bcfd26c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#identifier> "2006/00-52-9" .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#name> "Bij de waterput. Orang timbah. ajèr" .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Bij de waterput. Orang timbah. ajèr. Met Nederlandse vlag." .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#inscription> "Bij de waterput. Orang timbah. ajèr" .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#creator> "G. Degert" .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#creator> "F.J.Rauch" .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#identifier> "2002/11/13-1-19" .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#name> "Tjibodas Aiudouglaja (Tjiandoer)" .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Tjibodas Aiudouglaja (Tjiandoer)" .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#inscription> "Tjibodas Aiudouglaja (Tjiandoer)" .
-<https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
+<https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#creator> "Mevrouw Th. Weissenborn" .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3921f8fbdfedfc0b91aa0443703c7eb3> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/38e77c2ce02a605ddb4cb516e3323b54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38e77c2ce02a605ddb4cb516e3323b54> <https://colonialcollections.nl/schema#identifier> "2016/03/29-1-67" .
 <https://n2t.net/ark:/27023/38e77c2ce02a605ddb4cb516e3323b54> <https://colonialcollections.nl/schema#name> "Nederlandsch-Indische prenten: Gambar-Gambar. No.12" .
@@ -21,6 +47,13 @@
 <https://n2t.net/ark:/27023/38e77c2ce02a605ddb4cb516e3323b54> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/38e77c2ce02a605ddb4cb516e3323b54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/38e77c2ce02a605ddb4cb516e3323b54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/1" .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#name> "Bewoners en/of personeel van Bronbeek" .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#description> "Groepsportret van bewoners en de delegatie voor de herbegrafenis Van Heutsz voor het ziekenpaviljoen op Bronbeek. \r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/39003e176b63e84542057ce0f8699275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/39003e176b63e84542057ce0f8699275> <https://colonialcollections.nl/schema#identifier> "nf%201413-118" .
 <https://n2t.net/ark:/27023/39003e176b63e84542057ce0f8699275> <https://colonialcollections.nl/schema#name> "'Zonsondergang te Kenten'" .
@@ -42,6 +75,26 @@
 <https://n2t.net/ark:/27023/391e25cc8d6659546e5e920dfefd81c5> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/391e25cc8d6659546e5e920dfefd81c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/391e25cc8d6659546e5e920dfefd81c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-23/1" .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#name> "\"Beside the Kelaniya River, Colombo, Ceylon.\"" .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Beside the Kelaniya River, Colombo, Ceylon.\"\"No.18. Copyright by Platé Ltd., Colombo.\"" .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#creator> "Platé Ltd" .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/125" .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#name> "Street in South Bali" .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Street in South Bali" .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#identifier> "nf%20323-29-1" .
+<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het Blauwe meer van Kalimoetoe'" .
+<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/391c126a367259ee2cd51db8227827d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/391c126a367259ee2cd51db8227827d0> <https://colonialcollections.nl/schema#identifier> "nf%20833-17" .
 <https://n2t.net/ark:/27023/391c126a367259ee2cd51db8227827d0> <https://colonialcollections.nl/schema#description> "Kleurenopname van een rij mannen die per twee, een varken dragen, gebonden aan een stok\r\n\r\nOp framerand een nummer 11.\r\n\r\nVolgens lijst de volgende informatie:\r\n\"Aandragen van varkens. Dodenfeest Tandung, Kesu. 1969\"" .
@@ -55,27 +108,6 @@
 <https://n2t.net/ark:/27023/38e697b39e03981c9d3154a33781ee54> <https://colonialcollections.nl/schema#inscription> "voor trouwen dienst" .
 <https://n2t.net/ark:/27023/38e697b39e03981c9d3154a33781ee54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/38e697b39e03981c9d3154a33781ee54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/58" .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#name> "Plaat 58. Versterking van Tampéng a.d. buitenzijde." .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 58. Versterking van Tampéng a.d. buitenzijde." .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#inscription> "Plaat 58. Versterking van Tampéng a.d. buitenzijde." .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/38e9dccf9bbf2915910c1a2888477f7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#identifier> "2002/00-33/40" .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#name> "133. Menangkabausche School in Midden -Soematra." .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n133. Menangkabausche School in Midden -Soematra." .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#inscription> "133. Menangkabausche School in Midden -Soematra." .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/38efd46f331b47109a73758c4780b8cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#identifier> "2006/00-52-9" .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#name> "Bij de waterput. Orang timbah. ajèr" .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Bij de waterput. Orang timbah. ajèr. Met Nederlandse vlag." .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#inscription> "Bij de waterput. Orang timbah. ajèr" .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/391c60f7d8887bf863e37527b5fb6793> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/38da1f217a7d06f84f53dc4d5c9ad8b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38da1f217a7d06f84f53dc4d5c9ad8b1> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-880" .
 <https://n2t.net/ark:/27023/38da1f217a7d06f84f53dc4d5c9ad8b1> <https://colonialcollections.nl/schema#name> "Documenten betreffende diensttijd kapitein S.J.H. Schoonen TRIS" .
@@ -532,24 +564,6 @@
 <https://n2t.net/ark:/27023/3922e28f5faa71e311c71e5aa0b329f7> <https://colonialcollections.nl/schema#description> "Foto diensttijd in Nederlands-Indië 1945-1948 bij 3e Bataljon 9e regiment Infanterie (3-9 RI)" .
 <https://n2t.net/ark:/27023/3922e28f5faa71e311c71e5aa0b329f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3922e28f5faa71e311c71e5aa0b329f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/1" .
-<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#name> "Bewoners en/of personeel van Bronbeek" .
-<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#description> "Groepsportret van bewoners en de delegatie voor de herbegrafenis Van Heutsz voor het ziekenpaviljoen op Bronbeek. \r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/38fd5069f7632911e7729625d6734ce0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-23/1" .
-<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#name> "\"Beside the Kelaniya River, Colombo, Ceylon.\"" .
-<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Beside the Kelaniya River, Colombo, Ceylon.\"\"No.18. Copyright by Platé Ltd., Colombo.\"" .
-<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/39208fc4093892db1271d2154c0d21a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/125" .
-<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#name> "Street in South Bali" .
-<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Street in South Bali" .
-<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/39244455e382e0322760c22f78fc6e7b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/38e489605cec7abde49b8579d998ee1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/38e489605cec7abde49b8579d998ee1f> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42120" .
 <https://n2t.net/ark:/27023/38e489605cec7abde49b8579d998ee1f> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tmand\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tplantenvezels, gevlochten\r\nEmailadres: toelichting:\tPlat tasje met 2 gevlochten draagriempjes. Het tasje is gemaakt van gevlochten bruine en naturelkleurige vezels. " .
@@ -595,8 +609,3 @@
 <https://n2t.net/ark:/27023/3923f17b7ee84a38f29079e4b7d9afee> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een oude auto van de eerste helft van de 20ste eeuw. Op de treeplank en tegen de auto aan staan/zitten vier volwassen blanke personen, drie mannen en een vrouw.\r\n\r\nDe man z" .
 <https://n2t.net/ark:/27023/3923f17b7ee84a38f29079e4b7d9afee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3923f17b7ee84a38f29079e4b7d9afee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#identifier> "nf%20323-29-1" .
-<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het Blauwe meer van Kalimoetoe'" .
-<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/38fd6d360fe460af1067d5710af53229> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

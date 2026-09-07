@@ -6,13 +6,21 @@
 <https://n2t.net/ark:/27023/0dc1fdde6bc3adb55be67239c28e404a> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/0dc1fdde6bc3adb55be67239c28e404a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0dc1fdde6bc3adb55be67239c28e404a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/6" .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#creator> "Photographie Française" .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#identifier> "nf%201473-27" .
 <https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#name> "De kloof van Pantar, Sumatra" .
 <https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#description> "Lichtdruk/foto, zwart/wit, afbeelding met vergeelde rand, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder afbeelding de volgende tekst:\r\ngedrukt: 77. DE KLOOF VAN PANTAR. SUMATRA.\r\ngeschreven: tussen Fort de Kock en het meer van Manindjoe. Bekend van " .
-<https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0dda23acbd84238401dce2a32cf9da4e> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <https://colonialcollections.nl/schema#identifier> "2010/12/01-1-4/1" .
 <https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
@@ -20,6 +28,21 @@
 <https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0de97694c9953d251a019842f29cc2d4> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-158/3" .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#name> "Een roeiboot met twee mensen op een meer bij bungalowonderneming Sitoegoenoeng op Java" .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart met op recto tekst en een bijna vierkante foto van een roeiboot met twee mensen op een meer bij bungalowonderneming Sitoegoenoeng op Java. Veel begroeiing.\r\nTekst recto: Bungalow onderneming ´Sitoegoenoeng´Java. Het meer - The Lake.\r\nTeks" .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#creator> "Fotohuis Braga" .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-6" .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#name> "Foto aanleg werkelozendorp te Bandoeng voor Nederlandse werkelozen" .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#description> "Foto, zw./w.  Aanleg, respectievelijk opening door Gouverneur Generaal van een werklozendorp te Bandoeng (voor Nederlandse werklozen)" .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#creator> "Platé Ltd" .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0e022cc705afde33dbc84fa8fd7f411c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e022cc705afde33dbc84fa8fd7f411c> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/343" .
 <https://n2t.net/ark:/27023/0e022cc705afde33dbc84fa8fd7f411c> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -501,24 +524,6 @@
 <https://n2t.net/ark:/27023/0e0e5f0023adb788ae1ed8f83186ceca> <https://colonialcollections.nl/schema#description> "Foto, totaal 497 stuks, van diensttijd korporaal L. Krijnen 1946-1949." .
 <https://n2t.net/ark:/27023/0e0e5f0023adb788ae1ed8f83186ceca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0e0e5f0023adb788ae1ed8f83186ceca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-2/6" .
-<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#name> "Carte de cabinet" .
-<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#description> "Carte de cabinet. 9 stuks.\r\nA. Greiner Amsterdam\r\nR. Schütz, Java\r\nPhotographie Francaise, Amsterdam (Warmoesstraat 147)\r\nF.C. Reesinck, Zutphen\r\nCharls & Co Photographen, Semarang Bodjong\r\nFr. Jul. von Kolkon, Hof-photograaf, Groningen (juli 1886)\r\nSaffi" .
-<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0dc47db4a5d92a88e69f354fc2e8f66e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-158/3" .
-<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#name> "Een roeiboot met twee mensen op een meer bij bungalowonderneming Sitoegoenoeng op Java" .
-<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart met op recto tekst en een bijna vierkante foto van een roeiboot met twee mensen op een meer bij bungalowonderneming Sitoegoenoeng op Java. Veel begroeiing.\r\nTekst recto: Bungalow onderneming ´Sitoegoenoeng´Java. Het meer - The Lake.\r\nTeks" .
-<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0df36c5d95eaab4c2f89ef469172ff63> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#identifier> "1991/07/08-1-6" .
-<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#name> "Foto aanleg werkelozendorp te Bandoeng voor Nederlandse werkelozen" .
-<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#description> "Foto, zw./w.  Aanleg, respectievelijk opening door Gouverneur Generaal van een werklozendorp te Bandoeng (voor Nederlandse werklozen)" .
-<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0df4e4acc4fd7b771cd35b8c79ed00e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0dc3792eec42e2ae7d079b92786499e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0dc3792eec42e2ae7d079b92786499e8> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43578" .
 <https://n2t.net/ark:/27023/0dc3792eec42e2ae7d079b92786499e8> <https://colonialcollections.nl/schema#description> "Klotsinstrument, Centraal Borneo" .

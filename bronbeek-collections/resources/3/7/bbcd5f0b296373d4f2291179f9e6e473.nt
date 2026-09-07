@@ -40,6 +40,26 @@
 <https://n2t.net/ark:/27023/b450321eaf1ecbe0a4a0b03d3669be02> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b450321eaf1ecbe0a4a0b03d3669be02> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b450321eaf1ecbe0a4a0b03d3669be02> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#identifier> "2006/00-42-719" .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#name> "Drie jonge Papoea's, Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Drie jonge Papoea's, waarschijnlijk uit het gebied van de Wisselmeren, Nieuw-Guinea." .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#creator> "Jaap Zindler" .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/53" .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#name> "\"Medan. Protestantsche Kerk\"" .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Medan. Protestantsche Kerk\"" .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#creator> "W.T. Uhlenhuth" .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#identifier> "nf%201768" .
+<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, opgeplakt op vergeeld karton, los aangetroffen\r\n\r\nOp achterkant veel data. Allereerst meegedrukt data, in een fraai etiket, van de fotograaf.\r\nHij doet in: 'Photografieën in alle formaten. Kooldruk, Vergrootingen enz.\r\nOok in potlood en i" .
+<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#creator> "Atelier A.J. Jahn te Malang" .
+<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b438a1a8e4d6e06d7c0931a2351be5cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b438a1a8e4d6e06d7c0931a2351be5cb> <https://colonialcollections.nl/schema#identifier> "nf%20842-653" .
 <https://n2t.net/ark:/27023/b438a1a8e4d6e06d7c0931a2351be5cb> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BH 01 t/m 36. Deze slede is opgeborgen in grijze doos met lichtgrijs deksel, gemerkt met BH, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BH 33, in potlood EO 17.\r\n\r\nOpnam" .
@@ -535,18 +555,6 @@
 <https://n2t.net/ark:/27023/b46d16f12c34b4f6f69451c201f33b1e> <https://colonialcollections.nl/schema#description> "Plank met snijwerk uit Nederlands Nieuw-Guinea, zwart , midden een mensfiguur. Resten van rode oker en witte kalk. Op achterzijde 'No. 17'." .
 <https://n2t.net/ark:/27023/b46d16f12c34b4f6f69451c201f33b1e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b46d16f12c34b4f6f69451c201f33b1e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#identifier> "2006/00-42-719" .
-<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#name> "Drie jonge Papoea's, Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Drie jonge Papoea's, waarschijnlijk uit het gebied van de Wisselmeren, Nieuw-Guinea." .
-<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b450ce09d6daac3eddbe025b72705887> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/53" .
-<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#name> "\"Medan. Protestantsche Kerk\"" .
-<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Medan. Protestantsche Kerk\"" .
-<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b46be4277d76e1d5be6d67a7bc8f1124> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b42a53264efbb4bcbc566785c8fba7b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b42a53264efbb4bcbc566785c8fba7b0> <https://colonialcollections.nl/schema#identifier> "S%20230-741" .
 <https://n2t.net/ark:/27023/b42a53264efbb4bcbc566785c8fba7b0> <https://colonialcollections.nl/schema#description> "Herkomst: Madoera, eiland NO-java." .
@@ -587,11 +595,6 @@
 <https://n2t.net/ark:/27023/b46f5820317b1b6e5aeb2f03e215e397> <https://colonialcollections.nl/schema#description> "Foto." .
 <https://n2t.net/ark:/27023/b46f5820317b1b6e5aeb2f03e215e397> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b46f5820317b1b6e5aeb2f03e215e397> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#identifier> "nf%201768" .
-<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, opgeplakt op vergeeld karton, los aangetroffen\r\n\r\nOp achterkant veel data. Allereerst meegedrukt data, in een fraai etiket, van de fotograaf.\r\nHij doet in: 'Photografieën in alle formaten. Kooldruk, Vergrootingen enz.\r\nOok in potlood en i" .
-<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b42f2242b40f639e0ef2b5913f80964e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b422b0500bc20593d1ff52a1d81a52ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b422b0500bc20593d1ff52a1d81a52ea> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-44239" .
 <https://n2t.net/ark:/27023/b422b0500bc20593d1ff52a1d81a52ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

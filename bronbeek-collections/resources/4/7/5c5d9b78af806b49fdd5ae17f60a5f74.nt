@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-108" .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#name> "Carte de visite: D.Wreesman" .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. D.Wreesman" .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#inscription> "D.Wreesman" .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4ba15773618f0280e42d3cf3f3c2a116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ba15773618f0280e42d3cf3f3c2a116> <https://colonialcollections.nl/schema#identifier> "2010/11/09-2" .
 <https://n2t.net/ark:/27023/4ba15773618f0280e42d3cf3f3c2a116> <https://colonialcollections.nl/schema#name> "Carte de cabinet van Ernest Douwes Dekker & R.M. Soewardi Soerjaningrat (Ki Hadjar Soewantara) in 1913" .
@@ -6,6 +14,14 @@
 <https://n2t.net/ark:/27023/4ba15773618f0280e42d3cf3f3c2a116> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/4ba15773618f0280e42d3cf3f3c2a116> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ba15773618f0280e42d3cf3f3c2a116> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-61" .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#name> "La Promenade, Suez" .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. La Promenade." .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#inscription> "La Promenade" .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#creator> "Arougheti Bros Suez" .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b878529cb516eea8fad5ee3118fb711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b878529cb516eea8fad5ee3118fb711> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-49" .
 <https://n2t.net/ark:/27023/4b878529cb516eea8fad5ee3118fb711> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -13,6 +29,34 @@
 <https://n2t.net/ark:/27023/4b878529cb516eea8fad5ee3118fb711> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/4b878529cb516eea8fad5ee3118fb711> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b878529cb516eea8fad5ee3118fb711> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#identifier> "2006/00-43/78" .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#name> "Landkaart van Oost Java (inclusief Madoera)" .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#description> "Landkaart van Oost Java (inclusief Madoera). Schaal 1: 500.000; Topographische inrichting; UItg. 1906. Kaart op linnen 18 delen.\r\nDrie inzetkaarten: Afdeeling Bawean; Eilandengroep P.Kangean,, P. Saoebi, P. Paliat, P. Saboenting en P. Sepandjang(deze eila" .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/53" .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#name> "Militair in deuropening" .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#description> "Militair in deuropening." .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/9" .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. Publiek kijkt naar Indonesische dansvoorstelling door danseres op podium.\r\n\r\n\r\nVerso: stempel:\r\n\r\ncopyright reserved by:\r\nfotopersbureau \"hendrik" .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#creator> "Fotopersbureau \"Hendriksen-Valk\"" .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#identifier> "nf%20614-2" .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#name> "Spoorbrug bij Sidhoardjo" .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#description> "Spoorbrug bij Sidhoardjo?\r\nbovenschrift: ....Solo - Sidhiardjo'" .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#creator> "H. Salzwedel, Soerabaya" .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4bcb6ddb029dbf4bcdf0f3602998b02b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4bcb6ddb029dbf4bcdf0f3602998b02b> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-590/2" .
 <https://n2t.net/ark:/27023/4bcb6ddb029dbf4bcdf0f3602998b02b> <https://colonialcollections.nl/schema#name> "Pantalon veldtenue Korps Mariniers" .
@@ -77,20 +121,6 @@
 <https://n2t.net/ark:/27023/4bc3e94c7c3902c663057b3d1587d1b3> <https://colonialcollections.nl/schema#inscription> "Voor trouwen dienst" .
 <https://n2t.net/ark:/27023/4bc3e94c7c3902c663057b3d1587d1b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4bc3e94c7c3902c663057b3d1587d1b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-108" .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#name> "Carte de visite: D.Wreesman" .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. D.Wreesman" .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#inscription> "D.Wreesman" .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4b88df511f72d982069e26baff771440> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-61" .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#name> "La Promenade, Suez" .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. La Promenade." .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#inscription> "La Promenade" .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4bb4fe1dcda2edaa97433c7e73065ea9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b81e68af82f1b86520289b2b32fc4c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b81e68af82f1b86520289b2b32fc4c3> <https://colonialcollections.nl/schema#identifier> "2016/03/12-1-4/83" .
 <https://n2t.net/ark:/27023/4b81e68af82f1b86520289b2b32fc4c3> <https://colonialcollections.nl/schema#name> "Foto's zwart/wit, diensttijd Nederlands-Indië" .
@@ -529,30 +559,6 @@
 <https://n2t.net/ark:/27023/4bcd666956351a0c0a7c197d33cdecf1> <https://colonialcollections.nl/schema#description> "Vuursteenpistool Nederlands model 1815 lichte cavalerie." .
 <https://n2t.net/ark:/27023/4bcd666956351a0c0a7c197d33cdecf1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4bcd666956351a0c0a7c197d33cdecf1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#identifier> "2006/00-43/78" .
-<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#name> "Landkaart van Oost Java (inclusief Madoera)" .
-<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#description> "Landkaart van Oost Java (inclusief Madoera). Schaal 1: 500.000; Topographische inrichting; UItg. 1906. Kaart op linnen 18 delen.\r\nDrie inzetkaarten: Afdeeling Bawean; Eilandengroep P.Kangean,, P. Saoebi, P. Paliat, P. Saboenting en P. Sepandjang(deze eila" .
-<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4b89569343b6a2c0f1725983b2dcfe85> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/53" .
-<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#name> "Militair in deuropening" .
-<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#description> "Militair in deuropening." .
-<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4ba31224d0d342924321358ecf4fd7c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/9" .
-<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië  te Den Haag. Publiek kijkt naar Indonesische dansvoorstelling door danseres op podium.\r\n\r\n\r\nVerso: stempel:\r\n\r\ncopyright reserved by:\r\nfotopersbureau \"hendrik" .
-<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4baada2307e1d0c88fdf07e5cd7ecbba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#identifier> "nf%20614-2" .
-<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#name> "Spoorbrug bij Sidhoardjo" .
-<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#description> "Spoorbrug bij Sidhoardjo?\r\nbovenschrift: ....Solo - Sidhiardjo'" .
-<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4bbd76dba02be48ba2145474193d752f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b88ba29f1ce6632d1f2d1ebc0571f5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b88ba29f1ce6632d1f2d1ebc0571f5d> <https://colonialcollections.nl/schema#identifier> "1996/05/02-1-5/72" .
 <https://n2t.net/ark:/27023/4b88ba29f1ce6632d1f2d1ebc0571f5d> <https://colonialcollections.nl/schema#description> "Foto." .

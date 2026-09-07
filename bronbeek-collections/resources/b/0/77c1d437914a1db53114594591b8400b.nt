@@ -28,6 +28,14 @@
 <https://n2t.net/ark:/27023/7a5899ac9543c6b592a592606676a6f0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7a5899ac9543c6b592a592606676a6f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a5899ac9543c6b592a592606676a6f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#identifier> "2003/11/09-7-3/2-2" .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#name> "Cavalerie KNIL, voor 1942" .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. 8 stuks opgeplakt op vel papier. Cavalerie KNIL, voor 1942. o.a. Pantserwagens: D 7024 & D 7002." .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#creator> "Lan Fong Bd." .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#creator> "King Land" .
 <https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <https://colonialcollections.nl/schema#identifier> "nf%201304-5" .
 <https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <https://colonialcollections.nl/schema#name> "Abijasa" .
@@ -35,19 +43,28 @@
 <https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7a6f072b0f565f3f37acc6223e008f5c> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#identifier> "nf%20709-4" .
 <https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#name> "Eenige gongspelers voor de Balineesche poort te Parijs" .
 <https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#description> "Ansichtkaart  met een voorstelling van enige gongspelers voor een Balinese poort, te Parijs.\r\nOpname, vermoedelijk, gemaakt op de wereldtentoonstelling te Parijs in 1931.\r\n\r\nOp de achterzijde vermeld;\r\n'Eenige gongspelers voor de Balineesche poort te Pari" .
-<https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
 <https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/7a70ee98d557356495b1a28bb9f1bc25> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
 <https://n2t.net/ark:/27023/7a36ea6c900fadca3ff87e9de61a8dfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a36ea6c900fadca3ff87e9de61a8dfe> <https://colonialcollections.nl/schema#identifier> "nf%201528" .
 <https://n2t.net/ark:/27023/7a36ea6c900fadca3ff87e9de61a8dfe> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen.\r\n\r\nOp achterkant de volgende in inkt geschreven tekst: 'debarkement vanaf het Gouvts S.S. Bellatrix van soldaten (marechaussee's) en 1 eerste luit : te Kandang - 1926\r\n\r\nOpname toont twee vaartuigen, die zo " .
 <https://n2t.net/ark:/27023/7a36ea6c900fadca3ff87e9de61a8dfe> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/7a36ea6c900fadca3ff87e9de61a8dfe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a36ea6c900fadca3ff87e9de61a8dfe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#identifier> "EDO%20481-10" .
+<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van twee vrouwen met ontbloot bovenlijf, de één hurkend de ander staand. De staand evrouw heeft een kind op haar heup. Centraal een varken dat eet uit een voerbak." .
+<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7a3b72d96410cc0a3fb78e20f89787fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a3b72d96410cc0a3fb78e20f89787fc> <https://colonialcollections.nl/schema#identifier> "1995/06/12-4-7" .
 <https://n2t.net/ark:/27023/7a3b72d96410cc0a3fb78e20f89787fc> <https://colonialcollections.nl/schema#name> "Kampnummer '21424'  van reserve 1e Luitenant KNIL G.H. Pesman" .
@@ -541,12 +558,6 @@
 <https://n2t.net/ark:/27023/7a77803fd9a9842fbfca131ab376b5ad> <https://colonialcollections.nl/schema#description> "Foto's Nederlands-Indië, vooral Militaire Politie (MP). Ontruiming van Djokjakarta, juni 1949." .
 <https://n2t.net/ark:/27023/7a77803fd9a9842fbfca131ab376b5ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a77803fd9a9842fbfca131ab376b5ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#identifier> "2003/11/09-7-3/2-2" .
-<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#name> "Cavalerie KNIL, voor 1942" .
-<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. 8 stuks opgeplakt op vel papier. Cavalerie KNIL, voor 1942. o.a. Pantserwagens: D 7024 & D 7002." .
-<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7a698b5eced5979987aedf50aa4d02a2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7a3bf22f7e7f51abe7a9f4d11ccb1061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a3bf22f7e7f51abe7a9f4d11ccb1061> <https://colonialcollections.nl/schema#identifier> "nf%20840-28-3" .
 <https://n2t.net/ark:/27023/7a3bf22f7e7f51abe7a9f4d11ccb1061> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nWaarschijnlijk geldt voor de hele fotopagina 28 het bijschrift in zilverkleurige inkt \"Even in Holland 1934\".\r\n\r\nTekst op achterkant in potl" .
@@ -582,11 +593,6 @@
 <https://n2t.net/ark:/27023/7a75974e60a149031b030fa41673a72a> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tbeker\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgegoten\r\nEmailadres: toelichting:\tRond tinnen bekertje op 3 pootjes. 2 handvatten. Rand breed uitwaaierend.  Gebruikt om wierook in te branden op altaar.\r\nAfmetingen:\tGeheel: 12,3 x" .
 <https://n2t.net/ark:/27023/7a75974e60a149031b030fa41673a72a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/7a75974e60a149031b030fa41673a72a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#identifier> "EDO%20481-10" .
-<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van twee vrouwen met ontbloot bovenlijf, de één hurkend de ander staand. De staand evrouw heeft een kind op haar heup. Centraal een varken dat eet uit een voerbak." .
-<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/7a3f49da6fb5154fd7eba424f669b829> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/7a6e1d61a6498445f5180fc564b6590c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7a6e1d61a6498445f5180fc564b6590c> <https://colonialcollections.nl/schema#identifier> "E85" .
 <https://n2t.net/ark:/27023/7a6e1d61a6498445f5180fc564b6590c> <https://colonialcollections.nl/schema#name> "Orde van het Legioen van Eer, Frankrijk (Premier Empire) Ordre de la Légion d'honneur, Grand Aigle, borstster" .

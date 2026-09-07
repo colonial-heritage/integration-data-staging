@@ -1,3 +1,21 @@
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#identifier> "2006/00-54-2" .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#name> "Hotel Centrum. Magelang" .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door P.M. Johannes, Magelang. \"Hotel Centrum. Magelang.\"" .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#inscription> "Hotel Centrum. Magelang" .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#creator> "P.M. Johannes" .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#identifier> "1998/06/02-1-2" .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#name> "Affiche \"D'r uit ! Indië moet bevrijd... !\"" .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#description> "Affiche \"D'r uit ! Indië moét bevrijd... !\". Ontwerp : Nico Broekman. Papier, kleur. Druk : Union, Amsterdam." .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#inscription> "d'r uit! Indië moet bevrijd..." .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#creator> "Union" .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#creator> "Cor Brouwer" .
+<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#creator> "Nico Broekman" .
 <https://n2t.net/ark:/27023/8c0c6e38b1765912eb647dbfafeb0979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c0c6e38b1765912eb647dbfafeb0979> <https://colonialcollections.nl/schema#identifier> "1977/03-1-6" .
 <https://n2t.net/ark:/27023/8c0c6e38b1765912eb647dbfafeb0979> <https://colonialcollections.nl/schema#name> "Bergkampong in de Preanger" .
@@ -5,6 +23,13 @@
 <https://n2t.net/ark:/27023/8c0c6e38b1765912eb647dbfafeb0979> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/8c0c6e38b1765912eb647dbfafeb0979> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c0c6e38b1765912eb647dbfafeb0979> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/59" .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#name> "Twee militairen zittend op een trap" .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#description> "Twee militairen zittend op een trap.\r\nAchter op foto geschreven \"dubbel. Gerrit Dominicus Hollandia Nieuw Guinea 1950\"." .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c10f6064762021124f1a207f2cc07b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c10f6064762021124f1a207f2cc07b3> <https://colonialcollections.nl/schema#identifier> "nf%201413-171" .
 <https://n2t.net/ark:/27023/8c10f6064762021124f1a207f2cc07b3> <https://colonialcollections.nl/schema#name> "Pasar langs de soengei. Verkoop van gevogelte en vis" .
@@ -12,6 +37,20 @@
 <https://n2t.net/ark:/27023/8c10f6064762021124f1a207f2cc07b3> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/8c10f6064762021124f1a207f2cc07b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c10f6064762021124f1a207f2cc07b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#identifier> "nf%20860-7" .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#name> "Schouwburg en Societeit Concordia, Bandoeng" .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van de schouwburg en Sociëteit Concordia te Bandung.\r\n\r\nMiddenonder vermeld; 'Schouwburg en Sociëteit Concordia, Bandoeng'. \r\nGedeelde achterkant met overdwar" .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#identifier> "2006/12/19-2-5" .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#name> "Portret van Kapitein Hendrikus Antonius Hulskamp, RMWO4" .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#description> "Foto. Carte de visite. Portret van Kapitein H.A. Hulskamp, RMWO." .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#creator> "H.W. van der Worp" .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c34035c773b0fdcc6f46f7092bab0a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c34035c773b0fdcc6f46f7092bab0a8> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/30" .
 <https://n2t.net/ark:/27023/8c34035c773b0fdcc6f46f7092bab0a8> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -26,6 +65,8 @@
 <https://n2t.net/ark:/27023/8c3b7f9270b64ca50378ef619fa09ad3> <https://colonialcollections.nl/schema#creator> "Koninklijke Rotterdamsche Lloyd N.V." .
 <https://n2t.net/ark:/27023/8c3b7f9270b64ca50378ef619fa09ad3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c3b7f9270b64ca50378ef619fa09ad3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c3b7f9270b64ca50378ef619fa09ad3> <https://colonialcollections.nl/schema#creator> "Fodru Gouda" .
+<https://n2t.net/ark:/27023/8c3b7f9270b64ca50378ef619fa09ad3> <https://colonialcollections.nl/schema#creator> "Militaire Luchtvaart Verkenningsafdeling" .
 <https://n2t.net/ark:/27023/8c44787cdc66bd56fdce0f19c80a3c3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c44787cdc66bd56fdce0f19c80a3c3f> <https://colonialcollections.nl/schema#identifier> "nf%201524-6" .
 <https://n2t.net/ark:/27023/8c44787cdc66bd56fdce0f19c80a3c3f> <https://colonialcollections.nl/schema#name> "Missigit te Fort de Kock" .
@@ -33,6 +74,12 @@
 <https://n2t.net/ark:/27023/8c44787cdc66bd56fdce0f19c80a3c3f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8c44787cdc66bd56fdce0f19c80a3c3f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c44787cdc66bd56fdce0f19c80a3c3f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#identifier> "nf%20589-1" .
+<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#description> "Plantage van de Bintan Plantations Limited\r\nlinksonder een rood monogram M en I in ovaal" .
+<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#creator> "N.K. Otsubo Photographic Artists, Singapore" .
+<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c1df18d49ee401d8a81cef0b6afb961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c1df18d49ee401d8a81cef0b6afb961> <https://colonialcollections.nl/schema#identifier> "nf%20842-697" .
 <https://n2t.net/ark:/27023/8c1df18d49ee401d8a81cef0b6afb961> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 01 t/m 36.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 10, in potloo" .
@@ -78,20 +125,6 @@
 <https://n2t.net/ark:/27023/8c39563ed83b18d916c1a1255547de82> <https://colonialcollections.nl/schema#inscription> "Tanda Pegawai Tentera Nippon (Certificate of Japanese Army's official)\r\nボジョネゴロ (Bojonegoro)\r\n巡査 (Jun'sa/ police constable)\r\n治集団部隊 (Osamu Shudan Budai/ 16th Army)\r\n日本軍使用人証 (Nihon Gun Shiyounin Shou/ Certificate of Japanese Army's employee)" .
 <https://n2t.net/ark:/27023/8c39563ed83b18d916c1a1255547de82> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c39563ed83b18d916c1a1255547de82> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#identifier> "2006/00-54-2" .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#name> "Hotel Centrum. Magelang" .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door P.M. Johannes, Magelang. \"Hotel Centrum. Magelang.\"" .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#inscription> "Hotel Centrum. Magelang" .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c19744fd2fb002c2b242e11ccb391f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#identifier> "1998/06/02-1-2" .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#name> "Affiche \"D'r uit ! Indië moet bevrijd... !\"" .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#description> "Affiche \"D'r uit ! Indië moét bevrijd... !\". Ontwerp : Nico Broekman. Papier, kleur. Druk : Union, Amsterdam." .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#inscription> "d'r uit! Indië moet bevrijd..." .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c406a1b1c1f2288c867e0dce75df9b2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c097a6f4e56bc1fecb66003f7e4460c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c097a6f4e56bc1fecb66003f7e4460c> <https://colonialcollections.nl/schema#identifier> "2016/12/28-5-3/50" .
 <https://n2t.net/ark:/27023/8c097a6f4e56bc1fecb66003f7e4460c> <https://colonialcollections.nl/schema#name> "Foto's diensttijd van R.J. Mulder in Nederlands-Indië 1949-1950" .
@@ -536,24 +569,6 @@
 <https://n2t.net/ark:/27023/8c44f25c904ee2181112c2a15aea3552> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Man zittend achter een als bar dienstdoende tafel. Op de tafel bevinden zich flessen drank en glaswerk. Boven de tafel is een spandoek gehangen waarop de tekst \"BAR Barkeeper Sastro.\" is aangebracht.\r\n\r\nDe foto maakt deel uit van de uit 241 fo" .
 <https://n2t.net/ark:/27023/8c44f25c904ee2181112c2a15aea3552> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c44f25c904ee2181112c2a15aea3552> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/59" .
-<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#name> "Twee militairen zittend op een trap" .
-<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#description> "Twee militairen zittend op een trap.\r\nAchter op foto geschreven \"dubbel. Gerrit Dominicus Hollandia Nieuw Guinea 1950\"." .
-<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c0ec50d93ae3bb5daad450a935068dd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#identifier> "nf%20860-7" .
-<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#name> "Schouwburg en Societeit Concordia, Bandoeng" .
-<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#description> "Ansichtkaart, maakt deel uit van ansichtkaartenboekje 'bandoeng en omstreken, met een afbeelding van de schouwburg en Sociëteit Concordia te Bandung.\r\n\r\nMiddenonder vermeld; 'Schouwburg en Sociëteit Concordia, Bandoeng'. \r\nGedeelde achterkant met overdwar" .
-<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c1dd3ae91247476d49e170046d8bfa9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#identifier> "2006/12/19-2-5" .
-<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#name> "Portret van Kapitein Hendrikus Antonius Hulskamp, RMWO4" .
-<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#description> "Foto. Carte de visite. Portret van Kapitein H.A. Hulskamp, RMWO." .
-<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c2696b914e36f8f63f813d9bc260c84> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c09a72621ab8e4be354b656e28b6454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c09a72621ab8e4be354b656e28b6454> <https://colonialcollections.nl/schema#identifier> "nf%201308-22-3" .
 <https://n2t.net/ark:/27023/8c09a72621ab8e4be354b656e28b6454> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nAangenomen is dat deze foto genomen is in de zomer van 1928.\r\n\r\nDe afbeelding toont een bij een raam, binnen zittende man, met overhemd aan en stropdas. Hij heeft een klein kind bij zich dat n" .
@@ -589,11 +604,6 @@
 <https://n2t.net/ark:/27023/8c406ee86ba9cb1316611ac7a5821ac7> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los aangetroffen\r\n\r\nAchter op foto staat in inkt geschreven:\r\n'4 April '27 - De Lamongan krater. De rookpluimpjes zijn sulfatoren. O-Java'\r\n\r\nOpname toont een krater. Onderin rechts rookpluimen, bovenin wolken. De kratermond " .
 <https://n2t.net/ark:/27023/8c406ee86ba9cb1316611ac7a5821ac7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8c406ee86ba9cb1316611ac7a5821ac7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#identifier> "nf%20589-1" .
-<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#description> "Plantage van de Bintan Plantations Limited\r\nlinksonder een rood monogram M en I in ovaal" .
-<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8c16cf9bf40d6d451959ee79bf0aeae5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8c2611f484a5377bf93997f2cdf183da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8c2611f484a5377bf93997f2cdf183da> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/32" .
 <https://n2t.net/ark:/27023/8c2611f484a5377bf93997f2cdf183da> <https://colonialcollections.nl/schema#name> "Colditz" .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-100" .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#name> "Carte de visite: Wiegand" .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Wiegand" .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#inscription> "Wiegand" .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#creator> "Photographie J. Huybers" .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb247586ee12b15fc8c4af9f7546f248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb247586ee12b15fc8c4af9f7546f248> <https://colonialcollections.nl/schema#identifier> "nf%20836-41-1" .
 <https://n2t.net/ark:/27023/eb247586ee12b15fc8c4af9f7546f248> <https://colonialcollections.nl/schema#name> "Flores 1926" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/eb247586ee12b15fc8c4af9f7546f248> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/eb247586ee12b15fc8c4af9f7546f248> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb247586ee12b15fc8c4af9f7546f248> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/76" .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Soendaneesche vrouwen - Sundanese women - Sitoe Bagendit" .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Soendaneesche vrouwen - Sundanese women - Sitoe Bagendit. No. 1113." .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#creator> "Arw-Kiekjes van Java's Land en Volk." .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb28387d18deaa7c566c7c54fe4d8fa7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb28387d18deaa7c566c7c54fe4d8fa7> <https://colonialcollections.nl/schema#identifier> "1960/05/02-1/43" .
 <https://n2t.net/ark:/27023/eb28387d18deaa7c566c7c54fe4d8fa7> <https://colonialcollections.nl/schema#name> "Mouwembleem Y-brigade" .
@@ -12,6 +27,20 @@
 <https://n2t.net/ark:/27023/eb28387d18deaa7c566c7c54fe4d8fa7> <https://colonialcollections.nl/schema#creator> "Cordesius & Zonen" .
 <https://n2t.net/ark:/27023/eb28387d18deaa7c566c7c54fe4d8fa7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb28387d18deaa7c566c7c54fe4d8fa7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/12" .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#name> "Groepsportret \"Haven directie Soerabaia\"" .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"Personeel Havendirectie Soerabia\". Groepsportret in hal." .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#creator> "Atelier H. Gleysteen" .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#identifier> "1993/10/04-3-2" .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#name> "Balinese voorstelling van een rivier met liggende man en een boom met paardenhoofd" .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#description> "Tekening van IDA Bagoes Poetoe Atik van Batoean (Bali). Afm. 29 x 37 cm. [In onbekende staat].\r\n\r\nVerso vermeld met potlood: Ida Bagoes Poetoe [?..]bil. Batoean (Bali) /20" .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#creator> "Ida Bagoes Poetoe Atik van Batoean" .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb275b4610e3d32f81e7e6607191dc11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb275b4610e3d32f81e7e6607191dc11> <https://colonialcollections.nl/schema#identifier> "nf%201911-65" .
 <https://n2t.net/ark:/27023/eb275b4610e3d32f81e7e6607191dc11> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, met witte rand, opgeplakt in album, geen meegekomen tekst.\r\n\r\nOpname toont een man, een inheemse man. Hij draagt een korte broek tot op de knieën en heeft een bloot bovenlijf. We heeft hij een hoofddeksel op. \r\nEr steekt een slagwapen (pa" .
@@ -21,9 +50,10 @@
 <https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#identifier> "nf%201504" .
 <https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant mogelijk gestempelde tekst:\r\nnaam van fotograaf. \r\n\r\nOpname toont een groep van vermoedelijk jonge vrouwen, meisjes die aan het dansen zijn. Het opvallende aan hen zijn de strooien rokjes.\r\n\r\nAangenomen " .
-<https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
 <https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eb2f4639be0f5d7ab88855bf17b9a4a8> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/eb3e5b588801a7e3ed1cc6ebd4cbe6cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb3e5b588801a7e3ed1cc6ebd4cbe6cb> <https://colonialcollections.nl/schema#identifier> "nf%201918-223" .
 <https://n2t.net/ark:/27023/eb3e5b588801a7e3ed1cc6ebd4cbe6cb> <https://colonialcollections.nl/schema#description> "Stereoglaspositief, zwart/wit, 2 heel dunne glasplaatjes op elkaar, samen gehouden en afgewerkt met zwarte tape.\r\n\r\nOpnames tonen ontgonnen terrein waar men bezig is met planten. De achtergrond laat zien wat het resultaat moet worden, jonge rubberbomen.\r\n" .
@@ -84,13 +114,6 @@
 <https://n2t.net/ark:/27023/eb5e92da4cb207b5876fb7244ea9b40f> <https://colonialcollections.nl/schema#inscription> "SFW004442" .
 <https://n2t.net/ark:/27023/eb5e92da4cb207b5876fb7244ea9b40f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb5e92da4cb207b5876fb7244ea9b40f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-100" .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#name> "Carte de visite: Wiegand" .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Wiegand" .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#inscription> "Wiegand" .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eb4ba5d04233469a0117c810a000fa11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb243ff9c466d327c4aa87fa3e5d76b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb243ff9c466d327c4aa87fa3e5d76b8> <https://colonialcollections.nl/schema#identifier> "2004/04/14-1-2/2" .
 <https://n2t.net/ark:/27023/eb243ff9c466d327c4aa87fa3e5d76b8> <https://colonialcollections.nl/schema#name> "Papoea´s, 3 Europeanen en Indonesiers bij een boot op het strand" .
@@ -541,24 +564,6 @@
 <https://n2t.net/ark:/27023/eb7561e5a140c40c7a47e4745a58e084> <https://colonialcollections.nl/schema#description> "1. Fotokopie. Permissiebriefje van de IIe Afdeling Bergartillerie. Verleend aan P. van Meel, stb.nr. 94252, om zich gedurende de vastgestelde tijden, buiten het kampement te mogen ophouden, 2 bladzijden.\r\n2. Fotokopie kaart gebedsdienst te Ambarawa Kamp J" .
 <https://n2t.net/ark:/27023/eb7561e5a140c40c7a47e4745a58e084> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb7561e5a140c40c7a47e4745a58e084> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#identifier> "2014/08/13-1-11/76" .
-<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#name> "Prentbriefkaart Nederlands-Indië. Soendaneesche vrouwen - Sundanese women - Sitoe Bagendit" .
-<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands-Indië. Soendaneesche vrouwen - Sundanese women - Sitoe Bagendit. No. 1113." .
-<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eb27cfa2600ebd65b0ae20d3a74366c1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/12" .
-<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#name> "Groepsportret \"Haven directie Soerabaia\"" .
-<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"Personeel Havendirectie Soerabia\". Groepsportret in hal." .
-<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eb59d06ac660dea6778908621945e3f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#identifier> "1993/10/04-3-2" .
-<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#name> "Balinese voorstelling van een rivier met liggende man en een boom met paardenhoofd" .
-<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#description> "Tekening van IDA Bagoes Poetoe Atik van Batoean (Bali). Afm. 29 x 37 cm. [In onbekende staat].\r\n\r\nVerso vermeld met potlood: Ida Bagoes Poetoe [?..]bil. Batoean (Bali) /20" .
-<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eb60397310ca7ba0ea9d817f607e5735> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb3d94c6f77c1571d6c9bfc4b030d349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb3d94c6f77c1571d6c9bfc4b030d349> <https://colonialcollections.nl/schema#identifier> "2005/00-160/89-14" .
 <https://n2t.net/ark:/27023/eb3d94c6f77c1571d6c9bfc4b030d349> <https://colonialcollections.nl/schema#description> "Document. Barcodesticker is uitgedraaid [KP]." .

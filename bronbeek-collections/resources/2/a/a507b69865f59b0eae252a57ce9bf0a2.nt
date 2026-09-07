@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/72" .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#name> "Soerabaia. Chineesche Begrafenisstoet" .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Soerbaia. Chineesche Begrafenisstoet.\". Gestempeld en met postzegel." .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#inscription> "Soerbaia. Chineesche Begrafenisstoet" .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#creator> "J.M.Chs. Nijland" .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c5d263ac65f5a984fee4688e4e2bf66b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c5d263ac65f5a984fee4688e4e2bf66b> <https://colonialcollections.nl/schema#identifier> "nf%201413-129" .
 <https://n2t.net/ark:/27023/c5d263ac65f5a984fee4688e4e2bf66b> <https://colonialcollections.nl/schema#name> "Weg door het moeras tussen Tandjoeng Kerang en K.P.V. Zuid. Met galar door het moeras" .
@@ -9,9 +17,10 @@
 <https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#identifier> "S%206245-61" .
 <https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#name> "Cacao. (Theobroma Cacao.)" .
 <https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Cacao. (Theobroma Cacao.)\r\nRechts onder: Lichtdruk van H. Kleinmann & Co., te Haarlem\r\n\r\nDe opname toont een tak " .
-<https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c5eaae3c90129aca2e5aead765e4edb9> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c5f17a627249c44d5d45f6580b47d891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c5f17a627249c44d5d45f6580b47d891> <https://colonialcollections.nl/schema#identifier> "2001/00-53-17" .
 <https://n2t.net/ark:/27023/c5f17a627249c44d5d45f6580b47d891> <https://colonialcollections.nl/schema#name> "Chinese handelaren - Sumatra - doodgeslagen met een golf club" .
@@ -33,6 +42,14 @@
 <https://n2t.net/ark:/27023/c6050cc0a48143654bbe3bf88a6a4ddf> <https://colonialcollections.nl/schema#creator> "C.B. Snijders" .
 <https://n2t.net/ark:/27023/c6050cc0a48143654bbe3bf88a6a4ddf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c6050cc0a48143654bbe3bf88a6a4ddf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#identifier> "nf%201334-9" .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#name> "A.M.V.J. - Noordwijk - Batavia" .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'A.M.V.J. - Noordwijk - Batavia'\r\n\r\nOpna" .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#creator> "ROTOGRAVURE DE UNIE" .
 <https://n2t.net/ark:/27023/c5d836f65bbcfc418650ed050c454911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c5d836f65bbcfc418650ed050c454911> <https://colonialcollections.nl/schema#identifier> "nf%201918-98" .
 <https://n2t.net/ark:/27023/c5d836f65bbcfc418650ed050c454911> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Kemoening Oct. '31'\r\n\r\nOpnames tonen een kaal landschap met op de voorgrond een aanplant van heel jonge rubberplantjes.\r\nTussen de rijen staat i" .
@@ -88,13 +105,6 @@
 <https://n2t.net/ark:/27023/c5f143928cfef211964366dec0e4bb16> <https://colonialcollections.nl/schema#inscription> "CT96767" .
 <https://n2t.net/ark:/27023/c5f143928cfef211964366dec0e4bb16> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c5f143928cfef211964366dec0e4bb16> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/72" .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#name> "Soerabaia. Chineesche Begrafenisstoet" .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Soerbaia. Chineesche Begrafenisstoet.\". Gestempeld en met postzegel." .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#inscription> "Soerbaia. Chineesche Begrafenisstoet" .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c5f3ca7f3d9775950a2b92e8f1c00cbd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c5cfc2d361f422458cc918c31ffaf384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c5cfc2d361f422458cc918c31ffaf384> <https://colonialcollections.nl/schema#identifier> "1921/04/01-3-14" .
 <https://n2t.net/ark:/27023/c5cfc2d361f422458cc918c31ffaf384> <https://colonialcollections.nl/schema#name> "Viool" .
@@ -527,12 +537,6 @@
 <https://n2t.net/ark:/27023/c618fb6305a8025d9c9d9b279e2c7fb7> <https://colonialcollections.nl/schema#description> "model van een scheprad.\r\nHerkomst: Mana, res. Benkoeloe." .
 <https://n2t.net/ark:/27023/c618fb6305a8025d9c9d9b279e2c7fb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c618fb6305a8025d9c9d9b279e2c7fb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#identifier> "nf%201334-9" .
-<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#name> "A.M.V.J. - Noordwijk - Batavia" .
-<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'A.M.V.J. - Noordwijk - Batavia'\r\n\r\nOpna" .
-<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c60d60fa58501e34991350f3b8eb03e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c5d42b3a97dd3f78d5085b5ebc028b70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c5d42b3a97dd3f78d5085b5ebc028b70> <https://colonialcollections.nl/schema#identifier> "1882/05-2-1" .
 <https://n2t.net/ark:/27023/c5d42b3a97dd3f78d5085b5ebc028b70> <https://colonialcollections.nl/schema#description> "Papieren luchtballon overtrokken met een net van garen.\r\nDeze luchtballon is hoogstwaarschijnlijk afgekeurd en het inv.nr. uit Thieme is gebruikt voor een groot schild." .

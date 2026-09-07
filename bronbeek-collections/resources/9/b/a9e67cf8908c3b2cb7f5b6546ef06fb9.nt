@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/a896590df9f4a41a0b02646a51db2d38> <https://colonialcollections.nl/schema#creator> "H. Blomjous, Den Haag" .
 <https://n2t.net/ark:/27023/a896590df9f4a41a0b02646a51db2d38> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a896590df9f4a41a0b02646a51db2d38> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#identifier> "2006/00-54-5" .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#name> "Militair Cantine. Magelang." .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door P.M. Johannes, Magelang. \"Militair Cantine. Magelang.\"" .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#inscription> "Militair Cantine. Magelang" .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#creator> "P.M. Johannes" .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a8c13621ae60028fdf6577cbb2d085ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a8c13621ae60028fdf6577cbb2d085ae> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/079" .
 <https://n2t.net/ark:/27023/a8c13621ae60028fdf6577cbb2d085ae> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -28,6 +36,13 @@
 <https://n2t.net/ark:/27023/a891d4614ce2748b43c1c32599c9a5c9> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/a891d4614ce2748b43c1c32599c9a5c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a891d4614ce2748b43c1c32599c9a5c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-869/2-15" .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#name> "Carte de visite van Kapitein KNIL Frans Kroon" .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite met portret van Kapitein Frans Kroon, borststuk in attila." .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a8942e606cdc92d1a4b64408d7d21cd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a8942e606cdc92d1a4b64408d7d21cd0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-746-2" .
 <https://n2t.net/ark:/27023/a8942e606cdc92d1a4b64408d7d21cd0> <https://colonialcollections.nl/schema#name> "Portret van Brigade-generaal Willem Epke, RMWO-4" .
@@ -42,6 +57,8 @@
 <https://n2t.net/ark:/27023/a898aaec41f124627f1bc401f8226e0c> <https://colonialcollections.nl/schema#creator> "L. Blok" .
 <https://n2t.net/ark:/27023/a898aaec41f124627f1bc401f8226e0c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a898aaec41f124627f1bc401f8226e0c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a898aaec41f124627f1bc401f8226e0c> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
+<https://n2t.net/ark:/27023/a898aaec41f124627f1bc401f8226e0c> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
 <https://n2t.net/ark:/27023/a8ab947fc597b83656967939087942d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a8ab947fc597b83656967939087942d5> <https://colonialcollections.nl/schema#identifier> "2001/02/06-1-25" .
 <https://n2t.net/ark:/27023/a8ab947fc597b83656967939087942d5> <https://colonialcollections.nl/schema#name> "Heistelling in bedrijf" .
@@ -49,6 +66,28 @@
 <https://n2t.net/ark:/27023/a8ab947fc597b83656967939087942d5> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/a8ab947fc597b83656967939087942d5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a8ab947fc597b83656967939087942d5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#identifier> "00153474" .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#name> "Foto viering verjaardag Kapitein Kwik Tjien Gwan in Soerakarta 1930" .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#description> "Groepsfoto zwart wit  op passepartout viering verjaardag Kapitein Kwik Tjien Gwan in Soerakarta op zaterdag 19 juli 1930.\r\nOp de groepsfoto zijn onder andere afgebeeld: resident Treur, luitenant-kolonel D. de Iongh, plaatsvervangend militait commandant So" .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#creator> "L. Kingming" .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-2" .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#name> "Post Office. Wilmington, North Carolina" .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Post Office. Wilmington, North Carolina. [in kleurendruk]" .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#creator> "E.C.Moore & Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#identifier> "1885/09-1-46" .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#name> "Exmouth" .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#description> "Prent. Exmouth.\r\n\"Uitgegeven door j. Groenewoud, te Amsterdam\" & \"Gedr: dr. J.B. Gegraveerd door C.C. Fuchs.\"\r\n\"Zie 't beeld des Britschen Helds, die, door beleid en moed 't Algiersche roofvolk temde, en 't vuur stak in hun schepen: Die hen, zelfs in hun " .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#creator> "J. Groenewoud" .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#creator> "C.C. Fuchs" .
 <https://n2t.net/ark:/27023/a8b83c9e493fa8d360246c9573282cec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a8b83c9e493fa8d360246c9573282cec> <https://colonialcollections.nl/schema#identifier> "nf%20580-43" .
 <https://n2t.net/ark:/27023/a8b83c9e493fa8d360246c9573282cec> <https://colonialcollections.nl/schema#name> "Paleis van Daendels met standbeeld J.P. Coen" .
@@ -129,13 +168,6 @@
 <https://n2t.net/ark:/27023/a8ba15a5833d8283b0264a33968117a5> <https://colonialcollections.nl/schema#inscription> "Jakarta 30 april ´54 Feest bij fam de Vries" .
 <https://n2t.net/ark:/27023/a8ba15a5833d8283b0264a33968117a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a8ba15a5833d8283b0264a33968117a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#identifier> "2006/00-54-5" .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#name> "Militair Cantine. Magelang." .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door P.M. Johannes, Magelang. \"Militair Cantine. Magelang.\"" .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#inscription> "Militair Cantine. Magelang" .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a8bdd2e16602458204e3ecf81aad1eb0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a885cd46bf7650680aa023c0921875db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a885cd46bf7650680aa023c0921875db> <https://colonialcollections.nl/schema#identifier> "1997/01/01-1-2" .
 <https://n2t.net/ark:/27023/a885cd46bf7650680aa023c0921875db> <https://colonialcollections.nl/schema#name> "Lader voor patroonhouder" .
@@ -520,30 +552,6 @@
 <https://n2t.net/ark:/27023/a8c172bff74cc84c410017fd505eda8b> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië, periode 1945-1950." .
 <https://n2t.net/ark:/27023/a8c172bff74cc84c410017fd505eda8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a8c172bff74cc84c410017fd505eda8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-869/2-15" .
-<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#name> "Carte de visite van Kapitein KNIL Frans Kroon" .
-<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite met portret van Kapitein Frans Kroon, borststuk in attila." .
-<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a89417b7fa69e5d3b6b40c0ce35522b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#identifier> "00153474" .
-<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#name> "Foto viering verjaardag Kapitein Kwik Tjien Gwan in Soerakarta 1930" .
-<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#description> "Groepsfoto zwart wit  op passepartout viering verjaardag Kapitein Kwik Tjien Gwan in Soerakarta op zaterdag 19 juli 1930.\r\nOp de groepsfoto zijn onder andere afgebeeld: resident Treur, luitenant-kolonel D. de Iongh, plaatsvervangend militait commandant So" .
-<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a8aee925c976363b56f0f481f61afc06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-2" .
-<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#name> "Post Office. Wilmington, North Carolina" .
-<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Post Office. Wilmington, North Carolina. [in kleurendruk]" .
-<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a8b6ba839662e97002cf6408476fbde1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#identifier> "1885/09-1-46" .
-<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#name> "Exmouth" .
-<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#description> "Prent. Exmouth.\r\n\"Uitgegeven door j. Groenewoud, te Amsterdam\" & \"Gedr: dr. J.B. Gegraveerd door C.C. Fuchs.\"\r\n\"Zie 't beeld des Britschen Helds, die, door beleid en moed 't Algiersche roofvolk temde, en 't vuur stak in hun schepen: Die hen, zelfs in hun " .
-<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a8b72c75e0ace9a35a35e65baf48b516> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a88d0e06ae3925e23b8ba420c255f56b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a88d0e06ae3925e23b8ba420c255f56b> <https://colonialcollections.nl/schema#identifier> "nf%20697-14" .
 <https://n2t.net/ark:/27023/a88d0e06ae3925e23b8ba420c255f56b> <https://colonialcollections.nl/schema#description> "Opname toont een jonge Javaan staand in een cassaveaanplant.\r\n\r\nOp de foto staat geschreven 'onb', W.S., '270' en een datum '14-6-24'" .

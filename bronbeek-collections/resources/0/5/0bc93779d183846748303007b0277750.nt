@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#identifier> "2002/02/11-4-3" .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#name> "Vegetatiekaart van Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#description> "Topografische kaart. Vegetatiekaart van Nieuw Guinea. Schaal 1:5.000.000 uitgegeven door de Topografische dienst-Delft-1960.\r\nOp de kaart is geheel Nieuw-Guinea afgebeeld. Legenda vegetatiekaart in het Nederlands en in het Engels." .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#inscription> "Vegetatiekaart van Nieuw Guinea" .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#creator> "Topografische dienst Delft" .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/8" .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#name> "Rokende krater" .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Rokende krater." .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#creator> "I. Asada Fotograaf, Brastagi" .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c0a0fc8faf839543c33d7716e8e3b13b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c0a0fc8faf839543c33d7716e8e3b13b> <https://colonialcollections.nl/schema#identifier> "nf%20494" .
 <https://n2t.net/ark:/27023/c0a0fc8faf839543c33d7716e8e3b13b> <https://colonialcollections.nl/schema#name> "Het meer van Klakah" .
@@ -26,6 +41,7 @@
 <https://n2t.net/ark:/27023/c0a703ef748fa6aa9a45e8cca4bd37ae> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/c0a703ef748fa6aa9a45e8cca4bd37ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c0a703ef748fa6aa9a45e8cca4bd37ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c0a703ef748fa6aa9a45e8cca4bd37ae> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/c0ad8327b5b88ce22faa679f7d81c251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c0ad8327b5b88ce22faa679f7d81c251> <https://colonialcollections.nl/schema#identifier> "2011/07/20-3-1" .
 <https://n2t.net/ark:/27023/c0ad8327b5b88ce22faa679f7d81c251> <https://colonialcollections.nl/schema#name> "Attila model 1904 Officier van Gezondheid 1ste klasse Indisch Leger" .
@@ -40,6 +56,35 @@
 <https://n2t.net/ark:/27023/c0b27a18bc5a0027a7fa3741fd465c08> <https://colonialcollections.nl/schema#creator> "Foto Stakenburg" .
 <https://n2t.net/ark:/27023/c0b27a18bc5a0027a7fa3741fd465c08> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c0b27a18bc5a0027a7fa3741fd465c08> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/218" .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Groet uit Bandoeng. Merdika weg." .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#creator> "J.C. Becker" .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#identifier> "S%204258" .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#name> "Stafkaart van Tjirandjang (West-Java)" .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#description> "Amerikaanse stafkaart, van oorsprong Nederlands, van Tjirandjang (West-Java)\r\n\r\nschaal 1 : 50.000\r\n\r\n1ste druk" .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#creator> "U.S.Army" .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#creator> "Survey of India Offices" .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#identifier> "2010/07/16-1-10" .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#name> "Troep Padvinders te Bandoeng, ± 1920-1930" .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#description> "Foto op karton. Groepsportret van een troep padvinders in Nederlands Indie te Bandoeng." .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#creator> "Van Belkum & Grobe, Bandoeng, Java." .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/20" .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nSemarang. Tawangplein. A. Bisschop, Semarang Cheribon" .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c0a538ce80d5fc758244a36028352113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c0a538ce80d5fc758244a36028352113> <https://colonialcollections.nl/schema#identifier> "nf%20369" .
 <https://n2t.net/ark:/27023/c0a538ce80d5fc758244a36028352113> <https://colonialcollections.nl/schema#description> "Processie met parasols en draagbaren in een bad\r\nfoto is afgedrukt als ansichtkaart\r\ngedeelde achterkant" .
@@ -72,13 +117,6 @@
 <https://n2t.net/ark:/27023/c09f8e51c9328a1cdeb38b4ae78a5715> <https://colonialcollections.nl/schema#inscription> "Sibajak" .
 <https://n2t.net/ark:/27023/c09f8e51c9328a1cdeb38b4ae78a5715> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c09f8e51c9328a1cdeb38b4ae78a5715> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#identifier> "2002/02/11-4-3" .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#name> "Vegetatiekaart van Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#description> "Topografische kaart. Vegetatiekaart van Nieuw Guinea. Schaal 1:5.000.000 uitgegeven door de Topografische dienst-Delft-1960.\r\nOp de kaart is geheel Nieuw-Guinea afgebeeld. Legenda vegetatiekaart in het Nederlands en in het Engels." .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#inscription> "Vegetatiekaart van Nieuw Guinea" .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c0a9c6fe86d902ac1bd6b910157dd1f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c0904f320af149be55d71269e6792a73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c0904f320af149be55d71269e6792a73> <https://colonialcollections.nl/schema#identifier> "1992/10/10-1" .
 <https://n2t.net/ark:/27023/c0904f320af149be55d71269e6792a73> <https://colonialcollections.nl/schema#name> "Kaart Java en Madoera, Internationale Tabakshandelmaatschappij Amsterdam" .
@@ -517,36 +555,6 @@
 <https://n2t.net/ark:/27023/c0e5471d9ddb3f522d48822cf316b64f> <https://colonialcollections.nl/schema#description> "Autostandaard Commandant Nederlandse troepen in de Republiek Indonesië (C-N.R.I.). (eigen ontwerp van Kolonel der Infanterie KNIL A. van Santen, 1950-1951.\r\nBreedte: 21cm, Lengte: 36cm, broeking 3cm. Oranje, behoudens aan beide zijde een wit middenstuk, b" .
 <https://n2t.net/ark:/27023/c0e5471d9ddb3f522d48822cf316b64f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c0e5471d9ddb3f522d48822cf316b64f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#identifier> "2002/10/21-3-13/8" .
-<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#name> "Rokende krater" .
-<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#description> "Foto. Briefkaart. Rokende krater." .
-<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c09024d38897f7b4ec073441fb74f89c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/218" .
-<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Bandoeng, Java, Nederlands-Indië. Foto van: Groet uit Bandoeng. Merdika weg." .
-<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c0b5ed73980010d244eb666a80d84a8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#identifier> "S%204258" .
-<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#name> "Stafkaart van Tjirandjang (West-Java)" .
-<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#description> "Amerikaanse stafkaart, van oorsprong Nederlands, van Tjirandjang (West-Java)\r\n\r\nschaal 1 : 50.000\r\n\r\n1ste druk" .
-<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c0b69a870edbe79d07eabe353dd9695b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#identifier> "2010/07/16-1-10" .
-<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#name> "Troep Padvinders te Bandoeng, ± 1920-1930" .
-<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#description> "Foto op karton. Groepsportret van een troep padvinders in Nederlands Indie te Bandoeng." .
-<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c0d127ff000606aecd9385f058fcf245> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/20" .
-<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
-<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nSemarang. Tawangplein. A. Bisschop, Semarang Cheribon" .
-<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c0d1c2b19f66d21d5b258354a875ef94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c0927dcd3552d8ef0a43fc45156b40b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c0927dcd3552d8ef0a43fc45156b40b0> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-26/9" .
 <https://n2t.net/ark:/27023/c0927dcd3552d8ef0a43fc45156b40b0> <https://colonialcollections.nl/schema#description> "Foto. Militaire Luchtvaart KNIL, 18 squadron, na 1945. Meerdaagse oefening vanuit basis Kendari (Celebes)." .
@@ -590,6 +598,7 @@
 <https://n2t.net/ark:/27023/c0bdbb2d058d59b609e06b42728956bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c0bdbb2d058d59b609e06b42728956bb> <https://colonialcollections.nl/schema#identifier> "S%204184-2" .
 <https://n2t.net/ark:/27023/c0bdbb2d058d59b609e06b42728956bb> <https://colonialcollections.nl/schema#name> "Een opgang" .
+<https://n2t.net/ark:/27023/c0bdbb2d058d59b609e06b42728956bb> <https://colonialcollections.nl/schema#creator> "Jan Poortenaar" .
 <https://n2t.net/ark:/27023/c0bdbb2d058d59b609e06b42728956bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c0bdbb2d058d59b609e06b42728956bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c0ca0de5057a1e561655e8c19ecb31d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .

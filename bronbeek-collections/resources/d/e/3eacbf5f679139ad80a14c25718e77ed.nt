@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#identifier> "1991/07/22-3-8" .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Vrolijk kerstfeest, gelukkig nieuwjaar" .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Vrolijk Kerstfeest Gelukkig Nieuwjaar.\r\nKaart gedrukt door Visser bv, uitgegeven door I.A.G.te Bandoeng naar een tekening van Meekes.\r\n(Blanco)" .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#inscription> "Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#creator> "Meekes" .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#creator> "I.A.G., Bandoeng" .
 <https://n2t.net/ark:/27023/5e5b53b1a15c087f840f47145735f0e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e5b53b1a15c087f840f47145735f0e6> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-79" .
 <https://n2t.net/ark:/27023/5e5b53b1a15c087f840f47145735f0e6> <https://colonialcollections.nl/schema#name> "Carte de visite: Henry van Haeften" .
@@ -6,6 +15,30 @@
 <https://n2t.net/ark:/27023/5e5b53b1a15c087f840f47145735f0e6> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/5e5b53b1a15c087f840f47145735f0e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e5b53b1a15c087f840f47145735f0e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#identifier> "1863/12-1-57" .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#name> "Portret van Kiay Modjo" .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#description> "Portret van Kiay Modjo, de Mohammedaanse priester de met Dipo Negoro de opstand voorbereidde. Lithografie (?) in 1828 gemaakt en gedrukt in Leiden.\r\n\"[Maj. de St.]1828\" & \" J.Erdleben, Leiden\"\r\nPortret afkomstig uit: F.V.H.A. de Stuers, Atlas. Mémoires su" .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#inscription> "Kiay Modjo, Grand Prêtre" .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#creator> "J. Erxleben" .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#identifier> "1991/09/02-2-8" .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#name> "Herinneringsschild \"Ned. Indië\", uitgegeven door Limburgs thuisfront \"Euver de Breer\"" .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#description> "Houten schild met daarop een koperkleurige militaire kop. Daaronder de tekst \"Ter herinnering aan mijn diensttijd in Indië\". Afgegeven door Limburgs thuisfront \"Euver de Breer\" Roermond. Veld Secr. Nassaustraat 46" .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#inscription> "Ter herinnering aan mijn diensttijd in Indie; Limburgs thuisfront \"Euver de Breer\" Roermond. Veld Secr. Nassaustraat 46" .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#creator> "Limburgs thuisfront \"Euver de Breer\"" .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-2" .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#name> "Djember, Kotta" .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#description> "prentbriefkaart. In zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#inscription> "Djember Kotta" .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#creator> "E.O. Kerkhoven" .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e204f12ea46732fa58665dfa1b80525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e204f12ea46732fa58665dfa1b80525> <https://colonialcollections.nl/schema#identifier> "nf%20842-122" .
 <https://n2t.net/ark:/27023/5e204f12ea46732fa58665dfa1b80525> <https://colonialcollections.nl/schema#name> "Javaanse boerin plant jonge rijst, West-Java" .
@@ -62,6 +95,12 @@
 <https://n2t.net/ark:/27023/5e5ace522d5a23d7aa2939f9836ac737> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5e5ace522d5a23d7aa2939f9836ac737> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e5ace522d5a23d7aa2939f9836ac737> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#identifier> "nf%20323-27-2" .
+<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#description> "bijschrift; 'Op den voorgrond het Roode meer, rechts op den achtergrond het Groene meer van Kalimoetoe met den rookenden sulfatoren'" .
+<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e3128f609e08eb76529942981fec0a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e3128f609e08eb76529942981fec0a8> <https://colonialcollections.nl/schema#identifier> "EDO%20622-49-2" .
 <https://n2t.net/ark:/27023/5e3128f609e08eb76529942981fec0a8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig bijgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een klein meisje op een kussen ergens in het gras." .
@@ -95,34 +134,6 @@
 <https://n2t.net/ark:/27023/5e5e8cc9b26ac8855ff5cea219968556> <https://colonialcollections.nl/schema#inscription> "Ter herinnering aangeboden door de Onderofficieren aan den Commandant v/h Detachement te Kolonodale tijdens het 25 jarig bestaan hiervan 7-5-´32" .
 <https://n2t.net/ark:/27023/5e5e8cc9b26ac8855ff5cea219968556> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e5e8cc9b26ac8855ff5cea219968556> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#identifier> "1991/07/22-3-8" .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: Vrolijk kerstfeest, gelukkig nieuwjaar" .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Vrolijk Kerstfeest Gelukkig Nieuwjaar.\r\nKaart gedrukt door Visser bv, uitgegeven door I.A.G.te Bandoeng naar een tekening van Meekes.\r\n(Blanco)" .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#inscription> "Vrolijk Kerstfeest Gelukkig Nieuwjaar" .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e525b321ba0768c745665e0fda6ef10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#identifier> "1863/12-1-57" .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#name> "Portret van Kiay Modjo" .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#description> "Portret van Kiay Modjo, de Mohammedaanse priester de met Dipo Negoro de opstand voorbereidde. Lithografie (?) in 1828 gemaakt en gedrukt in Leiden.\r\n\"[Maj. de St.]1828\" & \" J.Erdleben, Leiden\"\r\nPortret afkomstig uit: F.V.H.A. de Stuers, Atlas. Mémoires su" .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#inscription> "Kiay Modjo, Grand Prêtre" .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e5d4a1932499eec952bf04ea6462968> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#identifier> "1991/09/02-2-8" .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#name> "Herinneringsschild \"Ned. Indië\", uitgegeven door Limburgs thuisfront \"Euver de Breer\"" .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#description> "Houten schild met daarop een koperkleurige militaire kop. Daaronder de tekst \"Ter herinnering aan mijn diensttijd in Indië\". Afgegeven door Limburgs thuisfront \"Euver de Breer\" Roermond. Veld Secr. Nassaustraat 46" .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#inscription> "Ter herinnering aan mijn diensttijd in Indie; Limburgs thuisfront \"Euver de Breer\" Roermond. Veld Secr. Nassaustraat 46" .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e5fd564df0a394f98a5a8b1b5ca2d87> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#identifier> "1990/08/20-10-2" .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#name> "Djember, Kotta" .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#description> "prentbriefkaart. In zwart/wit naar een foto van E.O. Kerkhoven. In goede staat.\r\nOp achterzijde: \"Briefkaart uit Nederlandsch-Indië. [  ]Algemeene Postvereeniging.[  ]\"" .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#inscription> "Djember Kotta" .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e6287a749f576f96ce1297f7ecc7c59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e1ed223bb9cda30e52565d6ecd9bee9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e1ed223bb9cda30e52565d6ecd9bee9> <https://colonialcollections.nl/schema#identifier> "1985/07/02-1-7" .
 <https://n2t.net/ark:/27023/5e1ed223bb9cda30e52565d6ecd9bee9> <https://colonialcollections.nl/schema#name> "Baretembleem Genie, ponteniers" .
@@ -582,11 +593,6 @@
 <https://n2t.net/ark:/27023/5e57857462c8eebad091420276fc9f6e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\ttabakspot\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2403\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2403] Depot, 30, M d [30 M d]" .
 <https://n2t.net/ark:/27023/5e57857462c8eebad091420276fc9f6e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5e57857462c8eebad091420276fc9f6e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#identifier> "nf%20323-27-2" .
-<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#description> "bijschrift; 'Op den voorgrond het Roode meer, rechts op den achtergrond het Groene meer van Kalimoetoe met den rookenden sulfatoren'" .
-<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5e278e561a4789d8d854b02c4fc9f329> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5e473ba8c4ba63c4d72b6cdbba919275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5e473ba8c4ba63c4d72b6cdbba919275> <https://colonialcollections.nl/schema#identifier> "1873/06-1-6" .
 <https://n2t.net/ark:/27023/5e473ba8c4ba63c4d72b6cdbba919275> <https://colonialcollections.nl/schema#name> "Prins Willem II (1626-1650)" .

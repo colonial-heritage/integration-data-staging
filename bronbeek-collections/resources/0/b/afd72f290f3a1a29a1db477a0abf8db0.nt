@@ -6,6 +6,22 @@
 <https://n2t.net/ark:/27023/30e7be472d5abc1c0364e25cb44a5f15> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
 <https://n2t.net/ark:/27023/30e7be472d5abc1c0364e25cb44a5f15> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/30e7be472d5abc1c0364e25cb44a5f15> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/30e7be472d5abc1c0364e25cb44a5f15> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/261" .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#name> "Jas geklede tenue Algemene Politie Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#description> "Jas, model jas toetoep, van witte katoen gesloten met staande gesloten kraag. De jas wordt gesloten met zes afneembare metalen knopen. Vier zakken, twee op borsthoogte en twee ter hoogte van de heupen. De zakken zijn voorzien van een accoladevormige klep." .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#inscription> "VAN TONGEREN" .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#creator> "Stemmerik & Co, Den Haag-Soerabaja" .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-75" .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#name> "Tosarie. Gezicht op Kampoeng en Hotel Tosarie." .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Tosarie. Gezicht op Kampoeng en Hotel Tosarie." .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#creator> "J.M.Chs. Nijland" .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/30ec95d65d66b11dc29afba489ea46f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/30ec95d65d66b11dc29afba489ea46f9> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/27" .
 <https://n2t.net/ark:/27023/30ec95d65d66b11dc29afba489ea46f9> <https://colonialcollections.nl/schema#name> "Portret van Belle Denninghoff Stelling" .
@@ -13,6 +29,13 @@
 <https://n2t.net/ark:/27023/30ec95d65d66b11dc29afba489ea46f9> <https://colonialcollections.nl/schema#creator> "Henri de Louw" .
 <https://n2t.net/ark:/27023/30ec95d65d66b11dc29afba489ea46f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/30ec95d65d66b11dc29afba489ea46f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-9" .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#name> "W-12. Cornwallis Headquarters in Wilmington, North Carolina" .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W-12. Cornwallis Headquarters in Wilmington, North Carolina. [in kleurendruk]" .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#creator> "Service Merchandise Co." .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/30f9e1574d6cc069d9569bcde165e84b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/30f9e1574d6cc069d9569bcde165e84b> <https://colonialcollections.nl/schema#identifier> "nf%20836-40-2" .
 <https://n2t.net/ark:/27023/30f9e1574d6cc069d9569bcde165e84b> <https://colonialcollections.nl/schema#name> "Batoe Raden. 16.2.'29 Moeder en Dochter (de beroemde filmsterren). Echt, hè!" .
@@ -20,6 +43,13 @@
 <https://n2t.net/ark:/27023/30f9e1574d6cc069d9569bcde165e84b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/30f9e1574d6cc069d9569bcde165e84b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/30f9e1574d6cc069d9569bcde165e84b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/29" .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#name> "Huisje met gevlochten manden" .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). Huisje met gevlochten manden." .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3111ed2a688dacb29c63a4f94d049e2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3111ed2a688dacb29c63a4f94d049e2e> <https://colonialcollections.nl/schema#identifier> "nf%201358-10-2" .
 <https://n2t.net/ark:/27023/3111ed2a688dacb29c63a4f94d049e2e> <https://colonialcollections.nl/schema#name> "Aan de rand van de krater" .
@@ -78,13 +108,6 @@
 <https://n2t.net/ark:/27023/31276b7d996638846664bfa2ace1187a> <https://colonialcollections.nl/schema#inscription> "IV" .
 <https://n2t.net/ark:/27023/31276b7d996638846664bfa2ace1187a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/31276b7d996638846664bfa2ace1187a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/261" .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#name> "Jas geklede tenue Algemene Politie Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#description> "Jas, model jas toetoep, van witte katoen gesloten met staande gesloten kraag. De jas wordt gesloten met zes afneembare metalen knopen. Vier zakken, twee op borsthoogte en twee ter hoogte van de heupen. De zakken zijn voorzien van een accoladevormige klep." .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#inscription> "VAN TONGEREN" .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/311b035b7866f2ded56b4ec597476baa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/30e7504b7fbf65a07d5086e278bdc37d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/30e7504b7fbf65a07d5086e278bdc37d> <https://colonialcollections.nl/schema#identifier> "2008/04/03-1-5/25" .
 <https://n2t.net/ark:/27023/30e7504b7fbf65a07d5086e278bdc37d> <https://colonialcollections.nl/schema#name> "Tekening in aquarel op zwarte ondergrond, twee Duitse soldaten kijken toe terwijl gevangenen de Hitlergroet moeten uitbrengen" .
@@ -535,24 +558,6 @@
 <https://n2t.net/ark:/27023/312e0c331928f822e15a4aa6ca1d419d> <https://colonialcollections.nl/schema#description> "Foto, totaal 276 stuks zwart/wit, uit diensttijd Jan Warta bij 3de compagnie 3de bataljon 5de regiment infanterie (3-3-5 RI). September 1946 - 1950. Soerabaja." .
 <https://n2t.net/ark:/27023/312e0c331928f822e15a4aa6ca1d419d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/312e0c331928f822e15a4aa6ca1d419d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-75" .
-<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#name> "Tosarie. Gezicht op Kampoeng en Hotel Tosarie." .
-<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Tosarie. Gezicht op Kampoeng en Hotel Tosarie." .
-<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/30e7384970eac93d6b606b0af15c6e86> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-9" .
-<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#name> "W-12. Cornwallis Headquarters in Wilmington, North Carolina" .
-<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W-12. Cornwallis Headquarters in Wilmington, North Carolina. [in kleurendruk]" .
-<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/30f15085f5b2e64ebaa398a4b5bf10ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/29" .
-<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#name> "Huisje met gevlochten manden" .
-<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). Huisje met gevlochten manden." .
-<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3104c255b4c4fe754d1c74525e9060ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/30fca44a36e695f9f46470ceeec3b8ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/30fca44a36e695f9f46470ceeec3b8ed> <https://colonialcollections.nl/schema#identifier> "nf%20841-92-1" .
 <https://n2t.net/ark:/27023/30fca44a36e695f9f46470ceeec3b8ed> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, opgeplakt zonder fotohoekjes, zonder bijschrift.\r\n\r\nIn zwarte inkt bijgeschreven, geldend voor twee bovenste foto's: \"Op de uitkijk\"\r\n\r\nOpname van een aantal oudere mensen, dames en heren, duidelijk op z'n zondags gekleed, buiten op str" .

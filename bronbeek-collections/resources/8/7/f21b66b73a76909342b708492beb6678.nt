@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/73" .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#name> "Plaat 73. Bivak in 't bosch der officieren bij dj: Balö Loetoe." .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 73. Bivak in 't bosch der officieren bij dj: Balö Loetoe." .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#inscription> "Plaat 73. Bivak in 't bosch der officieren bij dj: Balö Loetoe." .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/38" .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#name> "Plaat 38. Padischuurtje in Koetö Lintang." .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#description> "Foto. Plaat 38. Padischuurtje in Koetö Lintang." .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#inscription> "Plaat 38. Padischuurtje in Koetö Lintang." .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f00aabc539cba5607cc8ba421f1a5ae7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f00aabc539cba5607cc8ba421f1a5ae7> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-157/2" .
 <https://n2t.net/ark:/27023/f00aabc539cba5607cc8ba421f1a5ae7> <https://colonialcollections.nl/schema#name> "Kabinetfoto van twee mannen en een vrouw" .
@@ -19,6 +35,14 @@
 <https://n2t.net/ark:/27023/f02014d47d9a61ecf26e9591ec2fd0cb> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/f02014d47d9a61ecf26e9591ec2fd0cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f02014d47d9a61ecf26e9591ec2fd0cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f02014d47d9a61ecf26e9591ec2fd0cb> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#identifier> "1938/02-6-1" .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#name> "Foto Koningin Wilhelmina" .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#description> "Foto in lijst" .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#creator> "G. de Groot" .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f0269494942945fc49c0b4ac1c01b8e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f0269494942945fc49c0b4ac1c01b8e7> <https://colonialcollections.nl/schema#identifier> "nf%20677-24" .
 <https://n2t.net/ark:/27023/f0269494942945fc49c0b4ac1c01b8e7> <https://colonialcollections.nl/schema#name> "Aap van het apenleger" .
@@ -26,6 +50,13 @@
 <https://n2t.net/ark:/27023/f0269494942945fc49c0b4ac1c01b8e7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f0269494942945fc49c0b4ac1c01b8e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f0269494942945fc49c0b4ac1c01b8e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-23/3" .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#name> "\"Extracting Oil from Cocoanuts, Colombo, Ceylon.\"" .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Extracting Oil from Cocoanuts, Colombo, Ceylon.\" , \"No.70. Copyright by Platé Ltd., Colombo.\"" .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#creator> "Platé Ltd" .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efef5c63c1abde3db24e1d12cfec315d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efef5c63c1abde3db24e1d12cfec315d> <https://colonialcollections.nl/schema#identifier> "nf%201909" .
 <https://n2t.net/ark:/27023/efef5c63c1abde3db24e1d12cfec315d> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, los aangetroffen tussen mogelijk pergamijnpapier.\r\n\r\nOpname toont een optocht. Centraal twee meisjes bij wie de gezichten wit zijn gemaakt. Zij zitten op een paard, waarvan de hoofden ook zijn versierd. Naast de witte gezichten dr" .
@@ -57,20 +88,6 @@
 <https://n2t.net/ark:/27023/f01fd3c5e417b6166778daa693509647> <https://colonialcollections.nl/schema#inscription> "Ter herinnering aan mijn diensttijd op Java" .
 <https://n2t.net/ark:/27023/f01fd3c5e417b6166778daa693509647> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f01fd3c5e417b6166778daa693509647> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/73" .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#name> "Plaat 73. Bivak in 't bosch der officieren bij dj: Balö Loetoe." .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 73. Bivak in 't bosch der officieren bij dj: Balö Loetoe." .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#inscription> "Plaat 73. Bivak in 't bosch der officieren bij dj: Balö Loetoe." .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eff4c8f6396a0f5605ce5d76b85c62a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/38" .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#name> "Plaat 38. Padischuurtje in Koetö Lintang." .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#description> "Foto. Plaat 38. Padischuurtje in Koetö Lintang." .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#inscription> "Plaat 38. Padischuurtje in Koetö Lintang." .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/effeb431db0ed10db01e876d5f6e70a7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/efefc9f8510e77443a5efab726f0eaea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efefc9f8510e77443a5efab726f0eaea> <https://colonialcollections.nl/schema#identifier> "2015/10/01-3-8/14" .
 <https://n2t.net/ark:/27023/efefc9f8510e77443a5efab726f0eaea> <https://colonialcollections.nl/schema#name> "Foto diensttijd Jan Boon" .
@@ -515,18 +532,6 @@
 <https://n2t.net/ark:/27023/f035a5f416c208dfa040eb0dca0ca91d> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië, periode 1945-1950." .
 <https://n2t.net/ark:/27023/f035a5f416c208dfa040eb0dca0ca91d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f035a5f416c208dfa040eb0dca0ca91d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#identifier> "1938/02-6-1" .
-<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#name> "Foto Koningin Wilhelmina" .
-<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#description> "Foto in lijst" .
-<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f02162adcb422611e3e7ddddac7ab26f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-23/3" .
-<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#name> "\"Extracting Oil from Cocoanuts, Colombo, Ceylon.\"" .
-<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Extracting Oil from Cocoanuts, Colombo, Ceylon.\" , \"No.70. Copyright by Platé Ltd., Colombo.\"" .
-<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f028915085e8301cd40b4b325397cc94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eff18eee78d8f2e086c1d10586a5322b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eff18eee78d8f2e086c1d10586a5322b> <https://colonialcollections.nl/schema#identifier> "nf%201309-3-3" .
 <https://n2t.net/ark:/27023/eff18eee78d8f2e086c1d10586a5322b> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ovaal geknipt, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een vrouw, met donker krullend haar, zittend op de grond. Zij is in lichte kleuren gekleed. Bij haar een paar ganzen.\r\n\r\nIn de vrouw is Ita Paats te herkennen." .

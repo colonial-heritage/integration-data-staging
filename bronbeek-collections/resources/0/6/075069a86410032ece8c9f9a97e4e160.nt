@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-308" .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#name> "Knopen dagelijkse tenue Algemene Politie Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#description> "Zes grote en zes kleine bronskleurige knopen, plat met staande rand en klimmende leeuw in schild met daarboven een kroon. Op de groete knopen PARREE HORST (L).\r\nGesp koper, klemgesp voor ceintuur bush jacket." .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#inscription> "PARREE HORST (L)" .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#creator> "Parree" .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dbb866ed6779de1eb4978777068fae12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dbb866ed6779de1eb4978777068fae12> <https://colonialcollections.nl/schema#identifier> "nf%20699-21" .
 <https://n2t.net/ark:/27023/dbb866ed6779de1eb4978777068fae12> <https://colonialcollections.nl/schema#name> "Goesti Pangeran Harjo Hadi-koesoemo" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/dbb866ed6779de1eb4978777068fae12> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/dbb866ed6779de1eb4978777068fae12> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dbb866ed6779de1eb4978777068fae12> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-885/8" .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#name> "Cabaret Fatamorgana, Colditz 1942/1943" .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#description> "Colditz, winter 1942/1943. Alle acteurs en regiseurs van het Nederlands cabaret Fatamorgana. Voorste rij, 5e van links de hoofdpersoon: Kapitein Mojet." .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <https://colonialcollections.nl/schema#identifier> "nf%201624-16" .
 <https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <https://colonialcollections.nl/schema#name> "Een tjoenia (prauw) in aanmaak op de rede van Soerabaja" .
@@ -12,6 +27,7 @@
 <https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dbc3dfc208774ef15378e047ba88416d> <https://colonialcollections.nl/schema#creator> "J.M.Chr. Nijland, Sociëteitstraat Soerabaia" .
 <https://n2t.net/ark:/27023/dbc862340385bbe9b1906444aa97be64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dbc862340385bbe9b1906444aa97be64> <https://colonialcollections.nl/schema#identifier> "S%204290" .
 <https://n2t.net/ark:/27023/dbc862340385bbe9b1906444aa97be64> <https://colonialcollections.nl/schema#name> "Topografische kaart van gebied ten noorden, westen en zuiden van Soemedang" .
@@ -32,6 +48,12 @@
 <https://n2t.net/ark:/27023/db9f00f80cb1baaccc51bf455240f6d4> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/db9f00f80cb1baaccc51bf455240f6d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db9f00f80cb1baaccc51bf455240f6d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#identifier> "nf%201014" .
+<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven, onderaan, 'foto Dr. P. Voorhoeve' \r\n\r\nDaarnaast is er een heel verhaal in inkt geschreven, dat luidt:\r\n'De sarcofaag te Aëk Godang, Foto Dr. P. " .
+<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#creator> "P. Voorhoeve" .
+<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dba7f597836820cc7941d47f5160f698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dba7f597836820cc7941d47f5160f698> <https://colonialcollections.nl/schema#identifier> "EDO%20622-31-2" .
 <https://n2t.net/ark:/27023/dba7f597836820cc7941d47f5160f698> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding van een jonge blanke vrouw, gekleed in donkere kleding met daarover een wit schort. Ook heeft zij een witte muts op. Zij staat zo te zien in grind met achter haar palmbomen.\r\nDaar w" .
@@ -75,13 +97,6 @@
 <https://n2t.net/ark:/27023/dbcc7804d9f4959e870b25e6b0f21f55> <https://colonialcollections.nl/schema#inscription> "Hans Bakkeren 30-7-1936 KPM Bat-C." .
 <https://n2t.net/ark:/27023/dbcc7804d9f4959e870b25e6b0f21f55> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dbcc7804d9f4959e870b25e6b0f21f55> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-308" .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#name> "Knopen dagelijkse tenue Algemene Politie Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#description> "Zes grote en zes kleine bronskleurige knopen, plat met staande rand en klimmende leeuw in schild met daarboven een kroon. Op de groete knopen PARREE HORST (L).\r\nGesp koper, klemgesp voor ceintuur bush jacket." .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#inscription> "PARREE HORST (L)" .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dba8876f90a760909a9c07a2a3d347f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db9a8c8e1644791956c5b80d4c7293aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db9a8c8e1644791956c5b80d4c7293aa> <https://colonialcollections.nl/schema#identifier> "2006/00-23-10/6" .
 <https://n2t.net/ark:/27023/db9a8c8e1644791956c5b80d4c7293aa> <https://colonialcollections.nl/schema#name> "Register met namen van inwoners van Bronbeek, aangelegd op 1-1-1969" .
@@ -526,12 +541,6 @@
 <https://n2t.net/ark:/27023/dbdf67ab21b89430deb09b03fba432ad> <https://colonialcollections.nl/schema#description> "Foto's uit diensttijd Nederland - Nederlands-Indië, periode 1945 - 1949.\r\nVliegtuigen, schepen en havens, Nederlandse militairen aan boord en aan land, met auto's, lokale bevolking, erebegraafplaats (Soerabaja), landschappen, stadsgezichten. Veel duplicat" .
 <https://n2t.net/ark:/27023/dbdf67ab21b89430deb09b03fba432ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dbdf67ab21b89430deb09b03fba432ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-885/8" .
-<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#name> "Cabaret Fatamorgana, Colditz 1942/1943" .
-<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#description> "Colditz, winter 1942/1943. Alle acteurs en regiseurs van het Nederlands cabaret Fatamorgana. Voorste rij, 5e van links de hoofdpersoon: Kapitein Mojet." .
-<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dbbd83eb544c9bc73bf468fa07863f44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dba468788b1857d887af6a3d6a6b1bc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dba468788b1857d887af6a3d6a6b1bc3> <https://colonialcollections.nl/schema#identifier> "nf%20899-150" .
 <https://n2t.net/ark:/27023/dba468788b1857d887af6a3d6a6b1bc3> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nOpname van een groepje blanke personen, staand in wat op een grasveld lijkt. Zij zijn bijna allen in het wit gekleed.\r\nHerkenbaar zijn twee personen, de man met het meisje voor zich. Zeer waarschijnlijk zijn dit de heer Kn" .
@@ -577,11 +586,6 @@
 <https://n2t.net/ark:/27023/dbe21a89bd3d30a7b3e7aec04d91f081> <https://colonialcollections.nl/schema#description> "Foto" .
 <https://n2t.net/ark:/27023/dbe21a89bd3d30a7b3e7aec04d91f081> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/dbe21a89bd3d30a7b3e7aec04d91f081> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#identifier> "nf%201014" .
-<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Met tape aan één kant op karton opgeplakt.\r\n\r\nAchter op foto in inkt geschreven, onderaan, 'foto Dr. P. Voorhoeve' \r\n\r\nDaarnaast is er een heel verhaal in inkt geschreven, dat luidt:\r\n'De sarcofaag te Aëk Godang, Foto Dr. P. " .
-<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/dba50d30707e763e6fbb50ba431835eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/dbbd5330c5cda5b477fbc79e56414a1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dbbd5330c5cda5b477fbc79e56414a1b> <https://colonialcollections.nl/schema#identifier> "S%20230-587" .
 <https://n2t.net/ark:/27023/dbbd5330c5cda5b477fbc79e56414a1b> <https://colonialcollections.nl/schema#name> "Model van een fuik" .

@@ -20,6 +20,13 @@
 <https://n2t.net/ark:/27023/b5f471f6c96a165a934a323f81f4080f> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau Batavia" .
 <https://n2t.net/ark:/27023/b5f471f6c96a165a934a323f81f4080f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b5f471f6c96a165a934a323f81f4080f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#identifier> "1890/05-2-3" .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#name> "Portret van sergeant der artillerie G.J. ter Woord, MWO-3, 2EV" .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#description> "Prent. Portret in passepartout.  Portret, borststuk naar links gekeerd. ter Woord in burgerkleding met 3 medailles op de borst. MWO, EBK met EV en 2 gespen en TD. Boven rechterschouder: 'R.Raab'" .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#creator> "R. Raap" .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b6034ed97d551ef7101c0f2ce4b03b0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b6034ed97d551ef7101c0f2ce4b03b0d> <https://colonialcollections.nl/schema#identifier> "nf%201830-4" .
 <https://n2t.net/ark:/27023/b6034ed97d551ef7101c0f2ce4b03b0d> <https://colonialcollections.nl/schema#name> "Haven van Soerabaja" .
@@ -27,6 +34,13 @@
 <https://n2t.net/ark:/27023/b6034ed97d551ef7101c0f2ce4b03b0d> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b6034ed97d551ef7101c0f2ce4b03b0d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b6034ed97d551ef7101c0f2ce4b03b0d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-1" .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#name> "Plaat A uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#description> "Tekening \"A\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1. Indonesian LMG Gunner, 10th Infantry Battalion, Palemba" .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#creator> "Adam Hook" .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b613bd42ed3a357d766be43aed2d78b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b613bd42ed3a357d766be43aed2d78b9> <https://colonialcollections.nl/schema#identifier> "2005/00-237" .
 <https://n2t.net/ark:/27023/b613bd42ed3a357d766be43aed2d78b9> <https://colonialcollections.nl/schema#name> "Schets van adjudant onderofficier le Portier" .
@@ -38,15 +52,34 @@
 <https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-1/4" .
 <https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. Onder beschermend vuur trachten de eerste mariniers de Kali over te steken" .
 <https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto: Voorlichtingsdienst 1e Mariniers Brigade, Luitenant H. Wilmar. \" Mariniers in Indië. Onder beschermend vuur trachten de eerste mariniers de Kali over te steken\". Gedrukt door \"Kolff SB\"." .
-<https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b6223a021434d9fb34d22226191744f2> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#identifier> "EDO%20481-68" .
+<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nDe foto toont Balinezen, mannen en vrouwen, tijdens een moment van rust. De centrale achtergrond is een verhoging waarop een witte houten st" .
+<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b5ea82d2f49fe9298b40e25bbd6a5e2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b5ea82d2f49fe9298b40e25bbd6a5e2b> <https://colonialcollections.nl/schema#identifier> "nf%201733-20" .
 <https://n2t.net/ark:/27023/b5ea82d2f49fe9298b40e25bbd6a5e2b> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant de gebruikelijke meegedrukte tekst voor een briefkaart zoals CARTE POSTALE.\r\n\r\nOpname toont woningen op palen boven water gebouwd. Op de voorgrond vegetatie met o.a. kok" .
 <https://n2t.net/ark:/27023/b5ea82d2f49fe9298b40e25bbd6a5e2b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b5ea82d2f49fe9298b40e25bbd6a5e2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b5ea82d2f49fe9298b40e25bbd6a5e2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#identifier> "nf%20323-19-1" .
+<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#description> "bijschrift; 'Meisje uit Kringga, Maoemere'" .
+<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#identifier> "nf%20581" .
+<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#description> "Panoramafoto, op de achterkant staat geschreven \r\n'Souvenir van Kedaton Den Pasar (Zuid-Bali) 9 maart 1929, oom Leo\r\ndit lijkt me een aardig souvenir van die dans die wij gezien hebben. Het zijn dezelfde personen die voor ons dansten'\r\nl.o. op de foto (st" .
+<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#creator> "Wallage" .
+<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b61023119d1027a6335be92386e561cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b61023119d1027a6335be92386e561cb> <https://colonialcollections.nl/schema#identifier> "nf%201621-46" .
 <https://n2t.net/ark:/27023/b61023119d1027a6335be92386e561cb> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grauw karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOpname toont een volwassen man, poserend voor de foto. Het is een man uit Nias, gekleed in mogelijk krijgstenue, maar het kan ook ceremoniele kledij " .
@@ -540,18 +573,6 @@
 <https://n2t.net/ark:/27023/b624fc48a19044a29c63c10f3128c183> <https://colonialcollections.nl/schema#description> "Foto´s. Zwart-wit. Totaal 157 stuks uit de periode 1946-1948 met betrekking tot de militaire aanwezigheid in Nederlands Indië.\r\nDeels voorzien van geschreven documentatie op achterzijde foto´s." .
 <https://n2t.net/ark:/27023/b624fc48a19044a29c63c10f3128c183> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b624fc48a19044a29c63c10f3128c183> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#identifier> "1890/05-2-3" .
-<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#name> "Portret van sergeant der artillerie G.J. ter Woord, MWO-3, 2EV" .
-<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#description> "Prent. Portret in passepartout.  Portret, borststuk naar links gekeerd. ter Woord in burgerkleding met 3 medailles op de borst. MWO, EBK met EV en 2 gespen en TD. Boven rechterschouder: 'R.Raab'" .
-<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b5f9533279cbafa451e3eced75373d72> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#identifier> "2018/07/06-2-1" .
-<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#name> "Plaat A uit \"Royal Netherlands East Indies Army 1936-1942\" publicatie (origineel)" .
-<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#description> "Tekening \"A\", op board gemaakt door Adam Hook voor de publicatie in de serie men-at-arms nr. 521 \"Royal Netherlands East Indies Army 1936-1942\" van Marc Lohnstein. Een uit een serie van 8 platen.\r\n1. Indonesian LMG Gunner, 10th Infantry Battalion, Palemba" .
-<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b6087354a8fcadb848111be2e1784f95> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b5edcf510c2961202a3008dd66215200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b5edcf510c2961202a3008dd66215200> <https://colonialcollections.nl/schema#identifier> "nf%201354-9-2" .
 <https://n2t.net/ark:/27023/b5edcf510c2961202a3008dd66215200> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen.\r\n\r\nOpname toont een twee blanke mannen in het wit en een vrouw, zittend op de grond. de beide mannen proosten elkaar toe, althans zo lijkt het.\r" .
@@ -577,21 +598,6 @@
 <https://n2t.net/ark:/27023/b606e56e45e8bef27e0584f2cc61c127> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit.\r\n\r\nBuitenopname van een viertal personen. Drie ervan zijn inheemse Indonesische mensen, twee mannen en een vrouw. De beide mannen zijn keurig gekleed, men mag wel zeggen 'europees' gekleed.\r\nDe zittende man draagt een donker " .
 <https://n2t.net/ark:/27023/b606e56e45e8bef27e0584f2cc61c127> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b606e56e45e8bef27e0584f2cc61c127> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#identifier> "EDO%20481-68" .
-<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nDe foto toont Balinezen, mannen en vrouwen, tijdens een moment van rust. De centrale achtergrond is een verhoging waarop een witte houten st" .
-<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b5e864fec51b1e965460dfa877f4a3cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#identifier> "nf%20323-19-1" .
-<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#description> "bijschrift; 'Meisje uit Kringga, Maoemere'" .
-<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b5ebe736930c17b071708fccf1291416> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#identifier> "nf%20581" .
-<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#description> "Panoramafoto, op de achterkant staat geschreven \r\n'Souvenir van Kedaton Den Pasar (Zuid-Bali) 9 maart 1929, oom Leo\r\ndit lijkt me een aardig souvenir van die dans die wij gezien hebben. Het zijn dezelfde personen die voor ons dansten'\r\nl.o. op de foto (st" .
-<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b60f0b21851a71f2d5d24e9a3516d6ee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b5ec2abe3420ec57aa9d2ec4cb95b211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b5ec2abe3420ec57aa9d2ec4cb95b211> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-2/43" .
 <https://n2t.net/ark:/27023/b5ec2abe3420ec57aa9d2ec4cb95b211> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

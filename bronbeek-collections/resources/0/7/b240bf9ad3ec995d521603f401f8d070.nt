@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/42" .
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#name> "Gezicht op Panggeranggo en Gedeh. Buitenzorg." .
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart.  Gezicht op Panggeranggo en Gedeh. Buitenzorg." .
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#creator> "Archipel Drukkerij en Boekhandel" .
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a585e19061493394e8544ac09ba6f40f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a585e19061493394e8544ac09ba6f40f> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/14-1" .
 <https://n2t.net/ark:/27023/a585e19061493394e8544ac09ba6f40f> <https://colonialcollections.nl/schema#name> "Foto´s Binnenlands Bestuur 1946-1949" .
@@ -21,9 +28,10 @@
 <https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#identifier> "nf%201640" .
 <https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met anderen.\r\n\r\nOp achterkant in inkt tekst: 'Tussen Fort de Kock en L. Sikaping'. Linksonder lichtpaars stempel met volgende tekst: UITGAVE PARKHOTEL - FORT DE KOCK-NADRUK VERBODEN'  \r\n\r\nOpname toont een bosrijk gebied m" .
-<https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
 <https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a588cebb4cf76e4ab30d2e6df97284b1> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/a5898f9c5e57c0db65d6b6b7b0afb3b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a5898f9c5e57c0db65d6b6b7b0afb3b3> <https://colonialcollections.nl/schema#identifier> "nf%20680-27" .
 <https://n2t.net/ark:/27023/a5898f9c5e57c0db65d6b6b7b0afb3b3> <https://colonialcollections.nl/schema#description> "Zeilboot in het water, vermoedelijk te Makassar\r\n\r\nOpmerking van eigenaar, mw. Brouwer-Gestman, bij foto: 'Makassaarse prauw'" .
@@ -477,12 +485,6 @@
 <https://n2t.net/ark:/27023/a5af764b714ee2369ab256620c8a3bdf> <https://colonialcollections.nl/schema#description> "Met haar versierde steeklans" .
 <https://n2t.net/ark:/27023/a5af764b714ee2369ab256620c8a3bdf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a5af764b714ee2369ab256620c8a3bdf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/42" .
-<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#name> "Gezicht op Panggeranggo en Gedeh. Buitenzorg." .
-<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart.  Gezicht op Panggeranggo en Gedeh. Buitenzorg." .
-<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a581502cf16fe762f9aa72abb84ba88a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a56b813a19636c293a789c3e29e63efb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a56b813a19636c293a789c3e29e63efb> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41871" .
 <https://n2t.net/ark:/27023/a56b813a19636c293a789c3e29e63efb> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tversteningen uit vruchten of dieren\r\nRubriek:\t(niet ingevoerd)\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2404\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2404] Kelder, verhuisdo" .
@@ -553,6 +555,12 @@
 <https://n2t.net/ark:/27023/a5ae15cde4931517d0239b5f4ed2fb2f> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tdolk & schede\r\nTitel:\trencong\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\thout, metaal, hoorn\r\n\tgesmeed\r\nEmailadres: toelichting:\tRencong met hoornen greep in de vorm van geopende dieen bek w" .
 <https://n2t.net/ark:/27023/a5ae15cde4931517d0239b5f4ed2fb2f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a5ae15cde4931517d0239b5f4ed2fb2f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#identifier> "2005/00-139" .
+<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#name> "Z:K:H: Prins van Oranje" .
+<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#creator> "P.H. v.d. Heuvel" .
+<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a57b1b02a969c48835ac6d0cb607f580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a57b1b02a969c48835ac6d0cb607f580> <https://colonialcollections.nl/schema#identifier> "S%20230-832" .
 <https://n2t.net/ark:/27023/a57b1b02a969c48835ac6d0cb607f580> <https://colonialcollections.nl/schema#name> "Model van een Minahasa vissersvaartuig, sope gepe" .
@@ -563,11 +571,6 @@
 <https://n2t.net/ark:/27023/a598e2cc9073879a9721c5c537225faa> <https://colonialcollections.nl/schema#name> "Orde van Moeder Heldin, Rusland (Unie van Socialistische Sovjet Republieken), versiersel" .
 <https://n2t.net/ark:/27023/a598e2cc9073879a9721c5c537225faa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a598e2cc9073879a9721c5c537225faa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#identifier> "2005/00-139" .
-<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#name> "Z:K:H: Prins van Oranje" .
-<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a5674a6c9106f42c52f19842003f1f25> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a57d7acd115a2d8b019eeab9d184ec5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a57d7acd115a2d8b019eeab9d184ec5a> <https://colonialcollections.nl/schema#identifier> "S%20451-1277" .
 <https://n2t.net/ark:/27023/a57d7acd115a2d8b019eeab9d184ec5a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

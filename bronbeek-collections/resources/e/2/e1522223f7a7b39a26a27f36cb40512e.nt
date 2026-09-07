@@ -1,3 +1,17 @@
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#identifier> "1994/06/20-2-3/1" .
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#name> "Foto van 10 militairen voor de Kota Baroe" .
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#description> "Foto. 10 militairen voor de Kota Baroe.\r\n2002: Uitgelijst.\r\nZwart-wit foto. Op achterzijde stempel in rode inkt: \"Algemeen Foto-Persbureau H.v.Langelaar Copyright te Middellandstraat 126 - Rotterdam te. 34268 Giro 405145\"\r\n2e van links: Pelleboer, 5e van " .
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#creator> "Algemeen Foto-Persbureau H. van Langelaar" .
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/20" .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#name> "Portret van" .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven potlood) Zijn dit Henri en Willem v. Delden\r\nVerso: Photographie, P. Weynen & Fils, Rue du Casque 1776,\r\nMaestricht, les clichés sont conservés.\r\nRecto: P. Weynen & Fils, Maestric" .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#creator> "P.Weynen & Fils Maestricht" .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/53ed43162199eb8bf9fa53c283f4b7d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/53ed43162199eb8bf9fa53c283f4b7d3> <https://colonialcollections.nl/schema#identifier> "2006/00-42-738/10" .
 <https://n2t.net/ark:/27023/53ed43162199eb8bf9fa53c283f4b7d3> <https://colonialcollections.nl/schema#name> "Overgave commando Koloniale Reserve, Namens het geheele personeel van de Koloniale Reserve wordt den overste Barendsen een foto-album betreffende het korps overhandigd. 1 december 1931" .
@@ -9,10 +23,24 @@
 <https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#identifier> "nf%20316" .
 <https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#name> "Wayang Wong Ontoseno" .
 <https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#description> "Ansichtkaart 'Wajang wong \"Ontoseno\"\r\n\r\nmet gedeelde achterkant\r\n\"de Gedeh\" Weltevreden\r\nNadruk verboden\r\n2 exemplaren waarvan een geadresseerd 'voor Jopie'" .
-<https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#creator> "Apotheek \"De Gedeh\"" .
 <https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#creator> "Apotheek \"De Gedeh\"" .
+<https://n2t.net/ark:/27023/53f36712a7d1ac8650402db36a45287e> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#identifier> "nf%201621-17" .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#name> "Zingende Maluajadansers, Nias" .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht bruin karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: ZINGENDE MALUAJADANSERS, NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\n" .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-7" .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#name> "Stafkaart, Zuid-Sumatra, overzichtskaart" .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#description> "Kaartblad van Zuid-Sumatra, overzichtskaart. Op kaart is afgebeeld: residentie Padangsche Benedenlanden, Bengkoelen, Lampongsche distrikten en Palembang.\r\nSchaal 1:900.000\r\nLinksonder: kaart van Sumatra, \"aangevende de spoorweg- tramweg- telegraaf- en tel" .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5404393a7f705ce48577be4c0276e4ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5404393a7f705ce48577be4c0276e4ee> <https://colonialcollections.nl/schema#identifier> "nf%201413-237" .
 <https://n2t.net/ark:/27023/5404393a7f705ce48577be4c0276e4ee> <https://colonialcollections.nl/schema#name> "Papaja" .
@@ -500,30 +528,6 @@
 <https://n2t.net/ark:/27023/54245a41160c894799f8a0c277ea0b52> <https://colonialcollections.nl/schema#description> "Propaganda luciferdoos deksel. Deksel is losgesneden van het luciferdoosje." .
 <https://n2t.net/ark:/27023/54245a41160c894799f8a0c277ea0b52> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/54245a41160c894799f8a0c277ea0b52> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#identifier> "1994/06/20-2-3/1" .
-<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#name> "Foto van 10 militairen voor de Kota Baroe" .
-<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#description> "Foto. 10 militairen voor de Kota Baroe.\r\n2002: Uitgelijst.\r\nZwart-wit foto. Op achterzijde stempel in rode inkt: \"Algemeen Foto-Persbureau H.v.Langelaar Copyright te Middellandstraat 126 - Rotterdam te. 34268 Giro 405145\"\r\n2e van links: Pelleboer, 5e van " .
-<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/53e6c22eeed97ed463b7a57550f54393> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/20" .
-<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#name> "Portret van" .
-<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven potlood) Zijn dit Henri en Willem v. Delden\r\nVerso: Photographie, P. Weynen & Fils, Rue du Casque 1776,\r\nMaestricht, les clichés sont conservés.\r\nRecto: P. Weynen & Fils, Maestric" .
-<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/53ecfa1245608d74834ef5641b7155c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#identifier> "nf%201621-17" .
-<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#name> "Zingende Maluajadansers, Nias" .
-<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht bruin karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: ZINGENDE MALUAJADANSERS, NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\n" .
-<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/53fec8a1db67f125d1406eaf32ec4e59> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-7" .
-<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#name> "Stafkaart, Zuid-Sumatra, overzichtskaart" .
-<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#description> "Kaartblad van Zuid-Sumatra, overzichtskaart. Op kaart is afgebeeld: residentie Padangsche Benedenlanden, Bengkoelen, Lampongsche distrikten en Palembang.\r\nSchaal 1:900.000\r\nLinksonder: kaart van Sumatra, \"aangevende de spoorweg- tramweg- telegraaf- en tel" .
-<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5402ceeb5ead4a552a910a2c869789fb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/53eb119baa2d385c3eb6f6d14056ce27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/53eb119baa2d385c3eb6f6d14056ce27> <https://colonialcollections.nl/schema#identifier> "1996/05/02-1-5/33" .
 <https://n2t.net/ark:/27023/53eb119baa2d385c3eb6f6d14056ce27> <https://colonialcollections.nl/schema#description> "Foto." .

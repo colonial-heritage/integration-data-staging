@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#identifier> "1989/01/01-2-4" .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#name> "54. Djokjakarta. Een der Poorten van den Kraton" .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#description> "Schoolplaat. \r\n54. Djokjakarta. Een der Poorten van den Kraton. Gereproduceerd door Kleynenberg en Co, Haarlem. In goede staat." .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#inscription> "54. Djokjakarta. Een der Poorten van den Kraton" .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c87edf6e1d2568b68ee47c27884b6e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c87edf6e1d2568b68ee47c27884b6e0> <https://colonialcollections.nl/schema#identifier> "nf%20693-9" .
 <https://n2t.net/ark:/27023/0c87edf6e1d2568b68ee47c27884b6e0> <https://colonialcollections.nl/schema#name> "Kloof Haran" .
@@ -26,13 +34,37 @@
 <https://n2t.net/ark:/27023/0c9e3e169fedbaa43e16b7e00b7ad4c4> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0c9e3e169fedbaa43e16b7e00b7ad4c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c9e3e169fedbaa43e16b7e00b7ad4c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#identifier> "S%204257" .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#name> "Stafkaart van Tjikalong-Wetan (West-Java)" .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#description> "Amerikaanse stafkaart, van oorsprong Nederlands, van Tjikalong-Wetan (West-Java)\r\n\r\nschaal 1 : 50.000\r\n\r\n1ste druk" .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#creator> "U.S.Army" .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#creator> "Survey of India Offices" .
 <https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#identifier> "nf%201638-2" .
 <https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#name> "Karbouwengat" .
 <https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met anderen.\r\n\r\nOp achterkant in inkt tekst: 'Karbouwengat Sum. Westkust'. Rechtsonder lichtpaars stempel met volgende tekst: UITGAVE PARKHOTEL - FORT DE KOCK - NADSRUK VERBODEN' \r\n\r\nOpname toont een rivier waar op de voo" .
-<https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#creator> "Park Hotel, Fort de Kock" .
 <https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ca58492215129c31a4281800bb4f904> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#identifier> "S%204252A" .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#name> "West-Java en voor de Residentie-hoofdplaatsen van geheel Java" .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#description> "Informatietabellen over afstanden op Java en Madoera.\r\n\r\n3e verbeterde druk" .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#creator> "Koninklijke Vereeniging Java Motor Club" .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#creator> "De Boer" .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#identifier> "2005/10/30-1-7" .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#name> "Pemboekan Shiong Tih Hui voetbalveld Djember 22 juli 1933" .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#description> "Foto in lijst. \"Pemboekan Shiong Tih Hui voetbalveld Djember 22 juli 1933\"\r\n3 foto´s: foto van officiële opening, 2 foto´s van 4 voetbalteams." .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#creator> "Foto Luxor" .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cb2946d1680c25348bc4348ec59f689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cb2946d1680c25348bc4348ec59f689> <https://colonialcollections.nl/schema#identifier> "nf%201413-244" .
 <https://n2t.net/ark:/27023/0cb2946d1680c25348bc4348ec59f689> <https://colonialcollections.nl/schema#name> "Jongetje bij een prauw" .
@@ -40,6 +72,13 @@
 <https://n2t.net/ark:/27023/0cb2946d1680c25348bc4348ec59f689> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/0cb2946d1680c25348bc4348ec59f689> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0cb2946d1680c25348bc4348ec59f689> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/1" .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met echtgenote Ch. Marburg in riksja tussen e" .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#creator> "Fotopersbureau \"Hendriksen-Valk\"" .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cb756f1da0b899047ad3a3a0eea1eb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cb756f1da0b899047ad3a3a0eea1eb7> <https://colonialcollections.nl/schema#identifier> "2001/00-53-27" .
 <https://n2t.net/ark:/27023/0cb756f1da0b899047ad3a3a0eea1eb7> <https://colonialcollections.nl/schema#name> "Kamplatrine korvee - Aek Pamienke" .
@@ -53,6 +92,8 @@
 <https://n2t.net/ark:/27023/0c7ef378d843eb42e96ad176956efb6a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0c7ef378d843eb42e96ad176956efb6a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c7ef378d843eb42e96ad176956efb6a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0c7ef378d843eb42e96ad176956efb6a> <https://colonialcollections.nl/schema#creator> "British Museum (London)" .
+<https://n2t.net/ark:/27023/0c7ef378d843eb42e96ad176956efb6a> <https://colonialcollections.nl/schema#creator> "Henry Stone & Son (Printers) Ltd., Banbury, England" .
 <https://n2t.net/ark:/27023/0c9108280f35d56957ab413646642c8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c9108280f35d56957ab413646642c8c> <https://colonialcollections.nl/schema#identifier> "nf%20836-22-1" .
 <https://n2t.net/ark:/27023/0c9108280f35d56957ab413646642c8c> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zwart/wit, slechts gedeeltelijk vastgeplakt.\r\nGeen tekst op achterkant foto.\r\n\r\nZonder onderschrift.\r\n\r\nDeze vakantiefoto toont een volwassen man en een kind, zittend in een roeiboot, beide trekkend aan een riem.\r\n\r\nBeide personen zijn " .
@@ -99,13 +140,6 @@
 <https://n2t.net/ark:/27023/0c9baa77bc508002b4a7122cfc096846> <https://colonialcollections.nl/schema#inscription> "30758; Oflag XIII B Teillager zb.V." .
 <https://n2t.net/ark:/27023/0c9baa77bc508002b4a7122cfc096846> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0c9baa77bc508002b4a7122cfc096846> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#identifier> "1989/01/01-2-4" .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#name> "54. Djokjakarta. Een der Poorten van den Kraton" .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#description> "Schoolplaat. \r\n54. Djokjakarta. Een der Poorten van den Kraton. Gereproduceerd door Kleynenberg en Co, Haarlem. In goede staat." .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#inscription> "54. Djokjakarta. Een der Poorten van den Kraton" .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0c9be1ef558085f7771788830a7b6170> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c6fde6f0fb481dda9768265eccab3e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c6fde6f0fb481dda9768265eccab3e1> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-25/21" .
 <https://n2t.net/ark:/27023/0c6fde6f0fb481dda9768265eccab3e1> <https://colonialcollections.nl/schema#name> "Andir theater" .
@@ -544,30 +578,6 @@
 <https://n2t.net/ark:/27023/0cb74ca2ab963b56166ff0f16025148e> <https://colonialcollections.nl/schema#description> "Foto, totaal 276 stuks zwart/wit, uit diensttijd Jan Warta bij 3de compagnie 3de bataljon 5de regiment infanterie (3-3-5 RI). September 1946 - 1950. Soerabaja." .
 <https://n2t.net/ark:/27023/0cb74ca2ab963b56166ff0f16025148e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0cb74ca2ab963b56166ff0f16025148e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#identifier> "S%204257" .
-<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#name> "Stafkaart van Tjikalong-Wetan (West-Java)" .
-<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#description> "Amerikaanse stafkaart, van oorsprong Nederlands, van Tjikalong-Wetan (West-Java)\r\n\r\nschaal 1 : 50.000\r\n\r\n1ste druk" .
-<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ca34b0691c06e7e6ae66669f7394fc4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#identifier> "S%204252A" .
-<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#name> "West-Java en voor de Residentie-hoofdplaatsen van geheel Java" .
-<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#description> "Informatietabellen over afstanden op Java en Madoera.\r\n\r\n3e verbeterde druk" .
-<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ca7e0c5fc0c8b04252d62ee64625725> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#identifier> "2005/10/30-1-7" .
-<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#name> "Pemboekan Shiong Tih Hui voetbalveld Djember 22 juli 1933" .
-<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#description> "Foto in lijst. \"Pemboekan Shiong Tih Hui voetbalveld Djember 22 juli 1933\"\r\n3 foto´s: foto van officiële opening, 2 foto´s van 4 voetbalteams." .
-<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0cb21bb325cda3ec3abfa078949460d7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-132/1" .
-<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#name> "Foto eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië" .
-<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië te Den Haag. De voormalig gouverneur-generaal van Nederlands-Indië jhr. A.W.L. Tjarda van Starkenborch Stachouwer met echtgenote Ch. Marburg in riksja tussen e" .
-<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0cb3b0933722ec103ebb2763f10b717e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0c76f06d5b85ff192434d42a618aa6e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0c76f06d5b85ff192434d42a618aa6e7> <https://colonialcollections.nl/schema#identifier> "S%20171-9" .
 <https://n2t.net/ark:/27023/0c76f06d5b85ff192434d42a618aa6e7> <https://colonialcollections.nl/schema#description> "Prehistorische stenen bijl.\r\nDeze stenen bijlen werden later met godsdienstige eerbied beschouwd en bij plechtigheden als waardigheidsteken van vorsten gebruikt. Ze worden 'gigi goentoer' (dondertanden), 'batoe gilap' of 'batoe kilat' (bliksemstenen) geno" .

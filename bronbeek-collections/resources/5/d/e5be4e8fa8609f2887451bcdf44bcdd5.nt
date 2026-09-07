@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#identifier> "2002/00-33/9" .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#name> "17. Atjèhers. (Noord-Sumatra)" .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n17. Atjèhers. (Noord-Sumatra)" .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#inscription> "17. Atjèhers. (Noord-Sumatra)" .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c627597a05074b0ca343154d3373d8da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c627597a05074b0ca343154d3373d8da> <https://colonialcollections.nl/schema#identifier> "2000/09/07-4-6" .
 <https://n2t.net/ark:/27023/c627597a05074b0ca343154d3373d8da> <https://colonialcollections.nl/schema#name> "Soerabaja, Darmoplein" .
@@ -16,10 +24,10 @@
 <https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#identifier> "nf%201365-2" .
 <https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#name> "Uitstapjes naar de waterval met Fransje" .
 <https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#description> "Film op zwarte spoel, in rond blikken doosje met deksel. Op deksel is een rond etiket geplakt met in getypte hoofdletters de 2 titels, waarvan beelden op de film staan.\r\nDeze tekst luidt: 'VACANTIE TE NONGKODJADJAR JUNI 1935, UITSTAPJES NAAR DEN WATERVAL " .
-<https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/c636c7f018b97351137c0dfdee169e56> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/c658c1d7b3609e032d659bc389a9efd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c658c1d7b3609e032d659bc389a9efd9> <https://colonialcollections.nl/schema#identifier> "nf%20619-9" .
 <https://n2t.net/ark:/27023/c658c1d7b3609e032d659bc389a9efd9> <https://colonialcollections.nl/schema#name> "Monument ter ere van de gevallenen op Lombok" .
@@ -72,13 +80,6 @@
 <https://n2t.net/ark:/27023/c63f0dcc12227e0611573d0bfe6ca66a> <https://colonialcollections.nl/schema#inscription> "Zweers (bodem)" .
 <https://n2t.net/ark:/27023/c63f0dcc12227e0611573d0bfe6ca66a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c63f0dcc12227e0611573d0bfe6ca66a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#identifier> "2002/00-33/9" .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#name> "17. Atjèhers. (Noord-Sumatra)" .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n17. Atjèhers. (Noord-Sumatra)" .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#inscription> "17. Atjèhers. (Noord-Sumatra)" .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c61db611269ec198d0b0064afd808cdc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c619a86fa127182fe4bc96d70ef43a2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c619a86fa127182fe4bc96d70ef43a2f> <https://colonialcollections.nl/schema#identifier> "1863/10-1-13" .
 <https://n2t.net/ark:/27023/c619a86fa127182fe4bc96d70ef43a2f> <https://colonialcollections.nl/schema#name> "Bamboe lans" .

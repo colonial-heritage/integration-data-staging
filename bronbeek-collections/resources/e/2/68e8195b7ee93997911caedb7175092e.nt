@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#identifier> "2006/00-52-5" .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#name> "Javaansche Verkoopers. Orang djoewalan." .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Javaansche Verkoopers. Orang djoewalan. Met Nederlandse vlag." .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#inscription> "Javaansche Verkoopers. Orang djoewalan." .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#creator> "F.J.Rauch" .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#creator> "G. Degert" .
 <https://n2t.net/ark:/27023/6f59738a4da6934fee9d64dbfdf51690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6f59738a4da6934fee9d64dbfdf51690> <https://colonialcollections.nl/schema#identifier> "1910/10/01-2/21" .
 <https://n2t.net/ark:/27023/6f59738a4da6934fee9d64dbfdf51690> <https://colonialcollections.nl/schema#name> "Nr. 21. De rivier-batterij, uit ´Vierendertig gezichten op Atjeh´" .
@@ -11,9 +20,19 @@
 <https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#name> "Protestantse kerk - Soerabaia" .
 <https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Protestantse kerk - Soerabaia.\r\nOp achterzijde in pen: \"Met hart. groeten en beste wenschen [koedood] v/d Linde\"\r\nAan: \"Den Heer v. Mourik, Zestienhovenschekade 501, Overschie/Rotterdam, Holland.\"\r\nPostzegel niet meer aanwezig." .
 <https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#inscription> "Protestantse kerk - Soerabaia" .
-<https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#creator> "Nicola Draculic" .
 <https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f5e1b2692786b9bc05e4cfa8a200ec0> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#identifier> "2008/11/24-1" .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#name> "Aanval op Djaga-Raga (Bali) in 1849, naar een tekening van E. Hardouin" .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#description> "Prent. Lithografie in lijst van de Aanval op Djaga-Raga (Bali) in 1849. Naar een tekening van E. Hardouin." .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#inscription> "Aanval op Djaga-Raga (Bali) in 1849" .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#creator> "I.D. Steuerwald" .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#creator> "Albertus Anthonius Nunnink" .
 <https://n2t.net/ark:/27023/6f33833051219ab210fb91fde53ed448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6f33833051219ab210fb91fde53ed448> <https://colonialcollections.nl/schema#identifier> "nf%201361-2" .
 <https://n2t.net/ark:/27023/6f33833051219ab210fb91fde53ed448> <https://colonialcollections.nl/schema#name> "Voor het eerst uit" .
@@ -36,6 +55,13 @@
 <https://n2t.net/ark:/27023/6f3c6d4fc597109d7f717f9c820d14ef> <https://colonialcollections.nl/schema#creator> "J. Gabriëlse" .
 <https://n2t.net/ark:/27023/6f3c6d4fc597109d7f717f9c820d14ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6f3c6d4fc597109d7f717f9c820d14ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/202" .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Buitenzorg, Java, Nederlands-Indië. Foto van: Groet uit Buitenzorg. No. 57. Riviergezicht Kota Batoe." .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6f46425d73693e96b48caf48ca78f3ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6f46425d73693e96b48caf48ca78f3ab> <https://colonialcollections.nl/schema#identifier> "nf%201358-13-2" .
 <https://n2t.net/ark:/27023/6f46425d73693e96b48caf48ca78f3ab> <https://colonialcollections.nl/schema#name> "Kratermeer" .
@@ -57,6 +83,36 @@
 <https://n2t.net/ark:/27023/6f5a0f2318c9dd226d5c5cd48e6d6698> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6f5a0f2318c9dd226d5c5cd48e6d6698> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6f5a0f2318c9dd226d5c5cd48e6d6698> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f5a0f2318c9dd226d5c5cd48e6d6698> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#identifier> "nf%201621-9" .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#name> "Krijgsdans in Bawodabaro, Zuid Nias" .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: KRIJGSDANS IN BAWODABARO, Z.NIAS 1930 - rechts FOTO M.FRANCKEN, BONNET\r\n\r\nOpname toont een grote groep" .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#creator> "M. Francken" .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-22" .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#name> "Het achternazitten van kippen van de lokale bevolking tijdens het patrouilleren" .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#description> "Het achternazitten van kippen van de lokale bevolking tijdens het patrouilleren. 19 december 1948" .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/136" .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Militairen in gelid met muziekkorps er voor." .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#identifier> "2017/02/23-1-3/19" .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië" .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#description> "Foto zwart-wit diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië. 54 stuks. 2 Hulpverbandplaatsafdeling (2 HPVA).\r\nVerso: \"22 Juli '47 Krawang. Tussen Tjikarang en Krawang liep een trein met oprukkende troepen op een T.N.I. locomotief.\" Ravage " .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#creator> "Foto Schreuder" .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6f32d3bfbc04be8b9f6057f6dbed1489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6f32d3bfbc04be8b9f6057f6dbed1489> <https://colonialcollections.nl/schema#identifier> "nf%201082a" .
 <https://n2t.net/ark:/27023/6f32d3bfbc04be8b9f6057f6dbed1489> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los.\r\nOp achterkant een nummer in inkt 6672\r\n\r\nEveneens op de achterkant, in inkt geschreven, de namen van van elke persoon op de foto, per rij aangegeven. Deze namen zijn gescanned en geregistreerd onder nummer \r\nnf 1082b\r\n\r" .
@@ -123,20 +179,6 @@
 <https://n2t.net/ark:/27023/6f613aef22a4872b0b51177034a80bdd> <https://colonialcollections.nl/schema#inscription> "10" .
 <https://n2t.net/ark:/27023/6f613aef22a4872b0b51177034a80bdd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6f613aef22a4872b0b51177034a80bdd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#identifier> "2006/00-52-5" .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#name> "Javaansche Verkoopers. Orang djoewalan." .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door F.J. Rauch te Bandoeng. Kleurendruk van een schildering van G. Degert, voorstellende Javaansche Verkoopers. Orang djoewalan. Met Nederlandse vlag." .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#inscription> "Javaansche Verkoopers. Orang djoewalan." .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f3b760bb58e1db666fa038423029a0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#identifier> "2008/11/24-1" .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#name> "Aanval op Djaga-Raga (Bali) in 1849, naar een tekening van E. Hardouin" .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#description> "Prent. Lithografie in lijst van de Aanval op Djaga-Raga (Bali) in 1849. Naar een tekening van E. Hardouin." .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#inscription> "Aanval op Djaga-Raga (Bali) in 1849" .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f626b270b8a33fc10e4874413c11ce0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6f308199c4771e7f16577b7b0a3bb91b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6f308199c4771e7f16577b7b0a3bb91b> <https://colonialcollections.nl/schema#identifier> "2006/11/28-1" .
 <https://n2t.net/ark:/27023/6f308199c4771e7f16577b7b0a3bb91b> <https://colonialcollections.nl/schema#name> "Krantenartikel over jager P.F. Doon gesneuveld" .
@@ -503,36 +545,6 @@
 <https://n2t.net/ark:/27023/6f69f917f3c3a17578946fddd3ce9658> <https://colonialcollections.nl/schema#description> "Foto uit Nederlands Indië van mevrouw J. Potman uit doos met 140 losse foto´s, familiefoto´s (waaronder een aantal zwaar beschadigde foto's) + 1 ferrotypie." .
 <https://n2t.net/ark:/27023/6f69f917f3c3a17578946fddd3ce9658> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6f69f917f3c3a17578946fddd3ce9658> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/202" .
-<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Buitenzorg, Java, Nederlands-Indië. Foto van: Groet uit Buitenzorg. No. 57. Riviergezicht Kota Batoe." .
-<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f3fc077b99c7670d0153f8deab4ec2b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#identifier> "nf%201621-9" .
-<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#name> "Krijgsdans in Bawodabaro, Zuid Nias" .
-<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: KRIJGSDANS IN BAWODABARO, Z.NIAS 1930 - rechts FOTO M.FRANCKEN, BONNET\r\n\r\nOpname toont een grote groep" .
-<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f6558af4f8a5536de67589688ecc6c8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-22" .
-<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#name> "Het achternazitten van kippen van de lokale bevolking tijdens het patrouilleren" .
-<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#description> "Het achternazitten van kippen van de lokale bevolking tijdens het patrouilleren. 19 december 1948" .
-<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f6622c507ef0ace2252c72d867e7e11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#identifier> "2017/03/17-3-3/136" .
-<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
-<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Militairen in gelid met muziekkorps er voor." .
-<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f67c75d230ee40789c6e62e3a89de7a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#identifier> "2017/02/23-1-3/19" .
-<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië" .
-<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#description> "Foto zwart-wit diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië. 54 stuks. 2 Hulpverbandplaatsafdeling (2 HPVA).\r\nVerso: \"22 Juli '47 Krawang. Tussen Tjikarang en Krawang liep een trein met oprukkende troepen op een T.N.I. locomotief.\" Ravage " .
-<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6f6a10edccae448e9c6660dd5b7ae4b1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6f31379860c1040474a9b6fbc425b8ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6f31379860c1040474a9b6fbc425b8ba> <https://colonialcollections.nl/schema#identifier> "S%20216-29" .
 <https://n2t.net/ark:/27023/6f31379860c1040474a9b6fbc425b8ba> <https://colonialcollections.nl/schema#description> "IJzeren lemmet; rug licht concaaf; snede convex. Greep van gegroefd hertshoorn; cilindrisch en licht gebogen. De schede is van hout en is aan het uiteinde licht gekromd. Onder de bovenrand is een rotan vlechtband om de schede gezet. Daaronder een brede ba" .

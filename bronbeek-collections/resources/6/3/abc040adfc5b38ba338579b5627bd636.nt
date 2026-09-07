@@ -1,3 +1,17 @@
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#identifier> "2005/09/16-4-1/1" .
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#name> "Groot ambtskostuum controleur Europees Bestuur" .
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#description> "Ambtskostuum, groot kostuum bestaande uit een rok met pantalon. De gesloten rok is van donkerblauw laken met staande gesloten kraag en opgestikte driepuntige zakkleppen. De rok is gevoerd met zwarte zijde. De rok wordt gesloten met haak en oog. Op de rok " .
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#creator> "W. Savelkoul, Djocjakarta" .
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/5" .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#name> "Gezinsportret november 1913" .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"[ ] november 1913 Madioen\"\r\nGezinsportret op veranda, man, vrouw en dochter.\r\nRechterzijde aangetast door vocht." .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#creator> "D. Huppe" .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f74d30c4152f786d46407da97577b4b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f74d30c4152f786d46407da97577b4b5> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/14-4" .
 <https://n2t.net/ark:/27023/f74d30c4152f786d46407da97577b4b5> <https://colonialcollections.nl/schema#name> "Foto´s Binnenlands Bestuur 1946-1949" .
@@ -12,13 +26,22 @@
 <https://n2t.net/ark:/27023/f75188a8e13525a07829fd5523241621> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/f75188a8e13525a07829fd5523241621> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f75188a8e13525a07829fd5523241621> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f75188a8e13525a07829fd5523241621> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-5/3" .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#name> "Oude Batakse vrouw Bataklanden 1920-1930" .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart: Batakse vrouw. Bataklanden 1920-1930.Sumatra´s Oostkust.\r\n1 lange zijde geperforeerd (2x)" .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#creator> "Asahi & Co. Medan and Brastagi O.K.S." .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#identifier> "S%206245-55" .
 <https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#name> "bamboe" .
 <https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Bamboe.\r\nRechts onder: Lichtdruk van H. Kleinmann & Co., te Haarlem\r\n\r\nDe opname toont een bamboestoel met redeli" .
-<https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f7546345209819153e368f3a179e3eae> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f766c862af94e9d8857ed189437c34db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f766c862af94e9d8857ed189437c34db> <https://colonialcollections.nl/schema#identifier> "nf%20912" .
 <https://n2t.net/ark:/27023/f766c862af94e9d8857ed189437c34db> <https://colonialcollections.nl/schema#name> "Overbrugging der Bogowonto-rivier" .
@@ -26,6 +49,12 @@
 <https://n2t.net/ark:/27023/f766c862af94e9d8857ed189437c34db> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f766c862af94e9d8857ed189437c34db> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f766c862af94e9d8857ed189437c34db> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#identifier> "nf%201355-28" .
+<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, voor de helft met lijm in album geplakt.\r\nTekst op achterkant.\r\n\r\nGestempeld: 'Nadruk verboden, ingevolge bepalingen Auteurswet (Ststbl. 1912 No. 600)'\r\n'MEIJSTER'S FOTOHANDEL MEDAN'\r\nGeschreven in inkt: 'Feestelijkheden Kron" .
+<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#creator> "MEIJSTERS FOTO-HANDEL" .
+<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f73141f07e47020d81656423e1840fda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f73141f07e47020d81656423e1840fda> <https://colonialcollections.nl/schema#identifier> "nf%201733-18" .
 <https://n2t.net/ark:/27023/f73141f07e47020d81656423e1840fda> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant de gebruikelijke meegedrukte tekst voor een briefkaart zoals CARTE POSTALE.\r\n\r\nOpname toont een nederzetting, een groepje woningen op palen boven water gebouwd. Links de" .
@@ -44,6 +73,12 @@
 <https://n2t.net/ark:/27023/f7668ee1970e3988cbdaed0f18c0c37f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f7668ee1970e3988cbdaed0f18c0c37f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f7668ee1970e3988cbdaed0f18c0c37f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#identifier> "EDO%20481-32" .
+<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een landschap. De voorgrond wordt gevormd door landbouwgrondpercelen. De achtergrond is een vulkaan, krater goed te zien. Mogelijk betreft het hier de vulkaan Batoer (Batur).\r\n\r\nOp de pagin" .
+<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f7356bd84cc0f989e26a7c7cdebe7a4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f7356bd84cc0f989e26a7c7cdebe7a4f> <https://colonialcollections.nl/schema#identifier> "1989/09/28-2-10" .
 <https://n2t.net/ark:/27023/f7356bd84cc0f989e26a7c7cdebe7a4f> <https://colonialcollections.nl/schema#name> "Pantalon, veldtenue model 1945, Nederlandse aanmaak" .
@@ -504,24 +539,6 @@
 <https://n2t.net/ark:/27023/f772876baa6d0eeb6bd919008418e8bf> <https://colonialcollections.nl/schema#description> "Foto interneringskampen\r\nPOW´s wachtend op station" .
 <https://n2t.net/ark:/27023/f772876baa6d0eeb6bd919008418e8bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f772876baa6d0eeb6bd919008418e8bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#identifier> "2005/09/16-4-1/1" .
-<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#name> "Groot ambtskostuum controleur Europees Bestuur" .
-<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#description> "Ambtskostuum, groot kostuum bestaande uit een rok met pantalon. De gesloten rok is van donkerblauw laken met staande gesloten kraag en opgestikte driepuntige zakkleppen. De rok is gevoerd met zwarte zijde. De rok wordt gesloten met haak en oog. Op de rok " .
-<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f74b7ddaea2bfc35db4a3f6926da130c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/5" .
-<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#name> "Gezinsportret november 1913" .
-<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"[ ] november 1913 Madioen\"\r\nGezinsportret op veranda, man, vrouw en dochter.\r\nRechterzijde aangetast door vocht." .
-<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f74b9c6d18a15900f01b245e86577e83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#identifier> "2003/07/08-1-5/3" .
-<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#name> "Oude Batakse vrouw Bataklanden 1920-1930" .
-<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. Prentbriefkaart: Batakse vrouw. Bataklanden 1920-1930.Sumatra´s Oostkust.\r\n1 lange zijde geperforeerd (2x)" .
-<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f7541f51eff2bde42ab567b407a2c860> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f732147106c0d3c775c2ccc2fd6f9b00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f732147106c0d3c775c2ccc2fd6f9b00> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42441" .
 <https://n2t.net/ark:/27023/f732147106c0d3c775c2ccc2fd6f9b00> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tpijl met houten punt\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout\r\n\r\nAfmetingen:\tGeheel: 92,7 cm\r\nMedia:\t2974\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2974] Depot, K [K]" .
@@ -567,16 +584,6 @@
 <https://n2t.net/ark:/27023/f77197fb37e8991a0e41ec50f33fb055> <https://colonialcollections.nl/schema#description> "Pijl met benen punt" .
 <https://n2t.net/ark:/27023/f77197fb37e8991a0e41ec50f33fb055> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f77197fb37e8991a0e41ec50f33fb055> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#identifier> "nf%201355-28" .
-<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, voor de helft met lijm in album geplakt.\r\nTekst op achterkant.\r\n\r\nGestempeld: 'Nadruk verboden, ingevolge bepalingen Auteurswet (Ststbl. 1912 No. 600)'\r\n'MEIJSTER'S FOTOHANDEL MEDAN'\r\nGeschreven in inkt: 'Feestelijkheden Kron" .
-<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f72e89ed467590d5d8213aed69b81b39> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#identifier> "EDO%20481-32" .
-<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van een landschap. De voorgrond wordt gevormd door landbouwgrondpercelen. De achtergrond is een vulkaan, krater goed te zien. Mogelijk betreft het hier de vulkaan Batoer (Batur).\r\n\r\nOp de pagin" .
-<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f76dde6d4cacdda8dee3b9b6e99f7725> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f7275bc5580db8f2d5cbddd4c7fb1bb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f7275bc5580db8f2d5cbddd4c7fb1bb7> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-2/186" .
 <https://n2t.net/ark:/27023/f7275bc5580db8f2d5cbddd4c7fb1bb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

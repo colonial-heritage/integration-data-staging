@@ -1,12 +1,22 @@
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#identifier> "1885/09-1-20" .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#name> "Louise, Princesse Frédéric des Pays Bas neé Princesse de Prusse" .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#description> "Prent: Louise, Princesse Frédéric des Pays Bas neé Princesse de Prusse. dess. d'ap. l.n. et lithogr. par F.Krüger. Imp.dans l'institut royal Berlin 1825. par W.Hindersin.\"" .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#inscription> "Louise, Princesse Frédéric des Pays Bas neé Princesse de Prusse. dess. d'ap. l.n. et lithogr. par F.Krüger. Imp.dans l'institut royal Berlin 1825. par W.Hindersin.\"" .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#creator> "Institut Royal Berlin" .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#creator> "W. Hinoersin" .
+<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#creator> "F. Krüger" .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#identifier> "nf%20283" .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#name> "IJsverkopers" .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#description> "Ansichtkaart  'IJsverkoopers' \r\n(Ice vendors)\r\nansichtkaart is gebruikt, niet verstuurd\r\n\r\ngedeelde achterkant\r\nUitg. N. V. Boekh. en Drukkerij G. Kolff & Co., Batavia, Weltevreden\r\nW. & S.H., all rights reserved" .
-<https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
-<https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://n2t.net/ark:/27023/c17ed7d72ecf48f789fc4ab5f9cadf48> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c18a11f6d1cd80d2d8ec97d601cdf263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c18a11f6d1cd80d2d8ec97d601cdf263> <https://colonialcollections.nl/schema#identifier> "1997/00-1/389" .
 <https://n2t.net/ark:/27023/c18a11f6d1cd80d2d8ec97d601cdf263> <https://colonialcollections.nl/schema#name> "Schetskaart van Nieuw-Guinea" .
@@ -21,6 +31,13 @@
 <https://n2t.net/ark:/27023/c1904cdac3b96761b1f36624f6eb746c> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/c1904cdac3b96761b1f36624f6eb746c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c1904cdac3b96761b1f36624f6eb746c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#identifier> "IB2015/02/02-1" .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#name> "Tekening Madonna met kind" .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#description> "Tekening in lijst. Gewassen inkt. \"Madonna met kind\". Gesigneerd: I.B. Kalem" .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#creator> "Ide Bagoes Kalem" .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c1a9d535c1412711bf33fae250a40fa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c1a9d535c1412711bf33fae250a40fa8> <https://colonialcollections.nl/schema#identifier> "nf%20789-7" .
 <https://n2t.net/ark:/27023/c1a9d535c1412711bf33fae250a40fa8> <https://colonialcollections.nl/schema#name> "Telogosari (op weg naar Tosari)" .
@@ -28,6 +45,13 @@
 <https://n2t.net/ark:/27023/c1a9d535c1412711bf33fae250a40fa8> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c1a9d535c1412711bf33fae250a40fa8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c1a9d535c1412711bf33fae250a40fa8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-50" .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#name> "Groepsfoto: officieren en vrouwen voor veranda." .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#description> "Foto, opgeplakt. Groepsfoto: officieren en vrouwen voor veranda." .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#creator> "W. Jones. Photographer, No.IC, King Street, Penang" .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c17aada468e5ef3d3b0be1ae227fd798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c17aada468e5ef3d3b0be1ae227fd798> <https://colonialcollections.nl/schema#identifier> "nf%201311-98" .
 <https://n2t.net/ark:/27023/c17aada468e5ef3d3b0be1ae227fd798> <https://colonialcollections.nl/schema#description> "fotonegatief, rechthoekig, los\r\n\r\nOpname van een blank jongetje met krulletjes ergens buiten in de tuin.\r\n\r\nDit jochie is te herkennen als Jelle van den Berg.\r\n\r\nDit negatief is het origineel van nf 926-23-1" .
@@ -46,6 +70,12 @@
 <https://n2t.net/ark:/27023/c17c609c6b623ac575b8f99499dde588> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/c17c609c6b623ac575b8f99499dde588> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c17c609c6b623ac575b8f99499dde588> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#identifier> "nf%20359" .
+<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#description> "Wayang wong scène in de Bangsal Wiyatapraja in de kraton van Yogyakarta.\r\nHanoman heeft Dèwi Sita ontdekt en brengt haar de ring van Rama. Op de achtergrond Dèwi Trijata, dochter van Wibisana van Alengka." .
+<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#creator> "René Sylvester Wassing" .
+<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c1bb5730e5dd247a969211d3b6f6b6d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c1bb5730e5dd247a969211d3b6f6b6d5> <https://colonialcollections.nl/schema#identifier> "nf%20929-36-1" .
 <https://n2t.net/ark:/27023/c1bb5730e5dd247a969211d3b6f6b6d5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, half opgeplakt, met bijschrift.\r\nDit bijschrift in hoofdletters en in 'zilverinkt' geschreven luidt: 'KERAPAN BANGKALAN'.\r\n\r\nN.B.: Dit bijschrift geldt ook voor nf 929-36-2\r\n\r\nOpname van blanke (Hollandse) en inh" .
@@ -80,13 +110,6 @@
 <https://n2t.net/ark:/27023/c1b6529777d3c0041105045971b2fb05> <https://colonialcollections.nl/schema#inscription> "Frans Kopp, Kaliasin 29 Soerabaia blgr. AB" .
 <https://n2t.net/ark:/27023/c1b6529777d3c0041105045971b2fb05> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c1b6529777d3c0041105045971b2fb05> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#identifier> "1885/09-1-20" .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#name> "Louise, Princesse Frédéric des Pays Bas neé Princesse de Prusse" .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#description> "Prent: Louise, Princesse Frédéric des Pays Bas neé Princesse de Prusse. dess. d'ap. l.n. et lithogr. par F.Krüger. Imp.dans l'institut royal Berlin 1825. par W.Hindersin.\"" .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#inscription> "Louise, Princesse Frédéric des Pays Bas neé Princesse de Prusse. dess. d'ap. l.n. et lithogr. par F.Krüger. Imp.dans l'institut royal Berlin 1825. par W.Hindersin.\"" .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c184de9c02b5635bebffd3d366bb209c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c17834e9ee60a4da7b36d752734054a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c17834e9ee60a4da7b36d752734054a0> <https://colonialcollections.nl/schema#identifier> "1999/04/19-1-6" .
 <https://n2t.net/ark:/27023/c17834e9ee60a4da7b36d752734054a0> <https://colonialcollections.nl/schema#name> "Beeld van staande man in sarong" .
@@ -507,18 +530,6 @@
 <https://n2t.net/ark:/27023/c1be4abdb77b6c22fc041021d4d6ad49> <https://colonialcollections.nl/schema#description> "Embleem OVW, oorlogsvrijwilliger in metaal." .
 <https://n2t.net/ark:/27023/c1be4abdb77b6c22fc041021d4d6ad49> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c1be4abdb77b6c22fc041021d4d6ad49> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#identifier> "IB2015/02/02-1" .
-<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#name> "Tekening Madonna met kind" .
-<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#description> "Tekening in lijst. Gewassen inkt. \"Madonna met kind\". Gesigneerd: I.B. Kalem" .
-<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c1a5e14b85398835387c785596201391> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-50" .
-<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#name> "Groepsfoto: officieren en vrouwen voor veranda." .
-<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#description> "Foto, opgeplakt. Groepsfoto: officieren en vrouwen voor veranda." .
-<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c1abb7dad458e003452f1c9fe0da4c07> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c180a1b950e8a077e7f17f2f2a23d351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c180a1b950e8a077e7f17f2f2a23d351> <https://colonialcollections.nl/schema#identifier> "S%20451-3750" .
 <https://n2t.net/ark:/27023/c180a1b950e8a077e7f17f2f2a23d351> <https://colonialcollections.nl/schema#description> "Koker voor het bewaren van gifpijltjes. Aan de haak kon de koker worden meegedragen" .
@@ -569,11 +580,6 @@
 <https://n2t.net/ark:/27023/c1b40ef0bab0d0efb8482141822b51d4> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tlans\r\nRubriek:\t(niet ingevoerd)\r\nAfmetingen:\tGeheel: 176,4 cm\r\nMedia:\t2555\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[2555] Depot, wand, t/o kast 12-13 [wand t/o kast 12-13]" .
 <https://n2t.net/ark:/27023/c1b40ef0bab0d0efb8482141822b51d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c1b40ef0bab0d0efb8482141822b51d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#identifier> "nf%20359" .
-<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#description> "Wayang wong scène in de Bangsal Wiyatapraja in de kraton van Yogyakarta.\r\nHanoman heeft Dèwi Sita ontdekt en brengt haar de ring van Rama. Op de achtergrond Dèwi Trijata, dochter van Wibisana van Alengka." .
-<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c19b3c278cbd40de7eafac82313a7670> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c18a95f9636a05daf232133ca36ecd2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c18a95f9636a05daf232133ca36ecd2e> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-42" .
 <https://n2t.net/ark:/27023/c18a95f9636a05daf232133ca36ecd2e> <https://colonialcollections.nl/schema#name> "Sabel, of klewang" .

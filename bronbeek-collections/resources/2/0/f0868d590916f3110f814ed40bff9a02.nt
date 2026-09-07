@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/86" .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#name> "Plaat 86. Bij het bivak te Bambél." .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 86. Bij het bivak te Bambél." .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#inscription> "Plaat 86. Bij het bivak te Bambél." .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/22f973f86a9909b782ac9e3f84ab147f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/22f973f86a9909b782ac9e3f84ab147f> <https://colonialcollections.nl/schema#identifier> "nf%20495-7" .
 <https://n2t.net/ark:/27023/22f973f86a9909b782ac9e3f84ab147f> <https://colonialcollections.nl/schema#name> "Toba meer" .
@@ -23,9 +31,18 @@
 <https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#identifier> "nf%201732-20" .
 <https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#name> "Papoea dorp" .
 <https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant is meegedrukt: 'Japen. Noord Nieuw Guinea. Papoeadorp'.\r\nOok meegedrukt: 'Copyright J.H. Zindler, Nieuw Guinea - No 2656'\r\n\r\nOpname toont een meer of een baai met op de " .
-<https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#creator> "J.H.Zindler - Nieuw-Guinea" .
 <https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2304ae3b84acc8467a66613767fe303f> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#identifier> "2001/00-58" .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#name> "Voorstellende typen van de bewoners van verschillende eilanden in de Indische archipel." .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#description> "Prent.\r\nOrang Macasser. Inwoner van Macasser. Habitant de Macasser.\r\nOrang Gamlang. Muzijkanten. Musiciens.\r\nTou-Kang-Tjou. Gaarkok. Restaurateur." .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#creator> "Ernest de Jancigny Dubois" .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#creator> "Coenraad Ritsema" .
 <https://n2t.net/ark:/27023/232123c396bcfc7d453037a874200444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/232123c396bcfc7d453037a874200444> <https://colonialcollections.nl/schema#identifier> "nf%201413-138" .
 <https://n2t.net/ark:/27023/232123c396bcfc7d453037a874200444> <https://colonialcollections.nl/schema#name> "Storm boven Moeara Padang" .
@@ -33,6 +50,13 @@
 <https://n2t.net/ark:/27023/232123c396bcfc7d453037a874200444> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/232123c396bcfc7d453037a874200444> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/232123c396bcfc7d453037a874200444> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-4" .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#creator> "de heer C. Engelen" .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/233d9360c9ad13952c6f18414c93bafb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/233d9360c9ad13952c6f18414c93bafb> <https://colonialcollections.nl/schema#identifier> "1997/00-1/279" .
 <https://n2t.net/ark:/27023/233d9360c9ad13952c6f18414c93bafb> <https://colonialcollections.nl/schema#name> "Overzichtskaart Midden-Java, noordelijk deel" .
@@ -58,6 +82,7 @@
 <https://n2t.net/ark:/27023/233c35c1529be261747daf0b07e5c56f> <https://colonialcollections.nl/schema#creator> "H. Voorrips" .
 <https://n2t.net/ark:/27023/233c35c1529be261747daf0b07e5c56f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/233c35c1529be261747daf0b07e5c56f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/233c35c1529be261747daf0b07e5c56f> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/230e724afbee49c2defd5c73ff073372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/230e724afbee49c2defd5c73ff073372> <https://colonialcollections.nl/schema#identifier> "2000/08/30-1-2/25" .
 <https://n2t.net/ark:/27023/230e724afbee49c2defd5c73ff073372> <https://colonialcollections.nl/schema#name> "Ratingen. Cromford" .
@@ -86,13 +111,6 @@
 <https://n2t.net/ark:/27023/232623c8de87a932288ab6d4c1e3d9bb> <https://colonialcollections.nl/schema#inscription> "Ter herinnering aangeboden door de Onderofficieren aan den Commandant v/h Detachement te Kolonodale tijdens het 25 jarig bestaan hiervan 7-5-´32" .
 <https://n2t.net/ark:/27023/232623c8de87a932288ab6d4c1e3d9bb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/232623c8de87a932288ab6d4c1e3d9bb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/86" .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#name> "Plaat 86. Bij het bivak te Bambél." .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 86. Bij het bivak te Bambél." .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#inscription> "Plaat 86. Bij het bivak te Bambél." .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/230e7c81e89b18574afd04c87844f4d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/22f74cefe84a38d63b69ff657b6a43ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/22f74cefe84a38d63b69ff657b6a43ef> <https://colonialcollections.nl/schema#identifier> "2004/08/29-9-5/128" .
 <https://n2t.net/ark:/27023/22f74cefe84a38d63b69ff657b6a43ef> <https://colonialcollections.nl/schema#name> "299 foto´s uit de periode Nederlands Indië 1947-1949" .
@@ -519,18 +537,6 @@
 <https://n2t.net/ark:/27023/233df00667239a0860dca8e71fc29f0b> <https://colonialcollections.nl/schema#description> "Foto diensttijd Nederlands-Indië. Omgeving Makassar, Celebes, Nederlands-Indië. 85 stuks. Grenadiers ?\r\nWit gebouw. Fotopapier Velox." .
 <https://n2t.net/ark:/27023/233df00667239a0860dca8e71fc29f0b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/233df00667239a0860dca8e71fc29f0b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#identifier> "2001/00-58" .
-<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#name> "Voorstellende typen van de bewoners van verschillende eilanden in de Indische archipel." .
-<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#description> "Prent.\r\nOrang Macasser. Inwoner van Macasser. Habitant de Macasser.\r\nOrang Gamlang. Muzijkanten. Musiciens.\r\nTou-Kang-Tjou. Gaarkok. Restaurateur." .
-<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2311f8cbe832884777113886081b109f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-4" .
-<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
-<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
-<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2339e965be34e8a7a9611e9c53d27134> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/22f70d3fe43e4064fe56c22682f3baca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/22f70d3fe43e4064fe56c22682f3baca> <https://colonialcollections.nl/schema#identifier> "2014/07/08-5-6/6" .
 <https://n2t.net/ark:/27023/22f70d3fe43e4064fe56c22682f3baca> <https://colonialcollections.nl/schema#description> "Foto uit NEFIS archief." .

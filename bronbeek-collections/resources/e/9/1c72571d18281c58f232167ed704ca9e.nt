@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-49" .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#name> "[ ]24 View [  ]etak near Songgoriti. Copyright Studio Songgoriti" .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  \"[ ]24 View [  ]etak near Songgoriti. Copyright Studio Songgoriti\"\r\nOp achterzijde: \"Post Card\" ." .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#inscription> "[ ]24 View [  ]etak near Songgoriti. Copyright Studio Songgoriti" .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#creator> "K.Torii Studio Songgoriti" .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bb25518cd37a93ba66c13fe6796bc2ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb25518cd37a93ba66c13fe6796bc2ba> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/046" .
 <https://n2t.net/ark:/27023/bb25518cd37a93ba66c13fe6796bc2ba> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -20,13 +28,35 @@
 <https://n2t.net/ark:/27023/bb098e24256530a679c89f953ed73e9e> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/bb098e24256530a679c89f953ed73e9e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bb098e24256530a679c89f953ed73e9e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/25" .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#name> "De Kota Agoeng in Belawan" .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. De Kota Agoeng in Belawan" .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#creator> "D. Hofma" .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-20/4" .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Abulani\"" .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#creator> "Abulani" .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#identifier> "2006/00-42-192" .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#name> "Karte-de-kabinet met portret van Johannes Matthijs Schmitz, kapitein der Genie bij het KNIL, met EBK, Kraton-medaille en Officierskruis" .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Karte-de-kabinet met portret van Johannes Matthijs Schmitz, kapitein der Genie bij het KNIL, met bouillons en de medailles EBK, Kraton-medaille en Officierskruis.\r\n\r\nHandgeschreven tekst verso: Johannes Matthijs Schmitz. Off. Genie O.I.L.\r" .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#creator> "Visser van Weeren" .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/26" .
 <https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#name> "Prent met afbeelding Egypte en Palestina: Klooster te Ramleh" .
 <https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#description> "Prent. Lithografie: \"Klooster te Ramleh\"\r\nPrenten met afbeeldingen uit Egypte en Palestina. Genummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 " .
-<https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
+<https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
 <https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bb2d697651ca0fe3808f5ace8eb750f7> <https://colonialcollections.nl/schema#creator> "E. Spanier" .
 <https://n2t.net/ark:/27023/bb3125c59550438681c21bc9eda9c76a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb3125c59550438681c21bc9eda9c76a> <https://colonialcollections.nl/schema#identifier> "1986/12-2-4" .
 <https://n2t.net/ark:/27023/bb3125c59550438681c21bc9eda9c76a> <https://colonialcollections.nl/schema#name> "Aanzicht van de Borobudur" .
@@ -92,13 +122,6 @@
 <https://n2t.net/ark:/27023/bb2817cae1bc3cf2024eae3f4ae120f6> <https://colonialcollections.nl/schema#inscription> "Dewatempel 7e Bataljon" .
 <https://n2t.net/ark:/27023/bb2817cae1bc3cf2024eae3f4ae120f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bb2817cae1bc3cf2024eae3f4ae120f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-49" .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#name> "[ ]24 View [  ]etak near Songgoriti. Copyright Studio Songgoriti" .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#description> "Foto. Prentbriefkaart.  \"[ ]24 View [  ]etak near Songgoriti. Copyright Studio Songgoriti\"\r\nOp achterzijde: \"Post Card\" ." .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#inscription> "[ ]24 View [  ]etak near Songgoriti. Copyright Studio Songgoriti" .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bb099960a88af33a559bedd935d25ea8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/baed871d047b0f22b749667053ef0b76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/baed871d047b0f22b749667053ef0b76> <https://colonialcollections.nl/schema#identifier> "1874/04-1-2" .
 <https://n2t.net/ark:/27023/baed871d047b0f22b749667053ef0b76> <https://colonialcollections.nl/schema#name> "Geus van Z.M. schroefstoomschip Marnix" .
@@ -519,24 +542,6 @@
 <https://n2t.net/ark:/27023/bb3cc7ba440cc9c16ba7956679ec1313> <https://colonialcollections.nl/schema#description> "Foto betreffende diensttijd  vandienstplichtig soldaat Karel Brandsen 3e bataljon 2e regiment infanterie (3-2 RI)" .
 <https://n2t.net/ark:/27023/bb3cc7ba440cc9c16ba7956679ec1313> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bb3cc7ba440cc9c16ba7956679ec1313> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#identifier> "2003/11/17-2-8/25" .
-<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#name> "De Kota Agoeng in Belawan" .
-<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit. De Kota Agoeng in Belawan" .
-<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bb1955719f75ac2124eeb1ed720d1e86> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-20/4" .
-<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Abulani\"" .
-<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bb24128320d6636e3f69a6aea29520a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#identifier> "2006/00-42-192" .
-<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#name> "Karte-de-kabinet met portret van Johannes Matthijs Schmitz, kapitein der Genie bij het KNIL, met EBK, Kraton-medaille en Officierskruis" .
-<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Karte-de-kabinet met portret van Johannes Matthijs Schmitz, kapitein der Genie bij het KNIL, met bouillons en de medailles EBK, Kraton-medaille en Officierskruis.\r\n\r\nHandgeschreven tekst verso: Johannes Matthijs Schmitz. Off. Genie O.I.L.\r" .
-<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bb2b7748ac7ac22d1f022c1926428a11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/baeec194eede05dc234d6be41c99ae21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/baeec194eede05dc234d6be41c99ae21> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42576" .
 <https://n2t.net/ark:/27023/baeec194eede05dc234d6be41c99ae21> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tarmband\r\nRubriek:\t(niet ingevoerd)\r\nMedia:\t3109\r\nBruikleen van:\tGemeente Nijmegen\r\nHuidige standplaats:\t[3109] Depot, LB VII, 16 [LB VII 16]" .

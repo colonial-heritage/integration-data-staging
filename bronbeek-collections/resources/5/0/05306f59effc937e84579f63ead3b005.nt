@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/14" .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#name> "Bataksche vrouw (Sumatra)" .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bataksche vrouw (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#inscription> "Bataksche vrouw (Sumatra)" .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
 <https://n2t.net/ark:/27023/eae531f1233842d1bbf2d82e5623afab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eae531f1233842d1bbf2d82e5623afab> <https://colonialcollections.nl/schema#identifier> "1998/05/03-1-4" .
 <https://n2t.net/ark:/27023/eae531f1233842d1bbf2d82e5623afab> <https://colonialcollections.nl/schema#name> "Schoolplaat van H. Zondervan, getiteld \"Passer te Pajakoemboeh. Sumatra\"" .
@@ -5,6 +14,13 @@
 <https://n2t.net/ark:/27023/eae531f1233842d1bbf2d82e5623afab> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/eae531f1233842d1bbf2d82e5623afab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eae531f1233842d1bbf2d82e5623afab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#identifier> "nf%20801" .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#name> "Brug over Kali Ello, Magelang" .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van een brug over de Kali Ello te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Brug over Kali Ello, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67740'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) " .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eaf3b5720c09f7670d8341099d6fa793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eaf3b5720c09f7670d8341099d6fa793> <https://colonialcollections.nl/schema#identifier> "IB2017/03-4" .
 <https://n2t.net/ark:/27023/eaf3b5720c09f7670d8341099d6fa793> <https://colonialcollections.nl/schema#name> "Rustende eenden van W.C.C. Bleckmann" .
@@ -12,6 +28,13 @@
 <https://n2t.net/ark:/27023/eaf3b5720c09f7670d8341099d6fa793> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/eaf3b5720c09f7670d8341099d6fa793> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eaf3b5720c09f7670d8341099d6fa793> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/13" .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#name> "Portret van Eugèn van Delden" .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven) E. van Delden\r\nVerso:  Atelier W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast het station. Negativen worden voor nabestelling bewaard." .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#creator> "Photografische inrichtingen van W. Oldenkamp" .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eb06a5b4fa4447813d9fb563eb890930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eb06a5b4fa4447813d9fb563eb890930> <https://colonialcollections.nl/schema#identifier> "nf%20842-106" .
 <https://n2t.net/ark:/27023/eb06a5b4fa4447813d9fb563eb890930> <https://colonialcollections.nl/schema#name> "Straat met verkeer en winkels, West-Java" .
@@ -19,6 +42,13 @@
 <https://n2t.net/ark:/27023/eb06a5b4fa4447813d9fb563eb890930> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/eb06a5b4fa4447813d9fb563eb890930> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb06a5b4fa4447813d9fb563eb890930> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#identifier> "1946/01/01-1" .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal tit. KNIL b.d. C.A. Rijnders, Commandant van Bronbeek" .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#description> "Schilderij toont Rijnders als Generaal-majoor.\r\nOlieverf op linnen, 61 x 90cm metz wart houten lijst, breed 11cm; kniestuk, rechts beneden gesigneerd \"Louis de Breet, 1932\"." .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#creator> "Louis de Breet" .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eae1bfa9c3090272f227d2b5c68ed3d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eae1bfa9c3090272f227d2b5c68ed3d5> <https://colonialcollections.nl/schema#identifier> "nf%201758-3" .
 <https://n2t.net/ark:/27023/eae1bfa9c3090272f227d2b5c68ed3d5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt geschreven een verwijzing naar inventarisnummer S 956\r\n\r\nOpname toont, zo lijkt het tenminste, in rotsen uitgouwen 'grotten'. Zowel links als rechts, maar ook achterin, ziet men rechthoekige open" .
@@ -76,13 +106,6 @@
 <https://n2t.net/ark:/27023/eb1f8bd1d2d26675251f3fbcf3fb8207> <https://colonialcollections.nl/schema#inscription> "41297; J.A. Konings" .
 <https://n2t.net/ark:/27023/eb1f8bd1d2d26675251f3fbcf3fb8207> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb1f8bd1d2d26675251f3fbcf3fb8207> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/14" .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#name> "Bataksche vrouw (Sumatra)" .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Bataksche vrouw (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#inscription> "Bataksche vrouw (Sumatra)" .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eaff5598c0e1df3d2a78be5a9038cd35> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ead69bd5a160921287a234f5b99803ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ead69bd5a160921287a234f5b99803ac> <https://colonialcollections.nl/schema#identifier> "1994/12/06-1/16" .
 <https://n2t.net/ark:/27023/ead69bd5a160921287a234f5b99803ac> <https://colonialcollections.nl/schema#name> "Pijl, afkomstig uit voormalig Nederlands-Indië" .
@@ -515,24 +538,6 @@
 <https://n2t.net/ark:/27023/eb229e53b1d186b41d830406dd1389c5> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van Wilhelmina van Swieten." .
 <https://n2t.net/ark:/27023/eb229e53b1d186b41d830406dd1389c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/eb229e53b1d186b41d830406dd1389c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#identifier> "nf%20801" .
-<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#name> "Brug over Kali Ello, Magelang" .
-<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van een brug over de Kali Ello te Magelang.\r\n\r\nBovenaan op de voorkant staat vermeld: 'Brug over Kali Ello, Magelang'\r\nrechtsonder in de afbeelding staat het getal '67740'\r\n\r\nGedeelde achterkant met bovenaan (in het groen) " .
-<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eaee69fc8460661bb935048d19446c94> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/13" .
-<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#name> "Portret van Eugèn van Delden" .
-<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven) E. van Delden\r\nVerso:  Atelier W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast het station. Negativen worden voor nabestelling bewaard." .
-<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eaf3eca1908201676a4657b781ee3828> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#identifier> "1946/01/01-1" .
-<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#name> "Portret van Luitenant-generaal tit. KNIL b.d. C.A. Rijnders, Commandant van Bronbeek" .
-<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#description> "Schilderij toont Rijnders als Generaal-majoor.\r\nOlieverf op linnen, 61 x 90cm metz wart houten lijst, breed 11cm; kniestuk, rechts beneden gesigneerd \"Louis de Breet, 1932\"." .
-<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/eb21f2cef3090685238013486822b258> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/eadbf420eb5cf12aca8a12bd42f2f705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/eadbf420eb5cf12aca8a12bd42f2f705> <https://colonialcollections.nl/schema#identifier> "S%20992" .
 <https://n2t.net/ark:/27023/eadbf420eb5cf12aca8a12bd42f2f705> <https://colonialcollections.nl/schema#description> "(dans)schild met asu-motieven" .

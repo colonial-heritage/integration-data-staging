@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#identifier> "2004/12/31-1-2" .
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#name> "Platte pet tot Ceremonieel tenue Majoor Regiment Johan Willem Friso" .
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#description> "Platte pet tot Ceremonieel tenue Majoor Regiment Johan Willem Friso. Jas + broek. Gemerkt: \"Louis Simon Jr. Dennenweg 75-77 Den Haag." .
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#creator> "Louis Simons Jr. Den Haag" .
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#identifier> "1970/06/01-1" .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#name> "Relief \"KNIL op Atjeh\" van de ingang van de kantine van de kazerne Latijnsche School te Zutphen" .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#description> "Monument van zandsteen op gemetselde sokkel. Voorstellende het \"KNIL op Atjeh\". Het relief maakte deel uit van de nieuwe kantine van de kazerne Latijnsche School, die op 11 november 1896 in gebruik werd genomen. De kantine liep grote schade op door het bo" .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#creator> "Louis Ludovicus Henzen" .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#creator> "Charles Hendrik Marie van Wijk" .
 <https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <https://colonialcollections.nl/schema#identifier> "S%206245-47-2" .
 <https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <https://colonialcollections.nl/schema#name> "Waringin - (Urostigma Benjaminum.)" .
@@ -5,6 +20,7 @@
 <https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2d6470227b0100760009781da229e298> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
 <https://n2t.net/ark:/27023/2d6ac22d1fe0bccc62c3db4ef50508a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2d6ac22d1fe0bccc62c3db4ef50508a9> <https://colonialcollections.nl/schema#identifier> "nf%20842-59" .
 <https://n2t.net/ark:/27023/2d6ac22d1fe0bccc62c3db4ef50508a9> <https://colonialcollections.nl/schema#name> "Aanlegsteiger op het strand van Parangtritis, Yogyakarta" .
@@ -12,6 +28,20 @@
 <https://n2t.net/ark:/27023/2d6ac22d1fe0bccc62c3db4ef50508a9> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/2d6ac22d1fe0bccc62c3db4ef50508a9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2d6ac22d1fe0bccc62c3db4ef50508a9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#identifier> "nf%201315-9" .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#name> "Bandoeng - Protestantsche Kerk Pieterspark" .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#identifier> "IB1993/01/15-7" .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#name> "Portret van M. Bisschop" .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#description> "Portret van de heer M. Bisschop in uniformjas van de Koninklijke Marine" .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#creator> "Edgar Jansen" .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2d83494bc29639a123770141af964ec7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2d83494bc29639a123770141af964ec7> <https://colonialcollections.nl/schema#identifier> "nf%20648" .
 <https://n2t.net/ark:/27023/2d83494bc29639a123770141af964ec7> <https://colonialcollections.nl/schema#name> "Rampok matjan" .
@@ -470,30 +500,6 @@
 <https://n2t.net/ark:/27023/2d8ab7edac8207eec2201d16e0ab4e24> <https://colonialcollections.nl/schema#description> "Medaille Federatie ex-Illegale Werkers Indië (FIWI). Zonder lint, bronzen kruis met inscriptie \"FIWI 1942-1945, de geest overwint\"." .
 <https://n2t.net/ark:/27023/2d8ab7edac8207eec2201d16e0ab4e24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2d8ab7edac8207eec2201d16e0ab4e24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#identifier> "2004/12/31-1-2" .
-<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#name> "Platte pet tot Ceremonieel tenue Majoor Regiment Johan Willem Friso" .
-<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#description> "Platte pet tot Ceremonieel tenue Majoor Regiment Johan Willem Friso. Jas + broek. Gemerkt: \"Louis Simon Jr. Dennenweg 75-77 Den Haag." .
-<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2d3efe86a469e44748effad362274599> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#identifier> "1970/06/01-1" .
-<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#name> "Relief \"KNIL op Atjeh\" van de ingang van de kantine van de kazerne Latijnsche School te Zutphen" .
-<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#description> "Monument van zandsteen op gemetselde sokkel. Voorstellende het \"KNIL op Atjeh\". Het relief maakte deel uit van de nieuwe kantine van de kazerne Latijnsche School, die op 11 november 1896 in gebruik werd genomen. De kantine liep grote schade op door het bo" .
-<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2d603d6f5427735ae0b515a8d1c95bf7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#identifier> "nf%201315-9" .
-<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#name> "Bandoeng - Protestantsche Kerk Pieterspark" .
-<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2d7585fa53f51d7617056381cffaf213> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#identifier> "IB1993/01/15-7" .
-<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#name> "Portret van M. Bisschop" .
-<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#description> "Portret van de heer M. Bisschop in uniformjas van de Koninklijke Marine" .
-<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2d807fefdd5ddcdfdfa23cadeafe8e7c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2d4120aafaa70d45af38312115fc9b44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2d4120aafaa70d45af38312115fc9b44> <https://colonialcollections.nl/schema#identifier> "S%20229-104" .
 <https://n2t.net/ark:/27023/2d4120aafaa70d45af38312115fc9b44> <https://colonialcollections.nl/schema#description> "lange kris, keris zonder schede." .

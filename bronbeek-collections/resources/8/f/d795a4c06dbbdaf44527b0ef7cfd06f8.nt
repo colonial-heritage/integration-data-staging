@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/4b4cd3a98412a1745d09678fbfa50bfa> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/4b4cd3a98412a1745d09678fbfa50bfa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b4cd3a98412a1745d09678fbfa50bfa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/103" .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#name> "Plaat 103. Groep der bevolking van Koetö Pinang." .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 103. Groep der bevolking van Koetö Pinang." .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#inscription> "Plaat 103. Groep der bevolking van Koetö Pinang." .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b3bb2cadfd08fb3587fd0540a176925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b3bb2cadfd08fb3587fd0540a176925> <https://colonialcollections.nl/schema#identifier> "nf%20252" .
 <https://n2t.net/ark:/27023/4b3bb2cadfd08fb3587fd0540a176925> <https://colonialcollections.nl/schema#name> "De ruïne van de Hindoe tempel op Songgoriti bij Batoe" .
@@ -31,10 +39,10 @@
 <https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#identifier> "nf%20419-85" .
 <https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#name> "Kanaal tusschen Noordwijk en Rijswijk, Batavia" .
 <https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#description> "Kanaal tusschen Noordwijk en Rijswijk, Batavia" .
-<https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
+<https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/4b445a73d77e0931fa7b50d269fa09f8> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/4b4abefc872052c446b6034501ba2de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b4abefc872052c446b6034501ba2de4> <https://colonialcollections.nl/schema#identifier> "nf%20619-52" .
 <https://n2t.net/ark:/27023/4b4abefc872052c446b6034501ba2de4> <https://colonialcollections.nl/schema#name> "Flores, gezicht op de vallei bij Enoora" .
@@ -42,6 +50,13 @@
 <https://n2t.net/ark:/27023/4b4abefc872052c446b6034501ba2de4> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4b4abefc872052c446b6034501ba2de4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b4abefc872052c446b6034501ba2de4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#identifier> "1998/08/06-2-3" .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#name> "Avondrood landschap" .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#description> "[Schilderij] \"Avondrood landschap\". Gesigneerd : \"D. Djaiamihardja\". Waterverf in lijst, in passepartout. Ingelijst bij Heydenrijk Jr. Den Haag." .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#creator> "D. Djaiamihardja" .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b5dc17c7e02ec563372337a27a4991a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b5dc17c7e02ec563372337a27a4991a> <https://colonialcollections.nl/schema#identifier> "2008/06/05-1-8" .
 <https://n2t.net/ark:/27023/4b5dc17c7e02ec563372337a27a4991a> <https://colonialcollections.nl/schema#name> "Luchtfoto van hoofdgebouw en commandantswoning" .
@@ -70,6 +85,13 @@
 <https://n2t.net/ark:/27023/4b6d5f91de4beda01b52d91d0d9a5066> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/4b6d5f91de4beda01b52d91d0d9a5066> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b6d5f91de4beda01b52d91d0d9a5066> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#identifier> "1997/05/07-1" .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#name> "Schilderij voorstellende een landschap, op spaanplaat" .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#description> "Schilderij voorstellende een landschap, geinspireerd op ervaringen langs de Birma-Siam Spoorweg, door : Sjef Baaten ; vader van de schenker. Op spaanplaat." .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#creator> "Sjef Baaten" .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b7ec0b94ebddec6955cb3b9de9153be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b7ec0b94ebddec6955cb3b9de9153be> <https://colonialcollections.nl/schema#identifier> "2003/10/08-5-12" .
 <https://n2t.net/ark:/27023/4b7ec0b94ebddec6955cb3b9de9153be> <https://colonialcollections.nl/schema#name> "Negatieven Pekalongan-Semarang, 1948-1950" .
@@ -77,6 +99,13 @@
 <https://n2t.net/ark:/27023/4b7ec0b94ebddec6955cb3b9de9153be> <https://colonialcollections.nl/schema#creator> "Reserve Kapitein der Infanterie J.Th. Timmer" .
 <https://n2t.net/ark:/27023/4b7ec0b94ebddec6955cb3b9de9153be> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b7ec0b94ebddec6955cb3b9de9153be> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#identifier> "1984/02/10-1-11" .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#name> "Djalan Huttenbach, Medan" .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Djalan Huttenbach, uitg. Deli Courant.  Gestempeld Medan 19-7-1907 en Gouda 14.8.07" .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b46f0c5dd4db2c05b897cf86f281811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b46f0c5dd4db2c05b897cf86f281811> <https://colonialcollections.nl/schema#identifier> "nf%20836-31" .
 <https://n2t.net/ark:/27023/4b46f0c5dd4db2c05b897cf86f281811> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zwart/wit, slechts gedeeltelijk vastgeplakt.\r\nGeen tekst op achterkant foto.\r\n\r\nZonder onderschrift.\r\n\r\nDeze opname toont een groot gezelschap kinderen, waarvan de meesten zitten. Onder hen een paar volwassen vrouwen, zowel blank als do" .
@@ -129,13 +158,6 @@
 <https://n2t.net/ark:/27023/4b5f6588828464c1ba6cf4f83eb23811> <https://colonialcollections.nl/schema#inscription> "Schietoefening te Bonaire" .
 <https://n2t.net/ark:/27023/4b5f6588828464c1ba6cf4f83eb23811> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b5f6588828464c1ba6cf4f83eb23811> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/103" .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#name> "Plaat 103. Groep der bevolking van Koetö Pinang." .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 103. Groep der bevolking van Koetö Pinang." .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#inscription> "Plaat 103. Groep der bevolking van Koetö Pinang." .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4b58c425c74f89ef218b65f54ffff7d0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b36ae1934156ba6719c3ece99a4ac10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b36ae1934156ba6719c3ece99a4ac10> <https://colonialcollections.nl/schema#identifier> "2006/09/05-2-2/197" .
 <https://n2t.net/ark:/27023/4b36ae1934156ba6719c3ece99a4ac10> <https://colonialcollections.nl/schema#name> "Foto. Periode 1946-1949. Deel van een serie." .
@@ -508,24 +530,6 @@
 <https://n2t.net/ark:/27023/4b81e328799d37192bc47ae85485531a> <https://colonialcollections.nl/schema#description> "Reproductie van foto, zwart-wit. Meestal op achterzijde een beschrijving. Reproductie bevat verschillende thema's. Afm. 17,7 x 12,6 cm. Totaal 74 stuks (inv.nrs 2000/01/03-6-1 t/m 2000/01/03-6-74)." .
 <https://n2t.net/ark:/27023/4b81e328799d37192bc47ae85485531a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4b81e328799d37192bc47ae85485531a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#identifier> "1998/08/06-2-3" .
-<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#name> "Avondrood landschap" .
-<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#description> "[Schilderij] \"Avondrood landschap\". Gesigneerd : \"D. Djaiamihardja\". Waterverf in lijst, in passepartout. Ingelijst bij Heydenrijk Jr. Den Haag." .
-<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4b58d2a8316e51cb5570ee3e596a7abe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#identifier> "1997/05/07-1" .
-<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#name> "Schilderij voorstellende een landschap, op spaanplaat" .
-<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#description> "Schilderij voorstellende een landschap, geinspireerd op ervaringen langs de Birma-Siam Spoorweg, door : Sjef Baaten ; vader van de schenker. Op spaanplaat." .
-<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4b774a08fbac479a5c6168f49134307a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#identifier> "1984/02/10-1-11" .
-<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#name> "Djalan Huttenbach, Medan" .
-<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Djalan Huttenbach, uitg. Deli Courant.  Gestempeld Medan 19-7-1907 en Gouda 14.8.07" .
-<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4b80aa64b7d3b8dea69e78b8527c905e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4b3c1a60dd893685f46d0d6b3b5d4f9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4b3c1a60dd893685f46d0d6b3b5d4f9a> <https://colonialcollections.nl/schema#identifier> "1998/07/21-2-19/32" .
 <https://n2t.net/ark:/27023/4b3c1a60dd893685f46d0d6b3b5d4f9a> <https://colonialcollections.nl/schema#description> "Foto.\r\nNetherlands Indies Government Information Service (NIGIS) Film and Photo Unit. Melbourne. File: 26. 1945/10/02.\r\n\"Netherlanders who had evaded German conscription or were released when Holland was liberated volunteered for service in the Netherland" .

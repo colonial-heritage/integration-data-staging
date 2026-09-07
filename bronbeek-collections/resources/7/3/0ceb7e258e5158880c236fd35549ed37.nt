@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/58" .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#name> "Het hoofd van Gianjar met gevolg" .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nHet hoofd van Gianjar met gevolg." .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/34" .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#name> "Inlands gezin met drie kleine kinderen voor een hut" .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#description> "Inlands gezin met drie kleine kinderen voor een hut." .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/263" .
 <https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -5,6 +20,7 @@
 <https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e396908dbe997588180a79a8dbbfbf06> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <https://colonialcollections.nl/schema#identifier> "2002/00-138/4" .
 <https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <https://colonialcollections.nl/schema#name> "Oorkonde W-Brigade" .
@@ -12,6 +28,7 @@
 <https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e399b557d727d3c8713bd7083e06b15d> <https://colonialcollections.nl/schema#creator> "W. Westernis" .
 <https://n2t.net/ark:/27023/e3a3caeea3ccf841989c219f66a79755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e3a3caeea3ccf841989c219f66a79755> <https://colonialcollections.nl/schema#identifier> "2005/00-633/23" .
 <https://n2t.net/ark:/27023/e3a3caeea3ccf841989c219f66a79755> <https://colonialcollections.nl/schema#name> "Foto van een vijver met achterliggend gebouw met poort en terras waarop zich enkele militairen bevinden. Lombok." .
@@ -26,6 +43,13 @@
 <https://n2t.net/ark:/27023/e3b648691f9e730d4078a0b8566a40c0> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/e3b648691f9e730d4078a0b8566a40c0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e3b648691f9e730d4078a0b8566a40c0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#identifier> "1983/10/12-1-3" .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#name> "\"Manilla groep op Patrouille - Senkang Zuid Celebes\"" .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#description> "Tekening [aquarel]: \"Manilla groep op Patrouille - Senkang Zuid Celebes\", van Charles Burki." .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#creator> "Charles Burki" .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e3979543e6d43d4a768d45f0dee47780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e3979543e6d43d4a768d45f0dee47780> <https://colonialcollections.nl/schema#identifier> "nf%201428-3" .
 <https://n2t.net/ark:/27023/e3979543e6d43d4a768d45f0dee47780> <https://colonialcollections.nl/schema#description> "glasnegatief, zwart/wit, rechthoekig, los opgeborgen in zuurvrije envelop.\r\n\r\nOpname toont, bijna zo ver het oog reikt, door verhoogde dammetjes van elkaar gescheiden, percelen/terrassen, die onderwater staan. Zo te zien klaar om de jonge aanplant van rij" .
@@ -113,13 +137,6 @@
 <https://n2t.net/ark:/27023/e3b8e888d22e3c36433a7c9794f5aa62> <https://colonialcollections.nl/schema#inscription> "Zouaaf Johannes van Eijkelenburg 1843-1915 Heeft 2 jaren in Italië gediend in dienst van Paus Pius IX. Deze persoon is de grootvader van H.L. van Eijkelenburg O/O KNIL." .
 <https://n2t.net/ark:/27023/e3b8e888d22e3c36433a7c9794f5aa62> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e3b8e888d22e3c36433a7c9794f5aa62> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/58" .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#name> "Het hoofd van Gianjar met gevolg" .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nHet hoofd van Gianjar met gevolg." .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e3d9adbdd406ab14675bcc3ad997b4cd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e3901df0ca43b8672399c867f333aa30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e3901df0ca43b8672399c867f333aa30> <https://colonialcollections.nl/schema#identifier> "2014/05/18-2-2/295" .
 <https://n2t.net/ark:/27023/e3901df0ca43b8672399c867f333aa30> <https://colonialcollections.nl/schema#name> "Foto uit een serie van 336 stuks, voornamelijk het militaire leven in Nederlands-Indië 1946-1948" .
@@ -498,18 +515,6 @@
 <https://n2t.net/ark:/27023/e3daaef2c821facbfbf50eff65ca76bf> <https://colonialcollections.nl/schema#description> "Foto z/w Nederlands-Indië circa 1930-1940, o.a. Manokwari, Magelang, Djokja, Priok, Bandoeng en Batavia.\r\nOnderwerpen zijn divers, veelal het familieleven in Nederlands-Indië." .
 <https://n2t.net/ark:/27023/e3daaef2c821facbfbf50eff65ca76bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/e3daaef2c821facbfbf50eff65ca76bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/34" .
-<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#name> "Inlands gezin met drie kleine kinderen voor een hut" .
-<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#description> "Inlands gezin met drie kleine kinderen voor een hut." .
-<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e39431dc6727d06e0c16213f8dd7d98c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#identifier> "1983/10/12-1-3" .
-<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#name> "\"Manilla groep op Patrouille - Senkang Zuid Celebes\"" .
-<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#description> "Tekening [aquarel]: \"Manilla groep op Patrouille - Senkang Zuid Celebes\", van Charles Burki." .
-<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/e3cb6657e7c7568326b3de44af7f537b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/e38eb405a50f489296002a896e252cab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e38eb405a50f489296002a896e252cab> <https://colonialcollections.nl/schema#identifier> "S%203511-4a" .
 <https://n2t.net/ark:/27023/e38eb405a50f489296002a896e252cab> <https://colonialcollections.nl/schema#description> "afgegeven gemeente Den Haag\r\n\r\nDruk en Uitgave van object is: D. Mijs te Tiel\r\n\r\nUitgifte van boekje is op 18 januari 1908 door burgerlijke stand van \r\ngemeente 's-Gravenhage, provincie Zuid-Holland aan huwelijkspaar\r\n\r\nPierre Hubert Jean Alexandre de Boo" .

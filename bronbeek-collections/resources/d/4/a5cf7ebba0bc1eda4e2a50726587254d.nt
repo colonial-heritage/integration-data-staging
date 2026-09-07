@@ -31,9 +31,17 @@
 <https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/12" .
 <https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
 <https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Op achterzijde:  \"NIWIN\": Een Bétja te Batavia." .
-<https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d35d928038755638636e98603c151c34> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/251/1" .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue (service dress) generaal-majoor Genie KNIL Europees model" .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#description> "Uniform opperofficier / generaal KNIL.\r\nJas, service dress, van groene wol met liggende kraag en revers, schouderlappen. Op de jas twee opgenaaide borstzakken met stolpplooi en accoladevormige zakkleppen en twee harmonikazakken op de schoot met rechte zak" .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#creator> "Stemmerik & Co, Den Haag-Soerabaja" .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d38dd8f49e8f6128c08bf52e8fb6941f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d38dd8f49e8f6128c08bf52e8fb6941f> <https://colonialcollections.nl/schema#identifier> "nf%20677-21" .
 <https://n2t.net/ark:/27023/d38dd8f49e8f6128c08bf52e8fb6941f> <https://colonialcollections.nl/schema#name> "Dasamuka of Duryodhana" .
@@ -41,6 +49,13 @@
 <https://n2t.net/ark:/27023/d38dd8f49e8f6128c08bf52e8fb6941f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/d38dd8f49e8f6128c08bf52e8fb6941f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d38dd8f49e8f6128c08bf52e8fb6941f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#identifier> "1990/10/12-3-4" .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#name> "Luitenant-generaal K. v.der Heijden te paard in een kampement" .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#description> "Foto. Reprofoto van tekening of aquarel door C. Krüger. Luitenant-generaal K. v.der Heijden te paard in het kampement te Olen(....) In goede staat. [? E.A.]\r\n\r\nverso vervaagde aantekeningen in potlood." .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#creator> "C. Krüger" .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d384ea89eb50a0152fb697028e48ea29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d384ea89eb50a0152fb697028e48ea29> <https://colonialcollections.nl/schema#identifier> "nf%20149" .
 <https://n2t.net/ark:/27023/d384ea89eb50a0152fb697028e48ea29> <https://colonialcollections.nl/schema#description> "Opnames (in stereo) tonen een stadsbeeld. Langs de weg een wasplaats, in een kanaal, voor kleding en ander textiel. Op schragen is te zien wat al of nog niet gewassen is. Het zijn lokale, in het wit geklede, meest mannen, die het doen. Op de weg een tweew" .
@@ -548,18 +563,6 @@
 <https://n2t.net/ark:/27023/d3974d0939275a1efe88c6d0a7f54176> <https://colonialcollections.nl/schema#description> "Karabijn, half-automatisch.\r\n- Inventarisnummer\t\t\t: PI 000105252\r\n- Locatie\t\t\t\t: Wapenkluis\r\n- Wapensoort\t\t\t: Karabijn, Halfautomatisch\r\n- Benaming, type & fabrikant\t\t: Carbine M1, Inland Division, Amerika\r\n- Kaliber\t\t\t\t: .30 M1 Carbine\r\n- Serienummer\t\t\t:" .
 <https://n2t.net/ark:/27023/d3974d0939275a1efe88c6d0a7f54176> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d3974d0939275a1efe88c6d0a7f54176> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/251/1" .
-<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#name> "Jas dagelijks tenue (service dress) generaal-majoor Genie KNIL Europees model" .
-<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#description> "Uniform opperofficier / generaal KNIL.\r\nJas, service dress, van groene wol met liggende kraag en revers, schouderlappen. Op de jas twee opgenaaide borstzakken met stolpplooi en accoladevormige zakkleppen en twee harmonikazakken op de schoot met rechte zak" .
-<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d364dd90e7abf3b6a5a10eec5c276bcb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#identifier> "1990/10/12-3-4" .
-<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#name> "Luitenant-generaal K. v.der Heijden te paard in een kampement" .
-<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#description> "Foto. Reprofoto van tekening of aquarel door C. Krüger. Luitenant-generaal K. v.der Heijden te paard in het kampement te Olen(....) In goede staat. [? E.A.]\r\n\r\nverso vervaagde aantekeningen in potlood." .
-<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d3954c1c4008fbe5e2b8a33315a67ec7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d353b2bc794746bc7a209b5f1fdd408e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d353b2bc794746bc7a209b5f1fdd408e> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42307" .
 <https://n2t.net/ark:/27023/d353b2bc794746bc7a209b5f1fdd408e> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tkam\r\nTitel:\tsuri\r\nRubriek:\t(niet ingevoerd)\r\nDatumlabel:\tvoor 1912\r\nMateriaal:\tdraad, touw\r\n\tgesneden, gevlochten\r\nEmailadres: toelichting:\tDe kam is gemaakt van een lichtbruine houtsoort. De steel van de kam " .

@@ -6,8 +6,8 @@
 <https://n2t.net/ark:/27023/a9fd2b8ef64835713f625f2aa522eec0> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/a9fd2b8ef64835713f625f2aa522eec0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a9fd2b8ef64835713f625f2aa522eec0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9fd2b8ef64835713f625f2aa522eec0> <https://colonialcollections.nl/schema#creator> "Titus Leeser" .
 <https://n2t.net/ark:/27023/a9fd2b8ef64835713f625f2aa522eec0> <https://colonialcollections.nl/schema#creator> "Vereniging voor Penningkunst" .
+<https://n2t.net/ark:/27023/a9fd2b8ef64835713f625f2aa522eec0> <https://colonialcollections.nl/schema#creator> "Titus Leeser" .
 <https://n2t.net/ark:/27023/aa12ac8642425a3d4e94fee1137eeb67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa12ac8642425a3d4e94fee1137eeb67> <https://colonialcollections.nl/schema#identifier> "1910/10/01-2/6" .
 <https://n2t.net/ark:/27023/aa12ac8642425a3d4e94fee1137eeb67> <https://colonialcollections.nl/schema#name> "Nr. 6. Bivak van het linkerhalf 9e bataillon in kampong djawa, uit ´Vierendertig gezichten op Atjeh´" .
@@ -16,6 +16,29 @@
 <https://n2t.net/ark:/27023/aa12ac8642425a3d4e94fee1137eeb67> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp" .
 <https://n2t.net/ark:/27023/aa12ac8642425a3d4e94fee1137eeb67> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aa12ac8642425a3d4e94fee1137eeb67> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/9" .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#name> "Bioscoopweg te Sabang." .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Bioscoopweg te Sabang.'." .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#inscription> "Bioscoopweg te Sabang." .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#identifier> "2006/00-43/55" .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#name> "Stafkaart Java & Madura, Tandjoengpriok" .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#description> "Stafkaart Java & Madura, Tandjoengpriok, restricted, first edition, sheet 37/XXXVII-A, reproduced by IIO Map Production Coy. R.E. Oct.1945; Survey Production Centre, South East Asia 1945; Provisional G.S.G.S. 4202, 1 ed.1943. Schaal 1: 50.000." .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#creator> "Survey Production Centre, A.L.F.S.E.A." .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/48" .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#creator> "P. Vlaanderen" .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#creator> "C. van der Aa" .
 <https://n2t.net/ark:/27023/aa00050cbe4bac88b643fef4834f0340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa00050cbe4bac88b643fef4834f0340> <https://colonialcollections.nl/schema#identifier> "nf%201413-133" .
 <https://n2t.net/ark:/27023/aa00050cbe4bac88b643fef4834f0340> <https://colonialcollections.nl/schema#name> "Rintis K.P.V Zuid." .
@@ -108,13 +131,6 @@
 <https://n2t.net/ark:/27023/aa3c5d85ba8c05b99f68b971d6e7d046> <https://colonialcollections.nl/schema#inscription> "Wanneer kom je met verlof?" .
 <https://n2t.net/ark:/27023/aa3c5d85ba8c05b99f68b971d6e7d046> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aa3c5d85ba8c05b99f68b971d6e7d046> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-6/9" .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#name> "Bioscoopweg te Sabang." .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. 'Bioscoopweg te Sabang.'." .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#inscription> "Bioscoopweg te Sabang." .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aa3cf935542d4f1c751ec47e05b3ab2d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a9ef4925beb81051207602c23457cc34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a9ef4925beb81051207602c23457cc34> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-179/1" .
 <https://n2t.net/ark:/27023/a9ef4925beb81051207602c23457cc34> <https://colonialcollections.nl/schema#name> "Vaandelwacht Regiment Infanterie Van Heutsz" .
@@ -535,18 +551,6 @@
 <https://n2t.net/ark:/27023/aa3f8fe2d5470e3a4c7e1b6448588448> <https://colonialcollections.nl/schema#description> "Foto´s. \r\nFotodienst Marine Luchtvaart Dienst in het Oosten.\r\nFirefly Mark IV\r\nVliegkamp Morokrembangan.\r\nDakota \"Silver City\".\r\nVliegkampschip \"Karel Doorman\".\r\nSquadron no.4 (1948).\r\nMosquito, H.M.S. \"Owl\" (1946)\r\nJapans Watervliegtuig. (1946)\r\n\"Blohm e" .
 <https://n2t.net/ark:/27023/aa3f8fe2d5470e3a4c7e1b6448588448> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aa3f8fe2d5470e3a4c7e1b6448588448> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#identifier> "2006/00-43/55" .
-<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#name> "Stafkaart Java & Madura, Tandjoengpriok" .
-<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#description> "Stafkaart Java & Madura, Tandjoengpriok, restricted, first edition, sheet 37/XXXVII-A, reproduced by IIO Map Production Coy. R.E. Oct.1945; Survey Production Centre, South East Asia 1945; Provisional G.S.G.S. 4202, 1 ed.1943. Schaal 1: 50.000." .
-<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9f1eda93ede2f180abea0464bc0686d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/48" .
-<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a9f7bd6732ef3f2053bd20d28b0e1232> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aa00d52ab9062c140e95ffa13f2e2bf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa00d52ab9062c140e95ffa13f2e2bf6> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41576" .
 <https://n2t.net/ark:/27023/aa00d52ab9062c140e95ffa13f2e2bf6> <https://colonialcollections.nl/schema#description> "Afdeling:\t(niet ingevoerd)\r\nObjectnaam:\tkaarsen\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tboomwas\r\n\r\nEmailadres: toelichting:\t2 kaarsen gemaakt van boomwas. Ze zijn taps toelopend en rood gekleurd.  Aan de buitenzijde zijn in de kleuren zwart, geel, groen en" .

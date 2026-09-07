@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-17/7" .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#name> "125. Berg-Artillerie" .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#description> "Schoolplaat.\r\n125. Berg-Artillerie" .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#inscription> "125. Berg-Artillerie" .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a5219d92f12f50d1bc60435d9a99ea51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a5219d92f12f50d1bc60435d9a99ea51> <https://colonialcollections.nl/schema#identifier> "nf%201413-238" .
 <https://n2t.net/ark:/27023/a5219d92f12f50d1bc60435d9a99ea51> <https://colonialcollections.nl/schema#name> "Papaja" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/a5219d92f12f50d1bc60435d9a99ea51> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/a5219d92f12f50d1bc60435d9a99ea51> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a5219d92f12f50d1bc60435d9a99ea51> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#identifier> "2001/00-60" .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#name> "Luchtfoto, vermoedelijk van Medan" .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Luchtfoto, vermoedelijk van Medan, Sumatra.\r\n\r\nPreegstempel op passepartout: K.J. John, Medan O.v.S." .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#creator> "K.J. John" .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a525a4b4c05306c6776a858896dddada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a525a4b4c05306c6776a858896dddada> <https://colonialcollections.nl/schema#identifier> "nf%201413-93" .
 <https://n2t.net/ark:/27023/a525a4b4c05306c6776a858896dddada> <https://colonialcollections.nl/schema#name> "Jonge apen" .
@@ -12,6 +27,13 @@
 <https://n2t.net/ark:/27023/a525a4b4c05306c6776a858896dddada> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/a525a4b4c05306c6776a858896dddada> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a525a4b4c05306c6776a858896dddada> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#identifier> "1972/01/08-1" .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#name> "Bijkaart van Java en Madura, schaal 1: 500.000" .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#description> "Kaart, Bijkaart van Java en Madura, schaal 1: 500.000. Behorende bij de Handels- en Verkeerskaart van de Nederlandse bezittingen. Bewerkt en uitgegeven door B. Wenting naar gegevens van het Departement van Koloniën." .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#creator> "B. Wenting" .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a550a5194063323c63cb1782fd9b0a44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a550a5194063323c63cb1782fd9b0a44> <https://colonialcollections.nl/schema#identifier> "1998/02/26-1-18" .
 <https://n2t.net/ark:/27023/a550a5194063323c63cb1782fd9b0a44> <https://colonialcollections.nl/schema#name> "Kalimas, Oedjong, Soerabaja." .
@@ -19,6 +41,13 @@
 <https://n2t.net/ark:/27023/a550a5194063323c63cb1782fd9b0a44> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/a550a5194063323c63cb1782fd9b0a44> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a550a5194063323c63cb1782fd9b0a44> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/76" .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#name> "Stormige Zee bij den ingang van de Sabangbaai" .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Stormige Zee bij den ingang van de Sabangbaai" .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#creator> "Köhler & Co. v/h Sabang Drukkerij, Sabang" .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a5593d7c2485a14e98a5af45bfcbc2ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a5593d7c2485a14e98a5af45bfcbc2ac> <https://colonialcollections.nl/schema#identifier> "nf%20580-28" .
 <https://n2t.net/ark:/27023/a5593d7c2485a14e98a5af45bfcbc2ac> <https://colonialcollections.nl/schema#name> "Kebon Sirie Weltevreden" .
@@ -72,13 +101,6 @@
 <https://n2t.net/ark:/27023/a54b1c7e5f70fc40a9cbc783673819a8> <https://colonialcollections.nl/schema#inscription> "Lauwerier" .
 <https://n2t.net/ark:/27023/a54b1c7e5f70fc40a9cbc783673819a8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a54b1c7e5f70fc40a9cbc783673819a8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#identifier> "1996/10/09-1-17/7" .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#name> "125. Berg-Artillerie" .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#description> "Schoolplaat.\r\n125. Berg-Artillerie" .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#inscription> "125. Berg-Artillerie" .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a54c0fa858f272ec15396f214a7109cf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a521312787444732b21a41896cfa432a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a521312787444732b21a41896cfa432a> <https://colonialcollections.nl/schema#identifier> "1995/12/14-3-3" .
 <https://n2t.net/ark:/27023/a521312787444732b21a41896cfa432a> <https://colonialcollections.nl/schema#name> "De Preangerbode m.b.t. overlijden van Generaal-majoor P.J. Spruyt" .
@@ -511,24 +533,6 @@
 <https://n2t.net/ark:/27023/a564622352cab7bd00bc2a445f8405ba> <https://colonialcollections.nl/schema#description> "Foto van P. Pijpers uit Indonesië, totaal 76 stuks." .
 <https://n2t.net/ark:/27023/a564622352cab7bd00bc2a445f8405ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/a564622352cab7bd00bc2a445f8405ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#identifier> "2001/00-60" .
-<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#name> "Luchtfoto, vermoedelijk van Medan" .
-<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Luchtfoto, vermoedelijk van Medan, Sumatra.\r\n\r\nPreegstempel op passepartout: K.J. John, Medan O.v.S." .
-<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a5232f3fdff430fe00a52ed21f25d2c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#identifier> "1972/01/08-1" .
-<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#name> "Bijkaart van Java en Madura, schaal 1: 500.000" .
-<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#description> "Kaart, Bijkaart van Java en Madura, schaal 1: 500.000. Behorende bij de Handels- en Verkeerskaart van de Nederlandse bezittingen. Bewerkt en uitgegeven door B. Wenting naar gegevens van het Departement van Koloniën." .
-<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a53b3de5f75d513e0ad6527735d5a091> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/76" .
-<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#name> "Stormige Zee bij den ingang van de Sabangbaai" .
-<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Stormige Zee bij den ingang van de Sabangbaai" .
-<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/a5562e77ea053887e9655f7ff32590cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/a5212f832f29684b496ba4ba21629011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a5212f832f29684b496ba4ba21629011> <https://colonialcollections.nl/schema#identifier> "nf%20843-15" .
 <https://n2t.net/ark:/27023/a5212f832f29684b496ba4ba21629011> <https://colonialcollections.nl/schema#description> "Foto van een houthakker, bezig met een kettingzaag een boom om te zagen, 9e Borneo." .

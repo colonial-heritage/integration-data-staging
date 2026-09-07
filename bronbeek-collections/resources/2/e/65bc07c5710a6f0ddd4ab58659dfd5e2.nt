@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/febdcc112fbac8a3e7fdcf837050a6fe> <https://colonialcollections.nl/schema#creator> "Hansje van Waardenburg" .
 <https://n2t.net/ark:/27023/febdcc112fbac8a3e7fdcf837050a6fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/febdcc112fbac8a3e7fdcf837050a6fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-90" .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Jung (moeder van Tante Pauline)" .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Jung (moeder van Tante Pauline)" .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#inscription> "Mevr. Jung (moeder van Tante Pauline)" .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#creator> "Page Photographer Java" .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff0af0db29dd5dfc3dc8fcf1313bbdd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff0af0db29dd5dfc3dc8fcf1313bbdd7> <https://colonialcollections.nl/schema#identifier> "2002/07/29-2" .
 <https://n2t.net/ark:/27023/ff0af0db29dd5dfc3dc8fcf1313bbdd7> <https://colonialcollections.nl/schema#name> "Fotoalbum H.J. Glinthuis" .
@@ -18,9 +26,10 @@
 <https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#identifier> "nf%20677-12" .
 <https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#name> "Reuzenvorst" .
 <https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, rechthoekig, aan bovenkant opgeplakt.\r\n\r\nOnder de kaart (kaarten) is tekst getypt: REUZENVORST. Java. Puppentheatersammlung der Stadt München. 1968\r\n\r\nAchterop de kaart staat gedrukt: PUPPENTHEATERSAMMLUNG DER STADT MUNCHEN.\r\nScha" .
-<https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#creator> "Stadtmuseum (München)" .
 <https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/febc8f6e7662ba1cb8be14b7b127047c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fec40c42f1e88e61e0fbb636a2cbc4e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fec40c42f1e88e61e0fbb636a2cbc4e7> <https://colonialcollections.nl/schema#identifier> "2016/08/16-4-1/13" .
 <https://n2t.net/ark:/27023/fec40c42f1e88e61e0fbb636a2cbc4e7> <https://colonialcollections.nl/schema#name> "\"Nummer 24, Kali Seumet bij perceel Redjisari. Het rivier water verdampt door de nog warme [  ] v/d modderstroom.\"" .
@@ -28,6 +37,13 @@
 <https://n2t.net/ark:/27023/fec40c42f1e88e61e0fbb636a2cbc4e7> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/fec40c42f1e88e61e0fbb636a2cbc4e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fec40c42f1e88e61e0fbb636a2cbc4e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#identifier> "2010/12/23-2" .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#name> "Aquarel van \"Soewardja\", straatscene in Nederlands Indië" .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#description> "Aquarel. Opgeplakt op karton. Gesigneerd rechtsonder \"Soewardja\". Afgebeeld een straat met enkele mensen in de verte, met een ossenkar(?), rechts een poort naar een 2-tal huizen." .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#creator> "Soewardja" .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fee88a2cfeab09af2af38c4f9840f939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fee88a2cfeab09af2af38c4f9840f939> <https://colonialcollections.nl/schema#identifier> "2014/05/18-3-28" .
 <https://n2t.net/ark:/27023/fee88a2cfeab09af2af38c4f9840f939> <https://colonialcollections.nl/schema#name> "Hemd, kakigroen, lange mouw Algemene Politie Nederlands Nieuw-Guinea" .
@@ -35,6 +51,13 @@
 <https://n2t.net/ark:/27023/fee88a2cfeab09af2af38c4f9840f939> <https://colonialcollections.nl/schema#creator> "Confectiebedrijf Sturka" .
 <https://n2t.net/ark:/27023/fee88a2cfeab09af2af38c4f9840f939> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fee88a2cfeab09af2af38c4f9840f939> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#identifier> "1894/10/01-1" .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#name> "Portret van Generaal-majoor honorair H.G. baron Nahuijs van Burgst" .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#description> "Portret van Generaal-majoor honorair H.G. Baron Nahuijs van Burgst; zwart houten sierlijst met koperkleurig lofwerk breed 15cm, olieverf op doek 91 x 113 cm,\r\n\r\nIn juni 1977 gerestaureerd  door zorg van Helders Marinemuseum. Terug januari  1978.\r\n\r\nInfo v" .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#creator> "Jan Adam Kruseman" .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff079de20ab180e062fe90e2aa5d1263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff079de20ab180e062fe90e2aa5d1263> <https://colonialcollections.nl/schema#identifier> "2013/04/16-1-2/24" .
 <https://n2t.net/ark:/27023/ff079de20ab180e062fe90e2aa5d1263> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
@@ -42,12 +65,25 @@
 <https://n2t.net/ark:/27023/ff079de20ab180e062fe90e2aa5d1263> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
 <https://n2t.net/ark:/27023/ff079de20ab180e062fe90e2aa5d1263> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff079de20ab180e062fe90e2aa5d1263> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/60" .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#name> "Panorama Groote Boom" .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Panorama Groote Boom. Gestempeld en met 5 postzegels. 1905/06/02." .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#creator> "J.M.Chs. Nijland" .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fec916245592f463e3472250e41fdab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fec916245592f463e3472250e41fdab8> <https://colonialcollections.nl/schema#identifier> "nf%201785-2" .
 <https://n2t.net/ark:/27023/fec916245592f463e3472250e41fdab8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt verwijzing naar inventarisnummer S 956.\r\nOok op achterkant in potlood tekst:'Batoer, June 1920'\r\n\r\nOpname toont een viertal inheemse lokale mannen in gezelschap van een blanke vr" .
 <https://n2t.net/ark:/27023/fec916245592f463e3472250e41fdab8> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/fec916245592f463e3472250e41fdab8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fec916245592f463e3472250e41fdab8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#identifier> "EDO%20481-46" .
+<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van veel mensen. Vrouwen met waren op hun hoofd en vrouwen die toekijken.\r\nDe achtergrond is een muur die ook voorkomt op EDO 481-45" .
+<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fed31cf344943caf4b2589f775d04014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fed31cf344943caf4b2589f775d04014> <https://colonialcollections.nl/schema#identifier> "nf%20926-33-4" .
 <https://n2t.net/ark:/27023/fed31cf344943caf4b2589f775d04014> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, half opgeplakt.\r\n\r\nOpname van  twee kinderen op een schommel.\r\n\r\nIn deze kinderen zijn Beppie en Jelle van den Berg te herkennen." .
@@ -75,13 +111,6 @@
 <https://n2t.net/ark:/27023/fef57829057412656fdf9a07cd6be3cc> <https://colonialcollections.nl/schema#inscription> "Koninklijk Militair Invalidenhuis \"Bronbeek\" (Vervaardigd van stro omstreeks 1894 door een verpleegd oud-militair)." .
 <https://n2t.net/ark:/27023/fef57829057412656fdf9a07cd6be3cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/fef57829057412656fdf9a07cd6be3cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-90" .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#name> "Carte de visite: Mevr. Jung (moeder van Tante Pauline)" .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Mevr. Jung (moeder van Tante Pauline)" .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#inscription> "Mevr. Jung (moeder van Tante Pauline)" .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fee550bc5969e7c5c9c5b89366d58d6f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/febf40cec832f28daf6b1213c7093a4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/febf40cec832f28daf6b1213c7093a4e> <https://colonialcollections.nl/schema#identifier> "2004/10/15-1-4" .
 <https://n2t.net/ark:/27023/febf40cec832f28daf6b1213c7093a4e> <https://colonialcollections.nl/schema#name> "Foto van het graf van 1e luitenant der marechaussee H. Ackermann te Meulaboh." .
@@ -502,24 +531,6 @@
 <https://n2t.net/ark:/27023/ff10e2ea6f0d7a52177b084f8bfd4597> <https://colonialcollections.nl/schema#description> "Foto, diensttijd foto collectie. Afkomstig van Johan Schopberteld, gesneuveld in 1948. \r\nTotaal108 stuks." .
 <https://n2t.net/ark:/27023/ff10e2ea6f0d7a52177b084f8bfd4597> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff10e2ea6f0d7a52177b084f8bfd4597> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#identifier> "2010/12/23-2" .
-<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#name> "Aquarel van \"Soewardja\", straatscene in Nederlands Indië" .
-<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#description> "Aquarel. Opgeplakt op karton. Gesigneerd rechtsonder \"Soewardja\". Afgebeeld een straat met enkele mensen in de verte, met een ossenkar(?), rechts een poort naar een 2-tal huizen." .
-<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fee828e4fea1d81522c27d237c9dfcdd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#identifier> "1894/10/01-1" .
-<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#name> "Portret van Generaal-majoor honorair H.G. baron Nahuijs van Burgst" .
-<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#description> "Portret van Generaal-majoor honorair H.G. Baron Nahuijs van Burgst; zwart houten sierlijst met koperkleurig lofwerk breed 15cm, olieverf op doek 91 x 113 cm,\r\n\r\nIn juni 1977 gerestaureerd  door zorg van Helders Marinemuseum. Terug januari  1978.\r\n\r\nInfo v" .
-<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fefb1ffcc9f61231d68b8d7801edade8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#identifier> "2006/12/19-1-3/60" .
-<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#name> "Panorama Groote Boom" .
-<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Panorama Groote Boom. Gestempeld en met 5 postzegels. 1905/06/02." .
-<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ff09135c177608f8de512452cbbd0844> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/febf1bec64e8a64f4d595859ae3e2dac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/febf1bec64e8a64f4d595859ae3e2dac> <https://colonialcollections.nl/schema#identifier> "S%20451-1702" .
 <https://n2t.net/ark:/27023/febf1bec64e8a64f4d595859ae3e2dac> <https://colonialcollections.nl/schema#description> "Herkomst: Java." .
@@ -570,11 +581,6 @@
 <https://n2t.net/ark:/27023/ff0f829ac0a576817e4e1a90ef42d55b> <https://colonialcollections.nl/schema#description> "Lontar-geschrift" .
 <https://n2t.net/ark:/27023/ff0f829ac0a576817e4e1a90ef42d55b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff0f829ac0a576817e4e1a90ef42d55b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#identifier> "EDO%20481-46" .
-<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van veel mensen. Vrouwen met waren op hun hoofd en vrouwen die toekijken.\r\nDe achtergrond is een muur die ook voorkomt op EDO 481-45" .
-<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/fecbc3fa9665cbaa157ed992d31ceda9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/fecde10ac180bf4fa4393e859884aed1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/fecde10ac180bf4fa4393e859884aed1> <https://colonialcollections.nl/schema#identifier> "E685-b" .
 <https://n2t.net/ark:/27023/fecde10ac180bf4fa4393e859884aed1> <https://colonialcollections.nl/schema#name> "Orde van Sint Alexander Nevsky, Rusland (Keizerrijk), borstster" .

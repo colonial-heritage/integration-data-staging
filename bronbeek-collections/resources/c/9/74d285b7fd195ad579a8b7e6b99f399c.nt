@@ -21,6 +21,20 @@
 <https://n2t.net/ark:/27023/3b059dfd06508fa82a3501221ac4da8f> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/3b059dfd06508fa82a3501221ac4da8f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3b059dfd06508fa82a3501221ac4da8f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/71" .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Swieten, geb. 1896.\r\nFotograaf: W. Koenecke, Java." .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#creator> "W. Koenecke" .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#identifier> "nf%20527-5" .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#name> "bouw van een pijler van een spoorburg" .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#description> "Bouw van een pijler van een spoorbrug m.b.v. een toren van bambu\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng\r\nOp de achterkant staat geschreven Bamtoe...? Tjipanglabsaam ?" .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M. Luijks, Bandoeng" .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3b2de0cf99fce9cf117fcdf8f8d94649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3b2de0cf99fce9cf117fcdf8f8d94649> <https://colonialcollections.nl/schema#identifier> "nf%20842-37" .
 <https://n2t.net/ark:/27023/3b2de0cf99fce9cf117fcdf8f8d94649> <https://colonialcollections.nl/schema#name> "Een Balinese danseres voert (een deel van) de Barong, uit te Batu Bulan (Bali)" .
@@ -58,6 +72,12 @@
 <https://n2t.net/ark:/27023/3b04a191972c14406933c54d3c78a845> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/3b04a191972c14406933c54d3c78a845> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3b04a191972c14406933c54d3c78a845> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#identifier> "X%205972" .
+<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#description> "Plaat uit boek B. van Helsdingen-Schoevers e.a. - De Srimpi- en Bedajadansen aan het Soerakartische hof - 1925" .
+<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#creator> "Tyra Kleen" .
+<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3b0bd6485814674c199607d138fd3504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3b0bd6485814674c199607d138fd3504> <https://colonialcollections.nl/schema#identifier> "nf%20703-27" .
 <https://n2t.net/ark:/27023/3b0bd6485814674c199607d138fd3504> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met zwart tape afgeplakt\r\n\r\nOp de rand staat een geschreven tekst \"Krater van den Merapi s'morgens 6 uur ??? zie Eigen Haard 26 mei 1888\" en de getallen 12 en 27\r\n\r\nDe foto toont een krater.\r\n\r\nBegeleidende tekst op binnen" .
@@ -510,18 +530,6 @@
 <https://n2t.net/ark:/27023/3b2c815a021e539a70b2e7b7d5a5c43c> <https://colonialcollections.nl/schema#description> "ophthalmoscope" .
 <https://n2t.net/ark:/27023/3b2c815a021e539a70b2e7b7d5a5c43c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3b2c815a021e539a70b2e7b7d5a5c43c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/71" .
-<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten. Portret van Louise Jacqueline van Swieten als kind.\r\nVerso: L.J. van Swieten, geb. 1896.\r\nFotograaf: W. Koenecke, Java." .
-<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3b114354a7ad5bfe0ef21018419e6779> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#identifier> "nf%20527-5" .
-<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#name> "bouw van een pijler van een spoorburg" .
-<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#description> "Bouw van een pijler van een spoorbrug m.b.v. een toren van bambu\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng\r\nOp de achterkant staat geschreven Bamtoe...? Tjipanglabsaam ?" .
-<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3b1fe924cb23690513c6a8bf95faca75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3b02b392162118fd8e05a0c6d8dc7502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3b02b392162118fd8e05a0c6d8dc7502> <https://colonialcollections.nl/schema#identifier> "nf%201306-39-4" .
 <https://n2t.net/ark:/27023/3b02b392162118fd8e05a0c6d8dc7502> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'Sikh regiment' , maar ook 'Patialah's' \r\n\r\nAfbeelding toont een militaire parade. In beeld donkere, in kaki uniform, tulband dragende, exerc" .
@@ -572,11 +580,6 @@
 <https://n2t.net/ark:/27023/3b2bba9fd2a863449fac11d76001d58f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, met fotohoekjes opgeplakt, zonder bijschrift, met tekst op achterkant.\r\n\r\nTekst op achterkant in inkt luidt: \"Even kijken of er niets vergeten is!\"\r\n\r\nOpname toont twee prauwen, liggend onder de wal van een rivie" .
 <https://n2t.net/ark:/27023/3b2bba9fd2a863449fac11d76001d58f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3b2bba9fd2a863449fac11d76001d58f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#identifier> "X%205972" .
-<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#description> "Plaat uit boek B. van Helsdingen-Schoevers e.a. - De Srimpi- en Bedajadansen aan het Soerakartische hof - 1925" .
-<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/3b068289deae294e43c34a02bf3321fa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3b1ee5e10f453d5796d64320801d5511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3b1ee5e10f453d5796d64320801d5511> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-225" .
 <https://n2t.net/ark:/27023/3b1ee5e10f453d5796d64320801d5511> <https://colonialcollections.nl/schema#name> "Speer" .

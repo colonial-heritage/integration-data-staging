@@ -19,6 +19,13 @@
 <https://n2t.net/ark:/27023/4f457bff5b21991aabd3758bb2a83e21> <https://colonialcollections.nl/schema#creator> "Ir. Dorine van der Klei" .
 <https://n2t.net/ark:/27023/4f457bff5b21991aabd3758bb2a83e21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f457bff5b21991aabd3758bb2a83e21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#identifier> "1997/00-1/155" .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Soerakarta in zes bladen" .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Soerakarta in zes bladen in papieren kaft. Schaal 1: 100.000; Uitg. Topografische Inrichting, ´s Gravenhage 1894, opgenomen 1861-1866; met stempel \"Landmetercursus-Landbouwhoogeschool." .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#creator> "Topographische inrichting" .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4f4e6bdb4eae136ecfaf5a743c7d256f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f4e6bdb4eae136ecfaf5a743c7d256f> <https://colonialcollections.nl/schema#identifier> "2005/04/20-1-15" .
 <https://n2t.net/ark:/27023/4f4e6bdb4eae136ecfaf5a743c7d256f> <https://colonialcollections.nl/schema#name> "Landkaart Soerakarta" .
@@ -569,12 +576,6 @@
 <https://n2t.net/ark:/27023/4f60412df95e786e88481e028f8e0053> <https://colonialcollections.nl/schema#description> "Document getekend te Olee Lhaue t.a.v. de heer Mager. Gedateerd 22 juni 1901. In slechte staat." .
 <https://n2t.net/ark:/27023/4f60412df95e786e88481e028f8e0053> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4f60412df95e786e88481e028f8e0053> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#identifier> "1997/00-1/155" .
-<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#name> "Topografische overzichtskaarten Java & Madoera, Residentie Soerakarta in zes bladen" .
-<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#description> "Topografische overzichtskaarten Java & Madoera, Residentie Soerakarta in zes bladen in papieren kaft. Schaal 1: 100.000; Uitg. Topografische Inrichting, ´s Gravenhage 1894, opgenomen 1861-1866; met stempel \"Landmetercursus-Landbouwhoogeschool." .
-<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4f4838400725fb34ce02b522dff3e7b4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4f2bf085fcab67ed02dd8ae2a522a6e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4f2bf085fcab67ed02dd8ae2a522a6e4> <https://colonialcollections.nl/schema#identifier> "S%20451-2678" .
 <https://n2t.net/ark:/27023/4f2bf085fcab67ed02dd8ae2a522a6e4> <https://colonialcollections.nl/schema#description> "Herkomst: Toba Batak, Sumatra." .

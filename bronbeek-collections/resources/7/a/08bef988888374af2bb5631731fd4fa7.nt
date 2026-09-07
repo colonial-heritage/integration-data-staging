@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#identifier> "2006/00-42-52" .
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#name> "Staand portret van pastoor Verbraak" .
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Staand portret van pastoor Verbraak op passepartout.\r\n\r\nVerso, stikker met getypte tekst: Pastoor Henricus Christianus Verbraak. Geboren: 24 maart 1835 te Rotterdam. Overleden : 1 juni 1918 te Magelang, v.m. Ned.Indië. Was van 29 juni 1878" .
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#creator> "F. Woudstra" .
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0e6b60d28a6cd9ff62f73a22877e1499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e6b60d28a6cd9ff62f73a22877e1499> <https://colonialcollections.nl/schema#identifier> "nf%20925-10-4" .
 <https://n2t.net/ark:/27023/0e6b60d28a6cd9ff62f73a22877e1499> <https://colonialcollections.nl/schema#name> "onze achtergalerij" .
@@ -19,6 +26,21 @@
 <https://n2t.net/ark:/27023/0e8b434625c00c926dff572b0281dc32> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0e8b434625c00c926dff572b0281dc32> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0e8b434625c00c926dff572b0281dc32> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/7-3" .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#name> "D.5 - General View of Barracks, Camp Davis, North Carolina" .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#description> "Prentbriefkaart D.5 - General View of Barracks, Camp Davis, North Carolina." .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#creator> "Curt Teich & Co., Inc." .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#creator> "Service News Co. Wilmington, N.C." .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/150" .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia.  1285. Sluis G. Sarikanaal." .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0ea1741ab9d516120225e8da1e1189d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ea1741ab9d516120225e8da1e1189d5> <https://colonialcollections.nl/schema#identifier> "nf%201413-97" .
 <https://n2t.net/ark:/27023/0ea1741ab9d516120225e8da1e1189d5> <https://colonialcollections.nl/schema#name> "Kantjil. Dwerghert. Batoe Ampar" .
@@ -32,6 +54,7 @@
 <https://n2t.net/ark:/27023/0e7089bc53964173d36961b23e64f904> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0e7089bc53964173d36961b23e64f904> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0e7089bc53964173d36961b23e64f904> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0e7089bc53964173d36961b23e64f904> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/0e806137413d9cd153e0183812b1b1de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e806137413d9cd153e0183812b1b1de> <https://colonialcollections.nl/schema#identifier> "S%204010" .
 <https://n2t.net/ark:/27023/0e806137413d9cd153e0183812b1b1de> <https://colonialcollections.nl/schema#description> "Panoramafoto, drie foto's naast elkaar, van heuvelachtig landschap op Flores.\r\n\r\nOp de achterkant staan een aantal termen geschreven die betrekking hebben op de foto; \r\nLadangs, pas (midden rechtsachter), weg Res. Roeteng (middenvoor)" .
@@ -533,24 +556,6 @@
 <https://n2t.net/ark:/27023/0ea19305fb8a0a5b8cb3a49db72325d4> <https://colonialcollections.nl/schema#description> "Foto's, 17 stuks, betreffende W.F. Eisma, bedrijven, interieur/familie, bouw woning Borneo 1939." .
 <https://n2t.net/ark:/27023/0ea19305fb8a0a5b8cb3a49db72325d4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ea19305fb8a0a5b8cb3a49db72325d4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#identifier> "2006/00-42-52" .
-<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#name> "Staand portret van pastoor Verbraak" .
-<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Staand portret van pastoor Verbraak op passepartout.\r\n\r\nVerso, stikker met getypte tekst: Pastoor Henricus Christianus Verbraak. Geboren: 24 maart 1835 te Rotterdam. Overleden : 1 juni 1918 te Magelang, v.m. Ned.Indië. Was van 29 juni 1878" .
-<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0e5d7ef6eda1ebd4b859f4931172d497> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/7-3" .
-<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#name> "D.5 - General View of Barracks, Camp Davis, North Carolina" .
-<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#description> "Prentbriefkaart D.5 - General View of Barracks, Camp Davis, North Carolina." .
-<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0e9291638e767c4133fd4c0f103b4f19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/150" .
-<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia.  1285. Sluis G. Sarikanaal." .
-<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0e9b81cd65dedf57e39fd0204ac28d3a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0e5f16e3a1172ea4d55c0cba61d1c345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e5f16e3a1172ea4d55c0cba61d1c345> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43963" .
 <https://n2t.net/ark:/27023/0e5f16e3a1172ea4d55c0cba61d1c345> <https://colonialcollections.nl/schema#description> "Armband van metaal" .

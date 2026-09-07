@@ -1,3 +1,26 @@
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/46" .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#name> "Plaat 46. Instantané van het \"didong\"." .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 46. Instantané van het \"didong\"." .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#inscription> "Plaat 46. Instantané van het \"didong\"." .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/24" .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#name> "Rijtuig \"Sado\"" .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Rijtuig \"Sado\". & 'Lena v.d.Bos'" .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#inscription> "Rijtuig \"Sado\"" .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#identifier> "2017/02/23-1-3/17" .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië" .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#description> "Foto zwart-wit diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië. 54 stuks. 2 Hulpverbandplaatsafdeling (2 HPVA). Militair poserend voor een palm. Op de achtergrond een veranda." .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#creator> "Foto Schreuder" .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db30e07a4198f6b4427a76369d40fdcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db30e07a4198f6b4427a76369d40fdcc> <https://colonialcollections.nl/schema#identifier> "2015/06/19-1-2/32" .
 <https://n2t.net/ark:/27023/db30e07a4198f6b4427a76369d40fdcc> <https://colonialcollections.nl/schema#name> "De TNI marcheert Gondong Winangee binnen na de overdracht" .
@@ -5,6 +28,20 @@
 <https://n2t.net/ark:/27023/db30e07a4198f6b4427a76369d40fdcc> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/db30e07a4198f6b4427a76369d40fdcc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db30e07a4198f6b4427a76369d40fdcc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#identifier> "nf%201398-6" .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#name> "Badende vrouwen" .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart, in kleur, rechthoekig, met gedeelde achterkant.\r\nOp achterkant gedrukt: 'Aus dem Kalender \"Junge Kunst aus Bali\" en \r\n'Copyright 1970 by Pandion Verlag, 655 Bad Kreuznach, W.-Germany'\r\n\r\nVoorkant toont een voorstelling in kleur, me" .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#creator> "Pandion Verlag" .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/84" .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: C.L. van Swieten-Straeter.\r\nFotograaf: Adolphe Zimmermans, Den Haag." .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#creator> "Adolphe Zimmermans" .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db458e1f0d42ff5ba390530c2d7eeb1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db458e1f0d42ff5ba390530c2d7eeb1a> <https://colonialcollections.nl/schema#identifier> "nf%20668-2" .
 <https://n2t.net/ark:/27023/db458e1f0d42ff5ba390530c2d7eeb1a> <https://colonialcollections.nl/schema#name> "'Brug over de Posso-rivier, nabij de uitvloeiing uit het Posso-meer'" .
@@ -29,9 +66,10 @@
 <https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#identifier> "nf%20419-36" .
 <https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#description> "Gebouw feestelijk verlicht\r\ngedeelde achterkant, K Ltd in vakje postzegel\r\n\r\nverlichting" .
-<https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/db2f6848258d5d77e0d85c46f91d93b7> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/db36eea7c7fcc98cac4f84ff2ebff85d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db36eea7c7fcc98cac4f84ff2ebff85d> <https://colonialcollections.nl/schema#identifier> "nf%201803-3" .
 <https://n2t.net/ark:/27023/db36eea7c7fcc98cac4f84ff2ebff85d> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's naast elkaar opgeplakt op roodbruin karton, los aangetroffen.\r\n\r\nOp de achterkant staat in potlood geschreven: 'Omstreken van Soerabaja'\r\n\r\nOpnames tonen een blank meisje in het wit gekleed buiten lopend in een open lan" .
@@ -81,20 +119,6 @@
 <https://n2t.net/ark:/27023/db2b0bdc5bb4d69b9d9710809e43905f> <https://colonialcollections.nl/schema#inscription> "Op kling:  A. Hassing-Amersfoort" .
 <https://n2t.net/ark:/27023/db2b0bdc5bb4d69b9d9710809e43905f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db2b0bdc5bb4d69b9d9710809e43905f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/46" .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#name> "Plaat 46. Instantané van het \"didong\"." .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 46. Instantané van het \"didong\"." .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#inscription> "Plaat 46. Instantané van het \"didong\"." .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db2af8c95320fa6724a8e156e867ed83> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/24" .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#name> "Rijtuig \"Sado\"" .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Rijtuig \"Sado\". & 'Lena v.d.Bos'" .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#inscription> "Rijtuig \"Sado\"" .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db312aa8707f43f0e89bdefdc6593ece> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db24391166066af0f0161df47967010a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db24391166066af0f0161df47967010a> <https://colonialcollections.nl/schema#identifier> "2000/02/28-2-1" .
 <https://n2t.net/ark:/27023/db24391166066af0f0161df47967010a> <https://colonialcollections.nl/schema#name> "Prentbriefkaart vooraanzicht Bronbeek" .
@@ -545,24 +569,6 @@
 <https://n2t.net/ark:/27023/db68bf94e6edc6e350211d00f4ab9e50> <https://colonialcollections.nl/schema#description> "Fotokopieën van documenten betreffende kapitein A.J. Haga, alg.stb.nr. 76530.\r\n\r\n1. Brevet als prevôt, geweer en sabel.\r\n2. Brevet als meester sabel 27 februari 1918.\r\n3. Afschrift beschikking Pensioenfondsen 16 jan. 1934.\r\n4. Brevet als prevôt floret 27 " .
 <https://n2t.net/ark:/27023/db68bf94e6edc6e350211d00f4ab9e50> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/db68bf94e6edc6e350211d00f4ab9e50> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#identifier> "2017/02/23-1-3/17" .
-<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#name> "Foto diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië" .
-<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#description> "Foto zwart-wit diensttijd korporaal G.W.P. van der Heijden Nederlands-Indië. 54 stuks. 2 Hulpverbandplaatsafdeling (2 HPVA). Militair poserend voor een palm. Op de achtergrond een veranda." .
-<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db30dfa55824eff904047edcbf934098> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#identifier> "nf%201398-6" .
-<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#name> "Badende vrouwen" .
-<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#description> "Ongelopen ansichtkaart, in kleur, rechthoekig, met gedeelde achterkant.\r\nOp achterkant gedrukt: 'Aus dem Kalender \"Junge Kunst aus Bali\" en \r\n'Copyright 1970 by Pandion Verlag, 655 Bad Kreuznach, W.-Germany'\r\n\r\nVoorkant toont een voorstelling in kleur, me" .
-<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db31b9f8a733cab08449b47377cd377b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/84" .
-<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: C.L. van Swieten-Straeter.\r\nFotograaf: Adolphe Zimmermans, Den Haag." .
-<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/db43dcea87a312e91e4df38ed0724f01> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/db30380a559aca74634a38bdc71637b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/db30380a559aca74634a38bdc71637b6> <https://colonialcollections.nl/schema#identifier> "S%20230-1223" .
 <https://n2t.net/ark:/27023/db30380a559aca74634a38bdc71637b6> <https://colonialcollections.nl/schema#description> "Herkomst: Yogjakarta, midden-Java." .

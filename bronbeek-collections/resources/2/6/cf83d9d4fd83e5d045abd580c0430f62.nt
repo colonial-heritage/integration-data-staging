@@ -3,9 +3,25 @@
 <https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#name> "Kopie van een oorspronkelijke bouwtekening van het Hotel voor Invaliden op het landgoed Bronbeek" .
 <https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#description> "Kopie van een oorspronkelijk gelithografeerde bouwtekening uit 1860 van het Hotel voor Invaliden op het landgoed Bronbeek.\r\n\"Plan van de 1ste verdieping en Plan van den Beganen Grond.\"" .
 <https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#inscription> "Rechtsonder vermeld: \r\nBeheert bij het bestek ingezonden door den ondergeteekende Bouwmeester, belast met de stichting van het Koloniale Militaire Invalidenhuis te Bronbeek bij misßive dd. 18 April 1860 \r\nW.N. Rose" .
-<https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#creator> "Luitenant-ingenieur Willem Nicolaas Rose (MWO4)" .
+<https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#creator> "Koninklijke Steendrukkerij v. C.W. Mieling" .
 <https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#creator> "Luitenant-ingenieur Willem Nicolaas Rose (MWO4)" .
+<https://n2t.net/ark:/27023/885eda56e2947bf0eb09acb1b4cd2724> <https://colonialcollections.nl/schema#creator> "H.J. Geerts" .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-17" .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#name> "Nederlanders delen uit medelijden sigaretten met de Indonesiërs" .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#description> "Nederlanders delen uit medelijden sigaretten met de Indonesiërs. 19 december 1948" .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#creator> "Mohammad Toha Adimidjojo" .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#identifier> "nf%201431-14" .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#name> "Geplaveide straat met vierkante paalwoningen en meer ruwe herinneringsstenen voor de doden" .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOnder de opname staat tekst: 'Geplaveide straat met vierkante paalwoningen en meer ruwe herinneringssteenen voor de dooden'. Ook dat de opname gemaakt is door 'Foto" .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#creator> "Foto Helbig." .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/884ae5ce27829763db3a0f0b0acc60ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/884ae5ce27829763db3a0f0b0acc60ba> <https://colonialcollections.nl/schema#identifier> "nf%201413-83" .
 <https://n2t.net/ark:/27023/884ae5ce27829763db3a0f0b0acc60ba> <https://colonialcollections.nl/schema#name> "Simpai" .
@@ -13,6 +29,20 @@
 <https://n2t.net/ark:/27023/884ae5ce27829763db3a0f0b0acc60ba> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/884ae5ce27829763db3a0f0b0acc60ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/884ae5ce27829763db3a0f0b0acc60ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#identifier> "2003/03/12-2-3/1" .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#name> "Verbouwing van de Commandantswoning op Bronbeek. Plan nà de verbouwing. 1:100 (5)5" .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#description> "Blauwdruk: Kon.Kol.Mil.Inv. huis Bronbeek. Verbouwing van de Commandantswoning op Br. Plan nà de verbouwing. 1:100 (5)5.\r\n\"Lichtdruk copie van M.F.Hiddink, Roermondseplein 26 Arnhem.\r\n2 exemplaren." .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#creator> "M.F. Hiddink" .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#identifier> "2004/08/29-5-5" .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#name> "Fotokopieën van brieven, overzicht Indië-tijd 4-5-7 RI (4 compagnie 5 bataljon 7 Regiment Infanterie) en documentatie monument gevallenen Nederlands-Indië in Loon op Zand." .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#description> "Fotokopieën van brieven, overzicht Indië-tijd 4-5-7 RI en documentatie monument gevallenen Nederlands-Indië in Loon op Zand.\r\n\r\n1. Brief van Cornelis Felsbourg aan Cees van Rhenen, Newborough, 7 juni 1996. Drie vellen gelinieerd papier met pen beschreven." .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#creator> "C. Felsbourg" .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8859559a7f707d634d0301806a139841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8859559a7f707d634d0301806a139841> <https://colonialcollections.nl/schema#identifier> "2004/12/05-2-2/8" .
 <https://n2t.net/ark:/27023/8859559a7f707d634d0301806a139841> <https://colonialcollections.nl/schema#name> "Platte pet geklede tenue subalterne officier Brigade Nederlands Nieuw-Guinea" .
@@ -34,12 +64,47 @@
 <https://n2t.net/ark:/27023/88600a204693713503742c61236020f0> <https://colonialcollections.nl/schema#creator> "Army Map Service, Washington D.C." .
 <https://n2t.net/ark:/27023/88600a204693713503742c61236020f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/88600a204693713503742c61236020f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/17" .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#name> "Man staand in water, op de achtergrond bergachtig landschap" .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#description> "Man staand in water, op de achtergrond bergachtig landschap." .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-10" .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#creator> "de heer C. Engelen" .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#identifier> "nf%201489-4" .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#name> "Tjitah - Manowéstam (menseneters)" .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gedrukte en geschreven tekst:\r\ngedrukt de naam van de fotograaf; geschreven: 'Tjitah-Manowéstam (menseneters)'\r\n\r\nOpname toont, voor de foto opgesteld, een groep donkere" .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/16" .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#creator> "Natalie Hoogmoed, KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8840a7f01c112b6a0085ac4957335861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8840a7f01c112b6a0085ac4957335861> <https://colonialcollections.nl/schema#identifier> "nf%20842-593" .
 <https://n2t.net/ark:/27023/8840a7f01c112b6a0085ac4957335861> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BE -01 t/m 36. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BE, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BE 02, in potlood EF 21." .
 <https://n2t.net/ark:/27023/8840a7f01c112b6a0085ac4957335861> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/8840a7f01c112b6a0085ac4957335861> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8840a7f01c112b6a0085ac4957335861> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#identifier> "nf%201777-5" .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'Zitje vóór kinderziekenzaal, Manokwari' en de naam van de fotograaf.\r\n\r\nOpname toont een veranda, waar een tafeltje staat met enige rotanstoelen. Er zit een" .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#creator> "H.ANDERSON - FOTO - MANOKWARI" .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/885c659b519ff511a7fcf5850407314c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/885c659b519ff511a7fcf5850407314c> <https://colonialcollections.nl/schema#identifier> "nf%201540-6" .
 <https://n2t.net/ark:/27023/885c659b519ff511a7fcf5850407314c> <https://colonialcollections.nl/schema#description> "Stereofoto, twee zo goed als identieke zwart/wit foto's naast elkaar op een stukje lichtgrijs karton geplakt, met anderen los aangetroffen.\r\n\r\nOp voorkant, onder foto's, in inkt geschreven tekst: 'Wat een pret'\r\n\r\nOp achterkant in inkt tekst: 'VIII. Aan d" .
@@ -480,54 +545,6 @@
 <https://n2t.net/ark:/27023/887cafc3340cd3ef8643308c70e30615> <https://colonialcollections.nl/schema#description> "Kris in schede met pendok en rechte kling, greepringen verdwenen, wrangka gescheurd; pendok met bronsverf bewerkt. In pendok \"sterftebewijs 1941\" in Javaans, vorige eigenaar?" .
 <https://n2t.net/ark:/27023/887cafc3340cd3ef8643308c70e30615> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/887cafc3340cd3ef8643308c70e30615> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#identifier> "NG-1998-7-17" .
-<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#name> "Nederlanders delen uit medelijden sigaretten met de Indonesiërs" .
-<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#description> "Nederlanders delen uit medelijden sigaretten met de Indonesiërs. 19 december 1948" .
-<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/883e3bab621a0800e8c8f3b89f99fe9d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#identifier> "nf%201431-14" .
-<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#name> "Geplaveide straat met vierkante paalwoningen en meer ruwe herinneringsstenen voor de doden" .
-<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOnder de opname staat tekst: 'Geplaveide straat met vierkante paalwoningen en meer ruwe herinneringssteenen voor de dooden'. Ook dat de opname gemaakt is door 'Foto" .
-<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/884031ed8035835b9f162ee2c42c5df7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#identifier> "2003/03/12-2-3/1" .
-<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#name> "Verbouwing van de Commandantswoning op Bronbeek. Plan nà de verbouwing. 1:100 (5)5" .
-<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#description> "Blauwdruk: Kon.Kol.Mil.Inv. huis Bronbeek. Verbouwing van de Commandantswoning op Br. Plan nà de verbouwing. 1:100 (5)5.\r\n\"Lichtdruk copie van M.F.Hiddink, Roermondseplein 26 Arnhem.\r\n2 exemplaren." .
-<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/884cdb78e683b5adf230a31b46f190cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#identifier> "2004/08/29-5-5" .
-<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#name> "Fotokopieën van brieven, overzicht Indië-tijd 4-5-7 RI (4 compagnie 5 bataljon 7 Regiment Infanterie) en documentatie monument gevallenen Nederlands-Indië in Loon op Zand." .
-<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#description> "Fotokopieën van brieven, overzicht Indië-tijd 4-5-7 RI en documentatie monument gevallenen Nederlands-Indië in Loon op Zand.\r\n\r\n1. Brief van Cornelis Felsbourg aan Cees van Rhenen, Newborough, 7 juni 1996. Drie vellen gelinieerd papier met pen beschreven." .
-<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/88513d56be0ef6bf22b66aa0ec5f3a76> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/17" .
-<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#name> "Man staand in water, op de achtergrond bergachtig landschap" .
-<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#description> "Man staand in water, op de achtergrond bergachtig landschap." .
-<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/886b28b8ef1dfe7c562e05a6f5a36348> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-868/5-10" .
-<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#name> "Foto´s  Batavia 1946-1948" .
-<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#description> "Foto´s. 27 foto´s Zwart-wit. Batavia 1946-1948. O.a. Marine.\r\nH. Smeele.\r\nFlatgebouw Soerabaia\r\nHr.M.S. \"Piet Hein\"\r\nL. Querel\r\nJuliana dok Soerabaia, 1947\r\nK. de Jong, Batavia december 1946\r\nKoningsplein Batavia\r\nHaven Priok\r\nPersoneel kledingmagazijn Ba" .
-<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/886b8efaafa2c494a907ff5f2814cc96> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#identifier> "nf%201489-4" .
-<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#name> "Tjitah - Manowéstam (menseneters)" .
-<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gedrukte en geschreven tekst:\r\ngedrukt de naam van de fotograaf; geschreven: 'Tjitah-Manowéstam (menseneters)'\r\n\r\nOpname toont, voor de foto opgesteld, een groep donkere" .
-<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/886bbaf5be951ec76947cc28cdbe92ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/16" .
-<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
-<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
-<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/887019d2f3ee38c3f84223cc5b0fe236> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/88471813c8a2318194cba106d897cc1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/88471813c8a2318194cba106d897cc1b> <https://colonialcollections.nl/schema#identifier> "X%205982" .
 <https://n2t.net/ark:/27023/88471813c8a2318194cba106d897cc1b> <https://colonialcollections.nl/schema#description> "Drie documenten waaronder een transcriptie en vertaling van een brief van den sibajak uit Kaban Djahé en transcriptie van de bilang met gedeeltelijke vertaling." .
@@ -573,11 +590,6 @@
 <https://n2t.net/ark:/27023/886a045ae3bce607bf9f5ffeb4ee34d2> <https://colonialcollections.nl/schema#description> "Leren tas" .
 <https://n2t.net/ark:/27023/886a045ae3bce607bf9f5ffeb4ee34d2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/886a045ae3bce607bf9f5ffeb4ee34d2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#identifier> "nf%201777-5" .
-<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant in potlood: 'Zitje vóór kinderziekenzaal, Manokwari' en de naam van de fotograaf.\r\n\r\nOpname toont een veranda, waar een tafeltje staat met enige rotanstoelen. Er zit een" .
-<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/885b3c796faf6ab9af50f43837523f92> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8845d2cec6fef84de5e1877dbb314d0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8845d2cec6fef84de5e1877dbb314d0e> <https://colonialcollections.nl/schema#identifier> "1873/06-1-4" .
 <https://n2t.net/ark:/27023/8845d2cec6fef84de5e1877dbb314d0e> <https://colonialcollections.nl/schema#name> "Prins Willem III (1650-1702)" .

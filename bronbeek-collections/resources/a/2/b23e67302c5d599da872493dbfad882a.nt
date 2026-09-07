@@ -1,10 +1,19 @@
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#identifier> "2002/00-33/29" .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#name> "47. Petroleumbedrijf te Balikpapan. (Oostkust van Borneo)" .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n47. Petroleumbedrijf te Balikpapan. (Oostkust van Borneo)" .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#inscription> "47. Petroleumbedrijf te Balikpapan. (Oostkust van Borneo)" .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#identifier> "2017/01/05-1-3/2" .
 <https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#name> "Foto's diensttijd E. Schuiteman" .
 <https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#description> "Foto's en prentbriefkaarten: 7 foto's en 4 prentbriefkaarten:\r\n\r\nPrentbriefkaart zwart/wit met foto J.A. Stevens, Uitgraven van Jap. bom voorzien van treklijn. Uitgeverij W. Van Hoeve, 's-Gravenhage. NIWIN. [drukwerk]." .
-<https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
+<https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
 <https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1a6c3fa28760158b9b6ebe4c76f1510> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/b1b4cd0dabafc8d7b3f5f9aec32c8f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1b4cd0dabafc8d7b3f5f9aec32c8f34> <https://colonialcollections.nl/schema#identifier> "nf%201066b" .
 <https://n2t.net/ark:/27023/b1b4cd0dabafc8d7b3f5f9aec32c8f34> <https://colonialcollections.nl/schema#name> "Salah satu action dari Tari Barabah Mandi (Sedang Mandi2) dihalaman Rumah Adat Taman Puti Bungsu (Bukit Tinggi)" .
@@ -12,6 +21,13 @@
 <https://n2t.net/ark:/27023/b1b4cd0dabafc8d7b3f5f9aec32c8f34> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b1b4cd0dabafc8d7b3f5f9aec32c8f34> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1b4cd0dabafc8d7b3f5f9aec32c8f34> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#identifier> "1925/10/01-2-3/3" .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#name> "Tableau de la partie de Batavia, ou s'est fait proprement le terrible massacre des chinois, le 9 octob. 1740" .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#description> "Prent. Ets.\r\n\"Tableau de la partie de Batavia, ou s'est fait proprement le terrible MASSACRE des CHINOIS, le 9 octob. 1740. Afbeelding van dat Gedeelte van Batavia, alwaar eigentlyk de schrikkelyke SLAGTING der CHINEZEN geschied is, den 9 Octob.1740.\"\r\n\"J" .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#creator> "Jacobus van der Schley" .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1baabc9c8aaed69ed7f359e1d29987d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1baabc9c8aaed69ed7f359e1d29987d> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/15" .
 <https://n2t.net/ark:/27023/b1baabc9c8aaed69ed7f359e1d29987d> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
@@ -19,6 +35,13 @@
 <https://n2t.net/ark:/27023/b1baabc9c8aaed69ed7f359e1d29987d> <https://colonialcollections.nl/schema#creator> "Boekhandel Visser & Co., Weltevreden" .
 <https://n2t.net/ark:/27023/b1baabc9c8aaed69ed7f359e1d29987d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1baabc9c8aaed69ed7f359e1d29987d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/216" .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten geb. 1859 overleden 1946 (zoon van generaal Jan van Swieten) gehuwd met C.L. van Swieten-Straeter." .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#creator> "J.J. de Haan" .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <https://colonialcollections.nl/schema#identifier> "2008/02/07-1-2/5" .
 <https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <https://colonialcollections.nl/schema#name> "Prentbriefkaart \"NIWIN\"" .
@@ -26,6 +49,22 @@
 <https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1c84e27f85b0481243a90e14728ecdf> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#identifier> "2014/10/24-3-13" .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#name> "Plattegrond van Soerabaia" .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#description> "Landkaart: plattegrond van Soerabaia. Druk: E.Fuhri & Co. Soerabaia. Uitgegeven door Het Woningbureau Versluis N.V. Soerabaia, Malang, Batavia-C. [Ongedateerd]" .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#creator> "Het Woningbureau Versluis N.V." .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#creator> "E. Fuhri & Co." .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-1" .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#creator> "Toko Bie Kong" .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <https://colonialcollections.nl/schema#identifier> "nf%201430-30" .
 <https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <https://colonialcollections.nl/schema#name> "Regenkleding nodig" .
@@ -33,6 +72,7 @@
 <https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1d7a8b4bcaa5a00d7f036e87774d5c2> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/b1da7877a34644628e936ba90e115dcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1da7877a34644628e936ba90e115dcc> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/197" .
 <https://n2t.net/ark:/27023/b1da7877a34644628e936ba90e115dcc> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
@@ -40,6 +80,13 @@
 <https://n2t.net/ark:/27023/b1da7877a34644628e936ba90e115dcc> <https://colonialcollections.nl/schema#creator> "Ebner" .
 <https://n2t.net/ark:/27023/b1da7877a34644628e936ba90e115dcc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1da7877a34644628e936ba90e115dcc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#identifier> "1972/03/20-1-1" .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#name> "Nr. 124 Een veldhospitaal" .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#description> "\"Foto\".uitgave van Kleijnenberg en Co., Haarlem: Nr. 124 Een veldhospitaal." .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1a74fbbd88fe944600c08b926cd9363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1a74fbbd88fe944600c08b926cd9363> <https://colonialcollections.nl/schema#identifier> "2012/12/15-1-19" .
 <https://n2t.net/ark:/27023/b1a74fbbd88fe944600c08b926cd9363> <https://colonialcollections.nl/schema#description> "Carte de visite." .
@@ -115,13 +162,6 @@
 <https://n2t.net/ark:/27023/b1cc23c923fd555b51d897ceac3025e4> <https://colonialcollections.nl/schema#inscription> "BW 5-74, 11-80, 6-58' en 'FN 03-88' rechts op kast 'RIA' voor serienummer" .
 <https://n2t.net/ark:/27023/b1cc23c923fd555b51d897ceac3025e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1cc23c923fd555b51d897ceac3025e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#identifier> "2002/00-33/29" .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#name> "47. Petroleumbedrijf te Balikpapan. (Oostkust van Borneo)" .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n47. Petroleumbedrijf te Balikpapan. (Oostkust van Borneo)" .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#inscription> "47. Petroleumbedrijf te Balikpapan. (Oostkust van Borneo)" .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b1c3c30d0c6efcb7c492799735538bc6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1a5d71e060b7d08b87c88538b845de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1a5d71e060b7d08b87c88538b845de4> <https://colonialcollections.nl/schema#identifier> "2001/09/24-3-7" .
 <https://n2t.net/ark:/27023/b1a5d71e060b7d08b87c88538b845de4> <https://colonialcollections.nl/schema#name> "Knopgewicht van 1 Kg" .
@@ -542,36 +582,6 @@
 <https://n2t.net/ark:/27023/b1e529ce2dab038d6a0df63aa63f6b30> <https://colonialcollections.nl/schema#description> "Document. Tijdelijke identiteitskaart voor bevrijde geïnterneerden. Departement van Justitie, Dienst Sociale Zaken K.D.P. van C.I. Galstaun, gedateerd 1 oktober 1945 te Kramat." .
 <https://n2t.net/ark:/27023/b1e529ce2dab038d6a0df63aa63f6b30> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b1e529ce2dab038d6a0df63aa63f6b30> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#identifier> "1925/10/01-2-3/3" .
-<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#name> "Tableau de la partie de Batavia, ou s'est fait proprement le terrible massacre des chinois, le 9 octob. 1740" .
-<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#description> "Prent. Ets.\r\n\"Tableau de la partie de Batavia, ou s'est fait proprement le terrible MASSACRE des CHINOIS, le 9 octob. 1740. Afbeelding van dat Gedeelte van Batavia, alwaar eigentlyk de schrikkelyke SLAGTING der CHINEZEN geschied is, den 9 Octob.1740.\"\r\n\"J" .
-<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b1b5b785635ad1d6a88577a9e10a10ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#identifier> "1970/10/06-1-104/216" .
-<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
-<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Portret van E.C. van Swieten. Op bruin karton geplakt.\r\nVerso: E.C. van Swieten geb. 1859 overleden 1946 (zoon van generaal Jan van Swieten) gehuwd met C.L. van Swieten-Straeter." .
-<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b1c2a777bd83b24e0885828d9a70f54a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#identifier> "2014/10/24-3-13" .
-<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#name> "Plattegrond van Soerabaia" .
-<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#description> "Landkaart: plattegrond van Soerabaia. Druk: E.Fuhri & Co. Soerabaia. Uitgegeven door Het Woningbureau Versluis N.V. Soerabaia, Malang, Batavia-C. [Ongedateerd]" .
-<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b1cd81d10aac1f405b3fd4bfc3ec5f6d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#identifier> "1995/03/08-2-2/10-1" .
-<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#name> "Negatieven van militaire exercities" .
-<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#description> "Fotonegatieven (6x6) van militaire exercities, ca. 1940-1950.\r\nOp papieren mapje: C.F.H. Studio, Toko Bie Kong, Foto Handel-Atelier, ParePare (Celebes)." .
-<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b1d22b59599a655d711cd2d3ca8e58e7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#identifier> "1972/03/20-1-1" .
-<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#name> "Nr. 124 Een veldhospitaal" .
-<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#description> "\"Foto\".uitgave van Kleijnenberg en Co., Haarlem: Nr. 124 Een veldhospitaal." .
-<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b1e719d8bc3a89d19ee6b0c2f168fb2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b1b016932902df2813a8a7daa2315d60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b1b016932902df2813a8a7daa2315d60> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42623" .
 <https://n2t.net/ark:/27023/b1b016932902df2813a8a7daa2315d60> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\thoofdtooi\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tveren plantenvezels, gevlochten\r\nAfmetingen:\tGeheel: 18,5 cm\r\nMedia:\t3156\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[31" .

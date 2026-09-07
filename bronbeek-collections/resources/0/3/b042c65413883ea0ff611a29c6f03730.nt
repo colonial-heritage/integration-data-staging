@@ -1,3 +1,10 @@
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/9" .
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#name> "Portret van Eugèn v Delden" .
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met inktpen) Eugèn v Delden\r\nVerso: Photografische inrichtingen van W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast het station. Negativen worden voor nabestelling bewaard" .
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#creator> "Photografische inrichtingen van W. Oldenkamp" .
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9b2d30487ab7f7c8d81c6ef45cfc5607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9b2d30487ab7f7c8d81c6ef45cfc5607> <https://colonialcollections.nl/schema#identifier> "nf%20842-96" .
 <https://n2t.net/ark:/27023/9b2d30487ab7f7c8d81c6ef45cfc5607> <https://colonialcollections.nl/schema#name> "Het Prambanan tempelcomplex (Candi Lara Jonggrang), Centraal-Java" .
@@ -5,6 +12,13 @@
 <https://n2t.net/ark:/27023/9b2d30487ab7f7c8d81c6ef45cfc5607> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/9b2d30487ab7f7c8d81c6ef45cfc5607> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9b2d30487ab7f7c8d81c6ef45cfc5607> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/5-9" .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#name> "Highway Bridge from New River, Jacksonville, North Carolina" .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Highway Bridge from New River, Jacksonville, North Carolina. Tichnor Quality Views." .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#creator> "J.H. Aman & Sons" .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9b346382dc2f235a395ca7295acf8884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9b346382dc2f235a395ca7295acf8884> <https://colonialcollections.nl/schema#identifier> "nf%201357-29" .
 <https://n2t.net/ark:/27023/9b346382dc2f235a395ca7295acf8884> <https://colonialcollections.nl/schema#name> "Kandy - meer vanaf villa \"Hermitage\"" .
@@ -40,6 +54,13 @@
 <https://n2t.net/ark:/27023/9b64a7d893a22a8b7c7002e409395a2a> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/9b64a7d893a22a8b7c7002e409395a2a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9b64a7d893a22a8b7c7002e409395a2a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#identifier> "1990/07/19-2-1" .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#name> "Plattegrond Birma spoorweg" .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#description> "Getekende plattegrond van de Birma spoorweg, schaal 1 : 2.000.000. Vervaardigd door de heer Coenen werkzaam bij de Topografische Dienst tijdens zijn gevangenschap. \r\nVerso vermeldt: Coenen St. Urbanusweg 129 Venlo\r\nTekening in potlood op gelinieerd papier" .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#creator> "G.R.T. Coenen" .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9b66cf622948def850e7d1ef96fa53a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9b66cf622948def850e7d1ef96fa53a1> <https://colonialcollections.nl/schema#identifier> "nf%201427-22" .
 <https://n2t.net/ark:/27023/9b66cf622948def850e7d1ef96fa53a1> <https://colonialcollections.nl/schema#description> "glasnegatief, zwart/wit, rechthoekig, los opgeborgen in zuurvrije envelop.\r\n\r\nOpname toont, vermoedelijk, een brede rivier. Op de oever links en op het water bebouwing. Deze doet 'Europees' aan.Te zien is ook een aanlegsteiger en meerdere prauwen.\r\n\r\nN.B." .
@@ -498,24 +519,6 @@
 <https://n2t.net/ark:/27023/9b6eb62ca72ff3fca4f2d75ce8ce672c> <https://colonialcollections.nl/schema#description> "Schildpad. Opgezet." .
 <https://n2t.net/ark:/27023/9b6eb62ca72ff3fca4f2d75ce8ce672c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9b6eb62ca72ff3fca4f2d75ce8ce672c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#identifier> "2013/05/27-4-9/9" .
-<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#name> "Portret van Eugèn v Delden" .
-<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#description> "Een foto van de famile Van Delden. Carte de visite.\r\nVerso: (handgeschreven met inktpen) Eugèn v Delden\r\nVerso: Photografische inrichtingen van W. Oldenkamp.  Arnhem Ridderstraat 27. Wageningen naast het station. Negativen worden voor nabestelling bewaard" .
-<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9b2a829b18414fdfc025615668411e42> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/5-9" .
-<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#name> "Highway Bridge from New River, Jacksonville, North Carolina" .
-<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Highway Bridge from New River, Jacksonville, North Carolina. Tichnor Quality Views." .
-<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9b317a0f22d3946893a137cd147128c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#identifier> "1990/07/19-2-1" .
-<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#name> "Plattegrond Birma spoorweg" .
-<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#description> "Getekende plattegrond van de Birma spoorweg, schaal 1 : 2.000.000. Vervaardigd door de heer Coenen werkzaam bij de Topografische Dienst tijdens zijn gevangenschap. \r\nVerso vermeldt: Coenen St. Urbanusweg 129 Venlo\r\nTekening in potlood op gelinieerd papier" .
-<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9b66a7b59770b8677843d27aaf10b4f6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9b29aff7c22ead1e7edd6bafd2364586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9b29aff7c22ead1e7edd6bafd2364586> <https://colonialcollections.nl/schema#identifier> "2002/07/17-4-25" .
 <https://n2t.net/ark:/27023/9b29aff7c22ead1e7edd6bafd2364586> <https://colonialcollections.nl/schema#description> "Zwaard in schede. Inlands model. Moderne productie. Hoornen greep, machinaal bewerkte kling. Houten schede met hoornen delen." .

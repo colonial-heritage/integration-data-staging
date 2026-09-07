@@ -6,6 +6,21 @@
 <https://n2t.net/ark:/27023/ab4ed6d54e53886adcce5ce9ea4f24aa> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/ab4ed6d54e53886adcce5ce9ea4f24aa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ab4ed6d54e53886adcce5ce9ea4f24aa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/50" .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#name> "Plaat 50. Lieden van Koetö Seréh." .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 50. Lieden van Koetö Seréh." .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#inscription> "Plaat 50. Lieden van Koetö Seréh." .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#identifier> "2000/09/22-1-79" .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#name> "Tekening van een godheid" .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#description> "Tekening. Ingekleurd. Olifantengod.\r\nBijgeleverd: \"Getekend door de 14-jarige schooljongen NGOERAH 1935. Denpassar- Bali (N.O.I.)\"" .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#creator> "Ngoerah" .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ab26c978c209ee707c9b5d9fdbf15bb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ab26c978c209ee707c9b5d9fdbf15bb7> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/55" .
 <https://n2t.net/ark:/27023/ab26c978c209ee707c9b5d9fdbf15bb7> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -13,6 +28,13 @@
 <https://n2t.net/ark:/27023/ab26c978c209ee707c9b5d9fdbf15bb7> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/ab26c978c209ee707c9b5d9fdbf15bb7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ab26c978c209ee707c9b5d9fdbf15bb7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#identifier> "1997/00-1/314" .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#name> "Overzichtskaart van Groot Atjeh" .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#description> "Overzichtskaart van Groot Atjeh. Great Acheh (Acheh proper) and the neighbouring littoral states.\r\nSchaal 1: 300.000, Engelse kaart met legenda.\r\nUitg. S.J. Brill. Leiden; P.J. Mulder lithograaf." .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#creator> "S.J. Brill" .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ab4db43d13cef9b22d76a58e86c63283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ab4db43d13cef9b22d76a58e86c63283> <https://colonialcollections.nl/schema#identifier> "1997/00-1/302" .
 <https://n2t.net/ark:/27023/ab4db43d13cef9b22d76a58e86c63283> <https://colonialcollections.nl/schema#name> "Kaarten van de regenval Java en Madoera, januari t/m december en één kaart met gem, jaarlijkse regenval" .
@@ -27,6 +49,20 @@
 <https://n2t.net/ark:/27023/ab53896ae831f9d4ca456ce9c7fb9bbe> <https://colonialcollections.nl/schema#creator> "Cordesius & Zonen" .
 <https://n2t.net/ark:/27023/ab53896ae831f9d4ca456ce9c7fb9bbe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ab53896ae831f9d4ca456ce9c7fb9bbe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#identifier> "1996/08/31-1-1/12" .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#name> "Rangonderscheidingsteken Sergeant (zijnde niet instructeur)" .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#description> "Rangonderscheidingsteken Sergeant (zijnde niet instructeur)\r\nRangonderscheidingsteken Sergeant 1 (zijnde niet instructeur) \"K.C. Luke Melbourne\"" .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#creator> "K.C. Luke" .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#identifier> "2006/00-40-18" .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#name> "Groepsportret van een bruidspaar en anderen met grote bloemstukken op de voorgrond" .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Groepsportret van bruidspaar en anderen en grote bloemstukken op de voorgrond. De foto is op een vergeeld karton geplakt met sierlijst.\r\nOp het karton is een stempel, die door versnijding gedeeltelijk is weggevallen. In rode letters staan " .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#creator> "Jau Wah Heng" .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ab5c5ecb4a5c8e6b3d60f078aa1c1c5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ab5c5ecb4a5c8e6b3d60f078aa1c1c5e> <https://colonialcollections.nl/schema#identifier> "nf%20608-34" .
 <https://n2t.net/ark:/27023/ab5c5ecb4a5c8e6b3d60f078aa1c1c5e> <https://colonialcollections.nl/schema#name> "Cheribonschool Kedjaksan Cheribon" .
@@ -94,13 +130,6 @@
 <https://n2t.net/ark:/27023/ab54ce744b0762dbee6d6f8e9731f22d> <https://colonialcollections.nl/schema#inscription> "Met dit wapen heeft Zijne Koninklijke Hoogheid Prins der Nederlanden geschoten op vijandelijke Duitse vliegtuigen gedurende de oorlogsdagen van 10-15 mei 1940" .
 <https://n2t.net/ark:/27023/ab54ce744b0762dbee6d6f8e9731f22d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ab54ce744b0762dbee6d6f8e9731f22d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/50" .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#name> "Plaat 50. Lieden van Koetö Seréh." .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 50. Lieden van Koetö Seréh." .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#inscription> "Plaat 50. Lieden van Koetö Seréh." .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab56cd7c136bae92b1906378415f18ab> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ab18ad282b1f993baca70b97265519ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ab18ad282b1f993baca70b97265519ad> <https://colonialcollections.nl/schema#identifier> "1993/08/24-14" .
 <https://n2t.net/ark:/27023/ab18ad282b1f993baca70b97265519ad> <https://colonialcollections.nl/schema#name> "Diverse luchtpostbrieven en wenskaarten" .
@@ -533,30 +562,6 @@
 <https://n2t.net/ark:/27023/ab6356723fceaa95a145b1e2aa65abb9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. \"Medan. Postkantoor en Hotel de Boer\". Linkerzijde gekartelde rand, hoort bij een set van prentbriefkaarten." .
 <https://n2t.net/ark:/27023/ab6356723fceaa95a145b1e2aa65abb9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ab6356723fceaa95a145b1e2aa65abb9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#identifier> "2000/09/22-1-79" .
-<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#name> "Tekening van een godheid" .
-<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#description> "Tekening. Ingekleurd. Olifantengod.\r\nBijgeleverd: \"Getekend door de 14-jarige schooljongen NGOERAH 1935. Denpassar- Bali (N.O.I.)\"" .
-<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab21ffd0cae0fdc4c0f2942153191127> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#identifier> "1997/00-1/314" .
-<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#name> "Overzichtskaart van Groot Atjeh" .
-<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#description> "Overzichtskaart van Groot Atjeh. Great Acheh (Acheh proper) and the neighbouring littoral states.\r\nSchaal 1: 300.000, Engelse kaart met legenda.\r\nUitg. S.J. Brill. Leiden; P.J. Mulder lithograaf." .
-<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab3acb0f229ec6bb2461336c28e62e2e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#identifier> "1996/08/31-1-1/12" .
-<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#name> "Rangonderscheidingsteken Sergeant (zijnde niet instructeur)" .
-<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#description> "Rangonderscheidingsteken Sergeant (zijnde niet instructeur)\r\nRangonderscheidingsteken Sergeant 1 (zijnde niet instructeur) \"K.C. Luke Melbourne\"" .
-<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab54628453147378b50f45d661f178a3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#identifier> "2006/00-40-18" .
-<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#name> "Groepsportret van een bruidspaar en anderen met grote bloemstukken op de voorgrond" .
-<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Groepsportret van bruidspaar en anderen en grote bloemstukken op de voorgrond. De foto is op een vergeeld karton geplakt met sierlijst.\r\nOp het karton is een stempel, die door versnijding gedeeltelijk is weggevallen. In rode letters staan " .
-<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab5804e266d1a5ab5a0e2fb9bff166ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ab2a66fda533fe7188c13b292122a2b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ab2a66fda533fe7188c13b292122a2b6> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-42357" .
 <https://n2t.net/ark:/27023/ab2a66fda533fe7188c13b292122a2b6> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tzwaard\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tijzer, gesmeed\r\nEmailadres: toelichting:\tZwaard met een ijzeren lemmet. De greep is gemaakt van hout met een opening aan de bovenkant.\r\nAfmetingen:\tL 69.8, Br 5.3\r" .

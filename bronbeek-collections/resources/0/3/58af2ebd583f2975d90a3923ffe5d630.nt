@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-49" .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite." .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#inscription> "Verzoeke 12 te maken van deze" .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/20" .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#name> "Eetstalletjes te Weltevreden" .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Eetstalletjes te Weltevreden'." .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#inscription> "Eetstalletjes te Weltevreden" .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#identifier> "1994/05/03-1-2" .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#name> "Doek aandenken KNIL" .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#description> "Doek, uitgegeven door gebr. Gerzion. Ontwerp J.J. van den Oudenakker. Afm. 75 x 75 cm. In goede staat." .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#creator> "J.J. van den Oudenakker" .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#creator> "Gebr. Gerzion" .
 <https://n2t.net/ark:/27023/ea4fbdbf9fc811607b57df0055c01eee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea4fbdbf9fc811607b57df0055c01eee> <https://colonialcollections.nl/schema#identifier> "2003/04/07-2-5" .
 <https://n2t.net/ark:/27023/ea4fbdbf9fc811607b57df0055c01eee> <https://colonialcollections.nl/schema#name> "Foto KTOMM Bronbeek 19 februari 2003" .
@@ -5,6 +29,13 @@
 <https://n2t.net/ark:/27023/ea4fbdbf9fc811607b57df0055c01eee> <https://colonialcollections.nl/schema#creator> "Dhr. A.P. Bakker" .
 <https://n2t.net/ark:/27023/ea4fbdbf9fc811607b57df0055c01eee> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea4fbdbf9fc811607b57df0055c01eee> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-53" .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#name> "Staand portret van pastoor Verbraak" .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Staand portret van pastoor Verbraak op passepartout.\r\nPastoor Henricus Christianus Verbraak was van 29 juni 1878 t/m 11 juli 1912 Pastoor van Atjeh.\r\n\r\nOp verso met rode stift: A.65a\r\nIn potlood: P78\r\nGedrukt: 6193" .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#creator> "F. Woudstra" .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea560c2917b66e6beac2d1ba9ce68a0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea560c2917b66e6beac2d1ba9ce68a0f> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-159/1" .
 <https://n2t.net/ark:/27023/ea560c2917b66e6beac2d1ba9ce68a0f> <https://colonialcollections.nl/schema#name> "Portret profile en trois-quarts van Frans Darlang in een marechaussee- uniform met MWO op het midden van de borst en een pet" .
@@ -26,6 +57,27 @@
 <https://n2t.net/ark:/27023/ea59ab5200f6cae783cba3e7f2d36048> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/ea59ab5200f6cae783cba3e7f2d36048> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea59ab5200f6cae783cba3e7f2d36048> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#identifier> "nf%201621-31" .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#name> "Bawomataluwo, Zuid Nias" .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: BAWOMATALUWO, Z.NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\nOpname to" .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-5" .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#name> "Foto van Bronbeek ?)" .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#description> "Foto van Bronbeek (?), gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#creator> "René van Bakel" .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-156/1" .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#name> "Carte-de-visite van twee jongetjes op een hobbelpaard" .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#description> "Foto. Studioportret van twee jongetjes op een hobbelpaard.\r\nCarte-de-visite van fotograaf C.E. Westerborg uit Arnhem.\r\nTekst verso: ´C.E. Westerborg, Photograaf, Vossenstraat B66, Arnhem. Voor nabestelling worden alle negatieven bewaard.´" .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#creator> "C.E. Westerborg" .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea734e77117cde3ca0a07b35f1080220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea734e77117cde3ca0a07b35f1080220> <https://colonialcollections.nl/schema#identifier> "nf%20925-21-3" .
 <https://n2t.net/ark:/27023/ea734e77117cde3ca0a07b35f1080220> <https://colonialcollections.nl/schema#name> "bijna wakker" .
@@ -33,6 +85,13 @@
 <https://n2t.net/ark:/27023/ea734e77117cde3ca0a07b35f1080220> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ea734e77117cde3ca0a07b35f1080220> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea734e77117cde3ca0a07b35f1080220> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#identifier> "1997/08/25-2-2" .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#name> "Groepsfoto van de kweekschool voor inlandse schepelingen te Makassar" .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout van karton. Zwart-wit.\r\nGroepsfoto van de kweekschool voor inlandse schepelingen te Makassar. Jau Sie Heng, Photographer, Passerstraat Makassar." .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#creator> "Jau Sie Heng" .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea575a1879ef3fcdfd48dee745f7332c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea575a1879ef3fcdfd48dee745f7332c> <https://colonialcollections.nl/schema#identifier> "nf%20680-74" .
 <https://n2t.net/ark:/27023/ea575a1879ef3fcdfd48dee745f7332c> <https://colonialcollections.nl/schema#description> "Strand met bebouwing en palmbomen, in de verte liggen tonnen op het strand. \r\n\r\nN.B.: Latere informatie van de geefster luidt: 'Waarschijnlijk Padang aan de kust'" .
@@ -90,20 +149,6 @@
 <https://n2t.net/ark:/27023/ea8881021b431c5de4d5c1ed5ad14a18> <https://colonialcollections.nl/schema#inscription> "De 2e wereldoorlog is voorbij... maar.." .
 <https://n2t.net/ark:/27023/ea8881021b431c5de4d5c1ed5ad14a18> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea8881021b431c5de4d5c1ed5ad14a18> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-49" .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite." .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#inscription> "Verzoeke 12 te maken van deze" .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea56bd00c2d6384634bdb8f52bceeb37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/20" .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#name> "Eetstalletjes te Weltevreden" .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Eetstalletjes te Weltevreden'." .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#inscription> "Eetstalletjes te Weltevreden" .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea735749b70ed9dd37e3a92b1de1169b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea49e4a175a3c7fe57c390fd2ee8e183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea49e4a175a3c7fe57c390fd2ee8e183> <https://colonialcollections.nl/schema#identifier> "2018/06/11-3-35" .
 <https://n2t.net/ark:/27023/ea49e4a175a3c7fe57c390fd2ee8e183> <https://colonialcollections.nl/schema#name> "Foto Station Bandoeng" .
@@ -524,42 +569,6 @@
 <https://n2t.net/ark:/27023/ea8a892885b6b6bbed9c6905552cb1e1> <https://colonialcollections.nl/schema#description> "Foto zwart-wit uit diensttijd korporaal OVW A.C. van Eerd, Nederlands-Indië bij 3de Compagnie 1ste Bataljon 8ste Regiment Infanterie (3-1-8 RI)." .
 <https://n2t.net/ark:/27023/ea8a892885b6b6bbed9c6905552cb1e1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ea8a892885b6b6bbed9c6905552cb1e1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#identifier> "1994/05/03-1-2" .
-<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#name> "Doek aandenken KNIL" .
-<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#description> "Doek, uitgegeven door gebr. Gerzion. Ontwerp J.J. van den Oudenakker. Afm. 75 x 75 cm. In goede staat." .
-<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea4ccaa4f8d748c3c7e4a76d0d964c0a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-53" .
-<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#name> "Staand portret van pastoor Verbraak" .
-<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Staand portret van pastoor Verbraak op passepartout.\r\nPastoor Henricus Christianus Verbraak was van 29 juni 1878 t/m 11 juli 1912 Pastoor van Atjeh.\r\n\r\nOp verso met rode stift: A.65a\r\nIn potlood: P78\r\nGedrukt: 6193" .
-<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea55a626d9b0ea400954099bb1c3cd1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#identifier> "nf%201621-31" .
-<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#name> "Bawomataluwo, Zuid Nias" .
-<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op licht grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: BAWOMATALUWO, Z.NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\nOpname to" .
-<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea5f80bbc9867e2ed467150e533813c9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#identifier> "1997/06/25-2-5" .
-<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#name> "Foto van Bronbeek ?)" .
-<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#description> "Foto van Bronbeek (?), gemaakt in 1997 voor artikel in Legerkoerier , 47e jrg., nr. 6 juni 1997\r\nKleurenfoto" .
-<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea67d55fb62db9bc9a016021faa7cabd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#identifier> "1997/05/26-1-156/1" .
-<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#name> "Carte-de-visite van twee jongetjes op een hobbelpaard" .
-<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#description> "Foto. Studioportret van twee jongetjes op een hobbelpaard.\r\nCarte-de-visite van fotograaf C.E. Westerborg uit Arnhem.\r\nTekst verso: ´C.E. Westerborg, Photograaf, Vossenstraat B66, Arnhem. Voor nabestelling worden alle negatieven bewaard.´" .
-<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea682432abda8b6fdb0f73a267ee84a6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#identifier> "1997/08/25-2-2" .
-<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#name> "Groepsfoto van de kweekschool voor inlandse schepelingen te Makassar" .
-<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout van karton. Zwart-wit.\r\nGroepsfoto van de kweekschool voor inlandse schepelingen te Makassar. Jau Sie Heng, Photographer, Passerstraat Makassar." .
-<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ea7c3b95166e936e0918250b48b62fad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ea4a302d28eeb1c5c21bdb8e6ac08957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ea4a302d28eeb1c5c21bdb8e6ac08957> <https://colonialcollections.nl/schema#identifier> "nf%201306-20-3" .
 <https://n2t.net/ark:/27023/ea4a302d28eeb1c5c21bdb8e6ac08957> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'pannen schuren' \r\n\r\nDe afbeelding toont een groepje meisjes, gekleed in jurk, rok en blouse of short en blouse, buiten gefotografeerd, bezig m" .

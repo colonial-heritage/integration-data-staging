@@ -1,11 +1,21 @@
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#identifier> "1885/09-1-22" .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#name> "Prins Alexander der Nederlanden" .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#description> "Prent: Prins Alexander der Nederlanden. \"Uitg. door A.C. Kruseman.\", \"J.-W.Kaiser sculps.\"" .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#inscription> "\"Uitg. door A.C. Kruseman.\", \"J.-W.Kaiser sculps.\"" .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#creator> "Johann Wilhelm (Hork) Kaiser" .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#creator> "A.C. Kruseman" .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#identifier> "1885/09-1-50" .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#name> "L.L. Rochussen, Minister van Staat, Gouverneur Generaal van Nederlands Indië enz." .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#description> "Prent. \"L.L. Rochussen, Minister van Staat, Gouverneur Generaal van Nederlands Indië enz..\"\r\n\"N.Pieneman pinx.\" & \"J.W.Kaiser sculps.\" & \"Uitgegeven door Frans Buffa en Zonen te Amsterdam\"\r\n\r\nOp achterzijde gestempeld: \"A. Ver Huell\"" .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#inscription> "L.L. Rochussen, Minister van Staat, Gouverneur Generaal van Nederlands Indië enz." .
-<https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#creator> "Frans Buffa & Zonen" .
+<https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#creator> "Johann Wilhelm (Hork) Kaiser" .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6ad9e122c5c819d2a1673c20a0eb0fcc> <https://colonialcollections.nl/schema#creator> "Frans Buffa & Zonen" .
 <https://n2t.net/ark:/27023/6a93ef7daa3b554c05ec725f857c00a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a93ef7daa3b554c05ec725f857c00a1> <https://colonialcollections.nl/schema#identifier> "1986/12-2-3" .
 <https://n2t.net/ark:/27023/6a93ef7daa3b554c05ec725f857c00a1> <https://colonialcollections.nl/schema#name> "Boroboedoer" .
@@ -13,6 +23,13 @@
 <https://n2t.net/ark:/27023/6a93ef7daa3b554c05ec725f857c00a1> <https://colonialcollections.nl/schema#creator> "Majoor der Genie KNIL T. van Erp" .
 <https://n2t.net/ark:/27023/6a93ef7daa3b554c05ec725f857c00a1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6a93ef7daa3b554c05ec725f857c00a1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/7" .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#name> "binnenplaats van het kasteel te Colditz (omtrek 125 pas!)" .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#description> "Foto van de binnenplaats van het kasteel te Colditz (omtrek 125 pas!) Nederlandse kwartieren, Britsche kwartieren.\r\nGestempeld: Oflag IV C 6. F.U. Geprüft." .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <https://colonialcollections.nl/schema#identifier> "nf%201408-72" .
 <https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <https://colonialcollections.nl/schema#name> "Tabaksboom" .
@@ -20,6 +37,7 @@
 <https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6aa54f0cba4735a52fd8b5314b628838> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/6aa9758417e804ebf1d8ed2ebe4edbf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6aa9758417e804ebf1d8ed2ebe4edbf3> <https://colonialcollections.nl/schema#identifier> "2013/03/28-2-8" .
 <https://n2t.net/ark:/27023/6aa9758417e804ebf1d8ed2ebe4edbf3> <https://colonialcollections.nl/schema#name> "Portret van T. van Genderen, Ermelo 1981" .
@@ -41,6 +59,13 @@
 <https://n2t.net/ark:/27023/6ab21b3ffb51875c4a9806083c80383a> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/6ab21b3ffb51875c4a9806083c80383a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6ab21b3ffb51875c4a9806083c80383a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#identifier> "2005/00-730" .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#name> "Portret van mevrouw N. van Straten-Kroese" .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#description> "Foto. Portret van mevrouw N. van Straten-Kroese, echtgenote van oud-commandant van Bronbeek generaal-majoor N.L.W. van Straten.\r\nTekst recto: ´Mevr. N. van Straten-Kroese, `Moeder´ van Bronbeek. 1946-1955´.\r\nN.B. In P&I staat overigens ´Kroeze´ met een z." .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#creator> "A. Moldovan" .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6ab7d45e6191f7d7e829c9370c70e3ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6ab7d45e6191f7d7e829c9370c70e3ea> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/161" .
 <https://n2t.net/ark:/27023/6ab7d45e6191f7d7e829c9370c70e3ea> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -62,6 +87,13 @@
 <https://n2t.net/ark:/27023/6abd14bef410a9fec43f1bb19d416b75> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/6abd14bef410a9fec43f1bb19d416b75> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6abd14bef410a9fec43f1bb19d416b75> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-28/20" .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#name> "Stabelan, map Manuscript 2: artikel over de Indische Berg-artillerie in het tijdschrift \"Onze neutraliteit : geïllustreerd maandschrift\", 1e jrg. 1914." .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#description> "Fotokopie van Artikel over de Indische Berg-artillerie in het tijdschrift \"Onze neutraliteit : geïllustreerd maandschrift\", 1e jrg. 1914 van G. Th. Slothouder, 1e lt. artillerie.  (5 p.)." .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#creator> "G.Th. Slothouder" .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6acdf23e4c01efb762a4acc7a18c28fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6acdf23e4c01efb762a4acc7a18c28fc> <https://colonialcollections.nl/schema#identifier> "nf%201559-8" .
 <https://n2t.net/ark:/27023/6acdf23e4c01efb762a4acc7a18c28fc> <https://colonialcollections.nl/schema#name> "Straatdanseres te Batavia" .
@@ -69,6 +101,12 @@
 <https://n2t.net/ark:/27023/6acdf23e4c01efb762a4acc7a18c28fc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/6acdf23e4c01efb762a4acc7a18c28fc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6acdf23e4c01efb762a4acc7a18c28fc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#identifier> "nf%201493-2" .
+<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant staan drie stippellijnen en ook de naam van de fotograaf.\r\n\r\nOpname toont een volwassen papoea man, helaas niet ten voeten uit. Mogelijk mis hij gefotografeerd als danser, of als muzikant. Hij draagt iet" .
+<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#creator> "R.B.Creak - Weltevreden" .
+<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6ab4741a5d2ef6052ad2e7d1ad9e2944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6ab4741a5d2ef6052ad2e7d1ad9e2944> <https://colonialcollections.nl/schema#identifier> "nf%20929-10-1" .
 <https://n2t.net/ark:/27023/6ab4741a5d2ef6052ad2e7d1ad9e2944> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, half opgeplakt, zonder bijschrift\r\n\r\nOpname van een inheemse man, gekleed in een witte kuitbroek en wit overhemd, die een licht gekleurd paard met zich mee voert, waarop een blanke vrouw zit, in het wit gekleed m" .
@@ -113,13 +151,6 @@
 <https://n2t.net/ark:/27023/6ad09220836988e2ad4166a08188594d> <https://colonialcollections.nl/schema#inscription> "Fa. A. Tack, Breda" .
 <https://n2t.net/ark:/27023/6ad09220836988e2ad4166a08188594d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6ad09220836988e2ad4166a08188594d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#identifier> "1885/09-1-22" .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#name> "Prins Alexander der Nederlanden" .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#description> "Prent: Prins Alexander der Nederlanden. \"Uitg. door A.C. Kruseman.\", \"J.-W.Kaiser sculps.\"" .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#inscription> "\"Uitg. door A.C. Kruseman.\", \"J.-W.Kaiser sculps.\"" .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a97a787d0d60e2889df93285d2dcda7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6a934a9cd460667e676d626b6fbbe195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6a934a9cd460667e676d626b6fbbe195> <https://colonialcollections.nl/schema#identifier> "2008/01/17-1-1/83" .
 <https://n2t.net/ark:/27023/6a934a9cd460667e676d626b6fbbe195> <https://colonialcollections.nl/schema#name> "Gewapende Nederlandse militairen in actie" .
@@ -540,24 +571,6 @@
 <https://n2t.net/ark:/27023/6ada513cdd712026fa870e42908f7ebe> <https://colonialcollections.nl/schema#description> "Kris met ivoren handvat. Houten schede met zilveren overtrek. Het schip van de schede ontbreekt. De kling is redelijk en heeft 9 slagen. Afm. tot. 43,5 cm.  In slechte staat." .
 <https://n2t.net/ark:/27023/6ada513cdd712026fa870e42908f7ebe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6ada513cdd712026fa870e42908f7ebe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/7" .
-<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#name> "binnenplaats van het kasteel te Colditz (omtrek 125 pas!)" .
-<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#description> "Foto van de binnenplaats van het kasteel te Colditz (omtrek 125 pas!) Nederlandse kwartieren, Britsche kwartieren.\r\nGestempeld: Oflag IV C 6. F.U. Geprüft." .
-<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a967a8d61506746598d5ec44cd4f60a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#identifier> "2005/00-730" .
-<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#name> "Portret van mevrouw N. van Straten-Kroese" .
-<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#description> "Foto. Portret van mevrouw N. van Straten-Kroese, echtgenote van oud-commandant van Bronbeek generaal-majoor N.L.W. van Straten.\r\nTekst recto: ´Mevr. N. van Straten-Kroese, `Moeder´ van Bronbeek. 1946-1955´.\r\nN.B. In P&I staat overigens ´Kroeze´ met een z." .
-<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6ab7b5fca2434a292741a0b4e9fcc302> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-28/20" .
-<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#name> "Stabelan, map Manuscript 2: artikel over de Indische Berg-artillerie in het tijdschrift \"Onze neutraliteit : geïllustreerd maandschrift\", 1e jrg. 1914." .
-<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#description> "Fotokopie van Artikel over de Indische Berg-artillerie in het tijdschrift \"Onze neutraliteit : geïllustreerd maandschrift\", 1e jrg. 1914 van G. Th. Slothouder, 1e lt. artillerie.  (5 p.)." .
-<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6ac6be10ccd884460776482012ac05a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6aabb2052b42fcec5b98e380bece120e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6aabb2052b42fcec5b98e380bece120e> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43061" .
 <https://n2t.net/ark:/27023/6aabb2052b42fcec5b98e380bece120e> <https://colonialcollections.nl/schema#description> "Zwaardmes" .
@@ -593,11 +606,6 @@
 <https://n2t.net/ark:/27023/6ad8d09adf78a5fb0e56fa5d1d7caa8d> <https://colonialcollections.nl/schema#description> "Wajang krutjil pop" .
 <https://n2t.net/ark:/27023/6ad8d09adf78a5fb0e56fa5d1d7caa8d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/6ad8d09adf78a5fb0e56fa5d1d7caa8d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#identifier> "nf%201493-2" .
-<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant staan drie stippellijnen en ook de naam van de fotograaf.\r\n\r\nOpname toont een volwassen papoea man, helaas niet ten voeten uit. Mogelijk mis hij gefotografeerd als danser, of als muzikant. Hij draagt iet" .
-<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/6a96352efb06275d269f269eeb16e93a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/6aa447ffc4686073e33bdabfb6807962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6aa447ffc4686073e33bdabfb6807962> <https://colonialcollections.nl/schema#identifier> "2016/01/06-1/28" .
 <https://n2t.net/ark:/27023/6aa447ffc4686073e33bdabfb6807962> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

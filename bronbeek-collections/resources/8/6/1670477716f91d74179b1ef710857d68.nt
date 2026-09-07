@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#identifier> "1988/03/08-1-1" .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#name> "Het Oogstfeest. Optocht van den Sultan met den Resident in Djokjakarta" .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#description> "Schoolplaat: \"Het Oogstfeest\". Optocht van den Sultan met den Resident in Djokjakarta naar een schilderij van Menno van Meeteren Brouwer. In goede staat." .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#inscription> "Het Oogstfeest. Optocht van den Sultan met den Resident in Djokjakarta" .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#creator> "Uitgever P.Noordhoff te Groningen" .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-30" .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#name> "127. De Sultan van Djokjakarta op zijn troon. Java." .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#description> "Schoolplaat. 127. De Sultan van Djokjakarta op zijn troon. Java." .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#inscription> "127. De Sultan van Djokjakarta op zijn troon. Java." .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9152c9f139d7eba5a14621cc0d7f4dae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9152c9f139d7eba5a14621cc0d7f4dae> <https://colonialcollections.nl/schema#identifier> "nf%20535" .
 <https://n2t.net/ark:/27023/9152c9f139d7eba5a14621cc0d7f4dae> <https://colonialcollections.nl/schema#name> "Spoorbrug" .
@@ -5,6 +21,13 @@
 <https://n2t.net/ark:/27023/9152c9f139d7eba5a14621cc0d7f4dae> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/9152c9f139d7eba5a14621cc0d7f4dae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9152c9f139d7eba5a14621cc0d7f4dae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-869/2-16" .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#name> "Carte de visite van Frans Kroon als cadet" .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite met portret van Cadet Frans Kroon." .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#creator> "J. Meijer & Co" .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/915a8ac742da449536faabde435dbaed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/915a8ac742da449536faabde435dbaed> <https://colonialcollections.nl/schema#identifier> "nf%20836-2" .
 <https://n2t.net/ark:/27023/915a8ac742da449536faabde435dbaed> <https://colonialcollections.nl/schema#name> "Brug op den weg Roeteng - Reo" .
@@ -26,6 +49,7 @@
 <https://n2t.net/ark:/27023/9162878354795eaf2c4aa047f8062a20> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/9162878354795eaf2c4aa047f8062a20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9162878354795eaf2c4aa047f8062a20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9162878354795eaf2c4aa047f8062a20> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/91631860f0e711740b25b50fa261b151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/91631860f0e711740b25b50fa261b151> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-252-1" .
 <https://n2t.net/ark:/27023/91631860f0e711740b25b50fa261b151> <https://colonialcollections.nl/schema#name> "Jas geklede tenue Nederlandse Bestuurskorps Nederlands Nieuw-Guinea" .
@@ -54,6 +78,7 @@
 <https://n2t.net/ark:/27023/9170e051d1a6666864339adee72d9b93> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/9170e051d1a6666864339adee72d9b93> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9170e051d1a6666864339adee72d9b93> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9170e051d1a6666864339adee72d9b93> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/9171a14ede88d6a9c79fd367fa74bcd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9171a14ede88d6a9c79fd367fa74bcd1> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-107" .
 <https://n2t.net/ark:/27023/9171a14ede88d6a9c79fd367fa74bcd1> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -61,6 +86,13 @@
 <https://n2t.net/ark:/27023/9171a14ede88d6a9c79fd367fa74bcd1> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/9171a14ede88d6a9c79fd367fa74bcd1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9171a14ede88d6a9c79fd367fa74bcd1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/330" .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Riviergezicht nabij Medan.\"\r\nUitgave van Deli Courant." .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#creator> "Deli Courant" .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/91766ece314f5e548778b0ea2633478c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/91766ece314f5e548778b0ea2633478c> <https://colonialcollections.nl/schema#identifier> "2017/01/20-1-2/2" .
 <https://n2t.net/ark:/27023/91766ece314f5e548778b0ea2633478c> <https://colonialcollections.nl/schema#name> "Carte de cabinet van de vrouw van Pakoe Boewoeno X, gefotografeerd door Atelier Kurkdjian" .
@@ -128,20 +160,6 @@
 <https://n2t.net/ark:/27023/9183414cb03d733889964603abc7561f> <https://colonialcollections.nl/schema#inscription> "\"4\" en \"40\"" .
 <https://n2t.net/ark:/27023/9183414cb03d733889964603abc7561f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9183414cb03d733889964603abc7561f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#identifier> "1988/03/08-1-1" .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#name> "Het Oogstfeest. Optocht van den Sultan met den Resident in Djokjakarta" .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#description> "Schoolplaat: \"Het Oogstfeest\". Optocht van den Sultan met den Resident in Djokjakarta naar een schilderij van Menno van Meeteren Brouwer. In goede staat." .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#inscription> "Het Oogstfeest. Optocht van den Sultan met den Resident in Djokjakarta" .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/917c0687998aca6f497a0a8ff352ef53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#identifier> "2001/09/17-2-30" .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#name> "127. De Sultan van Djokjakarta op zijn troon. Java." .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#description> "Schoolplaat. 127. De Sultan van Djokjakarta op zijn troon. Java." .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#inscription> "127. De Sultan van Djokjakarta op zijn troon. Java." .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/917eaa931899dd8b4174580748f3a3f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9151912c932d316e12ffff722aeecfd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9151912c932d316e12ffff722aeecfd5> <https://colonialcollections.nl/schema#identifier> "1999/07/16-5-17" .
 <https://n2t.net/ark:/27023/9151912c932d316e12ffff722aeecfd5> <https://colonialcollections.nl/schema#name> "Foto van bruidspaar J.A. de Jong en B. Staal, te Den Haag, op trap voor deur" .
@@ -526,18 +544,6 @@
 <https://n2t.net/ark:/27023/918a03dfb62106f79f47c8c9de1bdcf3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, totaal 348 stuks, van diensttijd van R.J. Mulder bij 43 Zelfstandige Mitrailleur Compagnie (43 ZMC)  in Nederlands-Indië 1949-1950:\r\nnatuurfoto's, foto's van voornamelijk Nederlandse militairen, foto's van havens, sportdagen etc. in de pe" .
 <https://n2t.net/ark:/27023/918a03dfb62106f79f47c8c9de1bdcf3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/918a03dfb62106f79f47c8c9de1bdcf3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-869/2-16" .
-<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#name> "Carte de visite van Frans Kroon als cadet" .
-<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite met portret van Cadet Frans Kroon." .
-<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9153766ac101ce7b6dc545fe7b09e985> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/330" .
-<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Riviergezicht nabij Medan.\"\r\nUitgave van Deli Courant." .
-<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9175f9bc22a12ba25c53002a0faa2207> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/915c4ef194dde82c6597f5d3e64ac27c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/915c4ef194dde82c6597f5d3e64ac27c> <https://colonialcollections.nl/schema#identifier> "nf%201353-17-3" .
 <https://n2t.net/ark:/27023/915c4ef194dde82c6597f5d3e64ac27c> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst.\r\n\r\nOpname toont een onverharde weg met (rubber)bomen erlangs. Links, verscholen achter bomen een huis, mogelijk het woonhuis van een blanke employé. Rechts een g" .

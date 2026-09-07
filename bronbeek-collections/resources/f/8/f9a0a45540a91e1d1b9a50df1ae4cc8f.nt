@@ -1,3 +1,12 @@
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#identifier> "1885/09-1-14" .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#name> "Zijne Koninklijke Hoogheid Willem Frederik George Lodewijk Prins van Oranje enz:enz:enz. en Keizerlijke Hoogheid Anna Paulowna Prinses van Oranje Gebore Groot-Vorstinne van Rusland, enz:enz:enz." .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#description> "Prent (proefdruk):  \"Zijne Koninklijke Hoogheid Willem Frederik George Lodewijk Prins van Oranje enz:enz:enz. en Keizerlijke Hoogheid Anna Paulowna Prinses van Oranje Gebore Groot-Vorstinne van Rusland, enz:enz:enz.\"\r\n\"Geschilderd door J.W. Pieneman, Ridd" .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#inscription> "\"Zijne Koninklijke Hoogheid Willem Frederik George Lodewijk Prins van Oranje enz:enz:enz. en Keizerlijke Hoogheid Anna Paulowna Prinses van Oranje Gebore Groot-Vorstinne van Rusland, enz:enz:enz.\"\r\n\"Geschilderd door J.W. Pieneman, Ridder der Orde van den Nederlandschen Leeuw\", \"Gegraveerd door P.Velijn.\"" .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#creator> "P. Velijn" .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#creator> "J.W. Pieneman" .
 <https://n2t.net/ark:/27023/2cbb7e150ef2ba29bda9e8648f4f00e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2cbb7e150ef2ba29bda9e8648f4f00e0> <https://colonialcollections.nl/schema#identifier> "2005/10/30-3-3" .
 <https://n2t.net/ark:/27023/2cbb7e150ef2ba29bda9e8648f4f00e0> <https://colonialcollections.nl/schema#name> "Frederik Ernst van Heaften voor Tante Agathe" .
@@ -6,6 +15,14 @@
 <https://n2t.net/ark:/27023/2cbb7e150ef2ba29bda9e8648f4f00e0> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
 <https://n2t.net/ark:/27023/2cbb7e150ef2ba29bda9e8648f4f00e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2cbb7e150ef2ba29bda9e8648f4f00e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-72" .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#name> "Carte de visite: Crone met zoon (Bernard), D.Wreesman met zoon (Anton)" .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Crone met zoon (Bernard), D.Wreesman met zoon (Anton)" .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#inscription> "Crone met zoon (Bernard), D.Wreesman met zoon (Anton)" .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2cb90f32d990d1ba5d1399db19c72088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2cb90f32d990d1ba5d1399db19c72088> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-558" .
 <https://n2t.net/ark:/27023/2cb90f32d990d1ba5d1399db19c72088> <https://colonialcollections.nl/schema#name> "Jas veldtenue Papoea Vrijwilligers Korps (PVK) Nederlands Nieuw-Guinea" .
@@ -27,6 +44,14 @@
 <https://n2t.net/ark:/27023/2cbff67bdf5fb319e6818ee2b703204b> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
 <https://n2t.net/ark:/27023/2cbff67bdf5fb319e6818ee2b703204b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2cbff67bdf5fb319e6818ee2b703204b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2cbff67bdf5fb319e6818ee2b703204b> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#identifier> "2017/01/02-2-6" .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#name> "Groepsfoto onderofficieren ridder Militaire Willems Orde" .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#description> "Foto zwart/wit op passepartout. Groepsfoto bijeenkomst 30 april 1885 van ridders Militaire Willems Orde onderofficieren te Den Haag. J.A. Stelwagen RMWO-4 (1829) staande, 5de van rechts." .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#creator> "C.P. Wollharz" .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ccc162993437b4cf5b14f2335e67a4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ccc162993437b4cf5b14f2335e67a4f> <https://colonialcollections.nl/schema#identifier> "nf%20678-3-9" .
 <https://n2t.net/ark:/27023/2ccc162993437b4cf5b14f2335e67a4f> <https://colonialcollections.nl/schema#name> "Zwarte band van asfalt boven de waterspiegel" .
@@ -41,6 +66,13 @@
 <https://n2t.net/ark:/27023/2cd3b4c3603829b9d7eeb7da4a47af1a> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/2cd3b4c3603829b9d7eeb7da4a47af1a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2cd3b4c3603829b9d7eeb7da4a47af1a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/7" .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz staat aangetreden op de binnenplaats van het kasteel Doorwerth, Legermuseum" .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#description> "Detachement Van Heutsz staat aangetreden op de binnenplaats van het kasteel Doorwerth, Legermuseum. Generaal Hoefer ontmoet hen.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2ccb65ac1635ebf3e67340218db6a510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2ccb65ac1635ebf3e67340218db6a510> <https://colonialcollections.nl/schema#identifier> "nf%201918-94" .
 <https://n2t.net/ark:/27023/2ccb65ac1635ebf3e67340218db6a510> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, beide foto's geplakt op een reepje vergeeld karton.\r\n\r\nOp achterkant tekst in potlood: 'Kweek Kemoening '30 - oculeren Hevea'\r\n\r\nOpnames tonen de aanplant van nog jonge rubberbomen. Blijkbaar geoculeerde exemplaren.\r\nDeze rubberboom" .
@@ -85,20 +117,6 @@
 <https://n2t.net/ark:/27023/2ce5d8bc97c7e9b68b67345124986cf3> <https://colonialcollections.nl/schema#inscription> "Overal wordt er \"Gerelia\" gevoerd...." .
 <https://n2t.net/ark:/27023/2ce5d8bc97c7e9b68b67345124986cf3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2ce5d8bc97c7e9b68b67345124986cf3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#identifier> "1885/09-1-14" .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#name> "Zijne Koninklijke Hoogheid Willem Frederik George Lodewijk Prins van Oranje enz:enz:enz. en Keizerlijke Hoogheid Anna Paulowna Prinses van Oranje Gebore Groot-Vorstinne van Rusland, enz:enz:enz." .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#description> "Prent (proefdruk):  \"Zijne Koninklijke Hoogheid Willem Frederik George Lodewijk Prins van Oranje enz:enz:enz. en Keizerlijke Hoogheid Anna Paulowna Prinses van Oranje Gebore Groot-Vorstinne van Rusland, enz:enz:enz.\"\r\n\"Geschilderd door J.W. Pieneman, Ridd" .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#inscription> "\"Zijne Koninklijke Hoogheid Willem Frederik George Lodewijk Prins van Oranje enz:enz:enz. en Keizerlijke Hoogheid Anna Paulowna Prinses van Oranje Gebore Groot-Vorstinne van Rusland, enz:enz:enz.\"\r\n\"Geschilderd door J.W. Pieneman, Ridder der Orde van den Nederlandschen Leeuw\", \"Gegraveerd door P.Velijn.\"" .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2cb5971853449d3af70e9b7dc78c0853> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-72" .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#name> "Carte de visite: Crone met zoon (Bernard), D.Wreesman met zoon (Anton)" .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Crone met zoon (Bernard), D.Wreesman met zoon (Anton)" .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#inscription> "Crone met zoon (Bernard), D.Wreesman met zoon (Anton)" .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ccad7cbb36abeec2c649b85cef8ca5d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2cae5a42827faf9330cb0276e4dcee89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2cae5a42827faf9330cb0276e4dcee89> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-12" .
 <https://n2t.net/ark:/27023/2cae5a42827faf9330cb0276e4dcee89> <https://colonialcollections.nl/schema#name> "Map met correspondentie betreffende \"The Lost Batallion\"" .
@@ -513,18 +531,6 @@
 <https://n2t.net/ark:/27023/2cf86a9f1c845543ef776dc2f93aa70b> <https://colonialcollections.nl/schema#description> "Mouwembleem, metaal, klein, Z-brigade." .
 <https://n2t.net/ark:/27023/2cf86a9f1c845543ef776dc2f93aa70b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/2cf86a9f1c845543ef776dc2f93aa70b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#identifier> "2017/01/02-2-6" .
-<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#name> "Groepsfoto onderofficieren ridder Militaire Willems Orde" .
-<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#description> "Foto zwart/wit op passepartout. Groepsfoto bijeenkomst 30 april 1885 van ridders Militaire Willems Orde onderofficieren te Den Haag. J.A. Stelwagen RMWO-4 (1829) staande, 5de van rechts." .
-<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2cc26cd7c03836540faf8f5da2d53a8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/7" .
-<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz staat aangetreden op de binnenplaats van het kasteel Doorwerth, Legermuseum" .
-<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#description> "Detachement Van Heutsz staat aangetreden op de binnenplaats van het kasteel Doorwerth, Legermuseum. Generaal Hoefer ontmoet hen.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/2ceaf88078bd7479e8477100bc0a8afa> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/2cb2b742579ef50282e443ef7c20a87c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2cb2b742579ef50282e443ef7c20a87c> <https://colonialcollections.nl/schema#identifier> "S%203389ai" .
 <https://n2t.net/ark:/27023/2cb2b742579ef50282e443ef7c20a87c> <https://colonialcollections.nl/schema#description> "9 kaarten van residentie Bantam in map" .

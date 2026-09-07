@@ -1,3 +1,19 @@
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/8" .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#name> "Hangbrug over eene rivier in de PLantentuin te Buitenzorg" .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Hangbrug over eene rivier in de PLantentuin te Buitenzorg.'" .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#inscription> "Hangbrug over eene rivier in de PLantentuin te Buitenzorg" .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#identifier> "1917/03/30-1-1" .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#name> "Militaire marsch van de Stafmuziek te Batavia opgedragen aan de Leger Cdt" .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#description> "Muziekstuk. Militaire marsch van de Stafmuziek te Batavia opgedragen aan de Leger Commandant, door Zijne Excellentie de gepensioneerde Luitenant Generaal T.J.A. van Zijll de Jong op zijn 81e verjaardag.\"\r\n\r\nSchenkingsbrief aanwezig in album." .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#inscription> "Marche Militaire gecomponeerd en eerbiedig opgedragen aan Z.E. den Commandant van het Nederlandsch-Indisch leger T.J.A. van Zijll de Jong door G.J.H. van Dam Kapelmeester der Stafmuziek te Batavia." .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#creator> "Kapelmeester der Stafmuziek G.J.H. van Dam" .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d42534fd73c641f32fa5cf12febb11c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d42534fd73c641f32fa5cf12febb11c8> <https://colonialcollections.nl/schema#identifier> "nf%201481-2" .
 <https://n2t.net/ark:/27023/d42534fd73c641f32fa5cf12febb11c8> <https://colonialcollections.nl/schema#name> "Bedojo's danseressen van de Soenan van Solo" .
@@ -46,20 +62,6 @@
 <https://n2t.net/ark:/27023/d431dd7881afdc53f745a11a9a9ec47e> <https://colonialcollections.nl/schema#inscription> "Foto's van de bijzetting te Amsterdam op 9 juni 1927 van wijlen Lt.Gen. J.B. van Heutsz. No.1853" .
 <https://n2t.net/ark:/27023/d431dd7881afdc53f745a11a9a9ec47e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/d431dd7881afdc53f745a11a9a9ec47e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/8" .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#name> "Hangbrug over eene rivier in de PLantentuin te Buitenzorg" .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies). 'Hangbrug over eene rivier in de PLantentuin te Buitenzorg.'" .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#inscription> "Hangbrug over eene rivier in de PLantentuin te Buitenzorg" .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d41fd7b91314391428b08d0c10f3b7f9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#identifier> "1917/03/30-1-1" .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#name> "Militaire marsch van de Stafmuziek te Batavia opgedragen aan de Leger Cdt" .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#description> "Muziekstuk. Militaire marsch van de Stafmuziek te Batavia opgedragen aan de Leger Commandant, door Zijne Excellentie de gepensioneerde Luitenant Generaal T.J.A. van Zijll de Jong op zijn 81e verjaardag.\"\r\n\r\nSchenkingsbrief aanwezig in album." .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#inscription> "Marche Militaire gecomponeerd en eerbiedig opgedragen aan Z.E. den Commandant van het Nederlandsch-Indisch leger T.J.A. van Zijll de Jong door G.J.H. van Dam Kapelmeester der Stafmuziek te Batavia." .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/d430bb99bf319d85a2688fc617fda83a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/d41e91d5583af825e68b530b7db9a070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d41e91d5583af825e68b530b7db9a070> <https://colonialcollections.nl/schema#identifier> "1971/08/14-1-4" .
 <https://n2t.net/ark:/27023/d41e91d5583af825e68b530b7db9a070> <https://colonialcollections.nl/schema#name> "Patrouillerapport van de 1e Luitenant Schmidt, 1911" .

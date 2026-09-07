@@ -1,3 +1,20 @@
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/2" .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja" .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja. 16 januari 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepartout m" .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#creator> "Identification number" .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#creator> "R.B. Prawiro Kaswardjo" .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#identifier> "2002/00-33/6" .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#name> "12. Maleiers uit Midden-Sumatra." .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n12. Maleiers uit Midden-Sumatra." .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#inscription> "12. Maleiers uit Midden-Sumatra." .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c8930713b59aa71da86c3cf59777c30a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c8930713b59aa71da86c3cf59777c30a> <https://colonialcollections.nl/schema#identifier> "1998/04/28-2-7/12" .
 <https://n2t.net/ark:/27023/c8930713b59aa71da86c3cf59777c30a> <https://colonialcollections.nl/schema#name> "Foto Indonesië, 1946-1950 en Nieuw Guinea, 1955-1956" .
@@ -5,6 +22,13 @@
 <https://n2t.net/ark:/27023/c8930713b59aa71da86c3cf59777c30a> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/c8930713b59aa71da86c3cf59777c30a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c8930713b59aa71da86c3cf59777c30a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/345" .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Passar, Palembang.\"\r\nUitgave van M.A. Jamato, Palembang." .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#creator> "M.A. Jamato" .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c8afdde024ff07bf73ac34a552728f7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c8afdde024ff07bf73ac34a552728f7e> <https://colonialcollections.nl/schema#identifier> "2013/11/15-1-2" .
 <https://n2t.net/ark:/27023/c8afdde024ff07bf73ac34a552728f7e> <https://colonialcollections.nl/schema#name> "Dirk-Jan Schoot, 42 jaar" .
@@ -12,6 +36,28 @@
 <https://n2t.net/ark:/27023/c8afdde024ff07bf73ac34a552728f7e> <https://colonialcollections.nl/schema#creator> "Mw. Lique Schoot" .
 <https://n2t.net/ark:/27023/c8afdde024ff07bf73ac34a552728f7e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c8afdde024ff07bf73ac34a552728f7e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#identifier> "2017/01/02-4-4" .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#name> "Mokken van wit geperst glas" .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#description> "Mokken van wit geperst glas. 4 stuks" .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#creator> "Corning Glass Works" .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#identifier> "1995/06/29-1-2/5" .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#name> "Kamp Kedong Badak/Buitenzorg/Tjimahi kamp 1942-'45" .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met [pen]tekening door J.H. Otto. Blik van buiten af in een interieur met zitende man op een stapelbed \r\n\r\nBehorende bij vier prentbriefkaarten (inv.nrs. 1995/06/29-1-2/1 t/m 1995/06/29-1-2/3 en 1995/06/29-1-2/4)." .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#creator> "J.H. Otto" .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#identifier> "2017/02/19-2-2" .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#name> "helmplaat stalen helm Koninklijke Landmacht en stalen helm model KNIL" .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#description> "Helmplaat stalen helm Koninklijke Landmacht en stalen helm model KNIL. Ovaal gekroonde klimmende leeuw.\r\nVormgever: Chris van der Hoef\r\n\r\nIngevoerd voor de stalen helm Koninklijke Landmacht model 1927." .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#creator> "N.V. De Vereenigde Blikfabrieken" .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#creator> "Christiaan Johannes van der Hoef" .
 <https://n2t.net/ark:/27023/c892e7d29d930df3a8de3600c5973063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c892e7d29d930df3a8de3600c5973063> <https://colonialcollections.nl/schema#identifier> "nf%20842-633" .
 <https://n2t.net/ark:/27023/c892e7d29d930df3a8de3600c5973063> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BH 01 t/m 36. Deze slede is opgeborgen in grijze doos met lichtgrijs deksel, gemerkt met BH, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BH 01, in potlood EN 22\r\n\r\nOpname" .
@@ -59,20 +105,6 @@
 <https://n2t.net/ark:/27023/c8bf1dcff58a5c1fddfab494d02a7eb1> <https://colonialcollections.nl/schema#inscription> "3" .
 <https://n2t.net/ark:/27023/c8bf1dcff58a5c1fddfab494d02a7eb1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c8bf1dcff58a5c1fddfab494d02a7eb1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#identifier> "1980/01/23-1-10/2" .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#name> "Ontvangst bij Sultan van Djocja" .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#description> "Foto:  Geelzijden etui met 6 foto's. Bezoek Gouverneur Generaal de Jonge aan Solo (of Djocja?).\r\nOntvangst bij Sultan van Djocja. 16 januari 1935. Op voorzijde in relief: \"R.B. Pr. Kaswardjo, Photograaf, Kraton J.K\"\r\nFoto opgeplakt op bruin passepartout m" .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#inscription> "R.B. Pr. Kaswardjo, Photograaf, Kraton J.K" .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c8b7a666df9917c3d0035ef5431d3545> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#identifier> "2002/00-33/6" .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#name> "12. Maleiers uit Midden-Sumatra." .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n12. Maleiers uit Midden-Sumatra." .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#inscription> "12. Maleiers uit Midden-Sumatra." .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c8d86188383e969d93bea11d361c03dc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c8931e452e60edd2d5c891e181d31dce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c8931e452e60edd2d5c891e181d31dce> <https://colonialcollections.nl/schema#identifier> "1999/06/14-1-1" .
 <https://n2t.net/ark:/27023/c8931e452e60edd2d5c891e181d31dce> <https://colonialcollections.nl/schema#name> "Documenten van de Reserve-majoor J.J. van der Waarde, periode 1938-1962" .
@@ -505,30 +537,6 @@
 <https://n2t.net/ark:/27023/c8dbe35ab1ca4e93485f9db1c32825a4> <https://colonialcollections.nl/schema#description> "Foto diensttijd matroos Bart Burgers in Nederlands Nieuw Guinea in 1956. Bart Burgers werkte als matroos stoker op HMS de Ruyter." .
 <https://n2t.net/ark:/27023/c8dbe35ab1ca4e93485f9db1c32825a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c8dbe35ab1ca4e93485f9db1c32825a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/345" .
-<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Passar, Palembang.\"\r\nUitgave van M.A. Jamato, Palembang." .
-<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c89bddce1c2509eaf9aa3aa87e9c1050> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#identifier> "2017/01/02-4-4" .
-<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#name> "Mokken van wit geperst glas" .
-<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#description> "Mokken van wit geperst glas. 4 stuks" .
-<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c8b493d444e43dc30810be5cd557527c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#identifier> "1995/06/29-1-2/5" .
-<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#name> "Kamp Kedong Badak/Buitenzorg/Tjimahi kamp 1942-'45" .
-<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met [pen]tekening door J.H. Otto. Blik van buiten af in een interieur met zitende man op een stapelbed \r\n\r\nBehorende bij vier prentbriefkaarten (inv.nrs. 1995/06/29-1-2/1 t/m 1995/06/29-1-2/3 en 1995/06/29-1-2/4)." .
-<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c8ba6c3246a575bdf2b9f51f46dbbe21> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#identifier> "2017/02/19-2-2" .
-<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#name> "helmplaat stalen helm Koninklijke Landmacht en stalen helm model KNIL" .
-<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#description> "Helmplaat stalen helm Koninklijke Landmacht en stalen helm model KNIL. Ovaal gekroonde klimmende leeuw.\r\nVormgever: Chris van der Hoef\r\n\r\nIngevoerd voor de stalen helm Koninklijke Landmacht model 1927." .
-<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c8c29796c0b187497832ba1a622dd367> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c8ab810d525e99a4bd149c299ed16513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c8ab810d525e99a4bd149c299ed16513> <https://colonialcollections.nl/schema#identifier> "nf%201305-18-5" .
 <https://n2t.net/ark:/27023/c8ab810d525e99a4bd149c299ed16513> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een man, twee volwassen vrouwen en een jong meisje, zittend/staand op de hoge oever van een brede rivier. De man draagt witte kleren, waaronder een " .

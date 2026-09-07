@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/135" .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#name> "Plaat 135. Leprozen." .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 135. Leprozen. (plaat 29 in publicatie Kempes)" .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#inscription> "Plaat 135. Leprozen." .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/153" .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia. 1288. Noord en Rijswijk (Weltevreden)." .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/81e8765600157cb32da6c6e83c5ec488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/81e8765600157cb32da6c6e83c5ec488> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-83" .
 <https://n2t.net/ark:/27023/81e8765600157cb32da6c6e83c5ec488> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -74,13 +89,6 @@
 <https://n2t.net/ark:/27023/81fa0fbaede692817dde54c2438548d8> <https://colonialcollections.nl/schema#inscription> "C:W:1825:L:H; M:A:2M:1/10K" .
 <https://n2t.net/ark:/27023/81fa0fbaede692817dde54c2438548d8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/81fa0fbaede692817dde54c2438548d8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/135" .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#name> "Plaat 135. Leprozen." .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#description> "Foto.\r\nPlaat 135. Leprozen. (plaat 29 in publicatie Kempes)" .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#inscription> "Plaat 135. Leprozen." .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/81e083f8037b9231573f21447bf7b9b8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/81d78e12abb6a6150f18c8ff916f3132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/81d78e12abb6a6150f18c8ff916f3132> <https://colonialcollections.nl/schema#identifier> "2010/12/23-1-10" .
 <https://n2t.net/ark:/27023/81d78e12abb6a6150f18c8ff916f3132> <https://colonialcollections.nl/schema#name> "De Locomotief, 85ste jaargang no.216, 16 september 1936" .
@@ -513,12 +521,6 @@
 <https://n2t.net/ark:/27023/8220dec46368ff7cfe349e774494a89f> <https://colonialcollections.nl/schema#description> "Collectezak. Hout met katoen." .
 <https://n2t.net/ark:/27023/8220dec46368ff7cfe349e774494a89f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8220dec46368ff7cfe349e774494a89f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/153" .
-<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Batavia. 1288. Noord en Rijswijk (Weltevreden)." .
-<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/81e6a123a6f3020a21de2ae47f2e60e0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/81dbf95302963e42ecc8b2f369a53465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/81dbf95302963e42ecc8b2f369a53465> <https://colonialcollections.nl/schema#identifier> "2015/11/02-1-7/19" .
 <https://n2t.net/ark:/27023/81dbf95302963e42ecc8b2f369a53465> <https://colonialcollections.nl/schema#description> "Foto" .

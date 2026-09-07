@@ -54,6 +54,13 @@
 <https://n2t.net/ark:/27023/bc984b9918d19ac4486cd5ee2a8f0c70> <https://colonialcollections.nl/schema#creator> "Otto August Oscar Kreefft" .
 <https://n2t.net/ark:/27023/bc984b9918d19ac4486cd5ee2a8f0c70> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bc984b9918d19ac4486cd5ee2a8f0c70> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/379" .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Uitbarsting v/d Goenoeng-Api te Ternate in November 1907.\"" .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#creator> "Gebr. Que" .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bca4f19a3eebd72d3befed026a95f7d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bca4f19a3eebd72d3befed026a95f7d3> <https://colonialcollections.nl/schema#identifier> "2005/00-633/20" .
 <https://n2t.net/ark:/27023/bca4f19a3eebd72d3befed026a95f7d3> <https://colonialcollections.nl/schema#name> "Foto van een vijver in Narmada, lustoord van de Vorsten van Lombok, met achterliggende bossages" .
@@ -554,12 +561,6 @@
 <https://n2t.net/ark:/27023/bca66b8f562e668be3806435022a9b72> <https://colonialcollections.nl/schema#description> "Etiket in kraag met vermelding: M. de Koning  Hofleverancier  Weltevreden" .
 <https://n2t.net/ark:/27023/bca66b8f562e668be3806435022a9b72> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/bca66b8f562e668be3806435022a9b72> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/379" .
-<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Uitbarsting v/d Goenoeng-Api te Ternate in November 1907.\"" .
-<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/bca096defdc1bf33a54aad91baf78b3b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/bc6aaf6c3610a2a6b6ed44aa7b9504f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bc6aaf6c3610a2a6b6ed44aa7b9504f8> <https://colonialcollections.nl/schema#identifier> "S%2047-13" .
 <https://n2t.net/ark:/27023/bc6aaf6c3610a2a6b6ed44aa7b9504f8> <https://colonialcollections.nl/schema#description> "Zwaard met schede; lemmet recht, breed uitlopend; aan weerszijden on- der de rug brede bloedgroeven; bruingeel houten gevest eindigend in een knobbel; boveneinde iets gebogen; op de plaats v.d. steel- ring; omwinding met gevlochten koperdraad; ijzeren sto" .

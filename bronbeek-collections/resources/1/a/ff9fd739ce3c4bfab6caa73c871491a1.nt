@@ -1,3 +1,28 @@
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-64" .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#name> "Karbouwen" .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Karbouwen" .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#inscription> "Karbouwen" .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#creator> "G. Adolfs" .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#creator> "Masman & Stroink, Semarang" .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#identifier> "2002/00-33/34" .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#name> "126. Resident en Soesoehoenan te Solo. Java." .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n126. Resident en Soesoehoenan te Solo. Java." .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#inscription> "126. Resident en Soesoehoenan te Solo. Java." .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-37" .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#name> "96. Beplanten van een Rijstveld." .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n96. Beplanten van een Rijstveld." .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#inscription> "96. Beplanten van een Rijstveld." .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ee5cca4b69302a6c71ac6e6638d61d11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ee5cca4b69302a6c71ac6e6638d61d11> <https://colonialcollections.nl/schema#identifier> "nf%20620-2" .
 <https://n2t.net/ark:/27023/ee5cca4b69302a6c71ac6e6638d61d11> <https://colonialcollections.nl/schema#name> "Badende buffels (Zuid-Java)" .
@@ -27,6 +52,14 @@
 <https://n2t.net/ark:/27023/ee62e04526494ed7a9b112f029feefec> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
 <https://n2t.net/ark:/27023/ee62e04526494ed7a9b112f029feefec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ee62e04526494ed7a9b112f029feefec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ee62e04526494ed7a9b112f029feefec> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/2" .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#creator> "Zindler, Djokjakarta" .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ee8790e343dcced82e85ce2e9faaf91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ee8790e343dcced82e85ce2e9faaf91e> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/274" .
 <https://n2t.net/ark:/27023/ee8790e343dcced82e85ce2e9faaf91e> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
@@ -41,6 +74,21 @@
 <https://n2t.net/ark:/27023/ee8e4aa4d3cea7f1e39aeddfb8418e37> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/ee8e4aa4d3cea7f1e39aeddfb8418e37> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ee8e4aa4d3cea7f1e39aeddfb8418e37> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ee8e4aa4d3cea7f1e39aeddfb8418e37> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#identifier> "nf%20527-4" .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#name> "bouw van pijlers van een spoorburg" .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#description> "Bouw van pijlers van een spoorbrug\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng" .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M. Luijks, Bandoeng" .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/9" .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: The Suez Canal. War Memorial to the Hopnour of the Indian Army at Port Tewfik. 321" .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"The Suez Canal. War Memorial to the Honour of the Indian Army at Port Tewfik. 321\"" .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#creator> "The Oriental Commercial Bureau Port Saïd" .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ee669addee3698a290887f02021dec63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ee669addee3698a290887f02021dec63> <https://colonialcollections.nl/schema#identifier> "EDO%20481-109" .
 <https://n2t.net/ark:/27023/ee669addee3698a290887f02021dec63> <https://colonialcollections.nl/schema#description> "ansichtkaart, zwart/wit, rechthoekig, ongekarteld, opgeplakt.\r\n\r\nOpname van een Balinese vrouw met ontbloot bovenlijf. Zij staat voor een fraai gewerkte gebeeldhouwde muur." .
@@ -77,27 +125,6 @@
 <https://n2t.net/ark:/27023/ee80131569612338f27b4cf344e7ef10> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ee80131569612338f27b4cf344e7ef10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ee80131569612338f27b4cf344e7ef10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-64" .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#name> "Karbouwen" .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Karbouwen" .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#inscription> "Karbouwen" .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ee5b073506eb66c288d9776e35df8628> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#identifier> "2002/00-33/34" .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#name> "126. Resident en Soesoehoenan te Solo. Java." .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n126. Resident en Soesoehoenan te Solo. Java." .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#inscription> "126. Resident en Soesoehoenan te Solo. Java." .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ee8673adffeeb7bd8204ef3b3cd3b5d9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#identifier> "1993/06/01-1-37" .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#name> "96. Beplanten van een Rijstveld." .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#description> "Schoolplaat, zwart-wit.\r\n96. Beplanten van een Rijstveld." .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#inscription> "96. Beplanten van een Rijstveld." .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ee90d81a05144c0d5c68922807fe86d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ee583773c749b8240ad53c69a8d14fe7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ee583773c749b8240ad53c69a8d14fe7> <https://colonialcollections.nl/schema#identifier> "2011/10/08-1-5/156" .
 <https://n2t.net/ark:/27023/ee583773c749b8240ad53c69a8d14fe7> <https://colonialcollections.nl/schema#name> "Foto diensttijd 1946-1950 Nederlands-Indië" .
@@ -518,24 +545,6 @@
 <https://n2t.net/ark:/27023/ee97a3e5f4135c03df26ac88c22df9f0> <https://colonialcollections.nl/schema#description> "zw/w. foto, mat. groep van 8 personen, 4 volwassenen en 4 kinderen.\r\n\r\nfoto is opgeplakt met aantal andere foto's in album of een katern van een album.   \r\n\r\nFoto afkomstig uit de collectie van M.Th. Slagter, vader van schenker. Op verlof in Nederland gei" .
 <https://n2t.net/ark:/27023/ee97a3e5f4135c03df26ac88c22df9f0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ee97a3e5f4135c03df26ac88c22df9f0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#identifier> "2015/02/04-15/2" .
-<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#name> "Foto's fragmenten van de Borobudur" .
-<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#description> "Foto's, 15 stuks (kleinbeeld), fragmenten van de Borobudur; fotograaf Zindler, Djokja." .
-<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ee63b15769b9f6739d1ff664f9228dff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#identifier> "nf%20527-4" .
-<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#name> "bouw van pijlers van een spoorburg" .
-<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#description> "Bouw van pijlers van een spoorbrug\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng" .
-<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ee91719e6d129b5a8a2f826b8d8ebe48> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/9" .
-<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: The Suez Canal. War Memorial to the Hopnour of the Indian Army at Port Tewfik. 321" .
-<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"The Suez Canal. War Memorial to the Honour of the Indian Army at Port Tewfik. 321\"" .
-<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ee94bf53a26aca0c083f2f9a1a8a3a7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ee5bd5a0edd9765e8b5491b5ce78a5f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ee5bd5a0edd9765e8b5491b5ce78a5f8> <https://colonialcollections.nl/schema#identifier> "nf%201355-5-4" .
 <https://n2t.net/ark:/27023/ee5bd5a0edd9765e8b5491b5ce78a5f8> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen geschreven tekst.\r\n\r\nOpname toont een blanke vrouw en een Indonesische man, staand bij een jonge olifant die zijn slurf uitstrekt naar de man. Zij staan onder een a" .

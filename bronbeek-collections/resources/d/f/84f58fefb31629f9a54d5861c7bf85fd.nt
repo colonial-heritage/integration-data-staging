@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/11" .
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Biljartzaal" .
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Biljartzaal. Met medaillon van Köhler" .
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#creator> "H.A.G.de Groot" .
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#identifier> "nf%20701-4" .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#name> "Missigit te Djocjakarta" .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#description> "De afbeelding toont de missigit (moskee) te Yogyakarta\r\n\r\nbijschrift linksonder; 'Missigit te Djocjakarta. Missigit at Djocjacarta'\r\nbijschrift rechtsonder; 'Missigit à Djocjakarta. Missigit zu Djocjakarta'" .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/1fcdde88854ad7a5f2513897983927f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1fcdde88854ad7a5f2513897983927f7> <https://colonialcollections.nl/schema#identifier> "nf%201413-245" .
 <https://n2t.net/ark:/27023/1fcdde88854ad7a5f2513897983927f7> <https://colonialcollections.nl/schema#name> "Vertrek van Tandjoeng Laoet per prauw naar Bioekoe" .
@@ -9,9 +24,11 @@
 <https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#identifier> "nf%20419-62" .
 <https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#name> "Djangerspeelster" .
 <https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#description> "Ansichtkaart  met een voorstelling van een djanger danseres\r\n\r\nOp de achterzijde vermeld;\r\n'Djanjerspeelster. Djangér kalih diri. Danseuses (djangers)'\r\n\r\nDriekleur Serie III. Kleurfoto L. Blok. Druk \"Imperator\" Lisse Cliché's \"Polygraph\" Haarlem" .
-<https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
 <https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://n2t.net/ark:/27023/1fce16e4930802ce6ab08b82db2da30f> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
 <https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <https://colonialcollections.nl/schema#identifier> "nf%201473-12" .
 <https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <https://colonialcollections.nl/schema#name> "Een van de merkwaardige trappen die naar het Diëng Plateau leiden" .
@@ -19,6 +36,7 @@
 <https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1fce261c921f4110adae0a6427cb2cdc> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
 <https://n2t.net/ark:/27023/1fd60834a9b0b2e84a3852b39cdf0654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1fd60834a9b0b2e84a3852b39cdf0654> <https://colonialcollections.nl/schema#identifier> "nf%20262-3" .
 <https://n2t.net/ark:/27023/1fd60834a9b0b2e84a3852b39cdf0654> <https://colonialcollections.nl/schema#name> "Candi Sewu" .
@@ -69,9 +87,10 @@
 <https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#identifier> "nf%201732-18" .
 <https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant is er een stempel: 'Copyright JAAP ZINDLER - Biak - Nieuw Guinea'.\r\n\r\nOpname toont een aantal houten woningen gebouwd op palen boven water. Er lopen heel eenvoudige bruggetjes naar toe.\r\nOp de voorgrond " .
-<https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#creator> "JAAP ZINDLER - Biak - Nieuw Guinea" .
 <https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/1ff556a8689d2dae1494fb641b284883> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/1ffa9a9d66d52fd120c5a7a0310ae917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1ffa9a9d66d52fd120c5a7a0310ae917> <https://colonialcollections.nl/schema#identifier> "nf%201537-14" .
 <https://n2t.net/ark:/27023/1ffa9a9d66d52fd120c5a7a0310ae917> <https://colonialcollections.nl/schema#description> "Stereofoto, twee zo goed als identieke zwart/wit foto's naast elkaar op een stukje groen karton geplakt, met anderen los aangetroffen.\r\n\r\nOp voor- en achterkant van een nummer voorzien.\r\n\r\nOpnames tonen en straatbeeld. Een kruizing van wegen. Op de voorgr" .
@@ -540,18 +559,6 @@
 <https://n2t.net/ark:/27023/1ffecbdb5490438798efd8b457a53b41> <https://colonialcollections.nl/schema#description> "Foto, zwart-wit. Genomen rond 1920. [Afm. onbekend].  In goede staat." .
 <https://n2t.net/ark:/27023/1ffecbdb5490438798efd8b457a53b41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1ffecbdb5490438798efd8b457a53b41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#identifier> "2006/00-24-3/11" .
-<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#name> "Souvenir aan Bronbeek: Biljartzaal" .
-<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#description> "Foto op passepartout. \"Souvenir aan Bronbeek\". Biljartzaal. Met medaillon van Köhler" .
-<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1fc6af813bf58a8b15f3753382a8fa04> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#identifier> "nf%20701-4" .
-<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#name> "Missigit te Djocjakarta" .
-<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#description> "De afbeelding toont de missigit (moskee) te Yogyakarta\r\n\r\nbijschrift linksonder; 'Missigit te Djocjakarta. Missigit at Djocjacarta'\r\nbijschrift rechtsonder; 'Missigit à Djocjakarta. Missigit zu Djocjakarta'" .
-<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/1fcc02728ec685375772128c9e13d4ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1fbdfe18de5d4a0bf2764800869d575a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1fbdfe18de5d4a0bf2764800869d575a> <https://colonialcollections.nl/schema#identifier> "nf%201355-7-1" .
 <https://n2t.net/ark:/27023/1fbdfe18de5d4a0bf2764800869d575a> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan bovenkant met lijm in album geplakt.\r\nOp achterkant geen tekst aangetroffen.\r\n\r\nOpname toont een motorschip met één pijp en één mast. Over bijna de hele lengte is er een zeil over het dek gespannen. Op de achtersteven een" .

@@ -1,3 +1,27 @@
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-84" .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#name> "Ruine Gowa Soerija-rage (Waterpaleis) Cheribon." .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ruine Gowa Soerija-rage (Waterpaleis) Cheribon." .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#inscription> "Ruine Gowa Soerija-rage (Waterpaleis) Cheribon." .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#identifier> "2002/00-33/28" .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#name> "42. Suikerfabriek van binnen." .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n42. Suikerfabriek van binnen." .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#inscription> "42. Suikerfabriek van binnen." .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#identifier> "2002/00-33/24" .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#name> "37. Inwendige van een Theefabriek." .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n37. Inwendige van een Theefabriek." .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#inscription> "37. Inwendige van een Theefabriek." .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4002b3356db300b0f3f32db365e8865d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4002b3356db300b0f3f32db365e8865d> <https://colonialcollections.nl/schema#identifier> "2005/03/18-4-75/47" .
 <https://n2t.net/ark:/27023/4002b3356db300b0f3f32db365e8865d> <https://colonialcollections.nl/schema#name> "Twee militairen werken aan het in elkaar zetten van een stalen brug" .
@@ -5,6 +29,36 @@
 <https://n2t.net/ark:/27023/4002b3356db300b0f3f32db365e8865d> <https://colonialcollections.nl/schema#creator> "Dienst voor Legercontacten" .
 <https://n2t.net/ark:/27023/4002b3356db300b0f3f32db365e8865d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4002b3356db300b0f3f32db365e8865d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#identifier> "1883/02-1" .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#name> "Portret van N.J. Bruce." .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#description> "Prent. Portret van N.J. Bruce. Gouverneur Generaal Nederlands Indië." .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#creator> "Chimaer van Oudendorp" .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#identifier> "2003/00-20-7" .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van het hoofdgebouw van Bronbeek met ziekenpaviljoen" .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Hoofdgebouw met ziekenpaviljoen´ Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#creator> "drukkerij A.G.I. Rotterdam" .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/49" .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#creator> "C. van der Aa" .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#creator> "P. Vlaanderen" .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#identifier> "nf%20701-7" .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#name> "Pidjed-Massage" .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#description> "De afbeelding toont een jonge vrouw die gemasseerd wordt op de Indonesische manier die pijed wordt genoemd\r\n\r\nbijschrift linksonder; 'Pidjed-Massage. Pidjed-Massage'\r\nbijschrift rechtsonder; 'Pidjed Massage. Pidjed Massage'" .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#creator> "Haarlemsche Photo. & Lithograph. Inrichting De Tulp" .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#creator> "Uitgave N.V. \"Uitgevers My H.Buning\" Djocjakarta" .
 <https://n2t.net/ark:/27023/40075cd79b03e894d41ae7f86866357b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/40075cd79b03e894d41ae7f86866357b> <https://colonialcollections.nl/schema#identifier> "nf%201793-1" .
 <https://n2t.net/ark:/27023/40075cd79b03e894d41ae7f86866357b> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOpname toont vermoedelijk een wasplaats. Van ergens wordt door een pijp water aangevoerd. Er liggen heel veel grote en kleine keien. Drie lokale jongens zijn aanwezig.\r\nDe achtergrond is een helling waarin terrassen z" .
@@ -57,27 +111,6 @@
 <https://n2t.net/ark:/27023/403cb661ad4e22b52f8644adc6ebb701> <https://colonialcollections.nl/schema#inscription> "Opname op de weg naar Kopeng" .
 <https://n2t.net/ark:/27023/403cb661ad4e22b52f8644adc6ebb701> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/403cb661ad4e22b52f8644adc6ebb701> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-84" .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#name> "Ruine Gowa Soerija-rage (Waterpaleis) Cheribon." .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Ruine Gowa Soerija-rage (Waterpaleis) Cheribon." .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#inscription> "Ruine Gowa Soerija-rage (Waterpaleis) Cheribon." .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4012894442aaef0afab36846709d1f24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#identifier> "2002/00-33/28" .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#name> "42. Suikerfabriek van binnen." .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n42. Suikerfabriek van binnen." .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#inscription> "42. Suikerfabriek van binnen." .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/401e158027c558e83ee6b8adca306b66> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#identifier> "2002/00-33/24" .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#name> "37. Inwendige van een Theefabriek." .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n37. Inwendige van een Theefabriek." .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#inscription> "37. Inwendige van een Theefabriek." .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4037d544e2cccac9b97fd2f6f37a37ef> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/400106519e7858fb5220fb800768ae46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/400106519e7858fb5220fb800768ae46> <https://colonialcollections.nl/schema#identifier> "2006/00-27/6-2/19" .
 <https://n2t.net/ark:/27023/400106519e7858fb5220fb800768ae46> <https://colonialcollections.nl/schema#name> "Foto's van Phillipus de Lege, oppergeschutskonstabel" .
@@ -528,30 +561,6 @@
 <https://n2t.net/ark:/27023/404b6f0f5034e317bb8d2c4a4ae5a144> <https://colonialcollections.nl/schema#description> "Foto uit de periode van diensttijd Nederlands-Indië 1945-1947. Foto van totaal 64 stuks met onder meer foto's van vakantie in Malakka, Middelandse zeereis, sergeant Naraijana met Madras wapen, Brits-Indische sergeants, Molukken, Ipoh (Maleisië), 'Doden va" .
 <https://n2t.net/ark:/27023/404b6f0f5034e317bb8d2c4a4ae5a144> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/404b6f0f5034e317bb8d2c4a4ae5a144> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#identifier> "1883/02-1" .
-<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#name> "Portret van N.J. Bruce." .
-<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#description> "Prent. Portret van N.J. Bruce. Gouverneur Generaal Nederlands Indië." .
-<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/400ad4074078445e48437353bf1cf008> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#identifier> "2003/00-20-7" .
-<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#name> "Prentbriefkaart van een foto van het hoofdgebouw van Bronbeek met ziekenpaviljoen" .
-<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Zwartwit foto. ´Hoofdgebouw met ziekenpaviljoen´ Bronbeek.\r\nDrukkerij A.G.I. Rotterdam" .
-<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/401b939404566426fabdc0bd8bba5760> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/49" .
-<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/402158647c912056fc075364018078e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#identifier> "nf%20701-7" .
-<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#name> "Pidjed-Massage" .
-<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#description> "De afbeelding toont een jonge vrouw die gemasseerd wordt op de Indonesische manier die pijed wordt genoemd\r\n\r\nbijschrift linksonder; 'Pidjed-Massage. Pidjed-Massage'\r\nbijschrift rechtsonder; 'Pidjed Massage. Pidjed Massage'" .
-<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4026289d82762354898e24d04401e290> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/400be8f9dc93b9ca24c9149325ab25ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/400be8f9dc93b9ca24c9149325ab25ed> <https://colonialcollections.nl/schema#identifier> "nf%201309-34-2" .
 <https://n2t.net/ark:/27023/400be8f9dc93b9ca24c9149325ab25ed> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een blanke man, zittend in de vensterbank bij een openstaand raam. Hij is in het wit gekleed. Naast hem staat een blanke vrouw met een map of zoiets in haar handen.  \r\n\r\nDe" .

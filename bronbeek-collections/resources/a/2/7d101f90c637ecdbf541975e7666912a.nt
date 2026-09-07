@@ -12,6 +12,13 @@
 <https://n2t.net/ark:/27023/5fc0da1aae9a06de7364d0dc7fafa8cc> <https://colonialcollections.nl/schema#creator> "Adma" .
 <https://n2t.net/ark:/27023/5fc0da1aae9a06de7364d0dc7fafa8cc> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5fc0da1aae9a06de7364d0dc7fafa8cc> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#identifier> "2011/01/24-1-2" .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#name> "Tekening \"De Doop\", van R.H. Mulder" .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#description> "Tekening in passepartout, in potlood. \"De Doop\", gesigneerd rechtsonder R.H.M. wat staat voor Reinhart Hendrikus Mulder (1894-1942), burgemeester van Bandjarmasin. Gemaakt in 1939." .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#creator> "Reinhart Hendrikus Mulder" .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5fd6ba96585db9c4b259fc8a0e506736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5fd6ba96585db9c4b259fc8a0e506736> <https://colonialcollections.nl/schema#identifier> "nf%20681-13-3" .
 <https://n2t.net/ark:/27023/5fd6ba96585db9c4b259fc8a0e506736> <https://colonialcollections.nl/schema#name> "Bredeshave" .
@@ -33,6 +40,13 @@
 <https://n2t.net/ark:/27023/5fe232dd5a36c63c14b1745b117af575> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5fe232dd5a36c63c14b1745b117af575> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5fe232dd5a36c63c14b1745b117af575> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/124" .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#name> "Balinese Dancers (Legon)" .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balinese Dancers (Legon)" .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5fe636fb671126d34d3493e0c6a37d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5fe636fb671126d34d3493e0c6a37d24> <https://colonialcollections.nl/schema#identifier> "2003/02/12-1" .
 <https://n2t.net/ark:/27023/5fe636fb671126d34d3493e0c6a37d24> <https://colonialcollections.nl/schema#name> "Foto serie \"Dertig gezigten op Atjeh\". Nieuwe reeks" .
@@ -46,12 +60,24 @@
 <https://n2t.net/ark:/27023/5fb17c1c16c619dc7ebec308ae7b5689> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/5fb17c1c16c619dc7ebec308ae7b5689> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5fb17c1c16c619dc7ebec308ae7b5689> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#identifier> "nf%20972" .
+<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Gedeeltelijk geplakt op een tussenvel dat op zijn beurt met tape aan één kant op karton is geplakt.\r\n\r\nDe opname toont vier jonge vrouwen, van dichtbij gefotografeerd. Het zijn danseressen en zij dragen fraaie hoofdtooien.\r\n\r" .
+<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#creator> "Kino-Foto-Huis Würffel" .
+<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5fc9dc988df6fd1577cda35514fc1928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5fc9dc988df6fd1577cda35514fc1928> <https://colonialcollections.nl/schema#identifier> "nf%20842-722" .
 <https://n2t.net/ark:/27023/5fc9dc988df6fd1577cda35514fc1928> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd in blauw frame, opgeborgen in rode slede, benoemd met 'Indonesië 1977 - AR t/m AU\r\n\r\nOp de dia staat een nummer 04-28; 26AS\r\n\r\nOpname toont gebouw daterend uit 1937 (ANNO 1937). Er is een ingang met daarboven een luifel. B" .
 <https://n2t.net/ark:/27023/5fc9dc988df6fd1577cda35514fc1928> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/5fc9dc988df6fd1577cda35514fc1928> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5fc9dc988df6fd1577cda35514fc1928> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#identifier> "nf%20323-10-2" .
+<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#description> "bijschrift; 'Panorama vanuit de hoogte van Riwoe. Uitzicht naar het Westen. Rechts het hooggebergte van Roeteng ; daaraan loodrecht aansluitend het gebergte van Toragolo dat zich tot de zee uitstrekt, het dorp Setah.'" .
+<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5fea1f1e433f8135e1c8b8378bd255b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5fea1f1e433f8135e1c8b8378bd255b8> <https://colonialcollections.nl/schema#identifier> "nf%20331-24" .
 <https://n2t.net/ark:/27023/5fea1f1e433f8135e1c8b8378bd255b8> <https://colonialcollections.nl/schema#description> "onderschrift; 'Even op Kekamoetoe voor Pappie uitrijdt, Roeteng juni 1925'\r\n\r\npaard" .
@@ -524,18 +550,6 @@
 <https://n2t.net/ark:/27023/5ff42b2e2c40cd98a3dd13dd8e78d8e4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Sumatra." .
 <https://n2t.net/ark:/27023/5ff42b2e2c40cd98a3dd13dd8e78d8e4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5ff42b2e2c40cd98a3dd13dd8e78d8e4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#identifier> "2011/01/24-1-2" .
-<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#name> "Tekening \"De Doop\", van R.H. Mulder" .
-<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#description> "Tekening in passepartout, in potlood. \"De Doop\", gesigneerd rechtsonder R.H.M. wat staat voor Reinhart Hendrikus Mulder (1894-1942), burgemeester van Bandjarmasin. Gemaakt in 1939." .
-<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5fcb4e49b6f3363972f1e7836bea8929> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/124" .
-<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#name> "Balinese Dancers (Legon)" .
-<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Balinese Dancers (Legon)" .
-<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5fe37f9f5d3be8816169f44efa5bea53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5fb603b2947b844c42f15457c1630dff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5fb603b2947b844c42f15457c1630dff> <https://colonialcollections.nl/schema#identifier> "2015/07/20-1-5/78" .
 <https://n2t.net/ark:/27023/5fb603b2947b844c42f15457c1630dff> <https://colonialcollections.nl/schema#description> "Foto" .
@@ -576,16 +590,6 @@
 <https://n2t.net/ark:/27023/5ff19fb84728a8fbfd5ba242686ce036> <https://colonialcollections.nl/schema#description> "Foto op karton." .
 <https://n2t.net/ark:/27023/5ff19fb84728a8fbfd5ba242686ce036> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5ff19fb84728a8fbfd5ba242686ce036> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#identifier> "nf%20972" .
-<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit. Gedeeltelijk geplakt op een tussenvel dat op zijn beurt met tape aan één kant op karton is geplakt.\r\n\r\nDe opname toont vier jonge vrouwen, van dichtbij gefotografeerd. Het zijn danseressen en zij dragen fraaie hoofdtooien.\r\n\r" .
-<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5fb21cc1610fba309a96fcdfefc0314f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#identifier> "nf%20323-10-2" .
-<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#description> "bijschrift; 'Panorama vanuit de hoogte van Riwoe. Uitzicht naar het Westen. Rechts het hooggebergte van Roeteng ; daaraan loodrecht aansluitend het gebergte van Toragolo dat zich tot de zee uitstrekt, het dorp Setah.'" .
-<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5fcb19987b3d174b9f19e1e6b31de932> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5fd76a475de7139b21b75da1fbb01c66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5fd76a475de7139b21b75da1fbb01c66> <https://colonialcollections.nl/schema#identifier> "E1870" .
 <https://n2t.net/ark:/27023/5fd76a475de7139b21b75da1fbb01c66> <https://colonialcollections.nl/schema#name> "Orde van het Gulden Vlies, Oostenrijk (Keizerrijk), Orden vom Goldenen Vlies, ridder, versiersel klein model op gesp" .

@@ -1,3 +1,20 @@
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/18" .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#name> "Padang (Sumatra)" .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Padang (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#inscription> "Padang (Sumatra)" .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/5" .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#name> "KNIL-militairen trekken langs een poera (tempel) te Pandjer" .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nKNIL-militairen trekken langs een poera (tempel) te Pandjer." .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28a41120e45238e780ed13d402cffbf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28a41120e45238e780ed13d402cffbf5> <https://colonialcollections.nl/schema#identifier> "nf%201413-85" .
 <https://n2t.net/ark:/27023/28a41120e45238e780ed13d402cffbf5> <https://colonialcollections.nl/schema#name> "Simpai" .
@@ -19,6 +36,13 @@
 <https://n2t.net/ark:/27023/28ae49c3e41e2482405bfc73b4bef2ba> <https://colonialcollections.nl/schema#creator> "H.A. van den Eynde" .
 <https://n2t.net/ark:/27023/28ae49c3e41e2482405bfc73b4bef2ba> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28ae49c3e41e2482405bfc73b4bef2ba> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#identifier> "1972/05/24-1-1" .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#name> "Groep officieren op erf Kaderschool Magelang, 1929" .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#description> "Foto: Groep officieren op erf Kaderschool Magelang, 1929. Ingelijst. 2002 uitgelijst door RGH Elbersen.\r\nOp passepartout." .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28b5f1a798ec569e0eb8d5af934f5f8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28b5f1a798ec569e0eb8d5af934f5f8d> <https://colonialcollections.nl/schema#identifier> "nf%20836-18-2" .
 <https://n2t.net/ark:/27023/28b5f1a798ec569e0eb8d5af934f5f8d> <https://colonialcollections.nl/schema#name> "Verlof 1928. Liesbosch 3 Juni 1928" .
@@ -33,6 +57,14 @@
 <https://n2t.net/ark:/27023/28b87eae5fadf41d6f9d12642c3d62e3> <https://colonialcollections.nl/schema#creator> "J.A. Stevens" .
 <https://n2t.net/ark:/27023/28b87eae5fadf41d6f9d12642c3d62e3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28b87eae5fadf41d6f9d12642c3d62e3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/28b87eae5fadf41d6f9d12642c3d62e3> <https://colonialcollections.nl/schema#creator> "N.V. Uitgeverij W. van Hoeve" .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-51" .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#name> "Groepsfoto officieren" .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Groepsfoto officieren o.a. G.Buijs." .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#creator> "Wah Fong, Photographer 36 Leech st. Ipoh" .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28bf2a53ec027368156565a79c9c1207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28bf2a53ec027368156565a79c9c1207> <https://colonialcollections.nl/schema#identifier> "nf%20789-13" .
 <https://n2t.net/ark:/27023/28bf2a53ec027368156565a79c9c1207> <https://colonialcollections.nl/schema#name> "Boroboedoer" .
@@ -84,6 +116,12 @@
 <https://n2t.net/ark:/27023/28d07f74aef1e6243a10ef7d8a4dde46> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/28d07f74aef1e6243a10ef7d8a4dde46> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28d07f74aef1e6243a10ef7d8a4dde46> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#identifier> "nf%20323-15-1" .
+<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#description> "bijschrift; 'De Inerie, op den voorgrond een stuk van den weg, opgenomen van uit 1400 mtr. hoogte'" .
+<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28d44c639cc63dcc331469ced19b6d3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28d44c639cc63dcc331469ced19b6d3d> <https://colonialcollections.nl/schema#identifier> "nf%20842-446" .
 <https://n2t.net/ark:/27023/28d44c639cc63dcc331469ced19b6d3d> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BG 73 t/m 100. Deze slede is opgeborgen in oranje doos met lichtgrijs, moeilijk te openen deksel, gemerkt met BG, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BG 73, in po" .
@@ -117,20 +155,6 @@
 <https://n2t.net/ark:/27023/28ea72b0baa1625ff1cce2c13e522c28> <https://colonialcollections.nl/schema#inscription> "I-6150" .
 <https://n2t.net/ark:/27023/28ea72b0baa1625ff1cce2c13e522c28> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28ea72b0baa1625ff1cce2c13e522c28> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/18" .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#name> "Padang (Sumatra)" .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Padang (Sumatra). \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#inscription> "Padang (Sumatra)" .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28c651b0f4cc1ce0908c65ea2b719cae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#identifier> "1973/04/09-2-2/5" .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#name> "KNIL-militairen trekken langs een poera (tempel) te Pandjer" .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nKNIL-militairen trekken langs een poera (tempel) te Pandjer." .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28dbcc1f96afbd8f0d36a87d30458dda> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28a124bb02d1cf7e16c067ad0280c20b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28a124bb02d1cf7e16c067ad0280c20b> <https://colonialcollections.nl/schema#identifier> "2016/04/10-1-2/354" .
 <https://n2t.net/ark:/27023/28a124bb02d1cf7e16c067ad0280c20b> <https://colonialcollections.nl/schema#name> "Foto diensttijd Nederlands-Indië, periode 1945-1950" .
@@ -515,18 +539,6 @@
 <https://n2t.net/ark:/27023/28eb618a8b9c3a319bf91699a1ecfa54> <https://colonialcollections.nl/schema#description> "Foto zwart-wit. Eerste herdenking capituatie Japan en eind Tweede Wereldoorlog in Zuidoost-Azië. Passar Baru. Staatbeeld.\r\n\r\nLokatie: Den Haag.\r\n\r\nVerso\r\n21\r\nVening." .
 <https://n2t.net/ark:/27023/28eb618a8b9c3a319bf91699a1ecfa54> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28eb618a8b9c3a319bf91699a1ecfa54> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#identifier> "1972/05/24-1-1" .
-<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#name> "Groep officieren op erf Kaderschool Magelang, 1929" .
-<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#description> "Foto: Groep officieren op erf Kaderschool Magelang, 1929. Ingelijst. 2002 uitgelijst door RGH Elbersen.\r\nOp passepartout." .
-<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28b39ddb8fcb20ee78dd88f33180614a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#identifier> "1999/06/04-1-51" .
-<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#name> "Groepsfoto officieren" .
-<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#description> "Foto op passepartout. Groepsfoto officieren o.a. G.Buijs." .
-<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28bdca8948c9d4765270074cd35a7533> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28a861758d99982c56cde54975ecd569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28a861758d99982c56cde54975ecd569> <https://colonialcollections.nl/schema#identifier> "nf%201309-33-3" .
 <https://n2t.net/ark:/27023/28a861758d99982c56cde54975ecd569> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont een ongeplaveide weg in een bosrijke omgeving, misschien wel oerwoud. Op de weg een personenauto uit de eerste helft van de 20ste eeuw. De kap is naar beneden.\r\nOp de bumpe" .
@@ -572,11 +584,6 @@
 <https://n2t.net/ark:/27023/28da5d0c9d51f3db08ccd5554f3809fd> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt, met bijschrift.\r\n\r\nDit in inkt geschreven bijschrift luidt: 'De leding v.l.n.r.  HL  \"Kris Haas\"  \"Moety\" KC en MA'\r\n\r\nDe afbeelding toont vijf (volwassen) vrouwen, naast elkaar staand, poserend voor de " .
 <https://n2t.net/ark:/27023/28da5d0c9d51f3db08ccd5554f3809fd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/28da5d0c9d51f3db08ccd5554f3809fd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#identifier> "nf%20323-15-1" .
-<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#description> "bijschrift; 'De Inerie, op den voorgrond een stuk van den weg, opgenomen van uit 1400 mtr. hoogte'" .
-<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/28d13c4d86acb5986a853056b77835eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/28aeff791b61f6060c2a61816cf6cc0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/28aeff791b61f6060c2a61816cf6cc0a> <https://colonialcollections.nl/schema#identifier> "1946/10/10-1-47" .
 <https://n2t.net/ark:/27023/28aeff791b61f6060c2a61816cf6cc0a> <https://colonialcollections.nl/schema#name> "Sabel, of klewang" .

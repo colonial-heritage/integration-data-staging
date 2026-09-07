@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#identifier> "1957/06/21-1" .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#name> "Borstbeeld van J.Engelbert van Bevervoorde" .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#description> "Borstbeeld van J. Engelbert van Bevervoorde. Oorspronkelijk afkomstig van Bandoeng.\r\nHet borstbeeld werd vervaardigd door de Amsterdamse beeldhouwer Hesselink, het voetstuk werd ontworpen door de kapitein der genie Hogewind (in 1924).\r\nEen foto van het Ba" .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#inscription> "JOHAN ENGELBERT VAN BEVERVOORDE\r\nKAPT. VLIEGER KNIL\r\nRIDDER MILITAIRE WILLEMSORDE MET ERESABEL\r\nOMGEKOMEN BIJ EEN VLIEGONGEVAL BIJ\r\nBANDOENG\r\nOP 18-9-1918" .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#creator> "A. Hesselink" .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b2cb2ed2e0509544f3f21dedc006f204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b2cb2ed2e0509544f3f21dedc006f204> <https://colonialcollections.nl/schema#identifier> "S%206245-44" .
 <https://n2t.net/ark:/27023/b2cb2ed2e0509544f3f21dedc006f204> <https://colonialcollections.nl/schema#name> "Rijstveld (sawah) - het planten van padie" .
@@ -12,6 +20,20 @@
 <https://n2t.net/ark:/27023/b2cc88d35c119792e531ba2304ab16b7> <https://colonialcollections.nl/schema#creator> "Johannes Uko Gorter" .
 <https://n2t.net/ark:/27023/b2cc88d35c119792e531ba2304ab16b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b2cc88d35c119792e531ba2304ab16b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/462" .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 20.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#creator> "Uitgeverij Spanjersberg" .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/5" .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: The Suez Canal. At the Curve of El Guirsh,  317" .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"The Suez Canal. At the Curve of El Guirsh  317\"" .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#creator> "The Oriental Commercial Bureau Port Saïd" .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b2dd66dd7f32dead8dd125e978efe942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b2dd66dd7f32dead8dd125e978efe942> <https://colonialcollections.nl/schema#identifier> "nf%20833-2" .
 <https://n2t.net/ark:/27023/b2dd66dd7f32dead8dd125e978efe942> <https://colonialcollections.nl/schema#name> "Vrouwen in sawah's bij La'bo, Kesu 1966" .
@@ -47,12 +69,19 @@
 <https://n2t.net/ark:/27023/b2fe7aa42bbe2f97ba7c1d8bcbdb0feb> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/b2fe7aa42bbe2f97ba7c1d8bcbdb0feb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b2fe7aa42bbe2f97ba7c1d8bcbdb0feb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b2fe7aa42bbe2f97ba7c1d8bcbdb0feb> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/b2c28c97b1249068b620450b9d3e99ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b2c28c97b1249068b620450b9d3e99ce> <https://colonialcollections.nl/schema#identifier> "nf%201627-1" .
 <https://n2t.net/ark:/27023/b2c28c97b1249068b620450b9d3e99ce> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen\r\n\r\nOp achterkant in potlood: 'postkantoor Sidoardjo - 2/11/25'\r\n\r\nOpname toont een kamer met een groot bureau, vol met papieren en andere zaken.\r\nAchter het bureau een blanke man zittend op een stoel. Naast hem staande ee" .
 <https://n2t.net/ark:/27023/b2c28c97b1249068b620450b9d3e99ce> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/b2c28c97b1249068b620450b9d3e99ce> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b2c28c97b1249068b620450b9d3e99ce> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#identifier> "EDO%20481-43" .
+<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nHet is een heel hoge toren waarvan gedeelte uit veel 'trappen' bestaat, waarschijnlijk voor een belangrijk persoon.\r\nDeze onduidelijke foto " .
+<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b301b52a1a9a0b3330c2d04399a490d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b301b52a1a9a0b3330c2d04399a490d9> <https://colonialcollections.nl/schema#identifier> "EDO%20622-22-1" .
 <https://n2t.net/ark:/27023/b301b52a1a9a0b3330c2d04399a490d9> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, slordig afgeknipt, opgeplakt.\r\n\r\nAfbeelding toont een aantal blanke mannen met hoed op zittend op kamelen. Bij hen de Arabische begeleiders. Op de achtergrond een piramide." .
@@ -87,13 +116,6 @@
 <https://n2t.net/ark:/27023/b3034b2799730c47d1fc00463f913bbe> <https://colonialcollections.nl/schema#inscription> "sept. ´45, Mai dai. Tollay, Ex-P.O.W.. Sarabury" .
 <https://n2t.net/ark:/27023/b3034b2799730c47d1fc00463f913bbe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b3034b2799730c47d1fc00463f913bbe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#identifier> "1957/06/21-1" .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#name> "Borstbeeld van J.Engelbert van Bevervoorde" .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#description> "Borstbeeld van J. Engelbert van Bevervoorde. Oorspronkelijk afkomstig van Bandoeng.\r\nHet borstbeeld werd vervaardigd door de Amsterdamse beeldhouwer Hesselink, het voetstuk werd ontworpen door de kapitein der genie Hogewind (in 1924).\r\nEen foto van het Ba" .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#inscription> "JOHAN ENGELBERT VAN BEVERVOORDE\r\nKAPT. VLIEGER KNIL\r\nRIDDER MILITAIRE WILLEMSORDE MET ERESABEL\r\nOMGEKOMEN BIJ EEN VLIEGONGEVAL BIJ\r\nBANDOENG\r\nOP 18-9-1918" .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b2c7e172acdb014a0441603a29897b13> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b2b7877c5d5f4c5dc96b3a564f442de0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b2b7877c5d5f4c5dc96b3a564f442de0> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/5" .
 <https://n2t.net/ark:/27023/b2b7877c5d5f4c5dc96b3a564f442de0> <https://colonialcollections.nl/schema#name> "Semarang-sector. De verbindingen moeten worden onderhouden" .
@@ -538,18 +560,6 @@
 <https://n2t.net/ark:/27023/b304ee80b48995bd222422a462a9db88> <https://colonialcollections.nl/schema#description> "Interne order nr. 3 : regeling uitvaart inwonenden." .
 <https://n2t.net/ark:/27023/b304ee80b48995bd222422a462a9db88> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b304ee80b48995bd222422a462a9db88> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/462" .
-<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Indonesië" .
-<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto \"No. 20.\"  uit de Indië-serie in Sparo-Lux uitvoering \"Het land waar wij woonden.\"\r\nFoto Stevens& Magielsen, Amsterdam.\r\nGebr. Spanjersberg N.V. Rotterdam." .
-<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b2cd874e4088c1f369c052f4106595ed> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/5" .
-<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#name> "Prentbriefkaart: The Suez Canal. At the Curve of El Guirsh,  317" .
-<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#description> "Prentbriefkaart Nederlands Indië. \"The Suez Canal. At the Curve of El Guirsh  317\"" .
-<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b2ce897753ab4974a6976c6e0c9c4ae9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b2bcb70eb4fae95c33e1ff6a75278a74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b2bcb70eb4fae95c33e1ff6a75278a74> <https://colonialcollections.nl/schema#identifier> "S%20451-1494" .
 <https://n2t.net/ark:/27023/b2bcb70eb4fae95c33e1ff6a75278a74> <https://colonialcollections.nl/schema#description> "Handschrift bestaande uit 9 aanelkaar geknoopte beschreven bamboelatjes. Ingekerfd Rencongs schrift.\r\nHerkomst: Pasemah, zuid-Sumatra." .
@@ -580,11 +590,6 @@
 <https://n2t.net/ark:/27023/b301787d6f9e69bb18bc9882cc2f0ea7> <https://colonialcollections.nl/schema#description> "Afdeling:\tInsulair Zuidoost Azië\r\nObjectnaam:\tzwaard\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\tgesmeed\r\nHerkomst:\tJ.L.H. Beijens\r\nMedia:\t2597\r\nBruikleen van:\tGemeente Nijmegen\r\ncollectie:\tJ.L.H. Beijens\r\nHuidige standplaats:\t[2597] Depot, 24, L g [24 L g]\r\nh" .
 <https://n2t.net/ark:/27023/b301787d6f9e69bb18bc9882cc2f0ea7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/b301787d6f9e69bb18bc9882cc2f0ea7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#identifier> "EDO%20481-43" .
-<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname die te maken heeft met een komende lijkverbranding.\r\nHet is een heel hoge toren waarvan gedeelte uit veel 'trappen' bestaat, waarschijnlijk voor een belangrijk persoon.\r\nDeze onduidelijke foto " .
-<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/b301af13d328095c3fdd58fd4896ae09> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/b2c86a94928ce6ac6cad8c5514be8fbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b2c86a94928ce6ac6cad8c5514be8fbb> <https://colonialcollections.nl/schema#identifier> "S%20230-569" .
 <https://n2t.net/ark:/27023/b2c86a94928ce6ac6cad8c5514be8fbb> <https://colonialcollections.nl/schema#name> "Model van een fuik, keroliq" .

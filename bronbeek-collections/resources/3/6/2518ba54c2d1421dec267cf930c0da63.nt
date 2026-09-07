@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-38" .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#name> "Carte de visite:  Gravin v.d.Bosch" .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Gravin v.d.Bosch" .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#inscription> "Gravin v.d.Bosch" .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#creator> "Page Photographer Java" .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cdd014b30ed9c0ce5018eaee9b324a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cdd014b30ed9c0ce5018eaee9b324a0> <https://colonialcollections.nl/schema#identifier> "nf%201481-7" .
 <https://n2t.net/ark:/27023/0cdd014b30ed9c0ce5018eaee9b324a0> <https://colonialcollections.nl/schema#name> "Penjoetro met pijl en boog" .
@@ -5,6 +13,13 @@
 <https://n2t.net/ark:/27023/0cdd014b30ed9c0ce5018eaee9b324a0> <https://colonialcollections.nl/schema#creator> "Apotheek \"De Gedeh\"" .
 <https://n2t.net/ark:/27023/0cdd014b30ed9c0ce5018eaee9b324a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0cdd014b30ed9c0ce5018eaee9b324a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#identifier> "2002/07/17-3-2" .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#name> "Portret van J.Weller, RMWO" .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#description> "Foto. Portret van J. Weller, RMWO. Borststuk naar rechts gekeerd, in burger. Draagt medailles: RMWO; EBK met 2 gespen; Trouwe Dienst, Mobilisatiekruis ´14-´18. Op achterzijde: \"Gale´s studios. Branches in all towns. In vorm van een postcard." .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#creator> "Gale´s studios" .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <https://colonialcollections.nl/schema#identifier> "nf%201413-30" .
 <https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <https://colonialcollections.nl/schema#name> "Cockpit vliegtuig Medan Palembang" .
@@ -12,6 +27,28 @@
 <https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0ce66a1e302ac6fe5d996099eea099a0> <https://colonialcollections.nl/schema#creator> "Gevaert" .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/36" .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#name> "Passar Senen met huisje marktmeester, Weltevreden" .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#creator> "N.V. Pharmaceutische Import Mij. Helmig & Co, Weltevreden" .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#identifier> "1869/02-3-1" .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#name> "Portret van Generaal-majoor H. Hardenberg" .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#description> "Prent. Lithografie. Portret van Generaal-majoor H. Hardenberg.  Driekwart portret zittend op stoel, naar rechts gekeerd. Onderaan gesigneerd door Hardenberg." .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#creator> "Wed. E. Spanier & Zn." .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#creator> "J.J. M" .
+<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#identifier> "EDO%20481-58" .
+<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van vermoedelijk een lokatie waar objecten en andere zaken gemaakt worden die verband houden met een lijkverbranding.\r\nTe zien is iets dat mogelijk een soort masker is. Het wordt nog niet gedra" .
+<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cdc110b310ee7ee8a8c0889cb60558f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cdc110b310ee7ee8a8c0889cb60558f> <https://colonialcollections.nl/schema#identifier> "nf%201121" .
 <https://n2t.net/ark:/27023/0cdc110b310ee7ee8a8c0889cb60558f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, volledig geplakt op fotoalbumblad.\r\n\r\nFoto toont een beeld van buiten naar binnen. Een vensterbank  met rechts nog een raam met blinden. Daarachter een bureau met dikke boeken erop en een klok.\r\n\r\nN.B.: Deze foto en zes ander" .
@@ -25,13 +62,6 @@
 <https://n2t.net/ark:/27023/0cd009c65b6a525a52f944771940030f> <https://colonialcollections.nl/schema#inscription> "Pro patria" .
 <https://n2t.net/ark:/27023/0cd009c65b6a525a52f944771940030f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0cd009c65b6a525a52f944771940030f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#identifier> "2000/09/17-1-38" .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#name> "Carte de visite:  Gravin v.d.Bosch" .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#description> "Foto: Carte de visite. Gravin v.d.Bosch" .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#inscription> "Gravin v.d.Bosch" .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ccf94ef32b3cf2b23c9fb1386bfd861> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cb79c70d4e06b27cb0d2d30ed357ee6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cb79c70d4e06b27cb0d2d30ed357ee6> <https://colonialcollections.nl/schema#identifier> "2007/06/05-2-1/11" .
 <https://n2t.net/ark:/27023/0cb79c70d4e06b27cb0d2d30ed357ee6> <https://colonialcollections.nl/schema#name> "Landkaart. Bandoeng, planologische dag 1 juli 1939." .
@@ -536,24 +566,6 @@
 <https://n2t.net/ark:/27023/0cf94ad2513eb31e773066d17f43cb28> <https://colonialcollections.nl/schema#description> "Vlag; Zelfgemaakte vlag van Daroel Islam, veroverd in 1949 te Garoet. Enige inktvlekken. Katoen." .
 <https://n2t.net/ark:/27023/0cf94ad2513eb31e773066d17f43cb28> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0cf94ad2513eb31e773066d17f43cb28> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#identifier> "2002/07/17-3-2" .
-<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#name> "Portret van J.Weller, RMWO" .
-<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#description> "Foto. Portret van J. Weller, RMWO. Borststuk naar rechts gekeerd, in burger. Draagt medailles: RMWO; EBK met 2 gespen; Trouwe Dienst, Mobilisatiekruis ´14-´18. Op achterzijde: \"Gale´s studios. Branches in all towns. In vorm van een postcard." .
-<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ce0c23c4c1441a92ef54550f0e08793> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-7/36" .
-<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#name> "Passar Senen met huisje marktmeester, Weltevreden" .
-<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Foto. (All Kodak Supplies)." .
-<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0cec1de76e9619521ec32c058a24e939> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#identifier> "1869/02-3-1" .
-<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#name> "Portret van Generaal-majoor H. Hardenberg" .
-<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#description> "Prent. Lithografie. Portret van Generaal-majoor H. Hardenberg.  Driekwart portret zittend op stoel, naar rechts gekeerd. Onderaan gesigneerd door Hardenberg." .
-<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0cf0b723cbe59146d4d4d75892247bb9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/0cba31fe75ef1419f4170b3beb6b0106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0cba31fe75ef1419f4170b3beb6b0106> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41956" .
 <https://n2t.net/ark:/27023/0cba31fe75ef1419f4170b3beb6b0106> <https://colonialcollections.nl/schema#description> "Afdeling:\tMidden en Zuid Amerika\r\nObjectnaam:\tkalebas-lepel\r\nRubriek:\t(niet ingevoerd)\r\nEmailadres: toelichting:\tOvale vorm, lichtbruine kleur. Deze lepel/schep vormt de helft van de kalebas. Dit lepeltje is niet versierd. Zie ook no.41957, -58, -59 en 54" .
@@ -589,8 +601,3 @@
 <https://n2t.net/ark:/27023/0ce0cd74618694b207ed768565329d6f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, geheel vastgeplakt. Eventuele achterop geschreven tekst dus niet te lezen.\r\n\r\nDe opname is vrijwel gelijk aan nf 896-12-1. Men is even gaan verzitten.\r\n\r\nDe centrale man in het wit is de heer van den Berg, met naast hem zijn " .
 <https://n2t.net/ark:/27023/0ce0cd74618694b207ed768565329d6f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0ce0cd74618694b207ed768565329d6f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#identifier> "EDO%20481-58" .
-<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van vermoedelijk een lokatie waar objecten en andere zaken gemaakt worden die verband houden met een lijkverbranding.\r\nTe zien is iets dat mogelijk een soort masker is. Het wordt nog niet gedra" .
-<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0ccbc7b7552171eab90bf649b37aa755> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .

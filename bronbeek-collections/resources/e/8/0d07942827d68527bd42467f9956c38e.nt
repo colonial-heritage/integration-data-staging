@@ -28,6 +28,7 @@
 <https://n2t.net/ark:/27023/c2149aa2eb12092a06b8b884d25fc318> <https://colonialcollections.nl/schema#creator> "W.& S.H." .
 <https://n2t.net/ark:/27023/c2149aa2eb12092a06b8b884d25fc318> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c2149aa2eb12092a06b8b884d25fc318> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c2149aa2eb12092a06b8b884d25fc318> <https://colonialcollections.nl/schema#creator> "N.V. H.V.Maresch, Magelang" .
 <https://n2t.net/ark:/27023/c21ca1b2fa15caca37495c5d7887d399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c21ca1b2fa15caca37495c5d7887d399> <https://colonialcollections.nl/schema#identifier> "2006/00-42-739/20" .
 <https://n2t.net/ark:/27023/c21ca1b2fa15caca37495c5d7887d399> <https://colonialcollections.nl/schema#name> "Zijne Koninklijke Hoogheid \"Prins Hendrik\" deed het Korps de hooge eer aan tegenwoordig te zijn bij de receptie. Viering 40 jarig bestaan \"Korps Koloniale Reserve\", 15 april 1931." .
@@ -42,6 +43,13 @@
 <https://n2t.net/ark:/27023/c21e1ab682cefdbd36e7c446310c7e7d> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
 <https://n2t.net/ark:/27023/c21e1ab682cefdbd36e7c446310c7e7d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c21e1ab682cefdbd36e7c446310c7e7d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#identifier> "S%204247A" .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#name> "Automobielkaart van Java en Madoera.\r\nWest Java deel" .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#description> "Automobielkaart van Java en Madoera in 3 delen - West Java, Midden Java en Oost Java.\r\nSchaal 1 : 500.000" .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#creator> "Koninklijke Vereeniging Java Motor Club" .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c22c1941614afb2dadc615a477d1cae8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c22c1941614afb2dadc615a477d1cae8> <https://colonialcollections.nl/schema#identifier> "2016/12/30-7-5" .
 <https://n2t.net/ark:/27023/c22c1941614afb2dadc615a477d1cae8> <https://colonialcollections.nl/schema#name> "Potloodtekening in lijst" .
@@ -70,6 +78,13 @@
 <https://n2t.net/ark:/27023/c23aec308737ec5eb6acdb8e02d54119> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/c23aec308737ec5eb6acdb8e02d54119> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c23aec308737ec5eb6acdb8e02d54119> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-23" .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Habah\"" .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#creator> "Habah" .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c21823b4abe8e7e2f09b711c98fc4f81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c21823b4abe8e7e2f09b711c98fc4f81> <https://colonialcollections.nl/schema#identifier> "nf%201884-15" .
 <https://n2t.net/ark:/27023/c21823b4abe8e7e2f09b711c98fc4f81> <https://colonialcollections.nl/schema#description> "Stereofoto, zwart/wit, twee foto's naast elkaar geplakt op grijs karton, hoeken afgerond, los aangetroffen met anderen.\r\n\r\nIn inkt geschreven tekst: 'Een kiekje, die ik maakte in zee bij Lho Nga; je ziet alleen 2 hoofden van de fam. Brunet en Will met een" .
@@ -529,18 +544,6 @@
 <https://n2t.net/ark:/27023/c254349aa7a5f9ca4d06e7f6d5661da8> <https://colonialcollections.nl/schema#description> "Document. Extract uit het Register der Besluiten van de Gouverneur Generaal van Nederlandsch Indië inz. bevordering tot 2de luitenant bij het 9de Bataillon van sergeant J.H. Romswinckel" .
 <https://n2t.net/ark:/27023/c254349aa7a5f9ca4d06e7f6d5661da8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c254349aa7a5f9ca4d06e7f6d5661da8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#identifier> "S%204247A" .
-<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#name> "Automobielkaart van Java en Madoera.\r\nWest Java deel" .
-<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#description> "Automobielkaart van Java en Madoera in 3 delen - West Java, Midden Java en Oost Java.\r\nSchaal 1 : 500.000" .
-<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c22aed926596f85f556847ce55d7aa40> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#identifier> "2000/02/21-2-23" .
-<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#name> "Indisch landschap" .
-<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#description> "Schildering, waterverf. Landschap. Opgeplakt op karton. Gesigneerd met : \"Habah\"" .
-<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c2499ab62faa0da65a33293bf32c8768> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c20bf1125729c8c03adf3db9ef40d745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c20bf1125729c8c03adf3db9ef40d745> <https://colonialcollections.nl/schema#identifier> "nf%201305-18-4" .
 <https://n2t.net/ark:/27023/c20bf1125729c8c03adf3db9ef40d745> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, met fotohoekjes opgeplakt, zonder bijschrift.\r\n\r\nAfbeelding toont een jong meisje, zittend op een hek/afrastering bij een meer of brede rivier. Zij draagt een wit blousje en een wit alpino-achtig hoedje/mutsje met " .

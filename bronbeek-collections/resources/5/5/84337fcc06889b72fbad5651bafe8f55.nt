@@ -1,3 +1,22 @@
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#identifier> "1885/09-1-9" .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#name> "Willem Prins van Oranje, overwinnaar te Hasselt en Leuven" .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#description> "Prent: Willem Prins van Oranje, overwinnaar te Hasselt en Leuven; handhaver van den Vaderlandschen Roem. Uitgegeven bij Joh.s Guykens te Amsterdam. H. Klouzing geletterd.\" \"H.W. Hoogkamer in aqua tint\" \"het portret door W. Nieuwhoff sculp.\"\r\n\"Dit houd ik " .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#inscription> "Willem Prins van Oranje, overwinnaar te Hasselt en Leuven; handhaver van den Vaderlandschen Roem. Uitgegeven bij Joh.s Guykens te Amsterdam. H. Klouzing geletterd.\"\r\n\"H.W. Hoogkamer in aqua tint\" \"het portret door W. Nieuwhoff sculp.\"" .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#creator> "W. Nieuwhoff" .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#creator> "H. Klouzing Jr." .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#creator> "Johannes Guykens" .
+<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#creator> "W. Hoogkamer" .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-4" .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#name> "Batavia (Weltevreden) III." .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten-boekje: Batavia (Weltevreden) III. Uitgave Tio Tek Hong, Weltevreden (Batavia). 10 prentbriefkaarten.\r\n1031. Overkluizing rivier bij de Harmonie. Batavia (Weltevreden).\r\n1032. Sluisbrugplein. Batavia (Weltevreden).\r\n1033. Atjeh Monument " .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#inscription> "Batavia (Weltevreden) III" .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#creator> "Tio Tek Hong" .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c1323503070e506649bf98937fd225e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c1323503070e506649bf98937fd225e2> <https://colonialcollections.nl/schema#identifier> "nf%201830-1" .
 <https://n2t.net/ark:/27023/c1323503070e506649bf98937fd225e2> <https://colonialcollections.nl/schema#name> "Luchtfoto haven Makassar" .
@@ -5,6 +24,13 @@
 <https://n2t.net/ark:/27023/c1323503070e506649bf98937fd225e2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/c1323503070e506649bf98937fd225e2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c1323503070e506649bf98937fd225e2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#identifier> "1994/12/21-2/1" .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#name> "Vulkaankraters" .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#description> "Foto in lijst. Vulkaankraters, door Fotax Soerabaja." .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#creator> "Fotax Soerabaia" .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c13e156a6a49d9ae54186fc40b5e9a79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c13e156a6a49d9ae54186fc40b5e9a79> <https://colonialcollections.nl/schema#identifier> "nf%201413-215" .
 <https://n2t.net/ark:/27023/c13e156a6a49d9ae54186fc40b5e9a79> <https://colonialcollections.nl/schema#name> "Pleziervluchten van de KNILM. Vliegveld Talang Betoetoe bij Palembang" .
@@ -33,6 +59,13 @@
 <https://n2t.net/ark:/27023/c16601ab8b81cea825dae41a1b571602> <https://colonialcollections.nl/schema#creator> "Reinier Rijken" .
 <https://n2t.net/ark:/27023/c16601ab8b81cea825dae41a1b571602> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c16601ab8b81cea825dae41a1b571602> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-843" .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#name> "Schetskaart van Nederlands Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#description> "Schetskaart van Nederlands Nieuw Guinea; z/w; Schaal 1: 2500.000. Topografische Dienst 1953. Inzetkaart van de administartieve indeling, schaal 1: 10.000.000." .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#creator> "Topografische dienst Delft" .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c176f0e667016b8925ffdc072a50ce19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c176f0e667016b8925ffdc072a50ce19> <https://colonialcollections.nl/schema#identifier> "nf%20670-2" .
 <https://n2t.net/ark:/27023/c176f0e667016b8925ffdc072a50ce19> <https://colonialcollections.nl/schema#name> "'...zoolang Koekoe een middelpunt was, zochten en vonden velen hier genezing'" .
@@ -77,20 +110,6 @@
 <https://n2t.net/ark:/27023/c131aed83b592529ac9c1c5ecf0fcb06> <https://colonialcollections.nl/schema#inscription> "Bonaire" .
 <https://n2t.net/ark:/27023/c131aed83b592529ac9c1c5ecf0fcb06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c131aed83b592529ac9c1c5ecf0fcb06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#identifier> "1885/09-1-9" .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#name> "Willem Prins van Oranje, overwinnaar te Hasselt en Leuven" .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#description> "Prent: Willem Prins van Oranje, overwinnaar te Hasselt en Leuven; handhaver van den Vaderlandschen Roem. Uitgegeven bij Joh.s Guykens te Amsterdam. H. Klouzing geletterd.\" \"H.W. Hoogkamer in aqua tint\" \"het portret door W. Nieuwhoff sculp.\"\r\n\"Dit houd ik " .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#inscription> "Willem Prins van Oranje, overwinnaar te Hasselt en Leuven; handhaver van den Vaderlandschen Roem. Uitgegeven bij Joh.s Guykens te Amsterdam. H. Klouzing geletterd.\"\r\n\"H.W. Hoogkamer in aqua tint\" \"het portret door W. Nieuwhoff sculp.\"" .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c149dc9fd8ffeceec1dfb4542eb4becb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#identifier> "2000/07/13-1-4" .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#name> "Batavia (Weltevreden) III." .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#description> "Prentbriefkaarten-boekje: Batavia (Weltevreden) III. Uitgave Tio Tek Hong, Weltevreden (Batavia). 10 prentbriefkaarten.\r\n1031. Overkluizing rivier bij de Harmonie. Batavia (Weltevreden).\r\n1032. Sluisbrugplein. Batavia (Weltevreden).\r\n1033. Atjeh Monument " .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#inscription> "Batavia (Weltevreden) III" .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c14ed41c6e1fd2932759bfe2791e23ae> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c12bcb7780a36b6c95f948ffadf71338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c12bcb7780a36b6c95f948ffadf71338> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-399" .
 <https://n2t.net/ark:/27023/c12bcb7780a36b6c95f948ffadf71338> <https://colonialcollections.nl/schema#name> "Petembleem met petband Commissaris van Politie Algemene Politie Nederlands-Indië" .
@@ -541,18 +560,6 @@
 <https://n2t.net/ark:/27023/c174c4202e16d9c1bd796da1d07c2acf> <https://colonialcollections.nl/schema#description> "met schede ; keris luk; dapur: 7 flauwe luk; pejetan; greneng op ganja en wilah; geelkopern mendak; ukiran van hout; gestileerd mensfiguur met puntige neus en armen voor de borst geheven; wrangka palembang; lange dunne houten gandar\r\n\r\nDe eenvoudige houte" .
 <https://n2t.net/ark:/27023/c174c4202e16d9c1bd796da1d07c2acf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/c174c4202e16d9c1bd796da1d07c2acf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#identifier> "1994/12/21-2/1" .
-<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#name> "Vulkaankraters" .
-<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#description> "Foto in lijst. Vulkaankraters, door Fotax Soerabaja." .
-<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c133311327630a1b96dae94f280f64d3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-843" .
-<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#name> "Schetskaart van Nederlands Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#description> "Schetskaart van Nederlands Nieuw Guinea; z/w; Schaal 1: 2500.000. Topografische Dienst 1953. Inzetkaart van de administartieve indeling, schaal 1: 10.000.000." .
-<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/c1699062c29a551fefabcb468a0d3858> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/c1323f1acec066c6c3582553a39c62e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c1323f1acec066c6c3582553a39c62e4> <https://colonialcollections.nl/schema#identifier> "S%2095-12" .
 <https://n2t.net/ark:/27023/c1323f1acec066c6c3582553a39c62e4> <https://colonialcollections.nl/schema#description> "Herkomst: Soerabaja" .

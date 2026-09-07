@@ -6,6 +6,20 @@
 <https://n2t.net/ark:/27023/9e7f9634bf592437435a5a67a789cd68> <https://colonialcollections.nl/schema#creator> "James Voûte" .
 <https://n2t.net/ark:/27023/9e7f9634bf592437435a5a67a789cd68> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9e7f9634bf592437435a5a67a789cd68> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#identifier> "2017/02/24-1-3/2" .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#name> "\"Soerabaia. Brug Plampitan.\", uitgegeven door J.M.Chs. Nijland, Societeitstraat, Soerabaia." .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart: Naar een foto. \"Soerabaia. Brug Plampitan.\". Uitgegeven J.M.Chs. Nijland, Societeitstraat, Soerabaia." .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#creator> "J.M.Chs. Nijland" .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-22/6" .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#name> "Bromo, active time" .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#description> "Bromo, active time. Copyright Tosari Studio No.2." .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#creator> "Tosari Studio" .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9e935922977a7cf5e2f01804578d0f11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9e935922977a7cf5e2f01804578d0f11> <https://colonialcollections.nl/schema#identifier> "2003/04/01-1-3" .
 <https://n2t.net/ark:/27023/9e935922977a7cf5e2f01804578d0f11> <https://colonialcollections.nl/schema#name> "Foto genomen Bronbeek op 27-2-2003 t.h.v. de Slag in de Javazee" .
@@ -13,6 +27,20 @@
 <https://n2t.net/ark:/27023/9e935922977a7cf5e2f01804578d0f11> <https://colonialcollections.nl/schema#creator> "Dhr. A.P. Bakker" .
 <https://n2t.net/ark:/27023/9e935922977a7cf5e2f01804578d0f11> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9e935922977a7cf5e2f01804578d0f11> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#identifier> "2017/01/02-4-3" .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#name> "Kom van wit geperst glas" .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#description> "Kom van wit geperst glas" .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#creator> "Corning Glass Works" .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#identifier> "2006/00-5/8/1" .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Brits fabrikaat KNIL en Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene katoen in aertex (weeftechniek) met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken en rechte zakkleppen en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmode" .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#creator> "Belfast Collar Co LtD" .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9ea63d3e200b0fb1489bea0f4f02cf34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9ea63d3e200b0fb1489bea0f4f02cf34> <https://colonialcollections.nl/schema#identifier> "nf%20678-6-7" .
 <https://n2t.net/ark:/27023/9ea63d3e200b0fb1489bea0f4f02cf34> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, vierkant, geheel opgeplakt.\r\n\r\nOnder foto in potlood een toegevoegd nummer '560'. Geen verdere data.\r\n\r\nOpname toont drie inheemse mannen, poseren voor de foto. Zij staan bij elkaar met achter hen mogelijk gekapte boom. Het ziet er uit al" .
@@ -488,30 +516,6 @@
 <https://n2t.net/ark:/27023/9ec91de0a44638ff786a915e151287ec> <https://colonialcollections.nl/schema#description> "Document: Oorkonde gesp EBK: Atjeh 1906-1910 van Europees Sergeant der Infanterie Willem Polleman (70843), Batavia, 28 februari 1913." .
 <https://n2t.net/ark:/27023/9ec91de0a44638ff786a915e151287ec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/9ec91de0a44638ff786a915e151287ec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#identifier> "2017/02/24-1-3/2" .
-<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#name> "\"Soerabaia. Brug Plampitan.\", uitgegeven door J.M.Chs. Nijland, Societeitstraat, Soerabaia." .
-<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#description> "Prentbriefkaart: Naar een foto. \"Soerabaia. Brug Plampitan.\". Uitgegeven J.M.Chs. Nijland, Societeitstraat, Soerabaia." .
-<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9e82d9bfc53c43ac76cd0676bc5ea53c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#identifier> "2012/03/19-1-22/6" .
-<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#name> "Bromo, active time" .
-<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#description> "Bromo, active time. Copyright Tosari Studio No.2." .
-<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9e898c31cdfc944f7170eb045497fb05> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#identifier> "2017/01/02-4-3" .
-<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#name> "Kom van wit geperst glas" .
-<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#description> "Kom van wit geperst glas" .
-<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9eaa9c1df039d496005b6dfa09bc4e65> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#identifier> "2006/00-5/8/1" .
-<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Brits fabrikaat KNIL en Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene katoen in aertex (weeftechniek) met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken en rechte zakkleppen en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmode" .
-<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/9eaec365e08e3e48ff8fda6acbf07d9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/9e7e434c4b7bd9a15d439f999b0ef01a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9e7e434c4b7bd9a15d439f999b0ef01a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43117" .
 <https://n2t.net/ark:/27023/9e7e434c4b7bd9a15d439f999b0ef01a> <https://colonialcollections.nl/schema#description> "Topengmasker" .

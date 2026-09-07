@@ -6,6 +6,13 @@
 <https://n2t.net/ark:/27023/ff5d65a1db7024a870ec9104dcd9986c> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/ff5d65a1db7024a870ec9104dcd9986c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff5d65a1db7024a870ec9104dcd9986c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/7" .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#name> "Mensen op de rug gezien kijkend naar drie vliegtuigen (vliegshow?)" .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#description> "Mensen op de rug gezien kijkend naar drie vliegtuigen (vliegshow?)." .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#creator> "Modern" .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff80381e355fde0abf22da2b48ca865c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff80381e355fde0abf22da2b48ca865c> <https://colonialcollections.nl/schema#identifier> "nf%20500-4" .
 <https://n2t.net/ark:/27023/ff80381e355fde0abf22da2b48ca865c> <https://colonialcollections.nl/schema#name> "Het station van Cheribon, Java" .
@@ -13,6 +20,13 @@
 <https://n2t.net/ark:/27023/ff80381e355fde0abf22da2b48ca865c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ff80381e355fde0abf22da2b48ca865c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff80381e355fde0abf22da2b48ca865c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#identifier> "nf%201621-3" .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#name> "Siuluhuis van Bawomataluwo, Zuid Nias" .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SIULUHUIS VAN BAWOMATALUWO, Z.NIAS 1930 - rechts FOTO R.BONNET\r\n\r\nOp" .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff8acc479e444982300ef460aef29aae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff8acc479e444982300ef460aef29aae> <https://colonialcollections.nl/schema#identifier> "nf%20619-51" .
 <https://n2t.net/ark:/27023/ff8acc479e444982300ef460aef29aae> <https://colonialcollections.nl/schema#name> "Flores, een kampong boven Endeh" .
@@ -48,9 +62,10 @@
 <https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#identifier> "nf%20681-14-2" .
 <https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#description> "Zwart/wit ansichtkaart.\r\n\r\nDe opname toont het \" Frederiksborg Slot\" in Denemarken.\r\n\r\nHet betreft  een luchtopname van het slot." .
-<https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#creator> "Frederiksborg Museet" .
 <https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ff76fc9be01feb5ff4c3127869ed99c6> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/ff80e084a1bb2c2da0101a8c26327580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff80e084a1bb2c2da0101a8c26327580> <https://colonialcollections.nl/schema#identifier> "nf%20842-536" .
 <https://n2t.net/ark:/27023/ff80e084a1bb2c2da0101a8c26327580> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BC 73 t/m 100. Deze slede is opgeborgen in beige/grijze doos met donker bruin deksel, gemerkt met BC, 1977, Indonesië-reis.\r\n\r\nDe dia is genummerd: in inkt BC 95, in potlood EC 21." .
@@ -548,18 +563,6 @@
 <https://n2t.net/ark:/27023/ffa80c3bf14e12f467a8358ea0778a1b> <https://colonialcollections.nl/schema#description> "Papietje met enige persoonlijke gegevens van Josep Hendrik Kraan, geboren 27 februari 1878 te Amsterdam, afkomstig uit de map met gegevens omtrent op verzoek of wegens verwijdering ontslagen invaliden." .
 <https://n2t.net/ark:/27023/ffa80c3bf14e12f467a8358ea0778a1b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ffa80c3bf14e12f467a8358ea0778a1b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#identifier> "2005/04/21-1-1/7" .
-<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#name> "Mensen op de rug gezien kijkend naar drie vliegtuigen (vliegshow?)" .
-<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#description> "Mensen op de rug gezien kijkend naar drie vliegtuigen (vliegshow?)." .
-<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ff707d7bd5995f0f5c0e359a9fc47355> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#identifier> "nf%201621-3" .
-<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#name> "Siuluhuis van Bawomataluwo, Zuid Nias" .
-<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SIULUHUIS VAN BAWOMATALUWO, Z.NIAS 1930 - rechts FOTO R.BONNET\r\n\r\nOp" .
-<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ff80ea8e23dec7ea1bc864e478a3458f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/ff75555e6e8929839e5ecfd181ea1dde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ff75555e6e8929839e5ecfd181ea1dde> <https://colonialcollections.nl/schema#identifier> "2015/07/20-1-5/14" .
 <https://n2t.net/ark:/27023/ff75555e6e8929839e5ecfd181ea1dde> <https://colonialcollections.nl/schema#description> "Foto" .

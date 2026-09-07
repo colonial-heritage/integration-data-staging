@@ -1,3 +1,20 @@
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#identifier> "2018/08/22-1" .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#name> "Repeteergeweer Lee Enfield No. 5 Mk 1 'Jungle Carbine'" .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#description> "Repeteergeweer Lee Enfield No. 5 Mk 1 'Jungle Carbine' met magazijn. Geweerriem ontbreekt.\r\nConditie: schietklaar, compleet met magazijn. Rubber stootblok kolf onbeschadigd\r\n\r\nOMSCHRIJVING\r\n- Wapensoort\t\t: Geweer, repeteer (bolt action rifle)\r\n- Benaming," .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#inscription> "I/46 No. 5 Mk 1 ROF (F); broad arrow; BNP" .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#creator> "Royal Ordnance Factory Fazakerey" .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/9" .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart., Javaans" .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Javaansche. \"Roemah Moerah Batavia Medan Pontianak\"" .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#inscription> "Javaansche" .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#creator> "Roemah Moerah Batavia Medan Pontianak" .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#creator> "Rita Kleijn-Fortuin" .
 <https://n2t.net/ark:/27023/08f98d2323e24b954847f759b77e62e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/08f98d2323e24b954847f759b77e62e6> <https://colonialcollections.nl/schema#identifier> "nf%20492-1" .
 <https://n2t.net/ark:/27023/08f98d2323e24b954847f759b77e62e6> <https://colonialcollections.nl/schema#name> "Banjoebiroe bij Pasoeroean" .
@@ -5,6 +22,13 @@
 <https://n2t.net/ark:/27023/08f98d2323e24b954847f759b77e62e6> <https://colonialcollections.nl/schema#creator> "Atelier Kurkdjian Soerabaia Java" .
 <https://n2t.net/ark:/27023/08f98d2323e24b954847f759b77e62e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/08f98d2323e24b954847f759b77e62e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/16" .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#description> "Foto z/w (totaal 97 stuks) diensttijd KNIL 1927-1949. KNIL-militairen met paard en wagen op een brug." .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#creator> "Studio Tjimahi" .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/091a4b35bf3de029a7531ec98d7683d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/091a4b35bf3de029a7531ec98d7683d9> <https://colonialcollections.nl/schema#identifier> "nf%201358-2-1" .
 <https://n2t.net/ark:/27023/091a4b35bf3de029a7531ec98d7683d9> <https://colonialcollections.nl/schema#name> "In het Berg Hotel" .
@@ -26,6 +50,14 @@
 <https://n2t.net/ark:/27023/0927419de9733a0f28b6d51f7fd9476c> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/0927419de9733a0f28b6d51f7fd9476c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/0927419de9733a0f28b6d51f7fd9476c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#identifier> "nf%201334-1" .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#name> "B.P.M.-Gebouw - Koningsplein Oost - Batavia" .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'B.P.M.-Gebouw - Koningsplein Oost - Bat" .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#creator> "Uitgeverij Vesta" .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#creator> "ROTOGRAVURE DE UNIE" .
 <https://n2t.net/ark:/27023/090f0ed867c1d81f3b9fdbe687883d4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/090f0ed867c1d81f3b9fdbe687883d4d> <https://colonialcollections.nl/schema#identifier> "nf%201885-24" .
 <https://n2t.net/ark:/27023/090f0ed867c1d81f3b9fdbe687883d4d> <https://colonialcollections.nl/schema#description> "Glasnegatief, zwart/wit, rechthoekig, met anderen los aangetroffen\r\n\r\nOpname toont een blank meisje, staand in een sierlijke danshouding, op een mat met een gordijn als achtergrond. Zij draagt een kort jurkje, mogelijk een sportjurk of dansjurk.\r\n\r\nOnduid" .
@@ -84,20 +116,6 @@
 <https://n2t.net/ark:/27023/092fce5828f4435c2ed219c2d1febdd6> <https://colonialcollections.nl/schema#inscription> "10" .
 <https://n2t.net/ark:/27023/092fce5828f4435c2ed219c2d1febdd6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/092fce5828f4435c2ed219c2d1febdd6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#identifier> "2018/08/22-1" .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#name> "Repeteergeweer Lee Enfield No. 5 Mk 1 'Jungle Carbine'" .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#description> "Repeteergeweer Lee Enfield No. 5 Mk 1 'Jungle Carbine' met magazijn. Geweerriem ontbreekt.\r\nConditie: schietklaar, compleet met magazijn. Rubber stootblok kolf onbeschadigd\r\n\r\nOMSCHRIJVING\r\n- Wapensoort\t\t: Geweer, repeteer (bolt action rifle)\r\n- Benaming," .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#inscription> "I/46 No. 5 Mk 1 ROF (F); broad arrow; BNP" .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/090240c10ff686d53096363acc6bca19> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#identifier> "1998/01/20-2-2/9" .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#name> "Prentbriefkaart., Javaans" .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Javaansche. \"Roemah Moerah Batavia Medan Pontianak\"" .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#inscription> "Javaansche" .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/0927a156b353106a90cf0f369760e43b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/08eae719934d92cb8c843c5ac993f0e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/08eae719934d92cb8c843c5ac993f0e5> <https://colonialcollections.nl/schema#identifier> "1999/00-26" .
 <https://n2t.net/ark:/27023/08eae719934d92cb8c843c5ac993f0e5> <https://colonialcollections.nl/schema#name> "Een stuk bordpapier waarop vergiftige blaaspijltjes" .
@@ -536,18 +554,6 @@
 <https://n2t.net/ark:/27023/092e21a5d283fc4173d83f2d79eff2eb> <https://colonialcollections.nl/schema#description> "Foto in lijst. Rivier met bamboe. Nederlands-Indië. Foto is geplaatst tussen twee glasplaten, die met papier aan elkaar zijn geplakt. Voorzien van een metalen ophangoog. Zwart omlijnd." .
 <https://n2t.net/ark:/27023/092e21a5d283fc4173d83f2d79eff2eb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/092e21a5d283fc4173d83f2d79eff2eb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#identifier> "2010/10/12-2-4/16" .
-<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#name> "Foto z/w, diensttijd KNIL 1927-1949" .
-<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#description> "Foto z/w (totaal 97 stuks) diensttijd KNIL 1927-1949. KNIL-militairen met paard en wagen op een brug." .
-<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/090dbc0b0f910f34d0ed0ee586be1185> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#identifier> "nf%201334-1" .
-<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#name> "B.P.M.-Gebouw - Koningsplein Oost - Batavia" .
-<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Er is meegedrukte tekst in het Nederlands.\r\nOok is er links onder informatie over uitgever en drukker.\r\n\r\nRechtsonder de afbeelding is in zwart tekst gedrukt die luidt: 'B.P.M.-Gebouw - Koningsplein Oost - Bat" .
-<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/092ee910f26745abb44df1c11709b3c5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/08f115880f6b58d040d08f7551db91f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/08f115880f6b58d040d08f7551db91f1> <https://colonialcollections.nl/schema#identifier> "2006/03/03-1-51" .
 <https://n2t.net/ark:/27023/08f115880f6b58d040d08f7551db91f1> <https://colonialcollections.nl/schema#description> "Foto op karton." .

@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/57" .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#name> "Plaat 57. Oostervoorwerk van Penosan." .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 57. Oostervoorwerk van Penosan." .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#inscription> "Plaat 57. Oostervoorwerk van Penosan." .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c48a0b3e31b1b766c4ac45aec73bf79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c48a0b3e31b1b766c4ac45aec73bf79> <https://colonialcollections.nl/schema#identifier> "2006/00-42-754/006" .
 <https://n2t.net/ark:/27023/4c48a0b3e31b1b766c4ac45aec73bf79> <https://colonialcollections.nl/schema#name> "Foto met betrekking tot Generaal S.H. Spoor" .
@@ -6,6 +14,20 @@
 <https://n2t.net/ark:/27023/4c48a0b3e31b1b766c4ac45aec73bf79> <https://colonialcollections.nl/schema#creator> "Legervoorlichtingsdienst (L.V.D.)" .
 <https://n2t.net/ark:/27023/4c48a0b3e31b1b766c4ac45aec73bf79> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c48a0b3e31b1b766c4ac45aec73bf79> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/20" .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#creator> "Alexandre & Co" .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#identifier> "2005/00-607/1" .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#name> "Foto van straat met aan weerszijden bomen, Pematang-Siantar" .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Straat met aan weerszijden bomen, Pematang-Siantar, Sumatra-Oostkust.\r\n\r\nrecto: in witte inkt \"Pematang-Siantar\"\r\nverso: in potloos \" Photo genomen Juli 1930 P. Siantar Sumatra-oostkust\"" .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#creator> "Mohd. Dar" .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c1a8239f72c3ec25b6e1aed143439c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c1a8239f72c3ec25b6e1aed143439c7> <https://colonialcollections.nl/schema#identifier> "2015/02/04-8-79" .
 <https://n2t.net/ark:/27023/4c1a8239f72c3ec25b6e1aed143439c7> <https://colonialcollections.nl/schema#name> "Tekening" .
@@ -13,6 +35,20 @@
 <https://n2t.net/ark:/27023/4c1a8239f72c3ec25b6e1aed143439c7> <https://colonialcollections.nl/schema#creator> "Charles Destrée" .
 <https://n2t.net/ark:/27023/4c1a8239f72c3ec25b6e1aed143439c7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c1a8239f72c3ec25b6e1aed143439c7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/9" .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz op bezoek in het kasteel Doorwerth, Legermuseum" .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#description> "Detachement Van Heutsz op bezoek in het kasteel Doorwerth, Legermuseum. Generaal Hoefer reikt hen iets uit.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#creator> "Fotobureau \"Gazendam\" Arnhem" .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/10" .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#name> "Carte de visite" .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#creator> "R. Schütz" .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c2c6f6e799bf027d40a513187a93f83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c2c6f6e799bf027d40a513187a93f83> <https://colonialcollections.nl/schema#identifier> "2005/00-633/19" .
 <https://n2t.net/ark:/27023/4c2c6f6e799bf027d40a513187a93f83> <https://colonialcollections.nl/schema#name> "Foto van een vijver in Narmada, lustoord van de Vorsten van Lombok, met achterliggende bossages." .
@@ -27,13 +63,15 @@
 <https://n2t.net/ark:/27023/4c384d9e167b58fcdd4f1478b3bf3e20> <https://colonialcollections.nl/schema#creator> "Luchtkuuroord Tengger" .
 <https://n2t.net/ark:/27023/4c384d9e167b58fcdd4f1478b3bf3e20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c384d9e167b58fcdd4f1478b3bf3e20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c384d9e167b58fcdd4f1478b3bf3e20> <https://colonialcollections.nl/schema#creator> "S. Bakker Jz., Koog-Zaandijk" .
 <https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#identifier> "nf%201413-27" .
 <https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#name> "Straat te Sabang" .
 <https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, bijna vierkant, geheel opgeplakt, zonder verdere gegevens\r\n\r\nOpname toont een weg, straat, met links (Chinese) winkels. Op straat en bij de winkels mensen, zo te zien, de inheemse bevolking.\r\n\r\nN.B.: Deze foto is identiek aan nf 1375-27. " .
-<https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
+<https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#creator> "Gevaert" .
 <https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c49fd44db65fea885b49b6f360af06b> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/4c115690d805122f7e7875a96eefae28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c115690d805122f7e7875a96eefae28> <https://colonialcollections.nl/schema#identifier> "nf%20680-69" .
 <https://n2t.net/ark:/27023/4c115690d805122f7e7875a96eefae28> <https://colonialcollections.nl/schema#description> "Drie mensen, jongen, meisje met kat en kind, zitten op een trap voor een huis. \r\n\r\nN.B.: Uit latere informatie van de geefster blijkt dat: de persoon rechts Piet Gestman is, de persoon links Dini Gestman, de schenkster zelf en het kind in het midden Mieke" .
@@ -58,6 +96,12 @@
 <https://n2t.net/ark:/27023/4c25bc2d83a59ed55c16e3d103dfb368> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4c25bc2d83a59ed55c16e3d103dfb368> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c25bc2d83a59ed55c16e3d103dfb368> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#identifier> "EDO%20481-48" .
+<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van lopende mensen, vrouwen met waren op hun hoofd en mannen daar tussen. Ook staan er enkele te kijken." .
+<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#creator> "Mw G. (Gretha) de Bruin Ouboter" .
+<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c49d79abbaeaa4777b63ca5a70d76d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c49d79abbaeaa4777b63ca5a70d76d5> <https://colonialcollections.nl/schema#identifier> "nf%201795-2" .
 <https://n2t.net/ark:/27023/4c49d79abbaeaa4777b63ca5a70d76d5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant in inkt inventarisnummer S 956\r\n\r\nOpname toont een stoomboot, waarschijnlijk stoomschip, varend, met op de achtergrond land en bergen. Twee masten, één rokende pijp." .
@@ -85,13 +129,6 @@
 <https://n2t.net/ark:/27023/4c328f8abcd6397848dc39894baf2b33> <https://colonialcollections.nl/schema#inscription> "\"Het Paleis van buitenzorg\"\r\n\"Gezigt op de rivier Tjitarom\"\r\n\"Krater van den berg Tankoeban Prahoe\"" .
 <https://n2t.net/ark:/27023/4c328f8abcd6397848dc39894baf2b33> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c328f8abcd6397848dc39894baf2b33> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/57" .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#name> "Plaat 57. Oostervoorwerk van Penosan." .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 57. Oostervoorwerk van Penosan." .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#inscription> "Plaat 57. Oostervoorwerk van Penosan." .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4c1ba66629931ecf4902b5df18d5fa1f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c11bde16a6c9e71f1b6d28ba13c5552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c11bde16a6c9e71f1b6d28ba13c5552> <https://colonialcollections.nl/schema#identifier> "1998/02/24-3-6/14" .
 <https://n2t.net/ark:/27023/4c11bde16a6c9e71f1b6d28ba13c5552> <https://colonialcollections.nl/schema#name> "Foto uit jaren rond 1930, familie" .
@@ -506,30 +543,6 @@
 <https://n2t.net/ark:/27023/4c4ce1cc7e182e5242c21ce108fd4e05> <https://colonialcollections.nl/schema#description> "Stereofoto, foto's opgeplakt op karton, van karton hoeken afgerond.\r\n\r\nAchter op foto in potlood geschreven: 'Southampton'.\r\n\r\nOpnamen vertonen een straat met gebouwen aan de rechter kant. Links een vierwielig voertuig bespannen met een paard. Op de achte" .
 <https://n2t.net/ark:/27023/4c4ce1cc7e182e5242c21ce108fd4e05> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c4ce1cc7e182e5242c21ce108fd4e05> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/20" .
-<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4c16f65723123d031c9f9c825b61f36c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#identifier> "2005/00-607/1" .
-<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#name> "Foto van straat met aan weerszijden bomen, Pematang-Siantar" .
-<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Straat met aan weerszijden bomen, Pematang-Siantar, Sumatra-Oostkust.\r\n\r\nrecto: in witte inkt \"Pematang-Siantar\"\r\nverso: in potloos \" Photo genomen Juli 1930 P. Siantar Sumatra-oostkust\"" .
-<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4c1a395322115f2412fdb17fba0f47af> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#identifier> "2006/00-24-41/9" .
-<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#name> "Detachement Van Heutsz op bezoek in het kasteel Doorwerth, Legermuseum" .
-<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#description> "Detachement Van Heutsz op bezoek in het kasteel Doorwerth, Legermuseum. Generaal Hoefer reikt hen iets uit.\r\n\r\nAfkomstig van fotobureau 'Gazendam'." .
-<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4c2a0c2a8721f32032162eaab4e28679> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#identifier> "2011/09/29-1-1/10" .
-<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#name> "Carte de visite" .
-<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amste" .
-<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4c2b74b5fcc87a1bf55a61305c8a1ee6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c19eef1b9a046d87af1ed419308237d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c19eef1b9a046d87af1ed419308237d> <https://colonialcollections.nl/schema#identifier> "S%20426-7" .
 <https://n2t.net/ark:/27023/4c19eef1b9a046d87af1ed419308237d> <https://colonialcollections.nl/schema#description> "Beeldje van een zittende man een trom bespelend, met ontbloot bovenlijf, hoofddoek, (iket) en lurik broek.\r\nHerkomst: Java." .
@@ -575,11 +588,6 @@
 <https://n2t.net/ark:/27023/4c439f4f4629d732aa8588adfc4820b7> <https://colonialcollections.nl/schema#description> "Fotonegatief, opgeborgen in pergamijnen zakje. Geen informatie op negatief.\r\n\r\nVoorin, op lijst, folio 26, staat vermeld: 4-8-'35 Mainz\r\n\r\nOpname toont een stadsgezicht, met helemaal vooraan een kademuur, gevolgd door een open ruimte, plein, met verschill" .
 <https://n2t.net/ark:/27023/4c439f4f4629d732aa8588adfc4820b7> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4c439f4f4629d732aa8588adfc4820b7> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#identifier> "EDO%20481-48" .
-<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, gekarteld, opgeplakt.\r\n\r\nOpname van lopende mensen, vrouwen met waren op hun hoofd en mannen daar tussen. Ook staan er enkele te kijken." .
-<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4c357f70ba008b49b28cdcc5a6370251> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4c31a1ba29d8512df54fc6e4f06fb88c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c31a1ba29d8512df54fc6e4f06fb88c> <https://colonialcollections.nl/schema#identifier> "S%20230-876" .
 <https://n2t.net/ark:/27023/4c31a1ba29d8512df54fc6e4f06fb88c> <https://colonialcollections.nl/schema#name> "Houten model van een juk, pasangan" .

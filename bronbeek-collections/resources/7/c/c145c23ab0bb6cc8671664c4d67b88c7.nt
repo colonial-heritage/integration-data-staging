@@ -7,14 +7,38 @@
 <https://n2t.net/ark:/27023/842272fd4e68746d8bb11c3b95984593> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/842272fd4e68746d8bb11c3b95984593> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/842272fd4e68746d8bb11c3b95984593> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#identifier> "2002/00-33/12" .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#name> "20. Christen Inlanders in Plechtgewaad. Minahasa. (Noord-Celebes)" .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n20. Christen Inlanders in Plechtgewaad. Minahasa. (Noord-Celebes)" .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#inscription> "20. Christen Inlanders in Plechtgewaad. Minahasa. (Noord-Celebes)" .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#creator> "Kleynenberg & Co., Haarlem" .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-76" .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#name> "Tengger - Landschap, (Waterval bij Nonko - Djadjar.)" .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Sanatorium Tosari. Directeur-Geneesheer: Dr. J.H.J. v. Barmen ´t Loo Arts. Tengger - Landschap, (Waterval bij Nonko - Djadjar.)" .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#inscription> "Sanatorium Tosari. Directeur-Geneesheer: Dr. J.H.J. v. Barmen ´t Loo Arts. Tengger - Landschap, (Waterval bij Nonko - Djadjar.)" .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#creator> "A.J. Menger" .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#identifier> "2006/00-53-6" .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#name> "Eetwaren-verkoopers. Java." .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door G.C.T. van Dorp & Co, Semarang-Soerabaia. Voorstellende een Eetwaren-verkoopers. Java. Naar een tekening van J. van der Heyden." .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#inscription> "Eetwaren-verkoopers. Java." .
-<https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#creator> "J.H. van der Heijden" .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8459985b2e8234197f3d41e2266ee4f8> <https://colonialcollections.nl/schema#creator> "G.C.T. van Dorp & Co" .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/340" .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Gezicht op den Kampong, Moeara Tambesi\".\r\nUitgegeven door J.C. auf der Heide S.H.D., Amsterdam." .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#creator> "J.C. auf der Heide S.H.D." .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8440b7291fc6f7fd6645ab9d4e6c9c6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8440b7291fc6f7fd6645ab9d4e6c9c6f> <https://colonialcollections.nl/schema#identifier> "nf%20789-15" .
 <https://n2t.net/ark:/27023/8440b7291fc6f7fd6645ab9d4e6c9c6f> <https://colonialcollections.nl/schema#name> "Boroboedoer" .
@@ -43,6 +67,13 @@
 <https://n2t.net/ark:/27023/8454e2f4ff2950b204dc8ba54e51ad0f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/8454e2f4ff2950b204dc8ba54e51ad0f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8454e2f4ff2950b204dc8ba54e51ad0f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/16" .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nSemarang. Vuurtoren. A. Bisschop, Semarang Cheribon." .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#creator> "A. Bisschop Semarang-Cheribon" .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/845e9310f96d8c50af5b38d3c1ef9156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/845e9310f96d8c50af5b38d3c1ef9156> <https://colonialcollections.nl/schema#identifier> "nf%20699-17-2" .
 <https://n2t.net/ark:/27023/845e9310f96d8c50af5b38d3c1ef9156> <https://colonialcollections.nl/schema#name> "Goesti Radenajoe Mangoen-negoro" .
@@ -50,6 +81,12 @@
 <https://n2t.net/ark:/27023/845e9310f96d8c50af5b38d3c1ef9156> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/845e9310f96d8c50af5b38d3c1ef9156> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/845e9310f96d8c50af5b38d3c1ef9156> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#identifier> "nf%20323-25-1" .
+<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het Blauwe meer van Kelimoetoe'" .
+<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
+<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/844fc4ebee7b3752897fd92e21acb70b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/844fc4ebee7b3752897fd92e21acb70b> <https://colonialcollections.nl/schema#identifier> "nf%20598-3" .
 <https://n2t.net/ark:/27023/844fc4ebee7b3752897fd92e21acb70b> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug" .
@@ -75,20 +112,6 @@
 <https://n2t.net/ark:/27023/84235b79875bead5806a2d258a83271f> <https://colonialcollections.nl/schema#inscription> "Java-China-Japan Lijn J.C.J.L" .
 <https://n2t.net/ark:/27023/84235b79875bead5806a2d258a83271f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/84235b79875bead5806a2d258a83271f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#identifier> "2002/00-33/12" .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#name> "20. Christen Inlanders in Plechtgewaad. Minahasa. (Noord-Celebes)" .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#description> "Schoolplaat. Uitgesneden.\r\n20. Christen Inlanders in Plechtgewaad. Minahasa. (Noord-Celebes)" .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#inscription> "20. Christen Inlanders in Plechtgewaad. Minahasa. (Noord-Celebes)" .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/842ccab772fc0dc2742e139d92c50777> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#identifier> "2002/03/12-1-76" .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#name> "Tengger - Landschap, (Waterval bij Nonko - Djadjar.)" .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Sanatorium Tosari. Directeur-Geneesheer: Dr. J.H.J. v. Barmen ´t Loo Arts. Tengger - Landschap, (Waterval bij Nonko - Djadjar.)" .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#inscription> "Sanatorium Tosari. Directeur-Geneesheer: Dr. J.H.J. v. Barmen ´t Loo Arts. Tengger - Landschap, (Waterval bij Nonko - Djadjar.)" .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/842d84a8e0bbcb79c64a37f8d8481557> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8420b7027125de3a282c2a441709c076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8420b7027125de3a282c2a441709c076> <https://colonialcollections.nl/schema#identifier> "1981/05/18-1-3/5" .
 <https://n2t.net/ark:/27023/8420b7027125de3a282c2a441709c076> <https://colonialcollections.nl/schema#name> "Manuscript in het Maleis met toespraak n.a.v toekenning MWO aan D.B.W. van Ardenne" .
@@ -539,18 +562,6 @@
 <https://n2t.net/ark:/27023/845e6fc3bae0164c12275654e0641631> <https://colonialcollections.nl/schema#description> "Document betreffende Douwe Willem Deinum, inwoner van Bronbeek.\r\nAfkomstig uit map met gegevens omtrent op verzoek of wegens verwijdering ontslagen invaliden.\r\nDocument betreft met potlood (m.u.v. achternaam=pen) opgetekende gegevens stamkaart" .
 <https://n2t.net/ark:/27023/845e6fc3bae0164c12275654e0641631> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/845e6fc3bae0164c12275654e0641631> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#identifier> "2006/00-42-753/340" .
-<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
-<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#description> "Prentbriefkaart van Nederlands-Indië. Foto van: \"Gezicht op den Kampong, Moeara Tambesi\".\r\nUitgegeven door J.C. auf der Heide S.H.D., Amsterdam." .
-<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/842b793a36c9a60738e461e354418a53> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#identifier> "2017/07/28-2-2/16" .
-<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#name> "Prentbriefkaart nalatenschap H.D. Wiggers" .
-<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#description> "Prentbriefkaart zwart wit. Briefkaart. Onbeschreven.\r\nSemarang. Vuurtoren. A. Bisschop, Semarang Cheribon." .
-<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/845bf372c3ce63cf6817a7f4487562bf> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/8423ff3c0311edff6365355c4ec42206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8423ff3c0311edff6365355c4ec42206> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43087" .
 <https://n2t.net/ark:/27023/8423ff3c0311edff6365355c4ec42206> <https://colonialcollections.nl/schema#description> "Dolkmes" .
@@ -591,11 +602,6 @@
 <https://n2t.net/ark:/27023/8459042c9413ce56b59c894c622f40a4> <https://colonialcollections.nl/schema#description> "KL: wit/naturel (verlegen); VO: hempje met sluiting voor; 4 knoopsgaten maar de 4 er tegenover horende knopen zijn niet aanwezig; wel aanwezig 1 knoop aan rugzijde (vermoedelijk nodig voor vast te maken aan broekje); langs bovenkant afgewerkt met gehaakt " .
 <https://n2t.net/ark:/27023/8459042c9413ce56b59c894c622f40a4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/8459042c9413ce56b59c894c622f40a4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#identifier> "nf%20323-25-1" .
-<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#description> "bijschrift; 'Het Blauwe meer van Kelimoetoe'" .
-<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/8431c2faea77327d2ddbecb4f5d8de47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/84209c617463e8cd92da830c35dc2733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/84209c617463e8cd92da830c35dc2733> <https://colonialcollections.nl/schema#identifier> "2016/02/23-1-1/489" .
 <https://n2t.net/ark:/27023/84209c617463e8cd92da830c35dc2733> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .

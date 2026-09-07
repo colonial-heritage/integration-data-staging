@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/5b3a47803d2bcb2d60ee559e36c276ff> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer" .
 <https://n2t.net/ark:/27023/5b3a47803d2bcb2d60ee559e36c276ff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b3a47803d2bcb2d60ee559e36c276ff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/131" .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#name> "Plaat 131. Kogels der Gajo's (eenigszins vergroot)." .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 131. Kogels der Gajo's (eenigszins vergroot)." .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#inscription> "Plaat 131. Kogels der Gajo's (eenigszins vergroot)." .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b2ea119867fe8ed228dbc83481affdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b2ea119867fe8ed228dbc83481affdd> <https://colonialcollections.nl/schema#identifier> "nf%20453" .
 <https://n2t.net/ark:/27023/5b2ea119867fe8ed228dbc83481affdd> <https://colonialcollections.nl/schema#name> "'Soendaneesche vrouw'" .
@@ -34,6 +42,20 @@
 <https://n2t.net/ark:/27023/5b46372828dace3070b0b93cd940372c> <https://colonialcollections.nl/schema#creator> "Stichting Werkplaats tot Herstel van Antieke Textiel" .
 <https://n2t.net/ark:/27023/5b46372828dace3070b0b93cd940372c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b46372828dace3070b0b93cd940372c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/10" .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#creator> "Natalie Hoogmoed, KTOMM Bronbeek" .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/9" .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#name> "Een van vier poorten, welke toegang geven tot 't slot Colditz" .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#description> "Foto van een van vier poorten, welke toegang geven tot 't slot Colditz. Links Saksische, rechts Deensche wapen.\r\nGestempeld: Oflag IV C 6." .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#creator> "Moritz und Johannes Lange" .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b6d0e078205904a8fc9513f47d82dc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b6d0e078205904a8fc9513f47d82dc1> <https://colonialcollections.nl/schema#identifier> "nf%201413-168" .
 <https://n2t.net/ark:/27023/5b6d0e078205904a8fc9513f47d82dc1> <https://colonialcollections.nl/schema#name> "Pasar te Tandjoeng Radja. Verkoop van ananas" .
@@ -41,6 +63,13 @@
 <https://n2t.net/ark:/27023/5b6d0e078205904a8fc9513f47d82dc1> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
 <https://n2t.net/ark:/27023/5b6d0e078205904a8fc9513f47d82dc1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b6d0e078205904a8fc9513f47d82dc1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-722" .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#name> "Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea" .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea.\r\n\r\nRecto: Mensen uit Wisselmeren." .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#creator> "Kwa Hong Lok, Manokwari" .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b316a830c8c4ed30b35435b50c5170a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b316a830c8c4ed30b35435b50c5170a> <https://colonialcollections.nl/schema#identifier> "nf%20686-15-2" .
 <https://n2t.net/ark:/27023/5b316a830c8c4ed30b35435b50c5170a> <https://colonialcollections.nl/schema#description> "Foto uit album S 4336, ongekarteld.\r\n\r\nPagina 15 heeft als bijschrift voor de 2 foto's ' Pajakoembo'\r\n\r\nnf 686-15-2 is een liggende foto, opname van een straattafereel" .
@@ -100,13 +129,6 @@
 <https://n2t.net/ark:/27023/5b6c5fc6b5c246e2c4628162cededc3e> <https://colonialcollections.nl/schema#inscription> "V" .
 <https://n2t.net/ark:/27023/5b6c5fc6b5c246e2c4628162cededc3e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b6c5fc6b5c246e2c4628162cededc3e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#identifier> "1994/11/04-2-2/131" .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#name> "Plaat 131. Kogels der Gajo's (eenigszins vergroot)." .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#description> "Foto. \r\nPlaat 131. Kogels der Gajo's (eenigszins vergroot)." .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#inscription> "Plaat 131. Kogels der Gajo's (eenigszins vergroot)." .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5b3c310e838e0795b56bd32dee008e8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b2d4d9c6867ea58da119d842b6c2fd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b2d4d9c6867ea58da119d842b6c2fd1> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43077" .
 <https://n2t.net/ark:/27023/5b2d4d9c6867ea58da119d842b6c2fd1> <https://colonialcollections.nl/schema#name> "Kris in schede, Celebes" .
@@ -533,24 +555,6 @@
 <https://n2t.net/ark:/27023/5b70a328e5fa348388e497661b07635c> <https://colonialcollections.nl/schema#description> "Documenten diensttijd H.W.A.E. Landzaat als dienstplichtige bij het KNIL en als landstormplichtige bij de Koninklijke landmacht.\r\n1. zakboekje van den dienstplichtige bij het leger in Nederlandsch-Indië.  Repr. bedrijf Top. Dienst Weltevreden 1926. Met da" .
 <https://n2t.net/ark:/27023/5b70a328e5fa348388e497661b07635c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/5b70a328e5fa348388e497661b07635c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#identifier> "2006/00-24-37-3/10" .
-<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#name> "Bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003" .
-<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#description> "Foto in kleur van het bezoek van minister van defensie Henk Kamp aan Bronbeek op 29 december 2003. Een van een serie van 28 foto's." .
-<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5b5ad98a6bea0568f641e41834bb401c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#identifier> "1974/01/01-2-2/9" .
-<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#name> "Een van vier poorten, welke toegang geven tot 't slot Colditz" .
-<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#description> "Foto van een van vier poorten, welke toegang geven tot 't slot Colditz. Links Saksische, rechts Deensche wapen.\r\nGestempeld: Oflag IV C 6." .
-<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5b60ddfadc25803d450d497e8e382e1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#identifier> "2006/00-42-722" .
-<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#name> "Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea" .
-<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Papoeavrouwen uit het gebied van de Wisselmeren, Nieuw-Guinea.\r\n\r\nRecto: Mensen uit Wisselmeren." .
-<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/5b6e2c073a8672213e64dd01ae9a3a4d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/5b30ebf325679e414facdf93a8046127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5b30ebf325679e414facdf93a8046127> <https://colonialcollections.nl/schema#identifier> "nf%201309-8-3" .
 <https://n2t.net/ark:/27023/5b30ebf325679e414facdf93a8046127> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, opgeplakt, zonder bijschrift.\r\n\r\nDe afbeelding toont twee blanke vrouwen en een paar ganzen. De dames zijn in het wit gekleed, met hoeden op. Achter hen een meer of grote vijver en veel vegetatie.\r\n\r\nHet is mogelijk dat deze " .

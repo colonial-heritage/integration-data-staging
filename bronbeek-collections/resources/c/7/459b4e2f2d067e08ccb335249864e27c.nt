@@ -21,6 +21,7 @@
 <https://n2t.net/ark:/27023/aad3ec1f235a69acb40d80bfe87db4e5> <https://colonialcollections.nl/schema#creator> "F.B. Smits" .
 <https://n2t.net/ark:/27023/aad3ec1f235a69acb40d80bfe87db4e5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aad3ec1f235a69acb40d80bfe87db4e5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aad3ec1f235a69acb40d80bfe87db4e5> <https://colonialcollections.nl/schema#creator> "Gebr. van Straaten, Middelburg (Nederland)" .
 <https://n2t.net/ark:/27023/aad854bd590806576db6c5f7230b8e11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aad854bd590806576db6c5f7230b8e11> <https://colonialcollections.nl/schema#identifier> "1890/04-1-4" .
 <https://n2t.net/ark:/27023/aad854bd590806576db6c5f7230b8e11> <https://colonialcollections.nl/schema#name> "Vaandeldoek van het 2e bataljon koloniale Infanterie" .
@@ -42,6 +43,20 @@
 <https://n2t.net/ark:/27023/aaf217e8fb7cd4b1042895937e7b3e6e> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/aaf217e8fb7cd4b1042895937e7b3e6e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aaf217e8fb7cd4b1042895937e7b3e6e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#identifier> "1971/05/20-1-6" .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene gekeperde katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met rechte zakkleppen en stolpplooi en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmode" .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#creator> "Rexalco Overhemdenfabriek" .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#identifier> "nf%201621-1" .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#name> "Sesuwa dal, Zuid Nias" .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SESUWA DAL.Z.NIAS - rechts FOTO R.BONNET\r\n\r\nOpname toont oerwoud op " .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <https://colonialcollections.nl/schema#identifier> "nf%201430-11" .
 <https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <https://colonialcollections.nl/schema#name> "Het speelhuis" .
@@ -49,6 +64,14 @@
 <https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/aafcd1d44c656f4579ae2665b2a7ea40> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#identifier> "2013/06/01-3-2/3" .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#name> "Foto militair voertuig met overledene en saluerende militair op straat" .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#description> "Foto periode 1945-1950, uit de nalatenschap van Hendricus Geeve (1925-2006).\r\nMilitair vrachtvoertuig met achterin kist met overledene, bedekt met vlag en bloemen, passerende militair salueert.\r\nVerso: Foto Jahn & Zn. Malang-Java" .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#creator> "Atelier A.J. Jahn te Malang" .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aaffb371033e7d8ef8bc149f8d6ce961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aaffb371033e7d8ef8bc149f8d6ce961> <https://colonialcollections.nl/schema#identifier> "nf%20789-10" .
 <https://n2t.net/ark:/27023/aaffb371033e7d8ef8bc149f8d6ce961> <https://colonialcollections.nl/schema#name> "Zandzee en Bromo" .
@@ -56,6 +79,20 @@
 <https://n2t.net/ark:/27023/aaffb371033e7d8ef8bc149f8d6ce961> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/aaffb371033e7d8ef8bc149f8d6ce961> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/aaffb371033e7d8ef8bc149f8d6ce961> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-398/3" .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue  Commissaris van Politie Algemene Politie Nederlands-Indië" .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#description> "Pet, platte pet, met slappe overhangende bodem en stijve opstaande rand van kakikleurige katoen. Aan de voorzijde een zwarte naar beneden hellende klep van fiber en een stormband van zwart leer en kleine petknoopjes. De petknoopjes zijn bronskleurig met o" .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#creator> "Hendrikx" .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#identifier> "nf%201315-3" .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#name> "Omstreken van Bandoeng - Bij Batoe Djadjar" .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#creator> "Maatschappij Vorkink" .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aad117e112ff89cebb16457430e0f192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aad117e112ff89cebb16457430e0f192> <https://colonialcollections.nl/schema#identifier> "nf%201918-237" .
 <https://n2t.net/ark:/27023/aad117e112ff89cebb16457430e0f192> <https://colonialcollections.nl/schema#description> "Stereoglaspositief, zwart/wit, 2 heel dunne glasplaatjes op elkaar, samen gehouden en afgewerkt met zwarte tape.\r\n\r\nOpnames tonen een oprijlaan. Vooraan zijn twee hoekige steunen te zien van een metalen hek. Langs de oprijlaan palmbomen. Er lopen enige vo" .
@@ -536,36 +573,6 @@
 <https://n2t.net/ark:/27023/ab17bfaab1decab2c4e31813b48068d1> <https://colonialcollections.nl/schema#description> "Foto; Portret van een burger ? omgekomen in Dachau, voorzien van een rood-wit-blauw lint" .
 <https://n2t.net/ark:/27023/ab17bfaab1decab2c4e31813b48068d1> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/ab17bfaab1decab2c4e31813b48068d1> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#identifier> "1971/05/20-1-6" .
-<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#name> "Hemdjas (bush jacket) veldtenue tropen Nederlands fabrikaat Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#description> "Hemdjas (bush jacket) van olijfgroene gekeperde katoen met liggende kraag en revers, schouderlappen, twee opgenaaide borstzakken met rechte zakkleppen en stolpplooi en twee opgenaaide schootzakken met rechte zakkleppen. De manchetten zijn van het hemdmode" .
-<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aaf86b26e79dd1af3afda71635d501fe> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#identifier> "nf%201621-1" .
-<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#name> "Sesuwa dal, Zuid Nias" .
-<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op grijs karton, daarna opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: SESUWA DAL.Z.NIAS - rechts FOTO R.BONNET\r\n\r\nOpname toont oerwoud op " .
-<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aafbafc8b734efe30dca153eefd1e082> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#identifier> "2013/06/01-3-2/3" .
-<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#name> "Foto militair voertuig met overledene en saluerende militair op straat" .
-<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#description> "Foto periode 1945-1950, uit de nalatenschap van Hendricus Geeve (1925-2006).\r\nMilitair vrachtvoertuig met achterin kist met overledene, bedekt met vlag en bloemen, passerende militair salueert.\r\nVerso: Foto Jahn & Zn. Malang-Java" .
-<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/aafcd28ea2fd224e4a31242781dba050> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-398/3" .
-<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#name> "Platte pet dagelijkse tenue  Commissaris van Politie Algemene Politie Nederlands-Indië" .
-<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#description> "Pet, platte pet, met slappe overhangende bodem en stijve opstaande rand van kakikleurige katoen. Aan de voorzijde een zwarte naar beneden hellende klep van fiber en een stormband van zwart leer en kleine petknoopjes. De petknoopjes zijn bronskleurig met o" .
-<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab013218bddcef8305c10a7ce54b3e24> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#identifier> "nf%201315-3" .
-<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#name> "Omstreken van Bandoeng - Bij Batoe Djadjar" .
-<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkin" .
-<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/ab15dcad9ae0992ffa55b15f7c440643> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/aadac0b20eda5200fcd76699d7bdca8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aadac0b20eda5200fcd76699d7bdca8a> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43509" .
 <https://n2t.net/ark:/27023/aadac0b20eda5200fcd76699d7bdca8a> <https://colonialcollections.nl/schema#description> "Boombast-doek" .

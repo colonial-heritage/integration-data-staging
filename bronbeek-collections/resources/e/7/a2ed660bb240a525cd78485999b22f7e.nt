@@ -1,10 +1,19 @@
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#identifier> "2002/02/11-4-6" .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#name> "Nederlands Nieuw Guinea." .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#description> "Prent. In lijst. Koninklijke West-Indische Maildienst (Mala Real Holandesa) Amsterdam. Gesigneerd: P. van Hove. & van Leer. Amsterdam." .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#inscription> "Koninklijke West-Indische Maildienst (Mala Real Holandesa) Amsterdam." .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#creator> "P. van Hove" .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/6-4" .
 <https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#name> "Mariniers in Indië. Een door de extremisten opgeblazen brug, kan de infanterie niet in haar opmarsch belemmeren\"" .
 <https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart \"Mariniers in Indië. Een door de extremisten opgeblazen brug, kan de infanterie niet in haar opmarsch belemmeren\". \r\nGefotografeerd door Luitenant H. Wilmar voor de Voorlichtingsdienst van de 1e Mariniersbrigade." .
-<https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
+<https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#creator> "2e luitenant der Mariniers H.A. Wilmar" .
 <https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4a2bfe2158a45d893eb94ff7c16158f4> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
 <https://n2t.net/ark:/27023/4a375eef5ace65d5010ac76030a56c52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4a375eef5ace65d5010ac76030a56c52> <https://colonialcollections.nl/schema#identifier> "2006/00-23-111-1" .
 <https://n2t.net/ark:/27023/4a375eef5ace65d5010ac76030a56c52> <https://colonialcollections.nl/schema#name> "7 bouwtekeningen hoofdgebouw Bronbeek 1860 (kopie)" .
@@ -92,13 +101,6 @@
 <https://n2t.net/ark:/27023/4a687d0ffc7921030803ecf38d7ba7a5> <https://colonialcollections.nl/schema#inscription> "Sino-Japanese conflict" .
 <https://n2t.net/ark:/27023/4a687d0ffc7921030803ecf38d7ba7a5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4a687d0ffc7921030803ecf38d7ba7a5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#identifier> "2002/02/11-4-6" .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#name> "Nederlands Nieuw Guinea." .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#description> "Prent. In lijst. Koninklijke West-Indische Maildienst (Mala Real Holandesa) Amsterdam. Gesigneerd: P. van Hove. & van Leer. Amsterdam." .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#inscription> "Koninklijke West-Indische Maildienst (Mala Real Holandesa) Amsterdam." .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4a3fed3d15c2afd47e127280801a9aff> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4a2930b494aec00ea84dc702f0b3ce85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4a2930b494aec00ea84dc702f0b3ce85> <https://colonialcollections.nl/schema#identifier> "2018/10/05-2-2/2" .
 <https://n2t.net/ark:/27023/4a2930b494aec00ea84dc702f0b3ce85> <https://colonialcollections.nl/schema#name> "Gemotoriseerde oliebollenkraam uit Malang voor Nederlandse troepen" .

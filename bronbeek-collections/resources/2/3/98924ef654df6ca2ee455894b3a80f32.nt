@@ -1,3 +1,11 @@
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#identifier> "2016/05/09-2-3" .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#name> "Marine officierssabel model 1843" .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#description> "Sabel in schede (Marine) Marine officierssabel model 1843. Schede is gemodificeerd, mogelijk maar ten dele origineel, kling gemerkt P.Mansvelt en Zoon te ’s Hage + acier fondu coupant le fer. Schede met 1 ophangoog waaraan ketting." .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#inscription> "acier fondu coupant le fer" .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#creator> "P. Mansvelt & Zoon, 's-Gravenhage" .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43bc3b578476337f4ab81965bb9d6f41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43bc3b578476337f4ab81965bb9d6f41> <https://colonialcollections.nl/schema#identifier> "1970/11/28-1-8" .
 <https://n2t.net/ark:/27023/43bc3b578476337f4ab81965bb9d6f41> <https://colonialcollections.nl/schema#name> "Indië moet vrij" .
@@ -6,6 +14,28 @@
 <https://n2t.net/ark:/27023/43bc3b578476337f4ab81965bb9d6f41> <https://colonialcollections.nl/schema#creator> "Rijksvoorlichtingsdienst" .
 <https://n2t.net/ark:/27023/43bc3b578476337f4ab81965bb9d6f41> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43bc3b578476337f4ab81965bb9d6f41> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#identifier> "S%20409-9" .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#name> "Vue du palais de Buitenzorg, prise du parc" .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#description> "'Vue du palais de Buitenzorg, prise du parc'\r\nAfbeelding uit: 'Vues de Java' / dessinées d'après natures et lithographiées sous la direction de monsieur J.J. van Braam. - Amsterdam : Buffa, [1842]\r\nHerkomst: Java." .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#creator> "Hilmar Johannes Backer" .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#creator> "Willem Jan Gordon" .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#identifier> "nf%20821" .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#name> "Militaire Societeit, Magelang" .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de militaire Societeit te Magelang.\r\n\r\nLinks bovenaan op de voorkant staat vermeld: 'Militaire Societeit, Magelang.'\r\nlinksonder in de afbeelding staat het getal '67717'\r\nGedeelde achterkant met bovenaan (in het groen) " .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#identifier> "2001/09/24-3-37" .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#name> "Knopgewicht van 2 kati" .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#description> "Gewicht. Knopgewicht van 2 Kati. Haagse Balansen en Gewichten Fabriek. Op de bovenrand: '2 Kati', en jaarletter 'r' (1924). Op het grondvlak: 'H' (fabrieksmerk). Ronde justeeropening in grondvlak." .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#creator> "Haagse Balansen en Gewichten Fabriek" .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43c28b0b57f32d5fc6c1a2fe45fee221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43c28b0b57f32d5fc6c1a2fe45fee221> <https://colonialcollections.nl/schema#identifier> "2006/00-42-2/1" .
 <https://n2t.net/ark:/27023/43c28b0b57f32d5fc6c1a2fe45fee221> <https://colonialcollections.nl/schema#name> "Dertig gezichten op Atjeh, nr. 4: Bultzingslöwen met het koelie personeel van het Roode Kruis" .
@@ -34,13 +64,28 @@
 <https://n2t.net/ark:/27023/43c6f20259dd3b1aedd708e130193e97> <https://colonialcollections.nl/schema#creator> "N.V. voorheen H. van Ingen, Soerabaja" .
 <https://n2t.net/ark:/27023/43c6f20259dd3b1aedd708e130193e97> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43c6f20259dd3b1aedd708e130193e97> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#identifier> "2009/04/30-6-4/7" .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#name> "Foto´s Nederlands Indië" .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#description> "Foto´s. 9 stuks. Met betrekking tot Dick Grootherder, Stoottroepen 3e regiment 7 december divisie.\r\nGroepsportret van militairen (waarschijnlijk op kazerne in Nijmegen).\r\nVerso, stempel: George Flipse, Arnhem." .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#creator> "George Flipse" .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#identifier> "nf%201621-15" .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#name> "In het Siuluhuis van Bawomataluwo, Zuid Nias" .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: IN HET HUIS VAN BAWOMATALUWO, Z.NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\nBinnenopname toont een donkere ru" .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#creator> "Rudolf Bonnet" .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#identifier> "nf%201304-9" .
 <https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#name> "Karna" .
 <https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#description> "Kleurenlithografie, rechthoekig, los.\r\n\r\nOnder de afbeelding de naam gedrukt in het Javaans en Latijnse alfabet\r\n\r\nDeze plaat behoort met anderen, allemaal losse platen, tot een boekwerk met het inventarisnummer N7221.\r\nNaast de platen bestaat dit boekwer" .
-<https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
+<https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#creator> "Commissie voor de Volkslectuur" .
 <https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43f0023f879c962ebec3f7db241aab10> <https://colonialcollections.nl/schema#creator> "Topografische Inrichting Batavia" .
 <https://n2t.net/ark:/27023/43b46545b28194fdc0eea01c35dacec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43b46545b28194fdc0eea01c35dacec2> <https://colonialcollections.nl/schema#identifier> "nf%20331-20" .
 <https://n2t.net/ark:/27023/43b46545b28194fdc0eea01c35dacec2> <https://colonialcollections.nl/schema#description> "onderschrift; '3 mei 1925 Pop en Fransje'\r\n\r\nop de achterkant staat geschreven 'Jeanne Knaap, 3 jaar + 2 mnd, Frans Sant 6 1/2 jaar'" .
@@ -77,6 +122,7 @@
 <https://n2t.net/ark:/27023/43c68b6720aae8769c40e5e481a0da0f> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/43c68b6720aae8769c40e5e481a0da0f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43c68b6720aae8769c40e5e481a0da0f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/43c68b6720aae8769c40e5e481a0da0f> <https://colonialcollections.nl/schema#creator> "Velox" .
 <https://n2t.net/ark:/27023/43c9870871627c4873531ab18a346dc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43c9870871627c4873531ab18a346dc0> <https://colonialcollections.nl/schema#identifier> "nf%20842-700" .
 <https://n2t.net/ark:/27023/43c9870871627c4873531ab18a346dc0> <https://colonialcollections.nl/schema#description> "Diapositief, in kleur, ingeraamd, opgeborgen in slede die genummerd is met BF, 01 t/m 36.  Deze slede is opgeborgen in zwarte doos met grijs, moeilijk te openen deksel, gemerkt met BF, 1977, Indonesië reis.\r\n\r\nDe dia is genummerd: in inkt BF 14, in potloo" .
@@ -109,13 +155,6 @@
 <https://n2t.net/ark:/27023/43edf6d1f575d9a9373eb299afef44ea> <https://colonialcollections.nl/schema#inscription> "Tarwaxito" .
 <https://n2t.net/ark:/27023/43edf6d1f575d9a9373eb299afef44ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43edf6d1f575d9a9373eb299afef44ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#identifier> "2016/05/09-2-3" .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#name> "Marine officierssabel model 1843" .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#description> "Sabel in schede (Marine) Marine officierssabel model 1843. Schede is gemodificeerd, mogelijk maar ten dele origineel, kling gemerkt P.Mansvelt en Zoon te ’s Hage + acier fondu coupant le fer. Schede met 1 ophangoog waaraan ketting." .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#inscription> "acier fondu coupant le fer" .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43bc212fabcc987a470b161c52d69902> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43a8531b242b0d1689d16b899669c6a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43a8531b242b0d1689d16b899669c6a3> <https://colonialcollections.nl/schema#identifier> "1991/01/18-2-36" .
 <https://n2t.net/ark:/27023/43a8531b242b0d1689d16b899669c6a3> <https://colonialcollections.nl/schema#name> "Miniatuur peddel" .
@@ -530,36 +569,6 @@
 <https://n2t.net/ark:/27023/43f0610aac8697706733b0819d746906> <https://colonialcollections.nl/schema#description> "Foto. Een Europese vrouw loopt met een baboe en kinderwagen met kind over een zandweg. Langs de weg loopt een greppel en staan jonge bomen. De blanke vrouw draagt een lange witte jurk en een hoed, de baboe een sarong en witte kabaja. Op de achtergrond is " .
 <https://n2t.net/ark:/27023/43f0610aac8697706733b0819d746906> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/43f0610aac8697706733b0819d746906> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#identifier> "S%20409-9" .
-<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#name> "Vue du palais de Buitenzorg, prise du parc" .
-<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#description> "'Vue du palais de Buitenzorg, prise du parc'\r\nAfbeelding uit: 'Vues de Java' / dessinées d'après natures et lithographiées sous la direction de monsieur J.J. van Braam. - Amsterdam : Buffa, [1842]\r\nHerkomst: Java." .
-<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43aaeff18c577bd30c46a690ed1c1b06> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#identifier> "nf%20821" .
-<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#name> "Militaire Societeit, Magelang" .
-<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van de militaire Societeit te Magelang.\r\n\r\nLinks bovenaan op de voorkant staat vermeld: 'Militaire Societeit, Magelang.'\r\nlinksonder in de afbeelding staat het getal '67717'\r\nGedeelde achterkant met bovenaan (in het groen) " .
-<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43adfec256852100e6eec10bcc194a9a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#identifier> "2001/09/24-3-37" .
-<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#name> "Knopgewicht van 2 kati" .
-<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#description> "Gewicht. Knopgewicht van 2 Kati. Haagse Balansen en Gewichten Fabriek. Op de bovenrand: '2 Kati', en jaarletter 'r' (1924). Op het grondvlak: 'H' (fabrieksmerk). Ronde justeeropening in grondvlak." .
-<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43b09fb1cb276da83e0df0b80283838c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#identifier> "2009/04/30-6-4/7" .
-<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#name> "Foto´s Nederlands Indië" .
-<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#description> "Foto´s. 9 stuks. Met betrekking tot Dick Grootherder, Stoottroepen 3e regiment 7 december divisie.\r\nGroepsportret van militairen (waarschijnlijk op kazerne in Nijmegen).\r\nVerso, stempel: George Flipse, Arnhem." .
-<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43d9e5badfa6770e50db31fa166dacfd> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#identifier> "nf%201621-15" .
-<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#name> "In het Siuluhuis van Bawomataluwo, Zuid Nias" .
-<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt op wit karton, het geheel los aangetroffen met vele anderen.\r\n\r\nOp voorkant in blauwe hoofdletters tekst: links: IN HET HUIS VAN BAWOMATALUWO, Z.NIAS, 1930 - rechts FOTO R.BONNET\r\n\r\nBinnenopname toont een donkere ru" .
-<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/43e47d3916a25c6ff21077d39d0feaec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/43a8861472c3298911d1d208d3b7dfd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/43a8861472c3298911d1d208d3b7dfd8> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-41523" .
 <https://n2t.net/ark:/27023/43a8861472c3298911d1d208d3b7dfd8> <https://colonialcollections.nl/schema#description> "Afdeling:\tChina\r\nObjectnaam:\tinktsteen\r\nRubriek:\t(niet ingevoerd)\r\nMateriaal:\thout, steen, inkt\r\n\r\nEmailadres: toelichting:\tRond houten doosje met losse deksel. Daarin van zwart steen een inktsteen.  Deze heeft van boven een achtvormig uitgesneden gat, on" .

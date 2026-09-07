@@ -1,3 +1,18 @@
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/259/2" .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#name> "Pantalon gevechtstenue Nederlands detachement UNIFIL Koninklijke Landmacht" .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#description> "Uniform broek, katoen, groen. Zie voor beschrijving linker bovenzak.\r\n\r\n\r\nIn de tailleband een wit etiket met zwarte tekst:\r\n\r\nZ9R/UN 7/17221/SF\r\n\r\nSIZE S\r\n\r\nWAIST 30  SEAT 40  LEG 31\r\n\r\nSHUI LUNG INDUSTRIAL CO LTD\r\n\r\n1978" .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#inscription> "SHUI LUNG INDUSTRIAL CO LTD" .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#creator> "SHUI LUNG INDUSTRIAL CO LTD" .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#identifier> "1999/00-622" .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#name> "Portret van R.A. Cornelissen, Kolonel der Infanterie KNIL, RMWO-4" .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#description> "Foto. Portret van R.A. Cornelissen, Kolonel der Infanterie KNIL, RMWO-4" .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#creator> "Atelier Jac. van Wijk & Co. Den Haag" .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f55039cf83033b45b0f506810e51948c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f55039cf83033b45b0f506810e51948c> <https://colonialcollections.nl/schema#identifier> "1996/05/03-2-10" .
 <https://n2t.net/ark:/27023/f55039cf83033b45b0f506810e51948c> <https://colonialcollections.nl/schema#name> "Reeden op de Noordkust van Java en Nabijliggende Eilanden, Blad II" .
@@ -5,6 +20,13 @@
 <https://n2t.net/ark:/27023/f55039cf83033b45b0f506810e51948c> <https://colonialcollections.nl/schema#creator> "Departement van Marine" .
 <https://n2t.net/ark:/27023/f55039cf83033b45b0f506810e51948c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f55039cf83033b45b0f506810e51948c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#identifier> "nf%20527-1" .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#name> "bouw van een spoorbrug" .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng" .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#creator> "Fototechnisch-bureau O.M. Luijks, Bandoeng" .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f562b7c6315537224ca245305f0ff1b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f562b7c6315537224ca245305f0ff1b3> <https://colonialcollections.nl/schema#identifier> "1998/04/22-1-7/4" .
 <https://n2t.net/ark:/27023/f562b7c6315537224ca245305f0ff1b3> <https://colonialcollections.nl/schema#name> "Foto \"garoet landschappen\"" .
@@ -12,6 +34,13 @@
 <https://n2t.net/ark:/27023/f562b7c6315537224ca245305f0ff1b3> <https://colonialcollections.nl/schema#creator> "Photoatelier \"Lux\"" .
 <https://n2t.net/ark:/27023/f562b7c6315537224ca245305f0ff1b3> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f562b7c6315537224ca245305f0ff1b3> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#identifier> "1999/02/04-1-4" .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#name> "Plakaat : \"Vrijwillige dienstneming\"" .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#description> "Plakaat : \"Vrijwillige dienstneming\". Oorlogsvrijwilliger \"P. van Lieshout, Eindhoven\". Afm. 45,5 x 29 cm." .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#creator> "P. van Lieshout" .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f5494cf31f99c87ec55f80fa77a32918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f5494cf31f99c87ec55f80fa77a32918> <https://colonialcollections.nl/schema#identifier> "nf%201374-51" .
 <https://n2t.net/ark:/27023/f5494cf31f99c87ec55f80fa77a32918> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, ongekarteld, opgeplakt.\r\n\r\nOpname toont een gezelschap blanke mannen en vrouwen, de mannen in het wit, de dames in donkerder kleuren, zittend in rieten stoelen om twee dito tafeltjes.\r\nDe wanden van de kamer waar men zit zijn druk 'behang" .
@@ -24,6 +53,7 @@
 <https://n2t.net/ark:/27023/f5554612f741e5aa8367cbf0bc3205ea> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/f5554612f741e5aa8367cbf0bc3205ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f5554612f741e5aa8367cbf0bc3205ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/f5554612f741e5aa8367cbf0bc3205ea> <https://colonialcollections.nl/schema#creator> "Kodak" .
 <https://n2t.net/ark:/27023/f55865717ad9827ce63e4840ad6e2ead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f55865717ad9827ce63e4840ad6e2ead> <https://colonialcollections.nl/schema#identifier> "EDO%20622-67" .
 <https://n2t.net/ark:/27023/f55865717ad9827ce63e4840ad6e2ead> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los opgeborgen in zuurvrij kunststof mapje.\r\n\r\nAchterop foto staat in inkt geschreven tekst: 'wat slaperig vanwege 't kijken tegen den zon' \r\n\r\nAfbeelding toont een blanke vrouw, gekleed in een witte jurk, staand ergens in ee" .
@@ -43,13 +73,6 @@
 <https://n2t.net/ark:/27023/f55a8b2dabedcbcbe9b8ed6b0b75d93f> <https://colonialcollections.nl/schema#inscription> "121816003 ELT G.H.O.de Wit" .
 <https://n2t.net/ark:/27023/f55a8b2dabedcbcbe9b8ed6b0b75d93f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f55a8b2dabedcbcbe9b8ed6b0b75d93f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#identifier> "1998/06/01-2-34/259/2" .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#name> "Pantalon gevechtstenue Nederlands detachement UNIFIL Koninklijke Landmacht" .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#description> "Uniform broek, katoen, groen. Zie voor beschrijving linker bovenzak.\r\n\r\n\r\nIn de tailleband een wit etiket met zwarte tekst:\r\n\r\nZ9R/UN 7/17221/SF\r\n\r\nSIZE S\r\n\r\nWAIST 30  SEAT 40  LEG 31\r\n\r\nSHUI LUNG INDUSTRIAL CO LTD\r\n\r\n1978" .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#inscription> "SHUI LUNG INDUSTRIAL CO LTD" .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f535d69e5aadce2e167af4afae47421c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f532437f540b8e2d809c07f3c65d2a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f532437f540b8e2d809c07f3c65d2a2a> <https://colonialcollections.nl/schema#identifier> "1993/04/01-3-1" .
 <https://n2t.net/ark:/27023/f532437f540b8e2d809c07f3c65d2a2a> <https://colonialcollections.nl/schema#name> "Houten broche" .
@@ -548,24 +571,6 @@
 <https://n2t.net/ark:/27023/f5798bba418470afc7e38a88bb182f1d> <https://colonialcollections.nl/schema#description> "Broche, djokja zilver, met gesp." .
 <https://n2t.net/ark:/27023/f5798bba418470afc7e38a88bb182f1d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/f5798bba418470afc7e38a88bb182f1d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#identifier> "1999/00-622" .
-<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#name> "Portret van R.A. Cornelissen, Kolonel der Infanterie KNIL, RMWO-4" .
-<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#description> "Foto. Portret van R.A. Cornelissen, Kolonel der Infanterie KNIL, RMWO-4" .
-<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f5446a9f371961b75010d1b7e0b01d47> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#identifier> "nf%20527-1" .
-<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#name> "bouw van een spoorbrug" .
-<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#description> "Bouw van een spoorbrug\r\nstempel van Foto-technisch bureau C.M. Luijks Bandoeng" .
-<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f557499605d15095a50b444a7d8a354a> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#identifier> "1999/02/04-1-4" .
-<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#name> "Plakaat : \"Vrijwillige dienstneming\"" .
-<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#description> "Plakaat : \"Vrijwillige dienstneming\". Oorlogsvrijwilliger \"P. van Lieshout, Eindhoven\". Afm. 45,5 x 29 cm." .
-<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/f575ac46a5844dc45ced292a10007dca> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/f53379986234c23ecb244a9950c4774d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f53379986234c23ecb244a9950c4774d> <https://colonialcollections.nl/schema#identifier> "nf%20843-116" .
 <https://n2t.net/ark:/27023/f53379986234c23ecb244a9950c4774d> <https://colonialcollections.nl/schema#description> "Opname van oerwoud in golvend heuvelachtig terrein. Zware bewolking erboven, een strip licht ertussen." .

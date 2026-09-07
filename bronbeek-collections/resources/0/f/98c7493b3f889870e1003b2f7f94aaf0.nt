@@ -14,6 +14,7 @@
 <https://n2t.net/ark:/27023/4adc4eef943e8f83b5cedcafd1eb366b> <https://colonialcollections.nl/schema#creator> "Stichting Centraal Bureau Nationale Inspanning Welzijnsverzorging Indië" .
 <https://n2t.net/ark:/27023/4adc4eef943e8f83b5cedcafd1eb366b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4adc4eef943e8f83b5cedcafd1eb366b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4adc4eef943e8f83b5cedcafd1eb366b> <https://colonialcollections.nl/schema#creator> "N.V. Drukkerij De Spaarnestad" .
 <https://n2t.net/ark:/27023/4ac2d15282cdc720bd2ee2f20b81fab9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ac2d15282cdc720bd2ee2f20b81fab9> <https://colonialcollections.nl/schema#identifier> "2000/01/31-1-221" .
 <https://n2t.net/ark:/27023/4ac2d15282cdc720bd2ee2f20b81fab9> <https://colonialcollections.nl/schema#name> "Typoscript De gevechten van het Commando Midden Sumatra, februari/maart 1942.84 pagina's" .
@@ -21,6 +22,20 @@
 <https://n2t.net/ark:/27023/4ac2d15282cdc720bd2ee2f20b81fab9> <https://colonialcollections.nl/schema#creator> "Kapitein infanterie KNIL J.J. Nortier" .
 <https://n2t.net/ark:/27023/4ac2d15282cdc720bd2ee2f20b81fab9> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ac2d15282cdc720bd2ee2f20b81fab9> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/145" .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#name> "S.S. \"Prins der Nederlanden\" te Sabang." .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. S.S. \"Prins der Nederlanden\" te Sabang. Gefarnkeerd. (4 cent), geadresseerd aan den heer H. Kermaas, Pastorie Lochem. Aan bovenzijde geperforeerd door punaises." .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#creator> "Jean Alberti, Sabang" .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/2" .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#name> "Familieportret op achtergalerij te Makassar, 1915-1918" .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"Achtergalerij Makassar 1915-18\". Familieportret, zittend: vader moeder en zoon & dochter. In interieur." .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#creator> "Jau Sie Heng" .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4ad2848c24d2d28bf49c0d6eedf9f937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ad2848c24d2d28bf49c0d6eedf9f937> <https://colonialcollections.nl/schema#identifier> "nf%20694-3" .
 <https://n2t.net/ark:/27023/4ad2848c24d2d28bf49c0d6eedf9f937> <https://colonialcollections.nl/schema#name> "Echtpaar van Batipoe" .
@@ -49,20 +64,28 @@
 <https://n2t.net/ark:/27023/4ae636a0fe49521209a956cd9fcdcc6e> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
 <https://n2t.net/ark:/27023/4ae636a0fe49521209a956cd9fcdcc6e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ae636a0fe49521209a956cd9fcdcc6e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#identifier> "2011/04/11-4/3" .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#name> "Kinderen van Ch.J.L.Muller & N.A. Muller-Teillers op 30 november 1956" .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit.\r\nKinderen van Ch.J.L.Muller & N.A. Muller-Teillers op 30 november 1956, de verjaardag van [?]\r\nHendrik (roepnaam Boy) 21 jaar.\r\nJacky, 19 jaar.\r\nRicaordo (roepnaam Rido), 17 jaar.\r\nDelano (roepnaam Danny), 15 jaar.\r\nErick, 9 jaar.\r\nIlse, " .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#creator> "Foto M. van Uchelen" .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#identifier> "nf%20577-2" .
 <https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#name> "Balinese legong danseres" .
 <https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#description> "Balinese legong danseres   \r\nFoto is afgedrukt als ansichtkaart" .
-<https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/4af243840d84c04e84aae10fbf91b4cb> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#identifier> "nf%201430-12" .
 <https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#description> "Kleinbeeld negatief, zwart/wit, opgeborgen in doorzichtige kunststof envelop.\r\n\r\nOp negatief is het fabrikagenummer 22.\r\n\r\nOpname toont een redelijk aantal inheemse mannen en vrouwen, Papoea's, in twee rijen geknield zittend, tegenover elkaar.\r\nWat hier w" .
-<https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
+<https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#creator> "Ir. M.F. Hofman" .
 <https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
+<https://n2t.net/ark:/27023/4ac038c01a060e0ba8bbbecb039e8a8c> <https://colonialcollections.nl/schema#creator> "Aktien-Gesellschaft für Anilin-Fabrikation" .
 <https://n2t.net/ark:/27023/4ac0b6de800cd5e84b8cb2d7c44f71bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4ac0b6de800cd5e84b8cb2d7c44f71bf> <https://colonialcollections.nl/schema#identifier> "nf%201431-26" .
 <https://n2t.net/ark:/27023/4ac0b6de800cd5e84b8cb2d7c44f71bf> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, opgeborgen in kunststof mapje, bij alle andere nf 1431 foto's.\r\n\r\nOpname toont een oude man zittend op een stenen bank. Hij heeft een witte doek om zijn hoofd geknoopt. Is verder nogal schaars gekleed.\r\n\r\nEr bevindt zich in zijn d" .
@@ -540,24 +563,6 @@
 <https://n2t.net/ark:/27023/4af98819890df9a2a7f0d54e68fedda5> <https://colonialcollections.nl/schema#description> "Foto´s, z/w, periode 1945-1952" .
 <https://n2t.net/ark:/27023/4af98819890df9a2a7f0d54e68fedda5> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/4af98819890df9a2a7f0d54e68fedda5> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#identifier> "2006/10/06-2-1/145" .
-<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#name> "S.S. \"Prins der Nederlanden\" te Sabang." .
-<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. S.S. \"Prins der Nederlanden\" te Sabang. Gefarnkeerd. (4 cent), geadresseerd aan den heer H. Kermaas, Pastorie Lochem. Aan bovenzijde geperforeerd door punaises." .
-<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4ac623220d6d068aa273ce964dd313c4> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#identifier> "2007/09/19-3-3/2" .
-<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#name> "Familieportret op achtergalerij te Makassar, 1915-1918" .
-<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#description> "Foto. Op passepartout. Op achterzijde in pen: \"Achtergalerij Makassar 1915-18\". Familieportret, zittend: vader moeder en zoon & dochter. In interieur." .
-<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4ac6b6140b8aeffc1b6cd95ca44d8293> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
-<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#identifier> "2011/04/11-4/3" .
-<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#name> "Kinderen van Ch.J.L.Muller & N.A. Muller-Teillers op 30 november 1956" .
-<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#description> "Foto. Zwart-wit.\r\nKinderen van Ch.J.L.Muller & N.A. Muller-Teillers op 30 november 1956, de verjaardag van [?]\r\nHendrik (roepnaam Boy) 21 jaar.\r\nJacky, 19 jaar.\r\nRicaordo (roepnaam Rido), 17 jaar.\r\nDelano (roepnaam Danny), 15 jaar.\r\nErick, 9 jaar.\r\nIlse, " .
-<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
-<https://n2t.net/ark:/27023/4aee44ffa44fc1e1f55046ed161b7ba0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/4aba8013b67863043b91811de85a9452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4aba8013b67863043b91811de85a9452> <https://colonialcollections.nl/schema#identifier> "2010/12/02-1-43950" .
 <https://n2t.net/ark:/27023/4aba8013b67863043b91811de85a9452> <https://colonialcollections.nl/schema#description> "Kam" .
